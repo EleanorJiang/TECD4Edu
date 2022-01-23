@@ -1,0 +1,2512 @@
+{
+    "paper_id": "Bronstein_2005",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:01:56.646154Z"
+    },
+    "title": "Parental Predictors of Motivational Orientation in Early Adolescence: A Longitudinal Study",
+    "authors": [
+        {
+            "first": "Phyllis",
+            "middle": [],
+            "last": "Bronstein",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Golda",
+            "middle": [
+                "S"
+            ],
+            "last": "Ginsburg",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Ingrid",
+            "middle": [
+                "S"
+            ],
+            "last": "Herrera",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Using latent variable path analysis with partial least squares (LVPLS), the study examines the pathways between parenting practices and children's motivational orientation toward school work over the transition to middle school. Greater external control and lack of guidance by parents in the 5th-grade year were related to children's poorer academic achievement that year, which in turn predicted a more extrinsic motivational orientation in 7th grade. In contrast, greater parental autonomy-supporting behavior in the 5th-grade year was related to children's higher academic achievement that year, which in turn predicted a more intrinsic motivational orientation in 7th grade. In all instances, children's perceptions of their academic competence mediated the relation between 5th-grade academic performance and 7th-grade motivational orientation.",
+    "pdf_parse": {
+        "paper_id": "Bronstein_2005",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Using latent variable path analysis with partial least squares (LVPLS), the study examines the pathways between parenting practices and children's motivational orientation toward school work over the transition to middle school. Greater external control and lack of guidance by parents in the 5th-grade year were related to children's poorer academic achievement that year, which in turn predicted a more extrinsic motivational orientation in 7th grade. In contrast, greater parental autonomy-supporting behavior in the 5th-grade year was related to children's higher academic achievement that year, which in turn predicted a more intrinsic motivational orientation in 7th grade. In all instances, children's perceptions of their academic competence mediated the relation between 5th-grade academic performance and 7th-grade motivational orientation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Intrinsic and extrinsic motivational orientation appear to play an important role in children's cognitive development. An intrinsic orientation refers to the performance of behaviors that are motivated by interest or enjoyment in the activity itself, whereas an extrinsic orientation refers to the performance of behaviors that are motivated by external rewards or consequences (Rigby et al., 1992) . Researchers consistently have found a significant relation between children's motivational orientation and both learning and academic performance (Ginsburg and Bronstein, 1993; Gottfried, 1990; Grolnick and Ryan, 1989; Harter and Connell, 1984) . Specifically, children whose academic behavior is intrinsically motivated have been found to do better academically (Ginsburg and Bronstein, 1993; Grolnick and Ryan, 1989) , feel more academically competent, and perceive themselves as having greater control over their level of 1 University of Vermont, Burlington, Vermont. 2 Associate Professor, Division of Child and Adolescent Psychiatry, Johns Hopkins University, School of Medicine. Her current research focuses on anxiety and depression in childhood. To whom correspondence should be addressed at Division of Child and Adolescent Psychiatry, Johns Hopkins University, School of Medicine, 600 N. Wolfe St./CMSC 340, Baltimore, Maryland 21287-3325; e-mail: gginsbu@jhmi.edu. academic success (Harter and Connell, 1984) than do children whose academic behavior is motivated primarily by external factors such as monetary reward or threat of punishment. However, because both types of motivation may occur in the same child, depending on individual and contextual factors, it is useful to regard motivational orientation as a continuum-with a tendency more toward one direction than the other-rather than as a simple intrinsic-vs.-extrinsic dichotomy.",
+                "cite_spans": [
+                    {
+                        "start": 378,
+                        "end": 398,
+                        "text": "(Rigby et al., 1992)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 547,
+                        "end": 577,
+                        "text": "(Ginsburg and Bronstein, 1993;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 578,
+                        "end": 594,
+                        "text": "Gottfried, 1990;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 595,
+                        "end": 619,
+                        "text": "Grolnick and Ryan, 1989;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 620,
+                        "end": 645,
+                        "text": "Harter and Connell, 1984)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 764,
+                        "end": 794,
+                        "text": "(Ginsburg and Bronstein, 1993;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 795,
+                        "end": 819,
+                        "text": "Grolnick and Ryan, 1989)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 926,
+                        "end": 927,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1394,
+                        "end": 1420,
+                        "text": "(Harter and Connell, 1984)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "Interest in motivational orientation has led to investigations of environmental influences that may foster its development. A number of laboratory studies have found that aspects of the environment that can be considered controlling rather than autonomy-supporting-such as deadlines, rewards, and surveillance-tend to lower intrinsic motivation by shifting the perceived locus of causality from internal to external (see Ryan, 1985, 1987; Lepper and Greene, 1978, for reviews) . In addition, there is a growing body of research on the role of socializing agents in the development of children's academic motivational orientation, which suggest that parenting style may have an important influence. Early studies by Baumrind (1967 Baumrind ( , 1971 found that preschool children of parents categorized as authoritative (i.e., encouraging children's individuality and open communication, while also exerting control by establishing and enforcing rules) were more self-motivated, achievement-oriented, and sociable in a nursery school setting than were children whose parents were categorized as either authoritarian (emphasizing obedience and conformity) or permissive (making few demands on children and not enforcing rules).",
+                "cite_spans": [
+                    {
+                        "start": 421,
+                        "end": 438,
+                        "text": "Ryan, 1985, 1987;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 439,
+                        "end": 476,
+                        "text": "Lepper and Greene, 1978, for reviews)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 715,
+                        "end": 729,
+                        "text": "Baumrind (1967",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 730,
+                        "end": 747,
+                        "text": "Baumrind ( , 1971",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "More recent studies have found that older children and adolescents whose parents employed a more autonomy-supporting childrearing style, including emphasizing independence over obedience, involving children in decision making, and responding to children's academic behaviors with encouragement, tended to receive higher grades (Dornbusch et al., 1987; Ginsburg and Bronstein, 1993; Grolnick and Ryan, 1989) and to show a more intrinsic motivational orientation (Ginsburg and Bronstein, 1993: Grolnick and Ryan, 1989) . On the other hand, these studies have also found that children whose parents used childrearing approaches characterized by external control, such as dictating children's behavior, or providing high levels of surveillance or extrinsic rewards to motivate academic behavior, tended to show a more extrinsic motivational orientation and poorer academic performance. In addition, children whose parents' behavior toward them was characterized by inattention and lack of guidance in the academic sphere have also tended to receive lower grades (Dornbusch et al., 1987; Ginsburg and Bronstein, 1993) and to show a more extrinsic motivational orientation toward schoolwork (Ginsburg and Bronstein, 1993 )-whereas parental interest and involvement in children's academic and social lives has been found to be related to children's higher academic achievement (Grolnick and Ryan, 1989) and more autonomous appr oach to academic work (Grolnick and Slowiaczek, 1994) .",
+                "cite_spans": [
+                    {
+                        "start": 327,
+                        "end": 351,
+                        "text": "(Dornbusch et al., 1987;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 352,
+                        "end": 381,
+                        "text": "Ginsburg and Bronstein, 1993;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 382,
+                        "end": 406,
+                        "text": "Grolnick and Ryan, 1989)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 461,
+                        "end": 474,
+                        "text": "(Ginsburg and",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 475,
+                        "end": 504,
+                        "text": "Bronstein, 1993: Grolnick and",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 505,
+                        "end": 516,
+                        "text": "Ryan, 1989)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1058,
+                        "end": 1082,
+                        "text": "(Dornbusch et al., 1987;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1083,
+                        "end": 1112,
+                        "text": "Ginsburg and Bronstein, 1993)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1185,
+                        "end": 1214,
+                        "text": "(Ginsburg and Bronstein, 1993",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1370,
+                        "end": 1395,
+                        "text": "(Grolnick and Ryan, 1989)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1443,
+                        "end": 1474,
+                        "text": "(Grolnick and Slowiaczek, 1994)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "Although those studies have shown a consistent picture of the relation between parental behavior and children's motivational orientation and achievement, in each instance, the data were cross-sectional. Thus, it was not possible to consider longer-term effects of socialization or to examine the directionality of the relations that were found-e.g., whether children's previous poor performance in school and low intrinsic motivation might also lead parents to become more controlling. As well, the relations among the child outcomes warrant additional study-in particular, to investigate whether intrinsic motivation is an antecedent or consequence of academic achievement. Finally, the overall developmental process needs to be considered further, regarding whether parenting leads to one outcome via the other-i.e., whether a particular parental style fosters intrinsic motivation which in turn leads to higher achievement, or whether a parental style fosters higher achievement, which then leads children to development a more intrinsic motivational orientation to schoolwork.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "A number of researchers developed path models to address some of these questions. Grolnick and Slowiaczek (1994) examined parenting in relation to children's scores on an autonomous self-regulation questionnaire, which focused on reasons for performing activities such as homework and classwork (e.g., to obtain adult approval, or for the inherent enjoyment of the activity). The authors found that parents' involvement in children's academic and social lives was related to children's autonomous self-regulation, but that self-regulation did not predict achievement. Gottfried et al. (1994 Gottfried et al. ( , 1998 , examining children's' self-reports of academic intrinsic motivation both in verbal subjects (e.g., reading and social studies) and math, found parenting practices to be a concurrent and longitudinal predictor of academic intrinsic motivation; in addition, they found that intrinsic motivation at age nine predicted both intrinsic motivation and achievement at age ten (Gottfried et al., 1994) . However, because there was no measure of achievement at age nine, it was not possible to know the extent to which achievement might also have predicted intrinsic motivation over time. Furthermore, in an earlier study, Gottfried (1990) found that although children's earlier self-reported intrinsic motivation was associated with later achievement across subjects, the strongest associations were between earlier achievement and later intrinsic motivation. Thus, in considering the effects of parenting on children's academic outcomes, there remain some questions concerning the relations among the variables and the directionality of effects.",
+                "cite_spans": [
+                    {
+                        "start": 82,
+                        "end": 112,
+                        "text": "Grolnick and Slowiaczek (1994)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 568,
+                        "end": 590,
+                        "text": "Gottfried et al. (1994",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 591,
+                        "end": 616,
+                        "text": "Gottfried et al. ( , 1998",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 987,
+                        "end": 1011,
+                        "text": "(Gottfried et al., 1994)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1232,
+                        "end": 1248,
+                        "text": "Gottfried (1990)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "In addition, if success in school does promote the development of intrinsic motivation, the question remains as to how that occurs. One possibility is that self-perceptions of academic competence play an important role. Using children's self-report data, Harter and Connell (1984) found that among the four causal models they tested, the one that best fit their data suggested that children's perceived control over the causes of their academic successes and failures influenced achievement, that achievement influenced self-evaluations of competence, and that these self-evaluations influenced motivational orientation. However, because the data were cross-sectional, the question of directionality remained.",
+                "cite_spans": [
+                    {
+                        "start": 255,
+                        "end": 280,
+                        "text": "Harter and Connell (1984)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "The present study, which is a follow-up to an investigation of family factors related to 5th graders' achievement and motivation (Ginsburg and Bronstein, 1993) , represents an attempt to address some of those unresolved questions. We examined both concurrent and longerterm relations among parental behaviors, academic performance, self-perceptions of scholastic competence, and intrinsic/extrinsic motivational orientation. The longitudinal nature of the study allowed us to compare different path models of relations among the variables over time, and thus to consider the possible directionality of effects.",
+                "cite_spans": [
+                    {
+                        "start": 129,
+                        "end": 159,
+                        "text": "(Ginsburg and Bronstein, 1993)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "Furthermore, previous research examining the effects of parenting on children's motivation and achievement has focused mainly on parental behaviors directly related to cognitive stimulation or school issues (Gottfried et al., 1994 (Gottfried et al., , 1998 Grolnick and Slowiaczek, 1994; Leung and Kwan, 1998) . In the present study, other aspects of parenting were considered that might be relevant to children's academic outcomes-specifically, general styles of parental behavior in daily interaction within the familyas well as parental behavior that was specifically in the academic domain. We reasoned that parents' engagement with their children in ways that might enhance independent thinking, problem-solving skills, and self-efficacy in everyday life also might be an important factor in fostering achievement and intrinsic motivation in school.",
+                "cite_spans": [
+                    {
+                        "start": 207,
+                        "end": 230,
+                        "text": "(Gottfried et al., 1994",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 231,
+                        "end": 256,
+                        "text": "(Gottfried et al., , 1998",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 257,
+                        "end": 287,
+                        "text": "Grolnick and Slowiaczek, 1994;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 288,
+                        "end": 309,
+                        "text": "Leung and Kwan, 1998)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "Another important aspect of this study was that it was focused on the adjustment to middle school, based on measures obtained the year before the transition from elementary school and two years after that transition. The middle school years are a particularly important period for the examination of factors related to motivational orientation. Whereas in the primary grades, generally children have one main teacher who knows them well and who monitors their work habits and academic performance, in middle school, they often have different teachers for different subjects, each of whom they see for 1 period per day. Because children in middle school are therefore likely to receive far less overall guidance and attention, internal motivational factors may become more relevant in relation to ongoing school success. Further, as Eccles et al. (1984) pointed out in their review of the effects of school environments on achievement motivation, classrooms in middle schools and junior high schools are generally more formal and teacher-controlled than are those in elementary school, with less opportunity for student choices and responsibility in the learning process. They concluded that a decrease in student autonomy and control in such environments was likely to lead to a decrease in intrinsic motivation. Thus, given those classroom factors during the middle-level school years, parental influences may become especially important in helping children to develop and maintain an intrinsic motivation for learning.",
+                "cite_spans": [
+                    {
+                        "start": 820,
+                        "end": 852,
+                        "text": "Further, as Eccles et al. (1984)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "Based on previous theory and research, it was hypothesized that the following 3 patterns of parental behavior would be both concurrent and long term predictors of children's academic achievement and motivational orientation: external control, lack of guidance, and autonomy support. As discussed above, external control and lack of guidance have been linked in the literature both to poorer academic performance and lower levels of intrinsic motivation for learning, whereas an autonomy-supporting parental style has been linked to higher academic achievement and a more intrinsic motivational orientation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "This style of parenting in relation to children's schoolwork and achievement encompasses a range of behaviors, which may be positive, negative, or neutral in their affective tone. Some of its more obvious forms are directives, demands, surveillance, criticism, and punishment. Promising and providing extrinsic rewards for school performance are also forms of external control, using enticements to induce children to conform to parental wishes. Although these two approaches are very different in their affective valence, the outcomes may be similar. Children whose parents use pressure and coercion to get them to attend to their schoolwork, or offer gifts and contingent rewards to induce them to work harder, may come to believe that schoolwork is aversive-something they have to be forced or enticed to do. In regard to more harshly controlling behaviors, children whose parents are critical and shaming may internalize those messages, and thereby lose confidence in their own abilities (Rigby et al., 1992) -becoming less likely to exert effort in school, or approaching schoolwork in a haphazard way. Doing little or poor schoolwork may also become a means for challenging harsh parental authority, with resulting negative effects on achievement. In these various ways, parental external control may serve to undermine achievement and intrinsic motivation in the academic domain.",
+                "cite_spans": [
+                    {
+                        "start": 992,
+                        "end": 1012,
+                        "text": "(Rigby et al., 1992)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "External Control",
+                "sec_num": null
+            },
+            {
+                "text": "This parental approach includes setting too few guidelines or consequences for children's actions, showing little or no interest in children's schoolwork, and providing little or no encouragement for children to take on challenges and solve problems; it also includes communicating and modeling an external locus of control, so that children receive the message that they won't be able to determine or affect what happens in their lives. This approach is similar in some ways to the permissive style described by Baumrind (1967 Baumrind ( , 1971 in her studies of preschoolers and their parents, which included low control coupled with a fairly high degree of warmth. However, it is more suggestive of the indifferent-uninvolved parenting style proposed by Maccoby and Martin (1983) , which involved laxity and emotional distance, and the lack of structure and low level of interest and involvement in children's lives described by Grolnick and Ryan (1989) .",
+                "cite_spans": [
+                    {
+                        "start": 513,
+                        "end": 527,
+                        "text": "Baumrind (1967",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 528,
+                        "end": 545,
+                        "text": "Baumrind ( , 1971",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 757,
+                        "end": 782,
+                        "text": "Maccoby and Martin (1983)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 932,
+                        "end": 956,
+                        "text": "Grolnick and Ryan (1989)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Lack of Guidance",
+                "sec_num": null
+            },
+            {
+                "text": "Children whose parents tend not to provide guidelines or teach them effective ways to deal with difficulties may not come to understand the necessity for planfulness and self-discipline, and may not develop a sense of mastery in dealing with schoolwork. Children whose parents do not attend to their progress at school may come to feel that the educational process is not important. Children whose parents communicate a sense of powerlessness in determining what happens in their lives may not learn to associate effort with outcomes; they may fail to develop a sense of self-efficacy, and instead may look to outside inducements and consequences as a main source of motivation rather than looking within themselves. Thus, insufficient parental guidance may serve to limit children's possibilities for academic success and forestall the development of intrinsic motivation for learning.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Lack of Guidance",
+                "sec_num": null
+            },
+            {
+                "text": "This approach to parenting may involve practical aspects, such as helping children to learn problem-solving skills, and also psychological aspects, such as encouraging children to develop their own ideas and opinions, and communicating confidence in their abilities (Grolnick and Ryan, 1989; Rigby et al., 1992) . Children whose parents foster independent thinking and the ability to meet challenges with confidence are likely to handle the academic demands of middle school more successfully, and to retain an intrinsic motivational orientation toward schoolwork.",
+                "cite_spans": [
+                    {
+                        "start": 266,
+                        "end": 291,
+                        "text": "(Grolnick and Ryan, 1989;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 292,
+                        "end": 311,
+                        "text": "Rigby et al., 1992)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Autonomy Support",
+                "sec_num": null
+            },
+            {
+                "text": "In terms of the overall developmental process, parental behaviors may have direct effects on motivational orientation, and also indirect effects over time. We hypothesized that the most likely indirect route would be via academic achievement and perceived scholastic competence, based on Gottfried's (1990) finding that the strongest associations were between earlier achievement and later intrinsic motivation, and Harter and Connell's (1984) finding that achievement influenced self-evaluations of competence, which influenced motivational orientation. We reasoned that autonomy-supporting parental behavior would tend to foster achievement, and that higher achieving children would tend to feel more confident of their academic abilities and thus become more intrinsically motivated in dealing with the academic challenges of middle school. Conversely, parental external control and lack of guidance would tend not to foster academic achievement or might undermine it, and lower achieving children would be less likely to perceive themselves as scholastically competent, or to develop an intrinsic motivational orientation. Thus perception of scholastic competence would mediate the relation between achievement and motivational orientation.",
+                "cite_spans": [
+                    {
+                        "start": 288,
+                        "end": 306,
+                        "text": "Gottfried's (1990)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 416,
+                        "end": 443,
+                        "text": "Harter and Connell's (1984)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Autonomy Support",
+                "sec_num": null
+            },
+            {
+                "text": "Participating families were recruited initially from 7 elementary schools in a northern New England school district, as part of a larger project investigating family factors related to children's adjustment to middle school. The sample, which was almost entirely Caucasian, initially included 93 5th-grade children (42 boys and 51 girls) and the parenting adults with whom they lived. Children's ages at the beginning of the study ranged from 9 to 12 years, with a mean of 10.7 years. In the 5th-grade and 7th-grade years, the parenting adults residing with the children at that time (including parents, stepparents, and resident partners who were acting as parental figures) were asked to provide parenting and family environment data. In all, 93 parenting females and 60 parenting males (hereafter referred to as mothers and fathers) agreed to participate. By the 7thgrade year, 87 families still were available to participate in the study. However, because in the 6th grade year 10 of those families had taken part in a parenting intervention that affected subsequent child outcomes, those families were dropped from the present study, which reduced the number in 7th grade to 77.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "The original 93 families represented a wide socioeconomic range, with a mean annual income rating of 3.92 (SD = 2.09) on a 7-point scale ranging from less than $10,000 to over $60,000, with 4 = $30,001 through $40,000. Parents had a mean occupational prestige rating of approximately 6 on the Hollingshead (1975) 9-point scale, a category which includes such occupations as sales managers, dental hygienists, and technicians.",
+                "cite_spans": [
+                    {
+                        "start": 293,
+                        "end": 312,
+                        "text": "Hollingshead (1975)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Families were recruited for the larger project through the schools, by means of a flier that was sent home with all 5th-grade students who had not been categorized by the school as developmentally delayed or emotionally disturbed. Members of the research team then made home visits to families who had expressed interest in response to the notice, to explain the project and obtain informed consent if a family chose to participate. Data from parents and children were collected by trained field workers during multiple home visits to the families in the fall and winter of the 5th-and 7th-grade years; for the 4 families who had left the area by the 7th-grade year, data were collected by phone and mail. Families were paid $100 for their participation in the 5th-grade year, and $25 in the 7th-grade year; children were paid $10 each year. Children's grades and achievement scores were obtained from the school near the end of the 5th and 7th grades.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "As a measure of parental external control in the academic domain, 2 items were taken from a larger interview administered to mothers in the 5th-and 7th-grade years, which reflected pressure on children to do their homework. Data from fathers were not included for these 2 items because fathers reported spending substantially less time with children on a daily basis than did mothers, and also because in a previous study, fathers' directives regarding homework were not found to be significant predictors of children's motivational orientation. The 2 interview variables, labeled Remind and Insist, were \"Approximately what proportion of the time do you remind your child that s/he should do her/his homework?\" and \"Approximately what proportion of the time do you insist that your child do her/his homework?\" Responses were coded on a 5point continuum ranging from 1 = Never or almost never through 5 = Always or almost always, with higher scores reflecting a greater amount of parental surveillance. These items were presumed to tap into an externally-controlling parental style in that they measured the frequency with which parents used directives and close surveillance regarding children's academic behavior.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mothers' Surveillance of Homework",
+                "sec_num": null
+            },
+            {
+                "text": "Additional measures of parental external control, as well as of lack of guidance and autonomy support in the academic domain, were obtained using an instrument created for the previous study (Ginsburg and Bronstein, 1993) . It contains 4 subscales, each of which assesses children's perceptions of the ways their parents respond to their receiving either a good or bad grade in school, with items rated on a 4-point continuum ranging from 1 = very untrue for my parents through 4 = very true for my parents. Parental external control is represented in 2 of the subscales, Negative Control (11 items, e.g., \"They ground me\"; \"They point out other things that I'm doing badly, in other areas of my life\") and Extrinsic Reward (7 items, e.g., \"They give me more allowance\"; \"They offer me a reward, such as money or a present, if I do better next time\"). Negative Control embodies external control in that it includes parental attempts to coerce and shame the child into better school performance. Extrinsic Reward embodies external control in that it reflects a parental tendency to take over the motivating function by providing material incentives and contingent rewards for achievement.",
+                "cite_spans": [
+                    {
+                        "start": 191,
+                        "end": 221,
+                        "text": "(Ginsburg and Bronstein, 1993)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Perceived Parental Reactions to Grades",
+                "sec_num": null
+            },
+            {
+                "text": "Lack of guidance is represented in the subscale labeled Uninvolvement (7 items, e.g., \"They never really look at my grades or report card\"; \"They don't care about it\"). The items in this subscale reflect a perceived parental tendency to be uninterested in children's schooling, and to provide little guidance or encouragement to stimulate children's interest and enhance their possibilities for success. Autonomy-supporting parental behaviors are represented in the subscale labeled Encouragement (6 items, e.g., \"They tell me what a good student I am\"; \"They know I can do well, so they encourage me to try harder\"). The items in this subscale reflect a perceived parental style of reminding children that they are capable of working hard and doing well on their own, suggesting an attempt to foster children's self-confidence and self-motivation in meeting the challenges of academic work. For each of the 4 subscales, item scores were summed to arrive at a total, with higher total scores reflecting a higher level of the perceived behavior pattern. Reliability coefficients (Cronbach's alpha) for the Negative Control, Extrinsic Reward, Uninvolvement, and Encouragement subscales were, respectively 0.91, 0.87, 0.82, and 0.80 in 5th grade and 0.85, 0.62, 0.81, and 0.79 in 7th grade.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Perceived Parental Reactions to Grades",
+                "sec_num": null
+            },
+            {
+                "text": "Measures of general parenting styles of external control, lack of guidance, and autonomy support were obtained by means of a self-report of family functioning (Bloom, 1985) , filled out separately by children and by their parents in the 5th-grade and 7th-grade years, and modified to reflect current rather than past behaviors. The questionnaire consists of 15 five-item subscales, each representing a style of family functioning, with items rated on a 4-point continuum ranging from 1 = very untrue for my family through 4 = very true for my family. For each of the subscales, item scores were summed, with higher total scores reflecting a higher perceived level for that particular style. Although the items actually refer to family characteristics, the measure is also an indicator of parenting, because each of the various subscales represents aspects of family functioning (e.g., rule making, punishment, family decisions) that are determined for the most part by parental attitudes and behaviors.",
+                "cite_spans": [
+                    {
+                        "start": 159,
+                        "end": 172,
+                        "text": "(Bloom, 1985)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Parenting and Family Style",
+                "sec_num": null
+            },
+            {
+                "text": "Five of the 15 subscales were used in the present study: Democratic, Expressiveness, Authoritarian, Laissez-faire, and External Locus of Control. The Democratic and Expressiveness subscales represent a more autonomy-supporting style of behavior. Specifically, the Democratic subscale (e.g., \"Each family member has at least some say in major family decisions\") reflects a style in which parents give weight to children's independent viewpoints about issues involving the family, thereby encouraging them to develop their own opinions and thoughts about solving problems and making decisions. The Expressiveness subscale (e.g., \"Family members feel free to say what is on their minds\") represents a style in which parents allow children to develop their own independent voices, and let them know that their feelings and ideas are valuable and worthy of attention. The Authoritarian subscale (e.g., \"Parents make all of the important decisions in our family\") describes a style in which parents determine all decisions, rules, and punishments, with children's input neither sought or valued. Because it was substantially negatively correlated with the Democratic and Expressiveness subscales in 5th and 7th grades (ps < 0.001), it was included in the analyses with those subscales, but as a reverse indicator of autonomysupporting parenting.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Parenting and Family Style",
+                "sec_num": null
+            },
+            {
+                "text": "The other 2 subscales, Laissez-faire and External Locus of Control (hereafter referred to as External Locus), represent parental lack of guidance. Specifically, the Laissez-faire subscale (e.g., \"Members of our family can get away with almost anything\") suggests that parents are not setting or maintaining any behavioral guidelines or limits for their children, so that children may not learn how to develop their own internal controls. The External Locus subscale (e.g., \"My family feels they have little influence over the things that happen to them)\" reflects a style that communicates a lack of efficacy and the belief that family members cannot be in control of their lives. Parents who score high on this subscale may be neither modeling nor providing sufficient guidance about ways to develop skills, solve problems, and meet life's challenges.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Parenting and Family Style",
+                "sec_num": null
+            },
+            {
+                "text": "Parent(s)' and children's scores on each of these subscales then were combined, by averaging them within each family. This aggregation was done to provide a multiple perspective on parenting behavior (given that both the dependent variable and the 4 subscales measuring parents' responses to grades were solely from the child's point of view), and to maximize the reliability of the measures. Although individual family members may have differing perceptions, numerous researchers have demonstrated that aggregated scores from multiple raters tend to be more reliable than individual scores, and more valid predictors of external criteria (e.g., Horowitz et al., 1979; Rosenthal, 1973; Rushton et al., 1983; Schwarz et al., 1985) . This is true even though correlations among family members' perceptions are often modest, because in aggregating scores across individuals, biases and random errors will tend to cancel out. 3 Reliability coefficients (Cronbach's alpha) for the within-family aggregated Democratic, Expressiveness, Authoritarian, Laissez-faire, and External Locus subscales were, respectively, 0.72, 0.71, 0.69, 0.71, and 0.76 in the 5th-grade year and 0.71, 0.73, 0.80, 0.71, and 0.80 in the 7th-grade year.",
+                "cite_spans": [
+                    {
+                        "start": 646,
+                        "end": 668,
+                        "text": "Horowitz et al., 1979;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 669,
+                        "end": 685,
+                        "text": "Rosenthal, 1973;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 686,
+                        "end": 707,
+                        "text": "Rushton et al., 1983;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 708,
+                        "end": 729,
+                        "text": "Schwarz et al., 1985)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 922,
+                        "end": 923,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Parenting and Family Style",
+                "sec_num": null
+            },
+            {
+                "text": "Grades. To obtain measures of academic performance, children's grades for each subject were averaged over the 4 marking periods in 5th and 7th grade. Subjects each year included math, language, social studies, and science, with reading also included in 5th grade. Averages for each subject were then combined into total grade point averages (GPA) for each year, with a possible range of 0 (F) through 4 (A).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic Performance",
+                "sec_num": null
+            },
+            {
+                "text": "Achievement Scores. The total battery percentile scores on the Stanford Achievement Test (Gardner, 1982; Achievement) were included as additional measures of academic performance in 5th and 7th grade. Data on the measure were not available in 7th grade for several children whose families had moved to school districts that did not administer this achievement battery.",
+                "cite_spans": [
+                    {
+                        "start": 89,
+                        "end": 104,
+                        "text": "(Gardner, 1982;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 105,
+                        "end": 117,
+                        "text": "Achievement)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic Performance",
+                "sec_num": null
+            },
+            {
+                "text": "The Scholastic Competence subscale of the Self-Perception Profile for Children (SPPC; Harter, 1985) was used to measure children's perceptions of their academic competence. The SPPC assesses children's selfperceptions in 6 domains; each domain is represented by a subscale that contains 6 items and four response 3 Preliminary examination of the present data set demonstrated this effect. Although correlations among parents' and children's individual scores on the various family/parenting subscales were modest (averaging 0.29 for mother-father, 0.26 for mother-child, and 0.21 for father-child), aggregated scores across family members were significantly correlated with the child academic-and motivation-related variables three times more often than were fathers' scores, 41% more often than were mothers' scores, and 36% more often than were children's scores. choices, with children asked to indicate which of a pair of opposite statements is \"really\" or \"sort of\" true for them for each item. Subscale scores are obtained by averaging their item scores, with higher totals indicating more positive self-perceptions. On the Scholastic Competence subscale, children were asked to indicate to what extent certain feelings and behaviors related to academic work were true about them; a higher score indicated a greater sense of competence in doing academic work. For the present sample, Cronbach's alpha was 0.82 in 5th grade and 0.87 in 7th grade.",
+                "cite_spans": [
+                    {
+                        "start": 86,
+                        "end": 99,
+                        "text": "Harter, 1985)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Perceived Scholastic Competence",
+                "sec_num": null
+            },
+            {
+                "text": "Harter's (1980) questionnaire, Intrinsic Versus Extrinsic Orientation in the Classroom, was used to assess children's motivational orientation for academic learning. Its 5 subscales, each of which contains an intrinsic and an extrinsic pole, are Preference for Challenge (vs. preference for easy work), Curiosity/Interest (vs. working to please the teacher or to get good grades), Independent Mastery (vs. dependence on the teacher for help), Independent Judgment (vs. reliance on the teacher's judgment), and Internal Criteria for Success/Failure (vs. external criteria, such as the teacher or report card). As in the SPCC, each subscale contains 6 items and 4 responses choices, with children asked to indicate which of a pair of opposite statements is \"really\" or \"sort of\" true for them. Subscale scores are obtained by averaging their item scores, with higher totals indicating a more intrinsic motivational orientation; thus subscale scores represent children's average motivational tendency along an intrinsic-extrinsic continuum. A higher order factor analysis (Harter and Connell, 1984) revealed 2 factors, which formed the basis for 2 composites labeled Intrinsic Mastery Motivation and Autonomous Judgment; they will be referred to here respectively as Mastery and Judgment. Mastery includes the Preference for Challenge, Curiosity/Interest, and Independent Mastery subscales. It is a purely motivational component that describes what children prefer or do in their approach to schoolwork (e.g., \"Some kids read things because they are interested in the subject . . . BUT . . . Other kids read things because the teacher wants them to\"). Judgment includes the Internal Criteria and Independent Judgment subscales. It reflects the extent to which children trust their own opinions and evaluations of their work or whether they rely on others' judgments (e.g., \"Some kids almost always think that what the teacher says is OK. . ..BUT. . .Other kids sometimes think their own ideas are better\"). The Mastery and Judgment composites are included in the present study as in-dicators of motivational orientation in school. Cronbach's alphas for the present sample in 5th and 7th grade were 0.84 and 0.91 for Mastery and 0.74 and 0.84 for Judgment.",
+                "cite_spans": [
+                    {
+                        "start": 1069,
+                        "end": 1095,
+                        "text": "(Harter and Connell, 1984)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Motivational Orientation",
+                "sec_num": null
+            },
+            {
+                "text": "The data analysis involved 4 stages. In the 1st, we calculated descriptive statistics, and ran preliminary bivariate correlations among parent and child measures, to confirm the planned construction of latent variables for the path analyses. In the 2nd, we examined the links between the parenting variables and children's academic performance and motivational orientation in school, using the latent variable path analysis with partial least-squares estimation procedure (LVPLS; Falk and Miller, 1992; J\u00f6reskog and Wold, 1982; Lohmoeller, 1989) . We used structural equation modeling (rather than multiple regression) because it enabled us to examine both the direct and indirect paths linking parenting and child outcomes, and LVPLS because it does not impose some of the restrictive assumptions that underlie maximum likelihood techniques such as LISREL (J\u00f6reskog and S\u00f6rbom, 1985) ; in particular, LVPLS allows for the analysis of more modest sample sizes. In this stage of the analysis, for each of the 3 parenting styles, we tested whether 5th-grade parenting led to 7th-grade motivational orientation via 5th-grade academic performance.",
+                "cite_spans": [
+                    {
+                        "start": 480,
+                        "end": 502,
+                        "text": "Falk and Miller, 1992;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 503,
+                        "end": 527,
+                        "text": "J\u00f6reskog and Wold, 1982;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 528,
+                        "end": 545,
+                        "text": "Lohmoeller, 1989)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 857,
+                        "end": 884,
+                        "text": "(J\u00f6reskog and S\u00f6rbom, 1985)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Plan for Data Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "In the 3rd stage, for each parenting style, we tested an alternative model (e.g., Gottfried et al., 1994) , to see whether it provided an equal or better fit for the data. Specifically, we included 7th-grade academic performance as the dependent variable, and examined whether 5th-grade parenting was linked to it via 5th-grade motivational orientation.",
+                "cite_spans": [
+                    {
+                        "start": 82,
+                        "end": 105,
+                        "text": "Gottfried et al., 1994)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Plan for Data Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "In the 4th stage, we added children's perceptions of their scholastic competence in the 5th grade to the predicted model, to examine its possible mediating effect between academic performance in 5th grade and motivational orientation in 7th. The conditions proposed by Baron and Kenny (1986) to test for mediation can be applied to path modeling (e.g., Dawson et al., 2003; Grych et al., 2003) -i.e., that the independent variable must be significantly associated both with the mediator and the dependent variable, that the mediator must be significantly associated with the dependent variable, and that the effect of the independent variable on the dependent variable must be reduced when the mediator is included in the analysis. ",
+                "cite_spans": [
+                    {
+                        "start": 269,
+                        "end": 291,
+                        "text": "Baron and Kenny (1986)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 353,
+                        "end": 373,
+                        "text": "Dawson et al., 2003;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 374,
+                        "end": 393,
+                        "text": "Grych et al., 2003)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Plan for Data Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Means and standard deviations were calculated for independent and dependent variables for the sample as a whole and separately by child gender. Because there was only one significant gender difference (which presumably occurred by chance), and because there was no evidence from previous research to lead us to expect gender differences in pathways to motivational orientation, child gender was not included as a variable in the remainder of the analyses. Family socioeconomic level was also excluded from further analyses, because it was unrelated to 7th-grade Mastery (r = 0.03). The means and standard deviations for the sample as a whole are presented in Table I .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 659,
+                        "end": 666,
+                        "text": "Table I",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Preliminary Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Correlations between the parenting and child measures are presented in Table II . They revealed that almost all of the parenting measures were significant correlates of academic performance, and a substantial number were significantly related to motivational orientation and perceived scholastic competence. Correlations among the child measures are presented in Table III . They provided support of the planned path model to test whether 5th-grade academic performance leads to 7th-grade motivational orientation; specifically, the correlations between 5th-grade GPA and 7th-grade Mastery and Judgment (0.35 and 0.63) were more substantial than those between 5thgrade Mastery and Judgment and 7th-grade GPA (0.24 and 0.40). In addition, because 5th-grade parental Encouragement was unrelated to 5th-grade and 7th-grade GPA, and 5th-grade Uninvolvement was unrelated to 7th-grade Mastery and Judgment, they were omitted from the path models. Because all but one of the significant correlations were in the predicted direction, probability estimates for them are 1-tailed.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 71,
+                        "end": 79,
+                        "text": "Table II",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 363,
+                        "end": 372,
+                        "text": "Table III",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Preliminary Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "LVPLS procedures were used to test the predicted models of 5th-grade parenting leading to 7th-grade motivational orientation via 5th-grade academic performance. In addition, we included 7th-grade parenting and academic performance, to examine the extent to which they might contribute directly or indirectly to the variance in 7th-grade motivational orientation, and to determine the extent to which children's 5th-grade academic performance might affect 7th-grade parental behaviors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Path Analyses: Initial Predictors of Motivational Orientation in 7th Grade",
+                "sec_num": null
+            },
+            {
+                "text": "In LVPLS, the scores of manifest (i.e., directly measured) variables are combined to create broader constructs or latent variables. The contributions of the manifest variables to a given latent variable are based on weights derived from a principal components analysis using partial least squares estimates. Thus, for example, in the present analyses, measures of 2 different aspects of motivational orientation (Mastery and Judgment) were manifest variables whose combined principal components scores comprised the latent variable Motivational Orientation. Similarly, GPA and Achievement were manifest variables comprising the latent variable Academic Performance, and various direct measures of parenting were manifest variables comprising the broader latent parenting constructs. Whereas latent variables were theoretically determined, the manifest variables that made up each latent variable were included if they operationalized an important aspect of the latent variable, and if they were substantially correlated with one another. In all of the models, we used 2-headed arrows (to indicate bidirectionality) between latent variables measured during the same year, and single-headed arrows to link 5th-with 7th-grade variables. In the interest of parsimony, after the initial LVPLS analyses were run, we eliminated all paths that accounted for less than 10% of the variance between two latent variables, and recalculated the trimmed models (Falk and Miller, 1992) .",
+                "cite_spans": [
+                    {
+                        "start": 1446,
+                        "end": 1469,
+                        "text": "(Falk and Miller, 1992)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Path Analyses: Initial Predictors of Motivational Orientation in 7th Grade",
+                "sec_num": null
+            },
+            {
+                "text": "The 3 models are presented in Figs. 1-3 . Overall, they fit the data very well, using several criteria described by Falk and Miller (1992) . First, as can be seen in each of the figures, for each of the latent variables (ovals), the manifest variables (rectangles) had loadings greater than the recommended minimum of 0.55, indicating that they were substantially related to one another and to the latent construct. Second, the predictor variables all accounted for at least 10% of the total variance, which was a substantially more stringent cut-off than the 1.5% minimum recommended by Falk and Miller, and all coefficients were statistically significant. Third, the amount of variance explained in each latent variable by the preceding variables in the model was well over the 10% minimum that Falk and Miller recommend. Fourth, the measure of goodness of fit, a coefficient representing the root mean square of the covariance between the residuals of the manifest and latent variables (RMS COV [E,U]), confirmed that the models fit the data exceptionally well. A coefficient of 0 would represent a perfect model, 0.1 would indicate an Child variables 7th Mastery 0.70 * * * 5th Judgment 0.44 * * * 0.38 * * * 7th Judgment 0.39 * * * 0.46 * * * 0.64 * * * 5th GPA 0.43 * * * 0.35 * * * 0.56 * * * 0.63 * * * 7th GPA 0.24 * 0.27 * * 0.40 * * * 0.46 * * * 0.68 * * * 5th Achievement 0.42 * * * 0.39 * * * 0.57 * * * 0.53 * * * 0.80 * * * 0.72 * * * 7th Achievement 0.33 * * 0.41 * * * 0.45 * * * 0.53 * * * 0.75 * * * 0.69 * * * 0.89 * * * 5th Scholastic Competence 0.63 * * * 0.72 * * * 0.47 * * * 0.60 * * * 0.53 * * * 0.47 * * * 0.43 * * * 0.54 * * * 7th Scholastic Competence 0.62 * * * 0.74 * * * 0.42 * * * 0.48 * * * 0.44 * * * 0.47 * * * 0.50 * * * 0.52 * * * 0.72 * * *",
+                "cite_spans": [
+                    {
+                        "start": 116,
+                        "end": 138,
+                        "text": "Falk and Miller (1992)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 30,
+                        "end": 39,
+                        "text": "Figs. 1-3",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Path Analyses: Initial Predictors of Motivational Orientation in 7th Grade",
+                "sec_num": null
+            },
+            {
+                "text": "Note. In 5th grade, n = 93; in 7th grade, n = 77. * p \u2264 0.05; * * p \u2264 0.01; * * * p \u2264 0.001. adequate model, and 0.2 would indicate an inadequate model. Our coefficients ranged from 0.03 through 0.05. The results shown in Fig. 1 provide support for the premise that children whose parents in the 5th-grade year tended to use external control (disapproving, pressuring, coercing, and/or offering rewards) in the academic domain, would be likely to do less well academically in 5th grade, and consequently to have a less intrinsic motivational orientation toward schoolwork in 7th grade. It should be noted that the principal components loading for Extrinsic Reward, when it was included originally as a manifest variable with the other parenting measures, was very low; thus we included it as a separate indicator of parental external control. On the other hand, the measures of disapproving, punitive, and coercive behaviors were strongly interrelated, comprising the latent variable labeled Critical Coercive.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 222,
+                        "end": 228,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Path Analyses: Initial Predictors of Motivational Orientation in 7th Grade",
+                "sec_num": null
+            },
+            {
+                "text": "The results in Fig. 2 reveal that children whose parents tended to be low in offering guidance in the 5thgrade year (i.e., providing little structure or consistency in setting and maintaining guidelines, and showing a low sense of internal efficacy) were also likely to do less well academically in 5th grade, and to have a less intrinsic motivational orientation toward schoolwork in 7th grade.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 15,
+                        "end": 21,
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Path Analyses: Initial Predictors of Motivational Orientation in 7th Grade",
+                "sec_num": null
+            },
+            {
+                "text": "On the other hand, the results in Fig. 3 indicate that 5th graders whose parents supported their autonomy by inviting and listening to their opinions and allowing them to have input into family decisions and rule making were more likely to do well academically that year, and to have a more intrinsic motivational orientation 2 years later. It should be noted that in all 3 of the models, the relation between 5th-grade parenting and 7th-grade motivational orientation was indirect (via academic performance), with no significant direct path emerging between parental predictor and motivational outcome. Further, the same indirect pattern occurred for 7th-grade parenting and motivational orientation, in that parenting led to motivational orientation only via academic performance. Finally, in only 1 instance did children's 5th-grade academic performance affect 7th-grade parental behavior; parents whose children did well academically in 5th grade were more likely to support their autonomy development in 7th.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 34,
+                        "end": 40,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Path Analyses: Initial Predictors of Motivational Orientation in 7th Grade",
+                "sec_num": null
+            },
+            {
+                "text": "Alternative models were calculated for comparison purposes, of the effects of 5th-grade parenting on 7th-grade academic achievement via 5th-grade motivational orientation. Although the overall R 2 s were not very different from those for the predicted models, the coefficients for the paths going from 5th-grade motivational orientation to 7th-grade academic performance were very small (0.07, 0.09, and 0.11) and nonsignificant. These coefficients can be compared with those in the predicted models (Figs. 1-3) for the paths going from 5thgrade academic performance to 7th-grade motivational orientation-which were, respectively, 0.57, 0.56, and 0.56. This comparison makes it clear that the models presented in the figures provided a much better fit for the data than did the alternative models.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 500,
+                        "end": 511,
+                        "text": "(Figs. 1-3)",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Path Analyses: Initial Predictors of Motivational Orientation in 7th Grade",
+                "sec_num": null
+            },
+            {
+                "text": "Next we added children's perceived scholastic competence in 5th grade to the initial models, to see if it served as a mediator between academic performance in 5th grade and motivational orientation in 7th (see Figs. 4-6) . Overall, the expanded models fit the data very well using the Falk and Miller (1992) criteria described previously, with the RMS COV (E,U)s in the 0.04-0.05 range. Again, as in the second stage, we eliminated all paths accounting for less than 10% of the variance, and recalculated the trimmed models.",
+                "cite_spans": [
+                    {
+                        "start": 285,
+                        "end": 307,
+                        "text": "Falk and Miller (1992)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 210,
+                        "end": 220,
+                        "text": "Figs. 4-6)",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Mediating Effects of Perceived Scholastic Competence",
+                "sec_num": null
+            },
+            {
+                "text": "The predicted mediating effects of perceived scholastic competence did emerge. In each of the expanded models, 5th-grade academic performance was strongly associated with 5th-grade perceived scholastic competence, which was strongly associated with 7th-grade motivational orientation. On the other hand, consistent with a mediating effect, in the expanded models the coefficients for the direct path between 5th-grade academic performance and 7th-grade motivational orientation were greatly reduced, becoming nonsignificant in one case, and going from 0.56 to 0.22 in each of the others. In addition, the changes in R 2 between the original and expanded models were highly significant. These results suggest that children who do well in school in 5th-grade are likely to feel more academically competent, which over time may lead to their becoming more intrinsically motivated in their approach to learning and schoolwork in middle school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mediating Effects of Perceived Scholastic Competence",
+                "sec_num": null
+            },
+            {
+                "text": "The findings of the present study suggest that parental behaviors may have had long term effects on children's motivational orientation over the transition to middle school. The path models presented here showed Fig. 3 . Path model of parental autonomy support in the 5th-grade year predicting children's motivational orientation in 7th grade, via 5th-grade academic performance.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 212,
+                        "end": 218,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "that 3 types of parental behavior (external control, lack of guidance, and autonomy support) were linked to children's motivational orientation over time; furthermore, those links were mainly indirect, via children's academic performance and self-perceptions of scholastic competence. The latter finding provides support for the Harter and Connell (1984) model, which posited that academic success leads to children's more positive perceptions of their scholastic competence, which then leads them to develop a more intrinsic motivational orientation toward schoolwork-whereas poorer academic performance leads to self-perceptions that are more negative, and to the development of a more extrinsic motivational orientation.",
+                "cite_spans": [
+                    {
+                        "start": 329,
+                        "end": 354,
+                        "text": "Harter and Connell (1984)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Children of parents who exerted external control in the 5th-grade year tended to show a more extrinsic motivational orientation by 7th grade. Mothers who more often prodded their children to do their homework, making sure they completed it, may have diminished their children's sense of responsibility for their own learning, and also conveyed the impression that schoolwork was an onerous task rather than something they might enjoy or choose to do on their own. That kind of parental intervention might have undermined children's interest in schoolwork and impeded their development of academic skills-reflected in a lower level of achievement, a lower estimate of their own competence, and ultimately, a more extrinsic motivational orientation toward schoolwork.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Parental External Control",
+                "sec_num": null
+            },
+            {
+                "text": "In addition, parents' critical and punitive reactions in the 5th-grade year to children's receiving a bad grade, along with the low grade itself, might have tended to increase children's discouragement, so that they expended less effort in doing schoolwork, causing their overall grades to decline. Furthermore, anxiety aroused by the likelihood of parental disapproval or punishment might have impeded learning, resulting in poorer academic performance. It is also possible that some children responded to their parents' criticism and punishment with resistance, expending even less effort in school and thereby causing grades to decline further. Children who were Fig. 4 . Path model of parental external control in the 5th-grade year predicting children's motivational orientation in 7th grade, via 5th-grade academic performance and perceived scholastic competence.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 666,
+                        "end": 672,
+                        "text": "Fig. 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Parental External Control",
+                "sec_num": null
+            },
+            {
+                "text": "doing less well academically tended to feel less able to succeed in that domain, which might have led them to become less intrinsically motivated by 7th grade. Although the findings do not provide information about children's internal reactions to parents' behaviors, they do correspond with those of previous research (Bronstein et al., 1996; Dornbusch et al., 1987) , that punitive, controlling parental behavior was related to poorer academic performance.",
+                "cite_spans": [
+                    {
+                        "start": 319,
+                        "end": 343,
+                        "text": "(Bronstein et al., 1996;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 344,
+                        "end": 367,
+                        "text": "Dornbusch et al., 1987)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "th",
+                "sec_num": "5"
+            },
+            {
+                "text": "Parents who offered or provided rewards for grades, in the form of gifts, special treats, or privileges unrelated to schoolwork, may also have fostered a more extrinsic motivational orientation in their children. Such an approach might have communicated that the main reason for making an effort in school is to gain immediate material rewards-and thereby undermined the satisfactions that might be obtained from skill mastery and academic achievement. This might have served to impair children's development of academic skills, reflected in lower achievement, less confidence in their ability, and ultimately, a more extrinsic motivational orientation toward schoolwork.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "th",
+                "sec_num": "5"
+            },
+            {
+                "text": "It should be noted that although extrinsic reward appears to have been fairly stable over time, its direct link to academic performance was evident in only the 5thgrade. This suggests that other factors may have been more salient to achievement and the development of motivational orientation during the middle school years. It also points to the possibility that the negative relation between extrinsic reward and achievement may have reflected some parents' attempts to improve the performance of 5th graders who were already doing poorly in school. This approach would be in keeping with clinical research that has found the use of contingency rewards to be effective in modifying children's problematic behaviors (McMahon and Wells, 1998) . However, when we computed the correlation between 5th-grade parental Extrinsic Reward and 7th grade GPA for children with GPA's below 3.0 (n = 31), it turned out to be similar to the correlation for the sample as a whole (\u22120.31 and \u22120.37 respectively), which suggests that rewards from parents did not tend to bring about improvement over time for low achieving children. Thus, whereas the use of contingency rewards have proven to be useful for modifying oppositional behavior in clinically referred children, the present findings do not show the same kind of beneficial effect on academic outcomes in a nonclinical sample. 5 . Path model of parental lack of guidance in the 5th-grade year predicting children's motivational orientation in 7th grade, via 5th-grade academic performance and perceived scholastic competence.",
+                "cite_spans": [
+                    {
+                        "start": 717,
+                        "end": 742,
+                        "text": "(McMahon and Wells, 1998)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1370,
+                        "end": 1371,
+                        "text": "5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "th",
+                "sec_num": "5"
+            },
+            {
+                "text": "This kind of parenting was reflected in unclear and infrequently enforced family rules, and a diminished sense of personal efficacy in dealing with the world. Children whose parents set few behavioral guidelines and neither taught nor modeled purposeful, goal-oriented behavior may have been less likely to develop the determination, internal controls, study skills, and confidence that would help them do well in school-and again, poorer school performance and lower sense of competence were associated with the development of a more extrinsic motivational orientation in middle school. It also is not surprising that children from families who tended to view their lives as controlled by external forces might have tended to show a more extrinsic motivational orientation when confronted with the challenges of middle school. The findings are concordant with those of Baumrind's (1967) study of preschoolers, that children of parents who were less effective in running their households and more insecure and lax in their parenting tended to be low in selfcontrol and self-reliance. They also fit well with previous findings that adolescents who viewed their parents as neglectful (i.e., low on acceptance/involvement and strictness/supervision) reported having lower grades and sense of academic competence as well as a more negative orientation toward school than did adolescents whose viewed their parents as authoritative (Lamborn et al., 1991) .",
+                "cite_spans": [
+                    {
+                        "start": 870,
+                        "end": 887,
+                        "text": "Baumrind's (1967)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1427,
+                        "end": 1449,
+                        "text": "(Lamborn et al., 1991)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Parental Lack of Guidance",
+                "sec_num": null
+            },
+            {
+                "text": "Autonomy-supporting parental behavior, which included allowing children to express their ideas and opinions and to participate in family decisions, may have helped develop the capacity for independent thinking and problem solving. These skills may have been carried over to the academic environment, reflected in children's higher academic performance, greater confidence in their academic abilities, and ultimately, a more intrinsically motivated approach to learning and schoolwork. The findings support those of previous research, that a more autonomy-supporting childrearing style was associated with children's receiving higher grades (Dornbusch et al., 1987; Grolnick and Ryan, 1989) , and showing a more intrinsic motivational orientation (Grolnick and Ryan, 1989 ). An additional point worthy of note is that, as shown in Fig. 3 , there was a significant path from 5th-grade academic performance to autonomy-supporting parental behavior in 7th grade, suggesting that parents may have responded to their children's more successful academic performance by treating their ideas and opinions with increased interest and respect as their children became adolescents.",
+                "cite_spans": [
+                    {
+                        "start": 640,
+                        "end": 664,
+                        "text": "(Dornbusch et al., 1987;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 665,
+                        "end": 689,
+                        "text": "Grolnick and Ryan, 1989)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 746,
+                        "end": 770,
+                        "text": "(Grolnick and Ryan, 1989",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 830,
+                        "end": 836,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Parental Autonomy Support",
+                "sec_num": null
+            },
+            {
+                "text": "Path models show the ways in which variance is distributed when the independent variables are considered simultaneously. However, the directionality of relations between any 2 variables measured at fairly close points in time can only be speculative, and in some cases, a convincing argument can be made for a bi-directionality of effects. For example, in the 5th-grade year, parents may have become more controlling and punitive about homework and grades if their children were doing poorly in school. Similarly, parents whose children were doing well may have responded with more autonomy-promoting behaviors in the 5th-grade year, as well as was seen over time in Fig. 3 . In regard to child outcomes, 5th graders who were more confident about their scholastic abilities may have put more effort into their schoolwork, so that they had higher grades and achievement scores. Likewise, a more intrinsic motivational orientation in 7th grade may have led children to put more effort into schoolwork, and thus achieve higher grades. Also, although the alternative models did not confirm the pathways from 5th-grade motivation to 7th-grade achievement, the correlations in Table II suggest that academic performance and intrinsic motivational orientation may be mutually reinforcing. It may be that children who do well in school tend to gain confidence and become more intrinsically motivated, as Harter and Connell (1984) concluded, and that greater intrinsic motivation tends to result in children becoming more invested in their schoolwork, which then may lead to a higher level of achievement, as has been suggested in previous research (Gottfried, 1990; Gottfried et al., 1994) .",
+                "cite_spans": [
+                    {
+                        "start": 1396,
+                        "end": 1421,
+                        "text": "Harter and Connell (1984)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1640,
+                        "end": 1657,
+                        "text": "(Gottfried, 1990;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1658,
+                        "end": 1681,
+                        "text": "Gottfried et al., 1994)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 667,
+                        "end": 673,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1171,
+                        "end": 1179,
+                        "text": "Table II",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Mutuality of Effects",
+                "sec_num": null
+            },
+            {
+                "text": "In summary, the present study provides evidence that parental behavior may affect the development of children's motivational orientation over the transition to middle school by fostering their academic performance and their sense of scholastic competence. These findings have particular import for the middle and high school years, when students are apt to have far less guidance and structure in the school environment than they received throughout the elementary years. Intrinsic motivational factors may come to play a major role both in helping children sustain their interest in school and in preventing school failure and dropout.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to supporting the Harter and Connell (1984) model, the results of this study support Gottfried's (1990) finding that the strongest associations were between earlier achievement and later intrinsic motivation. We have added an important element to these modelsparental behaviors and styles of family interaction. The implications of the current findings are that parents' everyday engagement with their children in ways that encourage independent thinking, problem-solving skills, and selfefficacy may serve to promote achievement and foster intrinsic motivation for academic work. Further, the use of externally controlling behaviors in regard to children's school learning, including pressure, coercion, and shaming as well as contingency rewards and punishment, may serve to impede the development of academic competence and lead to a more extrinsic motivational orientation in educational endeavors.",
+                "cite_spans": [
+                    {
+                        "start": 30,
+                        "end": 55,
+                        "text": "Harter and Connell (1984)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 97,
+                        "end": 115,
+                        "text": "Gottfried's (1990)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "Future longitudinal research might examine children's internal reactions more closely, so that the effects of particular parental behaviors might be better understood. Such research might also include a measure of children's perceived control over the causes of their academic successes and failures which, according to Harter and Connell, plays a key role in influencing children's academic performance. In addition, the relation between motivational orientation and school failure and dropout warrants further study, to see whether an intrinsic motivational orientation might in fact prevent adolescents from leaving school prematurely. From a methodological standpoint, additional perspectives on children's motivational orientation-such as teachers' observations-would help address the limitation of using only children's self-report measures for motivational orientation and perceived academic competence.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "Finally, it would be especially valuable to consider more ethnically diverse samples, from a variety of geographic locales, because the applicability of the present results to other populations has yet to be determined. Research on parenting in relation to adolescent school achievement and academic self-concept has revealed differences among ethnic groups; for example, several studies have found that authoritative parenting was advantageous for Caucasian but not Asian Americans students (Dornbusch et al., 1987; Steinberg et al., 1994) . In future research it will be impor-tant to examine whether these differences are also reflected in the developmental pathways to motivational orientation.",
+                "cite_spans": [
+                    {
+                        "start": 492,
+                        "end": 516,
+                        "text": "(Dornbusch et al., 1987;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 517,
+                        "end": 540,
+                        "text": "Steinberg et al., 1994)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "-2891/05/1200-0559/0 C 2005 Springer Science+Business Media, Inc.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "This research was supported by Public Health Service grant RO1 MH40740 to the first author. We wish to thank the participating families, and the teachers and administrative personnel of the school system in which the study took place, in particular, former assistant superintendent Monica Nelson. We also thank David Howell, Bruce Chalmer, and Philip Cowan for their suggestions regarding the analysis, and Frank Falk and Alan Howard for their guidance in using LVPLS. We are grateful to Mavis Milne and Nancy Yannett for their help with the data collection and processing, Paula Duncan and Barbara Frankowski for their ongoing participation and support in the larger project which provided the data for this study, Susan Crockenberg and Greta Fein for their helpful comments on the manuscript, and Diana St. Louis for her assistance in preparing the figures.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ACKNOWLEDGMENTS",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Baron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kenny",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "J. Pers. Soc. Psychol",
+                "volume": "51",
+                "issue": "",
+                "pages": "1173--1182",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baron, R. M., and Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological research: Conceptual, strate- gic, and statistical considerations. J. Pers. Soc. Psychol. 51: 1173- 1182.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Child care practices anteceding three patterns of preschool behavior",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Baumrind",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1967,
+                "venue": "Gene. Psychol. Monogr",
+                "volume": "75",
+                "issue": "",
+                "pages": "43--88",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baumrind, D. (1967). Child care practices anteceding three patterns of preschool behavior. Gene. Psychol. Monogr. 75: 43-88.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Current patterns of parental authority",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Baumrind",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1971,
+                "venue": "Dev. Psychol. Monogr",
+                "volume": "4",
+                "issue": "",
+                "pages": "1--102",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baumrind, D. (1971). Current patterns of parental authority. Dev. Psy- chol. Monogr. 4: 1-102.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "A factor analysis of self-report measures of family functioning",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Bloom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Fam. Proc",
+                "volume": "24",
+                "issue": "",
+                "pages": "225--239",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bloom, B. L. (1985). A factor analysis of self-report measures of family functioning. Fam. Proc. 24: 225-239.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Family and parenting behaviors predicting middle school adjustment: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Bronstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Duncan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "D'ari",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Pieniadz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Fitzgerald",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Abrams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Frankowski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Franco",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Hunt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Oh",
+                        "middle": [],
+                        "last": "Cha",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Fam. Relat",
+                "volume": "45",
+                "issue": "",
+                "pages": "415--426",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bronstein, P., Duncan, P., D'Ari, A., Pieniadz, J., Fitzgerald, M., Abrams, C. L., Frankowski, B., Franco, O., Hunt, C., and Oh Cha, S. Y. (1996). Family and parenting behaviors predicting middle school adjustment: A longitudinal study. Fam. Relat. 45: 415-426.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Preschool outcomes of children of depressed mothers: Role of maternal behavior, contextual risk, and children's brain activity",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Dawson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Ashman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Panagiotides",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Hessl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Self",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Yamada",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Embry",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Child Dev",
+                "volume": "74",
+                "issue": "",
+                "pages": "1158--1175",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dawson, G., Ashman, S. B., Panagiotides, H., Hessl, D., Self, J., Yamada, E., and Embry, L. (2003). Preschool outcomes of children of de- pressed mothers: Role of maternal behavior, contextual risk, and children's brain activity. Child Dev. 74: 1158-1175.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Intrinsic Motivation and Self Determination in Human Behavior",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Deci, E. L., and Ryan, R. M. (1985). Intrinsic Motivation and Self Determination in Human Behavior. Plenum, New York.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "The support of autonomy and the control of behavior",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "J. Pers. Soc. Psychol",
+                "volume": "56",
+                "issue": "",
+                "pages": "1024--1037",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Deci, E. L., and Ryan, R. M. (1987). The support of autonomy and the control of behavior. J. Pers. Soc. Psychol. 56: 1024- 1037.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "The relation of parenting style to adolescent school performance",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Dornbusch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Ritter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Leiderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Roberts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Fraleigh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Child Dev",
+                "volume": "58",
+                "issue": "",
+                "pages": "1244--1257",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dornbusch, S. M., Ritter, P. L., Leiderman, P. H., Roberts, D. F., and Fraleigh, M. J. (1987). The relation of parenting style to adolescent school performance, Child Dev. 58: 1244-1257.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Grade-related changes in the school environment: Effects on achievement motivation",
+                "authors": [
+                    {
+                        "first": ")",
+                        "middle": [],
+                        "last": "Eccles (parsons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Adler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Advances in Motivation and Achievement",
+                "volume": "3",
+                "issue": "",
+                "pages": "283--331",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles (Parsons), J., Midgley, C., and Adler, T. F. (1984). Grade-related changes in the school environment: Effects on achievement motiva- tion. In J. G. Nicholls (ed.), Advances in Motivation and Achieve- ment, Vol. 3. JAI Press, Greenwich, CT, pp. 283-331.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "A Primer for Soft Modeling",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Falk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Miller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Falk, R. F., and Miller, N. B. (1992). A Primer for Soft Modeling. University of Akron, Akron, OH.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Stanford Achievement Test. Psychological Corporation",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Gardner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gardner, E. F. (1982). Stanford Achievement Test. Psychological Corpo- ration, Harcourt Brace Jovanovich, New York.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Family factors related to children's intrinsic/extrinsic motivational orientation and academic performance",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Ginsburg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Bronstein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Child Dev",
+                "volume": "64",
+                "issue": "",
+                "pages": "1461--1474",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ginsburg, G., and Bronstein, P. (1993). Family factors related to chil- dren's intrinsic/extrinsic motivational orientation and academic per- formance. Child Dev. 64: 1461-1474.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Academic intrinsic motivation in young elementary school children",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "J. Educ. Psychol",
+                "volume": "82",
+                "issue": "3",
+                "pages": "525--538",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gottfried, A. E. (1990). Academic intrinsic motivation in young elemen- tary school children. J. Educ. Psychol. 82(3): 525-538.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Role of parental motivational practices in children's academic intrinsic motivation and achievement",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fleming",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "J. Educ. Psychol",
+                "volume": "86",
+                "issue": "",
+                "pages": "104--113",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gottfried, A. E., Fleming, J. S., and Gottfried, A. W. (1994). Role of parental motivational practices in children's academic intrin- sic motivation and achievement. J. Educ. Psychol. 86: 104- 113.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Role of cognitively stimulating home environment in children's academic intrinsic motivation: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fleming",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Child Dev",
+                "volume": "69",
+                "issue": "",
+                "pages": "1448--1460",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gottfried, A. E., Fleming, J. S., and Gottfried, A. W. (1998). Role of cognitively stimulating home environment in children's academic intrinsic motivation: A longitudinal study. Child Dev. 69: 1448- 1460.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "A prospective investigation of appraisals as mediators of the link between interparental conflict and child adjustment",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Grych",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Harold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Miles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Child Dev",
+                "volume": "74",
+                "issue": "",
+                "pages": "1176--1193",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Grych, J. H., Harold, G. T., and Miles, C. J. (2003). A prospective inves- tigation of appraisals as mediators of the link between interparental conflict and child adjustment. Child Dev. 74: 1176-1193.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Parent styles associated with children's self-regulation and competence in school",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Grolnick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "J. Educ. Psychol",
+                "volume": "81",
+                "issue": "",
+                "pages": "143--154",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Grolnick, W. S., and Ryan, R. M. (1989). Parent styles associated with children's self-regulation and competence in school. J. Educ. Psy- chol. 81: 143-154.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Parents' involvement in children's schooling: A multidimensional conceptualization and motivational model",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Grolnick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Slowiaczek",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Child Dev",
+                "volume": "65",
+                "issue": "",
+                "pages": "237--252",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Grolnick, W. S., and Slowiaczek, M. L. (1994). Parents' involvement in children's schooling: A multidimensional conceptualization and motivational model. Child Dev. 65: 237-252.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "A Scale of Intrinsic Versus Extrinsic Orientation in the Classroom. Manual",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1980). A Scale of Intrinsic Versus Extrinsic Orientation in the Classroom. Manual. University of Denver, Denver, CO.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Manual for the Self-Perception Profile for Children",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1985). Manual for the Self-Perception Profile for Children. University of Denver, Denver, CO.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "A model of children's achievement and related self-perceptions of competence, control, and motivational orientations",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Connell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "The Development of Achievement-Related Cognitions and Behavior",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S., and Connell, J. P. (1984). A model of children's achieve- ment and related self-perceptions of competence, control, and motivational orientations. In J. Nicholls (ed.), The Development of Achievement-Related Cognitions and Behavior. JAI Press, Greenwich, CT.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Four factor index of social status. Unpublished manuscript",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Hollingshead",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1975,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hollingshead, A. B. (1975). Four factor index of social status. Unpub- lished manuscript, Yale University.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "On averaging judges' ratings to increase their correlation with an external criterion",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Horowitz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Inouye",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Siegelman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "J. Consult. Clin. Psychol",
+                "volume": "47",
+                "issue": "",
+                "pages": "453--458",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Horowitz, L. M., Inouye, D., and Siegelman, E. Y. (1979). On averag- ing judges' ratings to increase their correlation with an external criterion. J. Consult. Clin. Psychol. 47: 453-458",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "LISREL-5 Program Manual",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "J\u00f6reskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "S\u00f6rbom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f6reskog, K. G., and S\u00f6rbom, D. (1985). LISREL-5 Program Manual. International Educational Services, Chicago.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Systems Under Indirect Observation: Causality, Structure, Prediction",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "J\u00f6reskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Wold",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f6reskog, K. G., and Wold, H. (1982). Systems Under Indirect Observa- tion: Causality, Structure, Prediction. North Holland, Amsterdam.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Patterns of competence and adjustment among adolescents from authoritative, authoritarian, indulgent, and neglectful families",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Lamborn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Mounts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Steinberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Dornbusch",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Child Dev",
+                "volume": "62",
+                "issue": "",
+                "pages": "1049--1065",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lamborn, S. D., Mounts, N. S., Steinberg, L., and Dornbusch, S. M. (1991). Patterns of competence and adjustment among adolescents from authoritative, authoritarian, indulgent, and neglectful families. Child Dev. 62: 1049-1065.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "The Hidden Costs of Rewards",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Lepper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Greene",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lepper, M. R., and Greene, D. (1978). The Hidden Costs of Rewards. Erlbaum, Hillsdale, NJ.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Parenting styles, motivational orientations, and self-perceived academic competence: A mediational model",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "W L"
+                        ],
+                        "last": "Leung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S F"
+                        ],
+                        "last": "Kwan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Merrill-Palmer Q",
+                "volume": "44",
+                "issue": "",
+                "pages": "1--19",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Leung, P. W. L., and Kwan, K. S. F. (1998). Parenting styles, moti- vational orientations, and self-perceived academic competence: A mediational model. Merrill-Palmer Q. 44: 1-19.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Latent Variable Path Modeling With Partial Least Squares",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Lohmoeller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lohmoeller, J. B. (1989). Latent Variable Path Modeling With Partial Least Squares. Springer-Verlag, New York.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Socialization in the context of the family: Parent-child interaction",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Maccoby",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Martin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Handbook of Child psychology",
+                "volume": "4",
+                "issue": "",
+                "pages": "1--101",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Maccoby, E. E., and Martin, J. (1983). Socialization in the context of the family: Parent-child interaction. In P. H. Mussen (Series Ed.) and E. M. Hetherington (Vol. Ed.), Handbook of Child psychology: Vol. 4. Socialization, Personality, and Social Development, 4th edn. Wiley, New York, pp. 1-101.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Conduct problems",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Mcmahon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Wells",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Treatment of Childhood Disorders",
+                "volume": "",
+                "issue": "",
+                "pages": "111--207",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McMahon, R. J., and Wells, K. C. (1998). Conduct problems. In E. J. Mash, and R. A. Barkley (Eds.), Treatment of Childhood Disorders, 2nd edn. Guilford, New York, pp. 111-207.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Beyond the intrinsic-extrinsic dichotomy: Self-determination in motivation and learning",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Rigby",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Patrick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Motivat. Emotion",
+                "volume": "16",
+                "issue": "3",
+                "pages": "165--185",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rigby, C. S., Deci, E. L., Patrick, B. C., and Ryan, R. M. (1992). Beyond the intrinsic-extrinsic dichotomy: Self-determination in motivation and learning. Motivat. Emotion 16(3): 165-185.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Estimating effective reliabilities in studies that employ judges' ratings",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Rosenthal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1973,
+                "venue": "J. Clin. Psychol",
+                "volume": "29",
+                "issue": "",
+                "pages": "342--345",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenthal, R. (1973). Estimating effective reliabilities in studies that employ judges' ratings. J. Clin. Psychol. 29: 342-345.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Behavioral development and construct validity: The principle of aggregation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Rushton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Brainerd",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Pressley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Psychol. Bull",
+                "volume": "94",
+                "issue": "",
+                "pages": "18--38",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rushton, J. P., Brainerd, C. J., and Pressley, M. (1983). Behavioral development and construct validity: The principle of aggregation. Psychol. Bull. 94: 18-38.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Assessing childrearing behaviors: A comparison of ratings made by mother, father, child and sibling on the CRPBI",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Schwarz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Barton-Henry",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Pruzinsky",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Child Dev",
+                "volume": "56",
+                "issue": "",
+                "pages": "462--479",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schwarz, J. C., Barton-Henry, M. L., and Pruzinsky, T. (1985). As- sessing childrearing behaviors: A comparison of ratings made by mother, father, child and sibling on the CRPBI. Child Dev. 56: 462- 479.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Over-time changes in adjustment and competence among adolescents from authoritative, authoritarian, indulgent, and neglectful families",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Steinberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Lamborn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Darling",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Mounts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Dornbusch",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Child Dev",
+                "volume": "65",
+                "issue": "",
+                "pages": "754--770",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Steinberg, L., Lamborn, S. D., Darling, N., Mounts, N. S., and Dornbusch, S. M. (1994). Over-time changes in adjustment and competence among adolescents from authoritative, authoritar- ian, indulgent, and neglectful families. Child Dev. 65: 754- 770.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Path model of parental external control in the 5th-grade year predicting children's motivational orientation in 7th grade, via 5th-grade academic performance."
+            },
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Path model of parental lack of guidance in the 5th-grade year predicting children's motivational orientation in 7th grade, via 5th-grade academic performance."
+            },
+            "FIGREF2": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Path model of parental autonomy support in the 5th-grade year predicting children's motivational orientation in 7th grade, via 5th-grade academic performance and perceived scholastic competence."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td/><td colspan=\"2\">5th grade</td><td colspan=\"2\">7th grade</td></tr><tr><td>Variable</td><td>M</td><td>S D</td><td>M</td><td>S D</td></tr><tr><td>Remind about homework</td><td>2.91</td><td>1.71</td><td>2.97</td><td>1.66</td></tr><tr><td>Insist about homework</td><td>2.24</td><td>1.64</td><td>2.36</td><td>1.64</td></tr><tr><td>Negative control</td><td>17.46</td><td>7.36</td><td>16.50</td><td>5.70</td></tr><tr><td>Extrinsic reward</td><td>13.41</td><td>5.42</td><td>12.33</td><td>4.39</td></tr><tr><td>Uninvolvement</td><td>9.29</td><td>3.89</td><td>8.65</td><td>2.32</td></tr><tr><td>Encouragement</td><td>19.36</td><td>3.90</td><td>17.90</td><td>3.86</td></tr><tr><td>Democratic</td><td>14.43</td><td>1.83</td><td>14.29</td><td>1.63</td></tr><tr><td>Expressive</td><td>16.12</td><td>1.75</td><td>15.43</td><td>1.91</td></tr><tr><td>Authoritarian</td><td>12.00</td><td>1.91</td><td>11.95</td><td>2.07</td></tr><tr><td>Laissez-faire</td><td>9.36</td><td>1.81</td><td>9.22</td><td>1.61</td></tr><tr><td>External locus of control</td><td>8.96</td><td>2.00</td><td>9.25</td><td>2.11</td></tr><tr><td>Grade point average</td><td>3.07</td><td>0.74</td><td>2.73</td><td>0.99</td></tr><tr><td>Achievement</td><td>64.62</td><td>27.22</td><td>64.76</td><td>29.01</td></tr><tr><td>Mastery</td><td>2.86</td><td>0.51</td><td>2.71</td><td>0.56</td></tr><tr><td>Judgment</td><td>2.58</td><td>0.54</td><td>2.93</td><td>0.56</td></tr><tr><td>Scholastic competence</td><td>2.95</td><td>0.70</td><td>2.92</td><td>0.73</td></tr></table>",
+                "type_str": "table",
+                "text": "Means and Standard Deviations for all Measures"
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td/><td colspan=\"2\">Mastery</td><td colspan=\"2\">Judgment</td><td/><td colspan=\"2\">GPA</td><td colspan=\"2\">Achievement</td><td colspan=\"2\">Scholastic Competence</td></tr><tr><td>Parenting variables</td><td>5th</td><td>7th</td><td>5th</td><td>7th</td><td>5th</td><td/><td>7th</td><td>5th</td><td>7th</td><td>5th</td><td>7th</td></tr><tr><td>5th Remind</td><td>\u22120.10</td><td>\u22120.11</td><td>\u22120.20  *</td><td colspan=\"2\">\u22120.27  *  *  \u22120.38</td><td>*  *  *</td><td colspan=\"4\">\u22120.30  *  *  \u22120.23  *  *  \u22120.28  *  *  \u22120.20  *</td><td>\u22120.26  *  *</td></tr><tr><td>7th Remind</td><td>\u22120.21  *</td><td>\u22120.24  *</td><td>\u22120.22  *</td><td colspan=\"8\">\u22120.31  *  *  \u22120.46  *  *  *  \u22120.49  *  *  *  \u22120.35  *  *  *  \u22120.35  *  *  *  \u22120.43  *  *  *  \u22120.41  *  *  *</td></tr><tr><td>5th Insist</td><td colspan=\"10\">\u22120.23  *  *  \u22120.27  *  *  \u22120.36  *  *  *  \u22120.31  *  *  \u22120.46  *  *  *  \u22120.32  *  *  \u22120.31  *  *  \u22120.32  *  *  \u22120.29  *  *</td><td>\u22120.37  *  *  *</td></tr><tr><td>7th Insist</td><td>\u22120.01</td><td>\u22120.14</td><td>\u22120.20  *</td><td colspan=\"5\">\u22120.27  *  *  \u22120.32  *  *  \u22120.27  *  *  \u22120.22  *</td><td>\u22120.20  *</td><td>\u22120.30  *  *</td><td>\u22120.26  *  *</td></tr><tr><td>5th Negative Control</td><td>\u22120.12</td><td colspan=\"2\">\u22120.28  *  *  \u22120.14</td><td colspan=\"8\">\u22120.29  *  *  \u22120.34  *  *  *  \u22120.43  *  *  *  \u22120.25  *  *  \u22120.49  *  *  *  \u22120.38  *  *  *  \u22120.29  *  *</td></tr><tr><td>7th Negative Control</td><td>\u22120.20  *</td><td>\u22120.03</td><td>\u22120.17</td><td colspan=\"3\">\u22120.27  *  *  \u22120.23  *</td><td colspan=\"3\">\u22120.32  *  *  \u22120.25  *  *  \u22120.22  *</td><td>\u22120.29  *  *</td><td>\u22120.12</td></tr><tr><td>5th Extrinsic Reward</td><td>\u22120.10</td><td>0.04</td><td colspan=\"8\">\u22120.36  *  *  *  \u22120.27  *  *  \u22120.40  *  *  *  \u22120.37  *  *  *  \u22120.44  *  *  *  \u22120.39  *  *  *  \u22120.04</td><td>\u22120.18</td></tr><tr><td>7th Extrinsic Reward</td><td>\u22120.09</td><td>\u22120.18</td><td colspan=\"8\">\u22120.36  *  *  *  \u22120.50  *  *  *  \u22120.40  *  *  *  \u22120.31  *  *  \u22120.38  *  *  *  \u22120.42  *  *  *  \u22120.23  *</td><td>\u22120.24  *</td></tr><tr><td>5th Uninvolvement</td><td>\u22120.01</td><td>\u22120.00</td><td colspan=\"2\">\u22120.23  *  *  \u22120.18</td><td colspan=\"5\">\u22120.29  *  *  \u22120.28  *  *  \u22120.26  *  *  \u22120.24  *</td><td>\u22120.13</td><td>\u22120.16</td></tr><tr><td>7th Uninvolvement</td><td>\u22120.02</td><td>0.01</td><td>\u22120.10</td><td>\u22120.22  *</td><td colspan=\"4\">\u22120.33  *  *  \u22120.30  *  *  \u22120.24  *</td><td colspan=\"2\">\u22120.33  *  *  \u22120.13</td><td>\u22120.03</td></tr><tr><td>5th Encouragement</td><td>0.18  *</td><td>0.30  *  *</td><td>0.05</td><td>0.17</td><td>\u22120.03</td><td/><td>\u22120.07</td><td>\u22120.25 a</td><td>\u22120.02</td><td>0.23  *</td><td>0.27  *  *</td></tr><tr><td>7th Encouragement</td><td>0.39  *  *  *</td><td>0.29  *  *</td><td>0.18</td><td>0.13</td><td colspan=\"2\">0.24  *</td><td>0.24  *</td><td>0.32  *  *</td><td>0.18</td><td>0.22  *</td><td>0.28  *  *</td></tr><tr><td>5th Democratic</td><td>0.19  *</td><td>0.12</td><td>0.12</td><td>0.18</td><td colspan=\"2\">0.19  *</td><td>0.15</td><td>0.25  *  *</td><td>0.11</td><td>0.27  *  *</td><td>0.21  *</td></tr><tr><td>7th Democratic</td><td>0.24  *</td><td>0.22  *</td><td>0.17</td><td>0.12</td><td colspan=\"2\">0.22  *</td><td>0.17</td><td>0.19  *</td><td>0.25  *</td><td>0.36  *  *  *</td><td>0.24  *</td></tr><tr><td>5th Expressiveness</td><td>0.19  *</td><td>0.19  *</td><td>0.13</td><td>0.15</td><td>0.15</td><td/><td>0.17</td><td>0.19  *</td><td>0.21  *</td><td>0.26  *  *</td><td>0.25  *  *</td></tr><tr><td>7th Expressiveness</td><td>0.31  *  *</td><td>0.32  *  *</td><td>0.29  *  *</td><td>0.26  *  *</td><td colspan=\"2\">0.32  *  *</td><td>0.32  *  *</td><td>0.41  *  *  *</td><td>0.42  *  *  *</td><td>0.29  *  *</td><td>0.21  *</td></tr><tr><td>5th Authoritarian</td><td>\u22120.08</td><td>\u22120.27  *  *</td><td>\u2212.12</td><td>\u22120.24  *</td><td colspan=\"2\">\u22120.19  *</td><td>\u22120.23  *</td><td>\u22120.19  *</td><td>\u22120.24  *</td><td>\u2212.29  *  *</td><td>\u2212.28  *  *</td></tr><tr><td>7th Authoritarian</td><td colspan=\"2\">\u22120.30  *  *  \u22120.23  *</td><td>\u22120.22  *</td><td>\u22120.12</td><td colspan=\"3\">\u22120.25  *  *  \u22120.23  *</td><td colspan=\"2\">\u22120.32  *  *  \u22120.18</td><td>\u2212.33  *  *</td><td>\u2212.25  *  *</td></tr><tr><td>5th Laissez -Faire</td><td>\u22120.10</td><td>0.02</td><td>\u22120.14</td><td>\u22120.20  *</td><td colspan=\"5\">\u22120.25  *  *  \u22120.29  *  *  \u22120.27  *  *  \u22120.28  *  *</td><td>\u2212.04</td><td>\u2212.12</td></tr><tr><td>7th Laissez -Faire</td><td>0.11</td><td>0.06</td><td>\u22120.10</td><td>\u22120.21  *</td><td colspan=\"2\">\u22120.25  *</td><td colspan=\"2\">\u22120.30  *  *  \u22120.21  *</td><td>\u22120.25  *</td><td>.06</td><td>.04</td></tr><tr><td>5th External Control</td><td colspan=\"10\">\u22120.32  *  *  *  \u22120.30  *  *  \u22120.37  *  *  *  \u22120.38  *  *  *  \u22120.50  *  *  *  \u22120.48  *  *  *  \u22120.46  *  *  *  \u2212.37  *  *  *  \u2212.36  *  *  *</td><td>\u2212.30  *  *</td></tr><tr><td>7th External Control</td><td colspan=\"2\">\u22120.26  *  *  \u22120.19  *</td><td colspan=\"8\">\u22120.28  *  *  \u22120.31  *  *  \u22120.45  *  *  *  \u22120.49  *  *  *  \u22120.42  *  *  *  \u22120.44  *  *  *  \u2212.26  *  *</td><td>\u2212.17</td></tr></table>",
+                "type_str": "table",
+                "text": "Correlations of Parental Behaviors With Child Outcomes for 5th and 7th Grades"
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td/><td/><td/><td/><td/><td/><td/><td/><td colspan=\"2\">Scholastic</td></tr><tr><td colspan=\"2\">Mastery</td><td colspan=\"2\">Judgment</td><td>GPA</td><td/><td colspan=\"2\">Achievement</td><td colspan=\"2\">Competence</td></tr><tr><td>5th</td><td>7th</td><td>5th</td><td>7th</td><td>5th</td><td>7th</td><td>5th</td><td>7th</td><td>5th</td><td>7th</td></tr></table>",
+                "type_str": "table",
+                "text": "Correlations Among Child Outcomes for 5th and 7th Grades"
+            },
+            "TABREF3": {
+                "num": null,
+                "content": "<table><tr><td>DEMOCRATIC</td><td>.84</td><td/><td/><td/><td>.81</td><td>DEMOCRATIC</td></tr><tr><td/><td/><td>AUTONOMY</td><td>.49</td><td>AUTONOMY</td><td/></tr><tr><td>EXPRESSIVE</td><td>.85</td><td>SUPPORT</td><td/><td>SUPPORT</td><td>.86</td><td>EXPRESSIVE</td></tr><tr><td/><td>-.76</td><td/><td/><td/><td>-.72</td></tr><tr><td colspan=\"2\">AUTHORITARIAN</td><td/><td/><td/><td colspan=\"2\">AUTHORITARIAN</td></tr><tr><td/><td/><td>.34</td><td>.27</td><td>.41</td><td/></tr><tr><td>GPA</td><td>.94</td><td/><td/><td/><td>.90</td><td>GPA</td></tr><tr><td/><td/><td>ACADEMIC</td><td>.86</td><td>ACADEMIC</td><td/></tr><tr><td>ACHIEVEMENT</td><td>.95</td><td>PERFORMANCE</td><td/><td>PERFORMANCE</td><td>.93</td><td>ACHIEVEMENT</td></tr><tr><td/><td/><td/><td>.56</td><td>.53</td><td/></tr><tr><td/><td/><td/><td/><td/><td>.78</td><td>MASTERY</td></tr><tr><td>R 2 = .35</td><td/><td/><td/><td>MOTIVATIONAL</td><td/></tr><tr><td colspan=\"2\">F (4, 72) = 9.72 p &lt; .001</td><td/><td/><td>ORIENTATION</td><td>.90</td><td>JUDGMENT</td></tr></table>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF6": {
+                "num": null,
+                "content": "<table><tr><td>.84</td><td/><td/><td>.81</td></tr><tr><td/><td/><td>.58</td><td/></tr><tr><td>.85</td><td/><td/><td>.85</td></tr><tr><td>-.76</td><td/><td/><td>-.72</td></tr><tr><td/><td>.34</td><td/><td>.40</td></tr><tr><td>.94</td><td/><td/><td>.90</td></tr><tr><td/><td/><td>.86</td><td/></tr><tr><td>.95</td><td/><td/><td>.93</td></tr><tr><td>R 2 = .60</td><td>.57</td><td>.22</td><td>.51</td></tr><tr><td>F (5, 71) = 21.30</td><td/><td/><td/></tr><tr><td>p &lt; .001</td><td/><td/><td>.87</td></tr><tr><td/><td/><td>.64</td><td/></tr><tr><td>R 2 Change:</td><td/><td/><td>.83</td></tr><tr><td>F (1, 71) = 44.64</td><td/><td/><td/></tr><tr><td>p &lt; .001</td><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": ""
+            }
+        }
+    }
+}

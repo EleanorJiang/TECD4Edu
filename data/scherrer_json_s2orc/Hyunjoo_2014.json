@@ -1,0 +1,3798 @@
+{
+    "paper_id": "Hyunjoo_2014",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:05:40.118072Z"
+    },
+    "title": "Korean adolescents' longitudinal change of intrinsic motivation in learning English and mathematics during secondary school years: Focusing on gender difference and school characteristics",
+    "authors": [
+        {
+            "first": "Hyunjoo",
+            "middle": [],
+            "last": "Lee",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Myongji University",
+                "location": {
+                    "settlement": "Seoul",
+                    "country": "South Korea"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Yongnam",
+            "middle": [],
+            "last": "Kim",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Wisconsin at Madison",
+                "location": {
+                    "settlement": "Madison",
+                    "region": "WI",
+                    "country": "USA"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The purpose of the study was to investigate adolescents' longitudinal development of intrinsic motivation in learning English and mathematics, focusing on gender differences and school characteristics. We used the fiveyear panel data of the Korea Education Longitudinal Study (KELS) from middle school 7th grade to high school 11th grade. English intrinsic motivation decreased during the middle school years but increased during high school years whereas math intrinsic motivation continually decreased across the whole of the years. Gender differences by subject existed in intrinsic motivations: girls' higher intrinsic motivation in English and boys' higher intrinsic motivation in math; boys' faster decrease in intrinsic motivations during middle school years; boys' slower increase in English intrinsic motivation during high school years. School characteristics only had an effect on intrinsic motivations for high school students: higher math intrinsic motivation of high schools in smallmedium cities; higher intrinsic motivations of students on elite academic tracks.",
+    "pdf_parse": {
+        "paper_id": "Hyunjoo_2014",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The purpose of the study was to investigate adolescents' longitudinal development of intrinsic motivation in learning English and mathematics, focusing on gender differences and school characteristics. We used the fiveyear panel data of the Korea Education Longitudinal Study (KELS) from middle school 7th grade to high school 11th grade. English intrinsic motivation decreased during the middle school years but increased during high school years whereas math intrinsic motivation continually decreased across the whole of the years. Gender differences by subject existed in intrinsic motivations: girls' higher intrinsic motivation in English and boys' higher intrinsic motivation in math; boys' faster decrease in intrinsic motivations during middle school years; boys' slower increase in English intrinsic motivation during high school years. School characteristics only had an effect on intrinsic motivations for high school students: higher math intrinsic motivation of high schools in smallmedium cities; higher intrinsic motivations of students on elite academic tracks.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "During adolescence, middle and high school students undergo important developmental changes in multiple aspects. In particular, motivational development in adolescence critically influences students' future learning and career decisions for adulthood since adolescents tend to make their educational and vocational plans based on their intrinsic motivation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "A large body of research on motivation accumulated in the field of education has reported the positive relation of intrinsic motivation with achievement, task value, and task enjoyment (e.g. Barrett, Barile, Malm, & Weaver, 2012; Eccles & Wigfield, 1995; Gottfried, 1985) . However, a relatively few longitudinal studies have been conducted with regard to adolescents' motivational development in different academic subjects (Brockelman, 2009; Deci, Vallerand, Pelletier, & Ryan, 1991; Otis, Grouzet, & Pelletier, 2005) . Moreover, the few existing longitudinal studies on motivation were based on small samples from Western cultures, making it hard to generalize their findings to Asian students. In order to overcome the limits of previous studies, the current study conducted a longitudinal investigation of developmental trends in intrinsic motivation for different subjects during secondary school years, using a large national representative sample of adolescents in Korea. More specifically, this study sought to chart the changes in motivation that occur over time for English and math and for gender with considering various school characteristics, and explain the changes based on the cultural context of Korea.",
+                "cite_spans": [
+                    {
+                        "start": 191,
+                        "end": 229,
+                        "text": "Barrett, Barile, Malm, & Weaver, 2012;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 230,
+                        "end": 254,
+                        "text": "Eccles & Wigfield, 1995;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 255,
+                        "end": 271,
+                        "text": "Gottfried, 1985)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 425,
+                        "end": 443,
+                        "text": "(Brockelman, 2009;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 444,
+                        "end": 485,
+                        "text": "Deci, Vallerand, Pelletier, & Ryan, 1991;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 486,
+                        "end": 519,
+                        "text": "Otis, Grouzet, & Pelletier, 2005)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "The cultural context has been suggested as an important factor in understanding students' learning and motivation. For example, even though Asian students have shown high academic achievement in international academic assessments such as PISA (Programmed for International Student Assessment) and TIMMS (the Trends in International Mathematics and Science Study), their level of intrinsic motivations appeared to be significantly lower than students from Western countries (Mullis, Martin, & Foy, 2012; OECD, 2007 OECD, , 2013 . This phenomenon of Asian students' low intrinsic motivation but high achievement is remarkable because research on motivation has suggested that higher intrinsic motivation leads to higher achievement (Schiefele, Krapp, & Winteler, 1992; Schunk, Pintrich, & Meece, 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 473,
+                        "end": 502,
+                        "text": "(Mullis, Martin, & Foy, 2012;",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 503,
+                        "end": 513,
+                        "text": "OECD, 2007",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 514,
+                        "end": 526,
+                        "text": "OECD, , 2013",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 730,
+                        "end": 766,
+                        "text": "(Schiefele, Krapp, & Winteler, 1992;",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 767,
+                        "end": 799,
+                        "text": "Schunk, Pintrich, & Meece, 2008)",
+                        "ref_id": "BIBREF56"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cultural aspects and intrinsic motivation",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "These differences may be due to the very competitive educational atmosphere and strict norm-based evaluation in Korean and Japanese schools where students' academic performance, especially in math, science, and English, is the most important factor for college entrance and employment after graduation (Hyun, Lee, & Lee, 2000; Rohlen, 1983; Stevenson & Baker, 1992) . Such school environment makes students study and achieve more for extrinsic reason such as future success (Tauer & Harackiewicz, 1999; Tyler, Wade Boykin, & Walton, 2006) ",
+                "cite_spans": [
+                    {
+                        "start": 302,
+                        "end": 326,
+                        "text": "(Hyun, Lee, & Lee, 2000;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 327,
+                        "end": 340,
+                        "text": "Rohlen, 1983;",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 341,
+                        "end": 365,
+                        "text": "Stevenson & Baker, 1992)",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 474,
+                        "end": 502,
+                        "text": "(Tauer & Harackiewicz, 1999;",
+                        "ref_id": "BIBREF64"
+                    },
+                    {
+                        "start": 503,
+                        "end": 538,
+                        "text": "Tyler, Wade Boykin, & Walton, 2006)",
+                        "ref_id": "BIBREF67"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cultural aspects and intrinsic motivation",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "Previous studies consistently reported that intrinsic motivation, academic interest and positive self-concept decline for most students as they advance through elementary and secondary school years in various cultures such as in North America (Gottfried, Fleming, & Gottfried, 2001; Harter, 1981; Otis et al., 2005) , Germany (Baumert & K\u00f6ller, 1998; Frenzel, Goetz, Pekrun, & Watt, 2010) , China (Shi et al., 2001; Wang & Pomerantz, 2009) , and Korea (Lee, Kim, & Boo, 2007; Lee, Kwon, & Shin, 2013) . The decline of motivation has been explained by the transitions to middle and high school (Anderman & Maehr, 1994; Eccles, 2004; Lee & Smith, 2001 ). As students' grade level goes up, secondary schools become larger and more bureaucratic, place a greater emphasis on performance goals rather than mastery goals, have stricter grading criteria using norm referred tests, and see a decrease in interaction and feedback between teachers and students. All these factors in turn lead to the decline in students' motivation (Leaper, Farkas, & Brown, 2012; Stoyanova & Hope, 2012; Thompson, Woodward, & Stanton, 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 243,
+                        "end": 282,
+                        "text": "(Gottfried, Fleming, & Gottfried, 2001;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 283,
+                        "end": 296,
+                        "text": "Harter, 1981;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 297,
+                        "end": 315,
+                        "text": "Otis et al., 2005)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 326,
+                        "end": 350,
+                        "text": "(Baumert & K\u00f6ller, 1998;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 351,
+                        "end": 388,
+                        "text": "Frenzel, Goetz, Pekrun, & Watt, 2010)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 397,
+                        "end": 415,
+                        "text": "(Shi et al., 2001;",
+                        "ref_id": "BIBREF59"
+                    },
+                    {
+                        "start": 416,
+                        "end": 439,
+                        "text": "Wang & Pomerantz, 2009)",
+                        "ref_id": "BIBREF70"
+                    },
+                    {
+                        "start": 452,
+                        "end": 475,
+                        "text": "(Lee, Kim, & Boo, 2007;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 476,
+                        "end": 500,
+                        "text": "Lee, Kwon, & Shin, 2013)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 593,
+                        "end": 617,
+                        "text": "(Anderman & Maehr, 1994;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 618,
+                        "end": 631,
+                        "text": "Eccles, 2004;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 632,
+                        "end": 649,
+                        "text": "Lee & Smith, 2001",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1021,
+                        "end": 1052,
+                        "text": "(Leaper, Farkas, & Brown, 2012;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 1053,
+                        "end": 1076,
+                        "text": "Stoyanova & Hope, 2012;",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 1077,
+                        "end": 1113,
+                        "text": "Thompson, Woodward, & Stanton, 2011)",
+                        "ref_id": "BIBREF65"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Changes in intrinsic motivation during adolescence",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "Many researchers agree that interest and self-efficacy related to intrinsic motivation are domain-specific constructs (Marsh, 1992; Schiefele, 1991; Schunk & Zimmerman, 2006) . In other words, the overall level and the development pattern of interest and motivation will be different depending on the subject. For instance, Wolters and Pintrich (1998) found that 7th and 8th graders tend to place greater value in math than English and social science. Another study reported that children's perceived value of language arts rapidly declines during the elementary school years and their perceived value of mathematics declines during the high school years (Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002) . In many Asian countries including Korea, both of English and math are important subjects for students' successful college entrance (Choi & Kim, 2013) . However, students also learn English as second language for leisure goals such as traveling abroad and communicating with people from different cultures (Gardner, 2010) . Due to such additional instrumental value of learning English for leisure, English intrinsic motivation could decrease less compared to math intrinsic motivation.",
+                "cite_spans": [
+                    {
+                        "start": 118,
+                        "end": 131,
+                        "text": "(Marsh, 1992;",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 132,
+                        "end": 148,
+                        "text": "Schiefele, 1991;",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 149,
+                        "end": 174,
+                        "text": "Schunk & Zimmerman, 2006)",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 324,
+                        "end": 351,
+                        "text": "Wolters and Pintrich (1998)",
+                        "ref_id": "BIBREF73"
+                    },
+                    {
+                        "start": 655,
+                        "end": 704,
+                        "text": "(Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 838,
+                        "end": 856,
+                        "text": "(Choi & Kim, 2013)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1012,
+                        "end": 1027,
+                        "text": "(Gardner, 2010)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Changes in intrinsic motivation during adolescence",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "A large body of studies has reported that motivation level changes do vary with gender. For example, recent studies based on Singaporean students reported that girls' intrinsic motivation decreased more rapidly as they got older compared to boys (Price & Yates, 2010; Yeung, Lau, & Nie, 2011) . Other studies found that the intrinsic motivation related variables such as self-efficacy, self-esteem, and self-concepts also decreased rapidly for North American girls as they grew older (Eccles et al., 1983) . These differences in motivational development trends by subjects may be further magnified by gender, especially in the specific gender dominant domains such as language and math. The gender differences in motivation are affected by the various socialization processes and learning environments that imply specific subjects are masculine or feminine, which could discourage students from engaging in opposite sex domains (Aronson & Steele, 2005; Kahle & Meece, 1994; Ullman, 2010) . In fact, as adolescents get older and gain a clearer concept of gender roles, their interest in different subjects is affected by their perceived gender role. For example, girls tend to have lower levels of intrinsic motivation in STEM (Science, Technology, Engineering, and Mathematics), whereas they tend to show a higher level of interest in language compared to boys (Fouad et al., 2010; MacCallum & Kim, 2000; Meece, Glienke, & Burg, 2006) .",
+                "cite_spans": [
+                    {
+                        "start": 246,
+                        "end": 267,
+                        "text": "(Price & Yates, 2010;",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 268,
+                        "end": 292,
+                        "text": "Yeung, Lau, & Nie, 2011)",
+                        "ref_id": "BIBREF74"
+                    },
+                    {
+                        "start": 484,
+                        "end": 505,
+                        "text": "(Eccles et al., 1983)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 928,
+                        "end": 952,
+                        "text": "(Aronson & Steele, 2005;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 953,
+                        "end": 973,
+                        "text": "Kahle & Meece, 1994;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 974,
+                        "end": 987,
+                        "text": "Ullman, 2010)",
+                        "ref_id": "BIBREF68"
+                    },
+                    {
+                        "start": 1361,
+                        "end": 1381,
+                        "text": "(Fouad et al., 2010;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1382,
+                        "end": 1404,
+                        "text": "MacCallum & Kim, 2000;",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 1405,
+                        "end": 1434,
+                        "text": "Meece, Glienke, & Burg, 2006)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Gender differences and changes in intrinsic motivation",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "These phenomena have also been reported in different cultures such as Germany (Marsh, Trautwein, Ludtke, Koller, & Baumert, 2005) , Australia (Watt et al., 2012) , and Korea (Lee et al., 2007) . These differences in specific gender-dominant subjects could be especially greater in Asian cultures where traditional Confucian beliefs emphasize the distinct gender roles (Watson, Quatman, & Edler, 2002) . In sum, it seems necessary to investigate the changes in intrinsic motivation during adolescence with both gender and subject simultaneously considered with cultural peculiarities within the international context.",
+                "cite_spans": [
+                    {
+                        "start": 78,
+                        "end": 129,
+                        "text": "(Marsh, Trautwein, Ludtke, Koller, & Baumert, 2005)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 142,
+                        "end": 161,
+                        "text": "(Watt et al., 2012)",
+                        "ref_id": "BIBREF72"
+                    },
+                    {
+                        "start": 174,
+                        "end": 192,
+                        "text": "(Lee et al., 2007)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 368,
+                        "end": 400,
+                        "text": "(Watson, Quatman, & Edler, 2002)",
+                        "ref_id": "BIBREF71"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Gender differences and changes in intrinsic motivation",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "Adolescents' intrinsic motivation is also affected by various school characteristics such as urbanity (central city, small-medium city, rural area), funding type (public, private), targeted gender (single-sex, coeducation), and curriculum track (academic, vocational track). Regarding school urbanity, schools located in central cities and rural areas showed higher dropout rates and lower achievement due to low academic motivation, which is associated with income inequality and poverty (Jargowsky, 1997; Seo et al., 2007) . For funding type, it was found that the school dropout rate was lower and achievement level was higher for Catholic private high schools compared to the other school types (Coleman & Hoffer, 1987; Rumberger & Thomas, 2000) . In Korea, national schools are a special subtype of public schools and each national school is affiliated with a college of education in a national university. Thus, the curriculum and teacher qualification are usually better regulated, which may have a positive influence on students' motivation.",
+                "cite_spans": [
+                    {
+                        "start": 489,
+                        "end": 506,
+                        "text": "(Jargowsky, 1997;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 507,
+                        "end": 524,
+                        "text": "Seo et al., 2007)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 699,
+                        "end": 723,
+                        "text": "(Coleman & Hoffer, 1987;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 724,
+                        "end": 749,
+                        "text": "Rumberger & Thomas, 2000)",
+                        "ref_id": "BIBREF53"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Intrinsic motivation and school characteristics",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "Whether the school is single-sex or coed may also influence students' motivational development. Since adolescence is an important period of gender role socialization, the gender stereotype threat could be moderated when students study among students of same gender. In other words, the gender differences in intrinsic motivations of gender-dominant subjects, such as language, math, and science, may be smaller for single-sex schools than coeducational schools. In fact, a large body of studies reported that single-sex schools benefit students in terms of academic achievement, motivation, leadership, and self-esteem in math and science (e.g., Hoffman, Badgett, & Parker, 2008; Lee & Bryk, 1986; Streitmatter, 1997) . Some studies also suggested that single-sex schools have a positive effect on both girls and boys since they provide a stronger academic atmosphere and reduce non-academic distraction (Datnow, Hubbard, & Conchas, 2001; Hoffman et al., 2008; Lee & Bryk, 1986) .",
+                "cite_spans": [
+                    {
+                        "start": 646,
+                        "end": 679,
+                        "text": "Hoffman, Badgett, & Parker, 2008;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 680,
+                        "end": 697,
+                        "text": "Lee & Bryk, 1986;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 698,
+                        "end": 717,
+                        "text": "Streitmatter, 1997)",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 904,
+                        "end": 938,
+                        "text": "(Datnow, Hubbard, & Conchas, 2001;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 939,
+                        "end": 960,
+                        "text": "Hoffman et al., 2008;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 961,
+                        "end": 978,
+                        "text": "Lee & Bryk, 1986)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Intrinsic motivation and school characteristics",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "High school curriculum tracks with different educational and career path goals, may be another factor that could affect students' motivation. The representative categories of school curriculum tracks are academic and vocational tracks. Several research studies showed that students on a vocational track tend to have lower academic motivation, self-esteem and achievement as well as higher school dropout rates and school maladjustment compared to students on general academic school track (Korean Educational Development Institute, 2011; Lee & Kim, 2012; Van Houtte, Demanet, & Stevens, 2012) . Also, elite academic high schools that focus on specific academic areas (i.e. foreign languages or science) and select qualified students by entrance examination tend to have a low school dropout ratio and high level of motivation and achievement (Lee & Kim, 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 539,
+                        "end": 555,
+                        "text": "Lee & Kim, 2012;",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 556,
+                        "end": 593,
+                        "text": "Van Houtte, Demanet, & Stevens, 2012)",
+                        "ref_id": "BIBREF69"
+                    },
+                    {
+                        "start": 843,
+                        "end": 860,
+                        "text": "(Lee & Kim, 2012)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Intrinsic motivation and school characteristics",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "Another important school characteristic in Korea is the student selection equalization status. Some regions that implement the school equalization policy assign students to schools within their residential area on the basis of a random computerized lottery. It has been debated whether or not the random school assignment policy affects educational outcomes in terms of student achievement, and research has shown mixed evidence (Goldhaber, 1999; Tooley, Bao, Dixon, & Merrifield, 2011) . Some research showed that the school equalization policy decreased the achievement gap among schools (Kim, Lee, & Lee, 2008) whereas other research reported a slightly higher level of achievement in equalization regions (Kang et al., 2005) or no significant differences in achievement between school equalization regions and non-school equalization regions (Kim, Kim, & Ryu, 2009) . As such, since previous studies on the effect of school characteristics have focused on students' achievement rather than motivation, it would be meaningful to examine whether differences exist in intrinsic motivation as well.",
+                "cite_spans": [
+                    {
+                        "start": 429,
+                        "end": 446,
+                        "text": "(Goldhaber, 1999;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 447,
+                        "end": 486,
+                        "text": "Tooley, Bao, Dixon, & Merrifield, 2011)",
+                        "ref_id": "BIBREF66"
+                    },
+                    {
+                        "start": 590,
+                        "end": 613,
+                        "text": "(Kim, Lee, & Lee, 2008)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 709,
+                        "end": 728,
+                        "text": "(Kang et al., 2005)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 846,
+                        "end": 869,
+                        "text": "(Kim, Kim, & Ryu, 2009)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Intrinsic motivation and school characteristics",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "Our research goal was threefold: we wanted to explore (1) how intrinsic motivation in English and math changed across the middle and high school period, (2) whether gender differences exist in the mean and change rate of intrinsic motivations in English and math, (3) how different school characteristics affect intrinsic motivations in English and math.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Current research goal and hypotheses",
+                "sec_num": "1.5."
+            },
+            {
+                "text": "Based on these research goals, we formulated the following hypotheses: (1) intrinsic motivation in English would decrease more slowly than math because of instrumental value of English in Korea, (2) girls' intrinsic motivation in English would be higher, and decrease more slowly than boys, whereas boys' intrinsic motivation in math decrease more slowly than girls as in various previous research, (3) the intrinsic motivation would be the highest among students at (a) elite academic schools, followed by general academic schools and then vocational schools; (b) small-medium city than large city; (c) national schools than private schools; (d) single sex schools than coed schools. However, we do not have a determined hypothesis about the influence of school equalization, because there have been mixed results about it.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Current research goal and hypotheses",
+                "sec_num": "1.5."
+            },
+            {
+                "text": "Data from five waves (7th-11th grade) of the 2005-2009 Korean Education Longitudinal Study (KELS) was used in this study. KELS was conducted by the Korean Educational Development Institute which is regulated by the Korean government. KELS provides a nationally representative stratified-cluster longitudinal sample of a group of 6908 7th graders starting from 2005 until they reach the age of 30. Due to attrition, this study contained a total sample of 5545 cases.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "Three items were used for measuring each subject's intrinsic motivation which reflected the degree of 'engagement in the subject', 'view on importance of the subject', and 'interest in the subject'. This scale was adopted from the Education Longitudinal Study of 2002 (Ingels, Pratt, Rogers, Siegel, & Stutts, 2005) . For each item, participants responded to a 4-point Likert-type scale (1 = strongly disagree, 4 = strongly agree). The reliability coefficients (Cronbach's \u03b1) of the scales according to waves ranged from .821 to .848 for English, and from .792 to .858 for math.",
+                "cite_spans": [
+                    {
+                        "start": 268,
+                        "end": 315,
+                        "text": "(Ingels, Pratt, Rogers, Siegel, & Stutts, 2005)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Intrinsic motivations in English and math",
+                "sec_num": "2.2.1."
+            },
+            {
+                "text": "For school characteristics, we used the information about school urbanity (Seoul the capital city of Korea, other large cities, medium-small cities, and rural areas), funding type (public, national, private), 1 equalization region status (random school assignment or not), curriculum track (general, elite academic, vocational, art and sports), and targeted gender (boys, girls, coeducation).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School characteristics",
+                "sec_num": "2.2.2."
+            },
+            {
+                "text": "To examine the longitudinal change in motivation, the three-level cross-classified Hierarchical Linear Model (HLM) was used. First, in the analyses, the base (null) models were specified to look at the relative sizes of variances existing in student and school levels. Then, we considered the explanatory (conditional) model to examine the effect of gender and various school characteristics on intrinsic motivations in English and math. The null model was of the following form:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Level-1 or \"within student\" model. We began at level 1 with each individual's growth in intrinsic motivation in both English and math. The level 1 model portrayed each individual's motivation over 5 years.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "Y tijk \u00bc \u03c0 0ijk \u00fe \u03c0 1ijk \u00c1 Year1 tijk \u00fe \u03c0 2ijk \u00c1 Inc:Int tijk \u00fe \u03c0 3ijk \u00c1 Year2 tijk \u00fee tijk ; e tijk $ N 0; \u03c3 2",
+                        "eq_num": "\u00f01\u00de"
+                    }
+                ],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "In Eq. 1, Y tijk is the outcome (intrinsic motivation in each subject) at time t of student i in middle school j and high school k. To explore the longitudinal change of intrinsic motivation from middle school to high school years, we specified the time-series coefficientsslope and interceptseparately by school levels. Year1 t and Year2 t are coded to represent a two piece model of middle school years (Year1) and high school years (Year2). In addition, for examining the effect of transition to high school, we made 9th grade (the last year of middle school) as the baseline and coded it as 0. Therefore, Year1 t is coded as \u22122, \u22121, 0, 0, 0 for representing 7th-9th grade, and Year2 t is coded as 0, 0, 0, 0, 1 for representing 10th-11th grade. 2 Icn.Int represents the incremental gain when students go from middle school to high school. The \u03c0 0i parameter (intercept) is an individual's outcome score at 9th grade, the last year of middle school. The \u03c0 1i and \u03c0 3i parameter (slope) is the individual's expected change (growth rate) in outcome scores of Year1 and Year2, respectively. \u03c0 2i is the individuals' expected increment in outcome scores when they enter high school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "The random error term, e tijk , refers to deviations from expected values for individual student ijk at time interval t.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Level-2 or \"between students or within school\" model. We formulate a level-2 model to show how the growth parameters vary among students.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "\u03c0 0ijk \u00bc \u03b2 00jk \u00fe r 0ijk \u03c0 1ijk \u00bc \u03b2 10jk \u00fe r 1ijk \u03c0 2ijk \u00bc \u03b2 20jk \u00fe r 2ijk \u03c0 3ijk \u00bc \u03b2 30jk \u00fe r 3ijk r 0ijk r 1ijk r 2ijk r 3ijk 0 B B @ 1 C C A \u00bc N 0 0 0 0 0 B B @ 1 C C A ;",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "\u03c4 00 \u03c4 11;00 \u03c4 22;00 \u03c4 33;00 \u03c4 00;11 \u03c4 11 \u03c4 22;11 \u03c4 33;11 \u03c4 00;22 \u03c4 11;22 \u03c4 22 \u03c4 33;22 \u03c4 00;33 \u03c4 11;33 \u03c4 22;33",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "\u03c4 33 0 B B @ 1 C C A 2 6 6 4 3 7 7 5",
+                        "eq_num": "\u00f02\u00de"
+                    }
+                ],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "\u03b2 00jk is the mean outcome score in school j and k at the 9th grade and \u03b2 10 jk is the mean growth rate during Year1. \u03b2 20jk is the mean growth rate after they enter high school. \u03b2 30 jk is the mean growth rate during Year2. \u03b3 0ijk coefficient is a random 'student effect', that is, the deviation of individual student ijk' s score from the school mean.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Level-3 or \"between school\" model (Cross-classified model): In addition, to reflect the characteristics of cross-classified data of middle schools and high schools, the between school level 3 is modeled as follows.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "\u03b2 00jk \u00bc \u03b3 00 \u00fe b 000 j \u03b2 10jk \u00bc \u03b3 10 \u00fe b 100 j \u03b2 20jk \u00bc \u03b3 20 \u00fe c 200k \u03b2 30jk \u00bc \u03b3 30 \u00fe c 300k b 000 j b 100 j \u00bc N 0 0 ; \u03c4 b000 \u03c4 b000;100 \u03c4 b100;000 \u03c4 b100 ; c 200k c 300k \u00bc N 0 0 ; \u03c4 c200 \u03c4 c200;300 \u03c4 c300;200 \u03c4 c300",
+                        "eq_num": "\u00f03\u00de"
+                    }
+                ],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "In Eq. (3), \u03b3 00 represents the grand mean outcome score in the 9th grade. \u03b3 10 and \u03b3 30 represent the grand mean growth rate during middle school years and high school years, respectively. \u03b3 20 is the grand mean change when they enter high school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "b 000j and b 100j are random \"middle school effect\". That is the deviation of middle school j's mean from the grand mean of intercept and slope, respectively. c 000j and c 100j are random \"high school effect\". That is the deviation of high school k's mean from the grand mean of intercept and slope, respectively. Therefore, at the within student level 1, all the coefficients during middle school reflect only random \"middle school effect\" whereas all the coefficients during high school reflect only random \"high school effect\".",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "After examining the null model, we model gender as a predictor of the level-2 model that represents the variation between students, and various school characteristics as predictors of the level-3 model that represents the variation between schools as a conditional model. School characteristics were put into the conditional model according to middle or high school. Specifically, for both middle and high schools, school characteristics included school urbanity, school equalization region, school funding type, and gender schooling. Only for high school, school curriculum track was included. School curriculum track was classified as either elite academic track or vocational track. Science, foreign language, and global competency high schools were categorized as having elite academic track, while home management, technical, agricultural, commercial, fisheries, general vocational, comprehensive, maritime high schools were classified as having vocational track. For all the predictors, random effects were not allowed. The conditional model was of the following form:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Level-1 :",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "Y tijk \u00bc \u03c0 0ijk \u00fe \u03c0 1ijk \u00c1 Year1 tijk \u00fe \u03c0 2ijk \u00c1 Inc:Int tijk \u00fe \u03c0 3ijk \u00c1 Year2 tijk \u00fee tijk ; e tijk $ N 0; \u03c3 2",
+                        "eq_num": "\u00f04\u00de"
+                    }
+                ],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Level-2 :",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "\u03c0 0ijk \u00bc \u03b2 00jk \u00fe \u03b2 01jk Gender \u00f0 \u00de\u00fer 0ijk \u03c0 1ijk \u00bc \u03b2 10jk \u00fe \u03b2 11jk Gender \u00f0 \u00de\u00fe\u00fe r 1ijk \u03c0 2ijk \u00bc \u03b2 20jk \u00fe \u03b2 21jk Gender \u00f0 \u00de\u00fe\u00fe r 2ijk \u03c0 3ijk \u00bc \u03b2 30jk \u00fe \u03b2 31jk Gender \u00f0 \u00de\u00fe\u00fe r 3ijk r 0ijk r 1ijk r 2ijk r 3ijk 0 B B @ 1 C C A \u00bc N 0 0 0 0 0 B B @ 1 C C A ;",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "\u03c4 00 \u03c4 11;00 \u03c4 22;00 \u03c4 33;00 \u03c4 00;11 \u03c4 11 \u03c4 22;11 \u03c4 33;11 \u03c4 00;22 \u03c4 11;22 \u03c4 22 \u03c4 33;22 \u03c4 00;33 \u03c4 11;33 \u03c4 22;33",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "\u03c4 33 0 B B @ 1 C C A 2 6 6 4 3 7 7 5",
+                        "eq_num": "\u00f05\u00de"
+                    }
+                ],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Level-3: ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "\u03b2 00jk \u00bc \u03b3 000 \u00fe \u03b3 001 MiddleUrb Lar \u00f0 \u00de \u00fe \u03b3 002 MiddleUrb Mid \u00f0 \u00de \u00fe\u03b3 003 MiddlUrb Rur \u00f0 \u00de \u00fe \u03b3 004 MiddleEqua \u00f0 \u00de \u00fe\u03b3 005 MiddleFund \u00f0 \u00de \u00fe \u03b3 006 MiddleGirl \u00f0 \u00de \u00fe \u03b3 007 MiddleCoed \u00f0 \u00de \u00feb 000 j \u03b2 10jk \u00bc \u03b3 100 \u00fe b 100 j \u03b2 20jk \u00bc \u03b3 200 \u00fe \u03b3",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "\u03b2 30jk \u00bc \u03b3 300 \u00fe c 300k b 000 j b 100 j \u00bc N 0 0 ; \u03c4 b000 \u03c4 b000;100 \u03c4 b100;000 \u03c4 b100 ; c 200k c 300k \u00bc N 0 0 ; \u03c4 c200 \u03c4 c200;300 \u03c4 c300;200 \u03c4 c300 ;",
+                        "eq_num": "\u00f06\u00de"
+                    }
+                ],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "3. Results",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Descriptive statistics for each wave are presented in Table 1 , showing means and standard deviations for intrinsic motivation in English and math. Students' intrinsic motivations in both subjects continually decreased during middle school but began to show different change patterns according to subject upon high school entrance. Specifically, intrinsic motivation in English increased while intrinsic motivation in math continued to decrease. Therefore, the change rates for middle school and high school must be modeled differently with piecewise modeling. Significant correlations were found among research variables.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 54,
+                        "end": 61,
+                        "text": "Table 1",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Descriptive statistics and correlation",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "We investigated the change of intrinsic motivation in specific subjects separately using HLM analysis. The result of the null model is presented in Table 2 . Intrinsic motivation in English decreased during middle school years, but it increased after students entered high school.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 148,
+                        "end": 155,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Change of intrinsic motivation in English and math",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "Contrary to intrinsic motivations in English, intrinsic motivation in math showed a continuous decrease across secondary school without differences between middle and high school years. In addition, the incremental intercept coefficient of math motivation was not significant. Thus, significant differences didn't exist in the mean intrinsic motivation in math between 9th grade (the last year of middle school) and 10th grade (the first year of high school).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Change of intrinsic motivation in English and math",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "The results of the HLM analysis with the full research models were shown in Table 2 . The effect of gender on the mean level of intrinsic motivations at 9th grade and the change rate of intrinsic motivations were examined. For English intrinsic motivation, girls' motivation was higher at 9th grade, decreased more slowly during middle school, and increased at a faster rate during high school years compared to boys.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 76,
+                        "end": 83,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Gender differences in the change of intrinsic motivation",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "Math intrinsic motivation was higher for 9th grade boys than girls. However, boys' math intrinsic motivation decreased faster in middle school compared to girls, and there were no significant gender differences in incremental intercept and change rate during high school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Gender differences in the change of intrinsic motivation",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "The differences in intrinsic motivations were examined according to school characteristics. As seen in Table 2 , school urbanity was not a significant predictor of intrinsic motivations for middle school. For high school, school urbanity was a significant predictor in intrinsic motivation in math but not in English intrinsic motivation. Specifically, math intrinsic motivation for high schools that were located in mediumsmall cities was higher than the other schools.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 103,
+                        "end": 110,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "School characteristics and intrinsic motivation",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "School funding type was not a predictor of intrinsic motivation for middle schools but it was for high schools. National high schools showed higher English intrinsic motivation compared to private high schools. School equalization region status didn't affect motivation for both middle and high schools. Gender schooling didn't affect intrinsic motivations either for middle school or for high school. High school curriculum track was a significant predictor for intrinsic motivations.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School characteristics and intrinsic motivation",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "Specifically, elite academic schools focusing on specific domains, such as science, foreign language, and global competency, showed higher intrinsic motivations compared to general academic high schools. First, English intrinsic motivation was higher for foreign language and global competency high schools compared to general academic high schools. Second, math intrinsic motivation was higher for all forms of elite academic schools than other types of schools. Among the rest, vocational high schools except fisheries and maritime high schools showed lower intrinsic motivation in English and math, and art high schools showed lower math intrinsic motivation compared to general academic high schools",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School characteristics and intrinsic motivation",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "The present study has examined the change trends of intrinsic motivations in English and math during secondary school years through the three level cross-classified HLM analyzing Korean national sampling data of KELS. In addition, the study investigated into possible differences in the motivational development trends according to gender and school characteristics.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "The findings of the study clearly confirmed that intrinsic motivational development is subject-specific. Specifically, intrinsic motivations in English and math decreased during middle school years from 7th to 9th grades, but each subject showed a different developmental pattern during high school years from 10th to 11th grades. English intrinsic motivation decreased during middle school years and increased during high school years, even after controlling for gender and various school characteristics. However, math intrinsic motivation decreased continually across the entire secondary school years. This result is in line with research that showed intrinsic motivation to be a domain-specific construct by reporting a continuous faster decline of intrinsic motivation in math and science than in English and social studies during secondary school (e.g. Gottfried et al., 2001; Jacobs et al., 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 860,
+                        "end": 883,
+                        "text": "Gottfried et al., 2001;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 884,
+                        "end": 904,
+                        "text": "Jacobs et al., 2002)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Developmental trends in subject specific intrinsic motivation",
+                "sec_num": "4.1."
+            },
+            {
+                "text": "However, the increase of English intrinsic motivation in high school years found in this study was noteworthy. The previous research has consistently reported a continuous decrease in intrinsic motivations across various subjects including English during the secondary school years (e.g., Harter, 1981; Otis et al., 2005) . One possible explanation is that most previous studies were on relatively small samples of American and European students whereas the present study targeted a large sample of Korean students. In addition, previous research examined the motivational change until 10th grade and found a continuous motivational decrease while this study extended the age span to 11th grade and found an increase from 10th to 11th grade. In line with this study, Gottfried et al. (2001) found a slight increase in intrinsic motivation from ages 16 (11th grade) to 17 (12th grade). Moreover, there are differences in the school system between Western countries and Korea. Western students usually transition from elementary school to middle school at 6th grade and transition from middle school to high school at 9th grade whereas Korean students transition to middle school at 7th and transition to high school at 10th grade. Thus, the difference in the transition ages could lead to different patterns in motivation development.",
+                "cite_spans": [
+                    {
+                        "start": 289,
+                        "end": 302,
+                        "text": "Harter, 1981;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 303,
+                        "end": 321,
+                        "text": "Otis et al., 2005)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 767,
+                        "end": 790,
+                        "text": "Gottfried et al. (2001)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Developmental trends in subject specific intrinsic motivation",
+                "sec_num": "4.1."
+            },
+            {
+                "text": "As another possible explanations for the increase in English intrinsic motivation in Korea contrary to other countries, Korean students perceive English to be extremely important for their college admission as well as for various life goals (Choi & Kim, 2013) . For example, English is a major subject on the college entrance exam and English skills are generally required for high paying jobs in Korea (Song & Kim, 2013) . In addition, Korean students' motivation to learn English as a foreign language is affected by other instrumental purposes such as pursuing their leisure goals of travel abroad, enjoying music and movies, and communicating with people from different cultures (Gardner, 2010) . These instrumental values may bring the increase of English motivation.",
+                "cite_spans": [
+                    {
+                        "start": 241,
+                        "end": 259,
+                        "text": "(Choi & Kim, 2013)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 403,
+                        "end": 421,
+                        "text": "(Song & Kim, 2013)",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 683,
+                        "end": 698,
+                        "text": "(Gardner, 2010)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Developmental trends in subject specific intrinsic motivation",
+                "sec_num": "4.1."
+            },
+            {
+                "text": "It was confirmed that gender differences existed in intrinsic motivational development according to school subject. These results are in line with the previous research that showed gender differences exist in gender role related subjects such as language (Kahle & Meece, 1994; Ullman, 2010) .",
+                "cite_spans": [
+                    {
+                        "start": 255,
+                        "end": 276,
+                        "text": "(Kahle & Meece, 1994;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 277,
+                        "end": 290,
+                        "text": "Ullman, 2010)",
+                        "ref_id": "BIBREF68"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Gender differences in intrinsic motivational development",
+                "sec_num": "4.2."
+            },
+            {
+                "text": "For English, girls' intrinsic motivation was higher at 9th grade and decreased more slowly during middle school and increased at a faster rate during high school when compared to boys. For math, boys had a higher level of intrinsic motivation at 9th grade, but showed a faster decrease in middle school than girls. These results are supported by previous studies that reported girls' advantage in language, and boys' advantage in math and science in terms of self-efficacy, interest and achievement (e.g., Fernandez, Quiroga, del Olmo, Aroztegui, & Martin, 2011; Fouad et al., 2010; Meece et al., 2006) . Contrary to our hypothesis and previous research that reported a more gradual decrease in math intrinsic motivation among adolescent boys than girls (Levant, 2011; MacCallum & Kim, 2000) , the boys in this study seemed to experience a faster decrease in math intrinsic motivation. Considering that intrinsic motivation is closely tied with achievement, these results may reflect Note. **p b.01). the recent trend towards decreasing gender gap in math achievement. In fact, Korean students' gender gap in math significantly decreased recently, to the point where there was no statistically significant difference between the math scores for boys and girls (OECD, 2010).",
+                "cite_spans": [
+                    {
+                        "start": 506,
+                        "end": 562,
+                        "text": "Fernandez, Quiroga, del Olmo, Aroztegui, & Martin, 2011;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 563,
+                        "end": 582,
+                        "text": "Fouad et al., 2010;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 583,
+                        "end": 602,
+                        "text": "Meece et al., 2006)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 754,
+                        "end": 768,
+                        "text": "(Levant, 2011;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 769,
+                        "end": 791,
+                        "text": "MacCallum & Kim, 2000)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Gender differences in intrinsic motivational development",
+                "sec_num": "4.2."
+            },
+            {
+                "text": "School characteristics, such as urbanity, funding type, equalization region status, targeted gender, and curriculum track, did not affect intrinsic motivation in middle school years whereas they were significant predictors of level of motivation in high school years except for school equalization region.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Effects of school characteristics on motivation",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "Specifically, high schools located in medium-small cities showed higher math intrinsic motivation than the schools located in central and large cities, and rural areas. This result is in line with the previous research reported that schools located in medium-small cities showed lower dropout rates and higher achievement compared to central cities and rural areas (Jargowsky, 1997; Rumberger & Thomas, 2000) . When considering the decreasing trend of math intrinsic motivation during secondary school years, the positive factors of medium-small city schools need to be examined. For example, compared to large and central cities, medium-small cities were less associated with income inequality and poverty that could lead to lower learning motivation (Gong, 2005; Jargowsky, 1997) . In addition, the schools located in medium-small cities tend to be smaller, which induces a more favorable learning environment with better teacher-students relations (Lee & Burkam, 2003; Lee & Smith, 1997) .",
+                "cite_spans": [
+                    {
+                        "start": 365,
+                        "end": 382,
+                        "text": "(Jargowsky, 1997;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 383,
+                        "end": 408,
+                        "text": "Rumberger & Thomas, 2000)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 752,
+                        "end": 764,
+                        "text": "(Gong, 2005;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 765,
+                        "end": 781,
+                        "text": "Jargowsky, 1997)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 951,
+                        "end": 971,
+                        "text": "(Lee & Burkam, 2003;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 972,
+                        "end": 990,
+                        "text": "Lee & Smith, 1997)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Effects of school characteristics on motivation",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "National high schools showed higher English intrinsic motivation compared to private high schools. Considering that almost all national high schools in Korea are affiliated with the education colleges at national universities, these schools may have higher quality curriculum and teacher qualification. In regards to gender schooling, there was no difference in intrinsic motivations among single-sex and coeducation schools. This was contrary to our hypothesis and the previous research that reported that single-sex schools benefit students in terms of academic achievement and motivation in specific gender-dominant subjects (e.g., Datnow et al., 2001; Hoffman et al., 2008; Lee & Bryk, 1986; Streitmatter, 1997) . This result could be related to the fact that we considered various school characteristics simultaneously. Actually, a recent study found that the effects of schooling type (single-sex, coeducation) on achievement disappeared when controlling for school characteristics such as the student selection process and school equalization policy (Cho, 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 635,
+                        "end": 655,
+                        "text": "Datnow et al., 2001;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 656,
+                        "end": 677,
+                        "text": "Hoffman et al., 2008;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 678,
+                        "end": 695,
+                        "text": "Lee & Bryk, 1986;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 696,
+                        "end": 715,
+                        "text": "Streitmatter, 1997)",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 1057,
+                        "end": 1068,
+                        "text": "(Cho, 2009)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Effects of school characteristics on motivation",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "High school curriculum track was a significant predictor for motivation. Specifically, elite academic schools showed higher intrinsic motivation compared to general academic high schools whereas vocational high schools and art and sports high schools showed lower levels of intrinsic motivations in English and math. The possible explanation for motivation difference according to high school curriculum track could be found in the selection bias. In other words, elite academic high schools allow admission to outstanding students with high intrinsic motivation in English and math through entrance examinations, whereas such rigor in English and math is not required of students of vocational, art, and sports high schools. Thus future research is needed to investigate the effect of curriculum track on intrinsic motivation in English and math with the selection bias eliminated.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Effects of school characteristics on motivation",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "The present study contributes to the literature on motivation theory by identifying different changes in intrinsic motivations according to school level, specific subject, and gender during secondary school years in the Korean context. Specifically, it is noteworthy that intrinsic motivation in English as a foreign language increased during high school years even though it decreased during middle school years. In addition, intrinsic motivation in math decreased faster for boys in middle schools. Because these new findings of the study were found by employing longitudinal analysis of representative large scale data, the results could be used to draw firmer conclusions about developmental trends.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implication for research",
+                "sec_num": "4.4."
+            },
+            {
+                "text": "Educators should note that adolescents' intrinsic motivations in English and math may decrease in middle school. To prevent the possible negative middle school transition effects, educators could design a more stimulating secondary school environment with high-quality teacherstudent relationships, appropriate feedback on students' academic performance, and an emphasis on mastery goals (Leaper et al., 2012; Stoyanova & Hope, 2012; Thompson et al., 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 388,
+                        "end": 409,
+                        "text": "(Leaper et al., 2012;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 410,
+                        "end": 433,
+                        "text": "Stoyanova & Hope, 2012;",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 434,
+                        "end": 456,
+                        "text": "Thompson et al., 2011)",
+                        "ref_id": "BIBREF65"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implication for education",
+                "sec_num": "4.5."
+            },
+            {
+                "text": "Particularly, it need to exert more effort to motivate boys and to help them to value learning since they showed faster decrease in math motivation during middle school as well as slower increase in English motivation compared to girls. Finally, the results regarding the positive effects of several high school types on intrinsic motivation, such as national school, schools located in small-medium cities, and elite academic schools, imply to need for further examining the positive factor of these school type in order to improve the school environment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implication for education",
+                "sec_num": "4.5."
+            },
+            {
+                "text": "Although our longitudinal approach provided new insights regarding intrinsic motivational development, there are several limitations that need to be considered for future research. First, this investigation on intrinsic motivational development focused on secondary school years (from 7th to 11th grade) provided by secondary data. Thus intrinsic motivation needs to be examined with extending the development span from elementary school to early adulthood including the last year in high school (12th grade). Second, it is also worthwhile to consider how other psychological and environmental factors affect motivational development, factors such as social relations, environment, aspiration, academic achievement, and SES. Finally, since our sample was restricted to Korean students, future research must investigate whether these results could be generalized to other Asian countries, and identify the particularity and universality in motivational development across various cultures.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitation and future direction",
+                "sec_num": "4.6."
+            },
+            {
+                "text": "There has been a paucity of longitudinal studies tracking changes of intrinsic motivation according to different academic subjects across secondary school years, especially considering various predictors such as gender and school characteristics in Asian culture. Thus, the present study based a longitudinal data showed that English and math intrinsic motivation changed differently by school level and gender in Korea. In addition, various school characteristics appeared to affect students' levels of intrinsic motivations, especially during the high school years. These findings provide implication not only for researchers interested in intrinsic motivation, gender differences, and cultural comparisons, but also for the educators and educational administrators who hope to provide stimulating learning environments for their students.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": "5."
+            },
+            {
+                "text": "For middle school, school funding type is categorized by public, and private school.2 Korea has a 6-3-3 education system which consists of elementary school (Grades 1-6), middle school (Grades 7-9), and high school (Grades 10-12).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Motivation and schooling in the middle grades",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Review of Educational Research",
+                "volume": "64",
+                "issue": "2",
+                "pages": "287--309",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, E. M., & Maehr, M. L. (1994). Motivation and schooling in the middle grades. Review of Educational Research, 64(2), 287-309.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Stereotypes and the fragility of academic competence, motivation, and self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Aronson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Steele",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Handbook of competence and motivation",
+                "volume": "",
+                "issue": "",
+                "pages": "436--456",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Aronson, J., & Steele, C. M. (2005). Stereotypes and the fragility of academic competence, motivation, and self-concept. In A. J. Elliot, & C. S. Dweck (Eds.), Handbook of compe- tence and motivation (pp. 436-456). New York: Guilford.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "English proficiency and peer interethnic relations as predictors of math achievement among Latino and Asian immigrant students",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Barrett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Barile",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Malm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Weaver",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Adolescence",
+                "volume": "35",
+                "issue": "6",
+                "pages": "1619--1628",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Barrett, A. N., Barile, J. P., Malm, E. K., & Weaver, S. R. (2012). English proficiency and peer interethnic relations as predictors of math achievement among Latino and Asian im- migrant students. Journal of Adolescence, 35(6), 1619-1628.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Interest research in secondary level I: An overview",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Interest and learning",
+                "volume": "",
+                "issue": "",
+                "pages": "241--256",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baumert, J., & K\u00f6ller, O. (1998). Interest research in secondary level I: An overview. In L. Hoffmann, A. Krapp, K. A. Renninger, & J. Baumert (Eds.), Interest and learning (pp. 241-256). Kiel: IPN.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The interrelationship of self-determination, mental illness, and grades among university students",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Brockelman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of College Student Development",
+                "volume": "50",
+                "issue": "3",
+                "pages": "271--286",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brockelman, K. F. (2009). The interrelationship of self-determination, mental illness, and grades among university students. Journal of College Student Development, 50(3), 271-286.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Peer characteristics and the effectiveness of single-sex schooling",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Cho",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "The Korean Journal of Economics",
+                "volume": "16",
+                "issue": "2",
+                "pages": "315--346",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cho, I. (2009). Peer characteristics and the effectiveness of single-sex schooling. The Korean Journal of Economics, 16(2), 315-346.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Korean middle school students' English learning motivation and demotivation",
+                "authors": [
+                    {
+                        "first": "D. -I",
+                        "middle": [],
+                        "last": "Choi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T. -Y",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Studies on English Language & Literature",
+                "volume": "39",
+                "issue": "",
+                "pages": "245--274",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Choi, D. -I., & Kim, T. -Y. (2013). Korean middle school students' English learning motivation and demotivation. Studies on English Language & Literature, 39, 245-274.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Public and private high schools: The impact of communities Basic Books",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Coleman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Hoffer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Coleman, J. S., & Hoffer, T. (1987). Public and private high schools: The impact of communi- ties Basic Books. New York.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "How context mediates policy: The implementation of single gender public schooling in California. The Teachers College Record",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Datnow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Hubbard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Conchas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "103",
+                "issue": "",
+                "pages": "184--206",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Datnow, A., Hubbard, L., & Conchas, G. (2001). How context mediates policy: The imple- mentation of single gender public schooling in California. The Teachers College Record, 103(2), 184-206.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Motivation and education: The self-determination perspective",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Educational Psychologist",
+                "volume": "26",
+                "issue": "",
+                "pages": "642--650",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Deci, E. L., Vallerand, R. J., Pelletier, L. G., & Ryan, R. M. (1991). Motivation and education: The self-determination perspective. Educational Psychologist, 26, 642-650.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Schools, academic motivation, and stage-environment fit. Handbook of adolescent psychology",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "2",
+                "issue": "",
+                "pages": "125--153",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S. (2004). Schools, academic motivation, and stage-environment fit. Handbook of adolescent psychology, 2, 125-153.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Expectancies, values, and academic behaviors",
+                "authors": [],
+                "year": null,
+                "venue": "Achievement and Achievement Motives",
+                "volume": "",
+                "issue": "",
+                "pages": "75--146",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Expectancies, values, and academic behaviors. In J. T. Spence (Ed.), Achievement and Achievement Motives (pp. 75-146). San Francisco, CA: W. H. Freeman.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "In the mind of the actor: The structure of adolescents' achievement task values and expectancy-related beliefs",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "21",
+                "issue": "3",
+                "pages": "215--225",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Wigfield, A. (1995). In the mind of the actor: The structure of adolescents' achievement task values and expectancy-related beliefs. Personality and Social Psychology Bulletin, 21(3), 215-225.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Objective Assessment of Gender Roles: Gender Roles Test (GRT-36)",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Fernandez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Quiroga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Del Olmo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Aroztegui",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Martin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Spanish Journal of Psychology",
+                "volume": "14",
+                "issue": "2",
+                "pages": "899--911",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fernandez, J., Quiroga, M.A., del Olmo, I., Aroztegui, J., & Martin, A. (2011). Objective As- sessment of Gender Roles: Gender Roles Test (GRT-36). Spanish Journal of Psychology, 14(2), 899-911.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Barriers and supports for continuing in mathematics and science: Gender and educational level differences",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Fouad",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Hackett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Kantamneni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Fitzpatrick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Haag",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Journal of Vocational Behavior",
+                "volume": "77",
+                "issue": "",
+                "pages": "361--373",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fouad, N. A., Hackett, G., Smith, P. L., Kantamneni, N., Fitzpatrick, M., Haag, S., et al. (2010). Barriers and supports for continuing in mathematics and science: Gender and educa- tional level differences. Journal of Vocational Behavior, 77, 361-373.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Development of mathematics interest in adolescence: Influences of gender, family, and school context",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Frenzel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Goetz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Pekrun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Watt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Journal of Research on Adolescence",
+                "volume": "20",
+                "issue": "2",
+                "pages": "507--537",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Frenzel, A.C., Goetz, T., Pekrun, R., & Watt, H. M. (2010). Development of mathematics in- terest in adolescence: Influences of gender, family, and school context. Journal of Research on Adolescence, 20(2), 507-537.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Motivation and second language acquisition: the socio-educational model",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Gardner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gardner, R. C. (2010). Motivation and second language acquisition: the socio-educational model. New York: Peter Lang.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "School choice: An examination of the empirical evidence on achievement, parental decision making, and equity. Educational Researcher",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Goldhaber",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "",
+                "volume": "28",
+                "issue": "",
+                "pages": "16--25",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Goldhaber, D.D. (1999). School choice: An examination of the empirical evidence on achievement, parental decision making, and equity. Educational Researcher, 28(9), 16-25.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "The size effect of school district on fiscal management, administrative leadership, and student achievement: A comprehensive analysis of school districts in rural Pennsylvania using PSSA and CCD data. Unpublished doctoral dissertation",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Gong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gong, Y. (2005). The size effect of school district on fiscal management, administrative leadership, and student achievement: A comprehensive analysis of school districts in rural Pennsylvania using PSSA and CCD data. Unpublished doctoral dissertation, Indiana University of Pennsylvania.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Academic intrinsic motivation in elementary and junior high school students",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Journal of Educational Psychology",
+                "volume": "77",
+                "issue": "6",
+                "pages": "631--645",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gottfried, A. E. (1985). Academic intrinsic motivation in elementary and junior high school students. Journal of Educational Psychology, 77(6), 631-645.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Continuity of academic intrinsic motivation from childhood through late adolescence: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fleming",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "1",
+                "pages": "3--13",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gottfried, A. E., Fleming, J. S., & Gottfried, A. W. (2001). Continuity of academic intrinsic motivation from childhood through late adolescence: A longitudinal study. Journal of Educational Psychology, 93(1), 3-13.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "A new self-report scale of intrinsic versus extrinsic orientation in the classroom: Motivational and informational components",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Developmental Psychology",
+                "volume": "17",
+                "issue": "3",
+                "pages": "300--312",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1981). A new self-report scale of intrinsic versus extrinsic orientation in the classroom: Motivational and informational components. Developmental Psychology, 17(3), 300-312.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "The effect of single-sex instruction in a large, urban, at-risk high school",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hoffman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Badgett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "The Journal of Educational Research",
+                "volume": "102",
+                "issue": "1",
+                "pages": "15--36",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hoffman, B. H., Badgett, B.A., & Parker, R. P. (2008). The effect of single-sex instruction in a large, urban, at-risk high school. The Journal of Educational Research, 102(1), 15-36.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "A study on educational fever of Korean parents",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hyun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J. -B",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Seoul: Korea: Korean Educational Developement Institue",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hyun, J., Lee, J. -b, & Lee, H. -y (2000). A study on educational fever of Korean parents. Seoul: Korea: Korean Educational Developement Institue.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Education longitudinal study of 2002/2004: Base-year to first follow-up data file documentation",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Ingels",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Pratt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Rogers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Siegel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Stutts",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ingels, S. J., Pratt, D. J., Rogers, J. E., Siegel, P. H., & Stutts, E. S. (2005). Education longitudinal study of 2002/2004: Base-year to first follow-up data file documentation. Washington, DC: RTI International.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Changes in children's self-competence and values: Gender and domain differences across grades one through twelve",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lanza",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Osgood",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Child Development",
+                "volume": "73",
+                "issue": "2",
+                "pages": "509--527",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jacobs, J. E., Lanza, S., Osgood, D. W., Eccles, J. S., & Wigfield, A. (2002). Changes in chil- dren's self-competence and values: Gender and domain differences across grades one through twelve. Child Development, 73(2), 509-527.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Poverty and place: Ghettos, barrios, and the American city",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Jargowsky",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jargowsky, P. A. (1997). Poverty and place: Ghettos, barrios, and the American city. New York: Russell Sage Foundation Publications.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Research on gender issues in the classroom",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Kahle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Meece",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Handbook of research on science teaching and learning",
+                "volume": "",
+                "issue": "",
+                "pages": "542--557",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kahle, J. B., & Meece, J. L. (1994). Research on gender issues in the classroom. In D. L. Gable (Ed.), Handbook of research on science teaching and learning (pp. 542-557). New York: Macmillan.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "An empirical study on the effects of the High School Equalization Policy",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Chang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Chang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Yoon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kang, S., Chang, W., Kim, J., Chang, J., Kim, Y., Yoon, J., et al. (2005). An empirical study on the effects of the High School Equalization Policy. Seoul, Korea: KEDI.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Can competitive entrance exam boost students'test scores? On the relationship between admission policy and intellectual growth in high schools",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Ryu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Korean Journal of Sociology of Education",
+                "volume": "19",
+                "issue": "",
+                "pages": "29--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kim, S., Kim, K., & Ryu, H. (2009). Can competitive entrance exam boost students'test scores? On the relationship between admission policy and intellectual growth in high schools. Korean Journal of Sociology of Education, 19, 29-54.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Mixing versus sorting in schooling: Evidence from the equalization policy in South Korea",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J. -H",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Economics of Education Review",
+                "volume": "27",
+                "issue": "6",
+                "pages": "697--711",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kim, T., Lee, J. -H., & Lee, Y. (2008). Mixing versus sorting in schooling: Evidence from the equalization policy in South Korea. Economics of Education Review, 27(6), 697-711.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "2010 Education statistics",
+                "authors": [],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Korean Educational Development Institute (2011). 2010 Education statistics. Seoul, Korea: Korean Educational Development Institute.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Adolescent girls' experiences and genderrelated beliefs in relation to their motivation in math/science and English",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Leaper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Farkas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Brown",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "41",
+                "issue": "3",
+                "pages": "268--282",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Leaper, C., Farkas, T., & Brown, C. S. (2012). Adolescent girls' experiences and gender- related beliefs in relation to their motivation in math/science and English. Journal of Youth and Adolescence, 41(3), 268-282.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Effects of single-sex secondary schools on student achievement and attitudes",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Bryk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Journal of Educational Psychology",
+                "volume": "78",
+                "issue": "5",
+                "pages": "381--395",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, V. E., & Bryk, A. S. (1986). Effects of single-sex secondary schools on student achieve- ment and attitudes. Journal of Educational Psychology, 78(5), 381-395.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Dropping out of high school: The role of school organization and structure",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Burkam",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "American Educational Research Journal",
+                "volume": "40",
+                "issue": "2",
+                "pages": "353--393",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, V. E., & Burkam, D. T. (2003). Dropping out of high school: The role of school organi- zation and structure. American Educational Research Journal, 40(2), 353-393.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "The school related factors affecting high school dropout rates",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Asian Journal of Education",
+                "volume": "13",
+                "issue": "1",
+                "pages": "149--185",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, H., & Kim, Y. (2012). The school related factors affecting high school dropout rates. Asian Journal of Education, 13(1), 149-185.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Longitudinal change of subject interests of 9th graders for 3years and educational aspiration. Paper presented at the 3rd Korean Education and Employment Panel Conference",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Boo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, H., Kim, Y., & Boo, E. (2007). Longitudinal change of subject interests of 9th graders for 3years and educational aspiration. Paper presented at the 3rd Korean Education and Employment Panel Conference, Seoul, Korea.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Developmental trajectories of peer relation and self-concepts and their effects on future goal perception and career maturity: A focus on gender differences",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kwon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Shin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "The Korean Journal of Educational Psychology",
+                "volume": "27",
+                "issue": "1",
+                "pages": "99--123",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, H., Kwon, H., & Shin, T. S. (2013). Developmental trajectories of peer relation and self-concepts and their effects on future goal perception and career maturity: A focus on gender differences. The Korean Journal of Educational Psychology, 27(1), 99-123.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "High school size: Which works best and for whom?",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Educational Evaluation and Policy Analysis",
+                "volume": "19",
+                "issue": "3",
+                "pages": "205--227",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, V. E., & Smith, J. B. (1997). High school size: Which works best and for whom? Educational Evaluation and Policy Analysis, 19(3), 205-227.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Restructuring High Schools for Equity and Excellence: What Works",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Sociology of Education Series",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, V. E., & Smith, J. B. (2001). Restructuring High Schools for Equity and Excellence: What Works. Sociology of Education Series. New York: Teachers' College Press.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Research in the psychology of men and masculinity using the gender role strain paradigm as a framework",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Levant",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "American Psychologist",
+                "volume": "66",
+                "issue": "8",
+                "pages": "765--776",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Levant, R. F. (2011). Research in the psychology of men and masculinity using the gender role strain paradigm as a framework. American Psychologist, 66(8), 765-776.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Modeling Longitudinal and Multiple-Group Data: Practical Issues, Applied Approaches, and Specific Examples",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Maccallum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "MacCallum, R. C., & Kim, C. (2000). Modeling multivariate change. In T. D. Little, K. U. Schnabel, & U. Lindenberg (Eds.), Modeling Longitudinal and Multiple-Group Data: Practi- cal Issues, Applied Approaches, and Specific Examples. Mahwah, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Content specificity of relations between academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of Educational Psychology",
+                "volume": "84",
+                "issue": "1",
+                "pages": "35--42",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1992). Content specificity of relations between academic achievement and academic self-concept. Journal of Educational Psychology, 84(1), 35-42.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Academic selfconcept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Ludtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Koller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Child Development",
+                "volume": "76",
+                "issue": "2",
+                "pages": "397--416",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1467-8624.2005.00853.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Trautwein, U., Ludtke, O., Koller, O., & Baumert, J. (2005). Academic self- concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering. Child Development, 76(2), 397-416, http://dx.doi.org/10.1111/j. 1467-8624.2005.00853.x.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Gender and motivation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Meece",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Glienke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Burg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of School Psychology",
+                "volume": "44",
+                "issue": "5",
+                "pages": "351--373",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Meece, J. L., Glienke, B. B., & Burg, S. (2006). Gender and motivation. Journal of School Psychology, 44(5), 351-373.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "TIMSS 2011 International Results in Mathematics. Chestnut Hill, MA: TIMSS & PIRLS International Study Center",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [
+                            "V S"
+                        ],
+                        "last": "Mullis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Martin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Foy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mullis, I. V. S., Martin, M.O., & Foy, P. (2012). TIMSS 2011 International Results in Mathemat- ics. Chestnut Hill, MA: TIMSS & PIRLS International Study Center: Boston College.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "PISA 2006 science competencies for tomorrow's World",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Oecd",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "2",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "OECD (2007). PISA 2006 science competencies for tomorrow's World (Vol. 2). Paris: OECD Publications.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "PISA 2009 Results: What students know and can do-student performance in reading. mathematics and science",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Oecd",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "1",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "OECD (2010). PISA 2009 Results: What students know and can do-student performance in reading. mathematics and science, Vol. 1, Paris: OECD.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "PISA 2012 Results: Ready to Learn -Students' Engagement, Drive and Self-Beliefs",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Oecd",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "III",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "OECD (2013). PISA 2012 Results: Ready to Learn -Students' Engagement, Drive and Self- Beliefs (Volume III). PISA: OECD Publishing.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Latent motivational change in an academic setting: A 3-year longitudinal study",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Otis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "M E"
+                        ],
+                        "last": "Grouzet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Educational Psychology",
+                "volume": "97",
+                "issue": "2",
+                "pages": "170--183",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.97.2.170"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Otis, N., Grouzet, F. M. E., & Pelletier, L. G. (2005). Latent motivational change in an aca- demic setting: A 3-year longitudinal study. Journal of Educational Psychology, 97(2), 170-183, http://dx.doi.org/10.1037/0022-0663.97.2.170.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Ego depletion effects on mathematics performance in primary school students: why take the hard road? Educational Psychology",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Price",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C R"
+                        ],
+                        "last": "Yates",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "30",
+                "issue": "",
+                "pages": "269--281",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Price, D. A., & Yates, G. C. R. (2010). Ego depletion effects on mathematics perfor- mance in primary school students: why take the hard road? Educational Psychology, 30(3), 269-281.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Japan's High Schools",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Rohlen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rohlen, T. P. (1983). Japan's High Schools. Berkeley : LA: University of California Press.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "The distribution of dropout and turnover rates among urban and suburban high schools",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Rumberger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Thomas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Sociology of Education",
+                "volume": "73",
+                "issue": "1",
+                "pages": "39--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rumberger, R. W., & Thomas, S. L. (2000). The distribution of dropout and turnover rates among urban and suburban high schools. Sociology of Education, 73(1), 39-67.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Interest, Learning, and Motivation",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schiefele",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Educational Psychologist",
+                "volume": "26",
+                "issue": "3/4",
+                "pages": "299--323",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schiefele, U. (1991). Interest, Learning, and Motivation. Educational Psychologist, 26(3/4), 299-323.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Interest as a predictor of academic achievement: A meta-analysis of research",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schiefele",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Krapp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Winteler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "The role of interest in learning and development",
+                "volume": "",
+                "issue": "",
+                "pages": "183--212",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schiefele, U., Krapp, A., & Winteler, A. (1992). Interest as a predictor of academic achievement: A meta-analysis of research. In K. A. Renninger, S. Hidi, & A. Krapp (Eds.), The role of interest in learning and development (pp. 183-212). Hillsdale, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Motivation in education: Theory, research, and applications",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Schunk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Meece",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schunk, D. H., Pintrich, P. R., & Meece, J. L. (2008). Motivation in education: Theory, research, and applications (3rd ed.). Upper Saddle River, NJ: Merrill-Prentice Hall.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Competence and control beliefs: Distinguishing the means and ends",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Schunk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Zimmerman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Handbook of Educational Psychology",
+                "volume": "2",
+                "issue": "",
+                "pages": "349--367",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schunk, D. H., & Zimmerman, B. (2006). Competence and control beliefs: Distinguishing the means and ends. In P. A. Alexander, & P. H. Winne (Eds.), Handbook of Educational Psychology, Vol. 2. (pp. 349-367). Mhwah, NJ: Lawrence Erlbaum Associates.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Improvement strategy of career guidance and counseling for dropout students in vocational high school",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Seo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Jyung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Chae",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hea",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Korean Journal of Vocational Education",
+                "volume": "26",
+                "issue": "1",
+                "pages": "106--133",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Seo, W. S., Jyung, C. Y., Lee, G. H., Chae, Y. B., Hea, Y. J., & Kim, J. H. (2007). Improvement strategy of career guidance and counseling for dropout students in vocational high school. Korean Journal of Vocational Education, 26(1), 106-133.",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "Goals and motivation of Chinese students-Testing the adaptive learning model Student Motivation",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Shi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Zuo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "249--270",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shi, K., Wang, P., Wang, W., Zuo, Y., Liu, D., Maehr, M. L., et al. (2001). Goals and motivation of Chinese students-Testing the adaptive learning model Student Motivation. Springer, 249-270.",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "English became power, diagnosis and remedy",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Song",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "24",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Song, H., & Kim, H. (07.24 2013). English became power, diagnosis and remedy, news paper. Field report: English out of school.",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "Shadow Education and Allocation in Formal Schooling: Transition to University in Japan",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Stevenson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Baker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "American Journal of Sociology",
+                "volume": "97",
+                "issue": "6",
+                "pages": "1639--1657",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stevenson, D. L., & Baker, D. P. (1992). Shadow Education and Allocation in Formal Schooling: Transition to University in Japan. American Journal of Sociology, 97(6), 1639-1657.",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "Gender, gender roles, and anxiety: Perceived confirmability of self report, behavioral avoidance, and physiological reactivity",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Stoyanova",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hope",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Anxiety Disorders",
+                "volume": "26",
+                "issue": "1",
+                "pages": "206--214",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stoyanova, M., & Hope, D. A. (2012). Gender, gender roles, and anxiety: Perceived con- firmability of self report, behavioral avoidance, and physiological reactivity. Journal of Anxiety Disorders, 26(1), 206-214.",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "An exploratory study of risk-taking and attitudes in a girls-only middle school math class",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Streitmatter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "The Elementary School Journal",
+                "volume": "",
+                "issue": "",
+                "pages": "15--26",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Streitmatter, J. (1997). An exploratory study of risk-taking and attitudes in a girls-only middle school math class. The Elementary School Journal, 15-26.",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "Winning isn't everything: Competition, achievement orientation, and intrinsic motivation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Tauer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Harackiewicz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Experimental Social Psychology",
+                "volume": "35",
+                "issue": "3",
+                "pages": "209--238",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tauer, J. M., & Harackiewicz, J. M. (1999). Winning isn't everything: Competition, achieve- ment orientation, and intrinsic motivation. Journal of Experimental Social Psychology, 35(3), 209-238.",
+                "links": null
+            },
+            "BIBREF65": {
+                "ref_id": "b65",
+                "title": "Moving forward during major goal blockage: situational goal adjustment in women facing infertility",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Thompson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Woodward",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Stanton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of Behavioral Medicine",
+                "volume": "34",
+                "issue": "4",
+                "pages": "275--287",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Thompson, E. H., Woodward, J. T., & Stanton, A. L. (2011). Moving forward during major goal blockage: situational goal adjustment in women facing infertility. Journal of Behavioral Medicine, 34(4), 275-287.",
+                "links": null
+            },
+            "BIBREF66": {
+                "ref_id": "b66",
+                "title": "School choice and academic performance: Some evidence from developing countries",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Tooley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Bao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Dixon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Merrifield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of School Choice",
+                "volume": "5",
+                "issue": "1",
+                "pages": "1--39",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tooley, J., Bao, Y., Dixon, P., & Merrifield, J. (2011). School choice and academic performance: Some evidence from developing countries. Journal of School Choice, 5(1), 1-39.",
+                "links": null
+            },
+            "BIBREF67": {
+                "ref_id": "b67",
+                "title": "Cultural considerations in teachers' perceptions of student classroom behavior and achievement. Teaching and Teacher Education",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Tyler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wade Boykin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Walton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "22",
+                "issue": "",
+                "pages": "998--1005",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tyler, K. M., Wade Boykin, A., & Walton, T. R. (2006). Cultural considerations in teachers' perceptions of student classroom behavior and achievement. Teaching and Teacher Education, 22(8), 998-1005.",
+                "links": null
+            },
+            "BIBREF68": {
+                "ref_id": "b68",
+                "title": "Closing the STEM gender gap. Education Update",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Ullman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "52",
+                "issue": "",
+                "pages": "1--4",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ullman, E. (2010). Closing the STEM gender gap. Education Update, 52(3), 1-4.",
+                "links": null
+            },
+            "BIBREF69": {
+                "ref_id": "b69",
+                "title": "Self-esteem of academic and vocational students: Does within-school tracking sharpen the difference?",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Van Houtte",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Demanet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Stevens",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Acta Sociologica",
+                "volume": "55",
+                "issue": "1",
+                "pages": "73--89",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Van Houtte, M., Demanet, J., & Stevens, P. A. (2012). Self-esteem of academic and voca- tional students: Does within-school tracking sharpen the difference? Acta Sociologica, 55(1), 73-89.",
+                "links": null
+            },
+            "BIBREF70": {
+                "ref_id": "b70",
+                "title": "The motivational landscape of early adolescence in the United States and China: A longitudinal investigation",
+                "authors": [
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pomerantz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Child Development",
+                "volume": "80",
+                "issue": "4",
+                "pages": "1272--1287",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wang, Q., & Pomerantz, E. M. (2009). The motivational landscape of early adolescence in the United States and China: A longitudinal investigation. Child Development, 80(4), 1272-1287.",
+                "links": null
+            },
+            "BIBREF71": {
+                "ref_id": "b71",
+                "title": "Career aspirations of adolescent girls: Effects of achievement level, grade, and single-sex school environment",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Watson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Quatman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Edler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Sex Roles",
+                "volume": "46",
+                "issue": "9",
+                "pages": "323--335",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Watson, C. M., Quatman, T., & Edler, E. (2002). Career aspirations of adolescent girls: Ef- fects of achievement level, grade, and single-sex school environment. Sex Roles, 46(9-10), 323-335.",
+                "links": null
+            },
+            "BIBREF72": {
+                "ref_id": "b72",
+                "title": "Gendered motivational processes affecting high school mathematics participation, educational aspirations, and career plans: A comparison of samples from Australia, Canada, and the United States",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Watt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Shapka",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Morris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Durik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Keating",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Developmental Psychology",
+                "volume": "48",
+                "issue": "6",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Watt, H. M., Shapka, J.D., Morris, Z. A., Durik, A.M., Keating, D. P., & Eccles, J. S. (2012). Gen- dered motivational processes affecting high school mathematics participation, educational aspirations, and career plans: A comparison of samples from Australia, Canada, and the United States. Developmental Psychology, 48(6), 1594.",
+                "links": null
+            },
+            "BIBREF73": {
+                "ref_id": "b73",
+                "title": "Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Wolters",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Instructional Science",
+                "volume": "26",
+                "issue": "",
+                "pages": "27--47",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wolters, C. A., & Pintrich, P. R. (1998). Contextual differences in student motivation and self-regulated learning in mathematics, English, and social studies classrooms. Instructional Science, 26, 27-47.",
+                "links": null
+            },
+            "BIBREF74": {
+                "ref_id": "b74",
+                "title": "Primary and secondary students' motivation in learning English: Grade and gender differences",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Nie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "36",
+                "issue": "3",
+                "pages": "246--256",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yeung, A. S., Lau, S., & Nie, Y. (2011). Primary and secondary students' motivation in learn- ing English: Grade and gender differences. Contemporary Educational Psychology, 36(3), 246-256.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td/><td/><td/><td colspan=\"3\">Intrinsic motivation in English</td><td/><td/><td colspan=\"3\">Intrinsic motivation in Math</td></tr><tr><td/><td/><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>1 0</td></tr><tr><td>Intrinsic motivation</td><td>1. Year 1 (7th G)</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>in English</td><td>2. Year 2 (8th G)</td><td>.527**</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td/><td>3. Year 3 (9th G)</td><td>.474**</td><td>.551**</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td/><td>4. Year 4 (10th G)</td><td>.409**</td><td>.482**</td><td>.567**</td><td/><td/><td/><td/><td/><td/></tr><tr><td/><td>5. Year 5 (11th G)</td><td>.360**</td><td>.422**</td><td>.499**</td><td>.579**</td><td/><td/><td/><td/><td/></tr><tr><td>Intrinsic motivation</td><td>6. Year 1 (7th G)</td><td>.335**</td><td>.234**</td><td>.224**</td><td>.187**</td><td>.160**</td><td/><td/><td/><td/></tr><tr><td>in Math</td><td>7. Year 2 (8th G)</td><td>.181**</td><td>.381**</td><td>.249**</td><td>.204**</td><td>.188**</td><td>.547**</td><td/><td/><td/></tr><tr><td/><td>8. Year 3 (9th G)</td><td>.159**</td><td>.245**</td><td>.379**</td><td>.242**</td><td>.226**</td><td>.481**</td><td>.593**</td><td/><td/></tr><tr><td/><td>9. Year 4 (10th G)</td><td>.151**</td><td>.222**</td><td>.274**</td><td>.354**</td><td>.243**</td><td>.429**</td><td>.511**</td><td>.624**</td><td/></tr><tr><td/><td>10. Year 5 (11th G)</td><td>.157**</td><td>.226**</td><td>.271**</td><td>.266**</td><td>.365**</td><td>.376**</td><td>.450**</td><td>.528**</td><td>.648**</td></tr><tr><td/><td>M</td><td>2.670</td><td>2.562</td><td>2.553</td><td>2.648</td><td>2.715</td><td>2.643</td><td>2.573</td><td>2.584</td><td>2.565</td><td>2.534</td></tr><tr><td/><td>SD</td><td>.713</td><td>.697</td><td>.714</td><td>.662</td><td>.677</td><td>.664</td><td>.669</td><td>.704</td><td>.704</td><td>.764</td></tr><tr><td/><td>N</td><td>5472</td><td>5302</td><td>5402</td><td>5542</td><td>5525</td><td>5474</td><td>5303</td><td>5399</td><td>5544</td><td>5533</td></tr><tr><td/><td>M i n</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td/><td>M a x</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr></table>",
+                "type_str": "table",
+                "text": "Descriptive statistics and correlations of intrinsic motivations in English and math by grade."
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td>Null model</td><td/><td>Full model</td><td/></tr><tr><td>English</td><td>Math</td><td>English</td><td>Math</td></tr></table>",
+                "type_str": "table",
+                "text": "Effects of gender, school years, and school characteristics on intrinsic motivation of English and Math."
+            }
+        }
+    }
+}

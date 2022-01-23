@@ -1,0 +1,2904 @@
+{
+    "paper_id": "helmke_1995",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:05:55.344572Z"
+    },
+    "title": "The Causal Ordering of Academic Achievement and Self-Concept of Ability During Elementary School: A Longitudinal Study",
+    "authors": [
+        {
+            "first": "Andreas",
+            "middle": [],
+            "last": "Helmke",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Landau",
+                "location": {}
+            },
+            "email": "helmke@uni-landau.de."
+        },
+        {
+            "first": "Marcel",
+            "middle": [
+                "A G"
+            ],
+            "last": "Van Aken",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Nijmegen",
+                "location": {}
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This article addresses the question of the causal ordering of self-concept of ability and academic achievement during elementary school. The questions were (a) Do self-concept and achievement influence each other? and (b) Does it make a difference whether achievement is assessed by marks or by tests? The sample consisted of 697 students from 54 German elementary school classes. The design of the study allowed 3 measurement waves from Grade 2 to Grade 4. Mathematics achievement was measured both by marks and by tests. The results of the structural equation modeling analyses show that it makes a difference whether achievement is (as usually) measured with only one indicator (either mark or test performance), or if both indicators are integrated in the model. The latter model clearly supports the skill development model: In elementary school, prior self-concept does not significantly contribute to the prediction of subsequent achievement.",
+    "pdf_parse": {
+        "paper_id": "helmke_1995",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "This article addresses the question of the causal ordering of self-concept of ability and academic achievement during elementary school. The questions were (a) Do self-concept and achievement influence each other? and (b) Does it make a difference whether achievement is assessed by marks or by tests? The sample consisted of 697 students from 54 German elementary school classes. The design of the study allowed 3 measurement waves from Grade 2 to Grade 4. Mathematics achievement was measured both by marks and by tests. The results of the structural equation modeling analyses show that it makes a difference whether achievement is (as usually) measured with only one indicator (either mark or test performance), or if both indicators are integrated in the model. The latter model clearly supports the skill development model: In elementary school, prior self-concept does not significantly contribute to the prediction of subsequent achievement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The direction of causality between academic achievement and academic self-concept has been the subject of considerable interest and speculation in educational psychology (for an overview, see Byrne, 1984; Helmke, 1992; Marsh, 1990a ). On the one hand, there can be no doubt that academic self-concept is formed at least in part by prior achievement. Achievement-related successes and failures influence self-concept through various means, in particular through the evaluation of significant others (e.g., teacher and parents). This consideration underlies the skill-development approach, which maintains that self-concept is primarily the result of past achievement rather than a cause for subsequent achievement. The opposite position is held by the self-enhancement model, which claims that academic achievement depends not only on prior achievement but that prior self-concept also contributes significantly to the prediction of subsequent achievement (cf. Calsyn & Kenny, 1977) . For example, a high self-concept of ability may be a favorable precondition for the initiation and persistence of effort in learning and achievement situations (Helmke, 1989 (Helmke, , 1991 (Helmke, , 1992 . Also, students with a low self-concept might avoid critical learning situations that could threaten their self-concept and thus might show less effort in school. Furthermore, as suggested by self-worth theory (Covington, 1984) , students with low success expectations are prone to develop failure-avoiding tactics (e.g., avoidance behavior, procrastination, or intrapsychic defensive processes). These activities may yield temporary relief, but in the long run they are mostly counterproductive and impair academic achievement.",
+                "cite_spans": [
+                    {
+                        "start": 192,
+                        "end": 204,
+                        "text": "Byrne, 1984;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 205,
+                        "end": 218,
+                        "text": "Helmke, 1992;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 219,
+                        "end": 231,
+                        "text": "Marsh, 1990a",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 960,
+                        "end": 981,
+                        "text": "Calsyn & Kenny, 1977)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1144,
+                        "end": 1157,
+                        "text": "(Helmke, 1989",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1158,
+                        "end": 1173,
+                        "text": "(Helmke, , 1991",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1174,
+                        "end": 1189,
+                        "text": "(Helmke, , 1992",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1401,
+                        "end": 1418,
+                        "text": "(Covington, 1984)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The controversy between the self-enhancement and skilldevelopment positions (i.e., whether prior self-concept has an impact on the prediction of subsequent achievement that is independent of the impact of prior achievement) is not only theoretically interesting but also of considerable practical importance. Self-enhancement programs, for example (see Scheirer & Kraut, 1979) , rely on the assumption that an improvement in self-concept will lead to a gain in academic achievement.",
+                "cite_spans": [
+                    {
+                        "start": 353,
+                        "end": 376,
+                        "text": "Scheirer & Kraut, 1979)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Given the theoretical and practical significance of the problem, surprisingly little sound research concerning the causal predominance of self-concept or achievement exists. Rather than giving a report of the literature (for a comprehensive review, see Byrne, 1986; Marsh, 1990a) , we restrict our short review to those few longitudinal studies investigating the issue of the causal predominance of self-concept of ability and academic achievement that satisfy the three central prerequisites noted in Byrnes's (1984) review, namely (a) establishment of a statistical relationship, (b) establishment of a clear time precedence, and (c) testing of a causal model. The collection of these studies has been facilitated by the prior work of Marsh (1990b) , who reported six studies fulfilling the criteria just mentioned. We extend the list by adding some more recent studies (see Table 1 ). For methodological reasons, we have not considered longitudinal studies that used the statistical method of cross-lagged panel correlation (e.g., Calsyn & Kenny, 1977; Chapman, Cullen, Boersma, & Maguire, 1981; Marsh, 1987; Pottebaum, Keith, & Ehly, 1986) , because this method has been strongly criticized by statisticians (Rogosa, 1980) . Traditional path analyses (e.g., Bachman & Malley, 1977; Marsh, 1987; Pugh, 1976) and the comparison of simple correlations (e.g., Bridgeman & Shipman, 1978) have been criticized for methodological reasons as well. There is now broad consensus that structural equation modeling (SEM) is the preferable method for a sound analysis of longitudinal panel data. Furthermore, we have not mentioned studies that did not consider both self-concept and achievement at more than one measurement point (e.g., Felson, 1984; Maruyama, Rubin, & Kingsbury, 1981; Skaalvik & Rankin, 1990) .",
+                "cite_spans": [
+                    {
+                        "start": 253,
+                        "end": 265,
+                        "text": "Byrne, 1986;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 266,
+                        "end": 279,
+                        "text": "Marsh, 1990a)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 502,
+                        "end": 517,
+                        "text": "Byrnes's (1984)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 737,
+                        "end": 750,
+                        "text": "Marsh (1990b)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1034,
+                        "end": 1055,
+                        "text": "Calsyn & Kenny, 1977;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1056,
+                        "end": 1098,
+                        "text": "Chapman, Cullen, Boersma, & Maguire, 1981;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1099,
+                        "end": 1111,
+                        "text": "Marsh, 1987;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1112,
+                        "end": 1143,
+                        "text": "Pottebaum, Keith, & Ehly, 1986)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 1212,
+                        "end": 1226,
+                        "text": "(Rogosa, 1980)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 1262,
+                        "end": 1271,
+                        "text": "Bachman &",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1272,
+                        "end": 1285,
+                        "text": "Malley, 1977;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1286,
+                        "end": 1298,
+                        "text": "Marsh, 1987;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1299,
+                        "end": 1310,
+                        "text": "Pugh, 1976)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1360,
+                        "end": 1386,
+                        "text": "Bridgeman & Shipman, 1978)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1728,
+                        "end": 1741,
+                        "text": "Felson, 1984;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1742,
+                        "end": 1777,
+                        "text": "Maruyama, Rubin, & Kingsbury, 1981;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 1778,
+                        "end": 1802,
+                        "text": "Skaalvik & Rankin, 1990)",
+                        "ref_id": "BIBREF51"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 877,
+                        "end": 884,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "What can be concluded on the basis of the causal modeling studies reported in Table 1 ? Obviously, the pattern of results with regard to the causal predominance of selfconcept or achievement is quite heterogeneous, as an inspection of the last column in Table 1 reveals. There are studies supporting either the skill development or the selfenhancement approach, but there are also several studies with reciprocal effects and even one with no cross-lagged effects at all. What could be the reason for this heterogeneous pattern of results?",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 78,
+                        "end": 85,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 254,
+                        "end": 261,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "First, considerable differences concerning the design and the sample of the various studies exist. For example, the number of measurement points varies from two (e.g., follow-up studies) to four or five (longitudinal studies); grade levels vary from 2nd grade to 1 year after 12th grade; and time intervals range from 4 months to 5 years! Second, the operationalization of academic self-concept varies from assessment by means of a single item to comprehensive scales. Third, the studies differ with respect to the domain under consideration. Half of the studies focused on one subject, such as mathematics or reading, whereas other studies investigated several domains, mostly relying on composite measures (i.e., aggregating both self-concept and academic achievement across various domains). However, some studies (e.g., Faber, 1992; Marsh, 1986 Marsh, , 1990c Marsh, , 1992 Shavelson & Bolus, 1982; Pekrun, 1987) have emphasized that there are considerable differences in the pattern of causal dominance if this issue is analyzed separately for different domains. Finally, the database for academic achievement is represented by the annual teacher ratings (marks), or objective achievement tests, or both.",
+                "cite_spans": [
+                    {
+                        "start": 824,
+                        "end": 836,
+                        "text": "Faber, 1992;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 837,
+                        "end": 848,
+                        "text": "Marsh, 1986",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 849,
+                        "end": 863,
+                        "text": "Marsh, , 1990c",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 864,
+                        "end": 877,
+                        "text": "Marsh, , 1992",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 878,
+                        "end": 902,
+                        "text": "Shavelson & Bolus, 1982;",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 903,
+                        "end": 916,
+                        "text": "Pekrun, 1987)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In our view, the last aspect-the type of criterion chosen as an indicator of achievement-is of particular theoretical interest and represents a main focus of this study. The predominant use of teacher ratings as criteria for academic achievement may lead to an inadequate view with regard to the issue of the causal predominance of self-concept versus academic achievement. There has been a long debate as to whether and to what degree teacher ratings are at all reliable judgments (see the critique by Hansford & Hattie, 1982, and Marsh's, 1990b, overview) and whether they actually reflect student achievement. First, it is a well-known fact that marks often serve pedagogical functions too (e.g., disciplining students or encouraging and reinforcing student effort). Second, some studies (e.g., Schrader & Helmke, 1990) have found that students' motivational characteristics (including self-concept) may play a significant role for teachers' judgments of achievement, which is independent of student's actual achievement.",
+                "cite_spans": [
+                    {
+                        "start": 503,
+                        "end": 513,
+                        "text": "Hansford &",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 514,
+                        "end": 531,
+                        "text": "Hattie, 1982, and",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 532,
+                        "end": 557,
+                        "text": "Marsh's, 1990b, overview)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 798,
+                        "end": 822,
+                        "text": "Schrader & Helmke, 1990)",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Third, there are substantial differences between marks and test performance as measures of academic achievement. Marks are usually communicated to the students and represent the main database for students' social comparison processes within their classroom. This is presumably not (or at least seldomly) the case for test performance, because students in most of the studies that have used achievement tests did not experience their test results or their relative standing. Furthermore, getting good marks is an important and positively evaluated goal for most of the students, whereas test performance may or may not be of personal significance.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Finally, marks are more predictable and controllable than test results, because deficiencies (e.g., in certain domains of mathematics or in problems in test-like written exercises) can be partially compensated by means of additional effort and persistence. These systematic differences between marks and test performance are reflected by the size of the correlations between these two achievement criteria, which generally range from .40 to .60.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "An additional question is whether there are gender differences concerning the pattern of relations between selfconcept and achievement in general and to the causal predominance in particular. Contrary to widespread beliefs, recent reviews and meta-analyses (Halpern, 1992; Hyde, Fennema, & Lamon, 1990 ) as well as cross-cultural studies (e.g., Lummis & Stevenson, 1990) have shown that the effect sizes of differences in achievement are very small, particularly for younger children, whereas substantial gender differences concerning achievement-related motives, attitudes, and self-concepts have been found as early as in elementary school (cf. Eccles, Wigfield, Harold, & Blumenfeld, 1993; Helmke, in press; Multon, Brown, & Lent, 1991; Stipek & Gralinski, 1991) . Whereas this concerns the level of the constructs under consideration, much less is known about gender differences in the pattern of relations between self-concept and achievement. Although this issue is not the focus of this article, we will examine gender differences in the patterns of relations between indicators of mathematics achievement (marks and test performance) and self-concept of mathematics aptitude.",
+                "cite_spans": [
+                    {
+                        "start": 257,
+                        "end": 272,
+                        "text": "(Halpern, 1992;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 273,
+                        "end": 301,
+                        "text": "Hyde, Fennema, & Lamon, 1990",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 345,
+                        "end": 370,
+                        "text": "Lummis & Stevenson, 1990)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 647,
+                        "end": 692,
+                        "text": "Eccles, Wigfield, Harold, & Blumenfeld, 1993;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 693,
+                        "end": 710,
+                        "text": "Helmke, in press;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 711,
+                        "end": 739,
+                        "text": "Multon, Brown, & Lent, 1991;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 740,
+                        "end": 765,
+                        "text": "Stipek & Gralinski, 1991)",
+                        "ref_id": "BIBREF55"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In sum, this study attempts to fill a gap in the literature on the interrelation of self-concept and academic achievement with respect to two deficiencies: First, there is as yet little empirical evidence covering the elementary school period. Second, attempts to systematically compare the differences in the causal pattern arising from marks versus test performance as measures of achievement are lacking.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The study described here is part of the 4-year longitudinal project SCHOLASTIC (School Learning and the Socialization of Talents, Interests, and Competencies). The project was launched in 1988 to investigate the development of children's academic achievement and achievement-related motives and beliefs during elementary school, dependent on student entry characteristics, classroom context, and instructional quality (Helmke, in press; Weinert & Helmke, 1995a , 1995b . The data in the present paper concern mathematics as a domain of academic competence, because the instruments were most comprehensive for this area. In a multiwave, multipanel design, data are analyzed for mathematics achievement in the form of mathematics test performance and math marks, as well as self-concept of academic ability in mathematics.",
+                "cite_spans": [
+                    {
+                        "start": 418,
+                        "end": 436,
+                        "text": "(Helmke, in press;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 437,
+                        "end": 460,
+                        "text": "Weinert & Helmke, 1995a",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 461,
+                        "end": 468,
+                        "text": ", 1995b",
+                        "ref_id": "BIBREF58"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The sample consisted of 1,023 students from 54 elementary school classes from urban and rural regions in and around Munich, Germany. Because data provided by teachers were sometimes missing on a nonrandom basis (i.e., for an entire school class), data reported in this article stem from those 697 students (358 boys and 339 girls) for whom there was complete data for all variables.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": null
+            },
+            {
+                "text": "Mathematics tests. Math test performance was measured with a math test that comprised several subtests (Stern, 1989 (Stern, , 1993 . To form two indicators of mathematical competence for the causal modeling procedure, several subtests were combined to form two scales: (a) basic arithmetic skills (speed tests of addition, subtraction, multiplication, etc.) and (b) tasks requiring solving word problems and application and transfer of mathematical knowledge (such as reversing basic arithmetic procedures). Both kinds of tasks-arithmetic skills and word problems-are part of the German curriculum in elementary school mathematics. The content and difficulty of the tasks varied from second to fourth grade according to the curriculum of the respective class. Depending on the measurement wave, the number of items for arithmetic skills ranged from 40 to 55 and for word problems from 15 to 20.",
+                "cite_spans": [
+                    {
+                        "start": 103,
+                        "end": 115,
+                        "text": "(Stern, 1989",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 116,
+                        "end": 130,
+                        "text": "(Stern, , 1993",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments",
+                "sec_num": null
+            },
+            {
+                "text": "Self-concept of ability in mathematics. This was defined as students' self-evaluation in various domains of math competence. Three indicators were formed at each wave, namely the selfevaluation of (a) paper-and-pencil arithmetic tasks and mental arithmetic skills, (b) the ability to solve math word problems, and (c) an overall self-evaluation of competence in mathematics in general. All judgments required explicit social comparison processes: Students were asked to rate their relative standing in the respective domain as compared with their classmates.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments",
+                "sec_num": null
+            },
+            {
+                "text": "Marks. We used the official marks in the report cards, 1 which are provided by teachers at the end of each school year.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments",
+                "sec_num": null
+            },
+            {
+                "text": "The mathematics tests and the student questionnaires (containing, among others, the self-concept instruments) were administered annually to the intact classroom groups. The math tests and the questionnaire each took one class period (about 45 min) at each of the measurement points. Self-concept questionnaires and mathematics tests were administered shortly before marks were given. The three measurement points (waves) for the assessment of the 1 Regarding the use of marks provided by the teacher in class, one might choose between either standardizing the marks per class or not. Standardizing by class would mean that the child's score reflects the actual rank order the child has in the class. This reflects important information for the child in determining his or her self-concept of ability. On the other hand, in the German school system the marks also have an absolute value. The child is aware of this absolute value, and this value may determine the reactions of parents and friends to the marks received by the child, so it might also be important for determining the child's selfconcept of ability. Repeating all the LISREL analyses in the article using marks standardized by class led to a somewhat lower fit of the models but not to any differences in pattern or magnitude of the regression coefficients in the models. .333 .306 .303 -.195 .213 .209 .598 -.210 .218 .197 .511 .535 -.370 .402 .391 .405 .328 .338 -.272 .306 .269 .398 .374 .395 .684 -.304 .328 .323 .389 .339 .413 .601 .645 -.334 .453 .508 .362 .269 .329 .407 .358 .379 -.353 .389 .430 .332 .311 .331 .447 .383 .428 .658 -.327 .425 .403 .354 .334 .373 .456 .421 .502 .636 .660 -.338 .441 .437 .246 .183 .185 .279 .253 .276 .286 .287 .288 -.470 .562 .570 .341 .283 .263 .363 .268 .312 .355 .325 .339 .661 -.356 .431 .399 .231 .144 .224 .351 .241 .308 .309 .366 .327 .544 .446 -.462 .548 .508 .309 .238 .279 .380 .286 .295 .276 .297 .312 .464 .549 .462 -.244 .359 .417 .164 .106 .148 .319 .220 .268 .305 .374 .281 .319 .302 .544 .320 -.454 .575 .600 .297 .247 .238 .405 .302 .335 .417 .422 .421 .466 .577 .523 .507 .490 Note. The range of marks was from 6 (high) to 1 (low); the self-concept subscales ranged from -2 (low) to +2 (high). The mathematics subtests reflect the number of correct responses, varying from scale to scale (depending on the number of items). Marks 2-4 represent marks at the end of Grades 2, 3, and 4. Selfs 2-4 g, s, and m represent self-concept of mathematical ability concerning a general overall self-evaluation (g), arithmetic skills (s), and mathematical word problems (m) at Grades 2-4. Tests 2-4 a and k represent mathematical test performance in the subdomains arithmetic skills (a) and application and transfer of mathematical knowledge (k) at Grades 2-4. relevant data are labeled according to the respective grades (2, 3, or 4).",
+                "cite_spans": [
+                    {
+                        "start": 1336,
+                        "end": 2094,
+                        "text": ".333 .306 .303 -.195 .213 .209 .598 -.210 .218 .197 .511 .535 -.370 .402 .391 .405 .328 .338 -.272 .306 .269 .398 .374 .395 .684 -.304 .328 .323 .389 .339 .413 .601 .645 -.334 .453 .508 .362 .269 .329 .407 .358 .379 -.353 .389 .430 .332 .311 .331 .447 .383 .428 .658 -.327 .425 .403 .354 .334 .373 .456 .421 .502 .636 .660 -.338 .441 .437 .246 .183 .185 .279 .253 .276 .286 .287 .288 -.470 .562 .570 .341 .283 .263 .363 .268 .312 .355 .325 .339 .661 -.356 .431 .399 .231 .144 .224 .351 .241 .308 .309 .366 .327 .544 .446 -.462 .548 .508 .309 .238 .279 .380 .286 .295 .276 .297 .312 .464 .549 .462 -.244 .359 .417 .164 .106 .148 .319 .220 .268 .305 .374 .281 .319 .302 .544 .320 -.454 .575 .600 .297 .247 .238 .405 .302 .335 .417 .422 .421 .466 .577 .523 .507",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Structural equation modeling (LISREL 7; Joreskog & Sorbom, 1989 ) was used to test our hypotheses about the causal predominance of math achievement or math-related academic self-concept and about the appropriateness of using tests and marks as indicators of one single latent variable. Three classes of models were examined: Model 1. In the first step, a model with math tests and marks as indicators of one and the same latent variable (achievement) was tested. This model assumed an initial correlation between the latent variables achievement and self-concept at Wave 2, and crosslagged effects of achievement at Time t on self-concept at Time / + 1 (representing the skill-development model), as well as cross-lagged effects of self-concept at Time t on achievement at Time t + 1 (representing the self-enhancement model).",
+                "cite_spans": [
+                    {
+                        "start": 29,
+                        "end": 39,
+                        "text": "(LISREL 7;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 40,
+                        "end": 63,
+                        "text": "Joreskog & Sorbom, 1989",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Model 2. Second, two separate models were analyzed: one concerning the relations between marks and self-concept {Model 2a) and one concerning the relations between math tests and self-concept {Model 2b). In both models, similar initial correlations and cross-lagged effects as in the first model are assumed. Model 3. Third, all variables were again included in one model, but now with the latent variable achievement at each wave split into two separate latent variables, namely marks (indicated by children's marks for mathematics at that measurement point) and tests (indicated by both math tests at that measurement point). Again, initial correlations between marks, self-concept, and tests were assumed, as were similar cross-lagged effects as in the first and second models.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Because we were interested in the relations between the latent variables rather than in the measurement per se, in contrast to some other studies (see e.g., Skaalvik & Hagtvet, 1990) , no factorial invariance between the measurement waves was assumed. That is, the magnitude of the loadings of the observed variables on the latent variables was allowed to vary between measurement waves. Loadings for the respective models are presented in Tables 4 to 6. In longitudinal research, the residuals of a manifest variable used in subsequent measurement waves are often correlated, indicating correlated measurement errors. Allowing these correlated errors to be estimated generally leads to a better fit of the model and to more accurate estimates of the stability of the latent variables. Therefore, all models were estimated assuming correlated measurement errors (or correlated uniqueness) between all identical indicators for self-concept, marks, and mathematics tests across the three waves (e.g., between the speed tests in Grade 1 and Grade 2, in Grade 1 and Grade 3, and in Grade 2 and Grade 3). The use of single indicators for marks in Model 2a and Model 3 led to problems in the estimation of correlated measurement errors, as will be discussed in the next paragraph. Therefore, for the indicators of marks, a small amount of correlated measurement errors will be fixed in the models. Again, between all identical indicators for self-concept and tests across the three waves, correlated measurement errors will be estimated.",
+                "cite_spans": [
+                    {
+                        "start": 157,
+                        "end": 182,
+                        "text": "Skaalvik & Hagtvet, 1990)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 440,
+                        "end": 454,
+                        "text": "Tables 4 to 6.",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "As indicators of the latent variable marks at each wave, only one indicator was available, namely the marks the pupil received in that period. The use of one single indicator for a latent variable has been criticized elsewhere for methodological reasons (although it should be noted that in German schools only one official mark per year and domain actually exists). For example, Marsh (1988 Marsh ( , 1990b pointed out that two problems may arise. First, relations involving these latent constructs cannot be corrected for unreliability of the indicators. Second, the existence of correlated mea-surement errors for these indicators is not testable and controllable. Therefore, initial analyses with marks as a single indicator (i.e., in Model 2a and in Model 3) were conducted in which the assumed reliability of the construct was .90 (cf. Joreskog & Sorbom, 1989, p. 153; Marsh, 1990b) , and the correlated residuals between the different grade estimates were set at 12.5% of the residual variance. In subsequent sensitivity analyses of Models 2a and 3a, the implications of these a priori assumptions were explored.",
+                "cite_spans": [
+                    {
+                        "start": 380,
+                        "end": 391,
+                        "text": "Marsh (1988",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 392,
+                        "end": 407,
+                        "text": "Marsh ( , 1990b",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 842,
+                        "end": 874,
+                        "text": "Joreskog & Sorbom, 1989, p. 153;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 875,
+                        "end": 888,
+                        "text": "Marsh, 1990b)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "For the evaluation of our models in terms of their goodness-offit, we will report the ffldf ratio and the indices proposed by Bentler and Bonett (1980; BBI) and Tucker and Lewis (1973; TLI) . It is now widely known that the chi-square likelihood ratio test is sensitive to sample size and that in large samples, the chi-square test will almost always reach significance, indicating a difference between the observed and the predicted covariance matrices. As an alternative, the ^Idf ratio has been proposed. The acceptable numerical values for this ratio that have been proposed by different authors cover a range from 1 to 5 (Byrne, 1989) . In an evaluation of the most widely used indices of goodness-of-fit, Marsh, Balla, and McDonald (1988) concluded that the TLI was relatively unbiased, independent of sample size, and penalized model complexity. Values of greater than .9 are regarded as indicators of an acceptable fit of the model. Both BBI and TLI are computed by comparing the target model with a null model, assuming complete independence of all observed measures, and can be roughly seen as indicating the proportion of covariance explained by the model. No serious problems during estimation Table 4 Loadings of Manifest on Latent Variables for Model 1 (Figure 1 Note. Decimal points have been omitted. These values are for a completely standardized solution. Marks 2-4 represent marks at the end of Grades 2, 3, and 4. Selfs 2-4 g, s, and m represent self-concept of mathematical ability concerning a general overall self-evaluation (g), arithmetic skills (s), and mathematical word problems (m) at Grades 2-4. Tests 2-4 a and k represent mathematical test performance in the subdomains arithmetic skills (a) and application and transfer of mathematical knowledge (k) at Grades 2-4. were encountered, all models converged within 40 iterations, all variances were positive, and no standardized coefficients exceeded 1.00.",
+                "cite_spans": [
+                    {
+                        "start": 126,
+                        "end": 151,
+                        "text": "Bentler and Bonett (1980;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 152,
+                        "end": 156,
+                        "text": "BBI)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 161,
+                        "end": 184,
+                        "text": "Tucker and Lewis (1973;",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 185,
+                        "end": 189,
+                        "text": "TLI)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 626,
+                        "end": 639,
+                        "text": "(Byrne, 1989)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 711,
+                        "end": 744,
+                        "text": "Marsh, Balla, and McDonald (1988)",
+                        "ref_id": "BIBREF35"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1206,
+                        "end": 1213,
+                        "text": "Table 4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1267,
+                        "end": 1276,
+                        "text": "(Figure 1",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "The intercorrelations between the 18 manifest variables as well as the means and standard deviations of the raw variables (which were later z transformed with M = 0 and SD = 1 because of different ranges of the various subscores) are presented in Table 2 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 247,
+                        "end": 254,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "The various goodness-of-fit indices for the alternative models are presented in Table 3 . 2 For our first model (Model 1), assuming one latent variable, achievement, an acceptable fit was found. The significant (p < .05) relations between the latent variables in this model are presented in Figure 1 . Loadings of the manifest variables on their designated latent variables and their error-uniqueness for this model are presented in Table 4 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 80,
+                        "end": 87,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 291,
+                        "end": 299,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 433,
+                        "end": 440,
+                        "text": "Table 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Because this is the model in which the possibility of correlated measurement errors is largest (because all latent variables were measured with more than one indicator), we will describe these correlated measurement errors here, providing their completely standardized values. For self-concept of arithmetic skills, significant correlated measurement errors were found between Grades 2 and 4 (.05); for selfconcept of problem solving, no correlated measurement errors were found; and for overall self-concept of mathematical competence, significant correlated measurement errors were found between Grades 2 and 3 (.06) and between Grades 3 and 4 (.08). For basic arithmetic skills, significant correlated measurement errors were found between Grades 2 and 3 (.15) and between Grades 3 and 4 (.24). For word problems, significant correlated measurement errors were found between Grades 3 and 4 (-.05). For marks, significant measurement errors were found between Grades 2 and 3 (.17), between Grades 3 and 4 (.23), and between Grades 2 and 4 (.15). The importance in assuming these measurement errors was also illustrated by the fact that a model without these errors showed a poorer fit: x 1 (126, N = 697) = 676.05, x 2 ldf= 5.37, GFI = .89, BBI = .89, TLI = .89; significance of the difference with Model 1, x 2 (18, N = 697) = 324.44, p < .001. However, the robustness of the solution in Figure 1 is illustrated by the fact that only small differences in the path coefficients occurred (mean difference = .035, maximum difference = .08; no changes in pattern of significance of path coefficients). 3 The two models in the second step, separately modeling 2 We tested all models against their autoregressive counterparts, in which only initial correlations but no cross-lagged effects were assumed. In all cases, the addition of cross-lagged effects led to significant (p < .001) improvements in the fit of the models. This indicates that achievement in mathematics and math-related selfconcept are related not only in the beginning of our measurement period but also have an additional influence on each other over time.",
+                "cite_spans": [
+                    {
+                        "start": 1601,
+                        "end": 1602,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1658,
+                        "end": 1659,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1391,
+                        "end": 1399,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "3 Note that although the effects of correlated measurement errors in Model 1 are only discussed here, correlated measurement errors were assumed in all estimated models throughout the study. However, because the effects of Models 2a, 2b, 3a, 3b, and 3c were largely similar to the effects in Model 1, they will not be discussed. Loadings are the result of the analyses of separate models. For self-concept, first loadings are from Model 2a, second loadings are from Model 2b. Marks 2-4 represent marks at the end of Grades 2, 3, and 4. Selfs 2-4 g, s, and m represent self-concept of mathematical ability concerning a general overall self-evaluation (g), arithmetic skills (s), and mathematical word problems (m) at Grades 2-4. Tests 2-4 a and k represent mathematical test performance in the subdomains arithmetic skills (a) and application and transfer of mathematical knowledge (k) at Grades 2-4. the relation between either marks and self-concept (Model 2a) or tests and self-concept (Model 2b), both show an acceptable fit. The significant (p < .05) relations between the latent variables in both models are presented in Figure 2 . Loadings of the manifest variables on their designated latent variables and the error-uniqueness for these models are presented in Table 5 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1126,
+                        "end": 1134,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1268,
+                        "end": 1275,
+                        "text": "Table 5",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "As discussed earlier, the use of a single indicator can be seen as a weakness of the models presented here. In a sensitivity analysis of Model 2a (where an a priori reliability estimate of .90 and a correlated residual of 12.5% of the uniqueness were assumed), we varied both the reliability estimates for the single indicator and the amount of correlated residuals. Table 6 presents a comparison of the results from Model 2a in Figure 2 , with estimates based on a reliability of 1.0, .95, .85, and .80, and a correlation between the residuals of 0%, 12.5%, 25%, and 50% of the corresponding residual variances (see Marsh, 1990b , for a description of this procedure). Table 6 shows that the stability of the latent variable \"grade\" varied inversely with the assumed reliability of the single indicators. The assuming of correlated residuals compensated marginally for this effect. Important for the interpretation of our models involving the single-indicator construct marks is that the cross-lagged paths varied only marginally with varying reliability of the indicators and varying correlated residuals.",
+                "cite_spans": [
+                    {
+                        "start": 617,
+                        "end": 629,
+                        "text": "Marsh, 1990b",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 367,
+                        "end": 374,
+                        "text": "Table 6",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 429,
+                        "end": 437,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 670,
+                        "end": 677,
+                        "text": "Table 6",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "For our third step, also assuming that marks and tests should be regarded as two separate latent variables, but now including them in one model, a model with a marginally acceptable fit was found (see Model 3a in Table 3 ). The significant (p < .05) relations between the latent variables in this model are presented in Figure 3 . Loadings of the manifest variables on their designated variables and their uniqueness-error for this model are presented in Table 7 . Again, the use of a single indicator was tested in a sensitivity analysis of Model 3a according to the same procedure as for Model 2a.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 213,
+                        "end": 220,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 320,
+                        "end": 328,
+                        "text": "Figure 3",
+                        "ref_id": "FIGREF4"
+                    },
+                    {
+                        "start": 455,
+                        "end": 462,
+                        "text": "Table 7",
+                        "ref_id": "TABREF6"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "The results of this analysis are presented in Table 8 . As established for Model 2a, for Model 3a we found that although the stability of the variable marks varied inversely with the assumed reliability of the single indicators, the cross-lagged paths involving this variable varied only marginally, with varying reliability of the indicators and varying correlated residuals. Inspection of the modification indices (Joreskog & Sorbom, 1989, p. 45) indicated that the fit of the model could be improved by allowing for additional covariance between the residuals of the latent variables tests and marks in Measurement Waves 3 and 4. Remember that the covariance between tests and marks in Measurement Wave 2 is already estimated in the model. Therefore, these additional covariances between the two residuals cannot by attributed to correlations assumed in an earlier wave or to the effects of the latent variable self-concept. Two alternative models were formulated to account for these additional covariances. First, Model 3b, where correlations between the residuals of the latent variables tests and marks within .49 Note. Correlation between uniqueness is set at 0%, 12.5%, 25%, or 50% of the uniqueness. Within a given model, the uniqueness for the three mark variables and the three uniqueness correlations among the three grade variables were assumed to be equal. a The headings in this row that follow indicate variables from which path coefficients originate. b The headings in this row that follow indicate resultant variables of path coefficients. Table 3 shows that both alternative models showed im- (Figure 3) and Model 3c (Figure 4 provements of fit as compared with Model 3a. Table 9 shows a comparison of the path coefficients of three versions of Model 3. Table 9 shows that when within-wave correlations were assumed (Model 3b as compared with Model 3a), only marginal differences between the path coefficients occurred. The only meaningful difference occurred in the path from self-concept in Grade 2 to tests in Grade 3. This effect was slightly smaller (.11 vs. .17) in the version of the model assuming within-wave correlations between the residuals. The effect from mathematics tests in Grade 3 to self-concept in Grade 4 increased from .08 to .10 and passed the level of significance. However, when cross-lagged effects were assumed (Model 3c as compared with Model 3a), the model changed drastically. As was expected, the stability of marks and tests decreased somewhat, the effects from achievement (both marks and tests) to self-concept remained fairly the same, but the effects from self-concept to achievement almost completely disappeared. To illustrate the impact of these changes, the significant relations (p < .05) between the latent variables in Model 3c are presented in Figure 4 . Loadings of the manifest variables on their designated variables and the uniqueness-error terms for this model are presented in Table 7 .",
+                "cite_spans": [
+                    {
+                        "start": 416,
+                        "end": 448,
+                        "text": "(Joreskog & Sorbom, 1989, p. 45)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2076,
+                        "end": 2089,
+                        "text": "(.11 vs. .17)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 46,
+                        "end": 53,
+                        "text": "Table 8",
+                        "ref_id": "TABREF8"
+                    },
+                    {
+                        "start": 1560,
+                        "end": 1567,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 1614,
+                        "end": 1624,
+                        "text": "(Figure 3)",
+                        "ref_id": "FIGREF4"
+                    },
+                    {
+                        "start": 1638,
+                        "end": 1647,
+                        "text": "(Figure 4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1693,
+                        "end": 1700,
+                        "text": "Table 9",
+                        "ref_id": "TABREF10"
+                    },
+                    {
+                        "start": 1775,
+                        "end": 1782,
+                        "text": "Table 9",
+                        "ref_id": "TABREF10"
+                    },
+                    {
+                        "start": 2809,
+                        "end": 2817,
+                        "text": "Figure 4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2948,
+                        "end": 2955,
+                        "text": "Table 7",
+                        "ref_id": "TABREF6"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "In comparing the substantial results of the various types of models, we see that their implications for the question of causal predominance of self-concept versus achievement differed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Assuming that marks and tests can be regarded as one latent variable, achievement, there was clear support for a skill-development model: The effect of the achievement on later self-concept was found repeatedly over both waves, whereas prior self-concept did not significantly contribute to the prediction of subsequent achievement. When the latent variable achievement was split into marks and tests, the picture was somewhat different.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "In the final model, with latent variables comprising marks and tests (as separate constructs but within the same model), for marks a complete reciprocal model was found between Grades 2 and 3, but between Grades 3 and 4 the effect of marks on self-concept was somewhat stronger than selfconcept on marks. For mathematics tests, the effects were reciprocal, both between Grades 2 and 3 and between Grades 3 and 4, although the effects were smaller than for marks. However, when effects of marks on tests and vice versa were allowed, the effects of self-concept on achievement completely disappeared, suggesting a pure skill-development model. Apparently, the small effects of self-concept on achievement can be understood in terms of relations between marks and test achievements, possibly caused by third variables underlying both.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "A comparison of the separate models for marks and tests . 11 .12 .79 .12 .81 .11 .12 .79 .12 .81 .11 .12 .79 .12 .80 .11 .13 .78 .13 .80 . .80 Note. Correlation between uniqueness is set at 0%, 12.5%, 25%, or 50% of the uniqueness. Within a given model, the uniqueness for the three mark variables and the three uniqueness correlations among the three mark variables were assumed to be equal. M = mark; S = self; T = test.",
+                "cite_spans": [
+                    {
+                        "start": 58,
+                        "end": 136,
+                        "text": "11 .12 .79 .12 .81 .11 .12 .79 .12 .81 .11 .12 .79 .12 .80 .11 .13 .78 .13 .80",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "(Models 2a and 2b) and the model with marks and tests as separate latent variables leads to somewhat different conclusions with regard to the effect of math tests on selfconcept. The use of either marks or tests may lead to artificially high regression coefficients. The effects of marks and tests in separate models seem to be partly caused by common factors. Therefore, the inclusion of both in one model leads to more correct estimations of these effects, resulting particularly in lower estimates for the effect of math tests on self-concept.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "We tested for gender differences in our results by including gender as a variable in all our structural models and reestimating them, assuming effects of gender on all latent variables (cf. Marsh et al., 1985; Skaalvik, 1990) . The fit of these models was only slightly higher than that of the respective models without gender (the largest difference in X^ldf ratio was .18 for Model 3a). Furthermore, a general pattern was found in which gender had an effect on selfconcept, indicating that boys had a higher self-concept than girls (the path coefficients from gender to self-concept in Grade 2 were .33 in all models) and, to a lesser extent, an effect on achievement (for both test and marks), indicating that boys also had a slightly higher level of mathematics achievement than girls (path coefficients from gender to achievement ranged from .17 to .19). More important for this investigation, however, was the fact that the pattern of path coefficients presented in Figures 1-4 did not change when gender was included as a variable in the analyses. (The maximum change in path coefficients was .06, found in all models as a reduction of the initial [Grade 2] correlation between achievement and self-concept.) This suggests that gender effects, although they influence the level of achievement and self-concept, do not change the pattern of causal predominance found for the total sample.",
+                "cite_spans": [
+                    {
+                        "start": 190,
+                        "end": 209,
+                        "text": "Marsh et al., 1985;",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 210,
+                        "end": 225,
+                        "text": "Skaalvik, 1990)",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 972,
+                        "end": 983,
+                        "text": "Figures 1-4",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "A main result of our study on the causal ordering of self-concept and academic achievement in elementary school is certainly the difference in the patterns of \"crosslagged effects\" (effects of self-concept at Time 1 on achievement at Time 2 and vice versa) between simple models using only one indicator of achievement and more complex models that use both indicators of scholastic achievement. The former models, which use either test performance or marks (such as the majority of relevant studies, see Table 1) , yield a reciprocal model, implying that self-concept in elementary school serves both as cause and as effect. However, there is an increasing dominance of paths leading from achievement to self-concept, as compared with the paths from self-concept to achievement, supporting the skill development model more than the selfenhancement model. Surprisingly, the pattern of effects is .12 .68 .24 Note. Mark = mark at the end of each year; Self = self-concept of ability in mathematics; Test = mathematics test performance. a Model 3a without relations between tests and marks in Grades 3 and 4. b Model 3b with correlations between tests and marks within Grades 3 and 4. c Model 3c with cross-lagged effects from marks in Grade T on tests in Grade T + 1 and vice versa. * Not significant. very similar for marks and test scores, indicating that using grades or test performance as an indicator of academic achievement makes no difference for the question of causal ordering. The inclusion of both achievement indicators as manifest variables of one construct (as done by Byrne, 1986 ) supports the skill development approach even more clearly: Later achievement depends almost completely only on prior achievement and not on prior self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 1582,
+                        "end": 1593,
+                        "text": "Byrne, 1986",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 504,
+                        "end": 512,
+                        "text": "Table 1)",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "However, the last, most complex model, which includes marks and tests as independent variables (as recommended by Marsh, 1990a) , presented in Figures 3 and 4 , tells a somewhat different, more subtle story. First, it underlines the imbalance of the pattern of cross-lagged effects in the relation between self-concept and achievement: In Figure 4 , there is not a single significant path leading from selfconcept to either later test performance or marks. Thus, these results of our study are not in accordance with the majority of existing studies dealing with this topic, which have-for older students--predominantly underlined the reciprocal character of the relationship between self-concept and achievement.",
+                "cite_spans": [
+                    {
+                        "start": 114,
+                        "end": 127,
+                        "text": "Marsh, 1990a)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 143,
+                        "end": 158,
+                        "text": "Figures 3 and 4",
+                        "ref_id": "FIGREF4"
+                    },
+                    {
+                        "start": 339,
+                        "end": 347,
+                        "text": "Figure 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Possibly, the motivational properties of self-concept are not yet fully developed in elementary school. In other words, an efficient way to improve self-concept of ability in elementary school children is to improve their achievement competence. This result would have clearly been masked if only one indicator of achievement (either marks or test performance) had been used in our study. Furthermore, this model illustrates the relative impact of tests versus marks on subsequent self-concept. Whereas from second to third grade both influences are equally strong (.16 and .17) , there is a tendency toward a stronger impact of marks on selfconcept (.28) from third to fourth grade, as compared with the path from tests to self-concept (.12). Although the result is less clear than we had expected, it underlines the psychologically important differences between tests and marks. The latter are subjectively relevant for students because the mental anticipation of marks may represent a strong incentive for initiating learning activities, effort and persistence (Helmke, 1989) . Also, whereas (in the German school system) marks are usually communicated to the students (often in public, which facilitates social comparison processes), test results are usually not reported to the students. Also, because the students did not know about the math tests in advance, preparation was not possible. Thus, the result of an achievement test probably reflects the actual competence of the student in that domain to a greater extent, but it is subjectively less important because success and failure on these tests have no crucial consequences. Finally, our complex model stresses the dynamics of the interrelationship between both indicators of achievement-grades and test performance-and its changes over time. From the perspective of developmental psychology (cf. Harter, 1983) , our results with regard to the determinants of students' self-concept of ability support the conception of two distinct sources of self-evaluation in children, namely (a) competence, in particular, speed and quality of performance, and (b) evaluation by significant others (here, teachers) and the notion that both of these sources (a and b) appear to operate (at least, to some degree) independently from each other. That is, not only marks (which reflect to a major extent teachers' evaluation of students' cumulative achievement) but also actual competence (or \"mastery,\" indicated by test performance) proved to influence selfconcept development. The experience of solving the test tasks (or failing to solve them) may affect students' selfevaluation even though they were not informed about their individual results. However, one cannot rule out the possibility that some informal within-classroom social comparison processes (e.g., immediately after the completion of the test) may have taken place.",
+                "cite_spans": [
+                    {
+                        "start": 565,
+                        "end": 578,
+                        "text": "(.16 and .17)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1064,
+                        "end": 1078,
+                        "text": "(Helmke, 1989)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1860,
+                        "end": 1873,
+                        "text": "Harter, 1983)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Although the addition of cross-lagged paths to the model always led to a significant improvement of the fit when compared with \"autoregressive models\" (models comprising only effects between identical variables assessed at different times, i.e., no \"cross-lagged\" paths from one variable at Time 1 to another variable at Time 2, etc.), one could still ask why the cross-lagged effects are so low and why the autoregressive effects are so high. It should be noted that in our study the stability coefficients (i.e., the correlations of self-concept and achievement over time) were based on Figure 4 . LISREL model with marks and test performance as separate indicators of mathematics achievement, allowing for cross-lagged effects from test performance to marks and vice versa (Model 3c). Mark = mark at the end of each year; Self = self-concept of ability in mathematics; Test = mathematics test.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 589,
+                        "end": 597,
+                        "text": "Figure 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "measures that were constructed to be as similar as possible, because one goal of the study had been to analyze real gains. Thus, we probably have a maximum of stability and a minimum of cross-lagged effects in our study. This leads to a well-known general problem of longitudinal studies that attempt to model the dynamic of the interplay between various constructs: The more similar (in the extreme case, identical) the operationalizations for the same variable over time, the higher (other things being equal) their autocorrelations-and the smaller the size of possible cross-lagged effects. That is, because our math tests across proximal waves were characterized by a considerable amount of content overlap, a maximizing of temporal stability and a minimizing of cross-lagged effects were the consequences.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "What is the optimal time interval for studies investigating the causal interrelationship between self-concept and achievement? On the one hand, it is obvious that very large time intervals (e.g., several years) may, depending on the domain and the age level under consideration, mask important developmental phenomena. On the other hand, if one is interested in changes of self-concept and achievement level, conceptualized as relatively stable personality characteristics, daily or weekly fluctuations are certainly less interesting. In our opinion, the smallest natural time lag that makes theoretical sense for the issue of causal ordering of selfconcept and achievement is the time interval between marks, which ranges, depending on the school system, from a couple of months to a semester or even a whole year. Nevertheless, it is possible (and even probable) that in special cases and for some persons certain critical events (e.g., a specific rating or mark, or a comment made by a personally very important person, or another important experience) may lead to abrupt and perhaps even lasting changes in the level of self-concept. The same is true for sudden changes in the level of academic achievement, for example, shifts of competence caused by the emergence of qualitatively different stages of information processing or by sudden insights. To the degree that changes in selfconcept or achievement occur discretely rather than in a continuous manner, designs providing fixed intervals (such as years) necessarily lead to an increase in the error variance.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The scope of this study has been to fill a gap with regard to the issue of the causal ordering of self-concept and achievement in elementary school, and especially to differentiate the global construct achievement into two components with different psychological meaning, specifically marks and test performance. As our results have shown, previous research on the causal ordering of self-concept and achievement based on either of the two aspects of achievement, or on a mixture of both, tells only part of the story. The most complex-and probably also the most realisticmodel clearly supports the skill-development model. It indicates that during elementary school self-concept is mainly a consequence of cumulative achievement-related success and failure and that it does not have a significant impact on later achievement, neither on marks nor on test performance.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Nevertheless, many related questions concerning the causal ordering issue could not (or were not intended to) be answered in this research, and a couple of new questions may have arisen. For example, the results must leave unex-plained an important paradox: Models that include only grades or test scores indicate effects of self-concept on subsequent achievement, whereas the model including both grades and test scores does not. At present, we do not know which mechanisms are responsible for this effect. To shed more light on this phenomenon, in-depth studies focusing on the dynamics of the mutual relationship between various components of academic achievement-including marks and test performance, as well as other indicators-and possible mediational processes between those indicators appear necessary.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Furthermore, although the complex model (including tests and marks as different constructs) used in our study and recommended for future investigations on this issue may appear complicated enough, one could go further and ask for group specificity, domain specificity, and context specificity of the results (Helmke & Weinert, in press-a, in press-b) . In other words, where and to which degree is it possible to develop global and universal models, and where is it necessary to build local and domain-specific models (for a discussion of this point see Snow & Swanson, 1992) ? For example, are there differences with regard to the domain or subject matter (cf. Faber, 1992; Marsh, 1990c Marsh, , 1992 , or to the classroom context (style of instruction and feedback, classroom composition and social climate, see Helmke, 1992; Rosenholtz & Simpson, 1984) ? And finally, What are the crucial mediating psychological processes accounting for the causal effects of self-concept on achievement (and vice versa), and do they change with age? This list could easily be expanded. Much more theoretical and empirical work, preferably based on longitudinal and quasiexperimental field studies, must be done to gain a deeper understanding of the interplay between self-concept and achievement and its dynamics.",
+                "cite_spans": [
+                    {
+                        "start": 308,
+                        "end": 350,
+                        "text": "(Helmke & Weinert, in press-a, in press-b)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 554,
+                        "end": 575,
+                        "text": "Snow & Swanson, 1992)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 662,
+                        "end": 674,
+                        "text": "Faber, 1992;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 675,
+                        "end": 687,
+                        "text": "Marsh, 1990c",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 688,
+                        "end": 701,
+                        "text": "Marsh, , 1992",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 814,
+                        "end": 827,
+                        "text": "Helmke, 1992;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 828,
+                        "end": 855,
+                        "text": "Rosenholtz & Simpson, 1984)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Self-esteem in young men: A longitudinal analysis of the impact of educational and occupational attainment",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Bachman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Malley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1977,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "35",
+                "issue": "",
+                "pages": "365--380",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bachman, J. G., & O'Malley, P. M. (1977). Self-esteem in young men: A longitudinal analysis of the impact of educational and occupational attainment. Journal of Personality and Social Psy- chology, 35, 365-380.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Significance tests and goodness of fit in the analysis of covariance structures",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Bonett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "Psychological Bulletin",
+                "volume": "88",
+                "issue": "",
+                "pages": "588--606",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bentler, P.M., & Bonett, D. G. (1980). Significance tests and goodness of fit in the analysis of covariance structures. Psycho- logical Bulletin, 88, 588-606.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Pre-school measures of self-esteem and achievement motivation as predictors of thirdgrade achievement",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Bridgeman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Shipman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "Journal of Educational Psychology",
+                "volume": "70",
+                "issue": "",
+                "pages": "17--28",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bridgeman, B., & Shipman, V. C. (1978). Pre-school measures of self-esteem and achievement motivation as predictors of third- grade achievement. Journal of Educational Psychology, 70, 17-28.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "The general/academic self-concept nomological network: A review of construct validation research",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Review of Educational Research",
+                "volume": "54",
+                "issue": "",
+                "pages": "427--456",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1984). The general/academic self-concept nomolog- ical network: A review of construct validation research. Review of Educational Research, 54, 427-456.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Self-concept/academic achievement relations: An investigation of dimensionality, stability, and causality",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Canadian Journal of Behavioral Science",
+                "volume": "18",
+                "issue": "",
+                "pages": "173--186",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1986). Self-concept/academic achievement rela- tions: An investigation of dimensionality, stability, and causal- ity. Canadian Journal of Behavioral Science, 18, 173-186.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "A primer ofLJSREL. Basic applications and programming for confirmatory factor analytic models",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1989). A primer ofLJSREL. Basic applications and programming for confirmatory factor analytic models. New York: Springer.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Self-concept of ability and perceived evaluation of others: Cause or effect of academic achievements",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Calsyn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kenny",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1977,
+                "venue": "Journal of Educational Psychology",
+                "volume": "69",
+                "issue": "",
+                "pages": "136--145",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Calsyn, R. J., & Kenny, D. A. (1977). Self-concept of ability and perceived evaluation of others: Cause or effect of academic achievements? Journal of Educational Psychology, 69, 136 - 145.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Affective variables and school achievement: A study of possible causal influences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Chapman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Cullen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Boersma",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Maguire",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Canadian Journal of Behavioural Sciences",
+                "volume": "13",
+                "issue": "",
+                "pages": "181--192",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chapman, J. W., Cullen, J. L., Boersma, F. J., & Maguire, T. O. (1981). Affective variables and school achievement: A study of possible causal influences. Canadian Journal of Behavioural Sciences, 13, 181-192.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Some antecedents of academic self-concept: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Chapman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lambourne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Silva",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "60",
+                "issue": "",
+                "pages": "142--152",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chapman, J. W., Lambourne, R., & Silva, P. A. (1990). Some antecedents of academic self-concept: A longitudinal study. British Journal of Educational Psychology, 60, 142-152.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "The motive for self-worth",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Covington",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Research on motivation in education: Student motivation",
+                "volume": "1",
+                "issue": "",
+                "pages": "78--113",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Covington, M. V. (1984). The motive for self-worth. In R. Ames, & C. Ames (Eds.), Research on motivation in education: Student motivation (Vol. 1, pp. 78-113). Orlando, FL: Academic Press.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Age and gender differences in children's self-and task perceptions during elementary school",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Blumenfeld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Child Development",
+                "volume": "64",
+                "issue": "",
+                "pages": "830--847",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J., Wigfield, A., Harold, R. D., & Blumenfeld, P. (1993). Age and gender differences in children's self-and task percep- tions during elementary school. Child Development, 64, 830- 847.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Bereichsspezifische Beziehungen zwischen leistungsthematischen Schiilerselbstkonzepten und Schulleistungen [Domain-specific relations between academic self-concepts and academic achievements",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Faber",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Faber, G. (1992). Bereichsspezifische Beziehungen zwischen leis- tungsthematischen Schiilerselbstkonzepten und Schulleistungen [Domain-specific relations between academic self-concepts and academic achievements].",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "The effect of self-appraisals of ability on academic performance",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Felson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "47",
+                "issue": "",
+                "pages": "944--952",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Felson, R. B. (1984). The effect of self-appraisals of ability on academic performance. Journal of Personality and Social Psy- chology, 47, 944-952.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Sex differences in cognitive abilities",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Halpern",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Halpern, D. F. (1992). Sex differences in cognitive abilities. Hillsdale, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "The relationship between self and achievement/performance measures",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Hansford",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hattie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Review of Educational Research",
+                "volume": "52",
+                "issue": "",
+                "pages": "123--142",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hansford, B. C, & Hattie, J. A. (1982). The relationship between self and achievement/performance measures. Review of Educa- tional Research, 52, 123-142.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Socialization, personality, and social development",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Handbook of child psychology",
+                "volume": "4",
+                "issue": "",
+                "pages": "275--385",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1983). Developmental perspectives on the self-system. In P. H. Mussen (Ed.), Handbook of child psychology: Vol. 4. Socialization, personality, and social development (pp. 275- 385; 4th ed.). New York: Wiley.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Incentive value of success and failure in school: Developmental trends and impact on academic achievement",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "International perspectives on achievement and task motivation",
+                "volume": "",
+                "issue": "",
+                "pages": "225--237",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helmke, A. (1989). Incentive value of success and failure in school: Developmental trends and impact on academic achieve- ment. In F. Halisch & J. H. L. van den Bercken (Eds.), Interna- tional perspectives on achievement and task motivation (pp. 225-237). Lisse: Swets & Zeitlinger.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Entwicklung des Fahigkeitsselbstbildes vom Kindergarten bis zur dritten Klasse",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "83--99",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helmke, A. (1991). Entwicklung des Fahigkeitsselbstbildes vom Kindergarten bis zur dritten Klasse. In R. Pekrun & H. Fend (Eds.), Schule und Persb'nlichkeitsentwicklung. Ein Resumee der Langsschnittforschung [Development of self-concept of ability from kindergarten till Grade 3] (pp. 83-99). Stuttgart: Enke.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Selbstvertrauen und schulische Leistungen [Self-confidence and scholastic achievement",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helmke, A. (1992). Selbstvertrauen und schulische Leistungen [Self-confidence and scholastic achievement]. Gottingen: Hogrefe.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "From optimism to realism? Development of children's academic self-concept from kindergarten to Grade 6",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Individual development from 3 to 12: Findings from the Munich Longitudinal Study",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helmke, A. (in press). From optimism to realism? Development of children's academic self-concept from kindergarten to Grade 6. In F. E. Weinert & W. Schneider (Eds.), Individual development from 3 to 12: Findings from the Munich Longitudinal Study. Cambridge, England: Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "press-a). Bedingungsfaktoren schulischer Leistungen",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Weinert",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helmke, A., & Weinert, F. E. (in press-a). Bedingungsfaktoren schulischer Leistungen [Determinants of scholastic achieve- ment].",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Psychologie der Schule und des Unterrichts",
+                "authors": [],
+                "year": null,
+                "venue": "Enzyklopddie der Psychologie",
+                "volume": "3",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "In F. E. Weinert (Ed.), Enzyklopddie der Psychologie, Band 3: Psychologie der Schule und des Unterrichts. Gottingen, Germany: Hogrefe.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Schooling and the development of achievement differences",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Weinert",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "press-b)",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helmke, A., & Weinert, F. E. (in press-b). Schooling and the development of achievement differences. In F. E. Weinert, & W.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Individual development from 3 to 12: Findings from the Munich Longitudinal Study",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Schneider",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schneider (Eds.), Individual development from 3 to 12: Findings from the Munich Longitudinal Study. Cambridge, England: Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Gender differences in mathematics performance: A meta-analysis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Hyde",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Fennema",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Lamon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Psychological Bulletin",
+                "volume": "107",
+                "issue": "",
+                "pages": "139--155",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hyde, J. S., Fennema, E., & Lamon, S. J. (1990). Gender differ- ences in mathematics performance: A meta-analysis. Psycholog- ical Bulletin, 107, 139-155.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Selbstbezogene Kognitionen in schulischen Bezugsgruppen",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jerusalem",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Eine Langsschnittstudie [Self-related cognitions in different reference groups: A longitudinal study",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jerusalem, M. (1983). Selbstbezogene Kognitionen in schulischen Bezugsgruppen. Eine Langsschnittstudie [Self-related cogni- tions in different reference groups: A longitudinal study].",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Gender differences in beliefs and achievement: A cross-cultural study",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Joreskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Sorbom",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Spss",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Inc",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Lummis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Stevenson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Developmental Psychology",
+                "volume": "26",
+                "issue": "",
+                "pages": "254--263",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Joreskog, K. G., & Sorbom, D. (1989). LJSREL 7-A guide to the program and applications (2nd ed.). Chicago: SPSS, Inc. Lummis, M., & Stevenson, H. W. (1990). Gender differences in beliefs and achievement: A cross-cultural study. Developmental Psychology, 26, 254-263.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Verbal and math self-concepts: An internal/ external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concepts: An internal/ external frame of reference model. American Educational Re- search Journal, 23, 129-149.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "The big-fish-little-pond effect on academic self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Journal of Educational Psychology",
+                "volume": "79",
+                "issue": "",
+                "pages": "280--295",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1987). The big-fish-little-pond effect on academic self-concept. Journal of Educational Psychology, 79, 280-295.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Causal effects of academic self-concept on academic achievement: A reanalysis of Newman",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "",
+                "volume": "56",
+                "issue": "",
+                "pages": "100--104",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1988). Causal effects of academic self-concept on academic achievement: A reanalysis of Newman (1981). Jour- nal of Experimental Education, 56, 100-104.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "A multidimensional, hierarchical model of self-concept: Theoretical and empirical justification",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Educational Psychology Review",
+                "volume": "2",
+                "issue": "",
+                "pages": "77--172",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990a). A multidimensional, hierarchical model of self-concept: Theoretical and empirical justification. Educa- tional Psychology Review, 2, 77-172.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal panel analysis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "646--656",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990b). Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal panel analysis. Journal of Educational Psychology, 82, 646-656.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Influences of internal and external frames of reference on the formation of math and English self-concepts",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "107--116",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990c). Influences of internal and external frames of reference on the formation of math and English self-concepts. Journal of Educational Psychology, 82, 107-116.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Content specificity of relations between academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of Educational Psychology",
+                "volume": "84",
+                "issue": "",
+                "pages": "35--42",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1992). Content specificity of relations between academic achievement and academic self-concept. Journal of Educational Psychology, 84, 35-42.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Goodnessof-fit indices in confirmatory factor analyses: The effect of sample size",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Balla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Mcdonald",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Psychological Bulletin",
+                "volume": "103",
+                "issue": "",
+                "pages": "391--410",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Balla, J. R., & McDonald, R. P. (1988). Goodness- of-fit indices in confirmatory factor analyses: The effect of sample size. Psychological Bulletin, 103, 391-410.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Multidimensional self-concepts: Relations with sex and academic achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Barnes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Journal of Educational Psychology",
+                "volume": "77",
+                "issue": "",
+                "pages": "581--596",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Smith, I. D., & Barnes, J. (1985). Multidimensional self-concepts: Relations with sex and academic achievement. Journal of Educational Psychology, 77, 581-596.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Selfesteem and educational achievement: Independent constructs with a common sense",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Maruyama",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Rubin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Kingsbury",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "40",
+                "issue": "",
+                "pages": "962--975",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Maruyama, G., Rubin, R. A., & Kingsbury, G. G. (1981). Self- esteem and educational achievement: Independent constructs with a common sense? Journal of Personality and Social Psy- chology, 40, 962-975.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Relation of self-efficacy beliefs to academic outcomes: A meta-analytic investigation",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Multon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Lent",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Journal of Counseling Psychology",
+                "volume": "38",
+                "issue": "",
+                "pages": "30--38",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Multon, K. D., Brown, S. D., & Lent, R. W. (1991). Relation of self-efficacy beliefs to academic outcomes: A meta-analytic investigation. Journal of Counseling Psychology, 38, 30-38.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Children's achievement and self-evaluations in mathematics: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Newman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Journal of Educational Psychology",
+                "volume": "76",
+                "issue": "",
+                "pages": "857--873",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Newman, R. S. (1984). Children's achievement and self-evalua- tions in mathematics: A longitudinal study. Journal of Educa- tional Psychology, 76, 857-873.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Die Entwicklung Leistungsbezogener Identitat bei Schiilern",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Pekrun",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pekrun, R. (1987). Die Entwicklung Leistungsbezogener Identitat bei Schiilern [Development of pupils' achievement-related iden- tity].",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Identitat, Entwicklungen psychologischer und soziologischer Forschung",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "43--57",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "In H. P. Frey & K. HauBer (Eds.), Identitat, Entwicklungen psychologischer und soziologischer Forschung (pp. 43-57). Stuttgart: Enke.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Is there a causal relation between self-concept and academic achievement?",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pottebaum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Keith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Ehly",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Journal of Educational Research",
+                "volume": "79",
+                "issue": "",
+                "pages": "140--144",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pottebaum, S. M., Keith, T. Z., & Ehly, S. W. (1986). Is there a causal relation between self-concept and academic achieve- ment? Journal of Educational Research, 79, 140-144.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Statistical assumptions and social reality: A critical analysis of achievement models",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Pugh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Sociology of Education",
+                "volume": "49",
+                "issue": "",
+                "pages": "34--40",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pugh, M. D. (1976). Statistical assumptions and social reality: A critical analysis of achievement models. Sociology of Education, 49, 34-40.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "A critique of cross-lagged correlation",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Rogosa",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "Psychological Bulletin",
+                "volume": "88",
+                "issue": "",
+                "pages": "245--258",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rogosa, D. (1980). A critique of cross-lagged correlation. Psycho- logical Bulletin, 88, 245-258.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "The formation of ability conceptions: Developmental trend or social construction? Review of Educational Research",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rosenholtz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Simpson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "",
+                "volume": "54",
+                "issue": "",
+                "pages": "31--63",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenholtz, S. J., & Simpson, C. (1984). The formation of ability conceptions: Developmental trend or social construction? Re- view of Educational Research, 54, 31-63.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Increasing educational achievement via self-concept change",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Scheirer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Kraut",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "Review of Educational Research",
+                "volume": "49",
+                "issue": "",
+                "pages": "131--150",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Scheirer, M. A., & Kraut, R. E. (1979). Increasing educational achievement via self-concept change. Review of Educational Research, 49, 131-150.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Lassen sich Lehrer bei der Leistungsbeurteilung von sachfremden Gesichtspunkten leiten? Eine Untersuchung zu Determinanten diagnostischer Lehrerurteile [Are teachers' grades influenced by non-achievement-related considerations? An analysis of the determinants of teachers' diagnostic competence",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Schrader",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "",
+                "volume": "22",
+                "issue": "",
+                "pages": "312--324",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schrader, F. W., & Helmke, A. (1990). Lassen sich Lehrer bei der Leistungsbeurteilung von sachfremden Gesichtspunkten leiten? Eine Untersuchung zu Determinanten diagnostischer Lehrerur- teile [Are teachers' grades influenced by non-achievement-re- lated considerations? An analysis of the determinants of teachers' diagnostic competence]. Zeitschrift fur Entwicklungs- psychologie und Pddagogische Psychologie, 22, 312-324.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Self-concept: The interplay of theory and methods",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Bolus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Journal of Educational Psychology",
+                "volume": "74",
+                "issue": "",
+                "pages": "3--17",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shavelson, R. J., & Bolus, R. (1982). Self-concept: The interplay of theory and methods. Journal of Educational Psychology, 74, 3-17.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Gender differences in general academic self-esteem and in success expectations on defined academic problems",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "593--598",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M. (1990). Gender differences in general academic self-esteem and in success expectations on defined academic problems. Journal of Educational Psychology, 82, 593-598.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Academic achievement and self-concept: An analysis of causal predominance in a developmental perspective",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hagtvet",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "58",
+                "issue": "",
+                "pages": "292--307",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Hagtvet, K. A. (1990). Academic achievement and self-concept: An analysis of causal predominance in a developmental perspective. Journal of Personality and Social Psychology, 58, 292-307.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Math, verbal, and general academic self-concept: The internal/external frame of reference model and gender differences in self-concept structure",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "546--554",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1990). Math, verbal, and general academic self-concept: The internal/external frame of reference model and gender differences in self-concept structure. Journal of Educational Psychology, 82, 546-554.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Instructional psychology: Aptitude, adaptation, and assessment",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Snow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Swanson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Annual Review of Psychology",
+                "volume": "43",
+                "issue": "",
+                "pages": "583--626",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Snow, R. E., & Swanson, J. (1992). Instructional psychology: Aptitude, adaptation, and assessment. Annual Review of Psy- chology, 43, 583-626.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Mathematiktest. In Max-Planck Institute for Psychological Research",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Stern",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "36--38",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stern, E. (1989). Mathematiktest. In Max-Planck Institute for Psychological Research (Ed.), Tdtigkeitsbericht 1987-1989. [Activity report 1987-1989] (pp. 36-38). Munchen, Germany: Max-Planck-Institut fur psychologische Forschung.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "What makes certain arithmetic word problems involving the comparison of sets so difficult for children?",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Stern",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Journal of Educational Psychology",
+                "volume": "85",
+                "issue": "",
+                "pages": "7--23",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stern, E. (1993). What makes certain arithmetic word problems involving the comparison of sets so difficult for children? Jour- nal of Educational Psychology, 85, 7-23.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Gender differences in children's achievement-related beliefs and emotional responses to success and failure in mathematics",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Stipek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Gralinski",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Journal of Educational Psychology",
+                "volume": "83",
+                "issue": "",
+                "pages": "361--371",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stipek, D., & Gralinski, J. H. (1991). Gender differences in chil- dren's achievement-related beliefs and emotional responses to success and failure in mathematics. Journal of Educational Psychology, 83, 361-371.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "A reliability coefficient for maximum likelihood factor analysis",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Tucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Lewis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1973,
+                "venue": "Psychometrika",
+                "volume": "38",
+                "issue": "",
+                "pages": "1--10",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tucker, L. R., & Lewis, C. A. (1973). A reliability coefficient for maximum likelihood factor analysis. Psychometrika, 38, 1-10.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Inter-classroom differences in instructional quality and interindividual differences in cognitive development",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Weinert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Educational Psychologist",
+                "volume": "30",
+                "issue": "",
+                "pages": "15--20",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Weinert, F. E., & Helmke, A. (1995a). Inter-classroom differences in instructional quality and interindividual differences in cogni- tive development. Educational Psychologist, 30, 15-20.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Learning from wise mother nature or big brother instruction: The wrong alternative for cognitive development",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Weinert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Educational Psychologist",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Weinert, F. E., & Helmke, A. (1995b). Learning from wise mother nature or big brother instruction: The wrong alternative for cognitive development. Educational Psychologist.",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "The neglected role of individual differences in theoretical models of cognitive development",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Weinert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Weinert, F. E., & Helmke, A. (in press). The neglected role of individual differences in theoretical models of cognitive devel- opment. Learning and Instruction.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "= self-concept of ability; SEM = structural equation modeling; a Partial least squares method. b Without latent variables. c Reanalysis of (1988) reanalysis of the Newman data led to a different conclusion. GPA = grade point average. the Youth in Transition Study. d However, cf. Marsh's O'"
+            },
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "LISREL model with math achievement aggregated across math test performance and marks. Ach = achievement in mathematics, aggregated across mark and grade; Self = selfconcept of ability in mathematics."
+            },
+            "FIGREF2": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Two LISREL models, displayed separately for marks (upper part) and tests (lower part) as indicators of mathematics achievement. Mark = mark at the end of each school year; Self = self-concept of ability in mathematics; Test = mathematics test."
+            },
+            "FIGREF3": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Wave 3 and within Wave 4 were estimated. Second, Model 3c, where additional cross-lagged paths were estimated from marks in Wave 2 on tests in Wave 3, from marks in Wave 3 on tests in Wave 4, from tests in Wave 2 on marks in Wave 3, and from tests in Wave 3 on tests in Wave 4."
+            },
+            "FIGREF4": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "LISREL model with marks and test performance as separate indicators of mathematics achievement (Model 3a). Mark = mark at the end of each school year; Self = self-concept of ability in mathematics; Test = mathematics test."
+            },
+            "FIGREF5": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Loadings are the result of the analyses of separate models. First loadings are from Model 3a, second loadings are from Model 3c. Marks 2-4 represent marks at the end of Grades 2, 3, and 4. Selfs 2-4 g, s, and m represent self-concept of mathematical ability concerning a general overall selfevaluation (g), arithmetic skills (s), and mathematical word problems (m) at Grades 2-4. Tests 2-4 a and k represent mathematical test performance in the subdomains arithmetic skills (a) and application and transfer of mathematical knowledge (k) at Grades 2-4."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td/><td>Achievement</td></tr><tr><td>Study</td><td>measure</td></tr><tr><td>Byrne</td><td>Marks and</td></tr><tr><td>(1986)</td><td>tests (reading)</td></tr><tr><td>Helmke</td><td>Marks and tests</td></tr><tr><td>(1992)</td><td>(mathematics)</td></tr><tr><td>Jerusalem</td><td>Marks</td></tr><tr><td>(1983) Marsh 0</td><td>(mathematics) GPA (self-report)</td></tr><tr><td>(1990b)</td><td>(3 subjects)</td></tr><tr><td>Newman</td><td>Test</td></tr><tr><td>(1984)</td><td>(mathematics)</td></tr><tr><td>Pekrun</td><td>GPA</td></tr><tr><td>(1987)</td><td>(3 subjects)</td></tr><tr><td>Shavelson &amp; Bolus</td><td>GPA</td></tr><tr><td>(1982)</td><td>\\j SUDjectS;</td></tr><tr><td>Skaalvik &amp; Hagtvet (1990)</td><td/></tr></table>",
+                "type_str": "table",
+                "text": "An Overview of Longitudinal Studies Using Structural Equation Causal Modeling on the Causal Predominance of Academic Self-Concept and Academic Achievement"
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td>Variable/test</td><td>M</td><td colspan=\"2\">SD 1</td><td>10 11 12 13 14 15 16 17 18</td></tr><tr><td>Marks</td><td/><td/><td/></tr><tr><td>1. Mark2</td><td colspan=\"2\">4.59 0.95</td><td/></tr><tr><td>2. Mark3</td><td colspan=\"2\">4.31 1.00</td><td>.577 -</td></tr><tr><td>3. Mark4 Self-concept</td><td colspan=\"2\">4.21 1.02</td><td>.552 .754 -</td></tr><tr><td>4. Self2g</td><td>0.84</td><td>1.00</td><td/></tr><tr><td>5. Self2s</td><td>0.94</td><td>0.89</td><td/></tr><tr><td>6. Self2m</td><td>0.78</td><td>1.16</td><td/></tr><tr><td>7. Selfig</td><td>0.53</td><td>0.88</td><td/></tr><tr><td>8. Selfis</td><td>0.43</td><td>0.71</td><td/></tr><tr><td>9. Self3m</td><td>0.30</td><td>0.83</td><td/></tr><tr><td>10. Self4g</td><td>0.45</td><td>0.83</td><td/></tr><tr><td>11. Self4s</td><td>0.38</td><td>0.68</td><td/></tr><tr><td>12. Self4m</td><td>0.36</td><td>0.88</td><td/></tr><tr><td>Mathematics</td><td/><td/><td/></tr><tr><td>13. Test2a</td><td>27.51</td><td>9.52</td><td/></tr><tr><td>14. Test2k</td><td>14.25</td><td>5.76</td><td/></tr><tr><td>15. Test3a</td><td>15.93</td><td>5.86</td><td/></tr><tr><td>16. Test3k</td><td>5.48</td><td>2.33</td><td/></tr><tr><td>17. Test4a</td><td>14.41</td><td>3.26</td><td/></tr><tr><td>18. Test4k</td><td>7.68</td><td>4.24</td><td/></tr></table>",
+                "type_str": "table",
+                "text": "Intercorrelations of the Manifest Variables"
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td>Model</td><td/><td>df</td><td/><td>GFI</td><td>BBI</td><td>TLI</td><td>Description</td></tr><tr><td>1 1-auto</td><td>351.61 493.97</td><td>108 112</td><td>3.26 4.23</td><td>.94 .93</td><td>.94 .90</td><td>.94 .92</td><td>Model with one latent variable (achievement) Model 1 with autoregressive relations only</td></tr><tr><td>2a</td><td>158.85</td><td>39</td><td>4.07</td><td>.96</td><td>.96</td><td>.95</td><td>Model with one latent variable (marks)</td></tr><tr><td>2a-auto</td><td>300.07</td><td>43</td><td>6.98</td><td>.94</td><td>.88</td><td>.90</td><td>Model 2a with autoregressive relations only</td></tr><tr><td>2b</td><td>167.68</td><td>66</td><td>2.54</td><td>.97</td><td>.94</td><td>.96</td><td>Model with one latent variable (tests)</td></tr><tr><td>2b-auto</td><td>279.49</td><td>70</td><td>3.99</td><td>.95</td><td>.91</td><td>.93</td><td>Model 2b with autoregressive relations only</td></tr><tr><td>3a</td><td>522.59</td><td>106</td><td>4.93</td><td>.92</td><td>.92</td><td>.90</td><td>Model with cross-lagged effects between Mark2</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td>on Test3, Mark3 on Test4, Test2 on Mark3,</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td>and Test3 on Mark4</td></tr><tr><td>3-auto 3b</td><td>690.04 443.65</td><td>114 104</td><td>6.05 4.27</td><td>.90 .93</td><td>.85 .93</td><td>.87 .92</td><td>Model 1 with autoregressive effects only Model 3, with additional within-grade correlations</td></tr><tr><td>3c</td><td>310.43</td><td>102</td><td>3.04</td><td>.95</td><td>.95</td><td>.95</td><td>between Marks and Tests for Waves 3 and 4 Model 3, with cross-lagged effects from Mark2</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td>on Test3, Mark3 on Test4, Test2 on Mark3,</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td>and Test3 on Mark4.</td></tr></table>",
+                "type_str": "table",
+                "text": "Goodness-of-Fit Indices for Alternative Models Note. GFI = goodness-of-fit index; BBI = Bentler-Bonett index; TLI = Tucker-Lewis index."
+            },
+            "TABREF3": {
+                "num": null,
+                "content": "<table><tr><td/><td colspan=\"3\">Achievement</td><td/><td>Self</td><td/><td/></tr><tr><td>Variable</td><td>2</td><td>3</td><td>4</td><td>2</td><td>3</td><td>4</td><td>Error/ uniqueness</td></tr><tr><td>Marks</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Mark2</td><td>58</td><td/><td/><td/><td/><td/><td>67</td></tr><tr><td>Mark3</td><td>00</td><td>73</td><td/><td/><td/><td/><td>46</td></tr><tr><td>Mark4</td><td>00</td><td>00</td><td>74</td><td/><td/><td/><td>45</td></tr><tr><td>Self-concept</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Self2g</td><td>00</td><td>00</td><td>00</td><td>78</td><td/><td/><td>39</td></tr><tr><td>Self2s</td><td>00</td><td>00</td><td>00</td><td>75</td><td/><td/><td>43</td></tr><tr><td>Self2m</td><td>00</td><td>00</td><td>00</td><td>68</td><td/><td/><td>54</td></tr><tr><td>Self3g</td><td>00</td><td>00</td><td>00</td><td>00</td><td>82</td><td/><td>34</td></tr><tr><td>Self3s</td><td>00</td><td>00</td><td>00</td><td>00</td><td>83</td><td/><td>32</td></tr><tr><td>SelOm</td><td>00</td><td>00</td><td>00</td><td>00</td><td>76</td><td/><td>42</td></tr><tr><td>Self4g</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>79</td><td>38</td></tr><tr><td>Self4s</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>82</td><td>33</td></tr><tr><td>Self4m</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>80</td><td>35</td></tr><tr><td>Mathematics</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Test2a</td><td>72</td><td/><td/><td/><td/><td/><td>48</td></tr><tr><td>Test2k</td><td>86</td><td/><td/><td/><td/><td/><td>27</td></tr><tr><td>Test3a</td><td>00</td><td>63</td><td/><td/><td/><td/><td>60</td></tr><tr><td>Test3k</td><td>00</td><td>72</td><td/><td/><td/><td/><td>48</td></tr><tr><td>Test4a</td><td>00</td><td>00</td><td>54</td><td/><td/><td/><td>71</td></tr><tr><td>Test4k</td><td>00</td><td>00</td><td>83</td><td/><td/><td/><td>32</td></tr></table>",
+                "type_str": "table",
+                "text": ")"
+            },
+            "TABREF4": {
+                "num": null,
+                "content": "<table><tr><td>Variable</td><td>2</td><td>Grade 3</td><td>4</td><td>2</td><td>Self 3</td><td>4</td><td>2</td><td>Tests 3</td><td>4</td><td>Error/ uniqueness</td></tr><tr><td>Marks</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Mark2</td><td>95</td><td/><td/><td/><td/><td/><td/><td/><td/><td>10</td></tr><tr><td>Mark3</td><td>00</td><td>95</td><td/><td/><td/><td/><td/><td/><td/><td>10</td></tr><tr><td>Mark4</td><td>00</td><td>00</td><td>95</td><td/><td/><td/><td/><td/><td/><td>10</td></tr><tr><td>Self-concept</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Self2g</td><td>00</td><td>00</td><td>00</td><td>79/78</td><td/><td/><td/><td/><td/><td>38/39</td></tr><tr><td>Self2s</td><td>00</td><td>00</td><td>00</td><td>75/75</td><td/><td/><td/><td/><td/><td>44/43</td></tr><tr><td>Self2m</td><td>00</td><td>00</td><td>00</td><td>68/68</td><td/><td/><td/><td/><td/><td>54/53</td></tr><tr><td>SelOg</td><td>00</td><td>00</td><td>00</td><td>00</td><td>81/81</td><td/><td/><td/><td/><td>34/34</td></tr><tr><td>Self3s</td><td>00</td><td>00</td><td>00</td><td>00</td><td>83/83</td><td/><td/><td/><td/><td>32/31</td></tr><tr><td>SelOm</td><td>00</td><td>00</td><td>00</td><td>00</td><td>76/76</td><td/><td/><td/><td/><td>42/42</td></tr><tr><td>Self4g</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>79/79</td><td/><td/><td/><td>37/38</td></tr><tr><td>Self4s</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>81/82</td><td/><td/><td/><td>34/33</td></tr><tr><td>Self4m</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>80/80</td><td/><td/><td/><td>36/35</td></tr><tr><td>Mathematics</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Test2a</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>76</td><td/><td/><td>42</td></tr><tr><td>Test2k</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>87</td><td/><td/><td>25</td></tr><tr><td>Test3a</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>66</td><td/><td>56</td></tr><tr><td>Test3k</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>71</td><td/><td>49</td></tr><tr><td>Test4a</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td colspan=\"2\">00 55</td><td>70</td></tr><tr><td>Test4k</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td colspan=\"2\">00 89</td><td>21</td></tr><tr><td>Note.</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Loadings of Manifest on Latent Variables for Model 2a and 2b (Figure 2) Decimal points have been omitted. Values are for a completely standardized solution."
+            },
+            "TABREF5": {
+                "num": null,
+                "content": "<table><tr><td>Correlated uniqueness</td><td>From: a To: b</td><td>Self2</td><td>Mark2 Mark3</td><td>Self3</td><td>Self4</td><td colspan=\"2\">Mark3 Mark4</td><td>Self2 Mark3</td><td>Selfi</td><td>Selfi Mark4</td><td>Self4</td></tr><tr><td/><td/><td/><td colspan=\"5\">Uniqueness = \u2022\u2022 0, reliability = 1.00</td><td/><td/><td/></tr><tr><td>.00</td><td/><td>.34</td><td>.52</td><td>.21</td><td>.31</td><td/><td>.71</td><td>.18</td><td>.57</td><td>.13</td><td>.54</td></tr><tr><td/><td/><td/><td colspan=\"5\">Uniqueness = .05, reliability = .95</td><td/><td/><td/></tr><tr><td>.00</td><td/><td>.35</td><td>.56</td><td>.22</td><td>.33</td><td/><td>.76</td><td>.17</td><td>.55</td><td>.12</td><td>.53</td></tr><tr><td>.00625</td><td/><td>.35</td><td>.55</td><td>.22</td><td>.33</td><td/><td>.75</td><td>.18</td><td>.56</td><td>.12</td><td>.53</td></tr><tr><td>.01250</td><td/><td>.35</td><td>.54</td><td>.22</td><td>.33</td><td/><td>.74</td><td>.18</td><td>.56</td><td>.12</td><td>.53</td></tr><tr><td>.02500</td><td/><td>.35</td><td>.52</td><td>.22</td><td>.33</td><td/><td>.72</td><td>.18</td><td>.56</td><td>.13</td><td>.53</td></tr><tr><td/><td/><td/><td colspan=\"5\">Uniqueness = .10, reliability = .90</td><td/><td/><td/></tr><tr><td>.00</td><td/><td>.36</td><td>.60</td><td>.23</td><td colspan=\"2\">.36</td><td>.81</td><td>.16</td><td>.55</td><td>.09</td><td>.51</td></tr><tr><td>.01250</td><td/><td>.36</td><td>.58</td><td>.23</td><td colspan=\"2\">.36</td><td>.80</td><td>.17</td><td>.55</td><td>.10</td><td>.51</td></tr><tr><td>.02500</td><td/><td>.36</td><td>.56</td><td>.23</td><td colspan=\"2\">.35</td><td>.77</td><td>.17</td><td>.55</td><td>.11</td><td>.52</td></tr><tr><td>.05000</td><td/><td>.36</td><td>.53</td><td>.22</td><td colspan=\"2\">.34</td><td>.74</td><td>.19</td><td>.55</td><td>.13</td><td>.52</td></tr><tr><td/><td/><td/><td colspan=\"5\">Uniqueness = .15, reliability = .85</td><td/><td/><td/></tr><tr><td>.00</td><td/><td>.37</td><td>.64</td><td>.24</td><td colspan=\"2\">.38</td><td>.87</td><td>.15</td><td>.54</td><td>.07</td><td>.50</td></tr><tr><td>.01875</td><td/><td>.37</td><td>.61</td><td>.24</td><td colspan=\"2\">.38</td><td>.84</td><td>.16</td><td>.54</td><td>.08</td><td>.50</td></tr><tr><td>.03750</td><td/><td>.37</td><td>.59</td><td>.24</td><td colspan=\"2\">.38</td><td>.82</td><td>.17</td><td>.54</td><td>.09</td><td>.50</td></tr><tr><td>.07500</td><td/><td>.38</td><td>.53</td><td>.23</td><td colspan=\"2\">.36</td><td>.76</td><td>.19</td><td>.55</td><td>.12</td><td>.51</td></tr><tr><td/><td/><td/><td colspan=\"5\">Uniqueness = .20, reliability = .80</td><td/><td/><td/></tr><tr><td>.00</td><td/><td>.38</td><td>.68</td><td>.26</td><td colspan=\"2\">.39</td><td>.93</td><td>.14</td><td>.53</td><td>.04</td><td>.48</td></tr><tr><td>.02500</td><td/><td>.38</td><td>.65</td><td>.25</td><td colspan=\"2\">.40</td><td>.90</td><td>.15</td><td>.53</td><td>.06</td><td>.48</td></tr><tr><td>.05000</td><td/><td>.38</td><td>.61</td><td>.25</td><td colspan=\"2\">.40</td><td>.86</td><td>.17</td><td>.53</td><td>.08</td><td>.48</td></tr><tr><td>.10000</td><td/><td>.39</td><td>.54</td><td>.24</td><td colspan=\"2\">.39</td><td>.79</td><td>.20</td><td>.54</td><td>.11</td></tr></table>",
+                "type_str": "table",
+                "text": "Sensitivity Analysis: Path Coefficients for Alternative Versions of Model 2a With Different Reliabilities and Correlated Residuals for the Single-Indicator Construct \"Marks \""
+            },
+            "TABREF6": {
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table",
+                "text": "Loadings of Manifest on Latent Variables for Model 3a"
+            },
+            "TABREF7": {
+                "num": null,
+                "content": "<table><tr><td>Grade</td><td>2</td><td>Self 3</td><td>4</td><td>2</td><td>Tests 3</td><td>4</td><td>2</td><td>Marks 3</td><td>4</td><td>F.rrnr/ uniqueness</td></tr><tr><td>Marks</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Mark2</td><td>95/95</td><td/><td/><td/><td/><td/><td/><td/><td/><td>10/10</td></tr><tr><td>Mark3</td><td>00</td><td>95/95</td><td/><td/><td/><td/><td/><td/><td/><td>10/10</td></tr><tr><td>Mark4</td><td>00</td><td>00</td><td>95/95</td><td/><td/><td/><td/><td/><td/><td>10/10</td></tr><tr><td>Self-concept</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Self2g</td><td>00</td><td>00</td><td>00</td><td>78/79</td><td/><td/><td/><td/><td/><td>39/38</td></tr><tr><td>Self2s</td><td>00</td><td>00</td><td>00</td><td>74/75</td><td/><td/><td/><td/><td/><td>45/44</td></tr><tr><td>Self2m</td><td>00</td><td>00</td><td>00</td><td>68/68</td><td/><td/><td/><td/><td/><td>54/54</td></tr><tr><td>Selfig</td><td>00</td><td>00</td><td>00</td><td>00</td><td>82/82</td><td/><td/><td/><td/><td>33/33</td></tr><tr><td>Self3s</td><td>00</td><td>00</td><td>00</td><td>00</td><td>82/82</td><td/><td/><td/><td/><td>33/32</td></tr><tr><td>Self3m</td><td>00</td><td>00</td><td>00</td><td>00</td><td>76/76</td><td/><td/><td/><td/><td>42/42</td></tr><tr><td>Self4g</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>79/79</td><td/><td/><td/><td>37/37</td></tr><tr><td>Self4s</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>81/81</td><td/><td/><td/><td>34/34</td></tr><tr><td>Self4m</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>80/80</td><td/><td/><td/><td>36/36</td></tr><tr><td>Mathematics</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Test2a</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>71/73</td><td/><td/><td>50/47</td></tr><tr><td>Test2k</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>91/90</td><td/><td/><td>17/19</td></tr><tr><td>Test3a</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>61/63</td><td/><td>63/61</td></tr><tr><td>Test3k</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>81/78</td><td/><td>35/40</td></tr><tr><td>Test4a</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>50/52</td><td>76/73</td></tr><tr><td>Test4k</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>00</td><td>96/90</td><td>08/19</td></tr><tr><td>Note.</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": ") Decimal points have been omitted. Values are for a completely standardized solution."
+            },
+            "TABREF8": {
+                "num": null,
+                "content": "<table><tr><td/><td>From:\"</td><td colspan=\"2\">Mark2</td><td colspan=\"3\">Mark3</td><td/><td>Self2</td><td/><td/><td>Self3</td><td/><td colspan=\"2\">Test2</td><td colspan=\"2\">Test3</td></tr><tr><td>uniqueness</td><td>To: b</td><td>M3</td><td>S3</td><td>M4</td><td/><td>S4</td><td>M3</td><td>S3</td><td>T3</td><td>M4</td><td>S4</td><td>T4</td><td>S3</td><td>T3</td><td>S4</td><td>T4</td></tr><tr><td>.00</td><td/><td>.50</td><td>.15</td><td>.70</td><td colspan=\"3\">Uniqueness = 0, .23 .22</td><td colspan=\"2\">reliability = .53 .12</td><td>1.00 .14</td><td>.52</td><td>.11</td><td>.13</td><td>.78</td><td>.14</td><td>.80</td></tr><tr><td/><td/><td/><td/><td/><td colspan=\"6\">Uniqueness = .05, reliability = .95</td><td/><td/><td/><td/><td/></tr><tr><td>.00</td><td/><td>.55</td><td>.16</td><td colspan=\"2\">.75</td><td>.26</td><td>.21</td><td>.52</td><td>.12</td><td colspan=\"2\">.13 .51</td><td/><td/><td/><td/></tr><tr><td>.00625</td><td/><td>.54</td><td>.16</td><td colspan=\"2\">.74</td><td>.26</td><td>.21</td><td>.52</td><td>.12</td><td colspan=\"2\">.13 .51</td><td/><td/><td/><td/></tr><tr><td>.01250</td><td/><td>.53</td><td>.16</td><td colspan=\"2\">.73</td><td>.25</td><td>.22</td><td>.53</td><td>.12</td><td colspan=\"2\">.13 .51</td><td/><td/><td/><td/></tr><tr><td>.02500</td><td/><td>.51</td><td>.16</td><td colspan=\"2\">.72</td><td>.24</td><td>.22</td><td>.53</td><td>.12</td><td colspan=\"2\">.14 .51</td><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Sensitivity Analysis: Path Coefficients for Alternative Versions of Model 3a With Different Reliabilities and Correlated Residuals for the Single-Indicator Construct \"Marks\""
+            },
+            "TABREF10": {
+                "num": null,
+                "content": "<table><tr><td>Variable</td><td>Model 3a a</td><td>Model 3b b</td><td>Model 3c c</td></tr><tr><td>Mark2</td><td/><td/><td/></tr><tr><td>with Self2</td><td>.37</td><td>.37</td><td>.36</td></tr><tr><td>with Test2</td><td>.60</td><td>.60</td><td>.54</td></tr><tr><td>with Mark3</td><td>.59</td><td>.54</td><td>.38</td></tr><tr><td>with Self3</td><td>.17</td><td>.17</td><td>.16</td></tr><tr><td>with Test3</td><td/><td/><td>.21</td></tr><tr><td>Mark3</td><td/><td/><td/></tr><tr><td>with Test3</td><td>-</td><td>.20</td><td/></tr><tr><td>with Mark4</td><td>.79</td><td>.78</td><td>.66</td></tr><tr><td>with Self4</td><td>.29</td><td>.29</td><td>.27</td></tr><tr><td>with Test4</td><td>-</td><td/><td>.21</td></tr><tr><td>Mark4</td><td/><td/><td/></tr><tr><td>with Test4</td><td/><td>.11</td><td/></tr><tr><td>Self2</td><td/><td/><td/></tr><tr><td>with Test2</td><td>.45</td><td>.45</td><td>.43</td></tr><tr><td>with Mark3</td><td>.20</td><td>.22</td><td>.03*</td></tr><tr><td>with Self3</td><td>.52</td><td>.53</td><td>.50</td></tr><tr><td>with Test3</td><td>.11</td><td>.17</td><td>.09</td></tr><tr><td>Self3</td><td/><td/><td/></tr><tr><td>with Mark4</td><td>.11</td><td>.11</td><td>.04*</td></tr><tr><td>with Self4</td><td>.50</td><td>.51</td><td>.48</td></tr><tr><td>with Test4</td><td>.11</td><td>.12</td><td>.08*</td></tr><tr><td>Test2</td><td/><td/><td/></tr><tr><td>with Self3</td><td>.11</td><td>.10</td><td>.15</td></tr><tr><td>with Test3</td><td>.79</td><td>.72</td><td>.69</td></tr><tr><td>with Mark3</td><td/><td/><td>.46</td></tr><tr><td>Test3</td><td/><td/><td/></tr><tr><td>with Self4</td><td>.10</td><td>.08*</td><td/></tr><tr><td>with Test4</td><td>.81</td><td>.82</td><td/></tr><tr><td>with Mark4</td><td>-</td><td>-</td><td/></tr></table>",
+                "type_str": "table",
+                "text": "Comparison of Three Versions of Model 3"
+            }
+        }
+    }
+}

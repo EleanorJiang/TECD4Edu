@@ -1,0 +1,1396 @@
+{
+    "paper_id": "domrong_2009",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:02:59.847341Z"
+    },
+    "title": "The study of growth between academic self-concept, nonacademic self-concept, and academic achievement of ninth-grade students: a multiple group analysis",
+    "authors": [
+        {
+            "first": "Suntonrapot",
+            "middle": [],
+            "last": "Damrongpanit",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Mahasarakham University",
+                "location": {
+                    "country": "Thailand"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The two purposes of this research were to develop and validate latent growth curve model between academic self-concept, nonacademic self-concept, and academic achievement and to test invariance of model form and parameters in the model between boy and girl groups of students. The research samples were 820 nine-grade students. The research instruments consisted of Self-descriptive Questionnaire and The student academic achievement tests in Mathematics, English, Science, and Thai Language. The data analysis were employed descriptive statistics, multiple correlation, MANOVA repeated measures, multivariate latent growth curve analysis, and multiple group analysis. The research results revealed the model between academic self-concept, nonacademic self-concept, and academic achievement was good fit with the empirical data with goodness of fit statistics of \u03c7 2 =25.240, df=24, p=0.393, RMSEA=0.008, CFI=1.000, RMR=0.031, GFI=0.994, and AGFI=0.989 and the model was invariance in form and variance only in parameter of the observe variable error correlation matrix.",
+    "pdf_parse": {
+        "paper_id": "domrong_2009",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The two purposes of this research were to develop and validate latent growth curve model between academic self-concept, nonacademic self-concept, and academic achievement and to test invariance of model form and parameters in the model between boy and girl groups of students. The research samples were 820 nine-grade students. The research instruments consisted of Self-descriptive Questionnaire and The student academic achievement tests in Mathematics, English, Science, and Thai Language. The data analysis were employed descriptive statistics, multiple correlation, MANOVA repeated measures, multivariate latent growth curve analysis, and multiple group analysis. The research results revealed the model between academic self-concept, nonacademic self-concept, and academic achievement was good fit with the empirical data with goodness of fit statistics of \u03c7 2 =25.240, df=24, p=0.393, RMSEA=0.008, CFI=1.000, RMR=0.031, GFI=0.994, and AGFI=0.989 and the model was invariance in form and variance only in parameter of the observe variable error correlation matrix.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The main purpose of education is the progress of physical, sociality, emotion, and wisdom of student sustainably. The adequate education makes good quality human resources for a rapidly developing country. According to this reason, many countries have been trying to develop the educational quality in the national policy and strategy to enhance effective implementation. As in Thailand, this idea dominantly appears in An Education Reform Act for Further Development for The Thai People: National Education Act of B.C. 2542. The major content emphasizes the development of many functions of Thai educational system. When the act was implemented during 1999-2005, the educational organization reported the results of student's outcomes. The student's academic achievements in five important subjects were under 50% every year or under a satisfying level, especially in Mathematics and English subjects. This crisis raised many questions about educational development process because the act cannot improve the student's academic achievement that everyone had expected.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "The student's academic achievement problem is not occurring in Thailand but it also in many countries around the world. Some country have been trying to solve this problem by educational staff development, teaching processes, and parent and community cooperation, and some country have been looking backward to student inner character by depicting causal relationship influencing to academic achievement. The result of studies revealed some important factor strongly related with academic achievement is \"self-concept\", the perception of oneself about strength, weakness, value, belief, and attitude from environment or social interaction (Longres, 1995; Marsh & Craven, 1997; Slavin, 2003; Huitt, 2004; Jordan & Porath, 2006; Suldo, Riley, & Shaffer, 2006; Fraine, Damme, & Onghena, 2007) . Selfconcept was explored since 1980's and divided into two main factors academic self-concept and nonacademic self-concept (Marsh & Shavelson, 1985; Marsh, 1990) , the person who have positive self-concept frequently success in activities but easily fail in activities for who have negative self-concept (Wigfield & Karpathian 1991; Franken, 1994) . From later research results show more important of academic self-concept than nonacademic selfconcept, the variances explain in academic achievement from academic self-concept greater than nonacademic self-concept (Lyon, 1993; William, 1993) . It was supported many later researches to study just only academic self-concept factor for improving student academic achievement and neglect an important of nonacademic self-concept though its closely related with the student's real life more than academic self-concept (William, 1993; Longres, 1995; Suntonrapot, Auyporn, & Thaweewat, 2008; Suntonrapot, Auyporn, & Thaweewat, 2009) , it's imply the studies of self-concept were not transparency in self-concept factors. However, the recent development of research methodology in self-concept aspect elucidated the important equally between academic self-concept and nonacademic self-concept to academic achievement in short-term and long-term period. Furthermore, the academic self-concept has variance explain in academic achievement more than academic self-concept comparatively (Suntonrapot et al, 2008; Suntonrapot et al, 2009) . These research results provided important information for the teacher and the school administrator to set appropriate activities in time frame for enhancing positive self-concept of students and becoming to enhance student academic achievement in the future.",
+                "cite_spans": [
+                    {
+                        "start": 639,
+                        "end": 654,
+                        "text": "(Longres, 1995;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 655,
+                        "end": 676,
+                        "text": "Marsh & Craven, 1997;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 677,
+                        "end": 690,
+                        "text": "Slavin, 2003;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 691,
+                        "end": 703,
+                        "text": "Huitt, 2004;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 704,
+                        "end": 726,
+                        "text": "Jordan & Porath, 2006;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 727,
+                        "end": 757,
+                        "text": "Suldo, Riley, & Shaffer, 2006;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 758,
+                        "end": 789,
+                        "text": "Fraine, Damme, & Onghena, 2007)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 915,
+                        "end": 940,
+                        "text": "(Marsh & Shavelson, 1985;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 941,
+                        "end": 953,
+                        "text": "Marsh, 1990)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1096,
+                        "end": 1124,
+                        "text": "(Wigfield & Karpathian 1991;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1125,
+                        "end": 1139,
+                        "text": "Franken, 1994)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1356,
+                        "end": 1368,
+                        "text": "(Lyon, 1993;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1369,
+                        "end": 1383,
+                        "text": "William, 1993)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 1657,
+                        "end": 1672,
+                        "text": "(William, 1993;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 1673,
+                        "end": 1687,
+                        "text": "Longres, 1995;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1688,
+                        "end": 1728,
+                        "text": "Suntonrapot, Auyporn, & Thaweewat, 2008;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1729,
+                        "end": 1769,
+                        "text": "Suntonrapot, Auyporn, & Thaweewat, 2009)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 2219,
+                        "end": 2244,
+                        "text": "(Suntonrapot et al, 2008;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 2245,
+                        "end": 2269,
+                        "text": "Suntonrapot et al, 2009)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "The advantages of research result make clearer in controversy aspect about correlation research and change point of view to study the relationship between self-concept and academic achievement (Marsh, 2003; Guay, Marsh, & Boivin, 2003; Guay, Marsh & Craven, 2006 , Suntonrapot et al, 2009 . The new dominant methodology for studying the relationship is \"Causal Ordering Model\", the repeated measure model generated from the chicken-egg question for study longitudinal relationship comprised with four effect directions (Suntonrapot et al, 2009) . The results of causal ordering analysis provide many important effects between different times from the same variable (Horizontal Effect) and between different variables (Bottom-up, Top-down, and Reciprocal Effect) . Although causal ordering model makes clearly in long-term interaction effect between two or more variables, its potential cannot be considered the growth of variables during long-term period. Currently, the most suitable analytical methodology considering growth of variable is \"the latent growth curve approach\", the methodology was developed from autoregressive model and growth curve model (Duncan, Duncan, Strycker, Li, & Alpert, 1999) for modeling growth of individuals over time by a random coefficient model on a latent variable level (Meredith & Tisak, 1990) and was applied to use with the structural equation modeling (SEM) to predict parameters in the model deeply, manifestly and efficiently. The interesting character of the latent growth curve model is 1) the competency for goodness of fit testing of hypothetical model and 2) its take the correlation between each time of variable measurements to estimate the parameters. Hence, the latent growth curve model can show information more clearly than the causal ordering model comparatively.",
+                "cite_spans": [
+                    {
+                        "start": 193,
+                        "end": 206,
+                        "text": "(Marsh, 2003;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 207,
+                        "end": 235,
+                        "text": "Guay, Marsh, & Boivin, 2003;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 236,
+                        "end": 262,
+                        "text": "Guay, Marsh & Craven, 2006",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 263,
+                        "end": 288,
+                        "text": ", Suntonrapot et al, 2009",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 519,
+                        "end": 544,
+                        "text": "(Suntonrapot et al, 2009)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 717,
+                        "end": 761,
+                        "text": "(Bottom-up, Top-down, and Reciprocal Effect)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1157,
+                        "end": 1203,
+                        "text": "(Duncan, Duncan, Strycker, Li, & Alpert, 1999)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1306,
+                        "end": 1330,
+                        "text": "(Meredith & Tisak, 1990)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "From knowledge of prior research about the relationship between self-concept and achievement amalgamate with the progress of analysis, this study was emphasized to extend the recent knowledge more clearly than previous studies in term of development theory and methodology in the future.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "The two purposes of this research were 1) to develop and validate latent growth curve model between academic self-concept, nonacademic self-concept, and academic achievement of nine-grad students in Thailand and 2) to test the model form and parameter invariance of latent growth curve model between boy and girl groups of student.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Research Purpose",
+                "sec_num": null
+            },
+            {
+                "text": "From the related literature review, researchers have expected two research answers that were 1) the latent growth curve model between academic self-concept, nonacademic selfconcept, and academic achievement were fit with the empirical data and 2) the latent growth curve model between academic self-concept, nonacademic self-concept, and academic achievement were invariance in model form.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Research Hypothesis",
+                "sec_num": null
+            },
+            {
+                "text": "This study was emphasized to extend previous knowledge from Suntonrapot and et al (2008) and Suntonrapot and el al (2009) , both of the researches base on review important research results of Marsh and Shavelson (1985) and Marsh (1990) , whose was study selfconcept and academic achievement unyieldingly and together with the later research results and suggestions. The multivariate latent growth curve model comprised with three variables in the model. Each variable received three time measures and each measure was used four months approximately. Three time points provide an opportunity to test for nonlinear trajectories (Duncan et al, 1999) for designed shape of hypothetical model. The first variable was academic achievement (ACH) measured from the academic score in Mathematics, English, Science, and Thai Language subjects, the second variable was academic self-concept (ASC) measured from Mathematics academic self-concept, English academic self-concept, Science academic self-concept, and Thai Language academic self-concept, and the last variable was nonacademic self-concept (NSC) measured from physical ability, peer relation, physical appearance, and self-efficacy. The another important view, this study have tried to develop the model explained academic self-concept, nonacademic self-concept, and academic achievement growth of nine-grad students in Thailand which were teenagers, the girl and boy groups have different growth (McInerney & McInerney, 1995; Jordan et al, 2006) . The multiple group analysis of hypothesis model needed to test accuracy and efficiency of the model.",
+                "cite_spans": [
+                    {
+                        "start": 60,
+                        "end": 88,
+                        "text": "Suntonrapot and et al (2008)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 93,
+                        "end": 121,
+                        "text": "Suntonrapot and el al (2009)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 192,
+                        "end": 218,
+                        "text": "Marsh and Shavelson (1985)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 223,
+                        "end": 235,
+                        "text": "Marsh (1990)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 626,
+                        "end": 646,
+                        "text": "(Duncan et al, 1999)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1446,
+                        "end": 1475,
+                        "text": "(McInerney & McInerney, 1995;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1476,
+                        "end": 1495,
+                        "text": "Jordan et al, 2006)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Theoretical Framework",
+                "sec_num": null
+            },
+            {
+                "text": "This study tried to depict growth of academic self-concept, nonacademic self-concept, and academic achievement of nine-grad students in Thailand which were linked research results clearly than Suntonrapot et al. (2008 Suntonrapot et al. ( , 2009 . Methodology was employed the same samples and methodology, the secondary data source, but different analyses approach for answering research questions.",
+                "cite_spans": [
+                    {
+                        "start": 193,
+                        "end": 217,
+                        "text": "Suntonrapot et al. (2008",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 218,
+                        "end": 245,
+                        "text": "Suntonrapot et al. ( , 2009",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Methodology",
+                "sec_num": null
+            },
+            {
+                "text": "The research samples were 820 nine-grad students, 294 boys and 526 girls, in public school under the office of educational service area from all regions of Thailand (north 139, central 130, west 125, south 138, and Bangkok/the capital city 130 students). The research samples were obtained from three stage random samplings. The unite sampling of each stage was province, school, and classes respectively.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "The research instruments consisted of two type instruments. The first type was the student's self-descriptive questionnaire (six rating scales varied from the most unlike me to the most like me, respectively) for measuring in self-concept variables, comprised with 78 items and reliability with Cronbach's alpha of 0.925. The guide lines of questions in the questionnaires were translated from SDQII (Marsh, 1998) in Mathematics academic selfconcept, English academic self-concept, physical appearance, peer relation, and physical ability. The goodness of fit statistics from structural validity of a questionnaire shows good fit between the instrument factors and the empirical data [\u03c7 2 =18.360, df=19, p=0.499, CFI=1.000, GFI=890, AGFI=0.790, and RMSEA=0.000]. The second type instrument was four student achievement tests in Mathematics, English, Science, and Thai Language subjects with 46 items, 50 items, 50 items, and 50 items respectively, mean of item difficulty 0.416, 0.452, 0.490, and 0.488 respectively, mean of item discrimination 0.425, 0.442, 0.473, and 0.460 respectively, and reliability with Cronbach's alpha coefficient of each test 0.865, 0.876, 0.893, and 0.897 respectively.",
+                "cite_spans": [
+                    {
+                        "start": 400,
+                        "end": 413,
+                        "text": "(Marsh, 1998)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Research Instrument",
+                "sec_num": null
+            },
+            {
+                "text": "The research data was collected from three time measurements in the early period, middle period, and final period of an educational year with the same research sample. The first time was collected at the early of May, 2007, the second time was collected at the end of September, 2007, and the third time was collected at the end of February, 2008. Each instrument was used an hour for data collection process per time. The research data was employed descriptive statistics and multiple correlation to explore the basic data including with testing the mean different among three measurements by MANOVA repeated measures and employed the confirmatory factor analysis (CFA) for model development and validation of latent growth curve model and multiple group analysis between boy and girl groups of The study of growth, Page 5 student by using statistical package program. Each research sample was assigned six digit numbers to be code for easily linking each data measurement together.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data Collection and Data Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "1. The result of descriptive statistics. The basic result of three times data analyses from nine-grad students were 296 boys (36.09%) and 526 girls (63.91%). Over all the repeated measure data, the mean of every variable has increased from the first time to third time measurement respectively. The mean and coefficient of variance of academic achievement was the highest in all variables. The variability of variables trended to be normal distribution. The 36 pairs of correlation coefficient of nine variables were 33 pairs statistical significant at .01 and 1 pair statistical significant at .05 level different from zero. Most relationships between variables were positive from vary low to very high (0.092-0.912) except the correlation between the first time measurement of nonacademic self-concept and the third time measurement of academic achievement was negative relationship. It was notified that each variable in different measurement time was highly relationship level. The descriptive statistics and correlation matrix of variables were shown show in Table 1 and Table 2 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1064,
+                        "end": 1083,
+                        "text": "Table 1 and Table 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Result",
+                "sec_num": null
+            },
+            {
+                "text": "The result of mean comparison between three measurements times by MANOVA repeated measures reveal the relationship of variables can use multivariate analysis of variance and incline to be linear relationships. Furthermore, the post-hoc comparison by Bonferroni method was shown the mean of variables in each measurement time were statistical significant at .01 level. The third measurement mean was the highest in rank. 2. The result of latent growth curve model development and validation, the model was vary good fit with the empirical data with \u03c7 2 =25.240, df=24, p=0.393, RMSEA=0.008, CFI=1.000, RMR=0.031, GFI=0.994 and AGFI=0.989. The academic achievement was the highest mean of initial (18.047) and slope (1.025). Between two factors of self-concept, the initial of nonacademic self-concept was slightly greater than academic self-concept (2.852/2.661) but the slope of academic self-concept was slightly greater than nonacademic self-concept (0.078/0.060). All parameter estimators were statistical significant at .01 level. For observed variables, all variables have high reliability level (0.735-0.996). The parameter estimators in the model bring to consider growth of academic self-concept, nonacademic selfconcept, and academic achievement during one academic year. The academic achievement has initial level and growth rate higher than other variables. The initial and slope of academic self-concept and nonacademic self-concept were pertinent. The growth of nonacademic selfconcept was slightly higher than academic self-concept. However, the growth between academic self-concept and nonacademic self-concept were closely over and over from early to lately academic year. It was implied that the initial of academic achievement was expected to increase by 1.025 each year, the initial of academic self-concept was expected to increase by 0.078 each year, and the initial of nonacademic self-concept was expected to increase by 0.060 each year. The latent growth curve model and growth line of variables were shown in Table 3 , Figure 1 and Figure 2 . Figure 2 . Growth of Academic Achievement, Academic Self-concept, and Nonacademic Self-concept 3. The result of multiple group analysis of latent growth curve model between boy and girl group of students shown model invariance in from with goodness of fit statistics of \u03c7 2 = 50.063, df=54, p=0.627, RMSEA=0.000, and CFI=1.000. For the parameter invariance testing, three parameter invariance hypotheses were good fit with the empirical data. The first and second hypotheses were not statistical significant at .05 level and third hypothesis was not statistical significant at .01 level. The result of three invariance hypothesis testing comparison show the second hypothesis, the parameter variance just only the correlation of measurement error of observed variables (TE), was the best fit with the empirical data to explain growth parameter between boy and girl groups. All parameter of growth variables between boy and girl group were statistical significant at .01 level. The details of multiple group analysis were shown in Table 4 and Table 5 . From multiple group analysis processes, the parameters of growth were depicted in comparing aspect in Figure 3 . rely on the second invariance hypothesis testing. The growth of academic achievement between boy and girl were very closely all of the academic year [see Figure 3A .], the growth of academic self-concept was closely in the early period of academic year but it has just started slightly different from the middle to the lately period of academic year [see Figure 3B ], and the growth of nonacademic self-concept was relevant to academic self-concept that appeared different growth rate of two groups of student, the girl group was higher growth of nonacademic self-concept than boy group [see Figure 3C. ]. It's should notified the different growth rate between boy and girl groups in the lately period of academic year of nonacademic self-concept was more obviously than academic self-concept. Figure 3 . Growth of Academic Achievement, Academic Self-concept, and Nonacademic Self-concept between Boys and Girls Discussion 1. The result of latent growth curve model development and validation show the model was good fit with the empirical data due more than 90% of variables in the model have statistical significant in high level. It was supported from suggestion of prior researchers about extremely high relationship between self-concept and academic achievement. Moreover, this study was designed to study with many of research samples which effected to correlation coefficient of variables and goodness of fit statistics of hypothesis model (Duncan et al, 1999) .",
+                "cite_spans": [
+                    {
+                        "start": 4680,
+                        "end": 4700,
+                        "text": "(Duncan et al, 1999)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 2034,
+                        "end": 2041,
+                        "text": "Table 3",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 2044,
+                        "end": 2052,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2057,
+                        "end": 2065,
+                        "text": "Figure 2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2068,
+                        "end": 2076,
+                        "text": "Figure 2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 3098,
+                        "end": 3117,
+                        "text": "Table 4 and Table 5",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 3222,
+                        "end": 3230,
+                        "text": "Figure 3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 3387,
+                        "end": 3396,
+                        "text": "Figure 3A",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 3588,
+                        "end": 3597,
+                        "text": "Figure 3B",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 3825,
+                        "end": 3835,
+                        "text": "Figure 3C.",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 4027,
+                        "end": 4035,
+                        "text": "Figure 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Result",
+                "sec_num": null
+            },
+            {
+                "text": "2. The result of multiple group analysis shows the latent growth curve model was invariance in model form and variance in parameter estimators only correlation of measurement error of observed variable matrix due to the latent growth curve model was good fit with the empirical data. Every indicator was fitted with every criterion. It was supported from research result of prior studies about no different of parameter estimators of academic self-concept, nonacademic self-concept, and academic achievement between boy and girl groups (Suntonrapot et al, 2008) . For model variance in correlation of measurement The study of growth, Page 11 error of observed variables, it was relevant to research result of causal ordering model development and validation and multiple group analysis and found parameter variance in only measurement error matrix. It should notified the competency of causal ordering model and latent growth curve model give the same result of parameter invariance information although the two models have different purpose and advantage.",
+                "cite_spans": [
+                    {
+                        "start": 536,
+                        "end": 561,
+                        "text": "(Suntonrapot et al, 2008)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Result",
+                "sec_num": null
+            },
+            {
+                "text": "3. The result of growth analyses show continuously increasing of academic achievement all year. It was supported from many research results and cognitive development theory or psychodynamic perspectives that academic achievement increase more and more rely on physical and complex thinking development over time from infancy to adult (Longres, 1995; Fraine et al, 2007) . However, the growth of two self-concept factors opposed with suggestion of prior researcher (Fraine et al, 2007) about decreasing of self-concept when the student was growing. Furthermore, this research found different growth of both academic self-concept and nonacademic self-concept in lately of academic year probably due to the research samples were during teenage which have sensitively self-perception with social and environment (Longres, 1995) . The boy and girl group start to find self-identity during the age of twelve to eighteen, Ericson's fifth stages psychosocial development (Parsons, Hinson, & Sardo-Brown, 2001) , in this case, the girl group have growth in two factor of self-concept more than boy group (McInerney et al, 1995; Jordan et al, 2006) , especially nonacademic self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 334,
+                        "end": 349,
+                        "text": "(Longres, 1995;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 350,
+                        "end": 369,
+                        "text": "Fraine et al, 2007)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 464,
+                        "end": 484,
+                        "text": "(Fraine et al, 2007)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 808,
+                        "end": 823,
+                        "text": "(Longres, 1995)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 963,
+                        "end": 1001,
+                        "text": "(Parsons, Hinson, & Sardo-Brown, 2001)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1095,
+                        "end": 1118,
+                        "text": "(McInerney et al, 1995;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1119,
+                        "end": 1138,
+                        "text": "Jordan et al, 2006)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Result",
+                "sec_num": null
+            },
+            {
+                "text": "4. The comparison of growth between academic self-concept, nonacademic selfconcept, and academic achievement show the highest growth rate of academic achievement, nonacademic self-concept, and academic self-concept, respectively. This result agrees with prior research result about the horizontal effect of causal ordering model of academic achievement, and nonacademic self-concept, and academic self-concept (Suntonrapot et al, 2009) . It was the second hint to show relationship and competency of two longitudinal models, the causal ordering model and the latent growth curve model.",
+                "cite_spans": [
+                    {
+                        "start": 410,
+                        "end": 435,
+                        "text": "(Suntonrapot et al, 2009)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Result",
+                "sec_num": null
+            },
+            {
+                "text": "From the research result, the researcher proposes two main implementations in the future.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Suggestions for implementation",
+                "sec_num": null
+            },
+            {
+                "text": "1. The teachers and school administrators should plain various activities to support positive self-perception for enhancing academic achievement. In the embryonic period of the year, the activities may be plain the same for boy and girl groups and should be plain different activities for boy and girl groups for enhancing till the middle year. The kind of activities should be group or team activities to foster positive relation between student to student and student to teacher, especially in English and Mathematics subjects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Suggestions for implementation",
+                "sec_num": null
+            },
+            {
+                "text": "2. For appropriate time to support, the teachers and administrators should fix the kind of activities to support the nonacademic self-concept in the incipient period of the year and should emphasize the kind of activities to support the academic self-concept in the middle year.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Suggestions for implementation",
+                "sec_num": null
+            },
+            {
+                "text": "3. The important role of teachers and parent were the good reflectors to share experience and to give information of both academic and nonacademic student outcome positively and let the student know their progress and choose the way to develop themselves liberally.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Suggestions for implementation",
+                "sec_num": null
+            },
+            {
+                "text": "Suggestion of future research 1. The researcher should deeply investigate relation of two new longitudinal methodologies between the causal ordering model and the latent growth curve model",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Suggestions for implementation",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "The study of growth, Page 12 comparatively. These research findings have some point suitably linked with the prior research unexpectedly although two researches have different purposes to study.2. The researcher should expand various advance methods to investigate academic and nonacademic self-concept especially the multilevel approach due to both self-concept factors were point out to be multifaceted variable (e.g. Carroll, Houghton, Wood, Perkins, & Bower, 2007; Marsh & Shavelson, 1985) and received effect from various variables from many levels. In the present time, the multilevel structural approach was keeping an eye on psychological variables research (e.g. Marsh, Hua, & Kong, 2002) . The multilevel method in self-concept research is limitation to amalgamate self-concept knowledge for improving student efficiently.3. The researcher should plain to collect data at least one year per period rely on prior researchers suggestion. From this research result found little growth in self-concept variables. Furthermore, it appeared little different growth between boy and girl groups, especially nonacademic self-concept. The research result probably got more information to foster students if research plain to collect data longer.",
+                "cite_spans": [
+                    {
+                        "start": 420,
+                        "end": 468,
+                        "text": "Carroll, Houghton, Wood, Perkins, & Bower, 2007;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 469,
+                        "end": 493,
+                        "text": "Marsh & Shavelson, 1985)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 672,
+                        "end": 697,
+                        "text": "Marsh, Hua, & Kong, 2002)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "acknowledgement",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Multidimensional selfconcept, age and gender differences in Australian high school students involved in delinquent activities",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Carroll",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Houghton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Wood",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Perkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Bower",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "School Psychology International",
+                "volume": "28",
+                "issue": "",
+                "pages": "237--256",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Carroll, A., Houghton, S., Wood, R., Perkins,C., & Bower, J. (2007). Multidimensional self- concept, age and gender differences in Australian high school students involved in delinquent activities. School Psychology International, 28, 237-256.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "An introduction to latent variable growth curve modeling",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Duncan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Duncan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [
+                            "L A"
+                        ],
+                        "last": "Strycker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Alpert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "NJ",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Duncan, T.E., Duncan, S.C., Strycker. L.A., Li, F., & Alpert. A. (1999). An introduction to latent variable growth curve modeling. NJ: Lawrence Erlbaum Associates, Publishin.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "A longitudinal analysis of gender differences in academic self-concept and language achievement: A multivariate multilevel latent growth approach",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Fraine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Damme",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Onghena",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "32",
+                "issue": "",
+                "pages": "132--150",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fraine, B.D., Damme, J.V., & Onghena, P. (2007). A longitudinal analysis of gender differences in academic self-concept and language achievement: A multivariate multilevel latent growth approach. Contemporary Educational Psychology, 32, 132- 150.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Human motivation",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Franken",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Franken, R, (1994). Human motivation. Pacific Grove, CA: Brooks/Cole Publishing Co.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Academic self-concept and achievement: Developmental perspective on their causal ordering",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Boivin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Educational Psychology",
+                "volume": "95",
+                "issue": "",
+                "pages": "124--136",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guay, F., Marsh, H. W., & Boivin, M. (2003). Academic self-concept and achievement: Developmental perspective on their causal ordering. Journal of Educational Psychology, 95, 124-136.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "On the hierarchical structure of selfdetermined motivation: a test of top-down, bottom-up, reciprocal, and horizontal effect",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Mageau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "29",
+                "issue": "",
+                "pages": "992--1004",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guay, F., Mageau, A. G., & Vallerand, J. R. (2003). On the hierarchical structure of self- determined motivation: a test of top-down, bottom-up, reciprocal, and horizontal effect. Personality and Social Psychology Bulletin, 29, 992-1004.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Self-concept and self-esteem",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Huitt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Huitt, W. (2004). Self-concept and self-esteem. Retrieved May, 2006, from http://chiron.valdosta.edu/wu=huitt/col/regsys/self.html",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Educational Psychology; A Problem-Based Approach",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Jordan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Porath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jordan, E.A., & Porath, M J. (2006). Educational Psychology; A Problem-Based Approach. MA: Pearson Education, Inc.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Academic self-concept and its relationship to achievement in a sample of junior high school students",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Lyon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "53",
+                "issue": "",
+                "pages": "201--211",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lyon, M. A. (1993). Academic self-concept and its relationship to achievement in a sample of junior high school students. Educational and Psychological Measurement, 53, 201- 211.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Human Behavior in the Social Environment",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Longres",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Longres, J.F. (1995). Human Behavior in the Social Environment. IL: F.E. Peacock Publisher, Inc.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal panel analysis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "81",
+                "issue": "",
+                "pages": "417--430",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W. (1990). Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal panel analysis. Journal of Educational Psychology, 81, 417- 430.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "A reciprocal effect model of the causal ordering of academic selfconcept and achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W. (2003). A reciprocal effect model of the causal ordering of academic self- concept and achievement. Retrieved July, 2006, from http://www.aare.edu.au/03pap/mar03755.pdf",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Academic self-concept: Beyond the dustbowl. Handbook of Classroom Assessment, Learning, achievement, and adjustment",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W. & Craven, R. (1997). Academic self-concept: Beyond the dustbowl. Handbook of Classroom Assessment, Learning, achievement, and adjustment. FL: Academic Press.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Multilevel causal ordering of academic selfconcept and achievement: Influence of language of instruction (English compared with Chinese) for Hong Kong students",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hua",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Kong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "American Educational Research Journal",
+                "volume": "39",
+                "issue": "",
+                "pages": "727--763",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W., Hua, K., & Kong, C. (2002). Multilevel causal ordering of academic self- concept and achievement: Influence of language of instruction (English compared with Chinese) for Hong Kong students. American Educational Research Journal, 39, 727-763.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Self-concept: Its multifaceted, hierarchical structure",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Educational Psychologist",
+                "volume": "20",
+                "issue": "",
+                "pages": "107--125",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. & Shavelson, R. J. (1985). Self-concept: Its multifaceted, hierarchical structure. Educational Psychologist, 20, 107-125.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Latent Curve Analysis",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Meredith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Tisak",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Psychometrika",
+                "volume": "55",
+                "issue": "",
+                "pages": "107--122",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Meredith, W., & Tisak, J. (1990). Latent Curve Analysis. Psychometrika, 55, 107-122.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Educational Psychology, Constructing Learning",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mcinerney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Mcinerney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McInerney, D.M. & McInerney, V. (1995). Educational Psychology, Constructing Learning. Sydney, Australia: Prentice Hall.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Educational Psychology; A Practitioner-Researcher Model of Teaching",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parsons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Hinson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Sardo-Brown",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Parsons, R.D., Hinson, S.L.,& Sardo-Brown, D. (2001). Educational Psychology; A Practitioner-Researcher Model of Teaching. Ontario, Canada: Transcontinental Printing.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Educational Psychology, Theory",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Slavin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Practice",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Ma",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Slavin, E. R. (2003). Educational Psychology, Theory and Practice. MA: Pearson Education, Inc.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Academic correlates of children and adolescent's life satisfaction",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Suldo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Riley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shaffer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "School Psychology International",
+                "volume": "27",
+                "issue": "",
+                "pages": "567--582",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Suldo, S.M., Riley, K.N., & Shaffer, E.J. (2006). Academic correlates of children and adolescent's life satisfaction. School Psychology International, 27, 567-582.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Causal ordering models of academic self-concept, nonacademic self-concept, and academic achievement: A multiple group analysis",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Suntonrapot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Auyporn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Thaweewat",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Research Methodology",
+                "volume": "21",
+                "issue": "",
+                "pages": "204--233",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Suntonrapot, D., Auyporn, R., & Thaweewat, P. (2008). Causal ordering models of academic self-concept, nonacademic self-concept, and academic achievement: A multiple group analysis. Journal of Research Methodology, 21, 204-233.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "An investigation of the effect between academic self-concept, nonacademic self-concept, and academic achievement: Causal ordering model",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Suntonrapot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Auyporn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Thaweewat",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Research in Higher Education Journal",
+                "volume": "2",
+                "issue": "",
+                "pages": "148--164",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Suntonrapot, D., Auyporn, R., & Thaweewat, P. (2009). An investigation of the effect between academic self-concept, nonacademic self-concept, and academic achievement: Causal ordering model. Research in Higher Education Journal, 2, 148- 164.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Who am I and what can I do? Children's selfconcepts and motivation in achievement solutions",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Karpathian",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Educational Psychologist",
+                "volume": "26",
+                "issue": "",
+                "pages": "233--261",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., & Karpathian, M. (1991). Who am I and what can I do? Children's self- concepts and motivation in achievement solutions. Educational Psychologist, 26, 233- 261.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Nonacademic self-concept and gender as achievement predictors",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "William",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "William, J. E. (1993). Nonacademic self-concept and gender as achievement predictors. Retrieved July 2006 from http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/23/85/7f.pdf.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td>Variables</td><td>Time</td><td>N</td><td>Min</td><td>Max</td><td>x</td><td>S.D.</td><td>C.V.</td><td>Sk</td><td>Ku</td></tr><tr><td/><td>1</td><td>820</td><td colspan=\"4\">10.310 35.850 18.050 4.549</td><td colspan=\"3\">0.252 0.93** 0.56**</td></tr><tr><td>ACH</td><td>2</td><td>820</td><td colspan=\"4\">10.180 40.050 19.059 5.178</td><td colspan=\"3\">0.271 1.15** 1.07**</td></tr><tr><td/><td>3</td><td>820</td><td>9.760</td><td colspan=\"3\">41.010 20.608 5.934</td><td colspan=\"3\">0.288 0.98** 0.59**</td></tr><tr><td/><td>1</td><td>820</td><td>0.970</td><td>4.190</td><td>2.652</td><td>0.482</td><td colspan=\"3\">0.181 0.55** 0.70**</td></tr><tr><td>ASC</td><td>2</td><td>820</td><td>1.200</td><td>4.660</td><td>2.752</td><td>0.463</td><td colspan=\"3\">0.168 0.84** 1.29**</td></tr><tr><td/><td>3</td><td>820</td><td>1.070</td><td>4.520</td><td>2.856</td><td>0.493</td><td colspan=\"3\">0.173 0.29** 0.82**</td></tr><tr><td/><td>1</td><td>820</td><td>1.670</td><td>4.540</td><td>2.862</td><td>0.468</td><td colspan=\"3\">0.164 0.41** 0.21**</td></tr><tr><td>NSC</td><td>2</td><td>820</td><td>1.790</td><td>4.750</td><td>2.908</td><td>0.431</td><td colspan=\"3\">0.148 0.75** 1.08**</td></tr><tr><td/><td>3</td><td>820</td><td>0.820</td><td>4.900</td><td>3.007</td><td>0.436</td><td colspan=\"3\">0.145 0.39** 1.78**</td></tr><tr><td colspan=\"2\">* p &lt; .05, ** p&lt; .01</td><td/><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Descriptive Statistics of Variables Correlation Matrix of Variables"
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td colspan=\"2\">Latent Variable x</td><td>SE</td><td>t-value</td><td>Observe Variable</td><td colspan=\"2\">Initial Coefficient SC</td><td>Slop Coefficient SC</td><td>R 2</td></tr><tr><td>IACH</td><td>18.046</td><td colspan=\"3\">0.056 323.311 ACH1</td><td>1</td><td colspan=\"2\">0.912 0</td><td>-</td><td>0.832</td></tr><tr><td>SACH</td><td>1.025</td><td colspan=\"3\">0.013 81.065 ACH2</td><td>1</td><td colspan=\"2\">0.912 1</td><td>0.162 0.869</td></tr><tr><td/><td/><td/><td/><td>ACH3</td><td>1</td><td colspan=\"2\">0.912 2.5</td><td>0.404 0.996</td></tr><tr><td>IASC</td><td>2.661</td><td colspan=\"3\">0.057 46.368 ASC1</td><td>1</td><td colspan=\"2\">0.875 0</td><td>-</td><td>0.765</td></tr><tr><td>SASC</td><td>0.078</td><td colspan=\"2\">0.019 4.122</td><td>ASC2</td><td>1</td><td colspan=\"2\">0.886 1</td><td>0.262 0.740</td></tr><tr><td/><td/><td/><td/><td>ASC3</td><td>1</td><td colspan=\"2\">0.883 2.5</td><td>0.521 0.827</td></tr><tr><td>INSC</td><td>2.852</td><td colspan=\"3\">0.057 50.239 NSC1</td><td>1</td><td colspan=\"2\">0.846 0</td><td>-</td><td>0.746</td></tr><tr><td>SNSC</td><td>0.060</td><td colspan=\"2\">0.021 2.920</td><td>NSC2</td><td>1</td><td colspan=\"2\">0.865 1</td><td>0.346 0.735</td></tr><tr><td/><td/><td/><td/><td>NSC3</td><td>1</td><td colspan=\"2\">0.863 2.5</td><td>0.690 0.955</td></tr></table>",
+                "type_str": "table",
+                "text": "Latent Growth Curve Parameter Testing"
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td colspan=\"2\">Hypothesis</td><td>\u03c7 2</td><td>df</td><td>\u03c7 2 /df</td><td>p</td><td>RMSEA</td><td>RMR</td><td>CFI</td></tr><tr><td colspan=\"2\">Model Form</td><td colspan=\"2\">50.063 54</td><td>0.926</td><td colspan=\"2\">0.627 0.000</td><td>0.041</td><td>1.000</td></tr><tr><td colspan=\"2\">1. H 0 : LY</td><td colspan=\"2\">50.063 54</td><td>0.926</td><td colspan=\"2\">0.627 0.000</td><td>0.041</td><td>1.000</td></tr><tr><td colspan=\"2\">2. H 0 : LY PS</td><td colspan=\"2\">61.590 63</td><td>0.977</td><td colspan=\"2\">0.527 0.000</td><td>0.040</td><td>1.000</td></tr><tr><td colspan=\"4\">3. H 0 : LY PS TE 95.710 72</td><td>1.329</td><td colspan=\"2\">0.035 0.028</td><td>0.035</td><td>0.997</td></tr><tr><td colspan=\"3\">Hypothesis Different Testing</td><td/><td>\u2206 \u03c7 2</td><td/><td/><td>\u2206df</td></tr><tr><td>2. -1.</td><td/><td/><td/><td>11.527</td><td/><td/><td>9</td></tr><tr><td>3. -2.</td><td/><td/><td/><td>34.210*</td><td/><td/><td>9</td></tr><tr><td>* p &lt; .05</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Latent</td><td>Boys Mean</td><td>SE</td><td/><td>t-value</td><td>Girls Mean</td><td>SE</td><td colspan=\"2\">t-value</td></tr><tr><td>IACH</td><td>18.046</td><td>0.056</td><td/><td>323.311</td><td>18.046</td><td>0.041</td><td colspan=\"2\">436.206</td></tr><tr><td>SACH</td><td>1.025</td><td>0.013</td><td/><td>81.065</td><td>1.026</td><td>0.009</td><td colspan=\"2\">113.169</td></tr><tr><td>IASC</td><td>2.661</td><td>0.057</td><td/><td>46.368</td><td>2.660</td><td>0.042</td><td colspan=\"2\">63.059</td></tr><tr><td>SASC</td><td>0.078</td><td>0.019</td><td/><td>4.122</td><td>0.079</td><td>0.014</td><td colspan=\"2\">5.622</td></tr><tr><td>INSC</td><td>2.852</td><td>0.057</td><td/><td>50.239</td><td>2.850</td><td>0.041</td><td colspan=\"2\">68.708</td></tr><tr><td>SNSC</td><td>0.060</td><td>0.021</td><td/><td>2.920</td><td>0.062</td><td>0.014</td><td colspan=\"2\">4.498</td></tr></table>",
+                "type_str": "table",
+                "text": "Multiple Group Analysis between Boy and Girl Groups Growth Parameters of Boy and Girl Groups"
+            }
+        }
+    }
+}

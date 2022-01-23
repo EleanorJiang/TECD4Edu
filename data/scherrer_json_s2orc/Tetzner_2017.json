@@ -1,0 +1,3617 @@
+{
+    "paper_id": "Tetzner_2017",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:01:59.655736Z"
+    },
+    "title": "Think Positive? Examining the Impact of Optimism on Academic Achievement in Early Adolescents",
+    "authors": [
+        {
+            "first": "Julia",
+            "middle": [],
+            "last": "Tetzner",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "German Institute for International Educational Research",
+                "location": {}
+            },
+            "email": "tetzner@dipf.de"
+        },
+        {
+            "first": "Michael",
+            "middle": [],
+            "last": "Becker",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "German Institute for International Educational Research",
+                "location": {}
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: Although optimism's beneficial role for various life areas is well documented, previous findings regarding its significance for students' achievement at school are inconclusive. This study examined the relation between optimism and academic achievement in early adolescents. It investigated the functional form of this relation, addressed whether the initial achievement level moderates this association, and compared this with effects on self-esteem. Method: We used a large German sample (N 5 6,010; 53.2% females; baseline M age 5 14.1) with two measurement points over a period of 5 months (middle and end of 7th grade). Estimating LOESS curves and latent change-regression models revealed three main findings. Results: (a) Optimism showed a nonlinear association with subsequent changes in academic achievement: Optimism promoted academic achievement, but this positive association reached a plateau in above-average optimism ranges and a minimum value in below-average ranges of optimism. (b) The achievement level at t 1 moderated this relation so that high optimism exerted a more positive effect for high-achieving adolescents. (c) By contrast, optimism had an overall positive effect on self-esteem. Conclusions: The results therefore broaden the evidence on benefits of optimism by linking optimism to academic success in early adolescents but indicate only small and nonlinear associations.",
+    "pdf_parse": {
+        "paper_id": "Tetzner_2017",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Objective: Although optimism's beneficial role for various life areas is well documented, previous findings regarding its significance for students' achievement at school are inconclusive. This study examined the relation between optimism and academic achievement in early adolescents. It investigated the functional form of this relation, addressed whether the initial achievement level moderates this association, and compared this with effects on self-esteem. Method: We used a large German sample (N 5 6,010; 53.2% females; baseline M age 5 14.1) with two measurement points over a period of 5 months (middle and end of 7th grade). Estimating LOESS curves and latent change-regression models revealed three main findings. Results: (a) Optimism showed a nonlinear association with subsequent changes in academic achievement: Optimism promoted academic achievement, but this positive association reached a plateau in above-average optimism ranges and a minimum value in below-average ranges of optimism. (b) The achievement level at t 1 moderated this relation so that high optimism exerted a more positive effect for high-achieving adolescents. (c) By contrast, optimism had an overall positive effect on self-esteem. Conclusions: The results therefore broaden the evidence on benefits of optimism by linking optimism to academic success in early adolescents but indicate only small and nonlinear associations.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Optimism appears to be an individual disposition with \"allround\" advantages for human experience and behavior. Optimists experience lower levels of distress, have better interpersonal relationships and physical health, and report better occupational outcomes and well-being (Carver, Scheier, & Segerstrom, 2010; Segerstrom, 2007) . However, previous studies that examined the effects of optimism on adolescents' academic achievement repeatedly failed to confirm these beneficial effects and for the most part found no longitudinal association (Rand, Martin, & Shea, 2011; Solberg Nes, Evans, & Segerstrom, 2009; Tetzner & Becker, 2015) . Instead, theoretical assumptions and empirical findings on the negative effects of optimism, especially of high levels of optimism (e.g., Dillard, Midboe, & Klein, 2009) have raised the question of whether strictly linear relations sufficiently reflect this association. Aiming to address this so far unexplored issue, the present study takes a closer look at the relation between optimism and subsequent changes in academic achievement using a prospective study of a large sample of German early adolescents. It examines whether the effect of optimism on academic achievement could be better described in nonlinear ways. Finally, we compare these associations with effects on adolescents' self-esteem.",
+                "cite_spans": [
+                    {
+                        "start": 274,
+                        "end": 311,
+                        "text": "(Carver, Scheier, & Segerstrom, 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 312,
+                        "end": 329,
+                        "text": "Segerstrom, 2007)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 543,
+                        "end": 571,
+                        "text": "(Rand, Martin, & Shea, 2011;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 572,
+                        "end": 611,
+                        "text": "Solberg Nes, Evans, & Segerstrom, 2009;",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 612,
+                        "end": 635,
+                        "text": "Tetzner & Becker, 2015)",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 776,
+                        "end": 807,
+                        "text": "Dillard, Midboe, & Klein, 2009)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Dispositional optimism is described as the \"extent to which people hold generalized favorable expectancies for their future\" (Carver et al., 2010, p. 879) .",
+                "cite_spans": [
+                    {
+                        "start": 125,
+                        "end": 154,
+                        "text": "(Carver et al., 2010, p. 879)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Optimism Improve Central Life Outcomes?",
+                "sec_num": null
+            },
+            {
+                "text": "Therefore, optimism reflects a stable predisposition in whether individuals generally expect good (or bad) things to happen to them (Carver et al., 2010) . Whereas related constructs, such as hope and self-efficacy, primarily refer to thoughts about an individual's capability to control future outcomes, optimism also encompasses positive expectations about factors that lie outside his or her own control (Bandura, 2006; Rand, 2009) . These generalized positive expectations appear to help optimistic people to develop more positively in several areas of life. Optimism is associated with better adaptation to a broad range of stressful situations, such as educational transitions (Brissette, Scheier, & Carver, 2002) , the death or serious illness of a spouse (Kivim\u20ac aki et al., 2005) , and daily stressors (Robinson & Liu, 2013) . Optimism is also linked to success in multiple domains, such as higher well-being (Scheier & Carver, 1992) , better occupational outcomes (Segerstrom, 2007) , and better physical health (Rasmussen, Scheier, & Greenhouse, 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 132,
+                        "end": 153,
+                        "text": "(Carver et al., 2010)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 407,
+                        "end": 422,
+                        "text": "(Bandura, 2006;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 423,
+                        "end": 434,
+                        "text": "Rand, 2009)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 683,
+                        "end": 719,
+                        "text": "(Brissette, Scheier, & Carver, 2002)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 763,
+                        "end": 788,
+                        "text": "(Kivim\u20ac aki et al., 2005)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 811,
+                        "end": 833,
+                        "text": "(Robinson & Liu, 2013)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 918,
+                        "end": 942,
+                        "text": "(Scheier & Carver, 1992)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 974,
+                        "end": 992,
+                        "text": "(Segerstrom, 2007)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 1022,
+                        "end": 1062,
+                        "text": "(Rasmussen, Scheier, & Greenhouse, 2009)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Optimism Improve Central Life Outcomes?",
+                "sec_num": null
+            },
+            {
+                "text": "Scholars attribute these positive effects to the crucial role of optimism in guiding human thoughts and behavior across multiple contexts (Carver & Scheier, 1998) . Optimists direct their attention more toward positive and less toward negative stimuli, show greater persistence and engagement with high-priority tasks, take actions to minimize risks, and actively attempt to change situations in the face of challenges and adversities (i.e., they use problem-focused and engagement coping strategies). Optimists therefore take active steps to ensure positive future outcomes and emotional states (Brown & Marshall, 2001; Carver et al., 2010; Isaacowitz, 2005; Segerstrom, 2001; Solberg Nes & Segerstrom, 2006) .",
+                "cite_spans": [
+                    {
+                        "start": 138,
+                        "end": 162,
+                        "text": "(Carver & Scheier, 1998)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 596,
+                        "end": 620,
+                        "text": "(Brown & Marshall, 2001;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 621,
+                        "end": 641,
+                        "text": "Carver et al., 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 642,
+                        "end": 659,
+                        "text": "Isaacowitz, 2005;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 660,
+                        "end": 677,
+                        "text": "Segerstrom, 2001;",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 678,
+                        "end": 709,
+                        "text": "Solberg Nes & Segerstrom, 2006)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Optimism Improve Central Life Outcomes?",
+                "sec_num": null
+            },
+            {
+                "text": "Building on this theoretical and empirical knowledge, researchers posit that optimism should also promote adolescent development. Adolescence is an especially demanding life period that presents a wide range of adjustment-related challenges in salient developmental domains, such as adolescents' performance at school or their self-esteem (e.g., Eccles et al., 1993; Harter, 2012; Masten, Obradovi\u0107, & Burt, 2006) .",
+                "cite_spans": [
+                    {
+                        "start": 346,
+                        "end": 366,
+                        "text": "Eccles et al., 1993;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 367,
+                        "end": 380,
+                        "text": "Harter, 2012;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 381,
+                        "end": 413,
+                        "text": "Masten, Obradovi\u0107, & Burt, 2006)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Optimism Improve Central Life Outcomes?",
+                "sec_num": null
+            },
+            {
+                "text": "Optimism may help adolescents to enhance their academic achievement despite these challenges. Optimistic adolescents may show higher academic engagement and greater persistence in reaching their academic goals (cf. Carver et al., 2010) . Thus, they may invest more effort in school-related tasks and actively take steps to close achievement gaps after failures (e.g., taking private lessons; see Solberg Nes & Segerstrom, 2006) . Optimistic adolescents may also experience more positive self-esteem development. They may focus their attention more on positive information, such as positive feedback from peers or their personal strengths, and pay less attention to information that may possibly threaten their self-esteem (see Isaacowitz, 2005; Segerstrom, 2001 ).",
+                "cite_spans": [
+                    {
+                        "start": 215,
+                        "end": 235,
+                        "text": "Carver et al., 2010)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 408,
+                        "end": 427,
+                        "text": "& Segerstrom, 2006)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 727,
+                        "end": 744,
+                        "text": "Isaacowitz, 2005;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 745,
+                        "end": 761,
+                        "text": "Segerstrom, 2001",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Optimism Improve Central Life Outcomes?",
+                "sec_num": null
+            },
+            {
+                "text": "In line with the aforementioned assumptions, empirical findings have largely supported the notion that optimism is important in improving mental health indicators such as well-being, anxiety, depression, and self-esteem (Lyubomirsky, Tkach, & Dimatteo, 2006; Oberle, Schonert-Reichl, & Zumbo, 2011; Scheier & Carver, 1992) . For example, Rand et al. (2011) studied first-year law students and found an association between higher optimism at the beginning of the academic year and higher life satisfaction at the end of the first semester.",
+                "cite_spans": [
+                    {
+                        "start": 220,
+                        "end": 258,
+                        "text": "(Lyubomirsky, Tkach, & Dimatteo, 2006;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 259,
+                        "end": 298,
+                        "text": "Oberle, Schonert-Reichl, & Zumbo, 2011;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 299,
+                        "end": 322,
+                        "text": "Scheier & Carver, 1992)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 338,
+                        "end": 356,
+                        "text": "Rand et al. (2011)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Empirical Evidence That Connects Optimism to Academic Outcomes and Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "Moreover, there are some indications in previous research that optimism promotes educational success. Optimism is associated with educational and socioeconomic outcomes in adulthood such as higher incomes (Segerstrom, 2007) . Crosssectional studies looking at adolescent samples have confirmed the relationship between dispositional optimism and indicators of academic achievement, such as individual grade point averages (GPAs; Lounsbury, Sundstrom, Loveland, & Gibson, 2003) and cognitive abilities (Lounsbury, Welsh, Gibson, & Sundstrom, 2005 ). Zhang and colleagues (Zhang, Haddad, Torres, & Chen, 2011 ) used a longitudinal adolescent sample with domain-specific indicators of optimism and found that positive academic expectations predicted higher academic achievement. Chemers, Hu, and Garcia (2001) also suggested that optimism promotes academic performance in first-year college students. In their study, optimism predicted an achievement indicator that was composed of self-ratings and instructor evaluations, although this was mediated by more specific academic expectations.",
+                "cite_spans": [
+                    {
+                        "start": 205,
+                        "end": 223,
+                        "text": "(Segerstrom, 2007)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 422,
+                        "end": 428,
+                        "text": "(GPAs;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 429,
+                        "end": 476,
+                        "text": "Lounsbury, Sundstrom, Loveland, & Gibson, 2003)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 501,
+                        "end": 545,
+                        "text": "(Lounsbury, Welsh, Gibson, & Sundstrom, 2005",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 570,
+                        "end": 606,
+                        "text": "(Zhang, Haddad, Torres, & Chen, 2011",
+                        "ref_id": "BIBREF65"
+                    },
+                    {
+                        "start": 776,
+                        "end": 806,
+                        "text": "Chemers, Hu, and Garcia (2001)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Empirical Evidence That Connects Optimism to Academic Outcomes and Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "Yet many of the studies indicating that optimism enhances academic achievement have limitations that reduce their generalizability to our research question. The majority of previous research used adult samples, and the developmental significance of optimism in adolescence received little attention (Oberle et al., 2011) . Other studies used cross-sectional designs and investigated domain-specific indicators rather than dispositional optimism, or they examined effects on self-perceived rather than actual academic success. To the best of our knowledge, very few studies have used longitudinal data to examine the influence of dispositional optimism on academic achievement in adolescent or emerging adult samples. The studies that did do this found no association for the most part. A study that investigated whether optimism helps 7th-grade students cope with their parents' separation found no general association between dispositional optimism and subsequent developmental changes for either academic achievement or self-esteem (Tetzner & Becker, 2015) . Looking at college students, Solberg Nes et al. (2009) found that dispositional optimism was associated with higher motivation, lower distress, and a lower chance of dropping out of college. However, optimism did not predict students' grade point averages in that study. Studies by Rand and colleagues also found no association between optimism and subsequent academic performance (law school GPA) in first-year law students (Rand et al., 2011) , but they indicated that a common factor of hope and optimism predicted their class grades, even after controlling for high school GPA (Rand, 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 299,
+                        "end": 320,
+                        "text": "(Oberle et al., 2011)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1034,
+                        "end": 1058,
+                        "text": "(Tetzner & Becker, 2015)",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 1090,
+                        "end": 1115,
+                        "text": "Solberg Nes et al. (2009)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 1486,
+                        "end": 1505,
+                        "text": "(Rand et al., 2011)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1642,
+                        "end": 1654,
+                        "text": "(Rand, 2009)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Empirical Evidence That Connects Optimism to Academic Outcomes and Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "Hence, only a limited body of research has previously examined the association between academic achievement and optimism in adolescents. It is thus not clear whether optimism promotes or determines early adolescents' academic achievement. In fact, the few existing studies suggest that there may not even be a relation. Especially in light of the strong evidence for the beneficial role of optimism in various life areas, this counterintuitive lack of a connection requires further investigation. One possible explanation is that optimism influences academic achievement in a nonlinear way.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Empirical Evidence That Connects Optimism to Academic Outcomes and Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "Although scholars consistently highlight the positive effects of being an optimist, there are ongoing debates on whether optimism may also have drawbacks that can compromise developmental outcomes (Carver et al., 2010; Tennen & Affleck, 1987) . An important and extensively discussed mechanism is that optimists may have an attentional bias, such that they prefer positive over negative information-leading them to see the world in an excessively rose-colored way and to ignore possible threats and potentially important environmental information (Isaacowitz, 2005; Segerstrom, 2001 ). This selective processing of information may hinder optimists from identifying challenges that they cannot overcome, from ceasing to pursue unattainable goals, and from finding new, meaningful goals (Wrosch, Scheier, Carver, & Schulz, 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 197,
+                        "end": 218,
+                        "text": "(Carver et al., 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 219,
+                        "end": 242,
+                        "text": "Tennen & Affleck, 1987)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 547,
+                        "end": 565,
+                        "text": "(Isaacowitz, 2005;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 566,
+                        "end": 582,
+                        "text": "Segerstrom, 2001",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 785,
+                        "end": 826,
+                        "text": "(Wrosch, Scheier, Carver, & Schulz, 2003)",
+                        "ref_id": "BIBREF64"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "What About the Drawbacks of Optimism?",
+                "sec_num": null
+            },
+            {
+                "text": "It is currently unclear whether and how these mechanisms impair adolescents' academic achievement. However, there are related lines of research that can inform us in developing our hypotheses. One explanation may be that optimism has general unbeneficial effects on developmental outcomes. Research on positive thinking has indicated that positive thoughts and images about the future are associated with a lower likelihood of positive outcomes across a variety of contexts, including achievement-related outcomes (see Oettingen, 2012) . For example, Sevincer, Wagner, Kalvelage, and Oettingen (2014) found that positive thoughts about the future in U.S. presidential inaugural addresses predicted economic declines in subsequent presidential tenures. Similarly, students with positive thoughts about an upcoming exam appear to achieve lower course grades than other students (Oettingen & Mayer, 2002) . Therefore, the negative consequences of positive thinking may also hold for early adolescents' academic achievement. However, past research has focused conceptually on positive thoughts and images about the future rather than on positive general future expectations (cf. Oettingen & Mayer, 2002) . Hence, it is unclear whether these negative effects are transferable to dispositional optimism.",
+                "cite_spans": [
+                    {
+                        "start": 519,
+                        "end": 535,
+                        "text": "Oettingen, 2012)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 551,
+                        "end": 600,
+                        "text": "Sevincer, Wagner, Kalvelage, and Oettingen (2014)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 876,
+                        "end": 901,
+                        "text": "(Oettingen & Mayer, 2002)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 1175,
+                        "end": 1199,
+                        "text": "Oettingen & Mayer, 2002)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "What About the Drawbacks of Optimism?",
+                "sec_num": null
+            },
+            {
+                "text": "Another explanation may be that, rather than having an overall negative impact, optimism influences academic achievement in a nonlinear way. Therefore, both the beneficial and detrimental effects of optimism may affect academic development. The well-documented phenomenon of \"unrealistic optimism,\" which relates to the tendency to have more favorable future expectations than suggested by an objective standard (Shepperd, Waters, Weinstein, & Klein, 2015; Weinstein, 1980) , indicates that only an especially high level of optimism may be associated with negative outcomes (see Shepperd et al., 2015) . For example, Dillard and colleagues (2009) examined the alcohol consumption of college students and asked them about their expectations regarding negative alcohol-related events in the future. Students with unrealistically optimistic expectations (i.e., those who underrated their own probability of having negative experiences in relation to their actual alcohol consumption) were more likely to experience alcohol-related problems during the next 2 years than their counterparts with realistic or pessimistic expectations. Applying these assumptions to the effects of optimism on academic achievement, we may expect a curvilinear association. Optimists' attentional bias to positive information may generally promote academic development among early adolescents by causing higher persistence and academic engagement (see Carver et al., 2010; Solberg Nes & Segerstrom, 2006) . But when there is particularly high optimism, the attentional bias may hinder them from noticing threats and identifying challenges that require additional effort, thus impairing early adolescents' academic success (Isaacowitz, 2005; Segerstrom, 2001 ).",
+                "cite_spans": [
+                    {
+                        "start": 412,
+                        "end": 456,
+                        "text": "(Shepperd, Waters, Weinstein, & Klein, 2015;",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 457,
+                        "end": 473,
+                        "text": "Weinstein, 1980)",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 579,
+                        "end": 601,
+                        "text": "Shepperd et al., 2015)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 617,
+                        "end": 646,
+                        "text": "Dillard and colleagues (2009)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1427,
+                        "end": 1447,
+                        "text": "Carver et al., 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1448,
+                        "end": 1479,
+                        "text": "Solberg Nes & Segerstrom, 2006)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 1697,
+                        "end": 1715,
+                        "text": "(Isaacowitz, 2005;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1716,
+                        "end": 1732,
+                        "text": "Segerstrom, 2001",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "What About the Drawbacks of Optimism?",
+                "sec_num": null
+            },
+            {
+                "text": "However, \"unrealistic optimism\" has been shown to be conceptually and empirically distinct from dispositional optimism (Davidson & Prkachin, 1997) . It is thus debatable whether these results are transferable to dispositional optimism as a more global personality trait. Nevertheless, previous research on personality-performance relationships has provided some initial hints regarding nonlinear associations with personality traits. For instance, Cucina and Vasilopoulos (2005) investigated the relation between the Big Five personality traits and academic performance in college students and found a curvilinear relationship for Conscientiousness. To the best of our knowledge, no previous study has tested whether the association between dispositional optimism and subsequent academic achievement in adolescence follows a nonlinear pattern.",
+                "cite_spans": [
+                    {
+                        "start": 119,
+                        "end": 146,
+                        "text": "(Davidson & Prkachin, 1997)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 448,
+                        "end": 478,
+                        "text": "Cucina and Vasilopoulos (2005)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "What About the Drawbacks of Optimism?",
+                "sec_num": null
+            },
+            {
+                "text": "Another open question concerns whether the expectation of positive outcomes has the same effects for all individuals. Research on unrealistic optimism has indicated that optimism only exerts detrimental effects when the individual expectations are too positive, that is, unrealistic (see Dillard et al., 2009) . To distinguish unrealistic expectations from merely optimistic expectations, it is necessary to consider the basis upon which people decide that there is reason for optimism (see Tennen & Affleck, 1987) . In this regard, it should be considered that although dispositional optimism is generally assumed to be stable, it is also shaped by individual experiences (Atienza, Stephens, & Townsend, 2004; Segerstrom, 2007) . For instance, growing up in socioeconomically advantaged households is associated with optimism in adulthood (Heinonen et al., 2006; Korkeila et al., 2004) . Thus, highly optimistic people may differ in whether they have reasons to expect positive outcomes in their futures because they may differ in the resources that may help them to reach their goals. In the case of early adolescents' academic achievement, the effects of optimism may depend on individual academic potential. For a high-achieving student, a high level of optimism may represent a well-grounded future expectation and boost his or her further academic development. Conversely, the same level of optimism may be unrealistically high for a previously low-achieving student and may impede his or her academic development. To date, no previous study has investigated whether individual differences in the availability of resources moderate the effects of dispositional optimism on academic achievement.",
+                "cite_spans": [
+                    {
+                        "start": 288,
+                        "end": 309,
+                        "text": "Dillard et al., 2009)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 491,
+                        "end": 514,
+                        "text": "Tennen & Affleck, 1987)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 673,
+                        "end": 710,
+                        "text": "(Atienza, Stephens, & Townsend, 2004;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 711,
+                        "end": 728,
+                        "text": "Segerstrom, 2007)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 840,
+                        "end": 863,
+                        "text": "(Heinonen et al., 2006;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 864,
+                        "end": 886,
+                        "text": "Korkeila et al., 2004)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "What About the Drawbacks of Optimism?",
+                "sec_num": null
+            },
+            {
+                "text": "One additional question concerns whether the proposed mechanisms are specific to the effects of optimism on academic achievement or whether they also apply to early adolescents' self-esteem. Empirical findings indicated that the factors that help individuals cope with stressful situations or challenging life periods may differ in how they influence various areas of adaptation. Therefore, an especially high level of optimism could impede adolescents' academic achievement but promote their self-esteem. To that effect, motivational theories indicate that high optimism may prevent declines in positive self-perception and well-being (see the hedonic contingency model, Wegener & Petty, 1994 ; see also socioemotional selectivity theory, Carstensen, Isaacowitz, & Charles, 1999) . These theories state that an attentional bias toward positive stimuli may be grounded in an underlying motivation to achieve and maintain positive affect and well-being (Isaacowitz, 2006) . Although early adolescents with a high level of optimism may be more likely to fail academically, their focus on positive information and their own strengths may prevent declines in their self-esteem.",
+                "cite_spans": [
+                    {
+                        "start": 672,
+                        "end": 693,
+                        "text": "Wegener & Petty, 1994",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 752,
+                        "end": 780,
+                        "text": "Isaacowitz, & Charles, 1999)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 952,
+                        "end": 970,
+                        "text": "(Isaacowitz, 2006)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "What About the Drawbacks of Optimism?",
+                "sec_num": null
+            },
+            {
+                "text": "This study investigated the relation between dispositional optimism and subsequent changes in academic achievement by following a large German sample of early adolescents at two measurement points over 6 months. Our research addressed three aims.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Present Study",
+                "sec_num": null
+            },
+            {
+                "text": "The first aim (Aim 1) was to explore the functional form of the association between optimism and subsequent changes in academic achievement. Given the inconclusiveness of previous findings (e.g., Chemers et al., 2001; Solberg Nes et al., 2009) and building on assumptions about the drawbacks of optimism (e.g., Isaacowitz, 2005) , we posit that the effects of optimism on academic achievement may be better captured in nonlinear ways. As previous research on optimism suggests (e.g., Carver et al., 2010), we generally expect to find a positive association. In line with research on unrealistic optimism (e.g., Shepperd et al., 2015) , this relation may become more negative for higher levels of optimism.",
+                "cite_spans": [
+                    {
+                        "start": 196,
+                        "end": 217,
+                        "text": "Chemers et al., 2001;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 218,
+                        "end": 243,
+                        "text": "Solberg Nes et al., 2009)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 311,
+                        "end": 328,
+                        "text": "Isaacowitz, 2005)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 611,
+                        "end": 633,
+                        "text": "Shepperd et al., 2015)",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Present Study",
+                "sec_num": null
+            },
+            {
+                "text": "The second aim (Aim 2) was to investigate whether the initial level of academic achievement moderates the association between optimism and subsequent changes in academic achievement. Previous research has indicated that the effects of optimism may vary as a function of the fit between expectations and individual resources (i.e., only an unrealistic level of optimism may impair developmental outcomes; see Shepperd et al., 2015; Dillard et al., 2009) . Therefore, we expect to find that high optimism has more pronounced detrimental effects in students with lower levels of previous academic achievement.",
+                "cite_spans": [
+                    {
+                        "start": 408,
+                        "end": 430,
+                        "text": "Shepperd et al., 2015;",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 431,
+                        "end": 452,
+                        "text": "Dillard et al., 2009)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Present Study",
+                "sec_num": null
+            },
+            {
+                "text": "The third aim (Aim 3) was to examine whether our results also apply to self-esteem-another salient developmental domain during adolescence. In contrast to academic achievement, we expect to find a positive linear effect of optimism on self-esteem. We based this assumption on research confirming positive associations between optimism and mental health indicators (e.g., Rand et al., 2011) and on motivational theories suggesting that optimism may help individuals to regulate emotions and maintain well-being (see Isaacowitz, 2006) .",
+                "cite_spans": [
+                    {
+                        "start": 371,
+                        "end": 389,
+                        "text": "Rand et al., 2011)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 515,
+                        "end": 532,
+                        "text": "Isaacowitz, 2006)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Present Study",
+                "sec_num": null
+            },
+            {
+                "text": "We used a subset of data from the German longitudinal study Learning Processes, Educational Careers, and Psychosocial Development in Adolescence and Young Adulthood (BIJU; see Schnabel, Alfeld, Eccles, K\u20ac oller, & Baumert, 2002, for details) ; this included data from 6,010 adolescents (female students 5 53.2%) from 189 schools in Germany (N 5 2,945 in the academically oriented track of Germany's multitrack system of secondary education; N 5 3,065 in non-academically oriented school tracks). The analytic sample was composed of adolescents from different educational (61.5% of parents [father and/or mother] with at least a high school diploma) and socioeconomic backgrounds (highest socioeconomic status of parents, as rated using the Treiman-Index: M 5 49.35, SD 5 12.19; Treiman, 1977) . We used two measurement points for our analyses, about 5 months apart: halfway through the 7th grade in 1992 (t 1 ) and the end of the 7th grade in 1992 (t 2 ).",
+                "cite_spans": [
+                    {
+                        "start": 176,
+                        "end": 241,
+                        "text": "Schnabel, Alfeld, Eccles, K\u20ac oller, & Baumert, 2002, for details)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 740,
+                        "end": 777,
+                        "text": "Treiman-Index: M 5 49.35, SD 5 12.19;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 778,
+                        "end": 792,
+                        "text": "Treiman, 1977)",
+                        "ref_id": "BIBREF59"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Optimism. Optimism was measured by self-ratings of the four items of the positively keyed subscale of the Life Orientation Test (LOT; Scheier & Carver, 1985 ; German translation by Wieland-Eckelmann & Carver, 1989 ; example item: \"In uncertain times, I usually expect the best\"; a 5 .70) on a 5-point Likert scale (1 5 strongly disagree, 5 5 strongly agree).",
+                "cite_spans": [
+                    {
+                        "start": 134,
+                        "end": 156,
+                        "text": "Scheier & Carver, 1985",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 181,
+                        "end": 213,
+                        "text": "Wieland-Eckelmann & Carver, 1989",
+                        "ref_id": "BIBREF63"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments",
+                "sec_num": null
+            },
+            {
+                "text": "Academic Achievement. To assess academic achievement, we used standardized achievement tests in mathematics, English, and physics scaled on a common metric using a unidimensional Rasch model (for further information, see Becker, L\u20ac udtke, Trautwein, K\u20ac oller, & Baumert, 2012) . The tests were designed using tasks from a variety of studies on scholastic achievement so as to produce the best curricular fit possible. To solve the problem of differences in the curriculum and level of achievement in mathematics between different types of secondary schools, the tests were adapted to include items specific to the type of school in which they were used. The alpha reliabilities of the test scores ranged between .66 and .88.",
+                "cite_spans": [
+                    {
+                        "start": 221,
+                        "end": 276,
+                        "text": "Becker, L\u20ac udtke, Trautwein, K\u20ac oller, & Baumert, 2012)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments",
+                "sec_num": null
+            },
+            {
+                "text": "Self-Esteem. Self-esteem was measured using a short German version (Jerusalem, 1984; Trautwein, 2003) of the Rosenberg Self-Esteem Scale (Rosenberg, 1965) with four items (example item: \"At times I think I am no good at all\"; a t1 5 .80, a t2 5 .81) on a 4-point Likert scale (1 5 strongly agree, 4 5 strongly disagree). In previous analyses, latent correlations between the short and the long versions of the Rosenberg scale in German equaled unity (Trautwein, 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 67,
+                        "end": 84,
+                        "text": "(Jerusalem, 1984;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 85,
+                        "end": 101,
+                        "text": "Trautwein, 2003)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 137,
+                        "end": 154,
+                        "text": "(Rosenberg, 1965)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 450,
+                        "end": 467,
+                        "text": "(Trautwein, 2003)",
+                        "ref_id": "BIBREF58"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments",
+                "sec_num": null
+            },
+            {
+                "text": "Missing Data. For our analyses, we focused on participants with optimism data at t 1 (N 5 6,010). The missing data in the other variables averaged 25.2%. In such cases, the current literature recommends replacing missing values using multiple imputation (MI; cf. Graham, 2009; Little & Rubin, 2002) . Although MI does not rule out parameter bias entirely, it maximizes test power and reduces the risk of biased parameter estimations, in particular in combination with auxiliary variables (cf. Collins, Schafer, & Kam, 2001) . Multiple imputation of the missing values was carried out using the MICE package (Multiple Imputation by Chained Equations; Van Buuren & Groothuis-Oudshoorn, 2011) in the R 3.3.1 software (cf. R Core Team, 2016).",
+                "cite_spans": [
+                    {
+                        "start": 263,
+                        "end": 276,
+                        "text": "Graham, 2009;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 277,
+                        "end": 298,
+                        "text": "Little & Rubin, 2002)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 493,
+                        "end": 523,
+                        "text": "Collins, Schafer, & Kam, 2001)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "We imputed and summarized 10 data sets according to Rubin's (1987) rules, which can be implemented automatically in Mplus using the analysis option type 5 imputation (Muth en & Muth en, 1998-2013).",
+                "cite_spans": [
+                    {
+                        "start": 52,
+                        "end": 66,
+                        "text": "Rubin's (1987)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "Analytical Strategy. To test our research questions, we estimated multivariate latent change-regression models. We used the software package Mplus 7.11 (Muth en & Muth en, 1998-2013) for structural equation modeling. All our models used latent factors that were tested stepwise for measurement invariance. This procedure allowed us to investigate structural relationships independently of random measurement error and longitudinal changes in the reliabilities of constructs (Bollen & Curran, 2006) . In addition, we estimated locally weighted smoothing (LOESS) curves to better explore nonlinearity in effects.",
+                "cite_spans": [
+                    {
+                        "start": 474,
+                        "end": 497,
+                        "text": "(Bollen & Curran, 2006)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "Measurement Model. As a basis for all further analyses, we specified separate structural models for academic achievement, self-esteem, and optimism across both measurement points, with one latent factor for each point. We then progressively tested them for measurement invariance. We evaluated the fit of our models using multiple model fit indices: the root mean square error of approximation (RMSEA), the comparative fit index (CFI), the Tucker-Lewis index (TLI), and the standardized root mean square residual (SRMR). CFIs and TLIs above .90 and RMSEAs and SRMRs below .08 typically indicate an acceptable fit with the data (Schermelleh-Engel, Moosbrugger, & M\u20ac uller, 2003 ).",
+                "cite_spans": [
+                    {
+                        "start": 627,
+                        "end": 676,
+                        "text": "(Schermelleh-Engel, Moosbrugger, & M\u20ac uller, 2003",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "Since we can assume strict factorial invariances over time for optimism and self-esteem (as factor loadings, measurement intercepts, and residual variances were constrained to be equal across time points; see Meredith, 1993; optimism: RMSEA 5 .05, CFI 5 .96, TLI 5 .96, SRMR 5 .04; self-esteem: RMSEA 5 .04, CFI 5 .98, TLI 5 .98, SRMR 5 .07) and strong factorial invariance for academic achievement (RMSEA 5 .10, CFI 5 .98, TLI 5 .97, SRMR 5 .09), our results are relatively independent of changes in measurement across time. By the same token, we allowed for correlated residuals of the corresponding manifest items across adjacent time points (Bollen & Curran, 2006) .",
+                "cite_spans": [
+                    {
+                        "start": 645,
+                        "end": 668,
+                        "text": "(Bollen & Curran, 2006)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "Latent Change-Regression Models. We successively estimated multivariate latent change-regression models and moderated multivariate latent change-regression models to investigate our hypotheses (see McArdle, 2009; McArdle & Hamagami, 2001 ; see Figure 1 ). We used the specified measurement models to estimate a latent intercept factor (i) and a slope factor (s) as additional latent variables. The latent intercept factor represented interindividual differences in our constructs at t 1 , whereas the latent slope factor reflected interindividual differences in intraindividual mean-level changes between t 1 and t 2 .",
+                "cite_spans": [
+                    {
+                        "start": 198,
+                        "end": 212,
+                        "text": "McArdle, 2009;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 213,
+                        "end": 237,
+                        "text": "McArdle & Hamagami, 2001",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 244,
+                        "end": 252,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "In contrast to a change-score model, a change-regression model estimates a baseline-free measure of change by regressing the slope factor on the intercept score instead of modeling a correlation (see McArdle, 2009) . We used this modeling procedure to better distinguish the effects of optimism on subsequent academic achievement from the initial associations between optimism and academic achievement.",
+                "cite_spans": [
+                    {
+                        "start": 200,
+                        "end": 214,
+                        "text": "McArdle, 2009)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "First, we examined the functional form of the relation between optimism and subsequent changes in academic achievement (Aim 1). Therefore, we built a multivariate latent changeregression model to test a linear effect of optimism on academic achievement (Table 2, Model 1). We modeled intercepts and slopes of optimism and academic achievement simultaneously and used the initial levels of optimism and academic achievement to predict mean-level changes in optimism and academic achievement between t 1 and t 2 . We further allowed for cross- sectional correlations between the intercept of optimism and the intercept of academic achievement and between their slopes. Second, we tested for nonlinear effects of optimism on academic achievement (Table 2, Model 2). To this end, we estimated latent interaction terms for quadratic and cubic terms of optimism at t 1 and added them to the model as predictors for mean-level changes in academic achievement. We estimated a third model to investigate whether the initial level of academic achievement moderates the association between optimism and subsequent changes in academic achievement (Aim 2). Therefore, we estimated latent interaction terms of academic achievement and optimism at t 1 (as well as the quadratic term) and included them in our model as additional predictors for mean-level changes in academic achievement (Table 2, Model 3; see Figure 1 ). To the best of our knowledge, Mplus does not allow for the estimation of overall model fit indices for analyses that include latent interactions (e.g., Klein & Moosbrugger, 2000) . In line with previous research (Specht, Egloff, & Schmukle, 2011) , we assume that the model fit indices of these models will be comparable with those of the models without latent interactions.",
+                "cite_spans": [
+                    {
+                        "start": 1559,
+                        "end": 1585,
+                        "text": "Klein & Moosbrugger, 2000)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 1619,
+                        "end": 1653,
+                        "text": "(Specht, Egloff, & Schmukle, 2011)",
+                        "ref_id": "BIBREF55"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1395,
+                        "end": 1403,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "We also estimated latent change-regression models to test whether our results also hold for the effects of optimism on selfesteem (Aim 3). To this end, we used the same three-step modeling procedure that we used for academic achievement (see Figure 1 and Table 3) .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 242,
+                        "end": 263,
+                        "text": "Figure 1 and Table 3)",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "As the BIJU data had a multilevel structure, with individuals nested in schools, there may be dependencies in our data resulting from similarities in our variables within selected schools. To account for the hierarchical data structure, we estimated the models with robust standard errors using the analysis option type 5 complex (using school as a cluster variable).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "LOESS Curves. To investigate the shape of the potential nonlinear association between optimism and subsequent changes in academic achievement more thoroughly, we also estimated locally weighted smoothing (LOESS) curves (see Cleveland, 1979) . LOESS curves are nonparametric and provide a graphical tool for depicting the shape of a bivariate association using local regression techniques. The statistical procedure therefore splits the values of the independent variable (optimism) into smaller subsets, uses them to compute multiple regression lines, and, finally, combines these lines into a smoothed curve. Since LOESS curves are obtained empirically rather than by using a specific statistical model (e.g., linear, quadratic), they can reveal complex relationships between variables that may be overlooked when using other statistical techniques (Jacoby, 2000) . We used the R 3.3.1 software (R Core Team, 2016) for estimating LOESS curves.",
+                "cite_spans": [
+                    {
+                        "start": 224,
+                        "end": 240,
+                        "text": "Cleveland, 1979)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 850,
+                        "end": 864,
+                        "text": "(Jacoby, 2000)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "We proceeded as follows: We first estimated a graph that depicts the functional form of the bivariate association between optimism and mean-level changes in academic achievement more thoroughly (Aim 1). To model this, we used manifest scores of optimism at t 1 and mean-level changes in academic achievement, obtained as factor scores from our latent changeregression models. We residualized the mean-level changes in academic achievement for the initial level of academic achievement. We then estimated a second graph to further examine the moderating effect of initial academic achievement (Aim 2). To plot this interaction effect, we divided our sample into three groups, separated by their academic achievement at t 1 (average 5 between 1 SD above and 1 SD below the average academic achievement, below average 5 more than 1 SD below the average, above average 5 more than 1 SD above the average). We group-centered the mean-level changes in academic achievement. We estimated additional LOESS curves to determine whether we could find similar associations for self-esteem (Aim 3). We used the same procedure described for academic achievement. Table 1 shows descriptive statistics and correlations for the study variables, which indicate positive associations between optimism and academic achievement as well as between optimism and self-esteem within and across time. To examine these associations more comprehensively, in the following sections we report our results from structural equation modeling and from estimating LOESS curves. We present all results standardized relative to the standard deviations at the initial measurement (i.e., the mean of the intercepts was set to 0, and the standard deviation was set to 1).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1149,
+                        "end": 1156,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Approach",
+                "sec_num": null
+            },
+            {
+                "text": "Latent Change-Regression Models. We first explored the functional form of the association between optimism and academic achievement (Aim 1). Our first model tested whether optimism at t 1 predicts mean-level changes in academic achievement between t 1 and t 2 in a linear way. As Model 1 of Table 2 shows, the findings indicated no linear association. Although the reverse relation is not a focus of our study, the results suggested that academic achievement at t 1 predicted subsequent meanlevel changes in optimism, which indicated that the individual level of optimism may increase following academic success. Our second model (see Table 2 , Model 2) tested whether optimism at t 1 predicts subsequent mean-level changes in academic achievement in a nonlinear way. The results supported our assumption of nonlinearity because they indicate a curvilinear association. Optimism predicted mean-level changes in academic achievement in terms of small cubic effects (linear effect: b 5 .08, p < .001; quadratic effect: b 5 -.05, p < .001; cubic effect: b 5 -.03, p < .001), indicating a positive association with turning points toward less favorable effects. A third model (Table 2, Model 3) tested whether initial academic achievement moderates the effects of optimism on academic achievement (Aim 2). Our results confirmed a small interaction effect (b 5 .06, p 5 .003), indicating that the individual achievement level modifies the effects of optimism on mean-level changes in academic achievement.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 291,
+                        "end": 298,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 635,
+                        "end": 642,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Optimism and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "LOESS Curves. Since the latent change-regression models indicated a curvilinear relationship between optimism and academic achievement, we estimated LOESS curves to examine the shape of this bivariate association more thoroughly. Figure 2 , Graph 1A depicts this association (cf. Aim 1) by plotting the slope of academic achievement against the intercept of optimism at t 1 . Confirming the results of the latent change-regression model, the curve followed a curvilinear pattern. Scores in the middle range of optimism (in the range between 1 SD below and 1 SD above the average optimism in our sample) were positively related to meanlevel changes in academic achievement. In the aboveaverage range, the enhancing effects of optimism on further academic achievement seemed to reach a plateau. However, the curve indicated no detrimental effects of above-average optimism. In the below-average range, the effects of optimism seemed to converge to a minimum value. Since our latent change-regression models indicated that the initial achievement level may moderate the effects of optimism on academic achievement, we estimated additional LOESS curves to depict this interaction effect (Aim 2). Figure 2 , Graph 1B therefore plots this association once more, showing groups of different achievement levels at t 1 (average vs. above average vs. below average). Confirming a moderating influence, the curves indicated more pronounced effects of optimism in adolescents whose initial achievement was average or above average rather than below average. In line with our hypotheses, the point at which higher optimism no longer boosted academic achievement seemed to vary between achievement groups. Above-average optimism seemed to be additionally beneficial for academic achievement among adolescents with aboveaverage initial achievement, but not for early adolescents with below-average initial achievement.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 230,
+                        "end": 238,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 1192,
+                        "end": 1200,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Optimism and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Latent Change-Regression Models. Finally, we tested whether our results also hold for effects of optimism on early adolescents' self-esteem (Aim 3). In doing this, we first Note. AcAch 5 academic achievement; Opt 5 optimism. Model parameters were standardized relative to the first measurement. (The mean of the latent factors at t 1 were constrained to 0, and the variance was fixed to 1.)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Optimism and Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "examined the functional form of the association between optimism and subsequent changes in self-esteem. The results confirmed a positive linear association (b 5 .08, p < .001; see Table 3 , Model 1). We also tested whether we could find nonlinear effects of optimism on self-esteem (see Table 3 , Model 2). Our results showed a statistically significant quadratic association (linear effect: b 5 .19, p 5 .004; quadratic effect: b 5 -.09, p < .001). Therefore, the nonlinear model confirmed the positive association but indicated that there was a turning point after which the effects were less favorable. Although this was not within the scope of our study, self-esteem predicted mean-level changes in optimism (b 5 .17, p < .001; see Table 3 , Model 1). Contrary to our results regarding academic achievement, the initial level of self-esteem did not moderate the association between optimism and subsequent changes in self-esteem (see Table 3 , Model 3).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 180,
+                        "end": 187,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 287,
+                        "end": 294,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 736,
+                        "end": 743,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 938,
+                        "end": 945,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Optimism and Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "LOESS Curves. We also estimated LOESS curves to more thoroughly examine the functional form of the association between optimism and subsequent changes in self-esteem (Aim 3). Therefore, Figure 2 , Graph 2A plots mean-level changes in self-esteem across different levels of optimism. Confirming the results of the latent change-regression models, the LOESS curve indicated a positive general association. Although the graph likewise suggested a nonlinear trend-with more pronounced effects for optimism scores below the average and far above the average-this positive association holds across the whole range of optimism scores. In line with the latent change-regression model, LOESS curves also suggested that initial self-esteem may not moderate this association (see Figure 2 , Graph 2B).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 186,
+                        "end": 194,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 769,
+                        "end": 777,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Optimism and Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "In this study, we investigated the effects of optimism on academic achievement and self-esteem in early adolescents. To this end, we primarily examined the functional form of the association between optimism and subsequent changes in academic achievement (Aim 1). We further addressed whether the individual achievement level moderates this association (Aim 2). Finally, we investigated whether the resulting findings are specific to optimism's association with academic achievement or whether they also hold for its effects on early adolescents' self-esteem (Aim 3). Using a large longitudinal German sample, this study is the first to investigate whether the relation between dispositional optimism and academic achievement follows a nonlinear pattern.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Our first research question concerned the functional form of the relation between optimism and subsequent changes in academic achievement. Drawing on assumptions about the drawbacks of optimism (e.g., Isaacowitz, 2005) and some initial findings of curvilinearity in personality-performance relationships (Cucina & Vasilopoulos, 2005) , we expected to observe a nonlinear association. Indeed, the results from structural equation modeling and LOESS curves matched nicely, indicating a cubic relationship. This finding replicated and extended previous research (e.g., Rand et al., 2011; Tetzner & Becker, 2015) by showing that linear relations do not sufficiently reflect the effects of optimism on early adolescents' academic achievement. Therefore, the results underscore the necessity of investigating the effects of optimism more thoroughly by accounting for nonlinearity in relations.",
+                "cite_spans": [
+                    {
+                        "start": 201,
+                        "end": 218,
+                        "text": "Isaacowitz, 2005)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 304,
+                        "end": 333,
+                        "text": "(Cucina & Vasilopoulos, 2005)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 566,
+                        "end": 584,
+                        "text": "Rand et al., 2011;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 585,
+                        "end": 608,
+                        "text": "Tetzner & Becker, 2015)",
+                        "ref_id": "BIBREF57"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Effects of Optimism on Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Taking a closer look at the relation, we observe that scores in the middle range of optimism were positively related to mean-level changes in academic achievement. This finding agrees with theories about the supportive role of optimism for developmental processes (Carver & Scheier, 1998; Carver et al., 2010) . A higher level of optimism may enhance early adolescents' academic achievement by giving them greater persistence with and engagement in school-related tasks, which may lead them to take active steps to ensure academic success in the future (e.g., taking private lessons after failures). The result of a positive association is also in line with some previous findings that indicated that optimism enhances academic achievement (e.g., Chemers et al., 2001; Zhang et al., 2011) . Therefore, this study broadens the existing empirical evidence regarding the allaround benefits of optimism in multiple areas of life by linking it to academic success in early adolescents.",
+                "cite_spans": [
+                    {
+                        "start": 264,
+                        "end": 288,
+                        "text": "(Carver & Scheier, 1998;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 289,
+                        "end": 309,
+                        "text": "Carver et al., 2010)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 747,
+                        "end": 768,
+                        "text": "Chemers et al., 2001;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 769,
+                        "end": 788,
+                        "text": "Zhang et al., 2011)",
+                        "ref_id": "BIBREF65"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Effects of Optimism on Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "However, this study indicated that this enhancing association does not hold for the whole range of optimism. At aboveaverage levels of optimism, the positive effects on academic achievement reached a plateau. This finding of a negative quadratic effect is consistent with theoretical assumptions about the drawbacks of optimism (e.g., Isaacowitz, 2005) and research on unrealistic optimism (e.g., Shepperd et al., 2015) . Highly optimistic adolescents may see the world through rose-colored glasses. This attentional bias may hinder them from dealing with setbacks and challenges adequately, for example, by taking private lessons or investing more effort in homework. However, the findings do not support the assumption that above-average levels of optimism impair academic achievement. One possible explanation is that the potentially detrimental effects of high optimism, such as ignoring threats and failures (e.g., Isaacowitz, 2005) , may not apply within the school context because in such educational settings, students receive frequent feedback that Note. S-E 5 self-esteem; Opt 5 optimism. Model parameters were standardized relative to the first measurement. (The mean of the latent factors at t 1 were constrained to 0, and the variance was fixed to 1.) they cannot ignore. Another possible explanation is that high optimism may have detrimental effects, but that these detrimental effects may simply be counterbalanced by the positive effects of high optimism (i.e., the negative effects may prevent further increases in engagement and effort; Carver et al., 2010; Solberg Nes & Segerstrom, 2006) . This simultaneity of mechanisms that promote academic achievement and mechanisms that hinder academic achievement may result in an unchanged association for those with above-average levels of optimism. Notably, our results also indicated that the effects of optimism on adolescents' academic achievement converge to a minimum value in those with below-average levels of optimism. This finding of a cubic association hints at a complex relationship between optimism and academic achievement. Therefore, only mid-level optimism appears to be necessary to promote adolescents' success at school. In contrast, both the positive and the detrimental effects of extreme levels of optimism seem to reach limits.",
+                "cite_spans": [
+                    {
+                        "start": 335,
+                        "end": 352,
+                        "text": "Isaacowitz, 2005)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 397,
+                        "end": 419,
+                        "text": "Shepperd et al., 2015)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 920,
+                        "end": 937,
+                        "text": "Isaacowitz, 2005)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1556,
+                        "end": 1576,
+                        "text": "Carver et al., 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1577,
+                        "end": 1608,
+                        "text": "Solberg Nes & Segerstrom, 2006)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Effects of Optimism on Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Overall, the effects of optimism on academic achievement were small in size. Although this relatively small contribution may contrast with ideas about the crucial role of optimism in guiding human thoughts and behavior (cf. Carver et al., 2010) , two aspects need to be considered. First, we measured academic achievement using standardized achievement test scores that were highly stable between the middle and end of 7th grade. This measure might have provided few opportunities for the influence of psychosocial factors such as optimism. Second, even if the effects were small over a period of 5 months, these influences may accumulate over time to have a meaningful impact on educational success across the life span.",
+                "cite_spans": [
+                    {
+                        "start": 224,
+                        "end": 244,
+                        "text": "Carver et al., 2010)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Effects of Optimism on Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Our second research question concerned whether the individual achievement level moderates the effects of optimism on academic achievement. Drawing on research on unrealistic optimism (e.g., Dillard et al., 2009) , we predicted that high optimism may have more pronounced negative effects in adolescents with lower academic achievement. Our results confirmed this assumption. The positive effects of optimism on academic achievement seemed to be greater for average and high-achieving students than for their lower-achieving peers. For high-achieving students, the range of optimism that exerted a positive effect and the point at which this positive effect reached its limit appeared to be located in higher optimism scores than was the case for their lower-achieving peers. These results indicated that the effects of optimism vary as a function of the fit between expectations and individual aptitude. Optimism may only exert a positive influence when early adolescents also have useful academic skills that boost their further academic achievement. In general, this finding provides evidence that the availability of resources and skills may influence the kind and strength of the effects of optimism. Therefore, it may be useful to consider the individual foundation of positive expectations in the research on dispositional optimism.",
+                "cite_spans": [
+                    {
+                        "start": 190,
+                        "end": 211,
+                        "text": "Dillard et al., 2009)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Moderating Role of the Achievement Level",
+                "sec_num": null
+            },
+            {
+                "text": "Our third research question concerned whether we can apply our results to other important developmental outcomes during adolescence or whether the described associations are specific to academic achievement. We tested this for self-esteem in early adolescents. Drawing on motivational theories (e.g., Isaacowitz, 2006) , we expected to find that optimism exerts significant beneficial effects on early adolescents' self-esteem. In line with our assumptions and contrary to effects on academic achievement, optimism appeared to have a positive linear effect on selfesteem. As with the relation between optimism and academic achievement, a nonlinear relation seemed to describe this association better, but the positive effect seemed to hold for the whole range of optimism scores. One possible explanation is that optimists' attentional bias toward positive information may help them to focus more on their personal strengths and less on setbacks, thereby protecting their self-esteem (cf. Isaacowitz, 2006) . These results are also in keeping with general assumptions about the crucial role of optimism for success in multiple areas of life (e.g., Carver et al., 2010) and with empirical findings regarding its positive association with mental health indicators (e.g., Rand et al., 2011) . Whether early adolescents had high or low self-esteem did not influence optimism effects. Therefore, the effects of optimism on self-esteem in early adolescents may be somewhat different from the effects of optimism on their academic achievement. Our findings thus highlight the need to examine the effects of optimism on different developmental domains separately.",
+                "cite_spans": [
+                    {
+                        "start": 301,
+                        "end": 318,
+                        "text": "Isaacowitz, 2006)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 989,
+                        "end": 1006,
+                        "text": "Isaacowitz, 2006)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1148,
+                        "end": 1168,
+                        "text": "Carver et al., 2010)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1269,
+                        "end": 1287,
+                        "text": "Rand et al., 2011)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Effects of Optimism on Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "This study possesses many advantages compared to most previous research that addressed dispositional optimism and academic achievement in adolescents, including the large sample size, the prospective design, and the use of sophisticated statistical methods. Some limitations of this study must also be noted.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "LIMITATIONS AND FUTURE DIRECTIONS",
+                "sec_num": null
+            },
+            {
+                "text": "One limitation concerns the generalizability of our results. The BIJU study involved an oversampling of students in the academically oriented track of Germany's secondary school system and therefore overrepresents early adolescents with aboveaverage academic achievement. This reduction in variability may influence our results. However, our results may represent a lower-bound estimate: In a more representative group, the effects might be even stronger. Moreover, our study only followed one specific cohort of 7th graders over 5 months, and we cannot exclude the possibility that the effects may vary for different age groups or cohorts, or over longer time spans. In addition, future studies should address whether these effects hold for different samples (e.g., across different genders, different school types, different nationalities).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "LIMITATIONS AND FUTURE DIRECTIONS",
+                "sec_num": null
+            },
+            {
+                "text": "Another potential limitation lies in our operationalization of academic achievement. We used standardized achievement scores, which represent objective measures of academic achievement and therefore constitute useful and valid estimations for early adolescents' academic development. Nevertheless, more subjective scores, such as school grades, may be more subject to the influence of optimism. For example, \"getting good grades\" may be a more precise goal for early adolescents than \"being high-achieving,\" potentially leading to more specific actions to achieve better grades (e.g., preparing intensively for a test vs. preparing each day for school). Since school grades are more salient and noticeable by adolescents than objective academic achievement, grades may also be more likely to moderate the effects of optimism on future academic achievement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "LIMITATIONS AND FUTURE DIRECTIONS",
+                "sec_num": null
+            },
+            {
+                "text": "A third limitation is that we found a relatively low stability of our optimism measure between the middle and end of 7th grade (r 5 .33). This is partly in line with previous research that also found dispositional optimism to be less stable than most personality traits, potentially due to a particularly high responsiveness to changes in resources and a weaker genetic basis (e.g., Atienza et al., 2004; Segerstrom, 2007) . In our study, the particularly young age of the participants and the extensive and fundamental challenges and changes during early adolescence (e.g., 7th grade is the first school year of secondary schooling in some federal states in Germany) may additionally contribute to the low stability. Since we cannot clarify whether the low stability influenced our findings, future studies should address this issue.",
+                "cite_spans": [
+                    {
+                        "start": 383,
+                        "end": 404,
+                        "text": "Atienza et al., 2004;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 405,
+                        "end": 422,
+                        "text": "Segerstrom, 2007)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "LIMITATIONS AND FUTURE DIRECTIONS",
+                "sec_num": null
+            },
+            {
+                "text": "Fourth, we based our analyses on the positively keyed subscale of the Life Orientation Test (Scheier & Carver, 1985) . This subscale aims to measure optimism but does not necessarily provide information about adolescents' level of pessimism. Since there is still controversy about whether optimism and pessimism represent two largely distinct dimensions rather than one bipolar dimension (Carver et al., 2010; Herzberg, Glaesmer, & Hoyer, 2006) , future studies should further examine the ways in which pessimism-in contrast to low levels of optimism-affects adolescents' academic achievement and self-esteem.",
+                "cite_spans": [
+                    {
+                        "start": 92,
+                        "end": 116,
+                        "text": "(Scheier & Carver, 1985)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 388,
+                        "end": 409,
+                        "text": "(Carver et al., 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 410,
+                        "end": 444,
+                        "text": "Herzberg, Glaesmer, & Hoyer, 2006)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "LIMITATIONS AND FUTURE DIRECTIONS",
+                "sec_num": null
+            },
+            {
+                "text": "Fifth, although we found longitudinal connections between optimism and subsequent changes in academic achievement and self-esteem, our design cannot identify the mechanisms that produce these associations. Future research is needed to disentangle the underlying mechanisms.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "LIMITATIONS AND FUTURE DIRECTIONS",
+                "sec_num": null
+            },
+            {
+                "text": "To the best of our knowledge, this is the first study to examine nonlinearity in the relation between dispositional optimism and changes in academic achievement and self-esteem in early adolescents. The findings broaden the empirical evidence regarding the benefits of optimism by linking it to academic achievement and self-esteem in early adolescents. In the case of academic achievement, this positive association reached a plateau in above-average optimism ranges and a minimum value in belowaverage optimism ranges. For self-esteem, we found a positive linear association. The results therefore highlight the necessity of investigating developmental associations more thoroughly by accounting for nonlinearity in relations. They also underscore the need to specifically investigate the effects of optimism and the underlying mechanisms for different outcomes and to consider the fit between optimistic expectations and individual resources. Although the findings indicated that optimism matters for early adolescents' development, they also suggested that optimism only makes a small contribution to explaining why some early adolescents develop more positively in terms of academic achievement than others. Being optimistic may therefore help early adolescents cope with this challenging life period, but it does not seem to be a \"key\" that fosters positive development in all areas.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSIONS",
+                "sec_num": null
+            },
+            {
+                "text": "Tetzner & Becker",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Declaration of Conflicting Interests",
+                "sec_num": null
+            },
+            {
+                "text": "The authors received no financial support for the research, authorship, and/or publication of this article.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Funding",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Role stressors as predictors of changes in women's optimistic expectations",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Atienza",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A P"
+                        ],
+                        "last": "Stephens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Townsend",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Personality and Individual Differences",
+                "volume": "37",
+                "issue": "",
+                "pages": "471--484",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Atienza, A. A., Stephens, M. A. P., & Townsend, A. L. (2004). Role stressors as predictors of changes in women's optimistic expecta- tions. Personality and Individual Differences, 37, 471-484.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Adolescent development from an agentic perspective",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bandura",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Self-efficacy beliefs of adolescents",
+                "volume": "",
+                "issue": "",
+                "pages": "1--44",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bandura, A. (2006). Adolescent development from an agentic per- spective. In F. Pajares & T. C. Urdan (Eds.), Self-efficacy beliefs of adolescents (pp. 1-44). Greenwich, CT: IAP -Information Age Pub.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "The differential effects of school tracking on psychometric intelligence: Do academic-track schools make students smarter?",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Becker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u20ac Udtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Educational Psychology",
+                "volume": "104",
+                "issue": "",
+                "pages": "682--699",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Becker, M., L\u20ac udtke, O., Trautwein, U., K\u20ac oller, O., & Baumert, J. (2012). The differential effects of school tracking on psychomet- ric intelligence: Do academic-track schools make students smar- ter? Journal of Educational Psychology, 104, 682-699.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Latent curve models: A structural equation approach",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Bollen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Curran",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bollen, K. A. & Curran, P. J. (2006). Latent curve models: A struc- tural equation approach. San Francisco, CA: Jossey-Bass.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The role of optimism in social network development, coping, and psychological adjustment during a life transition",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Brissette",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Scheier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Carver",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "102--111",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brissette, I., Scheier, M. F., & Carver, C. S. (2002). The role of opti- mism in social network development, coping, and psychological adjustment during a life transition. Journal of Personality and Social Psychology, 82, 102-111.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Great expectations: Optimism and pessimism in achievement settings",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Marshall",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Optimism and pessimism: Implications for theory, research, and practice",
+                "volume": "",
+                "issue": "",
+                "pages": "239--255",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brown, J. D., & Marshall, M. A. (2001). Great expectations: Opti- mism and pessimism in achievement settings. In E. C. Chang (Eds.), Optimism and pessimism: Implications for theory, research, and practice (pp. 239-255). Washington, DC: Ameri- can Psychological Association.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Taking time seriously: A theory of socioemotional selectivity",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Carstensen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Isaacowitz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Charles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "American Psychologist",
+                "volume": "54",
+                "issue": "",
+                "pages": "165--181",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Carstensen, L. L., Isaacowitz, D. M., & Charles, S. T. (1999). Taking time seriously: A theory of socioemotional selectivity. American Psychologist, 54, 165-181.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "On the self-regulation of behavior",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Carver",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Scheier",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Carver, C. S., & Scheier, M. F. (1998). On the self-regulation of behavior. New York: Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Academic selfefficacy and first-year college student performance and adjustment",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Chemers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Hu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Garcia",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "55--64",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chemers, M. M., Hu, L., & Garcia, B. F. (2001). Academic self- efficacy and first-year college student performance and adjust- ment. Journal of Educational Psychology, 93, 55-64.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Robust locally weighted regression and smoothing scatterplots",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Cleveland",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "Journal of the American Statistical Association",
+                "volume": "74",
+                "issue": "",
+                "pages": "829--836",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cleveland, W. S. (1979). Robust locally weighted regression and smoothing scatterplots. Journal of the American Statistical Asso- ciation, 74, 829-836.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "A comparison of inclusive and restrictive strategies in modern missing data procedures",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Collins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Schafer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C.-M",
+                        "middle": [],
+                        "last": "Kam",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Psychological Methods",
+                "volume": "6",
+                "issue": "",
+                "pages": "330--351",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Collins, L. M., Schafer, J. L., & Kam, C.-M. (2001). A comparison of inclusive and restrictive strategies in modern missing data pro- cedures. Psychological Methods, 6, 330-351.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Nonlinear personalityperformance relationships and the spurious moderating effects of traitedness",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Cucina",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Vasilopoulos",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Personality",
+                "volume": "73",
+                "issue": "",
+                "pages": "227--259",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cucina, J. M., & Vasilopoulos, N. L. (2005). Nonlinear personality- performance relationships and the spurious moderating effects of traitedness. Journal of Personality, 73, 227-259.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Optimism and unrealistic optimism have an interacting impact on health-promoting behavior and knowledge changes",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Davidson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Prkachin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "23",
+                "issue": "",
+                "pages": "617--625",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Davidson, K., & Prkachin, K. (1997). Optimism and unrealistic opti- mism have an interacting impact on health-promoting behavior and knowledge changes. Personality and Social Psychology Bul- letin, 23, 617-625.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "The dark side of optimism: Unrealistic optimism about problems with alcohol predicts subsequent negative event experiences",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Dillard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Midboe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "M P"
+                        ],
+                        "last": "Klein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "35",
+                "issue": "",
+                "pages": "1540--1550",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dillard, A. J., Midboe, A. M., & Klein, W. M. P. (2009). The dark side of optimism: Unrealistic optimism about problems with alco- hol predicts subsequent negative event experiences. Personality and Social Psychology Bulletin, 35, 1540-1550.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Development during adolescence: The impact of stage-environment fit on young adolescents' experiences in schools and in families",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Buchanan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Reuman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Flanagan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "American Psychologist",
+                "volume": "48",
+                "issue": "",
+                "pages": "90--101",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J., Midgley, C., Wigfield, A., Buchanan, C. M., Reuman, D., Flanagan, C., et al. (1993). Development during adolescence: The impact of stage-environment fit on young adolescents' expe- riences in schools and in families. American Psychologist, 48, 90-101.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Missing data analysis: Making it work in the real world",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Graham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Annual Review of Psychology",
+                "volume": "60",
+                "issue": "",
+                "pages": "549--576",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Graham, J. W. (2009). Missing data analysis: Making it work in the real world. Annual Review of Psychology, 60, 549-576.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "The construction of the self: Developmental and sociocultural foundations",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (2012). The construction of the self: Developmental and sociocultural foundations (2nd ed.). New York: Guilford Press.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Socioeconomic status in childhood and adulthood: Associations with dispositional optimism and pessimism over a 21-year follow-up",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Heinonen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "R\u20ac Aikk\u20ac Onen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Matthews",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Scheier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Raitakari",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Pulkki",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Personality",
+                "volume": "74",
+                "issue": "",
+                "pages": "1111--1126",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Heinonen, K., R\u20ac aikk\u20ac onen, K., Matthews, K. A., Scheier, M. F., Raitakari, O. T., Pulkki, L., et al. (2006). Socioeconomic status in childhood and adulthood: Associations with dispositional opti- mism and pessimism over a 21-year follow-up. Journal of Per- sonality, 74, 1111-1126.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Separating optimism and pessimism: A robust psychometric analysis of the Revised Life Orientation Test (LOT-R). Psychological Assessment",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Herzberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Glaesmer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hoyer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "18",
+                "issue": "",
+                "pages": "433--438",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Herzberg, P. Y., Glaesmer, H., & Hoyer, J. (2006). Separating opti- mism and pessimism: A robust psychometric analysis of the Revised Life Orientation Test (LOT-R). Psychological Assess- ment, 18, 433-438.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "The gaze of the optimist",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Isaacowitz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Personality and Social Psychological Bulletin",
+                "volume": "31",
+                "issue": "",
+                "pages": "407--415",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Isaacowitz, D. M. (2005). The gaze of the optimist. Personality and Social Psychological Bulletin, 31, 407-415.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Motivated gaze: The view from the gazer",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Isaacowitz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Current Directions in Psychological Science",
+                "volume": "15",
+                "issue": "",
+                "pages": "68--72",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Isaacowitz, D. M. (2006). Motivated gaze: The view from the gazer. Current Directions in Psychological Science, 15, 68-72.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Loess: A nonparametric, graphical tool for depicting relationships between variables",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Jacoby",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Electoral Studies",
+                "volume": "19",
+                "issue": "",
+                "pages": "577--613",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jacoby, W. G. (2000). Loess: A nonparametric, graphical tool for depict- ing relationships between variables. Electoral Studies, 19, 577-613.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Selbstbezogene Kognitionen in schulischen Bezugsgruppen -Eine L\u20ac angsschnittstudie",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jerusalem",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jerusalem, M. (1984). Selbstbezogene Kognitionen in schulischen Bezugsgruppen -Eine L\u20ac angsschnittstudie [Self-related cognitions in school contexts]. Berlin: Freie Universit\u20ac at, Institut f\u20ac ur Psychologie.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Maximum likelihood estimation of latent interaction effects with the LMS method",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Klein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Moosbrugger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "65",
+                "issue": "",
+                "pages": "457--474",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Klein, A., & Moosbrugger, H. (2000). Maximum likelihood estima- tion of latent interaction effects with the LMS method. Psychome- trika, 65, 457-474.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Optimism and pessimism as predictors of change in health after death or onset of severe illness in family",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kivim\u20ac Aki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Vahtera",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Elovainio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Helenius",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Singh-Manoux",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Pentti",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Health Psychology",
+                "volume": "24",
+                "issue": "",
+                "pages": "413--421",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kivim\u20ac aki, M., Vahtera, J., Elovainio, M., Helenius, H., Singh- Manoux, A., & Pentti, J. (2005). Optimism and pessimism as pre- dictors of change in health after death or onset of severe illness in family. Health Psychology, 24, 413-421.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Childhood adversities, parent-child relationships and dispositional optimism in adulthood",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Korkeila",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Kivel\u20ac A",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Suominen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Vahtera",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kivim\u20ac Aki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Sundell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Social Psychiatry and Psychiatric Epidemiology",
+                "volume": "39",
+                "issue": "",
+                "pages": "286--292",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Korkeila, K., Kivel\u20ac a, S. L., Suominen, S., Vahtera, J., Kivim\u20ac aki, M., Sundell, J., et al. (2004). Childhood adversities, parent-child rela- tionships and dispositional optimism in adulthood. Social Psychi- atry and Psychiatric Epidemiology, 39, 286-292.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Statistical analysis with missing data",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Little",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Rubin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Little, R., & Rubin, D. B. (2002). Statistical analysis with missing data. New York: Wiley.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Broad versus narrow personality traits in predicting academic performance of adolescents. Learning and Individual Differences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Lounsbury",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Sundstrom",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Loveland",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Gibson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "14",
+                "issue": "",
+                "pages": "65--75",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lounsbury, J. W., Sundstrom, E., Loveland, J. L., & Gibson, L. W. (2003). Broad versus narrow personality traits in predicting aca- demic performance of adolescents. Learning and Individual Dif- ferences, 14, 65-75.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Broad versus narrow personality traits in relation to cognitive ability in adolescents. Personality and Individual Differences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Lounsbury",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Welsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Gibson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Sundstrom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "38",
+                "issue": "",
+                "pages": "1009--1019",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lounsbury, J. W., Welsh, D. P., Gibson, L. W., & Sundstrom, E. (2005). Broad versus narrow personality traits in relation to cog- nitive ability in adolescents. Personality and Individual Differ- ences, 38, 1009-1019.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "What are the differences between happiness and self-esteem?",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lyubomirsky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Tkach",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Dimatteo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Social Indicators Research",
+                "volume": "78",
+                "issue": "",
+                "pages": "363--404",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lyubomirsky, S., Tkach, C., & Dimatteo, M. R. (2006). What are the differences between happiness and self-esteem? Social Indicators Research, 78, 363-404.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Resilience in emerging adulthood: Developmental perspectives on continuity and transformation",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Masten",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Obradovi\u0107",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Burt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Emerging adults in America: Coming of age in the 21st century",
+                "volume": "",
+                "issue": "",
+                "pages": "173--190",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Masten, A. S., Obradovi\u0107, J., & Burt, K. B. (2006). Resilience in emerging adulthood: Developmental perspectives on continuity and transformation. In J. J. Arnett & J. L. Tanner (Eds.), Emerg- ing adults in America: Coming of age in the 21st century (pp. 173-190). Washington, DC: American Psychological Association Press.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Latent variable modeling of differences and changes with longitudinal data",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Mcardle",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Annual Review of Psychology",
+                "volume": "60",
+                "issue": "",
+                "pages": "577--605",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McArdle, J. J. (2009). Latent variable modeling of differences and changes with longitudinal data. Annual Review of Psychology, 60, 577-605.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Latent difference score structural models for linear dynamic analysis with incomplete longitudinal data",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Mcardle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Hamagami",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "New methods for the analysis of change",
+                "volume": "",
+                "issue": "",
+                "pages": "137--175",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McArdle, J. J., & Hamagami, F. (2001). Latent difference score structural models for linear dynamic analysis with incomplete longitudinal data. In L. M. Collins & A. G. Sayer (Eds.), New methods for the analysis of change (pp. 137-175). Washington, DC: American Psychological Association.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Mplus user's guide",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Muth En",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Muth En",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth en, L. K., & Muth en, B. O. (1998-2013). Mplus user's guide (7th ed.). Los Angeles, CA: Authors.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Life satisfaction in early adolescence: Personal, neighborhood, school, family, and peer influences",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Oberle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Schonert-Reichl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Zumbo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "40",
+                "issue": "",
+                "pages": "889--901",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Oberle, E., Schonert-Reichl, K. A., & Zumbo, B. D. (2011). Life sat- isfaction in early adolescence: Personal, neighborhood, school, family, and peer influences. Journal of Youth and Adolescence, 40, 889-901.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Future thought and behaviour change",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Oettingen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "European Review of Social Psychology",
+                "volume": "23",
+                "issue": "",
+                "pages": "1--63",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Oettingen, G. (2012). Future thought and behaviour change. Europe- an Review of Social Psychology, 23, 1-63.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "The motivating function of thinking about the future: Expectations versus fantasies",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Oettingen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Mayer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "83",
+                "issue": "",
+                "pages": "1198--1212",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Oettingen, G., & Mayer, D. (2002). The motivating function of think- ing about the future: Expectations versus fantasies. Journal of Personality and Social Psychology, 83, 1198-1212.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "R: A language and environment for statistical computing",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "R Core Team",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "R Foundation for Statistical Computing",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "R Core Team (2016). R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Hope and optimism: Latent structures and influences on grade expectancy and academic performance",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Rand",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Personality",
+                "volume": "77",
+                "issue": "",
+                "pages": "231--260",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rand, K. L. (2009). Hope and optimism: Latent structures and influ- ences on grade expectancy and academic performance. Journal of Personality, 77, 231-260.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Hope, but not optimism, predicts academic performance of law students beyond previous academic achievement",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Rand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Martin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Shea",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of Research in Personality",
+                "volume": "45",
+                "issue": "",
+                "pages": "683--686",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rand, K. L., Martin, A. D., & Shea, A. M. (2011). Hope, but not optimism, predicts academic performance of law students beyond previous academic achievement. Journal of Research in Person- ality, 45, 683-686.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Optimism and physical health: A meta-analytic review",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Rasmussen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Scheier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Greenhouse",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Annals of Behavioral Medicine",
+                "volume": "37",
+                "issue": "",
+                "pages": "239--256",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rasmussen, H. N., Scheier, M. F., & Greenhouse, J. B. (2009). Opti- mism and physical health: A meta-analytic review. Annals of Behavioral Medicine, 37, 239-256.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Perceptual negativity predicts greater reactivity to negative events in daily life",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Robinson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Personality and Individual Differences",
+                "volume": "55",
+                "issue": "",
+                "pages": "926--930",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Robinson, M. D., & Liu, T. (2013). Perceptual negativity predicts greater reactivity to negative events in daily life. Personality and Individual Differences, 55, 926-930.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Society and the adolescent self-image. Princeton",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Rosenberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1965,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenberg, M. (1965). Society and the adolescent self-image. Prince- ton, NJ: Princeton University Press.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Multiple imputation for nonresponse in surveys",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Rubin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rubin, D. B. (1987). Multiple imputation for nonresponse in surveys. New York: Wiley.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Optimism, coping, and health: Assessment and implications of generalized outcome expectancies",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Scheier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Carver",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Health Psychology",
+                "volume": "4",
+                "issue": "",
+                "pages": "219--247",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Scheier, M. F., & Carver, C. S. (1985). Optimism, coping, and health: Assessment and implications of generalized outcome expectancies. Health Psychology, 4, 219-247.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Effects of optimism on psychological and physical well-being: Theoretical overview and empirical update",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Scheier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Carver",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Cognitive Therapy and Research",
+                "volume": "16",
+                "issue": "",
+                "pages": "201--228",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Scheier, M. F., & Carver, C. S. (1992). Effects of optimism on psy- chological and physical well-being: Theoretical overview and empirical update. Cognitive Therapy and Research, 16, 201- 228.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Evaluating the fit of structural equation models: Tests of significance and descriptive goodness-of-fit measures",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Schermelleh-Engel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Moosbrugger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "M\u20ac Uller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Methods of Psychological Research",
+                "volume": "8",
+                "issue": "",
+                "pages": "23--74",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schermelleh-Engel, K., Moosbrugger, H., & M\u20ac uller, H. (2003). Eval- uating the fit of structural equation models: Tests of significance and descriptive goodness-of-fit measures. Methods of Psychologi- cal Research, 8, 23-74.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Parental influence on students' educational choices in the United States and Germany: Different ramifications-Same effect",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "U"
+                        ],
+                        "last": "Schnabel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Alfeld",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Vocational Behavior",
+                "volume": "60",
+                "issue": "",
+                "pages": "178--198",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schnabel, K. U., Alfeld, C., Eccles, J. S., K\u20ac oller, O., & Baumert, J. (2002). Parental influence on students' educational choices in the United States and Germany: Different ramifications-Same effect? Journal of Vocational Behavior, 60, 178-198.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Optimism and attentional bias for negative and positive stimuli",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Segerstrom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "27",
+                "issue": "",
+                "pages": "1334--1343",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Segerstrom, S. C. (2001). Optimism and attentional bias for negative and positive stimuli. Personality and Social Psychology Bulletin, 27, 1334-1343.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Optimism and resources: Effects on each other and on health over 10 years",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Segerstrom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Research in Personality",
+                "volume": "41",
+                "issue": "",
+                "pages": "772--786",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Segerstrom, S. C. (2007). Optimism and resources: Effects on each other and on health over 10 years. Journal of Research in Person- ality, 41, 772-786.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Positive thinking about the future in newspaper reports and presidential addresses predicts economic downturn",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Sevincer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Wagner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kalvelage",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Oettingen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Psychological Science",
+                "volume": "25",
+                "issue": "",
+                "pages": "1010--1017",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sevincer, A. T., Wagner, G., Kalvelage, J., & Oettingen, G. (2014). Positive thinking about the future in newspaper reports and presi- dential addresses predicts economic downturn. Psychological Sci- ence, 25, 1010-1017.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "A primer on unrealistic optimism",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Shepperd",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Waters",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Weinstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "M P"
+                        ],
+                        "last": "Klein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Current Directions in Psychological Science",
+                "volume": "24",
+                "issue": "",
+                "pages": "232--237",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shepperd, J. A., Waters, E. A., Weinstein, N. D., & Klein, W. M. P. (2015). A primer on unrealistic optimism. Current Directions in Psychological Science, 24, 232-237.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Optimism and college retention: Mediation by motivation, performance, and adjustment",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Solberg Nes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Evans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Segerstrom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Applied Social Psychology",
+                "volume": "39",
+                "issue": "",
+                "pages": "1887--1912",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Solberg Nes, L., Evans, D. R., & Segerstrom, S. C. (2009). Optimism and college retention: Mediation by motivation, performance, and adjustment. Journal of Applied Social Psychology, 39, 1887- 1912.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Dispositional optimism and coping: A meta-analytic review",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Solberg Nes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Segerstrom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Personality and Social Psychology Review",
+                "volume": "10",
+                "issue": "",
+                "pages": "235--251",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Solberg Nes, L., & Segerstrom, S. C. (2006). Dispositional optimism and coping: A meta-analytic review. Personality and Social Psy- chology Review, 10, 235-251.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Specht",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Egloff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Schmukle",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "101",
+                "issue": "",
+                "pages": "862--882",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Specht, J., Egloff, B., & Schmukle, S. C. (2011). Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five. Journal of Personality and Social Psychology, 101, 862-882.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "The costs and benefits of optimistic explanations and dispositional optimism",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Tennen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Affleck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Journal of Personality",
+                "volume": "55",
+                "issue": "",
+                "pages": "377--393",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tennen, H., & Affleck, G. (1987). The costs and benefits of optimis- tic explanations and dispositional optimism. Journal of Personal- ity, 55, 377-393.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "How being an optimist makes a difference: The protective role of optimism in adolescents' adjustment to parental separation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Tetzner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Becker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Social Psychological and Personality Science",
+                "volume": "6",
+                "issue": "",
+                "pages": "325--333",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tetzner, J., & Becker, M. (2015). How being an optimist makes a difference: The protective role of optimism in adolescents' adjust- ment to parental separation. Social Psychological and Personality Science, 6, 325-333.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Schule und Selbstwert [Schools and selfesteem",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "M\u20ac unster",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Trautwein, U. (2003). Schule und Selbstwert [Schools and self- esteem]. M\u20ac unster, Germany: Waxmann.",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "Occupational prestige in comparative perspective",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Treiman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1977,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Treiman, D. J. (1977). Occupational prestige in comparative per- spective. New York: Academic Press.",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "MICE: Multivariate imputation by chained equations in R",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Van Buuren",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Groothuis-Oudshoorn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of Statistical Software",
+                "volume": "45",
+                "issue": "",
+                "pages": "1--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Van Buuren, S., & Groothuis-Oudshoorn, K. (2011). MICE: Multi- variate imputation by chained equations in R. Journal of Statisti- cal Software, 45, 1-67.",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "Mood management across affective states: The hedonic contingency hypothesis",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Wegener",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Petty",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "66",
+                "issue": "",
+                "pages": "1034--1048",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wegener, D. T., & Petty, R. E. (1994). Mood management across affective states: The hedonic contingency hypothesis. Journal of Personality and Social Psychology, 66, 1034-1048.",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "Unrealistic optimism about future life events",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Weinstein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "39",
+                "issue": "",
+                "pages": "806--820",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Weinstein, N. D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39, 806-820.",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "Dispositionelle Ang-stbew\u20ac altigungsstile, Optimismus und Bew\u20ac altigung: Ein interkultureller Vergleich",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Wieland-Eckelmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Carver",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "11",
+                "issue": "",
+                "pages": "167--184",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wieland-Eckelmann, R., & Carver, C. (1989). Dispositionelle Ang- stbew\u20ac altigungsstile, Optimismus und Bew\u20ac altigung: Ein interkul- tureller Vergleich. [Dispositional styles of coping with anxiety, optimism and coping: An intercultural comparison]. Zeitschrift f\u20ac ur Differentielle und Diagnostische Psychologie, 11, 167-184.",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "The importance of goal disengagement in adaptive self-regulation: When giving up is beneficial",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Wrosch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Scheier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Carver",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Schulz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Self and Identity",
+                "volume": "2",
+                "issue": "",
+                "pages": "1--20",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wrosch, C., Scheier, M. F., Carver, C. S., & Schulz, R. (2003). The importance of goal disengagement in adaptive self-regulation: When giving up is beneficial. Self and Identity, 2, 1-20.",
+                "links": null
+            },
+            "BIBREF65": {
+                "ref_id": "b65",
+                "title": "The reciprocal relationships among parents' expectations, adolescents' expectations, and adolescents' achievement: A two-wave longitudinal analysis of the NELS data",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Haddad",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Torres",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "40",
+                "issue": "",
+                "pages": "479--489",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Zhang, Y., Haddad, E., Torres, B., & Chen, C. (2011). The reciprocal relationships among parents' expectations, adolescents' expecta- tions, and adolescents' achievement: A two-wave longitudinal analysis of the NELS data. Journal of Youth and Adolescence, 40, 479-489.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Moderated multivariate latent change-regression model reflecting mean-level changes in optimism and academic achievement. The latent intercept (i) reflects cross-sectional mean-level differences. The latent slope (s) reflects longitudinal mean-level changes. AcAch 5 academic achievement."
+            },
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "LOESS curves (smoothing factor 5 0.75) for differences in the change of academic achievement and self-esteem as a function of optimism in the overall group (1A and 2A) and divided by different initial levels of academic achievement (1B) and self-esteem (2B)."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td colspan=\"2\">Latent Construct</td><td>M</td><td>S D</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>1.</td><td>Optimism t 1</td><td>2.74</td><td>0.40</td><td>1</td><td/><td/><td/><td/></tr><tr><td>2.</td><td>Optimism t 2</td><td>2.68</td><td>0.39</td><td>.33***</td><td>1</td><td/><td/><td/></tr><tr><td>3.</td><td>Academic achievement t 1</td><td>-0.17</td><td>0.85</td><td>.25***</td><td>.28***</td><td>1</td><td/><td/></tr><tr><td>4.</td><td>Academic achievement t 2</td><td>-0.41</td><td>1.01</td><td>.23***</td><td>.29***</td><td>.98***</td><td>1</td><td/></tr><tr><td>5.</td><td>Self-esteem t 1</td><td>3.02</td><td>0.64</td><td>.22***</td><td>.25***</td><td>.37***</td><td>.32***</td><td>1</td></tr><tr><td>6.</td><td>Self-esteem t 2</td><td>2.91</td><td>0.66</td><td>.21***</td><td>.31***</td><td>.41***</td><td>.44***</td><td>.60***</td></tr><tr><td colspan=\"2\">Note. ***p &lt; .001.</td><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Mean Levels, Standard Deviations, and Correlations"
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td>Model 1</td><td>Model 2</td><td>Model 3</td></tr></table>",
+                "type_str": "table",
+                "text": "Results of the Moderated Latent Change-Regression Models Investigating the Impact of Optimism on Academic Achievement"
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td>Model 1</td><td>Model 2</td><td>Model 3</td></tr></table>",
+                "type_str": "table",
+                "text": "Results of the Moderated Latent Change-Regression Models Investigating the Impact of Optimism on Self-Esteem"
+            }
+        }
+    }
+}

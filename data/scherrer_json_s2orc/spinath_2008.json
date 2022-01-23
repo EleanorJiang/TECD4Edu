@@ -1,0 +1,3007 @@
+{
+    "paper_id": "spinath_2008",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:01:53.110276Z"
+    },
+    "title": "Longitudinal Analysis of Intrinsic Motivation and Competence Beliefs: Is There a Relation Over Time?",
+    "authors": [
+        {
+            "first": "Birgit",
+            "middle": [],
+            "last": "Spinath",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Heidelberg",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Ricarda",
+            "middle": [],
+            "last": "Steinmayr",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Heidelberg",
+                "location": {}
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The present study explored whether competence beliefs and intrinsic motivation for different school domains show reciprocal effects over time. A sample of 670 German elementary school pupils (M 5 8.8 years, SD 5 0.51) was followed over 1 year. At 4 measurement occasions, children completed self-reports on their intrinsic motivation and competence beliefs for math, German, and school in general. Latent growth models revealed that intrinsic motivation and competence beliefs decreased over time. Comparing correlational and cross-lagged structural equation models yielded only weak evidence for cross-lagged influences between the 2 constructs. Results suggest that the developmental curves of competence beliefs and intrinsic motivation might be less inextricably interwoven than frequently assumed.",
+    "pdf_parse": {
+        "paper_id": "spinath_2008",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The present study explored whether competence beliefs and intrinsic motivation for different school domains show reciprocal effects over time. A sample of 670 German elementary school pupils (M 5 8.8 years, SD 5 0.51) was followed over 1 year. At 4 measurement occasions, children completed self-reports on their intrinsic motivation and competence beliefs for math, German, and school in general. Latent growth models revealed that intrinsic motivation and competence beliefs decreased over time. Comparing correlational and cross-lagged structural equation models yielded only weak evidence for cross-lagged influences between the 2 constructs. Results suggest that the developmental curves of competence beliefs and intrinsic motivation might be less inextricably interwoven than frequently assumed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Maybe more than anything else, to be well equipped for lifelong learning, individuals need high, sustainable motivation to learn. In sharp contrast to this need for lifelong learning stands the observation that important prerequisites for learning, such as intrinsic motivation for school-related learning, diminish both during an individual's development (e.g., Gottfried, 1990; Gottfried, Fleming, & Gottfried, 2001; Spinath & Spinath, 2005b) and from one generation of pupils to the next (Cocodia et al., 2003; Howard, 2001 ). Therefore, there is a vital interest among researchers and educators to understand why intrinsic motivation for learning weakens and to find ways to preserve or reactivate the initially high intrinsic motivation for learning among young children. The present study investigated whether the well-established decline of competence beliefs and intrinsic motivation for learning during the 1st school years (i.e., in 6-to 10-year-old children) are not only parallel developments but mutually influencing each other. Specifically, we investigated the assumption that intrinsic motivation to learn declines as a consequence of children developing more realistic and therefore less positive ability self-concepts.",
+                "cite_spans": [
+                    {
+                        "start": 363,
+                        "end": 379,
+                        "text": "Gottfried, 1990;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 380,
+                        "end": 418,
+                        "text": "Gottfried, Fleming, & Gottfried, 2001;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 419,
+                        "end": 444,
+                        "text": "Spinath & Spinath, 2005b)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 491,
+                        "end": 513,
+                        "text": "(Cocodia et al., 2003;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 514,
+                        "end": 526,
+                        "text": "Howard, 2001",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "We chose this particular age for investigation because of the changes in children's concepts about ability between 6 and 10 years of age (e.g., Nicholls, 1978; Nicholls & Miller, 1984) and the co-occurring changes in the school environment (i.e., increasingly normative feedback). These developments should make potential reciprocal effects between competence beliefs and intrinsic motivation especially well observable. As it is common practice in most German elementary schools, children received their first grades during the investigated time. Usually, up until third grade only verbal evaluations are given that allow for less social comparisons among pupils. Therefore, if there is any relation between competence beliefs and intrinsic values over time, it should be very pronounced at this phase during school trajectory.",
+                "cite_spans": [
+                    {
+                        "start": 144,
+                        "end": 159,
+                        "text": "Nicholls, 1978;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 160,
+                        "end": 184,
+                        "text": "Nicholls & Miller, 1984)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "This study sets out to overcome some of the methodological short comings of prior research on related issues, in that its design follows established guidelines for investigating reciprocal effects in general (Marsh, Byrne, & Yeung, 1999) and relations between competence beliefs and intrinsic values specifically (Eccles, 2005) . We realized a 1-year longitudinal assessment of competence beliefs and intrinsic motivation in three domains (math, German, and school in general) with four measurement occasions. Using structural equation models, it was tested whether cross-lagged paths between competence beliefs and intrinsic motivation at different measurement occasions were necessary to describe the data adequately (cross-lagged models) or whether more parsimonious correlational models provided equally good descriptions. Only if competence beliefs and intrinsic values were to show substantial crossrelation over time, would there be reason to assume that intrinsic motivation might drop as a consequence of less positive ability self-perceptions.",
+                "cite_spans": [
+                    {
+                        "start": 208,
+                        "end": 237,
+                        "text": "(Marsh, Byrne, & Yeung, 1999)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 313,
+                        "end": 327,
+                        "text": "(Eccles, 2005)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The concept of intrinsic motivation plays a vital role in different motivation theories (e.g., Deci & Ryan, 1985; Wigfield & Eccles, 2000) . In the present article, we focus on the concept of intrinsic task values as included in the expectance-value theory of motivation by Eccles and her associates (cf. Wigfield & Eccles, 2000) . Intrinsic task values denote the degree of positive affective evaluation of an activity, that is, liking and enjoyment, for reasons that lie within the activity itself rather than its consequences. Although intrinsic task values are not the only reason for learning, task enjoyment can be considered as the most desirable state for learners because learning comes as a by-product of engaging in a pleasurable activity. Moreover, it has been shown that intrinsic task values are the most important reasons for task engagement in elementary school children who do not yet differentiate other task values such as utility or importance (e.g., Eccles, Wigfield, Harold, & Blumenfeld, 1993; Wigfield & Eccles, 1992) .",
+                "cite_spans": [
+                    {
+                        "start": 95,
+                        "end": 113,
+                        "text": "Deci & Ryan, 1985;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 114,
+                        "end": 138,
+                        "text": "Wigfield & Eccles, 2000)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 305,
+                        "end": 329,
+                        "text": "Wigfield & Eccles, 2000)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 971,
+                        "end": 1016,
+                        "text": "Eccles, Wigfield, Harold, & Blumenfeld, 1993;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1017,
+                        "end": 1041,
+                        "text": "Wigfield & Eccles, 1992)",
+                        "ref_id": "BIBREF48"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Defining the Concepts of Intrinsic Motivation and Competence Beliefs",
+                "sec_num": null
+            },
+            {
+                "text": "The second motivational construct we focus on in the present work is the concept of competence beliefs. In the expectancy-value model by Eccles and her colleagues (Eccles et al., 1983; Wigfield & Eccles, 2000) , task values and expectations of future success are the two most proximal determinants of achievementrelated choices. Expectancies for future success are usually operationalized by domain-specific ability self-perceptions. In school contexts, students are asked how good they think they are at certain tasks or in certain domains (e.g., Wigfield et al., 1997) . It has been shown that children distinguish very early between expectancies and values for certain school domains (e.g., Eccles et al., 1993) , so that in elementary school, children's ability self-perceptions and intrinsic values are distinct characteristics.",
+                "cite_spans": [
+                    {
+                        "start": 163,
+                        "end": 184,
+                        "text": "(Eccles et al., 1983;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 185,
+                        "end": 209,
+                        "text": "Wigfield & Eccles, 2000)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 548,
+                        "end": 570,
+                        "text": "Wigfield et al., 1997)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 694,
+                        "end": 714,
+                        "text": "Eccles et al., 1993)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Defining the Concepts of Intrinsic Motivation and Competence Beliefs",
+                "sec_num": null
+            },
+            {
+                "text": "The assumption that intrinsic motivation for learning and perceptions of one's competences are related is derived from both empirical observations and motivation theories. Experienced teachers as well as developmental researchers observe that not only intrinsic motivation for learning declines from elementary school age through adolescence but that the same is true for children's competence beliefs (e.g., Bouffard, Marcoux, Vezeau, & Bordeleau, 2003; Gottfried et al., 2001; Spinath & Spinath, 2005b; Wigfield et al., 1997) . Whereas preschool children view their own competences in an overoptimistic way (cf. Stipek & MacIver, 1989) , older children perceive themselves more realistically and sometimes even develop overpessimistic self-perceptions (e.g., R. S. Newman, 1984; Spinath & Spinath, 2005a; Stipek & Daniels, 1988; Wigfield et al., 1997) . This parallel decline nourishes the plausible assumption that children's competence beliefs and their intrinsic values are causally linked: When children believe less in their competences, they are bound to lose their enjoyment of task engagement. Yet, whether the decline of competence beliefs and intrinsic motivation at this specific age are actually mutually influencing or only parallel but independent developments still needs to be discovered.",
+                "cite_spans": [
+                    {
+                        "start": 409,
+                        "end": 454,
+                        "text": "Bouffard, Marcoux, Vezeau, & Bordeleau, 2003;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 455,
+                        "end": 478,
+                        "text": "Gottfried et al., 2001;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 479,
+                        "end": 504,
+                        "text": "Spinath & Spinath, 2005b;",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 505,
+                        "end": 527,
+                        "text": "Wigfield et al., 1997)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 614,
+                        "end": 637,
+                        "text": "Stipek & MacIver, 1989)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 767,
+                        "end": 780,
+                        "text": "Newman, 1984;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 781,
+                        "end": 806,
+                        "text": "Spinath & Spinath, 2005a;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 807,
+                        "end": 830,
+                        "text": "Stipek & Daniels, 1988;",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 831,
+                        "end": 853,
+                        "text": "Wigfield et al., 1997)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Intrinsic Motivation and Competence Beliefs Be Related?",
+                "sec_num": null
+            },
+            {
+                "text": "Reasons for declining competence beliefs. What are the reasons for children between 6 and 10 years old to perceive their competencies more realistically and therefore, in most cases, less positively? During this time, children become increasingly able to differentiate between effort and ability as causes of achievement outcomes and attain an understanding of ability as a capacity of the person (Nicholls, 1978; Nicholls & Miller, 1984) . Once children attain this understanding about ability, they are more likely to use social comparison information to evaluate their own ability (e.g., Ruble, Boggiano, Feldman, & Loebl, 1980; Ruble, Parsons, & Ross, 1976) . In addition, children learn to differentiate more strongly between ability domains such as physical, social, and academic abilities (Harter, 1982) . Taken together, these developments contribute to children's growing competence to perceive their own ability accurately, that is, more in line with valid criteria of their actual ability (e.g., Harter, 1982; R. S. Newman, 1984; Spinath & Spinath, 2005a) . Coming from overoptimistic self-perceptions, for most children, these changes mean a downward correction of their ability self-perceptions.",
+                "cite_spans": [
+                    {
+                        "start": 397,
+                        "end": 413,
+                        "text": "(Nicholls, 1978;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 414,
+                        "end": 438,
+                        "text": "Nicholls & Miller, 1984)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 591,
+                        "end": 631,
+                        "text": "Ruble, Boggiano, Feldman, & Loebl, 1980;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 632,
+                        "end": 661,
+                        "text": "Ruble, Parsons, & Ross, 1976)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 796,
+                        "end": 810,
+                        "text": "(Harter, 1982)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1007,
+                        "end": 1020,
+                        "text": "Harter, 1982;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1021,
+                        "end": 1040,
+                        "text": "R. S. Newman, 1984;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1041,
+                        "end": 1066,
+                        "text": "Spinath & Spinath, 2005a)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Intrinsic Motivation and Competence Beliefs Be Related?",
+                "sec_num": null
+            },
+            {
+                "text": "It is probably no coincidence that in most school systems, children are confronted with more social comparisons and normative feedback at a time when they develop a normative concept of ability. For example, in most German schools, children receive their first grades when they are about 9 years old, that is, in Grade 3. Up to that point, they would have had only verbal evaluations that are meant to focus on children's individual development rather than social comparisons among pupils. Thus, the age group of 9-year-olds that we investigated is at a special phase in their school trajectory where normative evaluations of competence become extremely salient (e.g., Eccles et al., 1993) . We reasoned that if there are mutual influences between competence beliefs and intrinsic values over time, they should be very pronounced at this phase during school trajectory.",
+                "cite_spans": [
+                    {
+                        "start": 669,
+                        "end": 689,
+                        "text": "Eccles et al., 1993)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Intrinsic Motivation and Competence Beliefs Be Related?",
+                "sec_num": null
+            },
+            {
+                "text": "Theoretical grounds on which to assume a causal link between ability beliefs and intrinsic motivation. A theoretical background for the assumption that intrinsic motivation depends on competence perceptions is provided by White's (1959) theorizing about effectance motivation. According to White, individuals have an innate desire to feel competent. This effectance motivation drives individuals to engage in tasks in which mastery is at stake. Tasks that generate feelings of efficacy should be experienced as enjoyable or intrinsically rewarding and, as a by-product, prompt learning. Thus, in White's theory, feeling competent and being intrinsically motivated are the same. One has to note, however, that White's concept of feelings of efficacy or competence is not the same as the ability beliefs we focus on in the present investigation. Competence beliefs as operationalized by ability self-perceptions are cognitive representations about the level of ability one perceives to have. Nevertheless, White's theorizing provided the basis on which many motivation researchers grounded the assumption of a causal relation between competence beliefs and intrinsic motivation.",
+                "cite_spans": [
+                    {
+                        "start": 222,
+                        "end": 236,
+                        "text": "White's (1959)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Intrinsic Motivation and Competence Beliefs Be Related?",
+                "sec_num": null
+            },
+            {
+                "text": "Building up on White's (1959) more general theorizing, Harter (1981a) refined and extended White's assumptions in an effort to provide testable hypotheses under a developmental perspective on competence beliefs. Harter distinguishes between competence beliefs as cognitive representations of the level of one's ability and motivational orientations (i.e., intrinsic and extrinsic motivation). In Harter's (1981a, p. 38) effectance motivation model, intrinsic pleasure in task engagement is a function of successful mastery of challenging tasks and perceived competence. Conversely, failure and perceived lack of competence should result in anxiety in mastery situations, an emotion known to be incompatible with enjoyable feelings. In postulating this sequential process, Harter disentangles perceived competence and motivational orientation and predicts that higher levels of perceived competence entail higher levels of intrinsic motivation. Some of the most prolific modern motivation theories share the assumption that more positive ability self-perceptions should generate more intrinsic motivation for a given task (e.g., Deci & Ryan, 1985; Wigfield & Eccles, 2000) .",
+                "cite_spans": [
+                    {
+                        "start": 15,
+                        "end": 29,
+                        "text": "White's (1959)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 55,
+                        "end": 69,
+                        "text": "Harter (1981a)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 396,
+                        "end": 419,
+                        "text": "Harter's (1981a, p. 38)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1128,
+                        "end": 1146,
+                        "text": "Deci & Ryan, 1985;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1147,
+                        "end": 1171,
+                        "text": "Wigfield & Eccles, 2000)",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Intrinsic Motivation and Competence Beliefs Be Related?",
+                "sec_num": null
+            },
+            {
+                "text": "It is important to note that all theoretical reasoning about the relation between competence beliefs and intrinsic motivation assumes that prior competence beliefs influence subsequent intrinsic motivation. Although one could argue that prior intrinsic motivation could also have an influence on subsequent competence beliefs, there is no elaborated theoretical background making a strong point for such direc-tional effects. Therefore, in the present investigation, we focus on the question whether there is evidence that competence beliefs might influence intrinsic motivation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Intrinsic Motivation and Competence Beliefs Be Related?",
+                "sec_num": null
+            },
+            {
+                "text": "Why could competence beliefs and intrinsic motivation develop in parallel but without mutual influences? Although there is strong theoretical reasoning on which to ground the assumption that competence beliefs are important for intrinsic motivation, it is also worthwhile to look for theoretical reasons why such a link might not exist or be only weak. One could argue that it is not the absolute level of self-perceived ability that is important for the degree of task enjoyment but other kinds of ability-related selfperceptions. One line of reasoning can be drawn from Harter's (1981a) specifications to White's (1959) theory of effectance motivation. This specification concerns the relation between success and feelings of efficacy. Harter pointed out that feelings of efficacy, and therefore intrinsic motivation for task engagement, are maximized not by the mere quantity of success but by succeeding at optimally challenging tasks. In other words, intrinsic motivation should depend on an optimal fit between task difficulty and own competence. Such an optimal fit can be given at different levels of competence, so that not only the most competent individuals experience intrinsic motivation. Therefore, the degree of intrinsic motivation might not so much depend on the absolute level of normatively based ability perceptions but rather on perceiving oneself as successful at tasks that fit the level of one's competence. If this was true, we would expect no or only weak indications of normatively based ability self-perceptions influencing intrinsic motivation.",
+                "cite_spans": [
+                    {
+                        "start": 572,
+                        "end": 588,
+                        "text": "Harter's (1981a)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 607,
+                        "end": 621,
+                        "text": "White's (1959)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Intrinsic Motivation and Competence Beliefs Be Related?",
+                "sec_num": null
+            },
+            {
+                "text": "Taken together, developmentally focused motivational theories often assume a causal influence of competence beliefs on intrinsic motivation. Because competence beliefs undergo specific changes in the early school years that lead most children to less positive ability self-perception, declines in intrinsic motivation seem to be an inevitable consequence from this point of view. If, however, it could be shown that the development of intrinsic motivation is not or only weakly dependent on the development of competence beliefs, then the trajectories of the two might be disentangled by means of interventions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why Should Intrinsic Motivation and Competence Beliefs Be Related?",
+                "sec_num": null
+            },
+            {
+                "text": "After theorizing about the nature of the relation between competence beliefs and intrinsic motivation, we take a look at the empirical literature. There is ample evidence on the positive correlation among intrinsic motivation and competence beliefs within domains (e.g., Deci & Ryan, 1985; Harter, 1981b; Wigfield, 1994; Wigfield et al., 1997) . Most of these studies are cross-sectional and correlational and allow no conclusions about a potentially causal relationship between the two constructs over time. In order to investigate whether prior competence beliefs might be influential for subsequent intrinsic motivation, longitudinal designs are needed.",
+                "cite_spans": [
+                    {
+                        "start": 271,
+                        "end": 289,
+                        "text": "Deci & Ryan, 1985;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 290,
+                        "end": 304,
+                        "text": "Harter, 1981b;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 305,
+                        "end": 320,
+                        "text": "Wigfield, 1994;",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 321,
+                        "end": 343,
+                        "text": "Wigfield et al., 1997)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Methodological Guidelines for Investigating Reciprocal Effects Over Time",
+                "sec_num": null
+            },
+            {
+                "text": "In an effort to develop stronger methodological approaches to test for reciprocal effects between concepts in longitudinal designs, Marsh (1990) and Marsh et al. (1999, p. 156) provided valuable guidelines. These authors state that in order to detect causal relations, first, two constructs need to be shown to have a significant statistical relation (i.e., substantial path coefficients in structural equation models). Second, clear time precedence needs to be established in longitudinal studies with at least two and preferably more measurement occasions. Third, theoretical models must be tested by means of statistical techniques such as structural equation modeling (SEM) with all latent constructs inferred on the basis of multiple indicators. The most adequate description of the empirical data is derived by fitting the data to different theoretically plausible models among which to choose the best fitting one.",
+                "cite_spans": [
+                    {
+                        "start": 132,
+                        "end": 144,
+                        "text": "Marsh (1990)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 149,
+                        "end": 176,
+                        "text": "Marsh et al. (1999, p. 156)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Methodological Guidelines for Investigating Reciprocal Effects Over Time",
+                "sec_num": null
+            },
+            {
+                "text": "The present study realizes all these recommendations to examine the relationship between competence beliefs and intrinsic motivation. We are not aware of another study that conducted a 1-year longitudinal assessment of competence beliefs and intrinsic motivation in three domains (math, German, and school in general) with four measurement occasions. The two constructs were measured on a latent basis by three manifest indicators each. This design allows for comparing different theoretical models that differ in whether or not they assume causal relations between competence beliefs and intrinsic motivation. Specifically, it was tested whether cross-lagged paths between competence beliefs and intrinsic motivation at different measurement occasions were necessary to describe the data adequately (cross-lagged models) or whether more parsimonious correlational models provided equally good descriptions. According to a basic scientific principle, in the case of two competing models, which describe a phenomenon equally well, the more parsimonious model or theory should be preferred over the more complex one. Although the preference of the more parsimonious model in the case of an equal fit to the data does not rule out the existence of cross-lagged effects, such effects would be rather weak.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Methodological Guidelines for Investigating Reciprocal Effects Over Time",
+                "sec_num": null
+            },
+            {
+                "text": "Of course, longitudinal designs cannot provide unequivocal evidence for causal influences. They are, however, very useful to test for necessary prerequisites of causal influences and give an impression of how strong such influences might be. Concerning the present investigation, this means that in case of no cross-lagged relations between prior competence beliefs and later intrinsic motivation, there is no basis for further investigating causal influences. Furthermore, the present design provides an estimation of the upper limit of the strength of potential causal influences. If there are only weak relations over time between competence beliefs and intrinsic motivation, this indicates that causal influences between the two might at best be weak.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Methodological Guidelines for Investigating Reciprocal Effects Over Time",
+                "sec_num": null
+            },
+            {
+                "text": "We identified five longitudinal studies investigating the link between intrinsic values for schoolrelated learning and competence beliefs over time. Not all these studies followed the guidelines by Marsh and colleagues.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Previous Longitudinal Studies Investigating the Link Between Intrinsic Motivation and Competence Beliefs",
+                "sec_num": null
+            },
+            {
+                "text": "One of the most extensive studies concerning the link between intrinsic task values and competence beliefs (Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002) relied on the sample of the Michigan Childhood and Beyond Longitudinal Project initiated by Eccles and her associates. The development of children's self-perceptions, task values, and activity choices was investigated from Grade 1 to Grade 12. Hierarchical linear modeling was used to analyze the development of task values and self-concepts. When the development in task values was controlled for competence beliefs, the linear trends of the developmental curves were reduced in all investigated domains. Even though these results document the relation between ability beliefs and task values over time, they cannot be interpreted causally: Neither was the change in task values controlled for prior task values nor can the direction of a potential influence be clarified. Nurmi and Aunola (2005) assessed intrinsic task values and ability self-beliefs in 6-to 7-year-olds at two measurement occasions during Grade 1 and Grade 2. By means of cluster-by-states analysis for longitudinal data, these authors found no association between academic self-concept and mathematical or reading task values when controlling for prior task values. The fact that this study found no evidence for potentially causal influences between competence beliefs and intrinsic values might be due to the young age of the investigated children who had probably not yet attained a concept of ability as a capacity of the person (Nicholls, 1978; Nicholls & Miller, 1984) .",
+                "cite_spans": [
+                    {
+                        "start": 107,
+                        "end": 156,
+                        "text": "(Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 931,
+                        "end": 954,
+                        "text": "Nurmi and Aunola (2005)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1562,
+                        "end": 1578,
+                        "text": "(Nicholls, 1978;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1579,
+                        "end": 1603,
+                        "text": "Nicholls & Miller, 1984)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Previous Longitudinal Studies Investigating the Link Between Intrinsic Motivation and Competence Beliefs",
+                "sec_num": null
+            },
+            {
+                "text": "Whereas the two studies cited above did not use SEM, the following three studies used methodological approaches partly in line with the recommendations by Marsh and his colleagues. Skaalvik and Valas (1999) investigated mathematical and verbal ability self-concepts and motivation in three age groups (third, sixth, and eighth graders) over two school years with two measurement occasions. Motivation was measured by items reflecting either interest or the will to invest in a certain subject. Six SEMs were tested (two for each domain in each grade), resulting in little evidence for directional effects between competence beliefs and motivation. Specifically, with one exception, none of the cross-paths reached statistical significance (the path from motivation at Measurement Occasion 1 to ability self-concept at Measurement Occasion 2 in math was significant).",
+                "cite_spans": [
+                    {
+                        "start": 181,
+                        "end": 206,
+                        "text": "Skaalvik and Valas (1999)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Previous Longitudinal Studies Investigating the Link Between Intrinsic Motivation and Competence Beliefs",
+                "sec_num": null
+            },
+            {
+                "text": "One feature of this study that might have impeded finding reciprocal effects is that the measurement occasions were rather far apart. The confirmation of directional effects might depend on the right time lag between measurement occasions. It has been argued that intervals between measurements should not be too long (e.g., Eccles, 2005) to prevent potential reciprocal influences from being masked by other processes. On the other hand, observations need to cover a sufficiently long time for effects to manifest themselves. To investigate both short-term and longterm reciprocal effects, the present investigation employed 3-month intervals and additionally tests for cumulative effects over the timespan of 1 year.",
+                "cite_spans": [
+                    {
+                        "start": 325,
+                        "end": 338,
+                        "text": "Eccles, 2005)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Previous Longitudinal Studies Investigating the Link Between Intrinsic Motivation and Competence Beliefs",
+                "sec_num": null
+            },
+            {
+                "text": "Another study that failed to find evidence for reciprocal effects between intrinsic motivation and competence beliefs is reported by Spinath and Spinath (2005b) . Five cohorts of elementary school children ranging from Grade 1 to Grade 4 participated in the study. The cohorts were followed over a period of 2 years and children gave self-reports on their motivation (i.e., intrinsic values and learning goals) and their competence beliefs for school in general every 6 months. Data were analyzed by comparing a more complex reciprocal effects SEM with a more parsimonious correlational model omitting the reciprocal effects (method described in more detail earlier). There was no evidence of directional influences over time because the correlational model described the data as good as the reciprocal model. Again, there are reasons why the study by Spinath and Spinath (2005b) might not have detected reciprocal effects (see Eccles, 2005) . A first reason is that the different constructs were not measured as latent variables. Hence, models were not controlled for measurement errors and this might have masked true effects. A second reason is that the interval between measurement occasions might have been too long. As a third reason, it might be argued that intrinsic motivation and competence beliefs need to be measured domain specifically to find reciprocal influences. The present investigation reacts to all these arguments and measures the constructs on a latent basis, employs shorter measurement intervals, and investigates two domains (math and German) as well as school in general.",
+                "cite_spans": [
+                    {
+                        "start": 133,
+                        "end": 160,
+                        "text": "Spinath and Spinath (2005b)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 852,
+                        "end": 879,
+                        "text": "Spinath and Spinath (2005b)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 928,
+                        "end": 941,
+                        "text": "Eccles, 2005)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Previous Longitudinal Studies Investigating the Link Between Intrinsic Motivation and Competence Beliefs",
+                "sec_num": null
+            },
+            {
+                "text": "The only study using SEM that found evidence for reciprocal relations between an indicator of intrinsic motivation and competence beliefs was reported by Marsh, Trautwein, L\u00fc dtke, K\u00f6 ller, and Baumert (2005) . Two large samples of seventh graders gave self-reports on mathematical ability self-concept and interest twice within one school year. These authors found significant reciprocal standardized path weights (ranging from .04 to .10) between ability self-concept and interest. Although this methodologically sophisticated study produced evidence in favor of a reciprocal relationship over time, the effects were rather small and ran in both directions; that is, prior competence beliefs had effects on subsequent interest and vice versa.",
+                "cite_spans": [
+                    {
+                        "start": 154,
+                        "end": 208,
+                        "text": "Marsh, Trautwein, L\u00fc dtke, K\u00f6 ller, and Baumert (2005)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Previous Longitudinal Studies Investigating the Link Between Intrinsic Motivation and Competence Beliefs",
+                "sec_num": null
+            },
+            {
+                "text": "One difference that might account for the inconsistent findings of the studies by Marsh et al. (2005) and Spinath and Spinath (2005b) is that the first assessed domain-specific competence beliefs and intrinsic motivation, whereas the latter focused on school in general. As mentioned before, assessing intrinsic values and competence beliefs on a more general level might mask reciprocal effects. In order to investigate whether there are differences between domains as well as between more and less specific measures, the present study compares domainspecific and domain-general intrinsic values and competence beliefs.",
+                "cite_spans": [
+                    {
+                        "start": 82,
+                        "end": 101,
+                        "text": "Marsh et al. (2005)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 106,
+                        "end": 133,
+                        "text": "Spinath and Spinath (2005b)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Previous Longitudinal Studies Investigating the Link Between Intrinsic Motivation and Competence Beliefs",
+                "sec_num": null
+            },
+            {
+                "text": "Taken together, previous studies suggest a need for stronger evidence supporting claims about the reciprocal effects between measures of intrinsic motivation and competence beliefs over time. Among the aforementioned studies, only three are largely, although not in every detail, in line with the guidelines proposed for the investigation of reciprocal relations in longitudinal studies (Marsh et al., 1999) . Moreover, the studies cited above differ in several respects, ranging from different investigated age groups, domains, and indicators of intrinsic motivation to the use of different methodological approaches. Such differences might account for inconsistencies in empirical results.",
+                "cite_spans": [
+                    {
+                        "start": 387,
+                        "end": 407,
+                        "text": "(Marsh et al., 1999)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Previous Longitudinal Studies Investigating the Link Between Intrinsic Motivation and Competence Beliefs",
+                "sec_num": null
+            },
+            {
+                "text": "The present study investigated whether intrinsic motivation and competence beliefs show reciprocal influences over time. Specifically, we investigated the assumption that intrinsic motivation to learn declines as a consequence of children's increasingly realistic and therefore less positive ability self-concepts. An answer to this question is given by addressing five individual aspects:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Present Investigation",
+                "sec_num": null
+            },
+            {
+                "text": "1. Do intrinsic values and competences beliefs decline during the investigated timespan? Such declines need to be investigated both in terms of an overall decline of the means of intrinsic values and competence beliefs in the sample as well as interindividual differences in these developments.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Present Investigation",
+                "sec_num": null
+            },
+            {
+                "text": "beliefs over time? This is an important question because the more stable the two constructs are, the smaller the chance to find cross-lagged effects over time between them. 3. How strong are the concurrent correlations between the two concepts? The frequently observed medium to strong correlations between intrinsic values and competence beliefs gave rise to the assumption of causal influences between the two constructs. 4. Are prior competence beliefs and subsequent intrinsic values related over time when controlling for prior intrinsic values? And, vice versa, are prior intrinsic values and subsequent competence beliefs related when controlling for prior competence beliefs? Finding such relations over time would be in line with the assumption of causal influences between competence beliefs and intrinsic motivation. 5. Does a theoretical model that includes crosslagged paths between intrinsic motivation and competence beliefs describe the empirical data better than a more parsimonious model with correlational paths but without cross-paths? This comparison of the two competing models is a second test of the assumption that intrinsic values and competence beliefs might share reciprocal, potentially causal effects over time.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How stable are intrinsic values and competence",
+                "sec_num": "2."
+            },
+            {
+                "text": "In 2002 and 2003, 22 third-grade classes from 13 German elementary schools in and around a midsized town were included in the investigation comprising a sample of 670 students. At the time of the first measurement occasion (June 2002), children were on average 8.8 years old (SD 5 0.51). The investigation lasted 1 year so that children were 1 year older at the last measurement (May 2003) . At the first measurement occasion, children were at the end of second grade, and at the last measurement occasion, children approached the end of third grade. The sample was roughly balanced for gender, with 297 (44.3%) of the children being boys. Most of the students were Caucasian (more than 98%) with German citizenship (86%). As typical for an elementary school student population of that cohort and region, children with Turkish citizenship (8%) represented the largest minority group.",
+                "cite_spans": [
+                    {
+                        "start": 379,
+                        "end": 389,
+                        "text": "(May 2003)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Intrinsic values. Intrinsic values for math, German, and school in general were assessed by means of three items each. Children were asked to indicate on a 5point scale ranging form very much (1) to not at all (5) how much they liked each of three different activities or school in general. The items read: ''How much do you like mental arithmetics/math problems/doing calculations?'' (math); ''How much do you like reading/writing (stories, letters)/practicing spelling?'' (German); ''How much do you like the things you do in school/going to school/How much fun is school to you?'' (school in general). For a better intuitive understanding of the scales, we recoded all items so that in the following higher scores denote higher intrinsic values.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "A confirmatory factor analysis of the three correlated intrinsic value factors, conducted via SEM, yielded a good model fit at all four measurement occasions (comparative fit index [CFI] 5 0.96 to 0.97; root mean square error of approximation [RMSEA] 5 .06 at all measurement occasions). Standardized path coefficients from the latent intrinsic value factors to the observed variables ranged from .52 to .90 (school in general), .61 to .81 (math), and .45 to .69 (German). Averaged over the four measurement occasions, the reliabilities of the intrinsic value scales were as 5 .79, .73, and .53 (school in general, math, German). Because in math and in German, the items represent different activities that constitute each domain, the low internal consistency for German might represent the heterogeneity of this domain rather than a weakness of the scale. For heterogeneous domains, the alpha coefficient is not the appropriate reliability measure and other indicators, such as test -retest reliability, should also be considered. As depicted in Table 4 , test -retest reliabilities of the intrinsic values scale for German are higher than the internal consistencies and are at least satisfactory (r tt . .63).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1047,
+                        "end": 1054,
+                        "text": "Table 4",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Competence beliefs. Children's competence beliefs for math, German, and school in general were assessed by means of three items each. The items were answered on 5-point scales and read: ''How good are you at math/German/school?'' with response choice ranging from very good (1) to very bad (5); ''How easy is it for you to learn new things in math/German/ school?'' from very easy (1) to very hard (5); and ''To which group of pupils do you belong in German/ math/school?'' from the best (1) to the worst (5). Again, items were recoded so that in the following higher scores denote higher competence beliefs.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "A confirmatory factor analysis of the three correlated competence belief factors yielded a good model fit at all four measurement occasions (CFI 5 0.98 to 0.99; RMSEA 5 .05 to .06). Standardized path coefficients from the latent competence belief factors to the observed variables ranged from .47 to .83 (school in general), .72 to .91 (math), and .67 to .85 (German). Internal consistencies for the three scales assessing competence beliefs, averaged over all four measurement occasions, were as 5 .72, .87, and .83 (school in general, math, German).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "There was a total of four measurement occasions with an interval of 3 months between each test administration. Pupils were tested during a regular class in their classrooms. The testing took about 30 min and was conducted by teachers who did not teach in the tested class. Teachers had been trained to administer the items. Each item was read aloud to harmonize students' working speed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedures",
+                "sec_num": null
+            },
+            {
+                "text": "Missing data. As in all longitudinal studies, sample attrition needs to be taken care of. In the present study, missing data occurred when children missed class the day the testing took place. The main reason for absence was illness. We are not aware of any other reasons for children to miss the testing that might be systematically related to the testing and investigated variables. At each measurement occasion, approximately 80 students did not participate. Table 1 gives information about how many students participated at each measurement occasion. A total of 670 students participated at least at two measurement occasions. Complete data sets for all four measurements were available for 362 students, 270 students participated at three measurement occasions, and 38 participated at two measurement occasions. None of the children missed three measurement occasions. We tried to further explore the nature of the sample depletion by comparing children with missing measurements with the sample of complete data sets. We found no systematic differences in any investigated variable, age, or sex. Furthermore, there were only small amounts of missing data for individual items (less than 1%).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 462,
+                        "end": 469,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Instead of concentrating on the subsample that completed all measurement occasions, we accounted for missing data by means of full information maximum likelihood (FIML) estimations. We did so for two reasons. First, to maximize statistical power, it is desirable to include as many cases as possible in the analyses. Second, in longitudinal studies, it is difficult to show that data are missing at random and not in any way systematically. Studies indicate that even if data are not missing at random, FIML is still a more effective way of handling missing data than traditional procedures, such as listwise deletion, single-or two-way imputation (Enders, 2001; D. A. Newman, 2003) . Recent research demonstrates that the FIML approach is a potent algorithm for handling missing values (Allison, 2001; Collins, Schafer, & Kam, 2001) . By means of FIML, rather than missing values being imputed, missing data are recognized as such, and all observed data values are used to estimate models maximizing the power of the analyses (see Allison, 2001) .",
+                "cite_spans": [
+                    {
+                        "start": 648,
+                        "end": 662,
+                        "text": "(Enders, 2001;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 663,
+                        "end": 682,
+                        "text": "D. A. Newman, 2003)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 787,
+                        "end": 802,
+                        "text": "(Allison, 2001;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 803,
+                        "end": 833,
+                        "text": "Collins, Schafer, & Kam, 2001)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1032,
+                        "end": 1046,
+                        "text": "Allison, 2001)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Latent growth modeling. To test whether intrinsic values and competence beliefs decreased over time (see Research Question 1), latent growth modeling (LGM) procedures were run using Amos 7.0 (McArdle & Epstein, 1987; Stoolmiller, 1995) . We chose LGM for several reasons. First, LGM has been found to have more power in detecting changes over time than repeated measures analysis of variance (Fan & Fan, 2005) . Second, when using LGM missing data can be handled by FIML. Third, by applying LGM, both inter-and intraindividual differences in changes over time are considered (McArdle & Epstein, 1987) . Six models (competence beliefs and intrinsic values in three domains each) were set up with four measurement occasions as well as a correlated latent intercept and slope factor.",
+                "cite_spans": [
+                    {
+                        "start": 191,
+                        "end": 216,
+                        "text": "(McArdle & Epstein, 1987;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 217,
+                        "end": 235,
+                        "text": "Stoolmiller, 1995)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 392,
+                        "end": 409,
+                        "text": "(Fan & Fan, 2005)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 575,
+                        "end": 600,
+                        "text": "(McArdle & Epstein, 1987)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "SEM. Data were analyzed by computing longitudinal SEM with Amos 7.0. For each of the three domains (math, German, school in general), we set up two competing models to describe the empirical data: one cross-lagged model (Figure 1a ) and one correlational model (Figure 1b) . Spanning 1 year, the models employed four measurement occasions. The two latent constructs intrinsic values and competence beliefs were indicated by three items each at each measurement occasion.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 220,
+                        "end": 230,
+                        "text": "(Figure 1a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 261,
+                        "end": 272,
+                        "text": "(Figure 1b)",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "By means of SEM, the four remaining research questions were addressed:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "1. How stable are intrinsic values and competence beliefs over time? This is indicated by the magnitude of the association each constructs shows with itself from one measurement occasion to the next. 2. How strong are the concurrent correlations between the two concepts? This is indicated by the strength of association between intrinsic values and competence beliefs at each measurement occasion.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "intrinsic values related over time when controlling for prior intrinsic values? And, vice versa, are prior intrinsic values and subsequent competence beliefs related when controlling for prior competence beliefs? The strength of asso-ciation between the two constructs over time is indicated by the cross-path from one measurement occasion to another. Besides testing the cross-paths running from one measurement occasion to the next, we also tested for cumulative effects from Time 1 to Time 4, that is, over the timespan of 1 year (this was done by three cross-lagged models spanning cross-lagged paths from Time 1 -Time 4). 4. Does a more complex model including crosslagged paths (Figure 1a ) describe the empirical data better than a more parsimonious model with correlational paths but without cross-paths ( Figure 1b) that intrinsic values and competence beliefs might share reciprocal effects over time. According to a basic scientific principle, in the case of two competing models, which describe a phenomenon equally well, the more parsimonious model or theory should be preferred over the more complex one. Although the preference of the more parsimonious model in the case of an equal fit to the data does not rule out the existence of cross-lagged effects, such effects would be rather weak. Figure 1a depicts the hypothesized cross-lagged effects model (cross-lagged model) employing four measurement occasions. This model allowed for testing further models nested in it. The correlational model (Figure 1b ) was modeled with additionally constraining the cross-lagged paths to zero. Thus, the correlational model omits cross-lagged directional paths between the two constructs. The more parsimonious model should be preferred over the more complex model provided that omitting the crosspaths does not deteriorate the model fit (Neale & Cardon, 1992) . Differences in fit between nested models were tested by means of likelihood ratio tests. Furthermore, the Tucker -Lewis index was used, a CFI showing the proportional improvement in model fit of one model in comparison to another.",
+                "cite_spans": [
+                    {
+                        "start": 1843,
+                        "end": 1865,
+                        "text": "(Neale & Cardon, 1992)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 684,
+                        "end": 694,
+                        "text": "(Figure 1a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 814,
+                        "end": 824,
+                        "text": "Figure 1b)",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1306,
+                        "end": 1315,
+                        "text": "Figure 1a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1511,
+                        "end": 1521,
+                        "text": "(Figure 1b",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Are prior competence beliefs and subsequent",
+                "sec_num": "3."
+            },
+            {
+                "text": "Beside the models employing all four measurement occasions (t1-2-3-4 models), we also tested models for the longest possible time interval, incorporating direct paths from the first to the last measurement occasion (t1-4 models). Here, we also compared t1-4 models with and without cross-lagged effects and named them t1-4 cross-lagged and t1-4 correlational models.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Are prior competence beliefs and subsequent",
+                "sec_num": "3."
+            },
+            {
+                "text": "To control for potential memory effects and, thus, positively overestimated stabilities between the different measurement occasions, models were set up with correlated uniqueness between all corresponding measures collected at subsequent measurement occasions. To identify the model, residual variances were constrained.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Are prior competence beliefs and subsequent",
+                "sec_num": "3."
+            },
+            {
+                "text": "For the evaluation of overall model fit, three different fit indices were used (see Hu & Bentler, 1999) : chi-square value, RMSEA, and CFI. According to Browne and Cudeck (1993) , an RMSEA .05 indicates a very good model fit and an RMSEA .09 is still an indicator for a reasonable error of approximation. According to Hu and Bentler (1995) , it is difficult to provide a recommended range for the CFI because in some cases even a CFI , 0.90 can indicate a reasonable model fit. Usually one looks for a CFI ! 0.95.",
+                "cite_spans": [
+                    {
+                        "start": 84,
+                        "end": 103,
+                        "text": "Hu & Bentler, 1999)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 153,
+                        "end": 177,
+                        "text": "Browne and Cudeck (1993)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 318,
+                        "end": 339,
+                        "text": "Hu and Bentler (1995)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Are prior competence beliefs and subsequent",
+                "sec_num": "3."
+            },
+            {
+                "text": "Means, standard deviations, and reliabilities are shown in Table 1 . Means of all scales are above the theoretical mean, which signals a potential violation of the normal distribution assumption. In fact, all scales are skewed to the positive pole, as is always the case with these concepts in young children. However, this should not affect the present analyses because maximum likelihood estimations are robust against such violations in the case of large samples, that is, N . 400 (see Schermelleh-Engel, Moosbrugger, & M\u00fc ller, 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 489,
+                        "end": 537,
+                        "text": "Schermelleh-Engel, Moosbrugger, & M\u00fc ller, 2003)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 59,
+                        "end": 66,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Descriptives",
+                "sec_num": null
+            },
+            {
+                "text": "LGMs were employed to test whether intrinsic values and competence beliefs decreased over time. Results for the six LGMs are depicted in Table 2 . The second to fourth columns depict different fit indices for the models (chi-square, RMSEA, and CFI). Model fit for all models was at least satisfactory. The fifth and the sixth columns depict the estimations of the intercept factor and its standard deviations (M IC and SD IC). The intercept factor represents the average starting point of the construct at t1 and conveys the same information as the means and standard deviations of the first measurement occasion presented in Table 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 137,
+                        "end": 144,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 626,
+                        "end": 633,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Latent Growth Modeling",
+                "sec_num": null
+            },
+            {
+                "text": "Columns 7 and 8 depict the estimation of the means of the slope factor as well as its standard deviations (M Slope and SD Slope). The slope factor represents the average change of the constructs over the four measurement occasions. The mean of the slope factor (M Slope) was significant for all models with the exception of intrinsic values for German. For these five models, the decline over time was small with scores decreasing by .09 -.15 units. This finding is in line with our assumption that intrinsic values and competence beliefs decline during the early school years.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Latent Growth Modeling",
+                "sec_num": null
+            },
+            {
+                "text": "The standard deviations of the slope factor (SD Slope) were significant as well, again with the exception of intrinsic values ascribed to German. This finding indicates interindividual differences in the trajectories.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Latent Growth Modeling",
+                "sec_num": null
+            },
+            {
+                "text": "The ninth column of Table 2 depicts the covariance of the intercept and the slope factor. In accordance with Bast and Reitsma (1997), we do not interpret these covariances because ''interpretation of the correlation between status and growth is in most cases not valid'' (p. 165) as was also demonstrated by Rovine and Molenaar (1998) by means of simulated data and algebraically.",
+                "cite_spans": [
+                    {
+                        "start": 308,
+                        "end": 334,
+                        "text": "Rovine and Molenaar (1998)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 20,
+                        "end": 27,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Latent Growth Modeling",
+                "sec_num": null
+            },
+            {
+                "text": "Before further interpreting the findings from the SEMs, the general fit of the models to the empirical data needs to be evaluated. Fit indices for the crosslagged and correlational models with all four measurement occasions (t1-2-3-4) and t1-4 models are depicted in Table 3 . CFI and RMSEA fit indices for all models were at least satisfactory, indicating an acceptable to good fit to the data.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 267,
+                        "end": 274,
+                        "text": "Table 3",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "SEM",
+                "sec_num": null
+            },
+            {
+                "text": "Next, we turn to the question of how stable intrinsic values and competence beliefs are over time. Table 4 presents the temporal stabilities for 3-month intervals and for the timespan of 1 year (t1-4). Coefficients are based on maximum likelihood estimations. Considering time intervals of 3 months, temporal stabilities for both constructs were high (ranging from .63 to .87). Over the timespan of 1 year, stabilities were mostly high (ranging from .46 to .70), with the exception of competence beliefs for German (.27). The knowledge that both intrinsic values and competence beliefs are highly stable over time is important because it renders reciprocal effects between the two constructs less probable.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 99,
+                        "end": 106,
+                        "text": "Table 4",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "SEM",
+                "sec_num": null
+            },
+            {
+                "text": "Concurrent correlations between intrinsic values and competence beliefs are of interest because the usually observed strong associations between the two constructs nourish the assumption of mutual influences. Concurrent correlations between intrinsic values and competency beliefs were highest for math (.73 -.83), somewhat lower for German (.60 -.73), and lowest for school in general (.29 -.41) , showing that the two constructs are higher correlated within specific domains than for school in general (see Table 5 ).",
+                "cite_spans": [
+                    {
+                        "start": 386,
+                        "end": 396,
+                        "text": "(.29 -.41)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 509,
+                        "end": 516,
+                        "text": "Table 5",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "SEM",
+                "sec_num": null
+            },
+            {
+                "text": "Next, we turn to the cross-lagged effects that indicate whether there are reciprocal influences between intrinsic values and competence beliefs. A look at Table 5 reveals that only few significant time lagged cross-paths emerged. Among the cross-paths from competence beliefs to intrinsic values, two of the nine paths reached significance. These two paths were spread over two of the three domains (math and school in general) and two of the three intervals between measurements. Among the cross-paths in the opposite direction, that is from intrinsic values to competence beliefs, none reached significance. When inspecting the longest possible interval between measurements, one of the six cross-paths reached significance, namely, the one from intrinsic values (t1) to competence beliefs (t4) for German. The magnitude of all significant cross-paths was low. Taken together, these results suggest that there were only minor and unsystematic reciprocal influences between intrinsic values and competence beliefs. Finally, the correlational models were tested against the cross-lagged models to show whether the more complex cross-lagged models provide a better fit to the data than the mere correlational models. First, we describe the results for the models including all four measurement occasions (t1-2-3-4 models). Concerning school in general and German, the correlational models yielded fit statistics that were as good as those of the cross-lagged models (see Table 6 ). Omitting the cross-lagged paths did not lead to a deterioration of fit in these two domains. Only in math, the correlational model yielded a deteriorated model fit compared to the cross-lagged model. This effect can be attributed to one single significant path from competence beliefs to intrinsic values from t1 to t2: Constraining this path weight to zero yielded a significant deterioration in fit (discrepancy between chi-squares of cross-lagged and correlational model [CMIN] 5 15.93; df 5 1; p , .001), which was not the case when constraining other paths to zero. Therefore, for math, a unidirectional model should be preferred over a correlational, modeling one path from competence beliefs at t1 to intrinsic values at t2. For German and school in general, the cross-lagged paths did not contribute substantially to the model fit. Therefore, the more parsimonious correlational models should be preferred for these two domains.",
+                "cite_spans": [
+                    {
+                        "start": 1955,
+                        "end": 1961,
+                        "text": "[CMIN]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 155,
+                        "end": 162,
+                        "text": "Table 5",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 1470,
+                        "end": 1477,
+                        "text": "Table 6",
+                        "ref_id": "TABREF6"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "SEM",
+                "sec_num": null
+            },
+            {
+                "text": "Turning to the models spanning 1 year (t1-4 models), for school in general, the correlational model yielded no deterioration in fit compared to the crosslagged model. For German, a deterioration in fit occurred when constraining the path weight from intrinsic values to competence beliefs to zero (CMIN 5 7.01; df 5 1; p 5 .01). In contrast, when constraining the path from competence beliefs to intrinsic values to zero, no significant deterioration in fit occurred (CMIN 5 .29; df 5 1; p 5 .59). For math, the model fit deteriorated only when constraining both path weights to zero. Thus, when considering the longest possible timespan of 1 year, for school in general, the correlational model was the most adequate description of the data, whereas for math, a reciprocal crosslagged model, and for German, a unidirectional model with a cross-path running from intrinsic values to competence beliefs should be preferred.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SEM",
+                "sec_num": null
+            },
+            {
+                "text": "Taken together, the comparison of model fits of correlational and cross-lagged models suggests that in most cases a correlational model is adequate to describe the empirical data.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SEM",
+                "sec_num": null
+            },
+            {
+                "text": "The main aim of the present study was to shed further light on the question whether the development of intrinsic motivation in the early school years is related to the development of competence beliefs over time. Our study is the first in this field that, simultaneously, incorporates more than two longitudinal measurement occasions, addresses different specific domains as well as school in general, and models the constructs on a latent basis. Moreover, we investigated children at a phase in their trajectories, which makes normative evaluations very salient and thus would render the finding of reciprocal relations probable.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Consistent with previous findings, our results showed that intrinsic motivation and competence beliefs declined throughout the investigated time period (Bouffard et al., 2003; Gottfried et al., 2001; R. S. Newman, 1984; Spinath & Spinath, 2005b; Wigfield et al., 1997) . Additionally, we demonstrated significant interindividual differences in the decline; that is, the decrease in competence beliefs and intrinsic motivation is more pronounced for some children and less for others. This is an important finding because some children seem to be more at risk for losing their motivation to learn. Further studies should focus on variables that might explain these interindividual differences in the developmental curves of intrinsic motivation and competence beliefs. Such factors might have the potential to buffer the decline in intrinsic motivation over time.",
+                "cite_spans": [
+                    {
+                        "start": 152,
+                        "end": 175,
+                        "text": "(Bouffard et al., 2003;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 176,
+                        "end": 199,
+                        "text": "Gottfried et al., 2001;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 200,
+                        "end": 219,
+                        "text": "R. S. Newman, 1984;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 220,
+                        "end": 245,
+                        "text": "Spinath & Spinath, 2005b;",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 246,
+                        "end": 268,
+                        "text": "Wigfield et al., 1997)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Declining Competence Beliefs and Intrinsic Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "Both intrinsic values and competence beliefs were highly stable in terms of interindividual stability over time. The high stability of the two constructs has direct implications for the search of reciprocal effects because the more stable a construct, the lower the possibility of finding other variables that potentially explain variance (see Eccles, 2005) . One might argue that in order to find relations between two constructs over time, it is necessary to investigate the phenomenon as early as possible so that maybe the constructs have not yet reached such high interindividual stabilities. Unfortunately, this approach is limited because competence beliefs in the sense operationalized in our study do not emerge before school age (cf. Dweck, 2002) and seem to be highly stable as soon as they are measurable (e.g., Spinath & Spinath, 2005b) . Given the high interindividual stabilities, there is a small chance of finding reciprocal influences between competence beliefs and intrinsic values. Whether this means that there actually are no or only weak reciprocal influences needs to be investigated with different methodological approaches. It is a challenging task for future research to find such methodological approaches.",
+                "cite_spans": [
+                    {
+                        "start": 344,
+                        "end": 357,
+                        "text": "Eccles, 2005)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 744,
+                        "end": 756,
+                        "text": "Dweck, 2002)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 824,
+                        "end": 849,
+                        "text": "Spinath & Spinath, 2005b)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Temporal Stability of Competence Beliefs and Intrinsic Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "Concurrent correlations between competence beliefs and intrinsic values were found to be high for specific domains (math and German) and markedly lower for school in general. Such differences in strength of concurrent associations between constructs are important because one could argue that the probability of finding reciprocal effects is higher in domains in which there are stronger concurrent associations. Stronger associations between competence beliefs and intrinsic motivation within specific domains might be explained by considering that when children think about competence and task values in a certain subject, they think of the same material and teacher. However, regarding school in general, one topic may be more strongly reflected when children think about their intrinsic values (e.g., art class) and another when they think of their competence (e.g., geography). This might be a possible explanation for the lower concurrent correlations in the general domain. This result indicates that it is worthwhile to include different domains in one study because the probability of finding reciprocal effects might depend on the degree of association between the constructs.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concurrent Correlations Between Competence Beliefs and Intrinsic Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "The reason why intrinsic motivation and competence beliefs are found to be so highly correlated, although they seem not to be linked over time, might lie in the fact that certain experiences, like receiving unfavorable feedback, often affect both competence beliefs and intrinsic values at the same time. Nevertheless, in such situations, decreasing competence beliefs could be independent from decreasing intrinsic values. Even at instances when competence beliefs might realistically decrease after negative feedback, children's intrinsic motivation can stay at the same level or even increase when they are oriented toward learning and when they are convinced that effort will help to overcome initial difficulties. Thus, interventions that focus children on individual progress, learning goals and strengthen their faith in the utility of effort might help to disentangle the developmental curves of competence beliefs and intrinsic values.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concurrent Correlations Between Competence Beliefs and Intrinsic Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "Concerning the question of potential relations between intrinsic values and competence beliefs over time, our results are in line with previous studies showing that such effects are, if observable at all, of negligible magnitude (Marsh et al., 2005; Nurmi & Aunola, 2005; Skaalvik & Valas, 1999; Spinath & Spinath, 2005b) . We conclude this from the observations that, in most cases, mere correlational models provided as good descriptions of the data as more complex cross-lagged models and that cross-paths between intrinsic values and competence beliefs, overall, were very weak. The few significant relations between constructs over time revealed no interpretable pattern: Of 24 cross-paths, only 3 reached significance, which were spread over all three domains as well as different measurements. One path did not run from prior competence beliefs to subsequent intrinsic values but the other way around. All in all, our results indicate that the probability of a relation between ability beliefs and intrinsic values over time is low. After controlling for prior intrinsic values, there are only negligible associations between competence beliefs and subsequent intrinsic values and vice versa.",
+                "cite_spans": [
+                    {
+                        "start": 229,
+                        "end": 249,
+                        "text": "(Marsh et al., 2005;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 250,
+                        "end": 271,
+                        "text": "Nurmi & Aunola, 2005;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "text": "Skaalvik & Valas, 1999;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 296,
+                        "end": 321,
+                        "text": "Spinath & Spinath, 2005b)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relations Between Competence Beliefs and Intrinsic Motivation Over Time",
+                "sec_num": null
+            },
+            {
+                "text": "Before this conclusion is accepted, one needs to exclude methodological reasons, which might have prevented finding reciprocal effects. We took great efforts to design the present study in line with methodological and content-specific recommendations made by experts in the field (Eccles, 2005; Marsh & Yeung, 1997 . Such efforts included longitudinal measurement with four measurement occasions, short intervals between measurements, a midsized sample of elementary school children, latent measurement of constructs, and incorporating different domains. Especially noteworthy is that we investigated children at a period during their school trajectories where normative evaluations become salient because of the onset of grades. Taken together, we believe that those features of the present study rendered the finding of reciprocal relations over time between competence beliefs and intrinsic values especially probable so that neither methodological nor other characteristics of the study account for not finding such associations over time.",
+                "cite_spans": [
+                    {
+                        "start": 280,
+                        "end": 294,
+                        "text": "(Eccles, 2005;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 295,
+                        "end": 314,
+                        "text": "Marsh & Yeung, 1997",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relations Between Competence Beliefs and Intrinsic Motivation Over Time",
+                "sec_num": null
+            },
+            {
+                "text": "Given the fact that many motivation theories implicitly or explicitly assume that positive competence beliefs are a very important prerequisite for intrinsic motivation and interest (Deci & Ryan, 1985; Harter, 1981a; Wigfield & Eccles, 2000) , our results are surprising. We agree that it is a very plausible assumption that individuals should enjoy tasks, which give them reasons to feel competent. But we like to advance the idea that it is not the absolute level of normatively based ability self-perceptions that stimulates feelings of efficacy but other ability-related perceptions and beliefs. Specifically, we argue that perceptions of individual progress and the optimism that competences can be developed should be important to sustain intrinsic motivation in a certain domain.",
+                "cite_spans": [
+                    {
+                        "start": 182,
+                        "end": 201,
+                        "text": "(Deci & Ryan, 1985;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 202,
+                        "end": 216,
+                        "text": "Harter, 1981a;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 217,
+                        "end": 241,
+                        "text": "Wigfield & Eccles, 2000)",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Motivation Theories and Educational Practice",
+                "sec_num": null
+            },
+            {
+                "text": "These kinds of ability-related beliefs have been discussed in different developmentally focused approaches to motivation. For example, Nicholls (1984) distinguishes between two ways in which to conceive ability: Ability can be judged relative to others or with reference to the individual's own past performance. We suggest that children who measure their own competence more often with reference to their past performance instead of comparing it with others' ability should be more strongly intrinsically motivated in the corresponding tasks. A second abilityrelated concept we want to suggest as a promising candidate for fostering intrinsic motivation are implicit theories about the malleability of ability. The work of Dweck and her colleagues (cf. Dweck, 1999) shows that implicit theories about the malleability of ability are largely independent of the absolute level of self-perceived ability. We expect that children who are convinced that their ability is not a fixed entity but can be increased should be more intrinsically motivated to learn and thus actually increase their competence. To corroborate these theoretical assumptions, future studies should include measures such as perceptions of individual progress and incremental ability theories when investigating influences on intrinsic motivation (see also Spinath & Spinath, 2005b) .",
+                "cite_spans": [
+                    {
+                        "start": 135,
+                        "end": 150,
+                        "text": "Nicholls (1984)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 754,
+                        "end": 766,
+                        "text": "Dweck, 1999)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1325,
+                        "end": 1350,
+                        "text": "Spinath & Spinath, 2005b)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Motivation Theories and Educational Practice",
+                "sec_num": null
+            },
+            {
+                "text": "With respect to educational practice, the present results allow some speculations about more and less effective methods for fostering high, sustaining intrinsic motivation. Many teachers hold the assumption that declining intrinsic motivation to learn is an inevitable consequence of children's increasingly realistic self-perceptions. Some teachers might therefore try and preserve children's unrealistic ability selfperception by giving either unrealistically positive or vague feedback. Given the present findings, such practices will probably fail to conserve children's intrinsic motivation. The development of realistic ability self-perceptions is an important developmental task, which needs to be supported by realistic feedback. If the decline of intrinsic motivation in school-related learning is not linked to declining competence beliefs, then it should be possible to disentangle the developmental curves of the two constructs. Even in the face of realistically held low ability self-concepts, learners can develop an optimistic, learning-oriented perspective in which they consider low competencies as learning opportunities and learning as an end in itself.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Motivation Theories and Educational Practice",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Missing data",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Allison",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Allison, P. D. (2001). Missing data. Thousand Oaks, CA: Sage.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Matthew effects in reading: A comparison of latent growth curve models and simplex models with structured means",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Bast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Reitsma",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Multivariate Behavioral Research",
+                "volume": "32",
+                "issue": "",
+                "pages": "135--167",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bast, J., & Reitsma, P. (1997). Matthew effects in reading: A comparison of latent growth curve models and simplex models with structured means. Multivariate Behavioral Research, 32, 135 -167.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Changes in self-perceptions of competence and intrinsic motivation among elementary school children",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Bouffard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Marcoux",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Vezeau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Bordeleau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "73",
+                "issue": "",
+                "pages": "171--186",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bouffard, T., Marcoux, M. F., Vezeau, C., & Bordeleau, L. (2003). Changes in self-perceptions of competence and intrinsic motivation among elementary school children. British Journal of Educational Psychology, 73, 171 -186.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Alternative ways of assessing model fit",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Browne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Cudeck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Testing structural equation models",
+                "volume": "",
+                "issue": "",
+                "pages": "136--162",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Browne, M. W., & Cudeck, R. (1993). Alternative ways of assessing model fit. In K. A. Bollen & J. S. Long (Eds.), Testing structural equation models (pp. 136 -162). Beverly Hills, CA: Sage.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Evidence that rising population intelligence is impacting in formal education",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Cocodia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-S",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H.-S",
+                        "middle": [],
+                        "last": "Shin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-W",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Ee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "S W"
+                        ],
+                        "last": "Wee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Personality and Individual Differences",
+                "volume": "35",
+                "issue": "",
+                "pages": "797--810",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cocodia, E. A., Kim, J.-S., Shin, H.-S., Kim, J.-W., Ee, J., Wee, M. S. W., et al. (2003). Evidence that rising population intelligence is impacting in formal educa- tion. Personality and Individual Differences, 35, 797 -810.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "A comparison of inclusive and restrictive strategies in modern missing data procedures",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Collins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Schafer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C.-M",
+                        "middle": [],
+                        "last": "Kam",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Psychological Methods",
+                "volume": "6",
+                "issue": "",
+                "pages": "330--351",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Collins, L. M., Schafer, J. L., & Kam, C.-M. (2001). A compar- ison of inclusive and restrictive strategies in modern missing data procedures. Psychological Methods, 6, 330 -351.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Intrinsic motivation and self-determination in human behavior",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human behavior. New York: Plenum.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Self-theories: Their role in motivation, personality, and development",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dweck, C. S. (1999). Self-theories: Their role in motivation, personality, and development. Philadelphia: Taylor & Francis.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "The development of ability conceptions",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "57--88",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dweck, C. S. (2002). The development of ability concep- tions. In A. Wigfield & J. S. Eccles (Eds.), Development of achievement motivation (pp. 57 -88). San Diego, CA: Academic Press.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Studying the development of learning and task motivation. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "15",
+                "issue": "",
+                "pages": "161--171",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S. (2005). Studying the development of learning and task motivation. Learning and Instruction, 15, 161 -171.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Expectancies, values, and academic behaviors",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Adler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Futterman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Goff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kaczala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Meece",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Achievement and achievement motives",
+                "volume": "",
+                "issue": "",
+                "pages": "75--146",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Adler, T. F., Futterman, R., Goff, S. B., Kaczala, C. M., & Meece, J. L., et al. (1983). Expectancies, values, and academic behaviors. In J. T. Spence (Ed.), Achieve- ment and achievement motives (pp. 75 -146). San Francis- co: Freeman.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Age and gender differences in children's selfand task perceptions during elementary school",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Blumenfeld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Child Development",
+                "volume": "64",
+                "issue": "",
+                "pages": "830--847",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Wigfield, A., Harold, R. D., & Blumenfeld, P. (1993). Age and gender differences in children's self- and task perceptions during elementary school. Child Development, 64, 830 -847.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "The impact of nonnormality on full information maximum-likelihood estimation for structural equation models with missing data",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Enders",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Psychological Methods",
+                "volume": "6",
+                "issue": "",
+                "pages": "352--370",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Enders, C. K. (2001). The impact of nonnormality on full information maximum-likelihood estimation for struc- tural equation models with missing data. Psychological Methods, 6, 352 -370.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Power of latent growth modelling for detecting linear growth: Number of measurements and comparison with other analytic approaches",
+                "authors": [
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Fan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Fan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Experimental Education",
+                "volume": "73",
+                "issue": "",
+                "pages": "121--139",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fan, X., & Fan, X. (2005). Power of latent growth modelling for detecting linear growth: Number of measurements and comparison with other analytic approaches. Journal of Experimental Education, 73, 121 -139.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Academic intrinsic motivation in young elementary school children",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "525--538",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gottfried, A. E. (1990). Academic intrinsic motivation in young elementary school children. Journal of Educational Psychology, 82, 525 -538.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Continuity of academic intrinsic motivation from childhood through late adolescence: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fleming",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "3--13",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gottfried, A. E., Fleming, J. S., & Gottfried, A. W. (2001). Continuity of academic intrinsic motivation from child- hood through late adolescence: A longitudinal study. Journal of Educational Psychology, 93, 3 -13.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "A model of mastery motivation in children: Individual differences and developmental change",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Aspects on the development of competence: The Minnesota Symposia on Child Psychology",
+                "volume": "14",
+                "issue": "",
+                "pages": "215--255",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1981a). A model of mastery motivation in children: Individual differences and developmental change. In W. A. Collins (Ed.), Aspects on the development of competence: The Minnesota Symposia on Child Psychology (Vol. 14, pp. 215 -255). Hillsdale, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "A new self-report scale of intrinsic versus extrinsic orientation in the classroom: Motivation and informational components",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Developmental Psychology",
+                "volume": "17",
+                "issue": "",
+                "pages": "300--312",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1981b). A new self-report scale of intrinsic versus extrinsic orientation in the classroom: Motivation and informational components. Developmental Psychol- ogy, 17, 300 -312.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "The perceived competence scale for children",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Child Development",
+                "volume": "53",
+                "issue": "",
+                "pages": "87--97",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1982). The perceived competence scale for children. Child Development, 53, 87 -97.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Searching the real world for signs of rising population intelligence",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Howard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Personality and Individual Differences",
+                "volume": "30",
+                "issue": "",
+                "pages": "1039--1058",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Howard, R. W. (2001). Searching the real world for signs of rising population intelligence. Personality and Individual Differences, 30, 1039 -1058.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Evaluating model fit",
+                "authors": [
+                    {
+                        "first": "L.-T",
+                        "middle": [],
+                        "last": "Hu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Structural equation modelling: Concepts, issues, and applications",
+                "volume": "",
+                "issue": "",
+                "pages": "76--99",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hu, L.-T., & Bentler, P. M. (1995). Evaluating model fit. In R. H. Hoyle (Ed.), Structural equation modelling: Concepts, issues, and applications (pp. 76 -99). London: Sage.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Cut-off criteria for fit indices in covariance structure analysis: Conventional criteria versus new alternatives",
+                "authors": [
+                    {
+                        "first": "L.-T",
+                        "middle": [],
+                        "last": "Hu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Structural Equation Modeling",
+                "volume": "6",
+                "issue": "",
+                "pages": "1--55",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hu, L.-T., & Bentler, P. M. (1999). Cut-off criteria for fit indices in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling, 6, 1 -55.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Changes in children's self-competence and values: Gender and domain differences across grades one through twelve",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lanza",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Osgood",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Child Development",
+                "volume": "73",
+                "issue": "",
+                "pages": "509--527",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jacobs, J. E., Lanza, S., Osgood, D. W., Eccles, J. S., & Wigfield, A. (2002). Changes in children's self-competence and values: Gender and domain differences across grades one through twelve. Child Development, 73, 509 -527.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Causal ordering of academic selfconcept and academic achievement: A multi-wave, longitudinal panel analysis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "646--656",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990). Causal ordering of academic self- concept and academic achievement: A multi-wave, longitudinal panel analysis. Journal of Educational Psy- chology, 82, 646 -656.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Causal ordering of academic self-concept and achievement: Reanalysis of a pioneering study and revised recommendations",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Educational Psychologist",
+                "volume": "34",
+                "issue": "",
+                "pages": "155--167",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Byrne, B. M., & Yeung, A. S. (1999). Causal ordering of academic self-concept and achievement: Reanalysis of a pioneering study and revised recom- mendations. Educational Psychologist, 34, 155 -167.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Academic self-concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fc Dtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6 Ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Child Development",
+                "volume": "76",
+                "issue": "",
+                "pages": "397--416",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Trautwein, U., L\u00fc dtke, O., K\u00f6 ller, O., & Baumert, J. (2005). Academic self-concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering. Child Development, 76, 397 -416.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Causal effects of academic self-concept on academic achievement: Structural equation models of longitudinal data",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Educational Psychology",
+                "volume": "89",
+                "issue": "",
+                "pages": "41--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Yeung, A. S. (1997). Causal effects of academic self-concept on academic achievement: Struc- tural equation models of longitudinal data. Journal of Educational Psychology, 89, 41 -54.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Top-down, bottomup, and horizontal models: The direction of causality in multidimensional, hierarchical self-concept models",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "75",
+                "issue": "",
+                "pages": "509--527",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Yeung, A. S. (1998). Top-down, bottom- up, and horizontal models: The direction of causality in multidimensional, hierarchical self-concept models. Journal of Personality and Social Psychology, 75, 509 -527.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Latent growth curves within developmental structural equation models",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Mcardle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Epstein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Child Development",
+                "volume": "58",
+                "issue": "",
+                "pages": "110--133",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McArdle, J. J., & Epstein, D. (1987). Latent growth curves within developmental structural equation models. Child Development, 58, 110 -133.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Methodology for genetic studies of twins and families",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Neale",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Cardon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Neale, M. C., & Cardon, L. R. (1992). Methodology for genetic studies of twins and families. Boston: Kluwer Academic.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Longitudinal modelling with randomly and systematically missing data: A simulation of ad hoc, maximum likelihood, and multiple imputation techniques",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Newman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Organizational Research Methods",
+                "volume": "6",
+                "issue": "",
+                "pages": "328--362",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Newman, D. A. (2003). Longitudinal modelling with ran- domly and systematically missing data: A simulation of ad hoc, maximum likelihood, and multiple imputation techniques. Organizational Research Methods, 6, 328 -362.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Children's achievement and selfevaluations in mathematics: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Newman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Journal of Educational Psychology",
+                "volume": "76",
+                "issue": "",
+                "pages": "857--873",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Newman, R. S. (1984). Children's achievement and self- evaluations in mathematics: A longitudinal study. Jour- nal of Educational Psychology, 76, 857 -873.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "The development of the concepts of effort and ability, perception of academic attainment, and the understanding that difficult tasks require more ability",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Nicholls",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "Child Development",
+                "volume": "49",
+                "issue": "",
+                "pages": "800--814",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nicholls, J. G. (1978). The development of the concepts of effort and ability, perception of academic attainment, and the understanding that difficult tasks require more ability. Child Development, 49, 800 -814.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Nicholls",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Psychological Review",
+                "volume": "91",
+                "issue": "",
+                "pages": "328--346",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nicholls, J. G. (1984). Achievement motivation: Concep- tions of ability, subjective experience, task choice, and performance. Psychological Review, 91, 328 -346.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Reasoning about the ability of self and others: A developmental study",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Nicholls",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Miller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Child Development",
+                "volume": "55",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nicholls, J. G., & Miller, A. T. (1984). Reasoning about the ability of self and others: A developmental study. Child Development, 55, 1990 -1999.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Task-motivation during the first school years: A person-oriented approach to longitudinal data",
+                "authors": [
+                    {
+                        "first": "J.-E",
+                        "middle": [],
+                        "last": "Nurmi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Aunola",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Learning and Instruction",
+                "volume": "15",
+                "issue": "",
+                "pages": "103--122",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nurmi, J.-E., & Aunola, K. (2005). Task-motivation during the first school years: A person-oriented approach to longitudinal data. Learning and Instruction, 15, 103 -122.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "The covariance between level and shape in the latent growth curve model with estimated basis vector coefficients",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rovine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "C M"
+                        ],
+                        "last": "Molenaar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Methods of Psychological Research Online",
+                "volume": "3",
+                "issue": "",
+                "pages": "95--107",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rovine, M. J., & Molenaar, P. C. M. (1998). The covariance between level and shape in the latent growth curve model with estimated basis vector coefficients. Methods of Psychological Research Online, 3, 95 -107.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Developmental analysis of the role of social comparison in self-evaluation",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Ruble",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Boggiano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Feldman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Loebl",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "Developmental Psychology",
+                "volume": "16",
+                "issue": "",
+                "pages": "105--115",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ruble, D. N., Boggiano, A. K., Feldman, N. S., & Loebl, J. H. (1980). Developmental analysis of the role of social comparison in self-evaluation. Developmental Psychology, 16, 105 -115.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Selfevaluative responses of children in an achievement setting",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Ruble",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Parsons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Ross",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Child Development",
+                "volume": "47",
+                "issue": "",
+                "pages": "990--997",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ruble, D. N., Parsons, J. E., & Ross, J. (1976). Self- evaluative responses of children in an achievement setting. Child Development, 47, 990 -997.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Evaluating the fit of structural equation models: Tests of significance and descriptive goodness-of-fit measures",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Schermelleh-Engel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Moosbrugger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "M\u00fc Ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Methods of Psychological Research Online",
+                "volume": "8",
+                "issue": "",
+                "pages": "23--74",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schermelleh-Engel, K., Moosbrugger, H., & M\u00fc ller, H. (2003). Evaluating the fit of structural equation models: Tests of significance and descriptive goodness-of-fit measures. Methods of Psychological Research Online, 8, 23 -74.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Relations among achievement, self-concept, and motivation in mathematics and language arts: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Valas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Experimental Education",
+                "volume": "67",
+                "issue": "",
+                "pages": "135--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Valas, H. (1999). Relations among achievement, self-concept, and motivation in mathemat- ics and language arts: A longitudinal study. Journal of Experimental Education, 67, 135 -149.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Development of selfperceived ability in elementary school: The role of parents' perceptions, teacher evaluations, and intelligence",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Spinath",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Spinath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Cognitive Development",
+                "volume": "20",
+                "issue": "",
+                "pages": "190--204",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Spinath, B., & Spinath, F. M. (2005a). Development of self- perceived ability in elementary school: The role of parents' perceptions, teacher evaluations, and intelli- gence. Cognitive Development, 20, 190 -204.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Longitudinal analysis of the link between learning motivation and competence beliefs among elementary school children",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Spinath",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Spinath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Learning and Instruction",
+                "volume": "15",
+                "issue": "",
+                "pages": "87--102",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Spinath, B., & Spinath, F. M. (2005b). Longitudinal analysis of the link between learning motivation and competence beliefs among elementary school children. Learning and Instruction, 15, 87 -102.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Declining perceptions of competence: A consequence of changes in the child or in the educational environment",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Stipek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Daniels",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Educational Psychology",
+                "volume": "80",
+                "issue": "",
+                "pages": "352--356",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stipek, D. J., & Daniels, D. H. (1988). Declining perceptions of competence: A consequence of changes in the child or in the educational environment? Journal of Educational Psychology, 80, 352 -356.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Developmental change in children's assessment of intellectual competence",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Stipek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Maciver",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Child Development",
+                "volume": "60",
+                "issue": "",
+                "pages": "521--538",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stipek, D. J., & MacIver, D. (1989). Developmental change in children's assessment of intellectual competence. Child Development, 60, 521 -538.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Using latent growth curve models to study developmental processes",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Stoolmiller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Analysis of developmental change",
+                "volume": "",
+                "issue": "",
+                "pages": "103--138",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stoolmiller, M. (1995). Using latent growth curve models to study developmental processes. In J. M. Gottman (Ed.), Analysis of developmental change (pp. 103 -138). Hillsdale, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Motivation reconsidered: The concept of competence",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "White",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1959,
+                "venue": "Psychological Review",
+                "volume": "66",
+                "issue": "",
+                "pages": "297--333",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "White, R. W. (1959). Motivation reconsidered: The concept of competence. Psychological Review, 66, 297 -333.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Expectancy-value theory of achievement motivation: A developmental perspective",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Educational Psychology Review",
+                "volume": "6",
+                "issue": "",
+                "pages": "49--78",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A. (1994). Expectancy-value theory of achieve- ment motivation: A developmental perspective. Educa- tional Psychology Review, 6, 49 -78.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "The development of achievement task values: A theoretical analysis",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Developmental Review",
+                "volume": "12",
+                "issue": "",
+                "pages": "265--310",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., & Eccles, J. S. (1992). The development of achievement task values: A theoretical analysis. Devel- opmental Review, 12, 265 -310.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Expectancy-value theory of achievement motivation",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "25",
+                "issue": "",
+                "pages": "68--81",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., & Eccles, J. S. (2000). Expectancy-value theory of achievement motivation. Contemporary Educational Psychology, 25, 68 -81.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Change in children's competence beliefs and subjective task values across the elementary school years: A 3-year study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yoon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J A"
+                        ],
+                        "last": "Arbreton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Freedman-Doan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Educational Psychology",
+                "volume": "89",
+                "issue": "",
+                "pages": "451--469",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., Eccles, J. S., Yoon, K. S., Harold, R. D., Arbreton, A. J. A., & Freedman-Doan, C., et al. (1997). Change in children's competence beliefs and subjective task values across the elementary school years: A 3-year study. Journal of Educational Psychology, 89, 451 -469.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "(a) Cross-lagged model: Longitudinal structural equation modeling of intrinsic values (iv) and competence beliefs (cb) including cross-lagged directional paths. (b) Correlational model: Longitudinal structural equation modeling of intrinsic values (iv) and competence beliefs (cb) without cross-lagged directional paths."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td/><td>t1</td><td/><td/><td>t2</td><td/><td/><td>t3</td><td/><td/><td>t4</td><td/><td/></tr><tr><td/><td>M (SD)</td><td>n</td><td>a</td><td>M (SD)</td><td>n</td><td>a</td><td>M (SD)</td><td>n</td><td>a</td><td>M (SD)</td><td>n</td><td>a</td></tr><tr><td>Intrinsic values</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>General</td><td>4.37 (0.77)</td><td>589</td><td>.75</td><td>4.29 (0.75)</td><td>586</td><td>.76</td><td>4.29 (0.79)</td><td>574</td><td>.80</td><td>4.23 (0.83)</td><td>576</td><td>.84</td></tr><tr><td>Math</td><td>3.89 (1.00)</td><td>590</td><td>.70</td><td>3.76 (0.99)</td><td>585</td><td>.71</td><td>3.79 (1.01)</td><td>576</td><td>.73</td><td>3.81 (1.05)</td><td>573</td><td>.76</td></tr><tr><td>German</td><td>4.13 (0.81)</td><td>590</td><td>.52</td><td>4.04 (0.85)</td><td>592</td><td>.60</td><td>4.11 (0.80)</td><td>574</td><td>.58</td><td>4.13 (0.74)</td><td>575</td><td>.43</td></tr><tr><td>Competence beliefs</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>General</td><td>4.07 (0.73)</td><td>585</td><td>.68</td><td>4.00 (0.69)</td><td>588</td><td>.70</td><td>3.95 (0.72)</td><td>572</td><td>.77</td><td>3.93 (0.71)</td><td>574</td><td>.73</td></tr><tr><td>Math</td><td>4.05 (0.89)</td><td>590</td><td>.83</td><td>3.98 (0.88)</td><td>586</td><td>.86</td><td>3.96 (0.96)</td><td>572</td><td>.90</td><td>3.98 (0.88)</td><td>574</td><td>.87</td></tr><tr><td>German</td><td>4.14 (0.77)</td><td>590</td><td>.78</td><td>4.04 (0.77)</td><td>589</td><td>.81</td><td>4.02 (0.78)</td><td>571</td><td>.86</td><td>3.97 (0.78)</td><td>576</td><td>.85</td></tr></table>",
+                "type_str": "table",
+                "text": "Means, Standard Deviations, Subsample Without Missing Data (n), and Reliabilities (a) for Intrinsic Values and Competence Beliefs Scales in Three Domains for All Four Measurement Occasions"
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td/><td>v 2</td><td>RMSEA</td><td>CFI</td><td>M IC</td><td>SD IC</td><td>M Slope</td><td>SD Slope</td><td>Slope \u00c2 IC</td></tr><tr><td>Intrinsic values</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>General</td><td>4.40</td><td>.03</td><td>1.00</td><td>4.37**</td><td>.63**</td><td>\u00c0.15**</td><td>.73**</td><td>\u00c0.65**</td></tr><tr><td>Math</td><td>10.00*</td><td>.06</td><td>0.99</td><td>3.86**</td><td>.82**</td><td>\u00c0.09*</td><td>.55**</td><td>\u00c0.24</td></tr><tr><td>German</td><td>8.56*</td><td>.05</td><td>0.99</td><td>4.09**</td><td>.61**</td><td>.01</td><td>.10</td><td>\u00c0.18</td></tr><tr><td>Competence beliefs</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>General</td><td>10.39**</td><td>.06</td><td>0.99</td><td>4.05**</td><td>.63**</td><td>\u00c0.16**</td><td>.51**</td><td>\u00c0.51**</td></tr><tr><td>Math</td><td>23.75**</td><td>.10</td><td>0.98</td><td>4.04**</td><td>.77**</td><td>\u00c0.09*</td><td>.47**</td><td>\u00c0.25*</td></tr><tr><td>German</td><td>19.00**</td><td>.08</td><td>0.98</td><td>4.13**</td><td>.62**</td><td>\u00c0.15**</td><td>.51**</td><td>\u00c0.38*</td></tr></table>",
+                "type_str": "table",
+                "text": "Latent Growth Models for Intrinsic Values and Competence Beliefs in Three Domains Notes. All models listed above are associated with chi-square values with three degrees of freedom. RMSEA 5 root mean square error of approximation; CFI 5 comparative fit index; IC 5 intercept; Slope \u00c2 IC 5 covariance between the Slope and Intercept factors. *p , .05. **p , .01."
+            },
+            "TABREF3": {
+                "num": null,
+                "content": "<table><tr><td colspan=\"5\">Fit Indices for the Cross-Lagged and Correlational Models Incorporating</td></tr><tr><td colspan=\"5\">All Measurement Occasions (t1-2-3-4) and Measurement Occasions 1 and</td></tr><tr><td>4 (t1-4) per Domain</td><td/><td/><td/><td/></tr><tr><td/><td/><td>Fit indices</td><td/><td/></tr><tr><td/><td>v 2</td><td colspan=\"3\">df v 2 /df RMSEA CFI</td></tr><tr><td>General</td><td/><td/><td/><td/></tr><tr><td colspan=\"3\">t1-2-3-4 cross-lagged model 588.92** 223 2.64</td><td>.05</td><td>0.94</td></tr><tr><td colspan=\"3\">t1-2-3-4 correlational model 598.51** 229 2.61</td><td>.05</td><td>0.94</td></tr><tr><td>t1-4 cross-lagged model</td><td>88.60**</td><td>42 2.11</td><td>.04</td><td>0.98</td></tr><tr><td>t1-4 correlational model</td><td>89.57**</td><td>44 2.03</td><td>.04</td><td>0.98</td></tr><tr><td>Math</td><td/><td/><td/><td/></tr><tr><td colspan=\"3\">t1-2-3-4 cross-lagged model 522.83** 223 2.35</td><td>.05</td><td>0.96</td></tr><tr><td colspan=\"3\">t1-2-3-4 correlational model 543.25** 229 2.37</td><td>.05</td><td>0.96</td></tr><tr><td>t1-4 cross-lagged model</td><td>77.02**</td><td>42 1.83</td><td>.04</td><td>0.99</td></tr><tr><td>t1-4 correlational model</td><td>85.84**</td><td>44 1.95</td><td>.04</td><td>0.99</td></tr><tr><td>German</td><td/><td/><td/><td/></tr><tr><td colspan=\"3\">t1-2-3-4 cross-lagged model 680.06** 223 3.05</td><td>.05</td><td>0.92</td></tr><tr><td colspan=\"3\">t1-2-3-4 correlational model 689.13** 229 3.01</td><td>.05</td><td>0.92</td></tr><tr><td>t1-4 cross-lagged model</td><td>85.66**</td><td>42 2.04</td><td>.04</td><td>0.97</td></tr><tr><td>t1-4 correlational model</td><td>93.91**</td><td>44 2.13</td><td>.04</td><td>0.97</td></tr><tr><td colspan=\"5\">Note. RMSEA 5 root mean square error of approximation; CFI 5</td></tr><tr><td>comparative fit index.</td><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF4": {
+                "num": null,
+                "content": "<table><tr><td/><td/><td colspan=\"2\">Temporal stabilities</td><td/></tr><tr><td/><td>t1 -t2</td><td>t2 -t3</td><td>t3 -t4</td><td>t1 -t4</td></tr><tr><td>Intrinsic values</td><td/><td/><td/><td/></tr><tr><td>General</td><td>.77**</td><td>.73**</td><td>.82**</td><td>.52**</td></tr><tr><td>Math</td><td>.66**</td><td>.85**</td><td>.85**</td><td>.70**</td></tr><tr><td>German</td><td>.71**</td><td>.84**</td><td>.63**</td><td>.60**</td></tr><tr><td>Competence beliefs</td><td/><td/><td/><td/></tr><tr><td>General</td><td>.74**</td><td>.76**</td><td>.71**</td><td>.63**</td></tr><tr><td>Math</td><td>.75**</td><td>.75**</td><td>.87**</td><td>.46**</td></tr><tr><td>German</td><td>.70**</td><td>.75**</td><td>.70**</td><td>.27**</td></tr><tr><td colspan=\"5\">Note. t 5 measurement occasion; SEM 5 structural equation</td></tr><tr><td>modeling.</td><td/><td/><td/><td/></tr><tr><td>**p , .01.</td><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Temporal Stabilities (SEM Maximum Likelihood Estimates)"
+            },
+            "TABREF5": {
+                "num": null,
+                "content": "<table><tr><td colspan=\"13\">Estimated Coefficients (Maximum Likelihood) From Cross-Lagged Domain-Specific SEM Models: Concurrent Correlations and Cross-Path Coefficients</td></tr><tr><td/><td colspan=\"4\">Concurrent correlations IV \u00c2 CB</td><td/><td/><td/><td colspan=\"2\">Cross-paths IV \u00c2 CB</td><td/><td/><td/></tr><tr><td/><td>t1</td><td>t2</td><td>t3</td><td>t4</td><td colspan=\"8\">IV1 -CB2 IV2 -CB3 IV3 -CB4 IV1 -CB4 CB1 -IV2 CB2 -IV3 CB3 -IV4 CB1 -IV4</td></tr><tr><td>General</td><td>.41**</td><td>.29**</td><td>.33**</td><td>.36**</td><td>.02</td><td>\u00c0.02</td><td>.09</td><td>\u00c0.06</td><td>.01</td><td>.10*</td><td>\u00c0.07</td><td>.03</td></tr><tr><td>Math</td><td>.76**</td><td>.83**</td><td>.77**</td><td>.73**</td><td>.06</td><td>.04</td><td>\u00c0.06</td><td>.18</td><td>.21**</td><td>\u00c0.01</td><td>.00</td><td>.19</td></tr><tr><td colspan=\"2\">German .60**</td><td>.73**</td><td>.61**</td><td>.69**</td><td>.07</td><td>.03</td><td>.01</td><td>.26*</td><td>.07</td><td>\u00c0.14</td><td>.15</td><td>.07</td></tr></table>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF6": {
+                "num": null,
+                "content": "<table><tr><td/><td/><td colspan=\"2\">Model comparison</td><td/></tr><tr><td/><td>df</td><td>CMIN</td><td>p</td><td>TLI</td></tr><tr><td>General</td><td/><td/><td/><td/></tr><tr><td>t1-2-3-4 models</td><td>6</td><td>9.59</td><td>.14</td><td>\u00c0.00</td></tr><tr><td>t1-4 models</td><td>2</td><td>.97</td><td>.61</td><td>\u00c0.00</td></tr><tr><td>Math</td><td/><td/><td/><td/></tr><tr><td>t1-2-3-4 models</td><td>6</td><td>20.42</td><td>.00</td><td>.00</td></tr><tr><td>t1-4 models</td><td>2</td><td>8.82</td><td>.01</td><td>.00</td></tr><tr><td>German</td><td/><td/><td/><td/></tr><tr><td>t1-2-3-4 models</td><td>6</td><td>9.07</td><td>.17</td><td>\u00c0.00</td></tr><tr><td>t1-4 models</td><td>2</td><td>8.23</td><td>.02</td><td>.00</td></tr><tr><td colspan=\"5\">Note. CMIN 5 chi-square discrepancy (between cross-lagged and</td></tr><tr><td colspan=\"3\">correlational model); TLI 5 Tucker -Lewis index.</td><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Model Comparison Between Cross-Lagged and Correlational Models Incorporating All Measurement Occasions (t1-2-3-4) and Measurement Occasions 1 and 4 (t1-4)"
+            }
+        }
+    }
+}

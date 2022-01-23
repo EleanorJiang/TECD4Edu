@@ -1,0 +1,3289 @@
+{
+    "paper_id": "Whitesell_2009",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:03:41.343950Z"
+    },
+    "title": "A longitudinal study of self-esteem, cultural identity, and academic success among American Indian adolescents",
+    "authors": [
+        {
+            "first": "Nancy",
+            "middle": [
+                "Rumbaugh"
+            ],
+            "last": "Whitesell",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "American Indian and Alaska Native Programs",
+                "institution": "University of Colorado Denver",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Christina",
+            "middle": [
+                "M"
+            ],
+            "last": "Mitchell",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "American Indian and Alaska Native Programs",
+                "institution": "University of Colorado Denver",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Paul",
+            "middle": [],
+            "last": "Spicer",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "American Indian and Alaska Native Programs",
+                "institution": "University of Colorado Denver",
+                "location": {}
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Latent growth curve modeling was used to estimate developmental trajectories of self-esteem and cultural identity among American Indian high school students and to explore the relationships of these trajectories to personal resources, problem behaviors, and academic performance at the end of high school. The sample included 1,611 participants from the Voices of Indian Teens project, a threeyear longitudinal study of adolescents from three diverse American Indian cultural groups in the western U.S. Trajectories of self-esteem were clearly related to academic achievement; cultural identity, in contrast, was largely unrelated, with no direct effects and only very small indirect effects. The relationships between self-esteem and success were mediated by personal resources and problem behaviors. Disparities in academic achievement across ethnic groups in the United States have long been of concern to both educational and developmental scholars, and a considerable body of research has attempted to uncover the causes of these disparities (",
+    "pdf_parse": {
+        "paper_id": "Whitesell_2009",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Latent growth curve modeling was used to estimate developmental trajectories of self-esteem and cultural identity among American Indian high school students and to explore the relationships of these trajectories to personal resources, problem behaviors, and academic performance at the end of high school. The sample included 1,611 participants from the Voices of Indian Teens project, a threeyear longitudinal study of adolescents from three diverse American Indian cultural groups in the western U.S. Trajectories of self-esteem were clearly related to academic achievement; cultural identity, in contrast, was largely unrelated, with no direct effects and only very small indirect effects. The relationships between self-esteem and success were mediated by personal resources and problem behaviors. Disparities in academic achievement across ethnic groups in the United States have long been of concern to both educational and developmental scholars, and a considerable body of research has attempted to uncover the causes of these disparities (",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "In examining the correlates of academic performance among American Indian youth, we began with a model developed as a part of the work of the Study Group on Race, Culture, and Ethnicity (SGRCE), as described in the introduction to this section. The SGRCE model forms the nexus for the collection of reports in this volume; each group of authors looked at their data through the lens this model provides. The model describes parenting and socialization influences on the development of ethnic identity and self-esteem and the subsequent influences of the latter on academic achievement. With our data, we were able to examine the second set of links in this model -from self-esteem and ethnic identity to achievement; we were also able to expand the model to include mediators that may help explain the mechanisms behind these links. Below we provide an overview of the components of the model and describe of how we have adapted and expanded the SGRCE model for our study of academic performance among American Indian students.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Good theoretical reasons exist for positing a causal link between self-esteem and school success. Healthy self-esteem has been associated with internal locus of control, perceptions of competence, persistence in the face of challenges, coping skills, social support, and a variety of other qualities that are likely to better equip students to succeed in school (Donnellan, Trzesniewski, Conger, & Conger, 2007; DuBois & Flay, 2004; Haney & Durlak, 1998; Koch, 2006; Swann, Chang-Schneider, & McClarty, 2007) . However, while the relationship between self-esteem and achievement is well established, the nature of the link remains a matter of considerable debate. Cross-sectional research has consistently found correlations between selfesteem and academic success (Baumeister, Campbell, Krueger, & Vohs, 2003; Hansford & Hattie, 1982; Tice & Gailliot, 2006) . More recent longitudinal investigations of the link between self-esteem and academic achievement have found as much indication that achievement enhances self-esteem as they have that self-esteem enhances achievement. Some have suggested that no real causal relationship exists between these constructs in either direction, but rather that the bidirectional nature of the effects indicates that other variablessuch as IQ or socioeconomic status -explain their shared variance (Baumeister et al., 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 362,
+                        "end": 411,
+                        "text": "(Donnellan, Trzesniewski, Conger, & Conger, 2007;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 412,
+                        "end": 432,
+                        "text": "DuBois & Flay, 2004;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 433,
+                        "end": 454,
+                        "text": "Haney & Durlak, 1998;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 455,
+                        "end": 466,
+                        "text": "Koch, 2006;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 467,
+                        "end": 508,
+                        "text": "Swann, Chang-Schneider, & McClarty, 2007)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 765,
+                        "end": 810,
+                        "text": "(Baumeister, Campbell, Krueger, & Vohs, 2003;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 811,
+                        "end": 835,
+                        "text": "Hansford & Hattie, 1982;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 836,
+                        "end": 858,
+                        "text": "Tice & Gailliot, 2006)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 1336,
+                        "end": 1361,
+                        "text": "(Baumeister et al., 2003)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "While some studies have included samples of youth from larger minority groups (African Americans, Hispanics, Asian Americans), we know of none that has included large samples of American Indian youth. This gap is particularly important given culturally specific experiences with educational systems (e.g., history of forced acculturation through boarding schools) and cultural values around individual achievement that could be expected to affect this relationship among Native youth. Assuming that factors related to academic achievement in other groups will bear out in American Indian samples is premature.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "Self-esteem is but one of a larger constellation of self-related emotions and cognitions that potentially influence school performance. Self-esteem reflects personal self -the part of selfconcept that represents the autonomous, individual, separate self; a complementary notion is collective self -the self defined in terms of the social group, of belonging, of identifying with a community (Ashmore et al., 2004; Brewer, 2003; Cross, 1991; Hogg, 2003) . To exclude collective self from the equation is to risk garnering an incomplete and potentially misleading picture, particularly among youth who are embedded within minority cultures and identify themselves -and are identified by others -at least in part, by their ethnic group status.",
+                "cite_spans": [
+                    {
+                        "start": 391,
+                        "end": 413,
+                        "text": "(Ashmore et al., 2004;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 414,
+                        "end": 427,
+                        "text": "Brewer, 2003;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 428,
+                        "end": 440,
+                        "text": "Cross, 1991;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 441,
+                        "end": 452,
+                        "text": "Hogg, 2003)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ethnic/Cultural Identity",
+                "sec_num": null
+            },
+            {
+                "text": "Many studies have found links between ethnic identity and academic achievement, but they have generally not included American Indian adolescents. While some experiences are likely shared across ethnic minority groups (e.g., minority status, discrimination) and some cultural values are similar (e.g., emphases on extended family), important differences in cultures, histories, and contexts create diverse contexts for development. Thus, while findings with other ethnic groups can help guide our investigation, we cannot assume that they necessarily forecast what we will find when we focus on American Indian youth.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ethnic/Cultural Identity",
+                "sec_num": null
+            },
+            {
+                "text": "In working with American Indian adolescents, we chose to focus on cultural identity rather than on what is more typically considered ethnic identity. We were particularly concerned with how engagement with American Indian culture might be related to academic success. This emphasis derived from suggestions that the root of achievement deficits evident among many American Indian students may lie in their disengagement from their traditional cultures (Henze & Vanett, 1993; Powers, 2006; Whitbeck, Hoyt, Stubben, & LaFromboise, 2001) . It has been suggested that re-emphasis on involvement with American Indian culture might provide a variety of resources -clear cultural values, sense of community, validation of self, etc. -that would enhance school success. If cultural engagement is, in fact, related to achievement, then students who are more identified with their tribal cultures should perform better in school than those who are relatively disengaged. In order to explore this possibility, we assessed cultural identity, specifically operationalized as American Indian identity, the extent to which adolescents adopted an identity as American Indian and participated in practices, traditions, and spiritual beliefs resonant with tribal culture (Oetting & Beauvais, 1990-91) .",
+                "cite_spans": [
+                    {
+                        "start": 452,
+                        "end": 474,
+                        "text": "(Henze & Vanett, 1993;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 475,
+                        "end": 488,
+                        "text": "Powers, 2006;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 489,
+                        "end": 534,
+                        "text": "Whitbeck, Hoyt, Stubben, & LaFromboise, 2001)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 1253,
+                        "end": 1282,
+                        "text": "(Oetting & Beauvais, 1990-91)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ethnic/Cultural Identity",
+                "sec_num": null
+            },
+            {
+                "text": "We offer one important caveat before we proceed. We proposed relations between cultural identity and achievement with some tentativeness. While we thought strong cultural identity would foster academic success among American Indian adolescents, as it has been shown to do in other populations, we also thought the relationship might be more complex. Students with high American Indian identity might actually reject academic goals as not consistent with traditional American Indian ways. The educational history of American Indian tribes is distinct from that of other ethnic minority groups in the U.S. The forced acculturation of tribal children through western education, particularly in boarding schools, has left scars on tribal communities, in many cases undercutting tribal culture in critical ways (as was the intention of these educational policies). Despite dramatic changes in the educational systems for Native children in recent decades, distrust of western education remains in many Native communities, particularly among those who are most strongly committed to preserving and restoring tribal culture. Thus, the self-assurance and perseverance likely to emerge from strong cultural identity -characteristics that would be expected to enhance academic achievement -might instead, in the context of the cultural values inherent in that identity, lead American Indian students to reject mainstream academic goals in favor of goals more consonant with their tribal identity. Thus, the picture of the relationship between cultural identity and academic success that emerges may be more complex than suggested by the SGRCE model.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ethnic/Cultural Identity",
+                "sec_num": null
+            },
+            {
+                "text": "We thus set out to explore how self-esteem and cultural identity were linked, in tandem, to academic performance. In doing so we were concerned with determining not only whether or not the hypothesized relationships existed, but also why they existed. In other words, if selfesteem is predictive of academic performance -why is it? If cultural identity relates to higher levels of achievement, how does it do so? We were interested in the mechanisms of these relationships. As suggested above, we do not believe that self-esteem per se leads to better grades or that cultural identity in itself would make students more successful, but rather that both of these aspects of self-concept -when healthy -support other characteristics that, in turn, make it more likely that students will succeed in school. Thus, we proposed a mediational model, with two potential mediators -personal resources and problem behaviors. Both cultural identity and self-esteem were expected to serve promotive and protective roles, nurturing the development of personal resources that support achievement and thwarting engagement in problem behaviors that undermine it. Our conceptual model is shown in Figure 1 ; the longitudinal nature of our data is indicated by the arrangement of model elements across six waves of data. As is also evident in Figure 1 , we used latent growth curve modeling techniques to fit growth trajectories of self-esteem and American Indian identity across all six waves and then modeled these trajectories as predictors of academic success in the final wave (W6). Included in the model were mediators, personal resources and problem behaviors, in the penultimate wave of data collection (W5). We also controlled for academic performance, resources, and behavior problems at the first wave, in order to distinguish the effects of each of these factors on trajectories of self-esteem and cultural identity from the effects of trajectories on subsequent resources, problems, and academic success. For clarity in Figure 1 we do not include all the individual paths tested in our data analyses; rather, the shaded arrows in the model represent the flow of relationships across time (i.e., trajectories to mediators to outcome).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1180,
+                        "end": 1188,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1325,
+                        "end": 1333,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2015,
+                        "end": 2023,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Mediators",
+                "sec_num": null
+            },
+            {
+                "text": "In testing this model, we expected both self-esteem and cultural identity to be positively related to personal resources and negatively related to problem behaviors. In turn, we expected that personal resources and problem behaviors would be proximal predictors of academic success. Both self-esteem and cultural identity were hypothesized to promote the development of a variety of personal resources that would, in turn, equip adolescents to approach academic tasks with confidence and, thus, to succeed. This is consistent with suggestions by many others that general psychosocial adjustment is related to both cultural identity (Guzman et al., 2005; Wong et al., 2003) and positive self-esteem (DeNeve & Cooper, 1998; Donnellan et al., 2007; DuBois & Flay, 2004; Haney & Durlak, 1998; Koch, 2006; Montgomery, Miville, Winterowd, Jeffries, & Baysden, 2000; Powers, 2006; Rosenberg, Schooler, & Schoenbach, 1989; Swann et al., 2007; Whitbeck et al., 2001) . In turn, personal resources have been associated with academic success (Bornstein, Davidson, Keyes, & Moore, 2003; Scales, Benson, Leffert, & Blyth, 2000) .",
+                "cite_spans": [
+                    {
+                        "start": 632,
+                        "end": 653,
+                        "text": "(Guzman et al., 2005;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 654,
+                        "end": 672,
+                        "text": "Wong et al., 2003)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 698,
+                        "end": 721,
+                        "text": "(DeNeve & Cooper, 1998;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 722,
+                        "end": 745,
+                        "text": "Donnellan et al., 2007;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 746,
+                        "end": 766,
+                        "text": "DuBois & Flay, 2004;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 767,
+                        "end": 788,
+                        "text": "Haney & Durlak, 1998;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 789,
+                        "end": 800,
+                        "text": "Koch, 2006;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 801,
+                        "end": 859,
+                        "text": "Montgomery, Miville, Winterowd, Jeffries, & Baysden, 2000;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 860,
+                        "end": 873,
+                        "text": "Powers, 2006;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 874,
+                        "end": 914,
+                        "text": "Rosenberg, Schooler, & Schoenbach, 1989;",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 915,
+                        "end": 934,
+                        "text": "Swann et al., 2007;",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 935,
+                        "end": 957,
+                        "text": "Whitbeck et al., 2001)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 1031,
+                        "end": 1074,
+                        "text": "(Bornstein, Davidson, Keyes, & Moore, 2003;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1075,
+                        "end": 1114,
+                        "text": "Scales, Benson, Leffert, & Blyth, 2000)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Personal Resources",
+                "sec_num": null
+            },
+            {
+                "text": "We focused on three indicators of personal resources that we believed to be particularly relevant to academic performance: perceived competencies, internal locus of control (mastery), and problem-focused coping skills. The more confidence students have in their abilities, feel that their efforts have an impact on outcomes, and have strategies for problem-solving, the more they are likely to persist and excel in academic pursuits. In contrast, if they feel that they don't have what it takes to succeed, that success is outside of their personal control, and that they don't have strategies for coping with challenges that arise, they are likely to disengage from school and experience academic failure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Personal Resources",
+                "sec_num": null
+            },
+            {
+                "text": "The second set of pathways from cultural identity and self-esteem to academic achievement in our model is through problem behaviors. We expected that strong cultural identity and high self-esteem would be protective against a variety of risks, particularly engagement in problem behaviors that have been associated with poor academic performance. Endorsement of cultural values has been suggested as an important factor in adolescents' resistance to problem behaviors (Wong et al., 2003) , as has healthy self-esteem (Donnellan, Trzesniewski, Robins, Moffitt, & Caspi, 2005; Hirsch & DuBois, 1991; Radin, Walker, Walker, Marlatt, & Larimer, 2006) . Problem behaviors have, in turn, been shown to interfere with school success (Battin-Pearson et al., 2000; Newcomb et al., 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 468,
+                        "end": 487,
+                        "text": "(Wong et al., 2003)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 517,
+                        "end": 574,
+                        "text": "(Donnellan, Trzesniewski, Robins, Moffitt, & Caspi, 2005;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 575,
+                        "end": 597,
+                        "text": "Hirsch & DuBois, 1991;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 598,
+                        "end": 646,
+                        "text": "Radin, Walker, Walker, Marlatt, & Larimer, 2006)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 726,
+                        "end": 755,
+                        "text": "(Battin-Pearson et al., 2000;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 756,
+                        "end": 777,
+                        "text": "Newcomb et al., 2002)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Problem Behaviors",
+                "sec_num": null
+            },
+            {
+                "text": "We focused on three particular problem behaviors commonly associated with suboptimal development during adolescence: antisocial behavior, problematic alcohol use, and drug use. It is not difficult to imagine how disruptive antisocial behaviors and use of alcohol and drugs might impair students' abilities to complete tasks necessary to school success: If students aren't in school, or if they are in school under the influence of substances or recovering from their effects, they are unlikely to be able to muster the cognitive capacity necessary to succeed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Problem Behaviors",
+                "sec_num": null
+            },
+            {
+                "text": "Consistent evidence documenting gender differences in self-esteem, personal resources, problem behaviors, and academic achievement led us to include gender in our model. In adolescence, males have generally been found to have more positive self-esteem than do females (Galambos, Barker, & Krahn, 2006; Harter, 1999; Moneta, Schneider, & Csikszentmihalyi, 2001; Whitesell, Mitchell, Kaufman, & Spicer, 2006) , while females generally have higher levels of personal resources (Nolen-Hoeksema & Rusting, 1999) , lower levels of problem behaviors (Lahey et al., 2006; Nolen-Hoeksema, 2004) , and greater academic success (Cole, 1997) . The research literature provides less guidance regarding gender differences in cultural identity. We attempted to unpack the effects of gender within our larger model by simultaneously estimating its effects on all of these factors.",
+                "cite_spans": [
+                    {
+                        "start": 268,
+                        "end": 301,
+                        "text": "(Galambos, Barker, & Krahn, 2006;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 302,
+                        "end": 315,
+                        "text": "Harter, 1999;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 316,
+                        "end": 360,
+                        "text": "Moneta, Schneider, & Csikszentmihalyi, 2001;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 361,
+                        "end": 406,
+                        "text": "Whitesell, Mitchell, Kaufman, & Spicer, 2006)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 474,
+                        "end": 506,
+                        "text": "(Nolen-Hoeksema & Rusting, 1999)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 543,
+                        "end": 563,
+                        "text": "(Lahey et al., 2006;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 564,
+                        "end": 585,
+                        "text": "Nolen-Hoeksema, 2004)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 617,
+                        "end": 629,
+                        "text": "(Cole, 1997)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Gender",
+                "sec_num": null
+            },
+            {
+                "text": "Finally, we included adolescents from three distinct cultural communities. Comparisons across these groups allowed us to explore how the cultural context in which students were embedded was related to their self-concept development and academic performance. While the three groups included could not capture the extreme diversity of the more than 300 American Indian tribes in the continental U.S., they did represent distinctly different cultural traditions and histories. Their inclusion allowed us to begin to explore whether cultural context was an important factor in achievement disparities.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cultural Group",
+                "sec_num": null
+            },
+            {
+                "text": "Participants were American Indian adolescents who took part in the Voices of Indian Teens study (Voices) (Mitchell, 1993) , a longitudinal study of high school students in four geographically dispersed and culturally distinct reservation communities in the western U.S. We analyzed data from three of the four communities, excluding one school for youth with emotional or learning problems. Out of respect for the confidentiality of the tribal communities involved, we refer to these communities only by broad cultural group descriptors -Northern Plains, Southwest, and Pueblo -rather than by specific tribal affiliation. Sampling for Voices began with Fall 1993 school rosters of participating high schools (two in the Northern Plains, one each in Southwest and Pueblo). Data were collected semi-annually for three years from this sample and, on a rolling enrollment basis, from additional students attending the schools at any subsequent data collection session. For the original cohort established in Fall 1993, community-based follow-up consisted of re-contacting those participants who could no longer be found in the schools; this sampling procedure captured a majority of adolescents within the target age range (14 to 18) in each community, both those in and out of school. A total of six waves (Ws) of data were collected (W1 to W6). In all, 82% of those on the roster participated in the initial Voices data collection (W1); this participation rate did not differ by community. The population of inference was those on the school rosters as of \"count week\"the date in early October 1993 that schools reported enrollment figures to funding agencies for federal educational monies; during the 4 to 6 weeks between this reporting period and the data collection period, the schools dropped students from their rosters due to chronic absenteeism or transfer; as a result, the participation rate noted here is a conservative one.",
+                "cite_spans": [
+                    {
+                        "start": 105,
+                        "end": 121,
+                        "text": "(Mitchell, 1993)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Participants",
+                "sec_num": null
+            },
+            {
+                "text": "It is important to understand the similarity between the original Voices sample and the population from which it was drawn; thus we compared youth who were on the 1993 school rosters but didn't take a Voices survey to those who completed a Voices survey, using the only information available from the school rosters (gender). A slightly higher percentage of females completed the survey (84%) than did males (79%). Given the high participation rates and the only slightly different participation rates by gender, bias did not appear to be substantial.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Participants",
+                "sec_num": null
+            },
+            {
+                "text": "The analytic sample for the current study was made up of a subset of Voices participants from these three communities (total N=3,006) who met several criteria. First, we included only participants who self-identified as American Indian, excluding 165 participants (5.5% of the sample) who were non-Indian students in these reservation schools (American Indian sample N=2,841). Second, because our outcome variable was academic performance in high school, we included only participants in the cohort who were expected to still be in school at the end of the study; this excluded students were in grade 11 or 12 at the beginning of the study (W1) and thus unlikely to still be in school 2\u00bd years later at W8 (cohort sample N=1,977, 69.6% of the American Indian sample). From this cohort, an additional 366 participants were excluded because they had graduated by W8 (11 students, .6% of the cohort sample), had dropped out of school (47 students, 2.4%), or because they were missing data for both W7 and W8 (308 students, 15.6%; we do not know whether these students had graduated, dropped out, or transferred to other schools). The final analytic sample for this study thus consisted of 1,611 students, including 810 males and 801 females (50% each); the average age at W1 was 14.0 years; 837 (52%) were from the Southwest, 247 (15%) from Pueblos, and 527 (33%) from the Northern Plains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Participants",
+                "sec_num": null
+            },
+            {
+                "text": "For most analyses, we used Full Information Maximum Likelihood (FIML) procedures to estimate models with missing data. FIML estimates model parameters from all of the available information relevant to each parameter; this significantly reduced the biases associated with missing data patterns and allowed us to be confident that estimates were fairly accurate despite incomplete data across waves. Nonetheless, before estimating our model, we conducted analyses to determine whether patterns of missing data were related to the model constructs. On average, students participated in 3.7 waves of data collection. This overall participation rate reflected missing waves due to rolling enrollment in the study as well as to attrition; because students were enrolled not only at W1 but also at each subsequent wave of data collection, not all students were eligible to participate at all six waves. Once enrolled in the study, students participated in an average of 88% of subsequent waves of data collection (e.g., students enrolled at W1 averaged 5.4 of 6 possible Ws (90% participation); students enrolled at W3 averaged 3.5 of 4 Ws subsequent to W3 (88% participation). We compared students who completed four or more surveys (n=850) to those who completed three or fewer (n=761) on average levels of self-esteem, American Indian identity, personal resources, problem behaviors, and academic success, and gender and tribal group distributions. Only three small significant differences were found -for problem behaviors, academic performance, and tribe. Compared to those with more complete data, adolescents with fewer waves of data had greater problem behaviors (F (1,1533)=45.15, p<.001, eta 2 =.029) and poorer academic performance (F(1,1597)=6.68, p=. 01, eta 2 =.004). Southwest adolescents were more likely to have four or more waves (56.7%) of data than were Pueblo (49.8%) or Northern Plains adolescents (47.8%) (\u03c7 2 (2)=11.38, p=. 003). Because these effects were small, we did not feel that they posed serious problems in our analyses, particularly given our use of FIML estimation; nonetheless, we remained cognizant of these differences in our interpretation of findings.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Participants",
+                "sec_num": null
+            },
+            {
+                "text": "The survey instrument included a range of psychosocial measures, assessments of substance use, and reports of family environment; the same survey was administered at each wave of data collection. The complete survey instrument is available for review on our Web site at (http://aianp.uchsc.edu/ncaianmhr/research/voit.htm). For this study, we report only on selected measures relevant to our model: 1) self-esteem, 2) American Indian identity, 3) academic success, 4) personal resources, and 5) problem behaviors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Self-Esteem-Six items from the Rosenberg Self-Esteem Scale (Rosenberg, 1965) were included to assess self-esteem: \"I feel that I have many good qualities\", \"I feel that I am a failure\", \"I take a positive attitude toward myself\", \"I feel useless at times\", \"On the whole, I am satisfied with myself\", and \"At times I think I am no good at all\". This subset of items was selected through a process designed to balance measure reliability and validity with respondent burden. These six items demonstrated sufficient reliability in pilot work with American Indian adolescents, across gender, grade, and cultural groups, and provided estimates of self-esteem comparable to those found with the 10-item scale. Item responses ranged from 1, representing the most negative evaluation of self, to 5, representing the most positive evaluation. The reliability of this scale was good across gender, culture, and age groups (alphas ranged from . 79 to .84). Self-esteem was assessed at each wave of data collection, and all six waves were used in estimating developmental trajectories.",
+                "cite_spans": [
+                    {
+                        "start": 59,
+                        "end": 76,
+                        "text": "(Rosenberg, 1965)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "American Indian Identity-Our measure of American Indian identity was adapted from Oetting and Beauvais (Oetting & Beauvais, 1990-91) and taps engagement with behaviors and practices related to tribal culture. Eight items were included regarding use of tribal language, participation in tribal traditions, commitment to an American way of life, involvement in American Indian religious and spiritual practices, and plans to participate in the cultural community as an adult. Scores ranged from 1 to 4, with higher values indicating greater engagement with American Indian culture. Reliability was very good across gender, culture, and age groups (alphas ranging from .91 to .93). In order to estimate developmental trajectories of American Indian identity, we included measurements of this variable at each of the six waves of data collection.",
+                "cite_spans": [
+                    {
+                        "start": 103,
+                        "end": 132,
+                        "text": "(Oetting & Beauvais, 1990-91)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Grades: Self-reported grades were assessed with one item: \"In general, how well do you do in school?\" Responses ranged from \"mostly Ds or lower\" (4) to 1 \"mostly As\" (1). Grade reports were reverse-scored so that higher scores indicated better grades.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic Success",
+                "sec_num": null
+            },
+            {
+                "text": "Perceived academic performance: Adolescents were asked to rate their academic performance relative to peers: \"Compared with your classmates, how well do you do in school?\" Response choices were \"much below average\" (1) to \"much above average\" (5).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic Success",
+                "sec_num": null
+            },
+            {
+                "text": "Attitude toward school: Adolescents answered the question \"How do you feel about going to school?\" by choosing from five options ranging from \"I like school very much\" (1) to \"I hate school\" (5); scores were recoded so higher scores indicated more positive attitudes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic Success",
+                "sec_num": null
+            },
+            {
+                "text": "One question asked students to report on their educational goals, indicating whether they intended to not finish high school (1), finish high school (2), obtain a technical or two-year college degree (3), obtain military training (4), graduate from a four-year college (5), or obtain a graduate degree (6). Based on preliminary analyses, these responses were recoded into three levels: High school or less (1), post-high school education but less than a four-year college degree (2), and college or graduate degree (3).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Educational goals:",
+                "sec_num": null
+            },
+            {
+                "text": "Although each of these measures of academic success was collected at each of the 6 waves, for the current analyses we included only the W1 and W6 assessments",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Educational goals:",
+                "sec_num": null
+            },
+            {
+                "text": "Perceived competence: Items were adapted from Allen et al. (Allen, Weissberg, & Hawkins, 1989) to assess social, creative, academic, and physical competence (e.g., \"I am good at all kinds of sports and athletic games\", \"I am good at creative things, like acting or art or music\"). Responses ranged from 1 to 4, with 4 representing the most competent response. Reliabilities were good across gender, age, and culture groups (alphas .83-.89).",
+                "cite_spans": [
+                    {
+                        "start": 59,
+                        "end": 94,
+                        "text": "(Allen, Weissberg, & Hawkins, 1989)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Personal Resources",
+                "sec_num": null
+            },
+            {
+                "text": "Internal locus of control: The locus of control measure was based on the work of Pearlin and Schooler (Pearlin & Schooler, 1978) and included four items tapping the extent to which participants felt a sense of personal mastery and control over their lives (e.g., \"When I get what I want, it is usually because I worked hard for it\", \"I can do just about anything I really set my mind to\"). Responses ranged from 1 to 5, with 5 indicating the highest degree of internal control. Alphas ranged from .64 to .77.",
+                "cite_spans": [
+                    {
+                        "start": 102,
+                        "end": 128,
+                        "text": "(Pearlin & Schooler, 1978)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Personal Resources",
+                "sec_num": null
+            },
+            {
+                "text": "Coping items were based on Ayers' work (Ayers, Sandler, West, & Roosa, 1996) and focused on proactive and prosocial responses to problems (four items, e.g., \"Tried to make things better by changing what I did\", \"Did something to solve the problem\"), with responses ranging from 1 (never) to 4 (most of the time). Cronbach's alphas across groups (gender, age, culture) ranged from .91 to .95.",
+                "cite_spans": [
+                    {
+                        "start": 39,
+                        "end": 76,
+                        "text": "(Ayers, Sandler, West, & Roosa, 1996)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Problem-focused coping:",
+                "sec_num": null
+            },
+            {
+                "text": "Because we were most interested here in the proximal effects of personal resources on academic achievement, and their potential as mediators of the effects of development in self-esteem and American Indian identity, we focused on W5 measures of resources, the fall semester before the academic success outcome was assessed (at W6, spring); we also included W1 resources to control for pre-existing differences in the level of these variables.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Problem-focused coping:",
+                "sec_num": null
+            },
+            {
+                "text": "Problem Behaviors-As with personal resources, only problem behaviors at W1 and W5 were included.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Problem-focused coping:",
+                "sec_num": null
+            },
+            {
+                "text": "Antisocial behavior: Antisocial behavior was measured using six items about the frequency with which participants had been involved in a fist fight, shoplifted, damaged property, stayed out all night without permission, or lied to parents/guardians about their activities (Donovan, Jessor, & Costa, 1988) . Responses ranged from 1 (never) to 5 (5 or more times); reliabilities ranged from .74-.82 across gender, age, and culture groups.",
+                "cite_spans": [
+                    {
+                        "start": 272,
+                        "end": 304,
+                        "text": "(Donovan, Jessor, & Costa, 1988)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Problem-focused coping:",
+                "sec_num": null
+            },
+            {
+                "text": "This scale consisted of indicators of problem drinking from the Diagnostic Interview Schedule for Children (DISC-2) (Shaffer et al., 1988) and captured not only whether or not adolescents reported alcohol use but also the extent of problems they experiences in relation to use. Adolescents were asked to rate the frequency with which they drank more than they intended, drank when they had intended not to drink, could drink more without getting drunk, couldn't remember what they had done while drinking, were hung over, couldn't stop thinking about drinking, or found that they only liked to drink at certain places or certain times. Each of the seven items were rated on a 4-point scale, from 1 \"rarely or never\" to 4 \"almost always\". Reliabilities for this scale were excellent, ranging from .89 to .93 across gender, age, and culture groups.",
+                "cite_spans": [
+                    {
+                        "start": 116,
+                        "end": 138,
+                        "text": "(Shaffer et al., 1988)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Problems with alcohol:",
+                "sec_num": null
+            },
+            {
+                "text": "Drug use: Drug use was evaluated with questions regarding lifetime and recent (past month) use of seven different substances: Marijuana, cocaine, inhalants, solvents, amphetamines, barbiturates, and other drugs (e.g., hallucinogens, PCP, heroin, or ecstasy). Adolescents were asked to indicate which drugs, if any, they had ever tried and to indicate use within the month prior to the survey. A summary drug-use scale was created: 0 indicated no lifetime use of any drug; 1 lifetime use but no use in the past month; scores of 2, 3, and 4 recent use of 1, 2, and 3 or more substances, respectively. Thus, low scores indicated less drug involvement and higher scores more/more current involvement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Problems with alcohol:",
+                "sec_num": null
+            },
+            {
+                "text": "Letters were sent to parents of all youth at each participating school explaining the study; parents refusing permission (2%) were asked to return refusal forms in self-addressed stamped envelopes provided with the information letter. The study was then explained to adolescents and their assent was obtained. About half of participants completed surveys at school, under the supervision of research staff. Community follow-up procedures were used to contact those who were either not present on the day of testing or no longer attending school; these participants completed the surveys in their home or another convenient location. The survey took less than an hour to complete and students were compensate ($5 cash, gift certificate, or t-shirt) for completing each survey.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "We began by fitting separate latent growth curve models for self-esteem and American Indian identity, across all waves of data collection (W1 to W6), to determine the best model for each of these trajectories (e.g., linear, quadratic); these analyses were done in Mplus (Muth\u00e9 & Muth\u00e9, 1998 . Next we included these trajectories in our larger model of academic achievement, as depicted in Figure 1 . This model included gender, tribe, personal resources, problem behaviors, and academic success at W1, personal resources and problem behaviors at W5, and academic success at W6. In the overall model, we attended to both the measurement components (i.e., the indicators of the latent factors of personal resources, problem behaviors, and academic success) and to the structural relationships among the model components.",
+                "cite_spans": [
+                    {
+                        "start": 270,
+                        "end": 290,
+                        "text": "(Muth\u00e9 & Muth\u00e9, 1998",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 389,
+                        "end": 397,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "In estimating the structural relationships among the covariates, growth trajectories, mediators, and outcome, as depicted in Figure 1 , we compared two alternative models. In Model 1 we freely estimated the following effects: 1) W1 constructs on the growth trajectories, resources and problems at W5, and academic success at W6; 2) growth trajectories on W5 resources and problems and on W6 success; and 3) W5 resources and problems on W6 academic success. Model 2 was an alternative model in which W5 resources and problems were not allowed to mediate the link between other factors and academic success at W6 (i.e., these paths were fixed to 0); comparison of Model 2 to Model 1 allowed us to determine whether allowing these factors to play a mediational role significantly improved the explanatory value of the model.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 125,
+                        "end": 133,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Descriptive statistics for the variables included in the model are shown in Table 1 ; parameter estimates for Model 1 are presented in Table 2 (growth parameters, measurement model parameters, covariances), Table 3 (structural parameters), and the first column of Table 4 (predictors of academic success); fit statistics are in Table 5 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 76,
+                        "end": 83,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 135,
+                        "end": 142,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 207,
+                        "end": 214,
+                        "text": "Table 3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 264,
+                        "end": 271,
+                        "text": "Table 4",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 328,
+                        "end": 335,
+                        "text": "Table 5",
+                        "ref_id": "TABREF7"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "In our preliminary estimation of the growth trajectories for both self-esteem and American Indian identity, the best-fitting models were found to be those that included linear slopes; quadratic growth models were tested as well but failed to provide a better fit to the model or result in significant quadratic parameter estimates. Thus, in the full structural model (Model 1), we included only intercepts and linear slopes for these trajectories. As Table 2 indicates, the intercepts of these trajectories were relatively high, above the scale mean for both selfesteem (unstandardized intercept = 3.90, scale range = 1 to 5) and American Indian identity (intercept=2.74, scale range = 1 to 4). Also for both trajectories, when modeled independently, the slopes were positive and significant at p<.001; standardized estimates indicated modest gains in both self-esteem (\u03b2 = .23) and American Indian identity (\u03b2 = .29), for the sample as whole, across the high school years. However, when the trajectories were estimated within the full model, thus controlling for other factors (as shown in Table 2 ), the slopes for each became nonsignificant, although significant variability remained (p<.001) around both the intercepts and the slopes, reflecting considerable individual differences among adolescents.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 451,
+                        "end": 458,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 1091,
+                        "end": 1098,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Growth Trajectories",
+                "sec_num": null
+            },
+            {
+                "text": "A moderate association between the slopes of self-esteem and American Indian identity (\u03b2 = . 33) indicated that gains in one were typically accompanied by gains in the other. Intercepts were not related, however, nor did we find significant relationships between the intercepts of one trajectory and the slope of the other. Demographic covariates were related to both trajectories, as indicated in Table 3 . Initial levels of self-esteem were lower for girls than for boys. The slope of self-esteem was related to culture group: Pueblo adolescents had more negative slopes (i.e., declines in self-esteem) than did those in the Northern Plains referent group while Southwest adolescents did not differ from Northern Plains. Gender and culture group were related to American Indian identity only in the intercept: Girls had higher intercepts than did boys (i.e., higher levels at age 14), and both Pueblo and Southwest adolescents had higher intercepts than did Northern Plains adolescents. Table 1 and Table 2 show the factors in the model associated with variation in personal resources and problem behaviors at both W1 and W5. At W1, resources and problems were significantly and negatively related to one another, and both were related to W1 academic success. The latter relationship was particularly strong for resources, with a standardized coefficient of \u03b2 = .57. Problems were also associated with culture group, while resources were not. Neither problems nor resources were initially related to gender.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 398,
+                        "end": 405,
+                        "text": "Table 3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 989,
+                        "end": 1008,
+                        "text": "Table 1 and Table 2",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Growth Trajectories",
+                "sec_num": null
+            },
+            {
+                "text": "As Table 3 shows, resources at W1 were associated with higher initial levels of both self-esteem and American Indian identity. There was a small positive relationship between W1 problems and gains in self-esteem (slope). Gender was unrelated to W5 resources but related to W5 problems, with females less likely to report problems than males. Culture group was also associated with problems but nor resources at W5; Southwest, and to a lesser extent Pueblo, adolescents were less likely to report problems at W5 than were adolescents in the Northern Plains referent group. Both resources and problems at W5 were, not surprisingly, clearly anticipated by their W1 levels; the stability of resources was particularly striking (\u03b2 = .80).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "text": "Table 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Personal Resources and Problem Behaviors",
+                "sec_num": null
+            },
+            {
+                "text": "Trajectories of self-esteem were also related to both mediators. Greater gains in self-esteem (slope) were strongly associated with more resources and fewer problems. A significant and negative relationship between the intercept of self-esteem and W5 problem behaviors indicated that students with higher initial self-esteem had fewer problems at W5. No effects were found between American Indian identity and either resources or problems.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Personal Resources and Problem Behaviors",
+                "sec_num": null
+            },
+            {
+                "text": "As indicated above and shown in Table 2 , academic success at W1 was related to both resources and problems at W1. It was also significantly related to gender (females higher) but was unrelated to culture group. Table 3 shows that W1 academic success was not related to trajectories of either self-esteem or American Indian identity; students' performance at age 14 did not predict their self-concept development across high school.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 32,
+                        "end": 39,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 212,
+                        "end": 219,
+                        "text": "Table 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Academic Success",
+                "sec_num": null
+            },
+            {
+                "text": "Not surprisingly, W1 academic success strongly predicted W6 success, indicating remarkable stability in students' reports of their academic performance that is consistent with evidence of considerable genetic and childhood environmental influences on achievement (Harlaar, Dale, & Plomin, 2007; Johnson, McGue, & Iacono, 2006; Lemelin et al., 2007) . By including W1 achievement in our model, we controlled for these differences and were able to look at the effects of other model factors -trajectories of self-esteem, American Indian identity, W5 resources and W5 problem behaviors -independently of initial performance. These effects can be seen in Table 4 .",
+                "cite_spans": [
+                    {
+                        "start": 263,
+                        "end": 294,
+                        "text": "(Harlaar, Dale, & Plomin, 2007;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 295,
+                        "end": 326,
+                        "text": "Johnson, McGue, & Iacono, 2006;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 327,
+                        "end": 348,
+                        "text": "Lemelin et al., 2007)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 651,
+                        "end": 658,
+                        "text": "Table 4",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Academic Success",
+                "sec_num": null
+            },
+            {
+                "text": "Personal resources were strongly related to academic success, and problem behaviors showed a moderate negative relationship. First, as predicted by our model, greater personal resources were associated with greater academic success, while greater problem behaviors had the opposite effect. Second, and not predicted, was the significant negative effect of being a member of the Southwest tribe; Southwest adolescents reported poorer academic performance at W6 than did their peers in the Northern Plains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic Success",
+                "sec_num": null
+            },
+            {
+                "text": "It is noteworthy that trajectories of American Indian identity were unrelated to academic success; in fact, the removal of all effects of American Indian identity on success, personal resources, and problem behaviors did not significantly attenuate model fit (\u0394\u03c7 2 (6)=3.8, p=.71).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic Success",
+                "sec_num": null
+            },
+            {
+                "text": "Because we were specifically interested in the mediational role of personal resources and problem behaviors on the relationship of self-esteem and ethnic identity trajectories to academic success, we compared the model described in Table 1 and Table 2 (Model 1) to a nested model (Model 2) in which the paths from resources and problems to academic success were constrained to 0. Table 5 provides a comparison of the model fit statistics for Model 1 and Model 2, and Table 4 provides a side-by-side comparison of the parameter estimates across these two models (for the effects on academic success only; all other parameter estimates were only trivially different across models and thus are not reproduced separately for Model 2).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 232,
+                        "end": 251,
+                        "text": "Table 1 and Table 2",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 380,
+                        "end": 387,
+                        "text": "Table 5",
+                        "ref_id": "TABREF7"
+                    },
+                    {
+                        "start": 467,
+                        "end": 474,
+                        "text": "Table 4",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Mediational Roles of Personal Resources and Problem Behaviors",
+                "sec_num": null
+            },
+            {
+                "text": "As is evident in Table 5 , constraining to 0 the paths from resources and problems to academic success significantly reduced model fit (\u0394\u03c7 2 significant at p<.001). Inspection of Table 4 shows that the significant and large direct effect of the slope of self-esteem on academic success was accounted for by the mediation of resources and problems.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 17,
+                        "end": 24,
+                        "text": "Table 5",
+                        "ref_id": "TABREF7"
+                    },
+                    {
+                        "start": 179,
+                        "end": 186,
+                        "text": "Table 4",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Mediational Roles of Personal Resources and Problem Behaviors",
+                "sec_num": null
+            },
+            {
+                "text": "Also of interest here is the somewhat smaller effect of Southwest tribe on academic success when the mediators were not included in the model compared to when they were included. This suggests something of a suppressor effect, indicating that the negative relationship between Southwest and achievement was greater than would be anticipated given the lower levels of problem behaviors evident in this group (see Table 3 ). Figure 2 provides an overview of all significant relationships that emerged in the full model (Model 1). As inspection of this figure makes clear, patterns of growth in self-esteem were related to W5 levels of resources and problems, even after controlling for the significant relationships between these factors at W1. A strong relationship between growth in self-esteem and W6 academic success was accounted for by the mediating effects of W5 resources and problems. Also evident are the absence of links between trajectories of American Indian identity and subsequent factors in the model.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 412,
+                        "end": 419,
+                        "text": "Table 3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 423,
+                        "end": 431,
+                        "text": "Figure 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Mediational Roles of Personal Resources and Problem Behaviors",
+                "sec_num": null
+            },
+            {
+                "text": "Our findings provide important insights into factors related to academic success among American Indian adolescents. Most notably, self-esteem was strongly related to academic success, and our analyses suggested that this relationship was more related to the effects of self-esteem on achievement than to the effects of achievement on self-esteem: W1 academic success was not related to subsequent trajectories of self-esteem, while trajectories of selfesteem were related to W6 reports of academic success. Our final model was fairly successful in explaining academic success: 56% of the variance in this outcome variable was accounted for and, after controlling for W1 academic success, most of the remaining variance accounted for was due to the predictive effects of self-esteem trajectories. Of central importance was the finding that much of the relationship between self-esteem and academic success could be explained by the intermediary effects of personal resources and problem behaviors, as we had expected it would be. The indirect effects of the slope of self-esteem, through personal resources and problem behaviors, was significant (\u03b2 = .16, p<.001), even after controlling for W1 relationships. Thus, it appears that gains in self-esteem may play both promotive and protective roles, supporting the development of personal resources that facilitate academic success and enhancing resilience to problem behaviors that interfere with such success. Controlling for the effects of initial levels of academic success, resources, and problems, helped to rule out the alternative explanation that the \"impact\" of self-esteem simply reflected the increased likelihood that high self-esteem would develop in the context of personal resources and in the absence of problem behaviors -that it was only a marker of these kinds of processes rather than a causal factor in them. We did find evidence that earlier resources and problems affected trajectories of self-esteem (earlier academic success did not), but we also found clear evidence that self-esteem affected those factors in turn. Our findings offered evidence of a complex interplay among the factors in our model, suggesting that self-esteem was not merely tangential to these processes but rather that it played a significant role.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In contrast to the clear relationship of academic success to self-esteem, we found no relationship to American Indian identity. While this finding was consistent with other reports (Chavous et al., 2003; Fuligni et al., 2005; Guzman et al., 2005) , it did not support speculation that engagement with cultural traditions would foster success. One explanation for the discrepant effects observed for self-esteem and American Indian identity may lie in their different relationships to individualistic goals. Academic success is closely aligned with such goals; achievement is de facto aligned with individual performance. Thus, it was not really surprising that self-esteem -a marker of personal self -was strongly related to academic success while American Indian identity -a marker of collective identity -was not. Were we to include an outcome indicator more attuned to collective goals, particularly goals consonant with American Indian culture, we might find American Indian identity to be strongly related and self-esteem superfluous. For example, cultural identity might be more predictive than self-esteem of students' engagement in community service activities. It is likely that defining optimal outcomes on the basis of cultural goals will be important in determining the impact of cultural identification in adolescent development, while defining outcomes in terms of mainstream American goals -like academic success -stacks the deck toward finding that personal self is more important than collective self.",
+                "cite_spans": [
+                    {
+                        "start": 181,
+                        "end": 203,
+                        "text": "(Chavous et al., 2003;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 204,
+                        "end": 225,
+                        "text": "Fuligni et al., 2005;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 226,
+                        "end": 246,
+                        "text": "Guzman et al., 2005)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Related to this, the lack of a relationship between American Indian identity and school success may be due to a basic problem with our rather narrow definition of success. While our inclusion of measures of both attitude toward school and educational goals, along with self-reported grades and relative performance, broadened this construct beyond simple performance, it still failed to capture important indicators of school experiences such as interaction with teachers, preference for challenging coursework, and school dropout or truancy (Ashmore et al., 2004) . In addition, achievement was defined in terms of mainstream U.S. cultural values, including high grades, outperforming peers, liking school, and planning for higher education. For adolescents growing up in American Indian communities, cultural conflicts can arise around each of these indicators: 1) The ultimate value placed on grades may have been downplayed by adolescents closely connected to their tribal cultures, with greater emphasis on balance between academic pursuits and other goals; 2) outperforming peers may have been seen as less optimal for these youth than was working together with peers for communal success; 3) a distrust of mainstream educational systems, tied to negative histories of boarding school policies and forced acculturation practices in government-run school systems, may have led culturally identified students to report less positive attitudes toward school; and 4) a perceived lack of relevance of the agendas of American education for the lives of adolescents in reservation communities may have led some students to place less value on higher education. Thus, while students with positive cultural identities may have been better equipped to succeed in school, they may also have been less inclined to work toward mainstream achievement goals.",
+                "cite_spans": [
+                    {
+                        "start": 542,
+                        "end": 564,
+                        "text": "(Ashmore et al., 2004)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "It is also possible that our self-report measures were simply poor proxies for actual achievement among American Indian students. While others have also relied on self-reports, such measures are susceptible to the reporting biases of adolescents; this may be a particular problem in Native communities where cultural values encourage humility and students may be reticent to accurately report their own academic prowess if they perceive such reports as inappropriate self-aggrandizement. Indeed, we are finding links between cultural identity and achievement in the new study in which we included school-reported grades and test scores (Whitesell et al., 2007) . Further work is needed to unpack the complex relationship between culture and academic success and our findings call for the establishment of culturally appropriate definitions and measures of success.",
+                "cite_spans": [
+                    {
+                        "start": 636,
+                        "end": 660,
+                        "text": "(Whitesell et al., 2007)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Other explanations for our failure to find a link between American Indian identity and academic success are possible, however. First, our measure of American Indian identity merely scratched the surface of how culture was incorporated into the self-concepts of students in the communities we surveyed. While it provided information on the extent to which students defined themselves in terms of their tribal cultures and the extent to which they participated in cultural traditions and activities, it was unable to capture the complexity of cultural identity, particularly the variation in that identity across tribal contexts. In recent work, we have begun to explore the utility of a much more fine-grained assessment of the meaning of tribal culture for students -including careful measures of both their knowledge of their culture and their attitudes about the importance of that culture in their everyday lives. Using such a measure in one of the Southwest communities that participated in the study reported on here, we have found strong links between cultural attitudes and academic performance (both self-reported and school-reported grades and test scores) and modest links between cultural knowledge and achievement (Whitesell et al., 2007) . Additional research is clearly needed to uncover the ways in which culture impacts school success.",
+                "cite_spans": [
+                    {
+                        "start": 1226,
+                        "end": 1250,
+                        "text": "(Whitesell et al., 2007)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to examining the extent to which individual variation in identification with tribal culture was related to academic success, we also explored the extent to which cultural context per se was related. Several significant differences across cultural context -Northern Plains, Pueblo, or Southwest -are worth noting again here. Culture groups differed in rates of change in self-esteem across the high school years, and rates of change in self-esteem were predictive of W6 academic achievement; thus we observed small indirect effects of culture group on academic success. A significant direct path also existed from Southwest tribe membership to academic success; this path was especially evident when personal resources and problem behaviors were included as mediators, suggesting that academic success among Southwest adolescents was somewhat lower than might be expected given their significantly lower levels of problems. One possible explanation for this somewhat puzzling finding may lie in the fact that the tribal cultures in the Southwest tend to value modesty and downplay focus on individual accomplishments. Self-report measures of grade-point average and performance relative to peers may, thus, have underestimated the actual level of achievement among adolescents in this community, although this explanation would suggest a similar pattern should have emerged in the Pueblo group, which also instantiates these values, but that we did not observe. It is also possible that other factors not accounted for in our model were particularly relevant to predicting academic success in this tribal community. For example, we know that youth in the Southwest, at least at the time of this study, remained more oriented toward success in the traditional economy and/or the trades than those in the other communities; this orientation may have lessened the importance of academic success for individual youth in the Southwest tribes and decreased its significance as an outcome for this cohort. Future work including objective measures of achievement will be necessary to explore this possibility.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Other findings, less central to our stated hypotheses, also deserve mention. First, gender was significantly related to the intercepts of self-esteem and American Indian identity, and to problem behaviors at W5. Also, the slopes of American Indian identity and self-esteem were strongly correlated, while the intercepts were not. We found no significant links between the initial levels of either construct and subsequent gains in the other.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "While our findings offer an important perspective on factors related to academic success among American Indian adolescents, we must caution against reading too much into them. Several important limitations deserve mention. First, while our analyses were based on longitudinal data, the data were correlational rather than experimental and the results must be interpreted in this light. We have not manipulated either self-esteem or cultural identity and cannot say whether these factors were truly precursors to resources, problems, or achievement; however, because we were able to control for initial levels of these outcomes, we can have some confidence that our findings are more than spurious reflections of pre-existing patterns.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "Our findings are also limited by the unidimensionality of our measure of American Indian identity. Different components of collective identity, including centrality, private regard, public regard, connection to ethnic community, and sensitivity to racism have been found to have different relationships to academic success (Chavous et al., 2003; Oyserman et al., 2001 ). While we focused on connection to American Indian culture and community as one dimension that we expected would be related to the development of resources and the avoidance of problem behaviors, we recognize that this reflected only one small part of the picture. An important next step will be to broaden the measurement of identity to include other dimensions, reports of key informants (e.g., parents, teachers), and observations of adolescent cultural involvement.",
+                "cite_spans": [
+                    {
+                        "start": 323,
+                        "end": 345,
+                        "text": "(Chavous et al., 2003;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 346,
+                        "end": 367,
+                        "text": "Oyserman et al., 2001",
+                        "ref_id": "BIBREF38"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "Our model included only three indicators each of personal resources and problem behaviors; clearly these did not capture the entire range of either construct. A more inclusive set of personal resources might change our findings somewhat. While we focused on three resources we expected to be particularly relevant to academic success, we recognize that they represent only a sampling of the resources that have been associated with positive developmental outcomes (Lerner & Benson, 2003) . In addition, we recognize that our operationalization of problem behaviors ignored some types of problems clearly linked to negative outcomes for adolescents (e.g., sexual risk-taking). Nevertheless, the indicators we did include have been shown to be good markers of each of these constructs and we remain confident that they served as both reliable and valid estimates of each of these constructs.",
+                "cite_spans": [
+                    {
+                        "start": 464,
+                        "end": 487,
+                        "text": "(Lerner & Benson, 2003)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "Finally, our sample was limited in ways that must be considered in interpreting the results. First, we included only participants who were still in school at W6. We focused on this sample in order to make measures of academic success meaningful -i.e., relevant to students still in school. However, we recognize that we excluded students who left school early; the processes at play in extreme school failure -school dropout -may be very different from those emerging in our analyses of this more limited sample. Our findings must be considered as relevant only to students who remained in high school through 12 th grade.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "Our sample was also limited only to American Indian adolescents from three cultural groups and only to students attending schools in their reservation communities. Although these three represent some of the larger tribal communities in the U.S., they are only a very small sample of the more than 300 federally recognized tribes in the continental U.S. (U. S. Department of Health and Human Services, 2001) . Conclusions based on our findings cannot necessarily be generalized to other American Indian students.",
+                "cite_spans": [
+                    {
+                        "start": 374,
+                        "end": 406,
+                        "text": "Health and Human Services, 2001)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "Taken as a whole, our findings point to the importance of self-concept in the academic success of American Indian adolescents and clearly suggest that self-esteem plays a more central role than does American Indian identity. In addition, our findings show that it was not self-esteem per se that accounted for academic success but rather factors associated with self-esteem. Adolescents didn't excel in school just because they felt good about themselves; instead, feeling good about themselves was linked to greater personal resources that fostered success and fewer problem behaviors that could have interfered with that success. Understanding these links suggests that it is not enough for intervention efforts to focus on building self-esteem, but rather that they ought to focus on building the kinds of resources that are associated with high selfesteem.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "In contrast, our findings fail to support predicted links between cultural identity and academic success. Given the individual focus of school achievement, it is perhaps not surprising that this is the case. When cultural values favor collective goals, as is often the case in American Indian communities, strong cultural identity might not be expected to relate to individual academic success. Our findings seem to suggest that efforts to increase achievement will be more successful if they focus on self-esteem, personal resources, and the reduction of problem behaviors rather than on fostering strong cultural identity. However, we suggest that rather than definitely answering questions about the nature of the link between culture and academic success, our findings point to the need to refine the questions. More comprehensive operationalizations of culture and the meaning of culture in adolescents' lives are necessary before we can truly understand its relationship to student achievement. Conceptual model of self-esteem (SE), American Indian identity (AIID), personal resources, problem behaviors, and academic success. Final model of relationships of self-esteem (SE) and American Indian identity (AIID) trajectories with personal resources, problem behaviors, and academic achievement. Means and standard deviations (s.d.) of model variables. Growth model, measurement model, and Wave 1 covariance estimates (standardized, followed by unstandardized in italics) from full model (Model 1). .04",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": ".006",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "1 Quadratic models were also tested, but linear models provided a better fit for both SE and AIID.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "These indicators were set to 1.0 to define the scale of their respective latent factors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2",
+                "sec_num": null
+            },
+            {
+                "text": "Cultur Divers Ethnic Minor Psychol. Author manuscript; available in PMC 2010 January 1.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2",
+                "sec_num": null
+            },
+            {
+                "text": "Predictors of growth trajectories, personal resources, and problem behaviors; estimates from full model (Model 1). Parameter estimates are standardized, followed by unstandardized (in italics). Parameter estimates (standardized and unstandardized) for predictors of academic success in with and without resources and problems as mediators (Models 1 and 2, respectively). Comparison of alternative models. ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Table 3",
+                "sec_num": null
+            },
+            {
+                "text": "The Voices of Indian Teens Project Team included Alberta Arviso, Anna Bar\u00f3n, Sonia Bauduy, Jan Beals, Morton Beiser, Rhonda Dick, Norman Dinges, Candace Fleming, Shelly Hubing, Spero Manson, Philip May, Christina Mitchell, James Moran, Natalie Murphy, Doug Novins, Terry O'Nell, Joan Piasecki, William Sack, and Phil Somervell.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Cultur Divers Ethnic Minor Psychol. Author manuscript; available in PMC 2010 January 1.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "&Sample size adjustedCultur Divers Ethnic Minor Psychol. Author manuscript; available in PMC 2010 January 1.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "The study was supported by the National Institute on Alcohol Abuse and Alcoholism grant R01 AA08474 (Manson, PI); analyses were supported by NIAAA grant AA015365 (Mitchell, PI) and by a grant from the National Institute on Drug Abuse, R01 DA017803 (Beals, PI).The Voices of Indian Teens Project would not have been possible without the significant contributions of many people. The following interviewers, computer/data management and administrative staff supplied energy and enthusiasm for an often difficult job: Ida Sue Gray, Squeek Herman, Robert Martin, Roy Red Shirt, Donna Shangreaux, and Lorette",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgements",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "The relationship between values and social competence in early adolescence",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Allen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Weissberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hawkins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Developmental Psychology",
+                "volume": "25",
+                "issue": "",
+                "pages": "458--464",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Allen JP, Weissberg RP, Hawkins J. The relationship between values and social competence in early adolescence. Developmental Psychology 1989;25:458-464.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "An organizing framework for collective identity: Articulation and significance of multidimensionality",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Ashmore",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Deaux",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Mclaughlin-Volpe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Psychological Bulletin",
+                "volume": "130",
+                "issue": "",
+                "pages": "80--114",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ashmore RD, Deaux K, McLaughlin-Volpe T. An organizing framework for collective identity: Articulation and significance of multidimensionality. Psychological Bulletin 2004;130:80-114. [PubMed: 14717651]",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "A dispositional and situational assessment of children's coping: Testing alternative models of coping",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Ayers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Sandler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "West",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Roosa",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Journal of Personality",
+                "volume": "64",
+                "issue": "",
+                "pages": "923--958",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ayers TS, Sandler IN, West SG, Roosa MW. A dispositional and situational assessment of children's coping: Testing alternative models of coping. Journal of Personality 1996;64:923-958. [PubMed: 8956518]",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Predictors of early high school dropout: A test of five theories",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Battin-Pearson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Newcomb",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Abbott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Hill",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Catalano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Hawkins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Educational Psychology",
+                "volume": "92",
+                "issue": "",
+                "pages": "568--582",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Battin-Pearson S, Newcomb DL, Abbott RD, Hill KG, Catalano RF, Hawkins JD. Predictors of early high school dropout: A test of five theories. Journal of Educational Psychology 2000;92:568-582.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Does high self-esteem cause better performance, interpersonal success, happiness, or healthier lifestyles?",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Baumeister",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Campbell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Krueger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Vohs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Psychological Science in the Public Interest",
+                "volume": "4",
+                "issue": "1",
+                "pages": "1--44",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baumeister RF, Campbell JD, Krueger JI, Vohs KD. Does high self-esteem cause better performance, interpersonal success, happiness, or healthier lifestyles? Psychological Science in the Public Interest 2003;4(1):1-44.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Well-being: Positive development across the life course",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Bornstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Davidson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Keyes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Moore",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bornstein, MH.; Davidson, L.; Keyes, CL.; Moore, KA., editors. Well-being: Positive development across the life course. Mahwah, N.J.: Lawrence Erlbaum Associates; 2003.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Optimal distinctiveness, social identity, and self",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Brewer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "480--491",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brewer, MB. Optimal distinctiveness, social identity, and self. In: Leary, MR.; Tangney, JP., editors. Handbook of self and identity. New York: Guilford Press; 2003. p. 480-491.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Racial identity and academic attainment among African American adolescents",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Chavous",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Bernat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Schmeelk-Cone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Caldwell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Kohn-Wood",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Szimmerman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Child Development",
+                "volume": "74",
+                "issue": "4",
+                "pages": "1076--1090",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chavous TM, Bernat DH, Schmeelk-Cone K, Caldwell CH, Kohn-Wood L, SZimmerman MA. Racial identity and academic attainment among African American adolescents. Child Development 2003;74 (4):1076-1090. [PubMed: 12938705]",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Educational Testing Service; 1997. The ETS gender study: How males and females perform in educational settings",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Cole",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cole, NS. Princeton, NJ: Educational Testing Service; 1997. The ETS gender study: How males and females perform in educational settings.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Shades of Black: Diversity in African-American identity",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Cross",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cross, W. Shades of Black: Diversity in African-American identity. Philadelphia: Temple University Press; 1991.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "The happy personality: A meta-analysis of 137 personality traits and subjective well-being",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Deneve",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Cooper",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Psychological Bulletin",
+                "volume": "124",
+                "issue": "",
+                "pages": "197--229",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "DeNeve KM, Cooper H. The happy personality: A meta-analysis of 137 personality traits and subjective well-being. Psychological Bulletin 1998;124:197-229. [PubMed: 9747186]",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "A three-wave longitudinal study of selfevaluations during young adulthood",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Donnellan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Trzesniewski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Conger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Conger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Research in Personality",
+                "volume": "41",
+                "issue": "2",
+                "pages": "453--472",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Donnellan MB, Trzesniewski KH, Conger KJ, Conger RD. A three-wave longitudinal study of self- evaluations during young adulthood. Journal of Research in Personality 2007;41(2):453-472.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Low Self-Esteem Is Related to Aggression",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Donnellan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Trzesniewski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Robins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Moffitt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Caspi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Antisocial Behavior, and Delinquency",
+                "volume": "16",
+                "issue": "",
+                "pages": "328--335",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Donnellan MB, Trzesniewski KH, Robins RW, Moffitt TE, Caspi A. Low Self-Esteem Is Related to Aggression, Antisocial Behavior, and Delinquency 2005;Vol. 16:328-335.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Syndrome of problem behavior in adolescence: A replication",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Donovan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Jessor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Costa",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Consulting and Clinical Psychology",
+                "volume": "56",
+                "issue": "",
+                "pages": "762--765",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Donovan JE, Jessor R, Costa FM. Syndrome of problem behavior in adolescence: A replication. Journal of Consulting and Clinical Psychology 1988;56:762-765. [PubMed: 3192793]",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "The healthy pursuit of self-esteem: Comment on and alternative to the Crocker and Park (2004) formulation",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Flay",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Psychological Bulletin",
+                "volume": "130",
+                "issue": "3",
+                "pages": "415--420",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "DuBois DL, Flay BR. The healthy pursuit of self-esteem: Comment on and alternative to the Crocker and Park (2004) formulation. Psychological Bulletin 2004;130(3):415-420. [PubMed: 15122926]",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Factors influencing the pursuit of educational opportunities in American Indian students",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Fore",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Chaney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "American Indian and Alaska Native Mental Health Research",
+                "volume": "8",
+                "issue": "2",
+                "pages": "50--59",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fore CL, Chaney JM. Factors influencing the pursuit of educational opportunities in American Indian students. American Indian and Alaska Native Mental Health Research 1998;8(2):50-59.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Ethnic identity and the academic adjustment of adolescents from Mexican, Chinese, and European backgrounds",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Fuligni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Witkow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Garcia",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Developmental Psychology",
+                "volume": "41",
+                "issue": "5",
+                "pages": "799--811",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fuligni AJ, Witkow M, Garcia C. Ethnic identity and the academic adjustment of adolescents from Mexican, Chinese, and European backgrounds. Developmental Psychology 2005;41(5):799-811. [PubMed: 16173876]",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Depression, self-esteem, and anger in emerging adulthood: Sevenyear trajectories",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Galambos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Barker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Krahn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Developmental Psychology",
+                "volume": "42",
+                "issue": "2",
+                "pages": "350--365",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Galambos NL, Barker ET, Krahn HJ. Depression, self-esteem, and anger in emerging adulthood: Seven- year trajectories. Developmental Psychology 2006;42(2):350-365. [PubMed: 16569173]",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Understanding academic attitudes and achievement in Mexican-origina youths: Ethnic identity, other-group orientation, and fatalism",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Guzman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Santiago-Rivera",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Haase",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Cultural Diversity and Ethnic Minority Psychology",
+                "volume": "11",
+                "issue": "1",
+                "pages": "3--15",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guzman MR, Santiago-Rivera AL, Haase RF. Understanding academic attitudes and achievement in Mexican-origina youths: Ethnic identity, other-group orientation, and fatalism. Cultural Diversity and Ethnic Minority Psychology 2005;11(1):3-15. [PubMed: 15727491]",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Changing self-esteem in children and adolescents: A meta-analytical review",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Haney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Durlak",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Clinical Child Psychology",
+                "volume": "27",
+                "issue": "4",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Haney P, Durlak JA. Changing self-esteem in children and adolescents: A meta-analytical review. Journal of Clinical Child Psychology 1998;27(4):423. [PubMed: 9866079]",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "The relationship between self and achievement/performance measures",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Hansford",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hattie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Review of Educational Research",
+                "volume": "52",
+                "issue": "",
+                "pages": "123--142",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hansford BC, Hattie JA. The relationship between self and achievement/performance measures. Review of Educational Research 1982;52:123-142.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "From Learning to Read to Reading to Learn: Substantial and Stable Genetic Influence",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Harlaar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dale",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Plomin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Child Development",
+                "volume": "78",
+                "issue": "1",
+                "pages": "116--131",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harlaar N, Dale PS, Plomin R. From Learning to Read to Reading to Learn: Substantial and Stable Genetic Influence. Child Development 2007;78(1):116-131. [PubMed: 17328696]",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "New York: Guilford; 1999. Henze RC, Vanett L. To walk in two worlds: or more? Challenging a common metaphor of Native education",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Anthropology & Education Quarterly",
+                "volume": "24",
+                "issue": "2",
+                "pages": "116--134",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. The construction of the self: A developmental perspective. New York: Guilford; 1999. Henze RC, Vanett L. To walk in two worlds: or more? Challenging a common metaphor of Native education. Anthropology & Education Quarterly 1993;24(2):116-134.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Self-esteem in early adolescence: The identification and prediction of contrasting longitudinal trajectories",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hirsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "20",
+                "issue": "",
+                "pages": "53--72",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hirsch BJ, DuBois DL. Self-esteem in early adolescence: The identification and prediction of contrasting longitudinal trajectories. Journal of Youth and Adolescence 1991;20:53-72.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Handbook of self and identity",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hogg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "462--479",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hogg, MA. Social identity. In: Leary, MR.; Tangney, JP., editors. Handbook of self and identity. New York: Guilford Press; 2003. p. 462-479.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Genetic and environmental influences on academic achievement Trajectories during adolescence",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Mcgue",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Iacono",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Developmental Psychology",
+                "volume": "42",
+                "issue": "3",
+                "pages": "514--532",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Johnson W, McGue M, Iacono WG. Genetic and environmental influences on academic achievement Trajectories during adolescence. Developmental Psychology 2006;42(3):514-532. [PubMed: 16756442]",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Examining the role of self-esteem in psychological functioning and well-being",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Koch",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "260--266",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Koch, EJ. Examining the role of self-esteem in psychological functioning and well-being. In: Kernis, MH., editor. Self-esteem issues and answers: A sourcebook of current perspectives. New York: Psychology Press; 2006. p. 260-266.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Testing descriptive hypotheses regarding sex differences in the development of conduct problems and delinquency",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Lahey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Van Hulle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Waldman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Rodgers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "'onofrio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pedlow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Abnormal Child Psychology",
+                "volume": "34",
+                "issue": "5",
+                "pages": "737--755",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lahey BB, Van Hulle CA, Waldman ID, Rodgers JL, D'Onofrio BM, Pedlow S, et al. Testing descriptive hypotheses regarding sex differences in the development of conduct problems and delinquency. Journal of Abnormal Child Psychology 2006;34(5):737-755. [PubMed: 17033935]",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "The geneticenvironmental etiology of cognitive school readiness and later academic achievement in early childhood",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Lemelin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Boivin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Forget-Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Dionne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Seguin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Brendgen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Child Development",
+                "volume": "78",
+                "issue": "6",
+                "pages": "1855--1869",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lemelin J, Boivin M, Forget-Dubois N, Dionne G, Seguin JR, Brendgen M, et al. The genetic- environmental etiology of cognitive school readiness and later academic achievement in early childhood. Child Development 2007;78(6):1855-1869. [PubMed: 17988326]",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Developmental Assets and Asset-Building Communities: Implications for Research, Policy, and Practice",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Lerner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Benson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lerner, RL.; Benson, PL. Developmental Assets and Asset-Building Communities: Implications for Research, Policy, and Practice. New York: Kluwer Academic/Plenum; 2003.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Designing, refining, and implementation of longitudinal research with American Indian communities: The Voices of Indian Teens Project",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mitchell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mitchell, CM. Designing, refining, and implementation of longitudinal research with American Indian communities: The Voices of Indian Teens Project. Denver, CO: University of Colorado Health Sciences Center; 1993.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "A Longitudinal Study of the Self-Concept and Experiential Components of Self-Worth and Affect Across Adolescence",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Moneta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Schneider",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Csikszentmihalyi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Applied Developmental Science",
+                "volume": "5",
+                "issue": "3",
+                "pages": "125--142",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Moneta GB, Schneider B, Csikszentmihalyi M. A Longitudinal Study of the Self-Concept and Experiential Components of Self-Worth and Affect Across Adolescence. Applied Developmental Science 2001;5(3):125-142.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "American Indian college students: An exploration into resiliency factors revealed through personal stories",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Montgomery",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Miville",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Winterowd",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Jeffries",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Baysden",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Cultural Diversity and Ethnic Minority Psychology",
+                "volume": "6",
+                "issue": "4",
+                "pages": "387--398",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Montgomery D, Miville ML, Winterowd C, Jeffries B, Baysden MF. American Indian college students: An exploration into resiliency factors revealed through personal stories. Cultural Diversity and Ethnic Minority Psychology 2000;6(4):387-398. [PubMed: 11089314]",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Mplus User's Guide",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Muthen & Muthen",
+                "volume": "4",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth\u00e9n, LK.; Muth\u00e9n, BO. Mplus User's Guide. Vol. 4th ed. Los Angeles, CA: Muthen & Muthen; 1998- 2006.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Mediational and deviance theories of late high school failure: Process roles of structural strains, academic competence, and general versus specific problem behaviors",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Newcomb",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Abbott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Catalano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Hawkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Battin-Pearson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hill",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Consulting and Clinical Psychology",
+                "volume": "49",
+                "issue": "2",
+                "pages": "172--186",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Newcomb MD, Abbott RD, Catalano RF, Hawkins JD, Battin-Pearson S, Hill K. Mediational and deviance theories of late high school failure: Process roles of structural strains, academic competence, and general versus specific problem behaviors. Journal of Consulting and Clinical Psychology 2002;49(2):172-186.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Gender differences in risk factors and consequences for alcohol use and problems",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nolen-Hoeksema",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Clinical Psychology Review",
+                "volume": "24",
+                "issue": "8",
+                "pages": "981--1010",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nolen-Hoeksema S. Gender differences in risk factors and consequences for alcohol use and problems. Clinical Psychology Review 2004;24(8):981-1010. [PubMed: 15533281]",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Well-being: The foundations of hedonic psychology",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nolen-Hoeksema",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Rusting",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "330--350",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nolen-Hoeksema, S.; Rusting, CL. Gender differences in well-being. In: Kahneman, D.; Diener, E.; Schwarz, N., editors. Well-being: The foundations of hedonic psychology. New York: Russell Sage Foundation; 1999. p. 330-350.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Orthogonal cultural identification theory: The cultural identification of minority adolescents",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Oetting",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Beauvais",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "The International Journal of the Addictions",
+                "volume": "25",
+                "issue": "",
+                "pages": "655--685",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Oetting ER, Beauvais F. Orthogonal cultural identification theory: The cultural identification of minority adolescents. The International Journal of the Addictions 1990-91;25:655-685. [PubMed: 2101397]",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Can racial identity be promotive of academic efficacy?",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Oyserman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Harrison",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Bybee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "International Journal of Behavioral Development",
+                "volume": "25",
+                "issue": "4",
+                "pages": "379--385",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Oyserman D, Harrison K, Bybee D. Can racial identity be promotive of academic efficacy? International Journal of Behavioral Development 2001;25(4):379-385.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "The structure of coping",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Pearlin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Schooler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "Journal of Health and Social Behavior",
+                "volume": "19",
+                "issue": "",
+                "pages": "2--21",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pearlin LI, Schooler C. The structure of coping. Journal of Health and Social Behavior 1978;19:2-21. [PubMed: 649936]",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "An exploratory study of cultural identity and culture-based educational programs for urban American Indian students",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Powers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Urban Education",
+                "volume": "41",
+                "issue": "",
+                "pages": "20--49",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Powers KM. An exploratory study of cultural identity and culture-based educational programs for urban American Indian students. Urban Education 2006;41:20-49.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "The changing influences of self-worth and peer deviance on drinking problems in urban American Indian adolescents",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Radin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Walker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Walker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Marlatt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Larimer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Psychology of Addictive Behaviors",
+                "volume": "20",
+                "issue": "2",
+                "pages": "161--170",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Radin SM, Walker PS, Walker RD, Marlatt GA, Larimer M. The changing influences of self-worth and peer deviance on drinking problems in urban American Indian adolescents. Psychology of Addictive Behaviors 2006;20(2):161-170. [PubMed: 16784362]",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Society and the adolescent self-image",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Rosenberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1965,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenberg, M. Society and the adolescent self-image. Princeton, N.J.: Princeton University Press; 1965.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Self-esteem and adolescent problems: Modeling reciprocal effects",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Rosenberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Schooler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Schoenbach",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "American Sociological Review",
+                "volume": "54",
+                "issue": "",
+                "pages": "1004--1018",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenberg M, Schooler C, Schoenbach C. Self-esteem and adolescent problems: Modeling reciprocal effects. American Sociological Review 1989;54:1004-1018.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Contribution of developmental assets to the prediction of thriving among adolescents",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Scales",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Benson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Leffert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Blyth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Applied Developmental Science",
+                "volume": "4",
+                "issue": "1",
+                "pages": "27--46",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Scales PC, Benson PL, Leffert N, Blyth DA. Contribution of developmental assets to the prediction of thriving among adolescents. Applied Developmental Science 2000;4(1):27-46.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "A revised version of the Diagnostic Interview Schedule for Children",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Shaffer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Schwab-Stone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Fisher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Davies",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Piacentini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Gioia",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Results of a field trial and proposals for a new instrument",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shaffer, D.; Schwab-Stone, M.; Fisher, P.; Davies, M.; Piacentini, J.; Gioia, P. A revised version of the Diagnostic Interview Schedule for Children (DISC-R): Results of a field trial and proposals for a new instrument (DISC-2). National Institute of Mental Health; 1988.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Do people's self-views matter? Self-conept and selfesteem in everyday life",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Swann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Chang-",
+                        "middle": [],
+                        "last": "Schneider",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Mcclarty",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "American Psychologist",
+                "volume": "62",
+                "issue": "2",
+                "pages": "84--94",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Swann WB Jr, Chang-Schneider C, McClarty KL. Do people's self-views matter? Self-conept and self- esteem in everyday life. American Psychologist 2007;62(2):84-94. [PubMed: 17324034]",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Self-esteem issues and answers: A sourcebook of current perspectives",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Tice",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Gailliot",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "412--419",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tice, DM.; Gailliot, M. How self-esteem relates to the ills and triumphs of society. In: Kernis, MH., editor. Self-esteem issues and answers: A sourcebook of current perspectives. New York: Psychology Press; 2006. p. 412-419.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Mental health: Culture, race, and ethnicity-A supplement to Mental health: A report of the Surgeon General (SMA01-3613)",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Substance Abuse and Mental Health Services Administration, Center for Mental Health Services",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "U. S. Department of Health and Human Services. Mental health: Culture, race, and ethnicity-A supplement to Mental health: A report of the Surgeon General (SMA01-3613). Rockville, MD: U.S. Department of Health and Human Services, Substance Abuse and Mental Health Services Administration, Center for Mental Health Services; 2001.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Bureau of the Census",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "U.S. Bureau of the Census. Educational Attainment: 2000. Washington, D.C.: U.S. Bureau of the Census; 2003.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Traditional culture and academic success among American Indian children in the upper midwest",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Whitbeck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Hoyt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Stubben",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Lafromboise",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of American Indian Education",
+                "volume": "40",
+                "issue": "2",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Whitbeck LB, Hoyt DR, Stubben JD, LaFromboise T. Traditional culture and academic success among American Indian children in the upper midwest. Journal of American Indian Education 2001;40(2)",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Developmental trajectories of personal and collective self-concept among American Indian adolescents. Child Development (Special Issue on Race",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Whitesell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mitchell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Kaufman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Spicer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Culture, and Ethnicity)",
+                "volume": "77",
+                "issue": "",
+                "pages": "1487--1503",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Whitesell NR, Mitchell CM, Kaufman CE, Spicer P. Developmental trajectories of personal and collective self-concept among American Indian adolescents. Child Development (Special Issue on Race, Culture, and Ethnicity) 2006;77:1487-1503.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "The influence of ethnic discrimination and ethnic identificaiton on African American adolescents' school and socioemotional adjustment",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Wong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Sameroff",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Personality",
+                "volume": "71",
+                "issue": "6",
+                "pages": "1197--1232",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wong CA, Eccles JS, Sameroff A. The influence of ethnic discrimination and ethnic identificaiton on African American adolescents' school and socioemotional adjustment. Journal of Personality 2003;71 (6):1197-1232. [PubMed: 14633063]",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "We would also like to acknowledge the contributions of the Scientific Advisory Group",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Yazzie",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yazzie. We would also like to acknowledge the contributions of the Scientific Advisory Group: Fred Beauvais, Robert Roberts, Joseph Trimble, and Jay Turner. Finally, we thank the participants who so generously answered all the questions asked of them.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Figure 1."
+            },
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Figure 2."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td>.82</td><td>.74</td><td/><td/><td/><td/><td/><td/><td>.76</td><td>.70</td><td>.98</td><td>.84</td></tr><tr><td>3.97</td><td>3.08</td><td/><td/><td/><td/><td/><td/><td>2.59</td><td>3.26</td><td>3.71</td><td>2.26</td></tr><tr><td>.81</td><td>.74</td><td>1.01</td><td>.72</td><td>.71</td><td>.95</td><td>.67</td><td>1.38</td><td/><td/><td/><td/></tr><tr><td>3.89</td><td>3.06</td><td>2.53</td><td>3.59</td><td>2.73</td><td>1.86</td><td>1.44</td><td>1.16</td><td/><td/><td/><td/></tr><tr><td>.83</td><td>.73</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>3.87</td><td>3.01</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>.80</td><td>.74</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>3.90</td><td>3.01</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>.77</td><td>.73</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>3.85</td><td>2.96</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>.74</td><td>.73</td><td>.95</td><td>.71</td><td>.67</td><td>.88</td><td>.61</td><td>1.02</td><td>.78</td><td>.77</td><td>.95</td><td>.83</td></tr><tr><td>3.90</td><td>2.98</td><td>2.57</td><td>3.65</td><td>2.74</td><td>1.78</td><td>1.38</td><td>.46</td><td>2.58</td><td>3.28</td><td>3.77</td><td>2.38</td></tr><tr><td>1-5</td><td>1-4</td><td>1-4</td><td>1-5</td><td>1-4</td><td>1-5</td><td>1-4</td><td>0-4</td><td>1-4</td><td>1-5</td><td>1-5</td><td>1-3</td></tr><tr><td>Self-esteem</td><td>American Indian identity</td><td>Coping</td><td>Internal locus of control</td><td>Competencies</td><td>Antisocial behavior</td><td>Alcohol problems</td><td>Drug use</td><td>Self-reported grades</td><td>Perceived performance</td><td>Attitude toward school</td><td>Educational goals</td></tr></table>",
+                "type_str": "table",
+                "text": "Cultur Divers Ethnic Minor Psychol. Author manuscript; available in PMC 2010 January 1."
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF3": {
+                "num": null,
+                "content": "<table><tr><td>.72</td><td>.67</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>1.0 2</td><td>.94</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>Wave 6</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>.39***</td><td>.43***</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>.71***</td><td>.72***</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>.87</td><td colspan=\"2\">1.0 2</td><td>.70</td><td/><td>1.0 2</td><td>.75</td><td>1.54</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>Wave 5</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>.45***</td><td/><td>.73***</td><td>.52***</td><td/><td>.67***</td><td>.71***</td><td>.69***</td></tr><tr><td>.62</td><td>.63</td><td>3.91</td><td>\u2212.04</td><td>\u2212.01</td><td>2.73 .000</td><td>\u2212.003 .06</td><td>\u2212.02</td><td>\u2212.03 \u2212.01</td><td>\u2212.004 .03</td><td>.03 \u2212.004</td><td>\u2212.03</td><td>.003 .01</td><td>\u2212.08</td><td>.01</td><td/><td>.18</td><td>\u2212.06</td><td colspan=\"3\">.71 \u2212.05 1.0 2</td><td>.75</td><td/><td>1.0 2</td><td>.76</td><td>.96</td><td>1.0 2</td><td>.94</td></tr><tr><td colspan=\"10\">Waves 1-6 Attitude toward school Cultur Divers Ethnic Minor Psychol. Waves 1-6 Growth Model Self-esteem (SE) Intercept 6.31*** Linear slope 1 \u2212.32 American Indian identity (AIID) Intercept 4.10*** Linear slope 1 \u2212.04 SE slope on SE intercept .09 AIID slope on AIID intercept \u2212.26*** SE slope on AIID intercept \u2212.02 Educational goals Wave 1 Wave 1 Covariates Female with Resources Problems Academic Success Pueblo tribe with Resources Problems .40*** .48*** \u2212.02 \u2212.001 .21*** \u2212.05 .18***</td><td>AIID slope on SE intercept .23 Academic Success \u2212.02</td><td>SE intercept with AIID intercept \u2212.16 Southwest tribe with</td><td>SE slope with AIID slope .33*** Resources .03</td><td>Problems \u2212.30***</td><td>Wave 1 Academic Success .02</td><td>Academic Success with</td><td>Measurement Model Resources .57***</td><td>Resources Problems \u2212.18***</td><td colspan=\"2\">Competencies .39*** Resources with Problems \u2212.19***</td><td>Locus of control .73***</td><td>Coping .58***</td><td>Problems</td><td>Antisocial behavior .63***</td><td>Alcohol problems .69***</td><td>Drug use .50***</td><td>Academic Success</td><td>Grades .79***</td><td>Social comparison .75***</td></tr></table>",
+                "type_str": "table",
+                "text": "Author manuscript; available in PMC 2010 January 1."
+            },
+            "TABREF5": {
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF7": {
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table",
+                "text": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,3108 @@
+{
+    "paper_id": "Friedel_2010",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:04:21.858565Z"
+    },
+    "title": "Changes in Efficacy Beliefs in Mathematics Across the Transition to Middle School: Examining the Effects of Perceived Teacher and Parent Goal Emphases",
+    "authors": [
+        {
+            "first": "Jeanne",
+            "middle": [
+                "M"
+            ],
+            "last": "Friedel",
+            "suffix": "",
+            "affiliation": {},
+            "email": "jfriedel@umich.edu"
+        },
+        {
+            "first": "Kai",
+            "middle": [
+                "S"
+            ],
+            "last": "Cortina",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Julianne",
+            "middle": [
+                "C"
+            ],
+            "last": "Turner",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Carol",
+            "middle": [],
+            "last": "Midgley",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This study examined the effects of change in teacher goal emphases on students' efficacy beliefs in mathematics across the transition to middle school. The sample (N \u03ed 929) included primarily White (65%) and Black (27%) students, and approximately one third received free or reduced-fee lunch. Analyses grouped children by cross-classification of teachers (N \u03ed 53 elementary and N \u03ed 34 middle school teachers). On average, students' efficacy beliefs remained stable and relatively high across the transition. Compared with their elementary school teacher, children reported declines in both perceived teacher mastery and performance goal emphases in middle school. A cross-classified hierarchical linear model was used to estimate the effects of perceived teacher and parent goal emphases during 6th and 7th grades on changes in students' efficacy beliefs. An increase in self-efficacy beliefs from elementary to middle school was predicted by an increase in group-level perceptions of teachers' mastery goal emphasis, even after controlling for parents' goal emphases. These findings underscore the important role that both teachers' and parents' goal emphases play as children develop a sense of efficacy in mathematics.",
+    "pdf_parse": {
+        "paper_id": "Friedel_2010",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "This study examined the effects of change in teacher goal emphases on students' efficacy beliefs in mathematics across the transition to middle school. The sample (N \u03ed 929) included primarily White (65%) and Black (27%) students, and approximately one third received free or reduced-fee lunch. Analyses grouped children by cross-classification of teachers (N \u03ed 53 elementary and N \u03ed 34 middle school teachers). On average, students' efficacy beliefs remained stable and relatively high across the transition. Compared with their elementary school teacher, children reported declines in both perceived teacher mastery and performance goal emphases in middle school. A cross-classified hierarchical linear model was used to estimate the effects of perceived teacher and parent goal emphases during 6th and 7th grades on changes in students' efficacy beliefs. An increase in self-efficacy beliefs from elementary to middle school was predicted by an increase in group-level perceptions of teachers' mastery goal emphasis, even after controlling for parents' goal emphases. These findings underscore the important role that both teachers' and parents' goal emphases play as children develop a sense of efficacy in mathematics.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Fifteen years ago, researchers studying grade level transitions in the middle years of childhood noted that a majority of children were experiencing declines in motivation and achievement, which seemed to coincide with a misfit between students' needs and characteristics of the learning environment (for reviews, see Eccles & Midgley, 1989; Wigfield, Eccles, Schiefele, Roeser, & Davis-Kean, 2006) . Since that time, several studies have supported this assertion by demonstrating a link between such declines and students' perceptions of the learning environment as characterized by the goals teachers emphasize (E. M. Anderman & Midgley, 1997; Lau & Nie, 2008; Midgley, Anderman, & Hicks, 1995; Pintrich, 2000b; Young, 1997) . Some have suggested that the goals children perceive teachers to emphasize can ameliorate the declines typically experienced as children transition to higher grade levels (Gutman, 2006; Meece, Anderman, & Anderman, 2006; Urdan & Midgley, 2003) . Thus far, studies have considered students' perceptions to be individual-level predictors of change and have not taken into account the effect of a specific classroom context on a group or class of children, either before or after the transition to middle school. In addition, these studies have not taken into account the effect of students' perceptions of goals emphasized by parents during this important transition. In the present study we build on prior research by examining changes in goal structure reported by groups of children who encounter the same teachers as they transition from sixth to seventh grade mathematics classes, enabling hierarchical modeling of group-and individual-level effects on changes in one key motivational outcome, self-efficacy. These relations are examined, taking into account the goals children themselves espouse across this transition as well as students' perceptions of the goals parents emphasized for them in mathematics. Miller, 1997; Schunk, 1995) . Self-efficacy differs slightly from perceived ability or competence (\"I am good at math\"), in that it is a measure of students' anticipated success given their current capabilities (\"I can master the skills in math this year if I try\"). It has been related to higher levels of learning, persistence, effort and achievement (Bong & Skaalvik, 2003; Schunk, 1996) , even after accounting for previous achievement and cognitive skills.",
+                "cite_spans": [
+                    {
+                        "start": 318,
+                        "end": 341,
+                        "text": "Eccles & Midgley, 1989;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 342,
+                        "end": 398,
+                        "text": "Wigfield, Eccles, Schiefele, Roeser, & Davis-Kean, 2006)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 620,
+                        "end": 645,
+                        "text": "Anderman & Midgley, 1997;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 646,
+                        "end": 662,
+                        "text": "Lau & Nie, 2008;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 663,
+                        "end": 696,
+                        "text": "Midgley, Anderman, & Hicks, 1995;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 697,
+                        "end": 713,
+                        "text": "Pintrich, 2000b;",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 714,
+                        "end": 726,
+                        "text": "Young, 1997)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 900,
+                        "end": 914,
+                        "text": "(Gutman, 2006;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 915,
+                        "end": 949,
+                        "text": "Meece, Anderman, & Anderman, 2006;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 950,
+                        "end": 972,
+                        "text": "Urdan & Midgley, 2003)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 1942,
+                        "end": 1955,
+                        "text": "Miller, 1997;",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 1956,
+                        "end": 1969,
+                        "text": "Schunk, 1995)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 2295,
+                        "end": 2318,
+                        "text": "(Bong & Skaalvik, 2003;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 2319,
+                        "end": 2332,
+                        "text": "Schunk, 1996)",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Prior research has documented a developmental decline in efficacy over time and in particular across school transitions (E. M. Anderman & Midgley, 1997; Eccles & Midgley, 1989) . This decline has been associated with changes in classroom contexts as children transition to higher grade levels and, in particular, to middle and high school environments (Harter, Whitesell, & Kowalski, 1992; . Researchers have proposed that this decline is due to students' reevaluation of perceived academic competence or efficacy in light of changing peer groups and an increasing emphasis on relative ability at higher grade levels (Jindal-Snape & Miller, 2008; Wentzel, 1999) .",
+                "cite_spans": [
+                    {
+                        "start": 127,
+                        "end": 152,
+                        "text": "Anderman & Midgley, 1997;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 153,
+                        "end": 176,
+                        "text": "Eccles & Midgley, 1989)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 352,
+                        "end": 389,
+                        "text": "(Harter, Whitesell, & Kowalski, 1992;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 617,
+                        "end": 646,
+                        "text": "(Jindal-Snape & Miller, 2008;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 647,
+                        "end": 661,
+                        "text": "Wentzel, 1999)",
+                        "ref_id": "BIBREF55"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "This study focuses on sources of students' efficacy for learning mathematics. Bandura (1997) discussed four sources of selfefficacy, including personal experience, vicarious experience, social persuasions or judgments of others, and the somatic or emotional state experienced in anticipation of a task. Subsequent research has supported Bandura's work, suggesting that internal factors such as attributional beliefs (Schunk, 1995) , mental health (Roeser, Eccles, & Freedman-Doan, 1999) , motivational goals, and strategy use (Middleton, Kaplan, & Midgley, 2004) correlate with perceived competence or efficacy.",
+                "cite_spans": [
+                    {
+                        "start": 78,
+                        "end": 92,
+                        "text": "Bandura (1997)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 416,
+                        "end": 430,
+                        "text": "(Schunk, 1995)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 447,
+                        "end": 486,
+                        "text": "(Roeser, Eccles, & Freedman-Doan, 1999)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 526,
+                        "end": 562,
+                        "text": "(Middleton, Kaplan, & Midgley, 2004)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The present study examines students' perceptions of the sociocultural contexts in which they engage in learning mathematics, including the extent to which children perceive an emphasis on learning and understanding (e.g., mastery goals) and relative ability (e.g., performance goals). The achievement goals emphasized by teachers in the classroom context and by parents in the home context influence the kinds of learning experiences children have, how the results of such experiences are interpreted by self and other, and consequently, the extent to which children may feel efficacious when asked to engage in mathematics tasks.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "This study is based on a goal theory model of achievement motivation proposed by Maehr and colleagues (E. M. Anderman & Maehr, 1994; Kaplan & Maehr, 2002) in which students' efficacy beliefs are predicted directly by students' personal achievement goals, which in turn are embedded in multiple sociocultural contexts and are a product of prior and current experiences in those contexts. This social cognitive model of achievement motivation stresses the crucial role played by the psychological environments children experience as they engage in academic tasks (see Figure 1 for a schematic representation of the model).",
+                "cite_spans": [
+                    {
+                        "start": 81,
+                        "end": 132,
+                        "text": "Maehr and colleagues (E. M. Anderman & Maehr, 1994;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 133,
+                        "end": 154,
+                        "text": "Kaplan & Maehr, 2002)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 566,
+                        "end": 574,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Achievement Goal Theory and the Classroom Context",
+                "sec_num": null
+            },
+            {
+                "text": "Achievement goals have been described as cognitive representations of both students' reasons for engaging in academic tasks and the standards that will be used to judge or evaluate their performance (Maehr, 1984; Pintrich, 2000a) . For example, a child may engage in a task to develop ability or understanding, judging performance in terms of improvement over time or progress relative to an absolute standard. This reflects a task or mastery orientation. Children may also strive to demonstrate their ability at a task or the ease with which they can do a task, often focusing on performance relative to others as a measure of success. This has been termed an ability or performance orientation. Research suggests that different goals may be pursued simultaneously and that people may orient themselves toward different goals in different subject areas or skill domains (E. M. Anderman & Midgley, 1997; Bong, 2001; Pintrich, 2000b) .",
+                "cite_spans": [
+                    {
+                        "start": 199,
+                        "end": 212,
+                        "text": "(Maehr, 1984;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 213,
+                        "end": 229,
+                        "text": "Pintrich, 2000a)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 878,
+                        "end": 903,
+                        "text": "Anderman & Midgley, 1997;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 904,
+                        "end": 915,
+                        "text": "Bong, 2001;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 916,
+                        "end": 932,
+                        "text": "Pintrich, 2000b)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement Goal Theory and the Classroom Context",
+                "sec_num": null
+            },
+            {
+                "text": "Although the Maehr model (E. M. Anderman & Maehr, 1994; Kaplan & Maehr, 2002) does not specify a particular context in which the theory applies, goal theory research in education has primarily examined the psychological environment created or perceived within specific classroom or school settings. Goal theorists posit that children are sensitive to the emphasis teachers place on different types of achievement goals as expressed through instructional practice and the ways in which teachers respond to students' accomplishments or shortcomings. For example, research has demonstrated that the nature of classroom tasks (cooperative vs. competitive) and the types of evaluation or recognition strategies (focus on individual improvement vs. ability relative to others) Figure 1 . Schematic representation of achievement goal theory model proposed by E. M. Anderman and Maehr, 1994. employed by teachers relate to the achievement goal structure children perceive (Ames, 1992; Epstein, 1988; Patrick, Anderman, Ryan, Edelin, & Midgley, 2001; Urdan & Schoenfelder, 2006) and the personal goals children espouse (Ames, 1992; E. M. Anderman & Midgley, 1997; Church, Elliot, & Gable, 2001; Meece, 1991; Middleton et al., 2004; Patrick et al., 2001; Turner, Thorpe, & Meyer, 1998) .",
+                "cite_spans": [
+                    {
+                        "start": 32,
+                        "end": 55,
+                        "text": "Anderman & Maehr, 1994;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 56,
+                        "end": 77,
+                        "text": "Kaplan & Maehr, 2002)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 858,
+                        "end": 883,
+                        "text": "Anderman and Maehr, 1994.",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 964,
+                        "end": 976,
+                        "text": "(Ames, 1992;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 977,
+                        "end": 991,
+                        "text": "Epstein, 1988;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 992,
+                        "end": 1041,
+                        "text": "Patrick, Anderman, Ryan, Edelin, & Midgley, 2001;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1042,
+                        "end": 1069,
+                        "text": "Urdan & Schoenfelder, 2006)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 1110,
+                        "end": 1122,
+                        "text": "(Ames, 1992;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1123,
+                        "end": 1154,
+                        "text": "E. M. Anderman & Midgley, 1997;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1155,
+                        "end": 1185,
+                        "text": "Church, Elliot, & Gable, 2001;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1186,
+                        "end": 1198,
+                        "text": "Meece, 1991;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1199,
+                        "end": 1222,
+                        "text": "Middleton et al., 2004;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1223,
+                        "end": 1244,
+                        "text": "Patrick et al., 2001;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1245,
+                        "end": 1275,
+                        "text": "Turner, Thorpe, & Meyer, 1998)",
+                        "ref_id": "BIBREF51"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 771,
+                        "end": 779,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Achievement Goal Theory and the Classroom Context",
+                "sec_num": null
+            },
+            {
+                "text": "Relevant to the present study, the next step of the Maehr model highlights the proposed relation between achievement goals and self-efficacy. Specifically, mastery goal orientations consistently have been related to higher levels of academic self-efficacy (Kaplan & Midgley, 1999; Middleton & Midgley, 1997; Midgley & Urdan, 1995; Roeser, Midgley, & Urdan, 1996; Schunk, 1996) , whereas the relation between performance goals and self-efficacy has been less consistent. Some studies have found performance goals to be negatively associated with self-efficacy (Schunk, 1996) , and others have found a positive relation (Wolters, Yu, & Pintrich, 1996) .",
+                "cite_spans": [
+                    {
+                        "start": 256,
+                        "end": 280,
+                        "text": "(Kaplan & Midgley, 1999;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 281,
+                        "end": 307,
+                        "text": "Middleton & Midgley, 1997;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 308,
+                        "end": 330,
+                        "text": "Midgley & Urdan, 1995;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 331,
+                        "end": 362,
+                        "text": "Roeser, Midgley, & Urdan, 1996;",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 363,
+                        "end": 376,
+                        "text": "Schunk, 1996)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 559,
+                        "end": 573,
+                        "text": "(Schunk, 1996)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 618,
+                        "end": 649,
+                        "text": "(Wolters, Yu, & Pintrich, 1996)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement Goal Theory and the Classroom Context",
+                "sec_num": null
+            },
+            {
+                "text": "Several studies have examined longitudinally the relations between perceived classroom goal structure, personal goal orientations, and self-efficacy across grade level transitions (E. M. Anderman & Midgley, 1997; Urdan & Midgley, 2003) or have explored developmental differences in perceived school goal structure, personal achievement goals, and efficacy beliefs between elementary and middle school students in mathematics . found that middle school children and teachers perceived greater emphasis within the school on performance goals and less on task or mastery goals than did elementary school students and teachers, which paralleled findings for personal goals endorsed by students and teachers across the two settings. In addition, they found support for the mediating role of students' personal goal orientations in the relation between perceived school task goals and personal efficacy beliefs, which were positively related in both elementary and middle school samples. For the middle school sample, personal performance goal orientation also was positively related to self-efficacy beliefs.",
+                "cite_spans": [
+                    {
+                        "start": 187,
+                        "end": 212,
+                        "text": "Anderman & Midgley, 1997;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 213,
+                        "end": 235,
+                        "text": "Urdan & Midgley, 2003)",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement Goal Theory and the Classroom Context",
+                "sec_num": null
+            },
+            {
+                "text": "Subsequently, E. M. Anderman and Midgley (1997) examined changes in students' individual perceptions of classroom goal structure, personal goal orientation, and perceived academic competence (a precursor to the self-efficacy assessment used in the present study) as children transitioned to middle school. Children reported a decline in perceived mastery goal structure and personal mastery goals across the transition and an increase in perceived performance goal structure. Concurrently, they reported a decline in levels of perceived academic competence across the transition. Urdan and Midgley (2003) tested whether changes in students' individual perceptions of classroom goal structures predicted changes in personal goal orientations, self-efficacy beliefs, and affect in mathematics across the transition to middle school and within middle school across grade levels. They used change scores to group children according to whether they perceived an increase, no change, or a decrease in each type of goal structure at each time point and analyzed differences across groups in personal goals, efficacy beliefs, and affect. They found stronger and more consistent relations between changes in perceived mastery goal structure and student outcomes, relative to changes in perceived performance goal structure, and that decreases in mastery goal structure predicted more dramatic changes in outcomes than did increases. Whereas children who perceived a decrease or no change in mastery goal structure reported declines in personal mastery orientation, self-efficacy, affect, and achievement, these declines were not evident for children who perceived an increase in mastery goal structure. These findings highlight the importance of continuity in mastery goal emphasis across grade level transitions and provide further support for the link between the goals children perceive teachers to emphasize in the classroom and adaptive motivational outcomes, including self-efficacy in mathematics.",
+                "cite_spans": [
+                    {
+                        "start": 20,
+                        "end": 47,
+                        "text": "Anderman and Midgley (1997)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 580,
+                        "end": 604,
+                        "text": "Urdan and Midgley (2003)",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement Goal Theory and the Classroom Context",
+                "sec_num": null
+            },
+            {
+                "text": "These studies increased our understanding of how students' personal perceptions of the classroom context relate to changes (both increases and declines) in motivation across grade level transitions. However, they did not assess the extent to which individual change in efficacy was accounted for by classroomlevel differences in the goals children perceived teachers to emphasize, either prior to or following a grade level transition. Do children who experience the same teachers across the transition report similar changes in their self-efficacy beliefs, as a function of the goals they perceive teachers to emphasize? Thus we examine changes in students' reports of self-efficacy in mathematics, taking into account group-level perceptions of goals emphasized by teachers before and after the transition from sixth to seventh grade.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement Goal Theory and the Classroom Context",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to students' experiences with teachers in the classroom context, students' interactions with parents likewise influence their achievement-related beliefs and behaviors. Parents are an important source of academic advice, encouragement, and assistance for many children. Educational research has supported the general conclusion that parent involvement in its many and varied forms is an important factor in promoting achievement (e.g., Booth & Dunn, 1996; Henderson, 1987; Henderson & Mapp, 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 448,
+                        "end": 467,
+                        "text": "Booth & Dunn, 1996;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 468,
+                        "end": 484,
+                        "text": "Henderson, 1987;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 485,
+                        "end": 508,
+                        "text": "Henderson & Mapp, 2002)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement Goals Emphasized in Family Contexts",
+                "sec_num": null
+            },
+            {
+                "text": "Several recent studies have examined the relevance of parent beliefs and behaviors, including the goals parents emphasize, to the goal orientations and ability beliefs children espouse. Friedel, Cortina, Turner, and Midgley (2007) reported that students' perceptions of the goals parents emphasized for them, in addition to goals emphasized by teachers, predicted personal goal orientation. Further, personal mastery goals mediated the relation between perceived emphases (both parent and teacher) on mastery goals and students' academic self-efficacy for mathematics. The relation between perceived parent and personal goals at different stages of development was recently examined by Gonida, Klosseoglou, and Voulala (2007) . The data presented further support the notion that the relation between perceived goals and outcomes is mediated by students' personal goal orientations. In addition, the authors noted that older students (11th grade) tended to perceive slightly lower levels of parent support for mastery goals than younger (junior high and ninth grade) students.",
+                "cite_spans": [
+                    {
+                        "start": 186,
+                        "end": 230,
+                        "text": "Friedel, Cortina, Turner, and Midgley (2007)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 686,
+                        "end": 725,
+                        "text": "Gonida, Klosseoglou, and Voulala (2007)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement Goals Emphasized in Family Contexts",
+                "sec_num": null
+            },
+            {
+                "text": "Additional lines of research suggest a link between parenting style and emotional support or encouragement to the achievement goals children espouse (Gonzalez, Holbein, & Quilter, 2002; Grolnick, Ryan, & Deci, 1991; Turner et al., 2002; Wentzel, 1998) , as well as students' behaviors during learning tasks (Hokoda & Fincham, 1995) . Children who experience high levels of support and encouragement from parents are more likely to espouse mastery goals themselves and tend to demonstrate more persistence and effort during difficult learning tasks (Hokoda & Fincham, 1995) . Pomerantz, Ng, and Wang (2006) found that mothers' use of mastery-oriented practices during homework sessions predicted students' positive emotional states; for children with initially low self-competence, it was positively related to students' personal endorsement of mastery goals and to an increase in selfcompetence during the school year. Conversely, research has suggested that children who perceive that parental disappointment in their performance or lack of confidence in their ability to succeed exhibit helpless or work-avoidant patterns of behavior (Heyman, Dweck, & Cain, 1992; Hokoda & Fincham, 1995) .",
+                "cite_spans": [
+                    {
+                        "start": 149,
+                        "end": 185,
+                        "text": "(Gonzalez, Holbein, & Quilter, 2002;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 186,
+                        "end": 215,
+                        "text": "Grolnick, Ryan, & Deci, 1991;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 216,
+                        "end": 236,
+                        "text": "Turner et al., 2002;",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 237,
+                        "end": 251,
+                        "text": "Wentzel, 1998)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 307,
+                        "end": 331,
+                        "text": "(Hokoda & Fincham, 1995)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 548,
+                        "end": 572,
+                        "text": "(Hokoda & Fincham, 1995)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 575,
+                        "end": 605,
+                        "text": "Pomerantz, Ng, and Wang (2006)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1136,
+                        "end": 1165,
+                        "text": "(Heyman, Dweck, & Cain, 1992;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1166,
+                        "end": 1189,
+                        "text": "Hokoda & Fincham, 1995)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement Goals Emphasized in Family Contexts",
+                "sec_num": null
+            },
+            {
+                "text": "Prior research regarding the relation between parents' goaloriented practices and students' motivation and achievement has typically been studied apart from the experiences children have in the classroom context. To bridge this gap, we examined the effect of changes in group-level perceptions of the goals math teachers emphasize on changes in students' self-efficacy beliefs across the transition from sixth to seventh grade, taking into account students' perceptions of the goals parents emphasized for them in mathematics as well as the personal goals children adopted before and after the transition.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and Hypotheses",
+                "sec_num": null
+            },
+            {
+                "text": "Patterns of individual-level change in each of the variables assessed across the transition from sixth to seventh grade were examined first. On the basis of findings reported by E. M. Anderman and and , we expected efficacy beliefs to decline across the transition as children (presumably) experienced increasingly difficult mathematics. In addition, personal mastery orientations and perceptions of teacher and parent emphasis on mastery goals were expected to decline between sixth and seventh grades, and personal and perceived emphases on performance goals were expected to increase between sixth and seventh grades.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and Hypotheses",
+                "sec_num": null
+            },
+            {
+                "text": "We further examined change over time in self-efficacy beliefs, anticipating that such beliefs would vary as a function of grouplevel perceptions of teacher goal emphases. On the basis of prior research (Urdan & Midgley, 2003) and in accord with the model proposed by Maehr and colleagues (E. M. Anderman & Maehr, 1994; Kaplan & Maehr, 2002) , we expected an increase in grouplevel perceptions of teacher mastery goal emphasis to result in an increase in self-efficacy beliefs, after taking into account students' personal goal orientations and the goals they perceived parents to emphasize. On the basis of the proposed model, we anticipated that perceived parent mastery goal emphasis would predict changes in self-efficacy across the transition from sixth to seventh grade but that both parent and teacher effects on change in efficacy beliefs would be small relative to the effects of students' personal goal orientations.",
+                "cite_spans": [
+                    {
+                        "start": 202,
+                        "end": 225,
+                        "text": "(Urdan & Midgley, 2003)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 295,
+                        "end": 318,
+                        "text": "Anderman & Maehr, 1994;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 319,
+                        "end": 340,
+                        "text": "Kaplan & Maehr, 2002)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and Hypotheses",
+                "sec_num": null
+            },
+            {
+                "text": "This study used data collected during a larger longitudinal study that focused on the relation between the learning environment in mathematics classrooms and students' beliefs and behaviors in mathematics during the transition from elementary to middle school (Turner et al., 2002) . Data were collected at four time points during the fall and spring of students' sixth and seventh grade school years. During this time, all students transitioned from elementary to middle school. Participants were from four ethnically and economically diverse school districts in three Midwestern states. Parental permission was required for participation, and 86% of eligible children received permission in their sixth grade year. Of those children, 97% completed the first wave survey (N \u03ed 1293).",
+                "cite_spans": [
+                    {
+                        "start": 260,
+                        "end": 281,
+                        "text": "(Turner et al., 2002)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Of the children who participated during Wave 1, 72% had complete efficacy data at all four waves of the survey (N \u03ed 929). Girls made up 53% of the sample at each wave, and the majority of students were White (65%) or Black (27%). A small number of Hispanic children (4%) were present in the sample as well. In school districts in which data were made available regarding students' economic background (two of the four districts; N \u03ed 433), 34% of participating children qualified for free or reducedprice school lunch.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Across the four participating districts, children were assessed in 26 elementary schools (four districts across three states) and followed as they transitioned to nine middle schools. During elementary school, children were in mathematics classrooms of 53 teachers (65 math classes); during middle school, children transitioned into the classrooms of 34 middle school mathematics teachers (110 math classes). Two of the districts (District 2 and District 3) were relatively close in proximity, and in a few cases children transitioned from an elementary school in one district to a middle school in the other district.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Participants",
+                "sec_num": null
+            },
+            {
+                "text": "The majority of children who were grouped together in elementary school transitioned together to the same middle school. In middle school, children often were separated into different math classes, although many experienced the same teacher (but during different class periods). Dispersion of students in this way made it difficult to assess the group-level effects of transitioning from one specific class into another; however, the number of children typically transitioning from one elementary school teacher to the same middle school teacher was large enough in this sample to allow for hierarchical analyses. Therefore, in the present study, children were grouped according to the specific combination of teachers they had in elementary and middle school. Note that in this case, children were nested across a specific pair of teachers rather than within one teacher (a cross-classified grouping). In the supplemental material, tables show the number of children within each district who experienced specific combinations of elementary and middle school math teachers. In the four school districts it is common that students of one elementary school class transition into two or three different middle school math classes. Therefore, the vast majority of students move as small groups into the new learning environment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Trained research assistants administered surveys to children during math class. A research assistant read each item aloud while children followed along and responded. The survey took approximately 45 min to administer. Prior to survey administration, the research assistants told children that the survey was about the reasons they do their math work and how they feel about their math class. Sample items were presented and discussed to acclimate children to the use of numeric scales to respond to items on the survey. Children were encouraged to ask questions about items they did not understand. Children were informed that the information they provided would be confidential, and surveys were removed from the school building immediately following administration.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Survey Administration",
+                "sec_num": null
+            },
+            {
+                "text": "At each time point, each child completed a survey consisting of 124 -140 items, which represented approximately 26 different constructs. Seven constructs were used for the present study, including students' academic self-efficacy in mathematics, their personal mastery and performance-approach goal orientations in mathematics, and their perceptions of the goals their math teacher emphasized in the classroom, as well as students' perceptions of their parents' goals for them in math. Children answered each item on a 5-point Likert-type response scale (1 \u03ed not at all true, 3 \u03ed somewhat true, and 5 \u03ed very true). Therefore, a high average score indicated endorsement of the construct.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Academic self-efficacy in mathematics. Children responded to five items from the Patterns of Adaptive Learning Survey (PALS; assessing their self-efficacy for learning and doing mathematics. These items measured the extent to which a child anticipated that he or she could master the skills taught in math and do the work in math class. Reliabilities for this scale ranged from .81 to .89 across the four waves of data.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Perceived teacher goal emphases. Items assessing students' perceptions of their math teacher's emphasis on mastery and performance goals (or \"goal structure\") in the classroom were adapted from the PALS . These items have been developed over the course of several years, and reliability and validity have been documented in several studies involving young adolescents (L. H. Anderman & Anderman, 1999; Kaplan, Gheen, & Midgley, 2002; Midgley et al., 1998; Patrick et al., 2001) . Items in the mastery goal emphasis scale (six items) assessed perceptions of the teacher's emphasis on understanding and exploring math concepts, finding new ways to solve math problems, rewarding effort, and learning from mistakes. Items measuring perceptions of the teacher's emphasis on performance goals (five items; two approach-oriented, two avoid-oriented, and one neutral item) assessed whether the teacher calls attention to children who receive the highest grades and test scores, tells the class who is doing well or poorly in math, and provides children with information about how they do compared to other children. Reliabilities for these scales were acceptable at each wave, ranging from .72 to .84 for perceived mastery emphasis and from .68 to .84 for perceived performance emphasis.",
+                "cite_spans": [
+                    {
+                        "start": 375,
+                        "end": 401,
+                        "text": "Anderman & Anderman, 1999;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 402,
+                        "end": 433,
+                        "text": "Kaplan, Gheen, & Midgley, 2002;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 434,
+                        "end": 455,
+                        "text": "Midgley et al., 1998;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 456,
+                        "end": 477,
+                        "text": "Patrick et al., 2001)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Perceived parent goal emphases. Survey items assessing students' perceptions of parent mastery and performance goal emphases were developed based in part on items used in an earlier study (Hruda & Midgley, 1997) . Items were worded to reflect students' perceptions of what parents would like them to do or to avoid doing, as well as achievement behaviors that are typically associated with goal orientations, such as striving to learn from mistakes or to outperform others. The items do not assess students' perceptions of specific behaviors or words parents employ to emphasize goals but rely on students' interpretation of their interactions with parents as they reinforce students' mastery-or performance-oriented behaviors and values.",
+                "cite_spans": [
+                    {
+                        "start": 188,
+                        "end": 211,
+                        "text": "(Hruda & Midgley, 1997)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Items administered in surveys at Waves 2, 3, and 4 of data collection were used for the present study (i.e., during spring of sixth grade and fall and spring of seventh grade). Scales were reconstructed at each wave to incorporate newly administered items, as our goal was to improve this relatively new scale. In the present study, items were selected that appeared at each wave, and longitudinal scales were constructed. Although the mastery scale in particular had lower reliability than the original scales at each wave, the longitudinal scales are highly correlated with the original scales (r \u03ed .70 to .80 for mastery, and r \u03ed .79 to 1.00 for performance). The longitudinal scale assessing perceptions of parent mastery emphasis included two items that asked children whether their parents wanted them to understand math concepts and attempt challenging problems. The scale assessing perceptions of parent performance-approach emphasis included three items. These asked children whether parents would be pleased if they could demonstrate superior ability compared with others and whether parents were concerned with the child's performance relative to others. Original scale alphas ranged from .58 (mastery) to .75 (performance).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "A cross-sectional examination of these data employed exploratory factor analytic techniques to determine that items assessing perceived teacher and parent goal emphases formed different factors (for details, see Friedel et al., 2007) . Confirmatory factor analysis using an independent sample validated the distinction between four factors (two goal emphases for teachers and parents). The latent factors that constitute teacher and parents emphasis on performance were moderately correlated (r \u03ed .34), as were the latent factors for task orientation (r \u03ed .48). As Friedel et al. (2007) demonstrated using structural equation modeling, perceived teacher and parent goal emphases explain unique parts of the variance in students' goal orientation and differ in their prediction of students' academic self-efficacy and coping strategies.",
+                "cite_spans": [
+                    {
+                        "start": 212,
+                        "end": 233,
+                        "text": "Friedel et al., 2007)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 565,
+                        "end": 586,
+                        "text": "Friedel et al. (2007)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Personal achievement goal orientations. These items were also adapted from the PALS . Items in the mastery goal orientation scale assessed whether children felt it was important to understand math, learn as much math as possible, and improve their math skills (five items). Items reflecting personal performance-approach goal orientation assessed whether children's goals included looking smart in math compared to others, showing others that they are good at doing math, and demonstrating that math is easy for them (five items). Reliability statistics were acceptable and ranged from .82 to .89 for personal mastery goal orientation and from .86 to .90 for personal performance goal orientation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Analysis of data proceeded in two phases. First, using repeated measures analysis of variance (ANOVAs), we examined changes in each of the variables assessed across the four time points as children progressed through sixth and seventh grade in mathematics. Gender (0 \u03ed male, 1 \u03ed female) and ethnicity (1 \u03ed White, 2 \u03ed Hispanic, 3 \u03ed Black) were included in each analysis to examine within-and between-subject variance. For variables that demonstrated significant change over time, paired sample t tests were used to assess statistical significance of mean differences across the four time points. The second phase of analysis involved the estimation of a cross-classified three-level hierarchical linear model to examine the relationship between group-level perceptions of teacher mastery and performance goal emphases and changes in self-efficacy beliefs across the transition from sixth to seventh grade, taking into account the personal goals children espoused and their perceptions of the goals parents emphasized for them in mathematics. Note that N for each analysis varied slightly due to missing data, attributable to child absence on the day surveys were administered or to items children skipped by choice during survey administration.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Repeated measures ANOVAs indicated that average levels of self-efficacy beliefs in mathematics across individuals did not change over time (Huynh-Feldt F \u03ed 0.35, p \u03ed .775). Similarly, students' perceptions of parents' mastery goal emphasis did not show significant change across the four time points (Huynh-Feldt F \u03ed 1.26, p \u03ed .284). All other variables changed significantly over time (see Table 1 ). Individual-and group-level means and standard deviations for each variable are shown in Table 2 . Figures 2A and  2B show graphical representations of these trends. In addition to the main effect of time, between-subject effects of gender and ethnicity emerged for several variables.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 391,
+                        "end": 398,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 490,
+                        "end": 497,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 500,
+                        "end": 518,
+                        "text": "Figures 2A and  2B",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ANOVAs",
+                "sec_num": null
+            },
+            {
+                "text": "Students' perceptions of teacher mastery emphasis declined within both sixth and seventh grade time periods (Huynh-Feldt F \u03ed 11.08, p \u03ed .000). This trend varied with respect to students' ethnicity (F \u03ed 8.91, p \u03ed .000). Specifically, Hispanic students reported stronger within-year declines than did White or Black students (see supplemental materials, Figure 1) . Concurrently, students' personal mastery goal orientations declined within each school year (Huynh-Feldt F \u03ed 10.94, p \u03ed .000) but increased significantly across the transition from sixth to seventh grade, effectively recovering from the decline experienced during sixth grade. This trend varied slightly with respect to students' ethnicity (F \u03ed 13.94, p \u03ed .000). White children reported weaker endorsement of personal mastery goals than did Black and Hispanic children in fall of sixth grade but remained stable, whereas children in other groups reported a decline during this period (see supplemental materials, Figure 2 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 352,
+                        "end": 361,
+                        "text": "Figure 1)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 977,
+                        "end": 985,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ANOVAs",
+                "sec_num": null
+            },
+            {
+                "text": "Students' reports of teacher emphasis on performance goals changed significantly across the four time points (Huynh-Feldt F \u03ed 53.28, p \u03ed .000), although in an unexpected way. Children perceived that teacher emphasis on performance goals remained stable during sixth grade, and that seventh grade teachers empha-sized performance goals less than sixth grade teachers, a change of more than half a standard deviation (see Table 3 ). Although seventh grade perceptions increased by spring, they did not surpass sixth grade levels. Thus, middle school math teachers in this sample were perceived as less performance-focused than elementary school math teachers. Concurrently, students' performance goal orientations declined steadily from fall of sixth grade to spring of seventh grade (Huynh-Feldt F \u03ed 31.09, p \u03ed .000) and varied with respect to gender. On average, boys reported higher levels of performance goal orientations than did girls (see supplemental materials, Figure 3) .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 420,
+                        "end": 427,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 968,
+                        "end": 977,
+                        "text": "Figure 3)",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ANOVAs",
+                "sec_num": null
+            },
+            {
+                "text": "Only three waves of data regarding perceived parent goal emphases were collected. On average, perceived parent mastery goal emphasis was consistently high across the transition to seventh grade and from fall to spring of seventh grade. Conversely, perceived parent performance goal emphasis declined across the transition to seventh grade, but increased more dramatically during seventh grade (Huynh-Feldt F \u03ed 31.22, p \u03ed .000), resulting in an overall increase across the transition. This trend varied by gender, with boys perceiving greater emphasis than girls across all time points (see supplemental materials, Figure 4 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 614,
+                        "end": 622,
+                        "text": "Figure 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ANOVAs",
+                "sec_num": null
+            },
+            {
+                "text": "To investigate the relation between changes in students' perceptions of goals emphasized by teachers and changes in efficacy beliefs across the transition from sixth to seventh grade, we estimated a three-level HLM (Raudenbush & Bryk, 2002) . Level 1 represented the repeated measurement model of self-efficacy beliefs over time. Level 2 modeled individual-level variance in average levels of self-efficacy and change over time (within years from fall to spring, and between years at fall and spring time points). Level 3 modeled cross-classified group-level variance in self-efficacy beliefs, as described below.",
+                "cite_spans": [
+                    {
+                        "start": 215,
+                        "end": 240,
+                        "text": "(Raudenbush & Bryk, 2002)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hierarchical Linear Model (HLM)",
+                "sec_num": null
+            },
+            {
+                "text": "Level 1 of the model estimated self-efficacy beliefs as a function of time. Two variables captured within-year variability (fall time points to spring time points) and between-year variability (sixth grade time points to seventh grade time points). Contrast codes were used to capture change in efficacy beliefs systematically (within-year change fall time points \u03ed -1, spring time points \u03ed \u03e91; between-year change sixth grade time points \u03ed -1, seventh grade time points \u03ed \u03e91). In other words, these variables captured average change within years between fall and spring and between sixth and seventh grade. Level 2 estimated the effects of individual level variables on average efficacy beliefs across the four time points, and on the change in efficacy beliefs over time (fall to spring, and sixth to seventh grade). Variables included at this level were race, gender, personal goal orientations (spring sixth and fall seventh grade), and perceived parent goal emphases (mastery and performance; spring sixth and fall seventh grade). These variables were included to control for demographic effects as well as potential changes in parents' goal emphases as alternative explanations for change in students' efficacy beliefs. For ease of interpretation, all variables included at Levels 2 and 3 were standardized using z scores. Spring sixth and fall seventh grade time points were chosen to capture changes that occurred closest in time to the transition period.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hierarchical Linear Model (HLM)",
+                "sec_num": null
+            },
+            {
+                "text": "Level 3 estimated the critical effects of classroom level variables on average levels of efficacy and average change in efficacy beliefs fall over time. Variables included at this level were perceived teacher emphasis on mastery and performance goals during spring of sixth grade and fall of seventh grade. Note that our hypotheses related to the particular combination of sixth and seventh grade classroom experiences. Classroom level variables were computed by aggregating perceptions of students who were members of a class at a given time point. Level 3 groups were then formed by cross-classifying children on the basis of their combination of sixth and seventh grade math teachers, resulting in 182 groups. Of these groups, only those composed of three or more students were included in the analysis (N \u03ed 126 level three groups). In the supplemental materials, tables show the distribution of children across elementary and middle school teacher combinations in each district. HLM model specifications for each level of the final model appear in the appendix. First a preliminary model was specified in which Levels 2 and 3 were unconditional (i.e., no predictor variables were included at the higher levels). This model indicated that change in selfefficacy varied significantly between sixth and seventh grade, but not within grades. In other words, variance in self-efficacy trends was found between sixth and seventh grade time points, but not within school years (fall to spring). To reduce the number of iterations for the maximum likelihood algorithm, we fixed variance for the fall-spring contrast to zero, which had negligible effects on the estimation of other critical variables. From the same model, interclass correlation coefficients were calculated for variance in average levels of efficacy and change in efficacy from sixth to seventh grade time points, to estimate the variance explained by individual and group level factors. Overall, the final model accounted for 26% of the variance in average levels of self-efficacy and explained 52% of the variance in change in self-efficacy beliefs across the transition to seventh grade. Variance in average levels of self-efficacy was attributable to both within-person (47%) and between-person (52%) factors. Less than 2% of the variance in average levels of self-efficacy was between groups. However, 12% variance in the change in efficacy from sixth to seventh grade was between groups. Table 4 shows all fixed effects estimated by the HLM. Average levels of efficacy (left panel) were predicted significantly by gender, personal goals, and perceived parent goal emphases. Specifically, girls on average reported lower levels of efficacy than did boys (b \u03ed -16); and students with stronger mastery goal orientations in spring of sixth grade and/or fall of seventh grade felt significantly more self-efficient in math (b \u03ed .22, p \u03ed .000, and b \u03ed .15, p \u03ed .000, respectively). In addition, parents' mastery goal emphasis had a positive effect on students' average self-efficacy levels (b \u03ed .14, p \u03ed .000, spring sixth grade; and b \u03ed .05, p \u03ed .01, fall seventh grade). Parents' performance goal emphasis showed the expected negative trend but was only significant for the spring of sixth grade (b \u03ed -.05, p \u03ed .03).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 2457,
+                        "end": 2464,
+                        "text": "Table 4",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Hierarchical Linear Model (HLM)",
+                "sec_num": null
+            },
+            {
+                "text": "M (SD) M (SD) M (SD) M (SD) M (SD) M (SD) M (SD) M (SD)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hierarchical Linear Model (HLM)",
+                "sec_num": null
+            },
+            {
+                "text": "With the exception of gender, the same variables also affected the change over time in the predicted way. Students' mastery goal orientation was associated with change over time in efficacy beliefs with a negative coefficient for the sixth grade measure and a positive coefficient for the seventh grade measure (b \u03ed -.11, p \u03ed .000, and b \u03ed .10, p \u03ed .000, respectively). This reflects a negative correlation between intercept and slope (r \u03ed -.25) which corresponds with the reduced variance in the efficacy measure observed in the fall of Grade 7 compared with spring of Grade 6 (see Table  2 ). It also means that when children in a group reported an increase in personal mastery orientation, they also reported an increase in self-efficacy. In addition, students' self-efficacy beliefs in math tended to show a greater increase if parents' goal emphasis was lower in Grade 6 (b \u03ed -.05, p \u03ed .000).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 583,
+                        "end": 591,
+                        "text": "Table  2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Hierarchical Linear Model (HLM)",
+                "sec_num": null
+            },
+            {
+                "text": "Students' perceptions of teacher goal emphases across the transition from sixth to seventh grade were also significant predictors of students' efficacy beliefs. Confirming the hypothesis that a perceived increase in teacher's mastery goal emphasis following the transition to seventh grade would result in higher self-efficacy beliefs, the level of mastery goal emphasis of the sixth grade teacher was negatively related (b \u03ed -.05, p \u03ed .000), whereas the mastery goal emphasis of the seventh grade teacher was positively related to self-efficacy (b \u03ed .05, p \u03ed .000). The opposite signs underscore the predicted contrast effect. Specifically, when children transitioned into the seventh grade classrooms of a teacher they perceived to emphasize mastery goals more than a previous teacher, they reported an increase in self-efficacy at the group level, irrespective of their personal goals and perceived parent goal emphases.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hierarchical Linear Model (HLM)",
+                "sec_num": null
+            },
+            {
+                "text": "The main purpose of this study was to analyze the impact of school transition on students' self-efficacy beliefs through the lens of change in classroom context, taking into consideration students' perceptions of the home environment. More specifically, we sought to demonstrate that self-efficacy beliefs, as an indicator of psychological adjustment to the learning environment in school, are sensitive to perceived changes in the classroom goal structure across the transition. HLM was used to assess the relations between change in perceived teacher goal emphasis and change in efficacy beliefs over time, taking into account students' perceptions of the goals parents emphasized in spring of sixth and fall of seventh grades. The decline in self-efficacy beliefs was most pronounced for students who perceived a lower emphasis on mastery goals in their middle school classroom compared with their experience during sixth grade of elementary school. Students who perceived an increase in mastery goal emphasis across the transition showed a significant increase in their efficacy beliefs. These effects of perceived change in the goals teachers emphasized were independent of the effects of students' perception of their parents' goal emphases. Several empirical studies within the field of achievement motivation research have documented a decline in students' motivation and achievement as they transition into higher grade levels and have linked this trend to differences in the classroom or school environments children experience. Similar trends were expected to emerge for the sample studied. However, repeated measures analyses of variance indicated that although children perceived a decline in teacher mastery emphasis across time points, students' reports of parent mastery emphasis did not change over time and remained consistently high. In addition, whereas children perceived an increase in the emphasis parents placed on performance goals, they reported a decrease between sixth and seventh grade in teacher performance goal emphasis. Middle school math teachers, contrary to expectation, were perceived as less performancefocused than elementary school math teachers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Regarding child outcomes, personal performance goal orientations declined steadily over time, whereas mastery goal orientations declined within each school year but recovered between spring and fall-a trend explained in part by the strong relation between perceived parent mastery emphasis (which was consistently high) and students' personal mastery goals. Efficacy beliefs, which were strongly predicted by personal mastery orientation, did not change over time and remained relatively high.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Contrary to our hypothesis, average levels of self-efficacy across individuals did not change over time. However, as the HLM analysis revealed, efficacy beliefs do in fact vary as a function of both individual and group-level predictors, confirming results of prior studies (e.g., E. M. Anderman & Midgley, 1997; Turner et al., 2002; Urdan & Midgley, 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 287,
+                        "end": 312,
+                        "text": "Anderman & Midgley, 1997;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 313,
+                        "end": 333,
+                        "text": "Turner et al., 2002;",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 334,
+                        "end": 356,
+                        "text": "Urdan & Midgley, 2003)",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Although the findings regarding the mean level changes during the transition might be attributable to the specificity of the sample, the core findings of the cross-classified hierarchical model are robust on the basis of the reasonable assumption that the combination of sixth grade elementary school math teacher and seventh grade middle school math teacher is a random process with respect to the teachers' goal emphases. Accordingly, all possible patterns of change in the perceived goal emphases were observed. As Figure 3 illustrates, our findings support the theory that when students perceive a consistent emphasis on mastery goals during the transition, this serves to minimize the expected decline in the students' self-efficacy. The results of the HLM analysis also sug-gest that the teacher goal emphasis in seventh grade is of crucial importance. As late as seventh grade, teachers can substantially influence the efficacy beliefs of their students simply by placing emphasis on learning and improving understanding in mathematics, in effect ameliorating low self-efficacy beliefs that may have resulted from experiences in previous math classes. As the reverse pattern shows, the experience of a teacher who is perceived to emphasize mastery goals in sixth grade does not protect students from a dip in self-efficacy if the seventh grade teacher is perceived to be less mastery focused.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 518,
+                        "end": 526,
+                        "text": "Figure 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "It is noteworthy that this contrasting effect of teacher goal emphasis is not based on students' subjective individual perception of both teachers. In the cross-classified analysis, each teacher's goal emphases were calculated from the perceptions of all students who experienced the same teacher-to-teacher transition from sixth to seventh grade. This is very similar to the common operationalization in which data collected from students are aggregated to the classroom or school level as a measure of general climate.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "We have recently argued that parental goal emphases are important contextual factors predicting students' achievement goals. Therefore, we also included students' perceptions of parental goal emphases in the present study. Given the continuous relationship most students experience with a parent across school transitions, we expected parents' goal emphases to remain rather stable. Although this was true on a general level (higher stability coefficients for perceived parents' goal emphases than teacher emphases), it is interesting and in line with our prior cross-sectional analysis that perceived change in the goals parents emphasized across the transition precipitated change in self-efficacy beliefs in ways that Figure 3 . Contrast effects of change in perceived teacher mastery emphasis, taking perceptions of parent mastery emphasis into account and holding personal goal orientations and perceptions of performance goal emphases constant. Lines represent overall mean self-efficacy beliefs for a white male: \u2022 \u03ed above average perceptions of teacher and parent mastery goal emphases at all time points, holding other variables constant; y \u03ed below average group-level perceptions of teacher mastery emphasis during sixth grade and above average perceptions during seventh grade, holding other variables constant; \u00bb \u03ed average individual-and group-level perceptions of parent and teacher goal emphases at each time point; \u25ab \u03ed above average group-level perceptions of teacher mastery in sixth grade and below average perceptions during seventh grade, holding other variables constant; and OE \u03ed below average perceptions of teacher and parent mastery goal emphases at all time points, holding other variables constant.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 721,
+                        "end": 729,
+                        "text": "Figure 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "mirrored the effects observed as a result of perceived change in teacher goal emphases. However, different from the observed goal emphases of the teachers in which the information provided by classmates was pooled, information about the parents' goal emphasis was based solely on students' assessment of their parents and hence was prone to common-source biases. Prior studies increased our understanding of how students' personal perceptions of the classroom context relate to changes (both increases and declines) in motivation across grade level transitions (E. M. Anderman & Midgley, 1997; Urdan & Midgley, 2003) . However, they did not assess whether individual change in outcomes is accounted for by classroom-level differences in the goals that students as a group perceive teachers to emphasize, either prior to or following a grade level transition. Thus, a more general objective of the current study was to examine whether the achievement goals that children, as a group, perceived teachers to emphasize ameliorated the motivational declines typically experienced as children transition to higher grade levels, after taking personal goal orientation and perceptions of parent goal emphases into account. Although groups varied little with respect to average levels of efficacy reported across the four time points, they did vary with respect to how much efficacy changed over time. Cross-classified group membership explained 12% of the variance in change in efficacy from sixth to seventh grade. Consistent with the model proposed by Maehr and colleagues (E. M. Anderman & Maehr, 1994; Kaplan & Maehr, 2002) , changes in efficacy beliefs across the transition were predicted by changes in students' perceptions of parent mastery emphasis in sixth grade and at the group level by changes in teacher emphasis on mastery goals.",
+                "cite_spans": [
+                    {
+                        "start": 568,
+                        "end": 593,
+                        "text": "Anderman & Midgley, 1997;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 594,
+                        "end": 616,
+                        "text": "Urdan & Midgley, 2003)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 1546,
+                        "end": 1597,
+                        "text": "Maehr and colleagues (E. M. Anderman & Maehr, 1994;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1598,
+                        "end": 1619,
+                        "text": "Kaplan & Maehr, 2002)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Although not the primary focus of this study, the exploration of gender and ethnic differences provided additional new information regarding both students' perceptions of parents' goal emphases and change in students' perceptions and outcomes over time. As Friedel et al. (2007) reported for sixth graders, boys in this sample perceive greater emphasis from parents on performance goals than do girls across multiple time points and accordingly endorsed personal performance goals more highly. However, boys and girls did not differ with respect to perceptions or personal endorsement of mastery goals. Children from different ethnic backgrounds also did not differ with respect to the goals they perceived parents to emphasize, nor did changes in perceived parent goals vary by ethnicity. However, trend analyses suggested that average change in students' perceptions of teacher mastery goal emphases and personal mastery orientation varied across ethnic groups. Black students perceived greater teacher emphasis on mastery goals and endorsed personal mastery orientations more highly across the four time points than did Hispanic and White students.",
+                "cite_spans": [
+                    {
+                        "start": 254,
+                        "end": 278,
+                        "text": "As Friedel et al. (2007)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In spite of the differences by gender and ethnicity reported with respect to students' perceptions and outcomes, relations between the two as estimated using HLM did not differ by gender or ethnicity. These findings lend support to the model of relations proposed by Maehr and his colleagues (E. M. Anderman & Maehr, 1994; Kaplan & Maehr, 2002) and suggest that the model may be applicable to children despite slight individual differences in perceptions of context.",
+                "cite_spans": [
+                    {
+                        "start": 299,
+                        "end": 322,
+                        "text": "Anderman & Maehr, 1994;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 323,
+                        "end": 344,
+                        "text": "Kaplan & Maehr, 2002)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The study of students' collective experiences in classroom as well as family contexts over time represents an important step toward understanding the complex ways in which teachers-and parents-can support academic motivation. The findings highlighted above underscore the important role that both teachers and parents play as children develop a sense of efficacy in mathematics. The achievement goals that children perceive both in the classroom and in the home can support or undermine efficacy beliefs. Research must continue to examine individual-level as well as classroom-level effects of teacher and parent practices on students' achievement outcomes. The present study provided longitudinal support for an achievement goal theory model of motivation in which students' perceptions of the goals emphasized by both parents and teachers affect changes in their motivational beliefs across the transition from elementary to middle school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Wigfield, A., Eccles, J. S., Schiefele, U., Roeser, R. W., & Davis-Kean, P. (2006) . Development of achievement motivation. In W. Damon (Series Ed.) & N. Eisenberg (Ed.), Handbook of child psychology: Vol. 3. Social, emotional, and personality development (6th ed., pp. 933-1002) . New York, NY: Wiley. Wolters, C., Yu, S., & Pintrich, P. R. (1996) . The relation between goal orientation and students' motivational beliefs and self-regulated learning. Learning and Individual Differences, 8, 211-238. Young, A. (1997) . I think, therefore I'm motivated: The relations among cognitive strategy use, motivational orientation and classroom perceptions over time. Learning and Individual Differences, 9, .",
+                "cite_spans": [
+                    {
+                        "start": 14,
+                        "end": 82,
+                        "text": "Eccles, J. S., Schiefele, U., Roeser, R. W., & Davis-Kean, P. (2006)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 201,
+                        "end": 279,
+                        "text": "Vol. 3. Social, emotional, and personality development (6th ed., pp. 933-1002)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 324,
+                        "end": 348,
+                        "text": "& Pintrich, P. R. (1996)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 453,
+                        "end": 518,
+                        "text": "Learning and Individual Differences, 8, 211-238. Young, A. (1997)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 661,
+                        "end": 697,
+                        "text": "Learning and Individual Differences,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 698,
+                        "end": 700,
+                        "text": "9,",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Level 1",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "Y it \u03ed 0i \u03e9 1i \u0351Contrast_Fall_Spring\u0352 it \u03e9 2i \u0351Contrast_6th_7th\u0352 it \u03e9 \u03b5 it Y it \u03ed 0i \u03e9 1i\u0369 t\u03ed2 \u03e9 t\u03ed4 2 \u03ea t\u03ed1 \u03e9 t\u03ed3 2 \u036a it \u03e9 2i\u0369 t\u03ed3 \u03e9 t\u03ed4 2 \u03ea t\u03ed1 \u03e9 t\u03ed2 2 \u036a it \u03e9 \u03b5 it",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "Y it \u03ed Self-efficacy in mathematics for person i at time t. 0i \u03ed Self-efficacy, on average, for person i at fall of sixth grade.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "1i \u03ed Effect of time on efficacy between fall and spring time points.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "2i \u03ed Effect of time on efficacy between sixth and seventh grade time points.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "\u03b5 it \u03ed Standard deviation of person i at time t from estimated average efficacy. \u2424 00 \u03ed Expected mean self-efficacy across persons within groups at fall of sixth grade.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "\u2424 01 \u03ed Average effect of being female on average level of self-efficacy across persons within groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "\u2424 02 \u03ed Average effect of being Hispanic . . . \u2424 03 \u03ed Average effect of being Black . . . \u2424 04 \u03ed Average effect of spring sixth grade personal mastery goal orientation (GO) . . . \u2424 05 \u03ed Average effect of fall seventh grade personal mastery GO . . . \u2424 06 \u03ed Average effect of spring sixth grade personal performance GO . . . \u2424 07 \u03ed Average effect of fall seventh grade personal performance GO . . . \u2424 08 \u03ed Average effect of spring sixth grade parent mastery goal emphasis (GE) . . . \u2424 09 \u03ed Average effect of spring sixth grade parent performance GE . . . \u2424 010 \u03ed Average effect of fall seventh grade parent mastery GE . . . \u2424 011 \u03ed Average effect of fall seventh grade parent performance GE . . . r 0 \u03ed Standard deviation of a person from expected mean across persons within groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "\u2424 10 \u03ed Average effect of time (fall to spring) on level of efficacy across persons within groups (average change in efficacy from fall to spring across persons within groups).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "\u2424 20 \u03ed Average effect of time (sixth to seventh grade) on level of efficacy across persons within groups (average change in efficacy from sixth to seventh grade across persons within groups).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "\u2424 21 \u03ed Average effect of being female on average change in self-efficacy from sixth to seventh grade across persons within groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "\u2424 22 \u03ed Average effect of being Hispanic . . .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "HLM Model Specifications",
+                "sec_num": null
+            },
+            {
+                "text": "\u2424 23 \u03ed Average effect of being Black . . . \u2424 24 \u03ed Average effect of spring sixth grade personal mastery GO . . . \u2424 25 \u03ed Average effect of fall seventh grade personal mastery GO . . . \u2424 26 \u03ed Average effect of spring sixth grade personal performance GO . . . \u2424 27 \u03ed Average effect of fall seventh grade personal performance GO . . . \u2424 28 \u03ed Average effect of spring sixth grade parent mastery GE . . . \u2424 29 \u03ed Average effect of fall seventh grade parent mastery GE . . . \u2424 210 \u03ed Average effect of spring sixth grade parent performance GE . . . \u2424 211 \u03ed Average effect of fall seventh grade parent performance GE . . . r 2ij \u03ed Standard deviation of person i from expected mean change across persons within groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "(Appendix continues )",
+                "sec_num": null
+            },
+            {
+                "text": "Only modeled parameters are shown.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Level 3",
+                "sec_num": null
+            },
+            {
+                "text": "\u2424 00 \u03ed \u2425 000 \u03e9 \u2425 001 \u0351TeacherMastery t\u03ed2 \u0352 \u03e9 \u2425 002 \u0351TeacherMastery t\u03ed3 \u0352 \u03e9 \u2425 003 \u0351TeacherPerformance t\u03ed2 \u0352 \u03e9 \u2425 004 \u0351TeacherPerformance t\u03ed3 \u0352 \u03e9 00 \u2424 20 \u03ed \u2425 200 \u03e9 \u2425 201 \u0351TeacherMastery t\u03ed2 \u0352 \u03e9 \u2425 202 \u0351TeacherMastery t\u03ed3 \u0352 \u03e9 \u2425 203 \u0351TeacherPerformance t\u03ed2 \u0352 \u03e9 \u2425 204 \u0351TeacherPerformance t\u03ed3 \u0352 \u03e9 20 \u2425 000 \u03ed Expected mean self-efficacy across cross-classified groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Level 3",
+                "sec_num": null
+            },
+            {
+                "text": "\u2425 001 \u03ed Average effect of spring sixth grade teacher mastery GE on level of efficacy across groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Level 3",
+                "sec_num": null
+            },
+            {
+                "text": "\u2425 002 \u03ed Average effect of fall seventh grade teacher mastery GE . . . \u2425 003 \u03ed Average effect of spring sixth grade teacher performance GE . . . \u2425 004 \u03ed Average effect of fall seventh grade teacher performance GE . . . 00 \u03ed Standard deviation of group j from expected group mean efficacy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Level 3",
+                "sec_num": null
+            },
+            {
+                "text": "\u2425 200 \u03ed Expected group mean change in self-efficacy across cross-classified groups from sixth to seventh grade.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Level 3",
+                "sec_num": null
+            },
+            {
+                "text": "\u2425 201 \u03ed Average effect of spring sixth grade teacher mastery GE on average change in efficacy across groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Level 3",
+                "sec_num": null
+            },
+            {
+                "text": "\u2425 202 \u03ed Average effect of fall seventh grade teacher mastery GE . . . \u2425 203 \u03ed Average effect of spring sixth grade teacher performance GE . . . \u2425 204 \u03ed Average effect of fall seventh grade teacher performance GE . . . 20 \u03ed Standard deviation of the trajectory of group j from expected group level change in efficacy over time.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Level 3",
+                "sec_num": null
+            },
+            {
+                "text": "FRIEDEL, CORTINA, TURNER, AND MIDGLEY",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Received August 2, 2007 Revision received July 13, 2009Accepted July 16, 2009 \u2162",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Child performance 2.76 a (1.14) 2.42 a (1.15) 2.24 a (1.00) 2.09 a (1.04) 2.73 a,b (.48) 2.42 a (.52) 2.23 b (.46) 2.04 a",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": ",d (0.87) 4.29 a (.42) 4.09 a,b (.47) 4.34 b,c (.38) 4.13 c (.42) Child performance 2.76 a (1.14) 2.42 a (1.15) 2.24 a (1.00) 2.09 a (1.04) 2.73 a,b (.48) 2.42 a (.52) 2.23 b (.46) 2.04 a (.43) ,b,c (.43) 3.76 a (.50) 3.77 b (.38) 3.62 c (.47) Teacher performance 2.84 a (0.99) 2.92 b (1.13) 2.25 a,b (1.06) 2.48 a,b (1.13) 2.86 a (.64) 2.94 b (.80) 2.26 a,b (.61) 2.49 a,b (.56) (.47) 1.85 a (.38) 2.31 a (.47)",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Due to the number of t tests conducted, only tests different at p \u03fd .001 were considered significant. Matching superscripts ( a,b,c,d ) indicate cell means are significantly different from one another",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Note. Due to the number of t tests conducted, only tests different at p \u03fd .001 were considered significant. Matching superscripts ( a,b,c,d ) indicate cell means are significantly different from one another.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Classrooms: Goals, structures, and student motivation",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Ames",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of Educational Psychology",
+                "volume": "84",
+                "issue": "",
+                "pages": "261--271",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ames, C. (1992). Classrooms: Goals, structures, and student motivation. Journal of Educational Psychology, 84, 261-271.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Motivation and schooling in the middle grades",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Review of Educational Research",
+                "volume": "64",
+                "issue": "",
+                "pages": "287--309",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, E. M., & Maehr, M. L. (1994). Motivation and schooling in the middle grades. Review of Educational Research, 64, 287-309.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Changes in achievement goal orientations, perceived academic competence, and grades across the transition to middle-level schools",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "22",
+                "issue": "",
+                "pages": "269--298",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, E. M., & Midgley, C. (1997). Changes in achievement goal orientations, perceived academic competence, and grades across the transition to middle-level schools. Contemporary Educational Psychol- ogy, 22, 269 -298.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Social predictors of changes in students' achievement goal orientations",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "24",
+                "issue": "",
+                "pages": "21--37",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, L. H., & Anderman, E. M. (1999). Social predictors of changes in students' achievement goal orientations. Contemporary Educational Psychology, 24, 21-37.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Self-efficacy: The exercise of control",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bandura",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bandura, A. (1997). Self-efficacy: The exercise of control. New York, NY: Freeman.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Between-and within-domain relations of academic motivation among middle and high school students: Self-efficacy, taskvalue, and achievement goals",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "23--34",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bong, M. (2001). Between-and within-domain relations of academic motivation among middle and high school students: Self-efficacy, task- value, and achievement goals. Journal of Educational Psychology, 93, 23-34.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Academic self -concept and self efficacy: How different are they really?",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Educational Psychology Review",
+                "volume": "15",
+                "issue": "",
+                "pages": "1--40",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bong, M., & Skaalvik, E. M. (2003). Academic self -concept and self efficacy: How different are they really? Educational Psychology Review, 15, 1-40.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Perceptions of classroom environment, achievement goals, and achievement outcomes",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Booth",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Dunn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "43--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Booth, A., & Dunn, J. F. (1996). Family-school links: How do they affect educational outcomes? Mahwah, NJ: Erlbaum. Church, M. A., Elliot, A. J., & Gable, S. L. (2001). Perceptions of classroom environment, achievement goals, and achievement outcomes. Journal of Educational Psychology, 93, 43-54.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Stage-environment fit: Developmentally appropriate classrooms for young adolescents",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Midgley, C. (1989). Stage-environment fit: Developmen- tally appropriate classrooms for young adolescents. In C. Ames & R.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Research on motivation in education",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Ames",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "3",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ames (Eds.), Research on motivation in education (Vol. 3, pp. 139 -",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Policies for America's public schools: Teacher equity indicators",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Epstein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "89--126",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Epstein, J. L. (1988). Effective schools or effective students: Dealing with diversity. In R. Haskins & D. MacRae (Eds.), Policies for America's public schools: Teacher equity indicators (pp. 89 -126). Norwood, NJ: Ablex.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Achievement goals, efficacy beliefs, and coping strategies in mathematics: The roles of perceived parent and teacher goal emphases. Contemporary Educational Psychology",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Friedel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Cortina",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Turner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "32",
+                "issue": "",
+                "pages": "434--458",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Friedel, J. M., Cortina, K. S., Turner, J. C., & Midgley, C. (2007). Achievement goals, efficacy beliefs, and coping strategies in mathemat- ics: The roles of perceived parent and teacher goal emphases. Contem- porary Educational Psychology, 32, 434 -458.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Perceptions of parent goals and their contribution to student achievement goal orientation and engagement in the classroom: Grade-level differences across adolescence",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Gonida",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Klosseoglou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Voulala",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "European Journal of Psychology of Education",
+                "volume": "22",
+                "issue": "",
+                "pages": "23--40",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gonida, E. N., Klosseoglou, G., & Voulala, K. (2007). Perceptions of parent goals and their contribution to student achievement goal orienta- tion and engagement in the classroom: Grade-level differences across adolescence. European Journal of Psychology of Education, 22, 23-40.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "High school students' goal orientations and their relationship to perceived parenting styles",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Gonzalez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F D"
+                        ],
+                        "last": "Holbein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Quilter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "27",
+                "issue": "",
+                "pages": "450--470",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gonzalez, A. R., Holbein, M. F. D., & Quilter, S. (2002). High school students' goal orientations and their relationship to perceived parenting styles. Contemporary Educational Psychology, 27, 450 -470.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Inner resources for school achievement: Motivational mediators of students' perceptions of their parents",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Grolnick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Journal of Educational Psychology",
+                "volume": "83",
+                "issue": "",
+                "pages": "508--517",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Grolnick, W. S., Ryan, R. M., & Deci, E. L. (1991). Inner resources for school achievement: Motivational mediators of students' perceptions of their parents. Journal of Educational Psychology, 83, 508 -517.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "How student and parent goal orientations and classroom goal structures influence the math achievement of African Americans during the high school transition",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Gutman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "31",
+                "issue": "",
+                "pages": "44--63",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gutman, L. (2006). How student and parent goal orientations and class- room goal structures influence the math achievement of African Amer- icans during the high school transition. Contemporary Educational Psy- chology, 31, 44 -63.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Individual differences in the effects of educational transitions on young adolescent's perceptions of competence and motivational orientation",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Whitesell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Kowalski",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "American Educational Research Journal",
+                "volume": "29",
+                "issue": "",
+                "pages": "777--807",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S., Whitesell, N., & Kowalski, P. (1992). Individual differences in the effects of educational transitions on young adolescent's perceptions of competence and motivational orientation. American Educational Re- search Journal, 29, 777-807.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "The evidence continues to grow: Parental involvement improves student achievement. Columbia, MD: National Committee for Citizens in Education",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Henderson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Henderson, A. (1987). The evidence continues to grow: Parental involve- ment improves student achievement. Columbia, MD: National Commit- tee for Citizens in Education.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "A new wave of evidence: The impact of school, family and community connections on student achievement",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Henderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Mapp",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Henderson, A. T., & Mapp, K. L. (2002). A new wave of evidence: The impact of school, family and community connections on student achieve- ment. Austin, TX: Southwest Educational Development Laboratory.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Young students' vulnerability to self-blame and helplessness: Relationship to beliefs about goodness",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Heyman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Cain",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Child Development",
+                "volume": "63",
+                "issue": "",
+                "pages": "401--415",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Heyman, G. D., Dweck, C. S., & Cain, K. M. (1992). Young students' vulnerability to self-blame and helplessness: Relationship to beliefs about goodness. Child Development, 63, 401-415.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Origins of students' helpless and mastery achievement patterns in the family",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hokoda",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Fincham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Educational Psychology",
+                "volume": "87",
+                "issue": "",
+                "pages": "375--385",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hokoda, A., & Fincham, F. D. (1995). Origins of students' helpless and mastery achievement patterns in the family. Journal of Educational Psychology, 87, 375-385.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Students' perceptions of parental and teacher goal orientations",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Hruda",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hruda, L. Z., & Midgley, C. (1997, August). Students' perceptions of parental and teacher goal orientations. Paper presented at the annual meeting of the American Psychological Association, Chicago, IL.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "A challenge of living? Understanding the psycho-social processes of the child during primarysecondary school transition through resilience and self-esteem theories",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Jindal-Snape",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Miller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Educational Psychological Review",
+                "volume": "20",
+                "issue": "3",
+                "pages": "217--236",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jindal-Snape, D., & Miller, D. J. (2008). A challenge of living? Under- standing the psycho-social processes of the child during primary- secondary school transition through resilience and self-esteem theories. Educational Psychological Review, 20(3), 217-236.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Classroom goal structure and student disruptive behaviour",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Gheen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "72",
+                "issue": "",
+                "pages": "191--212",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaplan, A., Gheen, M., & Midgley, C. (2002). Classroom goal structure and student disruptive behaviour. British Journal of Educational Psy- chology, 72, 191-212.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Adolescents' achievement goals: Situating motivation in sociocultural contexts",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Academic motivation of adolescents",
+                "volume": "",
+                "issue": "",
+                "pages": "125--167",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaplan, A., & Maehr, M. L. (2002). Adolescents' achievement goals: Situating motivation in sociocultural contexts. In F. Pajares & T. Urdan (Eds.), Academic motivation of adolescents (pp. 125-167). Greenwich, CT: Information Age.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "The relationship between perceptions of the classroom goal structure and early adolescents' affect in school: The mediating role of coping strategies",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Learning and Individual Differences",
+                "volume": "11",
+                "issue": "",
+                "pages": "187--212",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaplan, A., & Midgley, C. (1999). The relationship between perceptions of the classroom goal structure and early adolescents' affect in school: The mediating role of coping strategies. Learning and Individual Differ- ences, 11, 187-212.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Interplay between personal goals and classroom goal structures in predicting student outcomes: A multilevel analysis of person-context interactions",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Nie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Educational Psychology",
+                "volume": "100",
+                "issue": "",
+                "pages": "15--29",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lau, S., & Nie, Y. Y. (2008). Interplay between personal goals and classroom goal structures in predicting student outcomes: A multilevel analysis of person-context interactions. Journal of Educational Psy- chology, 100, 15-29.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Meaning and motivation: Toward a theory of personal investment",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Research on motivation in education",
+                "volume": "1",
+                "issue": "",
+                "pages": "115--144",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Maehr, M. L. (1984). Meaning and motivation: Toward a theory of per- sonal investment. In R. Ames & C. Ames (Eds.), Research on motivation in education (Vol. 1, pp. 115-144). New York, NY: Academic Press.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "The classroom context and students' motivational goals",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Meece",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Advances in motivation and achievement",
+                "volume": "7",
+                "issue": "",
+                "pages": "261--286",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Meece, J. L. (1991). The classroom context and students' motivational goals. In M. L. Maehr & P. R. Pintrich (Eds.), Advances in motivation and achievement (Vol. 7, pp. 261-286). Greenwich, CT: JAI Press.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Classroom goal structure, student motivation, and academic achievement",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Meece",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Annual Review of Psychology",
+                "volume": "57",
+                "issue": "",
+                "pages": "487--503",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Meece, J. L., Anderman, E. M., & Anderman, L. H. (2006). Classroom goal structure, student motivation, and academic achievement. Annual Review of Psychology, 57, 487-503.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "The change in middle school students' achievement goals in mathematics over time",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Middleton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Social Psychology of Education",
+                "volume": "7",
+                "issue": "",
+                "pages": "289--311",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Middleton, M. J., Kaplan, A., & Midgley, C. (2004). The change in middle school students' achievement goals in mathematics over time. Social Psychology of Education, 7, 289 -311.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Avoiding the demonstration of lack of ability: An under-explored aspect of goal theory",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Middleton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Educational Psychology",
+                "volume": "89",
+                "issue": "",
+                "pages": "710--718",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Middleton, M. J., & Midgley, C. (1997). Avoiding the demonstration of lack of ability: An under-explored aspect of goal theory. Journal of Educational Psychology, 89, 710 -718.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Differences between elementary and middle school teachers and students: A goal theory approach",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Hicks",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Early Adolescence",
+                "volume": "15",
+                "issue": "",
+                "pages": "90--113",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Midgley, C., Anderman, E., & Hicks, L. (1995). Differences between elementary and middle school teachers and students: A goal theory approach. Journal of Early Adolescence, 15, 90 -113.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "The development and validation of scales assessing students' achievement goal orientations",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Middleton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Urdan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": ".",
+                        "middle": [
+                            "."
+                        ],
+                        "last": "Roeser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "23",
+                "issue": "",
+                "pages": "113--131",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Midgley, C., Kaplan, A., Middleton, M., Maehr, M. L., Urdan, T., Ander- man, L. H., . . . Roeser, R. (1998). The development and validation of scales assessing students' achievement goal orientations. Contemporary Educational Psychology, 23, 113-131.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Patterns of Adaptive Learning Survey (PALS) manual",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Middleton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Middleton, M. (1997). Patterns of Adaptive Learning Survey (PALS) manual. Ann Arbor: University of Michigan.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Predictors of middle school students' use of self-handicapping strategies",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Urdan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Early Adolescence",
+                "volume": "15",
+                "issue": "",
+                "pages": "389--411",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Midgley, C., & Urdan, T. (1995). Predictors of middle school students' use of self-handicapping strategies. Journal of Early Adolescence, 15, 389 - 411.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Mathematics self-efficacy and mathematical problem solving: Implications of using different forms of assessment",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Pajares",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Miller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Experimental Education",
+                "volume": "65",
+                "issue": "",
+                "pages": "213--229",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pajares, F., & Miller, M. D. (1997). Mathematics self-efficacy and math- ematical problem solving: Implications of using different forms of assessment. Journal of Experimental Education, 65, 213-229.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Teachers' communication of goal orientations in four fifth-grade classrooms",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Patrick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Edelin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Elementary School Journal",
+                "volume": "102",
+                "issue": "",
+                "pages": "35--58",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Patrick, H., Anderman, L. H., Ryan, A. M., Edelin, K. C., & Midgley, C. (2001). Teachers' communication of goal orientations in four fifth-grade classrooms. Elementary School Journal, 102, 35-58.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "An achievement goal theory perspective on issues in motivation terminology, theory, and research",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "25",
+                "issue": "",
+                "pages": "92--104",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pintrich, P. R. (2000a). An achievement goal theory perspective on issues in motivation terminology, theory, and research. Contemporary Educa- tional Psychology, 25, 92-104.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Multiple goals, multiple pathways: The role of goal orientation in learning and achievement",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Educational Psychology",
+                "volume": "92",
+                "issue": "",
+                "pages": "544--555",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pintrich, P. R. (2000b). Multiple goals, multiple pathways: The role of goal orientation in learning and achievement. Journal of Educational Psy- chology, 92, 544 -555.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Mothers' masteryoriented involvement in students' homework: Implications for the wellbeing of children with negative perceptions of competence",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pomerantz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Ng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Educational Psychology",
+                "volume": "98",
+                "issue": "",
+                "pages": "99--111",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pomerantz, E. M., Ng, F. F., & Wang, Q. (2006). Mothers' mastery- oriented involvement in students' homework: Implications for the well- being of children with negative perceptions of competence. Journal of Educational Psychology, 98, 99 -111.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Hierarchical linear models: Applications and data analysis methods",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Raudenbush",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Bryk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Raudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear models: Applications and data analysis methods (2nd ed.). Thousand Oaks, CA: Sage.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Academic functioning and mental health in adolescence: Patterns, progressions, and routes from childhood",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Roeser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Freedman-Doan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Adolescent Research",
+                "volume": "14",
+                "issue": "",
+                "pages": "135--174",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Roeser, R. W., Eccles, J. S., & Freedman-Doan, C. (1999). Academic functioning and mental health in adolescence: Patterns, progressions, and routes from childhood. Journal of Adolescent Research, 14, 135- 174.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Perceptions of the school psychological environment and early adolescents' psychological and behavioral functioning in school: The mediating role of goals and belonging",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Roeser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Urdan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Journal of Educational Psychology",
+                "volume": "88",
+                "issue": "",
+                "pages": "408--422",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Roeser, R., Midgley, C., & Urdan, T. C. (1996). Perceptions of the school psychological environment and early adolescents' psychological and behavioral functioning in school: The mediating role of goals and belonging. Journal of Educational Psychology, 88, 408 -422.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "The classroom social environment and changes in adolescents' motivation and engagement during middle school",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Patrick",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "American Educational Research Journal",
+                "volume": "38",
+                "issue": "",
+                "pages": "437--460",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ryan, A. M., & Patrick, H. (2001). The classroom social environment and changes in adolescents' motivation and engagement during middle school. American Educational Research Journal, 38, 437-460.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Self-efficacy, adaptation, and adjustment: Theory, research, and application",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Schunk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "281--303",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schunk, D. H. (1995). Self-efficacy and education and instruction. In J. E. Maddux (Ed.), Self-efficacy, adaptation, and adjustment: Theory, re- search, and application (pp. 281-303). New York, NY: Plenum Press.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Goal and self-evaluative influences during students' cognitive skill learning",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Schunk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "American Educational Research Journal",
+                "volume": "33",
+                "issue": "",
+                "pages": "359--382",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schunk, D. H. (1996). Goal and self-evaluative influences during students' cognitive skill learning. American Educational Research Journal, 33, 359 -382.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "The classroom environment and students' reports of avoidance strategies in mathematics: A multimethod study",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Turner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Meyer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Gheen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Kang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Patrick",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Educational Psychology",
+                "volume": "94",
+                "issue": "",
+                "pages": "88--106",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Turner, J. C., Midgley, C., Meyer, D. K., Gheen, M., Anderman, E. M., Kang, Y., & Patrick, H. (2002). The classroom environment and stu- dents' reports of avoidance strategies in mathematics: A multimethod study. Journal of Educational Psychology, 94, 88 -106.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Students' reports of motivation and negative affect: A theoretical and empirical analysis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Turner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Thorpe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Meyer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Educational Psychology",
+                "volume": "90",
+                "issue": "",
+                "pages": "758--771",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Turner, J. C., Thorpe, P. K., & Meyer, D. K. (1998). Students' reports of motivation and negative affect: A theoretical and empirical analysis. Journal of Educational Psychology, 90, 758 -771.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Changes in the perceived classroom goal structure and pattern of adaptive learning during early adolescence",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Urdan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "28",
+                "issue": "",
+                "pages": "524--551",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Urdan, T., & Midgley, C. (2003). Changes in the perceived classroom goal structure and pattern of adaptive learning during early adolescence. Contemporary Educational Psychology, 28, 524 -551.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Classroom effects on student motivation: Goal structures, social relationships, and competence beliefs",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Urdan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Schoenfelder",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of School Psychology",
+                "volume": "44",
+                "issue": "",
+                "pages": "331--349",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Urdan, T., & Schoenfelder, E. (2006). Classroom effects on student moti- vation: Goal structures, social relationships, and competence beliefs. Journal of School Psychology, 44, 331-349.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Social relationships and motivation in middle school: The role of parents, teachers, and peers",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Wentzel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Educational Psychology",
+                "volume": "90",
+                "issue": "",
+                "pages": "202--209",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wentzel, K. R. (1998). Social relationships and motivation in middle school: The role of parents, teachers, and peers. Journal of Educational Psychology, 90, 202-209.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Social-motivational processes and interpersonal relationships: Implications for understanding motivation at school",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Wentzel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Educational Psychology",
+                "volume": "91",
+                "issue": "",
+                "pages": "76--97",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wentzel, K. R. (1999). Social-motivational processes and interpersonal relationships: Implications for understanding motivation at school. Jour- nal of Educational Psychology, 91, 76 -97.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "A: Change in academic self-efficacy and personal goal orientations. B: Change in perceived teacher and parent goal emphases across waves."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td/><td/><td colspan=\"2\">MANOVA</td><td/><td/><td colspan=\"3\">Repeated measurement</td><td/><td/><td>Time</td><td/></tr><tr><td>Variable</td><td>Wilks's</td><td>F</td><td>d f 1</td><td>df 2</td><td>p</td><td>Huynh-Feldt F</td><td>df 1</td><td>df 2</td><td>p</td><td>Linear p</td><td>Quadratic p</td><td>Cubic p</td></tr><tr><td>Efficacy</td><td>.99</td><td>.41</td><td>3</td><td>882</td><td>.749</td><td>0.35</td><td>2.8</td><td>2492.5</td><td>.775</td><td>.907</td><td>.519</td><td>.358</td></tr><tr><td>Teacher mastery</td><td>.97</td><td>10.39</td><td>3</td><td>882</td><td>.000</td><td>11.08</td><td>2.6</td><td>2318.5</td><td>.000</td><td>.000</td><td>.703</td><td>.037</td></tr><tr><td>Teacher performance</td><td>.88</td><td>41.76</td><td>3</td><td>883</td><td>.000</td><td>53.28</td><td>2.6</td><td>2330.7</td><td>.000</td><td>.000</td><td>.005</td><td>.000</td></tr><tr><td>Parent mastery</td><td>1.00</td><td>1.20</td><td>2</td><td>885</td><td>.301</td><td>1.26</td><td>2.0</td><td>1772.0</td><td>.284</td><td>.144</td><td>.635</td><td>-</td></tr><tr><td>Parent perform</td><td>.93</td><td>35.13</td><td>2</td><td>886</td><td>.000</td><td>31.22</td><td>2.0</td><td>1754.7</td><td>.000</td><td>.000</td><td>.000</td><td>-</td></tr><tr><td>Child mastery</td><td>.95</td><td>14.70</td><td>3</td><td>880</td><td>.000</td><td>10.94</td><td>2.8</td><td>2447.8</td><td>.000</td><td>.084</td><td>.655</td><td>.000</td></tr><tr><td>Child performance</td><td>.92</td><td>24.10</td><td>3</td><td>879</td><td>.000</td><td>31.09</td><td>2.8</td><td>2495.1</td><td>.000</td><td>.000</td><td>.047</td><td>.151</td></tr></table>",
+                "type_str": "table",
+                "text": "Trend Analysis, Within-Subject Effects"
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td/><td colspan=\"2\">Individual level</td><td/><td/><td colspan=\"2\">Transition group level</td><td/></tr><tr><td>W1</td><td>W2</td><td>W3</td><td>W4</td><td>W1</td><td>W2</td><td>W3</td><td>W4</td></tr><tr><td>Variable</td><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Descriptive Statistics for Variables at the Individual and Transition Group Levels"
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td/><td>Gender</td><td/><td>Ethnicity</td><td/></tr><tr><td>Variable</td><td>F</td><td>p</td><td>F</td><td>p</td></tr><tr><td>Efficacy</td><td>0.21</td><td>.651</td><td>2.52</td><td>.081</td></tr><tr><td>Teacher mastery</td><td>1.07</td><td>.302</td><td>8.91</td><td>.000</td></tr><tr><td>Teacher performance</td><td>0.78</td><td>.378</td><td>1.53</td><td>.217</td></tr><tr><td>Parent mastery</td><td>2.34</td><td>.127</td><td>1.52</td><td>.218</td></tr><tr><td>Parent performance</td><td>5.23</td><td>.022</td><td>0.745</td><td>.475</td></tr><tr><td>Child mastery</td><td>1.35</td><td>.246</td><td>13.94</td><td>.000</td></tr><tr><td>Child performance</td><td>7.98</td><td>.005</td><td>0.368</td><td>.692</td></tr></table>",
+                "type_str": "table",
+                "text": "Trend Analysis, Between-Subjects Effects"
+            },
+            "TABREF3": {
+                "num": null,
+                "content": "<table><tr><td/><td/><td/><td colspan=\"2\">Change in self-efficacy from</td></tr><tr><td/><td>Average self-efficacy</td><td/><td>6th to 7th grade</td><td/></tr><tr><td>Fixed effect</td><td>b</td><td>S E</td><td>b</td><td>S E</td></tr><tr><td>Within individual variables</td><td/><td/><td/><td/></tr><tr><td>Fall to spring contrast</td><td>\u03ea.00</td><td>.01</td><td/><td/></tr><tr><td>Individual level variables</td><td/><td/><td/><td/></tr><tr><td>Female</td><td>\u03ea.16 \u202b\u0621\u0621\u0621\u202c</td><td>.04</td><td>.02</td><td>.02</td></tr><tr><td>Hispanic</td><td>\u03ea.06</td><td>.08</td><td>.06</td><td>.05</td></tr><tr><td>Black Personal mastery goal orientation, spring 6th Personal mastery goal orientation, fall 7th</td><td>\u03ea.01 .22 \u202b\u0621\u0621\u0621\u202c .15 \u202b\u0621\u0621\u0621\u202c</td><td>.04 .02 .02</td><td>.01 \u03ea.11 \u202b\u0621\u0621\u0621\u202c .10 \u202b\u0621\u0621\u0621\u202c</td><td>.03 .02 .02</td></tr><tr><td>Personal performance goal orientation, spring 6th</td><td>\u03ea.00</td><td>.02</td><td>\u03ea.03</td><td>.02</td></tr><tr><td>Personal performance goal orientation, fall 7th</td><td>.00</td><td>.02</td><td>.03</td><td>.01</td></tr><tr><td>Perceived parent mastery goal emphasis, spring 6th Perceived parent mastery goal emphasis, fall 7th</td><td>.14 \u202b\u0621\u0621\u0621\u202c .05 \u202b\u0621\u202c</td><td>.02 .02</td><td>\u03ea.05 \u202b\u0621\u0621\u0621\u202c .03</td><td>.02 .02</td></tr><tr><td>Perceived parent performance goal emphasis, spring 6th</td><td>\u03ea.05 \u202b\u0621\u202c</td><td>.02</td><td>.00</td><td>.01</td></tr><tr><td>Perceived parent performance goal emphasis, fall 7th</td><td>\u03ea.02</td><td>.02</td><td>.00</td><td>.01</td></tr><tr><td>Group level variables</td><td/><td/><td/><td/></tr><tr><td>Perceived teacher mastery goal emphasis, spring 6th Perceived teacher mastery goal emphasis, fall 7th</td><td>\u03ea.00 .02</td><td>.03 .02</td><td>\u03ea.05 \u202b\u0621\u0621\u0621\u202c .05 \u202b\u0621\u0621\u0621\u202c</td><td>.01 .01</td></tr><tr><td>Perceived teacher performance goal emphasis, spring 6th</td><td>\u03ea.02</td><td>.02</td><td>\u03ea.01</td><td>.01</td></tr><tr><td>Perceived teacher performance goal emphasis, fall 7th</td><td>\u03ea.00</td><td>.02</td><td>.01</td><td>.01</td></tr><tr><td>Variance explained</td><td>.26</td><td/><td>.52</td><td/></tr></table>",
+                "type_str": "table",
+                "text": "Cross-Classified Hierarchical Linear Model of Average Efficacy Beliefs and Change in Self-Efficacy From Sixth to Seventh Grade"
+            },
+            "TABREF5": {
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table",
+                "text": "\u03ed \u2424 00 \u03e9 \u2424 01 \u0351Female\u0352 \u03e9 \u2424 02 \u0351Hispanic\u0352 \u03e9 \u2424 03 \u0351Black\u0352 \u03e9 \u2424 04 \u0351Mastery t\u03ed2 \u0352 \u03e9 \u2424 05 \u0351Mastery t\u03ed3 \u0352 \u03e9 \u2424 06 \u0351Performance t\u03ed2 \u0352 \u03e9 \u2424 07 \u0351Performance t\u03ed3 \u0352 \u03e9 \u2424 08 \u0351ParentMastery t\u03ed2 \u0352 \u03e9 \u2424 09 \u0351ParentMastery t\u03ed3 \u0352 \u03e9 \u2424 010 \u0351ParentPerformance t\u03ed2 \u0352 \u03e9 \u2424 011 \u0351ParentPerformance t\u03ed3 )\u03e9r 0i 1i \u03ed \u2424 10 2i \u03ed \u2424 20 \u03e9 \u2424 21 \u0351Female\u0352 \u03e9 \u2424 22 \u0351Hispanic\u0352 \u03e9 \u2424 23 \u0351Black\u0352 \u03e9 \u2424 24 \u0351Mastery t\u03ed2 \u0352 \u03e9 \u2424 25 \u0351Mastery t\u03ed3 \u0352 \u03e9 \u2424 26 \u0351Performance t\u03ed2 \u0352 \u03e9 \u2424 27 \u0351Performance t\u03ed3 \u0352 \u03e9 \u2424 28 \u0351ParentMastery t\u03ed2 \u0352 \u03e9 \u2424 29 \u0351ParentMastery t\u03ed3 \u0352 \u03e9 \u2424 210 \u0351ParentPerformance t\u03ed2 \u0352 \u03e9 \u2424 211 \u0351ParentPerformance t \u03ed 3 \u0352 \u03e9 r 2i"
+            }
+        }
+    }
+}

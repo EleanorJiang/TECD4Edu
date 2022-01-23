@@ -1,0 +1,2166 @@
+{
+    "paper_id": "chung_1998",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:06:02.187359Z"
+    },
+    "title": "Patterns of Individual Adjustment Changes During Middle School Transition",
+    "authors": [
+        {
+            "first": "Hyunhee",
+            "middle": [],
+            "last": "Chung",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Rutgers University",
+                "location": {}
+            },
+            "email": "hhchung@samsung.co.kr.83"
+        },
+        {
+            "first": "Maurice",
+            "middle": [],
+            "last": "Elias",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Rutgers University",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Kenneth",
+            "middle": [],
+            "last": "Schneider",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Rutgers University",
+                "location": {}
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The present study examined the patterns of individual adjustment changes in a sample of 99 early adolescents during an ecological transition from elementary school to middle school. Early adolescents in the sample showed significant changes in their adjustment following the transition, as indicated by their increased psychological distress or decreased academic achievement following the transition. Gender differences were found in adjustment changes over time, suggesting that boys and girls may be differentially affected by middle school transition. Different patterns of adjustment changes were explored by means of cluster analysis on the basis of psychological distress scores before and after the transition. Three distinct patterns were identified across genders, including (a) an average start but increasing to high pattern, (b) an initial low but increasing to moderately high pattern, and (c) a pattern of consistently high scores over time. The results are discussed in terms of individual differences among early adolescents in their adjustment to middle school transition. Implications for research and practice in school psychology also are elaborated.",
+    "pdf_parse": {
+        "paper_id": "chung_1998",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The present study examined the patterns of individual adjustment changes in a sample of 99 early adolescents during an ecological transition from elementary school to middle school. Early adolescents in the sample showed significant changes in their adjustment following the transition, as indicated by their increased psychological distress or decreased academic achievement following the transition. Gender differences were found in adjustment changes over time, suggesting that boys and girls may be differentially affected by middle school transition. Different patterns of adjustment changes were explored by means of cluster analysis on the basis of psychological distress scores before and after the transition. Three distinct patterns were identified across genders, including (a) an average start but increasing to high pattern, (b) an initial low but increasing to moderately high pattern, and (c) a pattern of consistently high scores over time. The results are discussed in terms of individual differences among early adolescents in their adjustment to middle school transition. Implications for research and practice in school psychology also are elaborated.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Middle school transition is a significant, sometimes stressful, life event for early adolescents (Compas, 1987; Felner & Adan, 1988; Johnson, 1986; Simmons, Burgeson, Carlton-Ford, & Blyth, 1987) . The contextual shift from elementary school to junior high school or middle school alters the ecology of the early adolescent through a change in both the school setting and the student role (Bronfenbrenner, 1979; Fenzel, 1989) . Most children move from a relatively small, more personalized and task-focused elementary school environment to a larger, more departmentalized, impersonal and achievement-oriented middle or junior high school. In the new school, they face differences in grading practices, teacher expectations, and teacher-student relationships (Eccles & Midgley, 1990; Eccles et al., 1993; . Their social relationships, particularly peer relationships, are also affected by these transitions (Blyth, Hill, & Smith, 1981; Felner, Primavera, & Cauce, 1981; Hirsch & Rapkin, 1987) . This discontinu-ity in both school structure and social roles requires significant adaptive efforts from early adolescents, and, for some, these transitions can be stressful and challenging.",
+                "cite_spans": [
+                    {
+                        "start": 97,
+                        "end": 111,
+                        "text": "(Compas, 1987;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 112,
+                        "end": 132,
+                        "text": "Felner & Adan, 1988;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 133,
+                        "end": 147,
+                        "text": "Johnson, 1986;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 148,
+                        "end": 195,
+                        "text": "Simmons, Burgeson, Carlton-Ford, & Blyth, 1987)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 389,
+                        "end": 411,
+                        "text": "(Bronfenbrenner, 1979;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 412,
+                        "end": 425,
+                        "text": "Fenzel, 1989)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 758,
+                        "end": 782,
+                        "text": "(Eccles & Midgley, 1990;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 783,
+                        "end": 803,
+                        "text": "Eccles et al., 1993;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 906,
+                        "end": 934,
+                        "text": "(Blyth, Hill, & Smith, 1981;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 935,
+                        "end": 968,
+                        "text": "Felner, Primavera, & Cauce, 1981;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 969,
+                        "end": 991,
+                        "text": "Hirsch & Rapkin, 1987)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Studies have shown that middle or junior high school transitions are often associated with increased psychological distress (Crockett, Peterson, Graber, Schulenberg, & Ebata, 1989; Hirsch & Rapkin, 1987) , a decline in academic performance (Blyth, Simmons, & Carlton-Ford, 1983; , decreased motivation (Harter, 1981) , and lowered self-esteem Wigfield, Eccles, Mac Iver, Reuman, & Midgley, 1991) . These studies have provided convincing evidence on the potential stressfulness of the middle school transition, but the findings concerning coping and adaptation have been mixed. There appear to be large individual differences among early adolescents in their response to the middle school transition: some adolescents show significant negative changes following the transition, while others manifest no negative and sometimes even positive changes subsequent to the transition (Crockett et al., 1989; Fenzel & Blyth, 1986; Hirsch & Rapkin, 1987; Nottlemann, 1987; . These mixed findings suggest the need to examine more closely the individual differences in adjustment changes following middle school transition.",
+                "cite_spans": [
+                    {
+                        "start": 124,
+                        "end": 180,
+                        "text": "(Crockett, Peterson, Graber, Schulenberg, & Ebata, 1989;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 181,
+                        "end": 203,
+                        "text": "Hirsch & Rapkin, 1987)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 240,
+                        "end": 278,
+                        "text": "(Blyth, Simmons, & Carlton-Ford, 1983;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 302,
+                        "end": 316,
+                        "text": "(Harter, 1981)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 343,
+                        "end": 395,
+                        "text": "Wigfield, Eccles, Mac Iver, Reuman, & Midgley, 1991)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 876,
+                        "end": 899,
+                        "text": "(Crockett et al., 1989;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 900,
+                        "end": 921,
+                        "text": "Fenzel & Blyth, 1986;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 922,
+                        "end": 944,
+                        "text": "Hirsch & Rapkin, 1987;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 945,
+                        "end": 962,
+                        "text": "Nottlemann, 1987;",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Previous longitudinal research has certainly enhanced our understanding of the nature of school transition as well as its impact on early adolescent development. However, many of these studies have included some limitations. First, only a few studies have utilized multiple indices of personal and environmental factors related to school transition. Most studies have included a small number of indices, failing to provide a comprehensive account of the middle school transition process. Second, previous studies have primarily focused on estimating the independent contributions of variables, without considering the interrelationships between the variables. Third, most studies have been ''variable-oriented'' in that they have mainly been concerned with understanding of relationships among variables. Thus, many of these studies have failed to uncover individual differences in the adaptational process among early adolescents making a transition into middle school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The limitations of the variable-centered approach to the study of individual differences in adjustment changes have led to an argument that the variable-oriented approach needs to be complemented with the personoriented approach, which views the individual as a total functioning individual (Bergman, Eklund, & Magnusson, 1991; Gore & Eckenrode, 1994; Magnusson & Bergman, 1988; Rapkin & Luke, 1993) . Such a person-oriented approach implies that individuals are studied on the basis of their patterns of individual characteristics relevant for the study of the problem under consideration. It has been suggested that cluster analysis can be applied for the examination of individual differences in adjustment changes, as a complementary methodology to standard linear methodologies Hirsch, DuBois, & Brownell, 1993; Rapkin & Luke, 1993) .",
+                "cite_spans": [
+                    {
+                        "start": 291,
+                        "end": 327,
+                        "text": "(Bergman, Eklund, & Magnusson, 1991;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 328,
+                        "end": 351,
+                        "text": "Gore & Eckenrode, 1994;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 352,
+                        "end": 378,
+                        "text": "Magnusson & Bergman, 1988;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 379,
+                        "end": 399,
+                        "text": "Rapkin & Luke, 1993)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 783,
+                        "end": 816,
+                        "text": "Hirsch, DuBois, & Brownell, 1993;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 817,
+                        "end": 837,
+                        "text": "Rapkin & Luke, 1993)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Utilizing a complementary person-oriented approach in addition to the use of a variable-oriented approach, the present study examines individual differences in the adaptation processes of early adolescents making an ecological transition from elementary school to middle school. In order to promote a more comprehensive understanding of the functioning of early adolescents prior to and after transition, this study uses multiple indices that reflect both personal and enviromental factors associated with the transition. The present study is exploratory in nature, as it examines possible developmental processes or mechanisms that early adolescents may follow through as they make a middle school transition. The specific aims of the present study are as follows: (a) to examine early adolescents' adjustment before and after middle school transition; (b) to examine gender differences among early adolescents in their adjustment patterns before and after middle school transition; (c) to identify subgroups of early adolescents who exhibit distinct patterns of adjustment changes during middle school transition on the basis of psychological distress before and after the transition; (d) to examine how these subgroups are differentiated in terms of their pre-and posttransition adjustment, measured by academic achievement, self-concept, school behavior, and social support; (e) to examine subgroup differences on the basis of their coping with adaptational tasks of middle school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Middle school transition has special relevance for research and practice in school psychology. School psychologists often encounter students with a range of adjustment difficulties related to school transition. While some students experience no or mild adjustment difficulties following the transition, other students undergo severe difficulties that may precipitate psychological crisis (Ingraham, 1985) . In order to provide effective services, it is important for school psychologists to understand different developmental patterns of students' adaptations. By examining different patterns of early adolescents' adaptations associated with middle school transitions, the present study will provide useful implications for school psychologists in identifying students at risk as well as in developing effective, developmentally appropriate intervention and prevention strategies for early adolescents making middle school transitions.",
+                "cite_spans": [
+                    {
+                        "start": 388,
+                        "end": 404,
+                        "text": "(Ingraham, 1985)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Participants came from a primarily blue-collar, multiethnic (predominantly White, of Italian and Eastern European ancestry; 5% Black and Latino) suburban community of 15,000 in central New Jersey. The elementary school had a structure in which students had one main teacher for all of their academic subjects, and rotated as intact groups through various ''specials,'' such as music, art, and physical education. The middle school was much larger, receiving students from three elementary schools. It was structured such that students had different subject area teachers and traveled across the building to those classes. In addition, the demands on students to take notes in class, keep track of assignments, and do homework were much greater than was the case in elementary school. The middle school also had an explicit code of conduct with detentions, versus a much more classroom-based discipline system in the elementary school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "A total of 120 students (63 boys and 57 girls) initially completed assessments at the end of fifth grade in elementary school (Time 1). Assessments were given to the same participants again at the end of sixth grade in middle school (Time 2). Of these students, 99 (49 boys and 50 girls) provided sufficiently complete assessments for both Time 1 and Time 2. The loss of participants resulted from out-of-school-district transfer, school absences on one or more of the two testing days, and incomplete assessments. The participants' ages were between 10 and 11 at the time of the first administration and 11 and 12 at the time of the second administration.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Piers-Harris Self-Concept Scale. The original Piers-Harris Self-Concept Scale consists of 80 items tapping areas such as intellectual and school status, positive behavior, popularity, low anxiety, and physical attractiveness (Piers, 1969) . A 44-item modified version was developed by eliminating ambiguous or redundant items. This modified version has an internal consistency of .85, and a 6-month test-retest reliability of r \u03ed .73. It has been validated against peer measures of social competence and children's ability to persist in problem solving in the face of obstacles (Elias, Beier, & Gara, 1989) .",
+                "cite_spans": [
+                    {
+                        "start": 225,
+                        "end": 238,
+                        "text": "(Piers, 1969)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 578,
+                        "end": 606,
+                        "text": "(Elias, Beier, & Gara, 1989)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Social Support Resources Measure. Social support resources available to students were elicited by 14 items from the Health and Daily Living-Youth Form developed by Moos, Cronkite, and Finney (1984) . Four indices have been derived from factor analysis of the items: Number of Supportive Relationships (good friends, close friends); Number of Social Network Contacts (friends seen in school, outside of school); and the functions provided by a significant relationship with a confidant-affirmative Mutual Involvement (talking, good times, sharing secrets and feelings and problems, helping); Allowance of Conflicting Expression (anger, disagreement). A summary score for each index was obtained by summing the component items. Moos et al. (1984) reported adequate reliability for these subscales, ranging from .48 to .73. Psychological Distress Measure. This measure consists of 19 items derived from the Health and Daily Living-Youth Form (Moos et al., 1984) . Items measured physical symptoms characteristically associated with stress, such as headaches, stomachaches, and insomnia, and experience of various moods, including cheerful, sad, happy, and worried. Students were asked to report how often they had experienced the items since the beginning of the school year. They responded to each item on a 4-point scale (never, seldom, sometimes, fairly often). Adequate reliability, ranging from .64 to .82, has been reported (Moos et al., 1984) .",
+                "cite_spans": [
+                    {
+                        "start": 164,
+                        "end": 197,
+                        "text": "Moos, Cronkite, and Finney (1984)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 726,
+                        "end": 744,
+                        "text": "Moos et al. (1984)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 939,
+                        "end": 958,
+                        "text": "(Moos et al., 1984)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1427,
+                        "end": 1446,
+                        "text": "(Moos et al., 1984)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "The SAT-MS (Elias, Ubriaco, Reese, Gara, Rothbaum, & Haviland, 1992 ) is a measure of adaptation to problematic academic and interpersonal tasks that arise during the transition to middle school. It contains 28 situations derived from a behavioral-analytic study of aspects of the middle school environment seen as inducing significant stress in meaningful numbers of children. Students were asked to rate the extent to which each item was problematic for them (no problem, small, moderate, large). Four subscales have been derived from factor analysis of items: Substance Abuse, Peer Relationships, Conflicts With Authorities and Older Students, and Academic Pressures (Elias et al., 1992) . The internal consistencies of these subscales across studies have been acceptable, ranging from .61 to .93. School Environment Questionnaire. The School Environment Questionnaire is a modified version of the Classroom Environment Questionnaire developed by Moos (1979) . It is composed of 52 ''true or false'' questions tapping students' perceptions of the middle school environment. The nine subscales are involvement, affiliation, teacher support, task orientation, competition, order and organization, rule clarity, teacher control, and innovation. Across a number of studies, subscale internal consistencies have been acceptable, ranging from .67 to .85. AML Teacher Rating of School Behavior. The AML (Cowen et al., 1973) is a behavior rating scale that covers three domains of school behavior (e.g., acting-out, moodiness, and learning). Students were rated by their teachers on a 4-point scale, and one overall behavior rating score was obtained. Acceptable reliability and validity have been reported ( Janes & Hesselbrock, 1978) . Academic Achievement. Report card records for the students were obtained for the major academic areas in each school. The students' course grades in five subject areas (reading, language arts, mathematics, science, and social studies) were used to represent academic achievement. A factor analysis revealed that all scores loaded strongly on one factor; therefore, a composite factor score was created.",
+                "cite_spans": [
+                    {
+                        "start": 11,
+                        "end": 67,
+                        "text": "(Elias, Ubriaco, Reese, Gara, Rothbaum, & Haviland, 1992",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 670,
+                        "end": 690,
+                        "text": "(Elias et al., 1992)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 950,
+                        "end": 961,
+                        "text": "Moos (1979)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1399,
+                        "end": 1419,
+                        "text": "(Cowen et al., 1973)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1702,
+                        "end": 1730,
+                        "text": "( Janes & Hesselbrock, 1978)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Survey of Adaptational Tasks of Middle School (SAT-MS).",
+                "sec_num": null
+            },
+            {
+                "text": "Data were obtained over a 12-month period. In the spring of fifth grade, students completed the Piers-Harris Self-Concept Scale, the Social Support Resource Measure, and the Psychological Distress Measure. The AML rating scale was completed by teachers, and the measure of academic achievement was obtained from school records. The initial sample was obtained by having the elementary school principal mail letters home to each of the parents of the students, informing them about the study and the benefits that the knowledge obtained might have for the school district, and requesting that their children participate. The assessment battery was approved by the Board of Education and made available for the parents to review. Only four parents denied permission for their child to participate in the study.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "After the students' transition into middle school, data were gathered in the spring of sixth grade. Students completed the Piers-Harris Self-Concept Scale, the Social Support Resource Measure, and the Psychological Distress Measure, the School Environment Questionnaire, and the SAT-MS Measure. The AML Teacher Rating Scale and the measure of academic achievement also were collected at this time point. Table 1 presents the Time 1 and Time 2 means and standard deviations on the five adjustment measures for full sample and by gender. In order to examine students' adjustment changes following the transition, pairedcomparison t-tests were performed on all pre-and posttransition adjustment measures. Results revealed a significant decrease in academic achievement, t(98) \u03ed \u03ea3.00, p \u03fd .005, and a significant increase in psychological distress, t(98) \u03ed 16.37, p \u03fd .001, for the full sample. However, there were no significant changes in students' self-concept, school behavior, and social support. The paired-comparison t-tests, separately conducted for boys and girls, indicated that boys showed significant changes in both academic achievement and psychological distress, t(49) \u03ed \u03ea4.05, p \u03fd .001; and t(49) \u03ed 11.30, p \u03fd .001, respectively, whereas girls demonstrated a significant increase in only psychological distress, t(48) \u03ed 12.00, p \u03fd .001. Note . V1 \u03ed Academic Achievement; V2 \u03ed Self-Concept; V3 \u03ed Psychological Distress; V4 \u03ed School Behavior; V5 \u03ed Social Support.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 404,
+                        "end": 411,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "To further examine gender differences in the data, analyses of variance (ANOVA) were conducted on the Time 1 and Time 2 adjustment measures. Results indicated some differences between genders in psychological distress and school behavior. Across the time points, girls tended to report higher degree of psychological distress than did boys [for Time 1, F(1, 97) \u03ed 4.69, p \u03fd .05; for Time 2, F(1, 97) \u03ed 3.17, p \u03fd .10). On the Time 2 school behavior measure, however, girls tended to be rated more positively by their teachers than did boys [F(1, 97) \u03ed 3.13, p \u03fd .10]. Cross-sectional correlations of the Time 1 and Time 2 adjustment measures are presented in Table 2 . At Time 1, self-concept was linked positively to academic achievement and negatively to psychological distress in both genders, but there was an additional positive correlation between academic achievement and school behavior for girls. At Time 2, school behavior was correlated with academic achievement and self-concept in both genders, but there were four additional significant correlations for girls. For girls, selfconcept was correlated positively with academic achievement, social support, and psychological distress, but it was associated inversely with social support.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 658,
+                        "end": 665,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Gender Differences in Adjustment Patterns Before and After Middle School Transition",
+                "sec_num": null
+            },
+            {
+                "text": "Cross-lag correlations among the Time 1 and Time 2 measures are also shown in Table 2 . There was a high stability over time in most adjustment variables, except psychological distress for boys (r \u03ed .23) and school behavior for girls (r \u03ed .29). Time 2 measures tended to be associated with Time 1 measures more strongly in girls than in boys. For example, Time 2 selfconcept was related significantly to most Time 1 measures in girls, whereas it was correlated with only two measures (e.g., academic achievement and psychological distress) in boys. While Time 2 psychological distress was correlated inversely with Time 1 self-concept and social support in girls, it was not correlated with any Time 1 measures in boys. Table 3 presents a descriptive summary of the perceived school environment measure and the SAT-MS scales for the full sample and by gender. ANOVA revealed no gender differences on these measures. As indicated in Table 4 , however, correlation analysis revealed different patterns of adaptation in boys and girls. Overall, girls tended to show more consistent patterns of correlations among the measures than did boys. Specifically, perceived school environment was strongly linked to adaptational difficulties in a variety of areas for girls; however, for boys, there were only weak correlations between perceived school environment and various adaptational difficulties of middle school.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 78,
+                        "end": 85,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 720,
+                        "end": 727,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 932,
+                        "end": 939,
+                        "text": "Table 4",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Gender Differences in Adjustment Patterns Before and After Middle School Transition",
+                "sec_num": null
+            },
+            {
+                "text": "In order to explore types or patterns of adjustment changes among early adolescents experiencing middle school transition, cluster analysis was con- ducted by gender. Because the psychological distress measure significantly changed over time among participants of both genders in the sample, Time 1 and Time 2 psychological distress scores were used as criterion variables for cluster analysis. Ward's method was employed to group adolescents into clusters so that the minimum variances within clusters were optimized. The 3-cluster solution was determined as the most probable solution for both genders by examining the value of the fusion coefficients. The conceptual meaningfulness of the clusters was also considered in determining the number of clusters to retain. The average Time 1 and Time 2 psychological distress scores of the three clusters are shown in Table 5 for boys. Cluster 1 (average to high) included 22 (44%) of the boys in the sample and was characterized by an average score at Time 1 and a high score at Time 2. Cluster 2 (low to moderately high), containing 20 (40%) of the adolescents, started with a low score at Time 1, but demonstrated a higher score at Time 2. Eight (16%) of the boys in the sample represented Cluster 3 (consistently high). These adolescents demonstrated consistently high scores across the time points. The accuracy of the clusters derived was examined by the percentage of correct classification with discriminant analysis. A total of 92.65% of the sample was correctly classified into the derived clusters, with the fit ranging from 95.45 to 87.50. Table 5 also presents the average Time 1 and Time 2 psychological distress scores of the clusters for girls. Cluster 1 (average to high) consisted of 15 (30.61%) of the girls in the sample and was characterized by an average score at Time 1 and a moderately high score at Time 2. Cluster 2 (low to moderately high) included 28 (57.14%) of the girls in the sample. These adolescents started with a low score at Time 1 but demonstrated a moderately high score at Time 2. Cluster 3 (consistently high) contained 6 (12.24%) of the girls in the sample and was characterized by consistently high scores across the time points. The accuracy of the clusters derived was examined by the percentage of correct classification. Discriminant analysis revealed that all girls in the sample were correctly classified into the derived clusters.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 865,
+                        "end": 872,
+                        "text": "Table 5",
+                        "ref_id": "TABREF4"
+                    },
+                    {
+                        "start": 1599,
+                        "end": 1606,
+                        "text": "Table 5",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Patterns of Changes in Adjustment Before and After Middle School Transition",
+                "sec_num": null
+            },
+            {
+                "text": "To examine cluster differences in pre-and posttransition adjustment patterns, ANOVAs were performed on the Time 1 and Time 2 measures, separately for boys and girls. Table 6 presents the means and standard deviations for the pre-and posttransition adjustment measures across the three clusters in boys. Analyses of variance, performed to compare different pairs of clusters, indicated some significant differences between clusters. Specifically, Cluster 1 (average to high) and Cluster 2 (low to moderately high) differed on Time 1 social support scores. Boys in Cluster 2 reported greater social support than did boys in Cluster 1 [F(1, 40) \u03ed 5.13, p \u03fd .05]. Cluster 1 and Cluster 3 were differentiated on Time 1 school behavior teacher rating scores and Time 2 achievement scores. Boys in Cluster 1 were rated more positively by their teachers at Time 1 than were boys in Cluster 3 Table 7 presents the means and standard deviations for the pre-and posttransition adjustment measures across the clusters for girls. ANOVAs comparing pairs of clusters revealed some differences between clusters. Cluster 1 (average to high) and Cluster 2 (low to moderately high) differed on achievement scores. Girls in Cluster 2 showed higher achievement scores at Time 1 than did students in Cluster 1 [for Time 1, F(1, 41) \u03ed 3.94, p \u03fd .05; for Time 2, F(1, 41) \u03ed 3.44, p \u03fd .10]. There were no significant differences on the adjustment measures between Cluster 1 and Cluster 3 and between Cluster 2 and Cluster 3. Table 6 presents a summary of mean comparisons of the three clusters for boys on the perceived school environment measure and the SAT-MS scales.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 166,
+                        "end": 173,
+                        "text": "Table 6",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 884,
+                        "end": 891,
+                        "text": "Table 7",
+                        "ref_id": "TABREF6"
+                    },
+                    {
+                        "start": 1500,
+                        "end": 1507,
+                        "text": "Table 6",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Cluster Differences in Pre-and Posttransition Academic Achievement, Self-Concept, School Behavior, and Social Support",
+                "sec_num": null
+            },
+            {
+                "text": "To examine the relationships between clusters and posttransition adaptation problems, a series of ANOVAs were performed. Results suggested that the three clusters did not differ significantly on all posttransition adaptation measures. Table 7 shows a summary of mean comparisons of the three clusters on the postadaptation measures for girls. ANOVAs comparing different pairs of clusters indicated that Cluster 3 differed from Cluster 1 and Cluster 2 in posttransition adjustment. Specifically, girls in Cluster 3 tended to report more negatively about their middle school environment than did girls in Cluster 1 [F(1, 19) ",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 235,
+                        "end": 242,
+                        "text": "Table 7",
+                        "ref_id": "TABREF6"
+                    },
+                    {
+                        "start": 613,
+                        "end": 622,
+                        "text": "[F(1, 19)",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Cluster Differences in Coping with Adaptational Tasks of Middle School",
+                "sec_num": null
+            },
+            {
+                "text": "This study was conducted to examine individual differences among early adolescents in their adjustment changes following an ecological transition from elementary school to middle school. A complementary personcentered approach was utilized in addition to the use of a variable-centered approach in order to explore different patterns of early adolescents' adaptation to middle school transition. Multiple indices of early adolescent stress and adjustment were used to facilitate a comprehensive understanding of different adaptational processes among early adolescents experiencing middle school transition.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The present study revealed significant changes in adolescents' adjustment following middle school transition. Both boys and girls in the sample showed a significant increase in psychological distress across the transition. In addition, boys showed decreased academic achievement in grade 6. These findings are consistent with previous findings of increased psychological distress (Crockett et al., 1989; Hirsch & Rapkin, 1987) and decreased academic achievement (Blyth et al., 1983; among adolescents experiencing a transition into middle or junior high school, suggesting that middle school transition can be a stressful life experience for early adolescents.",
+                "cite_spans": [
+                    {
+                        "start": 380,
+                        "end": 403,
+                        "text": "(Crockett et al., 1989;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 404,
+                        "end": 426,
+                        "text": "Hirsch & Rapkin, 1987)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 462,
+                        "end": 482,
+                        "text": "(Blyth et al., 1983;",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Self-concept was found to remain the same across the transition among adolescent in the sample. This finding is consistent with recent studies that reported no significant change in global self-esteem in adolescents following the transition (Crockett et al., 1989; Fenzel & Blyth, 1986; Hirsch & Rapkin, 1987; Nottlemann, 1987) . However, inconsistent findings of the effect of school transition on early adolescents' self-esteem have been reported, partially due to variations of sample characteristics, different meth-odologies, and unmeasured differences in school environments. Therefore, previous findings of self-esteem changes in adolescents following the transition should be interpreted with caution. In the present study, the data were collected once each year in the spring, toward the end of the school year. It is not clear whether this finding would have been the same if the assessments had been conducted earlier in the school year, as is the case with most previous research. In fact, some researchers have argued that early adolescents' self-esteem decreases immediately after the school transition but gradually increases as they adjust to the school change (Nottlemann, 1987; Wigfield et al., 1991) . Therefore, the current finding may reflect a long-term effect rather than a short-term, immediate effect of school transition.",
+                "cite_spans": [
+                    {
+                        "start": 241,
+                        "end": 264,
+                        "text": "(Crockett et al., 1989;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 265,
+                        "end": 286,
+                        "text": "Fenzel & Blyth, 1986;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 287,
+                        "end": 309,
+                        "text": "Hirsch & Rapkin, 1987;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 310,
+                        "end": 327,
+                        "text": "Nottlemann, 1987)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1177,
+                        "end": 1195,
+                        "text": "(Nottlemann, 1987;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1196,
+                        "end": 1218,
+                        "text": "Wigfield et al., 1991)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Differential changes in academic achievement were found among boys and girls following the transition: while boys showed a significant decline in academic achievement, there was no significant change in academic achievement among girls. This result is contradictory to previous findings, which suggested a greater negative effect of school transition on academic achievement for girls than boys (Blyth et al., 1983; . Gender differences in previous findings have been sparse and thus have failed to provide strong evidence of gender differences in academic achievement ( Jason et al., 1992) . Therefore, it remains unclear which gender is at greater risk in terms of a decline in academic achievement during the transition.",
+                "cite_spans": [
+                    {
+                        "start": 395,
+                        "end": 415,
+                        "text": "(Blyth et al., 1983;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 569,
+                        "end": 590,
+                        "text": "( Jason et al., 1992)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The comparisons of genders on the psychological distress measures revealed interesting gender differences: at both time points, girls showed more psychological distress, as assessed by physical symptoms associated with stress, than did boys. Consistent with previous research, this finding suggests greater vulnerability among girls during the transition. However, given the method of the data collection for the present study (e.g., selfreport), it is also possible that girls may have been more honest in reporting their psychological distress than did boys. On the teacher ratings of school behavior, however, girls tended to show more positive school behavior in middle school than did boys. This may indicate that among girls, the stressfulness of the transition is expressed via internalization, in physical symptoms, rather than externalized in behavioral problems.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Gender differences were also observed in correlational analyses of the pre-and posttransition measures. Significant correlations were found in girls between peer-related problems in sixth grade and across-time adjustment measures, such as academic achievement, self-concept, school behavior, and social support. Supportive interpersonal relationships, both formal and informal, have been known to be related to children's success in coping with stressful life transitions (Compas, 1987; Elias et al., 1985; Hirsch & Rapkin, 1987; Jason et al., 1992; Moos, 1984) . However, little research has explored the differential impact of peer and other social supports on the adjustment of boys and girls to school transitions. The current findings add to previous research suggesting that important differences may exist between boys and girls in the manner that a stressful school transition can be moderated by supportive social relationships with peers and adults (Fenzel & Blyth, 1986) .",
+                "cite_spans": [
+                    {
+                        "start": 472,
+                        "end": 486,
+                        "text": "(Compas, 1987;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 487,
+                        "end": 506,
+                        "text": "Elias et al., 1985;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 507,
+                        "end": 529,
+                        "text": "Hirsch & Rapkin, 1987;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 530,
+                        "end": 549,
+                        "text": "Jason et al., 1992;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 550,
+                        "end": 561,
+                        "text": "Moos, 1984)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 959,
+                        "end": 981,
+                        "text": "(Fenzel & Blyth, 1986)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The cluster analysis, performed on the basis of pre-and posttransition psychological distress scores, identified three different patterns of change among early adolescents: an average start but increasing to high pattern (average to high); an initial low but increasing to moderately high pattern (low to moderately high); and a pattern of consistently high scores over time (consistently high). Of particular interest was the presence in each gender of groups reporting consistently high psychological distress across the transition. The comparisons of the clusters of students on pre-and posttransition adjustment indicated that students showing a high level of psychological distress during transition tended to have more adaptive difficulties in middle school than than did their peers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Taken together, these findings suggest that students showing high levels of psychological distress prior to transition represent early adolescents at a greater risk than their peers for a continued stressful school transition. It is also noteworthy that boys at risk tended to show more differentiated adjustment problems (e.g., academic achievement and school behavior), whereas girls at risk showed more generalized adaptive difficulties following the transition. However, conclusions about specific cluster differences based on this sample require cautious interpretation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Several limitations of the present study need to be noted. First, the results should be interpreted in view of the particular characteristics of the sample. In the present study, the results were obtained for predominantly White, working-class students in a suburban community. Specific results may differ for other samples with different characteristics. Second, as discussed earlier, necessarily small sample sizes for some clusters may attenuate findings of significant effects; it would be useful to replicate the results in larger and/or more varied samples. Third, it is possible that preexisting group differences in unmeasured variables may have confounded the observed differences between groups. Finally, the focus of this study was on examining individual differences in adaptation to middle school transition using multiple indices of adjustment. However, the range of indices used in the present study was not exhaustive of all important characteristics relevant to the transition. To develop a more comprehensive picture of adaptation to the transition, future research must incorporate a wider range of indices, including family-related variables and characteristics of various middle schools.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Nevertheless, the results of the present study have useful implications for practice in school psychology. The transition to middle school is an important developmental event that may have a significant long-term effect on adjustment among adolescents. Yet, there have been limited efforts among school psychologists in understanding and helping students undergoing stressful middle school transitions. Further, school psychology services often are organized so that different ''teams'' have responsibility for students before and after middle school, with transition issues getting little attention in the pressure of daily crisis management and accountability.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Studies have suggested that, following the transition, some adolescents develop significant adjustment problems, including lower self-esteem, declined academic achievement and motivation, increased psychological symptoms, difficulties with peer relations, and a range of behavioral problems (Blyth et al., 1983; Crockett et al., 1989; Hirsch & Rapkin, 1987; Jason et al., 1992; . The negative impact of the middle school transition is often sufficient to elicit referrals to special services for some adolescents (Elias, Gara, & Ubriaco, 1985) .",
+                "cite_spans": [
+                    {
+                        "start": 291,
+                        "end": 311,
+                        "text": "(Blyth et al., 1983;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 312,
+                        "end": 334,
+                        "text": "Crockett et al., 1989;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 335,
+                        "end": 357,
+                        "text": "Hirsch & Rapkin, 1987;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 358,
+                        "end": 377,
+                        "text": "Jason et al., 1992;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 513,
+                        "end": 543,
+                        "text": "(Elias, Gara, & Ubriaco, 1985)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Preventively oriented school psychologists therefore need to understand different paths of adaptation to the school transition in order to accurately identify adolescents at risk and provide them with appropriate early intervention services for their specific needs. The present study has indicated that there are significant subgroup patterns and gender-linked differences in adaptation to middle school transition. By exploring different patterns of adjustment in socially and academically distinct subgroups of adolescents, this study has attempted to articulate an approach for researchers and practitioners among school psychologists to identify characteristics of high-risk adolescents and begin to match them with middle school structures or prevention programs that improve students' competence.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Partial support for this project was provided by the Schumann Fund for New Jersey.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ACKNOWLEDGMENT",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Studying individual development: Problems and methods",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Bergman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Eklund",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Magnusson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Problems and methods in longitudinal research: Stability and change",
+                "volume": "",
+                "issue": "",
+                "pages": "1--27",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bergman, L. R., Eklund, G., & Magnusson, D. (1991). Studying individual develop- ment: Problems and methods. In D. Magnusson, L. R. Bergman, G. Rudinger, & B. Torestad (Eds.), Problems and methods in longitudinal research: Stability and change (pp. 1-27). New York: Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Stability and change in patterns of extrinsic adjustment problems",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Bergman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Magnusson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Problems and methods in longitudinal research: Stability and change",
+                "volume": "",
+                "issue": "",
+                "pages": "323--346",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bergman, L. R., & Magnusson, D. (1991). Stability and change in patterns of extrin- sic adjustment problems. In D. Magnusson, L. R. Bergman, G. Rudinger, & B. Torestad (Eds.), Problems and methods in longitudinal research: Stability and change (pp. 323-346). New York: Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "The influence of older adolescent on younger adolescents: Do grade-level arrangements make a difference in behaviors, attitudes, and experiences",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Blyth",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Hill",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Journal of Early Adolescence",
+                "volume": "1",
+                "issue": "",
+                "pages": "85--110",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Blyth, D. A., Hill, J. P., & Smith, C. K. (1981). The influence of older adolescent on younger adolescents: Do grade-level arrangements make a difference in be- haviors, attitudes, and experiences? Journal of Early Adolescence, 1, 85-110.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "The adjustments of early adolescents to school transitions",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Blyth",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Simmons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Carlton-Ford",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Journal of Early Adolescence",
+                "volume": "3",
+                "issue": "",
+                "pages": "105--120",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Blyth, D. A., Simmons, R. G., & Carlton-Ford, S. (1983).The adjustments of early adolescents to school transitions. Journal of Early Adolescence, 3, 105-120. Journal of School Psychology",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The ecology of human development: Experiments by nature and design",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Bronfenbrenner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and design . Cambridge, MA: Harvard University Press.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Stress and life events during childhood and adolescence",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Compas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Clinical Psychology Review",
+                "volume": "7",
+                "issue": "",
+                "pages": "275--302",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Compas, B. E. (1987). Stress and life events during childhood and adolescence. Clinical Psychology Review, 7, 275-302.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "School transitions and adjustment during early adolescence",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Crockett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Peterson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Graber",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Schulenberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Ebata",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Early Adolescence",
+                "volume": "9",
+                "issue": "",
+                "pages": "181--210",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Crockett, L. J., Peterson, A. C., Graber, J. A., Schulenberg, J. E., & Ebata, A. (1989). School transitions and adjustment during early adolescence. Journal of Early Ado- lescence, 9, 181-210.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "The AML: A quick screening device for early identification of school maladaptation",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Cowen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Dorr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Clarfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Kreling",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Mcwilliams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Pokracki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pratt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Terrell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wilson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1973,
+                "venue": "American Journal of Community Psychology",
+                "volume": "1",
+                "issue": "",
+                "pages": "12--35",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cowen, E. L., Dorr, D., Clarfield, S., Kreling, B., McWilliams, S. A., Pokracki, F., Pratt, D. M, Terrell, D., & Wilson, A. (1973). The AML: A quick screening device for early identification of school maladaptation. American Journal of Community Psychology, 1, 12-35.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Changes in academic motivation and self-perceptions during early adolescence",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "From childhood to adolescence",
+                "volume": "",
+                "issue": "",
+                "pages": "134--155",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Midgley, C. (1990). Changes in academic motivation and self-percep- tions during early adolescence. In R. Montemayor, G. R., Adams, & T. P. Gullotta (Eds.), From childhood to adolescence (pp. 134-155). Newbury Park, CA: Sage Publi- cations, Inc.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Development during adolescence: The impact of stageenvironment fit on young adolescents' experiences in schools and families",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Buchanan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Reuman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Flanagan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Mac Iver",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "American Psychologist",
+                "volume": "48",
+                "issue": "",
+                "pages": "90--101",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Midgley, C., Wigfield, A., Buchanan, C. M., Reuman, D., Flanagan, C., & Mac Iver, D. (1993). Development during adolescence: The impact of stage- environment fit on young adolescents' experiences in schools and families. Amer- ican Psychologist, 48, 90-101.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Children's response to interpersonal obstacles as a predictor of social competence",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Elias",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Beier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Gara",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "18",
+                "issue": "",
+                "pages": "451--465",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Elias, M. J., Beier, J., & Gara, M. (1989). Children's response to interpersonal obsta- cles as a predictor of social competence. Journal of Youth and Adolescence, 18, 451- 465.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Sources of stress and support in children's transition to middle school: An empirical analysis",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Elias",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Gara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ubriaco",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Journal of Clinical Child Psychology",
+                "volume": "14",
+                "issue": "",
+                "pages": "112--118",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Elias, M. J., Gara, M., & Ubriaco, M. (1985). Sources of stress and support in chil- dren's transition to middle school: An empirical analysis. Journal of Clinical Child Psychology, 14, 112-118.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "A measure of adaptation to problematic academic and interpersonal tasks of middle school",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Elias",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ubriaco",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Reese",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Gara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Rothbaum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Haviland",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of School Psychology",
+                "volume": "30",
+                "issue": "",
+                "pages": "41--57",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Elias, M. J., Ubriaco, M., Reese, A., Gara, M., Rothbaum, P., & Haviland, M. (1992). A measure of adaptation to problematic academic and interpersonal tasks of middle school. Journal of School Psychology, 30, 41-57.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Student, teacher, and observer perceptions of the classroom environment before and after the transition to junior high school",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Feldlaufer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Early Adolescence",
+                "volume": "8",
+                "issue": "",
+                "pages": "113--156",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Feldlaufer, H., Midgley, C., & Eccles, J. S. (1988). Student, teacher, and observer perceptions of the classroom environment before and after the transition to ju- nior high school. Journal of Early Adolescence, 8, 113-156.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Fourteen ounces of prevention: A casebook of exemplary primary prevention programs",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Felner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Adan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Felner, R. D., & Adan, A. M. (1988). The school transitional environment project. In R. H. Price, E. L. Cowen, R. P. Lorion, J. Ramos-McKay, & B. Hitchins (Eds.), Fourteen ounces of prevention: A casebook of exemplary primary prevention programs. Washington DC: American Psychological Association.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "The impact of school transitions: A focus for preventive efforts",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Felner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Primavera",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Cauce",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "American Journal of Community Psychology",
+                "volume": "9",
+                "issue": "",
+                "pages": "449--459",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Felner, R. D., Primavera, J., & Cauce, A. (1981). The impact of school transitions: A focus for preventive efforts. American Journal of Community Psychology, 9, 449- 459.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Role strain in early adolescence: A model for investigating school transition stress",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Fenzel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Early Adolescence",
+                "volume": "9",
+                "issue": "",
+                "pages": "13--33",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fenzel, L. M. (1989). Role strain in early adolescence: A model for investigating school transition stress. Journal of Early Adolescence, 9, 13-33.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Individual adjustment to school transitions: An exploration of the role of supportive peer relations",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Fenzel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Blyth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Journal of Early Adolescence",
+                "volume": "6",
+                "issue": "",
+                "pages": "315--329",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fenzel, L. M., & Blyth, D. A. (1986). Individual adjustment to school transitions: An exploration of the role of supportive peer relations. Journal of Early Adolescence, 6, 315-329.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Context and process in research on risk and resilience",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gore",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eckenrode",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Risk and resilience in children and adolescents: Processes, mechanisms, and interventions",
+                "volume": "",
+                "issue": "",
+                "pages": "19--63",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gore, S., & Eckenrode, J. (1994). Context and process in research on risk and resil- ience. In R. J. Haggerty, N. Garmezy, M. Rutter, & L. Sherrod (Eds.), Risk and resilience in children and adolescents: Processes, mechanisms, and interventions (pp. 19- 63). New York: Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "A new self-report scale of intrinsic versus extrinsic orientation in the classroom: Motivational and informational components",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Developmental Psychology",
+                "volume": "17",
+                "issue": "",
+                "pages": "300--312",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1981). A new self-report scale of intrinsic versus extrinsic orientation in the classroom: Motivational and informational components. Developmental Psy- chology, 17, 300-312.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "The transition to junior high school: A longitudinal study of self-esteem, psychological symptomatology, school life and social support",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hirsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Rapkin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Child Development",
+                "volume": "58",
+                "issue": "",
+                "pages": "1235--1243",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hirsch, B. J., & Rapkin, B. D. (1987). The transition to junior high school: A longitu- dinal study of self-esteem, psychological symptomatology, school life and social support. Child Development, 58, 1235-1243.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Trajectory analysis of the transition to junior high school: Implications for prevention and policy",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hirsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Brownell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Prevention in Human Services",
+                "volume": "10",
+                "issue": "",
+                "pages": "83--101",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hirsch, B. J., DuBois, D. L., & Brownell, A. B. (1993). Trajectory analysis of the transition to junior high school: Implications for prevention and policy. Preven- tion in Human Services, 10, 83-101.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Cognitive-affective dynamics of crisis intervention for school entry, school transitions and school failure",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Ingraham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "School Psychology Review",
+                "volume": "14",
+                "issue": "",
+                "pages": "266--279",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ingraham, C. L. (1985). Cognitive-affective dynamics of crisis intervention for school entry, school transitions and school failure. School Psychology Review, 14, 266-279.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Problem children's adult adjustment predicted from teachers' ratings",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Janes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Hesselbrock",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "American Journal of Orthopsychiatry",
+                "volume": "48",
+                "issue": "",
+                "pages": "300--309",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Janes, L. L., & Hesselbrock, V. (1978). Problem children's adult adjustment pre- dicted from teachers' ratings. American Journal of Orthopsychiatry, 48, 300-309.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Helping transfer students: Strategies for educational and social readjustment",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Jason",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Weine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Warren-Sohlberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Filippelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Turner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Lardon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jason, L. A., Weine, A. M., Johnson, J. H., Warren-Sohlberg, L. Filippelli, L. A., Turner, E. Y., & Lardon, C. (1992). Helping transfer students: Strategies for educa- tional and social readjustment . San Francisco: Jossey-Bass.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Life events as stressors in childhood and adolescence",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Johnson, J. H. (1986). Life events as stressors in childhood and adolescence . Beverly Hills, CA: Sage Publications.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "The experience of school-transfer: Does previous relocation facilitate the transition from elementary to middle-level educational environments",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Jones",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Thornburg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Journal of Early Adolescence",
+                "volume": "5",
+                "issue": "",
+                "pages": "229--237",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jones, R. M., & Thornburg, H. D. (1985). The experience of school-transfer: Does previous relocation facilitate the transition from elementary to middle-level edu- cational environments? Journal of Early Adolescence, 5, 229-237.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Individual and variable-vases approaches to longitudinal research on early risk factors",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Magnusson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Bergman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "45--61",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Magnusson, D., & Bergman, L. R. (1988). Individual and variable-vases approaches to longitudinal research on early risk factors. In M. Rutter (Ed.), Studies of psycho- social risk: The power of longitudinal data (pp. 45-61). New York: Cambridge Uni- versity Press.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "The transition to junior high school: Beliefs of pre-and post-transition teachers",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Feldlaufer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "17",
+                "issue": "",
+                "pages": "543--562",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Midgley, C., Feldlaufer, H., & Eccles, J. S. (1988). The transition to junior high school: Beliefs of pre-and post-transition teachers. Journal of Youth and Adoles- cence, 17, 543-562.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Evaluating educational environments",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Moos",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Moos, R. H. (1979). Evaluating educational environments. San Francisco: Jossey-Bass.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Context and coping: Toward a unifying conceptual framework",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Moos",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "American Journal of Community Psychology",
+                "volume": "12",
+                "issue": "",
+                "pages": "5--8",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Moos, R. H. (1984). Context and coping: Toward a unifying conceptual framework. American Journal of Community Psychology, 12, 5-3.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Health and daily living form manual-youth form",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Moos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Cronkite",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Finney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Moos, R. H., Cronkite, R. C., & Finney, J. W. (1984). Health and daily living form manual-youth form . Palo Alto, CA: Social Ecology Laboratory, Veterans Affairs and Stanford University Medical Centers.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Competence and self-esteem during transition from childhood to adolescence",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Nottleman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Developmental Psychology",
+                "volume": "23",
+                "issue": "",
+                "pages": "441--450",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nottleman, E. D. (1987). Competence and self-esteem during transition from child- hood to adolescence. Developmental Psychology, 23, 441-450.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "The Piers-Harris children's self-concept scale",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Piers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1969,
+                "venue": "Counselor Recordings and Tests",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Piers, E. (1969). The Piers-Harris children's self-concept scale . Nashville, TN: Counselor Recordings and Tests.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Cluster analysis in community research: Epistemology and practice",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Rapkin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Luke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "American Journal of Community Psychology",
+                "volume": "21",
+                "issue": "",
+                "pages": "247--277",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rapkin, B. D., & Luke, D. A. (1993). Cluster analysis in community research: Episte- mology and practice. American Journal of Community Psychology, 21, 247-277.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Moving into adolescence: The impact of pubertal change and school context",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Simmons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Blyth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Simmons, R. G., & Blyth, D. A. (1987). Moving into adolescence: The impact of pubertal change and school context . Hawthorne, NY: Aldine de Gruyter.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "The impact of cumulative change in early adolescence",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Simmons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Burgeson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Carlton-Ford",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Blyth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Child Development",
+                "volume": "58",
+                "issue": "",
+                "pages": "1220--1234",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Simmons, R. G., Burgeson, R., Carlton-Ford, S., & Blyth, D. A. (1987). The impact of cumulative change in early adolescence. Child Development, 58, 1220-1234.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Transitions during early adolescence: Changes in children's domain specific selfperceptions and general self-esteem across the transition to junior high school",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Mac Iver",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Reuman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Developmental Psychology",
+                "volume": "27",
+                "issue": "",
+                "pages": "552--565",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., & Eccles, J. S., Mac Iver, D., Reuman, D., & Midgley, C. (1991). Transi- tions during early adolescence: Changes in children's domain specific self- perceptions and general self-esteem across the transition to junior high school. Developmental Psychology, 27, 552-565.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td/><td colspan=\"2\">Full Sample</td><td>Boys</td><td/><td>Girls</td><td/></tr><tr><td/><td colspan=\"2\">(N \u03ed 99)</td><td colspan=\"2\">(n \u03ed 50)</td><td colspan=\"2\">(n \u03ed 49)</td></tr><tr><td>Variable</td><td>M</td><td>S D</td><td>M</td><td>S D</td><td>M</td><td>S D</td></tr><tr><td>Time 1</td><td/><td/><td/><td/><td/><td/></tr><tr><td>V1</td><td>43.78</td><td>8.34</td><td>44.15</td><td>7.30</td><td>43.40</td><td>9.34</td></tr><tr><td>V2</td><td>36.07</td><td>6.06</td><td>36.33</td><td>5.63</td><td>35.80</td><td>6.52</td></tr><tr><td>V3</td><td>35.06</td><td>7.81</td><td>33.41</td><td>6.70</td><td>36.75</td><td>8.54</td></tr><tr><td>V4</td><td>2.76</td><td>0.87</td><td>2.64</td><td>0.93</td><td>2.89</td><td>0.80</td></tr><tr><td>V5</td><td>72.59</td><td>40.23</td><td>74.91</td><td>40.90</td><td>70.22</td><td>39.83</td></tr><tr><td>Time 2</td><td/><td/><td/><td/><td/><td/></tr><tr><td>V1</td><td>41.74</td><td>9.96</td><td>40.40</td><td>9.99</td><td>43.10</td><td>9.85</td></tr><tr><td>V2</td><td>36.62</td><td>5.83</td><td>36.40</td><td>5.71</td><td>36.84</td><td>6.01</td></tr><tr><td>V3</td><td>46.79</td><td>5.84</td><td>45.77</td><td>5.74</td><td>47.83</td><td>5.82</td></tr><tr><td>V4</td><td>2.88</td><td>0.77</td><td>2.74</td><td>0.84</td><td>3.01</td><td>0.68</td></tr><tr><td>V5</td><td>71.90</td><td>41.45</td><td>75.99</td><td>46.73</td><td>67.73</td><td>35.27</td></tr></table>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td>Time 1</td></tr></table>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td>Variables</td><td>Full Sample</td><td>Boys</td><td>Girls</td></tr><tr><td>Perceived School Environment</td><td/><td/><td/></tr><tr><td>M</td><td>15.86</td><td>16.16</td><td>15.54</td></tr><tr><td>SD</td><td>1.70</td><td>1.85</td><td>1.49</td></tr><tr><td>Substance Abuse</td><td/><td/><td/></tr><tr><td>M</td><td>3.75</td><td>3.81</td><td>3.68</td></tr><tr><td>SD</td><td>2.04</td><td>2.10</td><td>2.00</td></tr><tr><td>Peer Relationships</td><td/><td/><td/></tr><tr><td>M</td><td>10.44</td><td>10.65</td><td>10.23</td></tr><tr><td>SD</td><td>3.35</td><td>2.89</td><td>3.78</td></tr><tr><td>Conflict With Authority</td><td/><td/><td/></tr><tr><td>M</td><td>12.62</td><td>13.45</td><td>11.78</td></tr><tr><td>SD</td><td>4.50</td><td>4.20</td><td>4.68</td></tr><tr><td>Academic Pressures</td><td/><td/><td/></tr><tr><td>M</td><td>3.78</td><td>3.89</td><td>3.67</td></tr><tr><td>SD</td><td>1.47</td><td>1.57</td><td>1.37</td></tr><tr><td>Adaptation Difficulty</td><td/><td/><td/></tr><tr><td>M</td><td>41.28</td><td>42.40</td><td>40.14</td></tr><tr><td>SD</td><td>11.42</td><td>10.24</td><td>12.51</td></tr></table>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF3": {
+                "num": null,
+                "content": "<table><tr><td>Variable</td><td>SE</td><td>SA</td><td>PR</td><td>CA</td><td>AP</td><td>AD</td></tr><tr><td>SE</td><td>-</td><td>.09</td><td>.12</td><td>.20</td><td>.24</td><td>.20</td></tr><tr><td>SA</td><td>.38**</td><td>-</td><td>.50**</td><td>.58**</td><td>.13</td><td>.66**</td></tr><tr><td>PR</td><td>.28*</td><td>.71**</td><td>-</td><td>.48**</td><td>.36*</td><td>.75**</td></tr><tr><td>CA</td><td>.30*</td><td>.68**</td><td>.65**</td><td>-</td><td>.61**</td><td>.90**</td></tr><tr><td>AP</td><td>.28*</td><td>.37**</td><td>.65**</td><td/><td>-</td><td>.66**</td></tr><tr><td>AD</td><td>.37**</td><td>.80**</td><td>.88**</td><td>.89**</td><td>.70**</td><td>-</td></tr></table>",
+                "type_str": "table",
+                "text": "Note . Girls below the diagonal and boys above the diagonal. AD \u03ed Adaptation Difficulty; AP \u03ed Academic Pressures; CA \u03ed Conflict With Authority; PR \u03ed Peer Relationships; SA \u03ed Substance Abuse; SAT-MS \u03ed Survey of Adaptational Tasks of Middle School; SE \u03ed Perceived School Environment."
+            },
+            "TABREF4": {
+                "num": null,
+                "content": "<table><tr><td/><td/><td>S D</td><td>3.60</td><td>4.58</td><td/><td/><td/><td/><td>S D</td><td>6.41</td><td>5.74</td><td/><td/><td/></tr><tr><td>Cluster 3</td><td>(n \u03ed 8)</td><td/><td/><td/><td>87.50%</td><td/><td>Cluster 3</td><td>(n \u03ed 6)</td><td/><td/><td/><td>100.00%</td><td/><td/></tr><tr><td/><td/><td>M</td><td>43.89</td><td>45.33</td><td/><td/><td/><td/><td>M</td><td>52.33</td><td>57.35</td><td/><td/><td/></tr><tr><td>Cluster 2</td><td>(n \u03ed 20)</td><td>M S D</td><td>27.01 3.70</td><td>42.47 5.58</td><td>95.00%</td><td/><td>Cluster 2</td><td>(n \u03ed 28)</td><td>M S D</td><td>31.07 4.43</td><td>44.80 4.17</td><td>100.00%</td><td/><td>mean; SD \u03ed standard deviation.</td></tr><tr><td>Boys Cluster 1</td><td>(n \u03ed 50) (n \u03ed 22)</td><td>M S D M S D</td><td>Time 1 33.41 6.70 35.41 1.80</td><td>Time 2 45.77 5.74 48.92 4.58</td><td>Percent of correct 95.45%</td><td>group classification</td><td>Girls Cluster 1</td><td>(n \u03ed 49) (n \u03ed 15)</td><td>M S D M S D</td><td>Time 1 36.75 8.54 41.10 2.90</td><td>Time 2 47.83 5.82 49.69 3.11</td><td>Percent of correct 100.00%</td><td>group classification</td><td>Note . Cluster 1 \u03ed Average to high; Cluster 2 \u03ed Low to moderately high; Cluster 3 \u03ed Consistently high. M \u03ed</td></tr></table>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF5": {
+                "num": null,
+                "content": "<table><tr><td/><td colspan=\"2\">Cluster 1</td><td colspan=\"2\">Cluster 2</td><td colspan=\"2\">Cluster 3</td></tr><tr><td/><td colspan=\"2\">(n \u03ed 22)</td><td colspan=\"2\">(n \u03ed 20)</td><td colspan=\"2\">(n \u03ed 8)</td></tr><tr><td/><td>M</td><td>S D</td><td>M</td><td>S D</td><td>M</td><td>S D</td></tr><tr><td>Time 1</td><td/><td/><td/><td/><td/><td/></tr><tr><td>V1</td><td>43.77</td><td>6.88</td><td>45.20</td><td>7.53</td><td>42.59</td><td>8.44</td></tr><tr><td>V2</td><td>35.40</td><td>6.91</td><td>37.09</td><td>4.88</td><td>37.00</td><td>3.01</td></tr><tr><td>V3</td><td>2.65</td><td>0.99</td><td>2.94</td><td>0.76</td><td>1.88</td><td>0.83</td></tr><tr><td>V4</td><td>62.15</td><td>27.60</td><td>88.88</td><td>47.21</td><td>75.07</td><td>48.00</td></tr><tr><td>Time 2</td><td/><td/><td/><td/><td/><td/></tr><tr><td>V1</td><td>42.59</td><td>9.87</td><td>40.80</td><td>8.54</td><td>33.38</td><td>11.71</td></tr><tr><td>V2</td><td>36.46</td><td>5.93</td><td>36.62</td><td>4.88</td><td>35.70</td><td>7.47</td></tr><tr><td>V3</td><td>2.80</td><td>0.73</td><td>2.83</td><td>0.93</td><td>2.35</td><td>0.90</td></tr><tr><td>V4</td><td>72.13</td><td>43.43</td><td>78.14</td><td>49.43</td><td>81.25</td><td>53.87</td></tr><tr><td>SE</td><td>16.36</td><td>2.15</td><td>16.07</td><td>1.58</td><td>15.88</td><td>1.73</td></tr><tr><td>SA</td><td>3.67</td><td>1.99</td><td>3.89</td><td>2.36</td><td>4.03</td><td>1.96</td></tr><tr><td>PR</td><td>10.46</td><td>2.34</td><td>10.68</td><td>2.99</td><td>11.13</td><td>4.19</td></tr><tr><td>CA</td><td>12.64</td><td>4.05</td><td>13.63</td><td>4.49</td><td>15.25</td><td>3.65</td></tr><tr><td>AP</td><td>3.94</td><td>1.40</td><td>3.74</td><td>1.77</td><td>4.13</td><td>1.64</td></tr><tr><td>AD</td><td>40.86</td><td>8.49</td><td>42.27</td><td>11.04</td><td>46.95</td><td>12.48</td></tr></table>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF6": {
+                "num": null,
+                "content": "<table><tr><td/><td colspan=\"2\">Cluster 1</td><td colspan=\"2\">Cluster 2</td><td colspan=\"2\">Cluster 3</td></tr><tr><td/><td colspan=\"2\">(n \u03ed 15)</td><td colspan=\"2\">(n \u03ed 28)</td><td colspan=\"2\">(n \u03ed 6)</td></tr><tr><td/><td>M</td><td>S D</td><td>M</td><td>S D</td><td>M</td><td>S D</td></tr><tr><td>Time 1</td><td/><td/><td/><td/><td/><td/></tr><tr><td>V1</td><td>40.07</td><td>8.82</td><td>45.57</td><td>8.57</td><td>41.59</td><td>8.82</td></tr><tr><td>V2</td><td>34.67</td><td>7.89</td><td>36.65</td><td>5.48</td><td>34.67</td><td>7.92</td></tr><tr><td>V3</td><td>2.70</td><td>0.79</td><td>2.96</td><td>0.74</td><td>3.00</td><td>1.10</td></tr><tr><td>V4</td><td>74.52</td><td>37.59</td><td>67.61</td><td>38.60</td><td>71.70</td><td>55.93</td></tr><tr><td>Time 2</td><td/><td/><td/><td/><td/><td/></tr><tr><td>V1</td><td>39.07</td><td>10.38</td><td>44.82</td><td>9.33</td><td>45.17</td><td>9.43</td></tr><tr><td>V2</td><td>37.24</td><td>5.42</td><td>37.76</td><td>6.13</td><td>34.00</td><td>6.75</td></tr><tr><td>V3</td><td>2.83</td><td>0.51</td><td>3.12</td><td>0.76</td><td>2.97</td><td>0.63</td></tr><tr><td>V4</td><td>63.26</td><td>38.72</td><td>67.24</td><td>32.57</td><td>81.17</td><td>41.67</td></tr><tr><td>SE</td><td>15.09</td><td>1.40</td><td>15.55</td><td>1.27</td><td>16.67</td><td>2.25</td></tr><tr><td>SA</td><td>3.53</td><td>1.46</td><td>3.45</td><td>1.71</td><td>5.17</td><td>3.71</td></tr><tr><td>PR</td><td>10.00</td><td>3.14</td><td>9.65</td><td>3.56</td><td>13.50</td><td>5.13</td></tr><tr><td>CA</td><td>11.47</td><td>3.44</td><td>11.43</td><td>4.24</td><td>14.17</td><td>8.52</td></tr><tr><td>AP</td><td>3.67</td><td>1.45</td><td>3.59</td><td>1.31</td><td>4.00</td><td>1.67</td></tr><tr><td>AD</td><td>39.80</td><td>10.19</td><td>38.17</td><td>10.47</td><td>50.17</td><td>21.85</td></tr><tr><td colspan=\"7\">[F(1, 28) \u03ed 3.86, p \u03fd .05]. Similarly, they had higher Time 2 achievement</td></tr><tr><td colspan=\"7\">scores than did boys in Cluster 3 [F(1, 28) \u03ed 4.64, p \u03fd .05]. Cluster 2 and</td></tr><tr><td colspan=\"7\">Cluster 3 also differed on Time 1 school behavior teacher rating scores.</td></tr><tr><td colspan=\"7\">Boys in Cluster 2 showed higher scores on the measure than did boys in</td></tr><tr><td colspan=\"4\">Cluster 3 [F(1, 26) \u03ed 10.56, p \u03fd .005].</td><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Perceived School Environment."
+            }
+        }
+    }
+}

@@ -1,0 +1,3063 @@
+{
+    "paper_id": "Heo_2015",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:01:52.405727Z"
+    },
+    "title": "Autoregressive Cross-Lagged Modeling of the Reciprocal Longitudinal Relationship Between Self-Esteem and Career Maturity",
+    "authors": [
+        {
+            "first": "Gyun",
+            "middle": [],
+            "last": "Heo",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Pukyong National University",
+                "location": {
+                    "settlement": "Busan",
+                    "country": "Korea"
+                }
+            },
+            "email": "gyunheo@pknu.ac.kr"
+        },
+        {
+            "first": "Taesung",
+            "middle": [],
+            "last": "Kim",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Labor and Employment Relations",
+                "institution": "The Pennsylvania State University",
+                "location": {
+                    "settlement": "University Park",
+                    "region": "PA",
+                    "country": "USA"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The purpose of the current research was to examine the reciprocal relationship among early adolescents between self-esteem and career maturity from the developmental/longitudinal perspective. Data from 1 to 4 (Grades 4-7) survey waves of the Korea Youth Panel Study, a longitudinal study of Korean youth organized by the National Youth Policy Institute and funded by the government of South Korea, were analyzed using autoregressive cross-lagged (ARCL) modeling. The results indicated (a) a positive autoregressive longitudinal relationship between career maturity and self-esteem over time, (b) no cross-lagged longitudinal relationship from career maturity to self-esteem over time, but a cross-lagged longitudinal relationship from self-esteem to career maturity over time, and (c) no gender difference in the ARCL model with self-esteem and career maturity. Findings hold implications for research and practice.",
+    "pdf_parse": {
+        "paper_id": "Heo_2015",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The purpose of the current research was to examine the reciprocal relationship among early adolescents between self-esteem and career maturity from the developmental/longitudinal perspective. Data from 1 to 4 (Grades 4-7) survey waves of the Korea Youth Panel Study, a longitudinal study of Korean youth organized by the National Youth Policy Institute and funded by the government of South Korea, were analyzed using autoregressive cross-lagged (ARCL) modeling. The results indicated (a) a positive autoregressive longitudinal relationship between career maturity and self-esteem over time, (b) no cross-lagged longitudinal relationship from career maturity to self-esteem over time, but a cross-lagged longitudinal relationship from self-esteem to career maturity over time, and (c) no gender difference in the ARCL model with self-esteem and career maturity. Findings hold implications for research and practice.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "description the concept of an individual's preparation for a vocation. Combined, career maturity is the degree to which one has an interest in his or her future vocation or career, is prepared for it, and engages in continuous career development over the span of his or her life. Career maturity has often been addressed from the perspective of developmental procedure. For example, Super (1957) classified the growth stages into fantasy (4-10 years old), interests (11-12 years old), and capacity (13-14 years old). Ginzberg (1966) added that early adolescence is a time of change from fantasy to tentative and subdivided the tentative period into four stages: interest, capacity, value, and transition. Generically speaking, as one grows from fourth to eighth grade (10-14 years old), he or she will change in stage from fantasy to interest and then to capacity.",
+                "cite_spans": [
+                    {
+                        "start": 383,
+                        "end": 395,
+                        "text": "Super (1957)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 517,
+                        "end": 532,
+                        "text": "Ginzberg (1966)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "An issue here is that early adolescents' development in terms of career maturity may take shape differently depending on the cultural context. For example, German and Korean early adolescents may differ in their development and perception of career maturity, considering that the decision about whether to go to academic or vocational school is made in fourth grade in the German education system (KMK, 2004) , while it is made in ninth grade in Korea. Arguably, many Korean students at this point in their lives spend a considerable amount of time taking private shadow education classes in addition to their public education (Oh & Kim, 2011) and associate their future career with the college they may enter. German peers consider whether to enroll in academic school (known as ''gymnasium '' or ''gesamtschule'') or vocational school (known as ''realschule''). Therefore, exploring early adolescents' career maturity and its relationship with self-esteem in culturally diverse settings will add to the literature for robust theorization.",
+                "cite_spans": [
+                    {
+                        "start": 397,
+                        "end": 408,
+                        "text": "(KMK, 2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 627,
+                        "end": 643,
+                        "text": "(Oh & Kim, 2011)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 792,
+                        "end": 815,
+                        "text": "'' or ''gesamtschule'')",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "It seems plausible to posit that those who have a positive attitude about themselves are more likely to spend time thinking about and planning for their future career. This has been supported by many studies (e.g., Greenhaus, 1971; Heo, 2012; Korman, 1966 Korman, , 1967 Korman, , 1969 Smith & Betz, 2002; Super, 1957) that reported a positive relationship between self-esteem and career maturity-related variables. Super (1957) characterized self-esteem as aiding the development of career maturity in a way of enhancing the recognition of career environment. Korman assumed that ''all other things being equal, individuals will engage in those behavioral roles which will maximize their sense of cognitive balance or consistency '' (1966, p. 479) and found that self-esteem interacted with career maturity in the vocational choice process, such that persons with high self-esteem were more likely to choose occupations requiring greater efforts (1967) and seek self-fulfillment in making their vocational choices (1969) . Smith and Betz (2002) reported that self-esteem positively influenced self-efficacy of career decision making and negatively affected career indecision during the developmental process.",
+                "cite_spans": [
+                    {
+                        "start": 215,
+                        "end": 231,
+                        "text": "Greenhaus, 1971;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 232,
+                        "end": 242,
+                        "text": "Heo, 2012;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 243,
+                        "end": 255,
+                        "text": "Korman, 1966",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 256,
+                        "end": 270,
+                        "text": "Korman, , 1967",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 271,
+                        "end": 285,
+                        "text": "Korman, , 1969",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 286,
+                        "end": 305,
+                        "text": "Smith & Betz, 2002;",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 306,
+                        "end": 318,
+                        "text": "Super, 1957)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 416,
+                        "end": 428,
+                        "text": "Super (1957)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 731,
+                        "end": 748,
+                        "text": "'' (1966, p. 479)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 947,
+                        "end": 953,
+                        "text": "(1967)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1015,
+                        "end": 1021,
+                        "text": "(1969)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1024,
+                        "end": 1045,
+                        "text": "Smith and Betz (2002)",
+                        "ref_id": "BIBREF55"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cross-Lagged Relationship Between Self-Esteem and Career Maturity",
+                "sec_num": null
+            },
+            {
+                "text": "It is also reasonable to believe that career maturity affects self-esteem over time because individuals keep consciously/unconsciously reevaluating their self-esteem as they become mature and experienced throughout their career. Kahn and Alvi (1983) reported that Career Maturity Inventory (CMI) scores were correlated with self-esteem-higher scores indicated higher self-esteem. Kawai and Yamazai (2006) found, in a longitudinal study with 890 men and women new to the workforce, that preentry career maturity affected their mental health, such as depression, self-esteem, psychosomatic symptoms, and work motivation. Heo (2012) showed, using latent growth modeling with longitudinal data across 5 years, that the initial state and slope of career maturity among the 8th-12th graders positively affected self-esteem in the 12th graders.",
+                "cite_spans": [
+                    {
+                        "start": 229,
+                        "end": 249,
+                        "text": "Kahn and Alvi (1983)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 380,
+                        "end": 404,
+                        "text": "Kawai and Yamazai (2006)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 619,
+                        "end": 629,
+                        "text": "Heo (2012)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cross-Lagged Relationship Between Self-Esteem and Career Maturity",
+                "sec_num": null
+            },
+            {
+                "text": "Despite these studies, few have looked at these two constructs as a mutually affecting factor. In other words, most studies have examined a unidirectional relationship from one to the other rather than a bilateral/interactive relationship between the two.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cross-Lagged Relationship Between Self-Esteem and Career Maturity",
+                "sec_num": null
+            },
+            {
+                "text": "Career maturity tends to increase over time during not only adulthood (Herr, 1970; Super, 1957) but also adolescence (Cha, Kim, Lee, & Kim, 2007; Heo, 2009; Kim, 2009; Kim & Roh, 2008) . Cha, Kim, Lee, and Kim (2007) reported a changing career maturity trend during different developmental phases from 8th to 10th grade, with the main effect of time being positive. Kim and Roh (2008) analyzed longitudinal data on adolescents' efforts to enhance their career maturity over time. Heo (2009) found through latent growth modeling that the slope of vocational maturity in early adolescence moved in a positive direction.",
+                "cite_spans": [
+                    {
+                        "start": 70,
+                        "end": 82,
+                        "text": "(Herr, 1970;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 83,
+                        "end": 95,
+                        "text": "Super, 1957)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 117,
+                        "end": 145,
+                        "text": "(Cha, Kim, Lee, & Kim, 2007;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 146,
+                        "end": 156,
+                        "text": "Heo, 2009;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 157,
+                        "end": 167,
+                        "text": "Kim, 2009;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 168,
+                        "end": 184,
+                        "text": "Kim & Roh, 2008)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 187,
+                        "end": 216,
+                        "text": "Cha, Kim, Lee, and Kim (2007)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 366,
+                        "end": 384,
+                        "text": "Kim and Roh (2008)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 480,
+                        "end": 490,
+                        "text": "Heo (2009)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Autoregressive Relationship of Self-Esteem and Career Maturity",
+                "sec_num": null
+            },
+            {
+                "text": "In contrast, self-esteem is not something that increases or decreases over time. Rather, self-esteem is stable over time and varies little during an individual's aging process (Chung, 2007; Cole et al., 2001) . Hong, Park, and Hong (2006) added that the direction of one's self-esteem stabilizes after late adolescence.",
+                "cite_spans": [
+                    {
+                        "start": 176,
+                        "end": 189,
+                        "text": "(Chung, 2007;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 190,
+                        "end": 208,
+                        "text": "Cole et al., 2001)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 211,
+                        "end": 238,
+                        "text": "Hong, Park, and Hong (2006)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Autoregressive Relationship of Self-Esteem and Career Maturity",
+                "sec_num": null
+            },
+            {
+                "text": "Another issue here is that, in spite of their interest in the developmental nature of these factors posited to progress from early adolescence or even before (Ginzberg, 1966; Super, 1957) , many studies lack the developmental process perspective by looking at subjects aged 15 years or older using cross-sectional data collected at a specific point of time.",
+                "cite_spans": [
+                    {
+                        "start": 158,
+                        "end": 174,
+                        "text": "(Ginzberg, 1966;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 175,
+                        "end": 187,
+                        "text": "Super, 1957)",
+                        "ref_id": "BIBREF58"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Autoregressive Relationship of Self-Esteem and Career Maturity",
+                "sec_num": null
+            },
+            {
+                "text": "Previous studies on career maturity have reported inconsistent results with regard to gender differences. Some (e.g., King, 1989; Luzzo, 1995) reported that women are more likely to be career mature than are men. Achebe (1982) reported higher career maturity levels for men and Barnes (2001) indicated no difference. This additional issue calls for continuous investigation with different age-groups in diverse contexts.",
+                "cite_spans": [
+                    {
+                        "start": 118,
+                        "end": 129,
+                        "text": "King, 1989;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 130,
+                        "end": 142,
+                        "text": "Luzzo, 1995)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 213,
+                        "end": 226,
+                        "text": "Achebe (1982)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 278,
+                        "end": 291,
+                        "text": "Barnes (2001)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Gender Differences",
+                "sec_num": null
+            },
+            {
+                "text": "This research used data from the first-(2004), second- (2005), third-(2006) , and fourth-(2007) year follow-up surveys of the Korea Youth Panel Study (KYPS), a longitudinal study of Korean youth organized by the National Youth Policy Institute (NYPI) and funded by the government of South Korea (Lee, Im, & Ahn, 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 55,
+                        "end": 75,
+                        "text": "(2005), third-(2006)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 295,
+                        "end": 317,
+                        "text": "(Lee, Im, & Ahn, 2008)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Participants in the KYPS survey were students from fourth to seventh grade, who were tracked each year. After receiving an explanation of and introduction to the survey, they filled it out in their classrooms. The KYPS employed the stratified multistage cluster sampling method to secure the number for each sample in proportion to the population in regions of Korea. Since our purpose was to look for a longitudinal relationship between students' self-esteem and career maturity, the KYPS data sets were found to be highly relevant to this study. Their longitudinal nature made it possible to assess the mutual relationship, and the size and stratified collection of the national sample of early adolescent students provided a reliable base for statistical inference. The Wave 1 2004 Measures Self-esteem. Six items were used for the latent variable of self-esteem. These items are based on Rosenberg's Self-Esteem Scale (1965) operationalized to comprehensively assess how a person evaluates his or her own worth and validated by many studies (e.g., Emmanuelle, 2009; Heo, 2013; Kammeyer-Muller, Judge, & Piccolo, 2008; Patton, Bartum, & Creed, 2004) in terms of its theoretical base and coverage of dimensions (i.e., construct validity and content validity). In addition, Schmitt and Allik (2005) reported the scale's external validity based on research evidence with a multitude of participants in 53 nations including Korea, and Many Korean researchers (Chung, 2007; Heo, 2012 Heo, , 2013 Kim & An, 2005) have used and validated the scale since Jeon's (1974) translation and cultural validity test.",
+                "cite_spans": [
+                    {
+                        "start": 1052,
+                        "end": 1069,
+                        "text": "Emmanuelle, 2009;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1070,
+                        "end": 1080,
+                        "text": "Heo, 2013;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 1081,
+                        "end": 1121,
+                        "text": "Kammeyer-Muller, Judge, & Piccolo, 2008;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1122,
+                        "end": 1152,
+                        "text": "Patton, Bartum, & Creed, 2004)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 1275,
+                        "end": 1299,
+                        "text": "Schmitt and Allik (2005)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 1458,
+                        "end": 1471,
+                        "text": "(Chung, 2007;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1472,
+                        "end": 1481,
+                        "text": "Heo, 2012",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 1482,
+                        "end": 1493,
+                        "text": "Heo, , 2013",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 1494,
+                        "end": 1509,
+                        "text": "Kim & An, 2005)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 1550,
+                        "end": 1563,
+                        "text": "Jeon's (1974)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Participants were asked to rate their level of self-esteem on a 5-point scale ranging from 1 (strongly disagree) to 5 (strongly agree) in the following six categories: (1) ''I think that I have a good character,'' (2) ''I think that I am a competent person,'' (3) ''I think that I am a worthy person,'' (4) ''Sometimes I think that I am a worthless person,'' (5) ''Sometimes I think that I am a bad person,'' and (6) ''I generally feel that I am a failure in life.'' Responses were coded/recoded, so that higher scores indicated the higher self-esteem. Then, to reasonably estimate the model fitness in the structural equation modeling framework while reducing the estimation error, 6 items were transformed into two summative measurement variables using the item parceling technique. Item parceling is known to address the issue that using too many items as measurement variables can make the assessment of a model's fitness difficult (Bandalos, 2002; Bandalos & Finney, 2001; Hong, Park, & Kim, 2007; Williams & O'Boyle, 2008) . Along with a logical distinction between Items 1, 2, and 3 asking a positive view of self and Items 4, 5, and 6 asking the opposite, factor loadings for self-esteem in Table 1 also show how items were assigned to two summative measurement variables and indicate their construct validity. The Cronbach's coefficient as for the four waves were .741, .764, .761, and .767, respectively.",
+                "cite_spans": [
+                    {
+                        "start": 936,
+                        "end": 952,
+                        "text": "(Bandalos, 2002;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 953,
+                        "end": 977,
+                        "text": "Bandalos & Finney, 2001;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 978,
+                        "end": 1002,
+                        "text": "Hong, Park, & Kim, 2007;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1003,
+                        "end": 1028,
+                        "text": "Williams & O'Boyle, 2008)",
+                        "ref_id": "BIBREF63"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1199,
+                        "end": 1206,
+                        "text": "Table 1",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Career maturity. Seven items were used for the latent variable of career maturity. The items in the KYPS survey were selected from the Korean CMI developed based on Crites' (1978) CMI and optimized and validated in terms of its construct and content in the Korean environment by NYPI (Lee, Kim, Oh, Kim, & Kim, 2004) and others (e.g., Cha et al., 2007; Heo, 2009 Heo, , 2012 .",
+                "cite_spans": [
+                    {
+                        "start": 165,
+                        "end": 179,
+                        "text": "Crites' (1978)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 284,
+                        "end": 316,
+                        "text": "(Lee, Kim, Oh, Kim, & Kim, 2004)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 335,
+                        "end": 352,
+                        "text": "Cha et al., 2007;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 353,
+                        "end": 362,
+                        "text": "Heo, 2009",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 363,
+                        "end": 374,
+                        "text": "Heo, , 2012",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Participants were asked to rate their level of career maturity on a 5-point scale ranging from 1 (very untrue) to 5 (very true) in the following seven categories: (1) ''I do not have enough information about my competencies or personal traits such as what I like to do and what I do well,'' (2) ''I do not have enough information about kinds and characteristics of various occupations,'' (3) ''Even though I know quite a lot about careers, I am attracted to a number of them, so it is difficult for me to choose one among them,'' (4) ''I constantly make changes in career planning,'' (5) ''I find it difficult to make a career decision because of the difference between my parents and myself regarding career plan,'' (6) ''It is meaningless to make a career decision now because I do not know what the future will be like,'' and (7) ''In making a career decision, I tend to follow my parents' recommendations more than my own opinion.'' Responses were coded/recoded, so that higher scores indicated a higher career maturity. Then, to estimate the model fitness and reduce the estimation error, 7 items were transformed into three summative measurement variables. With Items 1 and 2 converging into the perceived level of career-related information, Items 3 and 4 into the perceived difficulty with career planning, and Items 5, 6, and 7 into a participant's decisiveness toward career decision making, factor loadings for career maturity in Table 1 support the assignment of items and construct validity. The Cronbach's coefficient as for the four waves were .639, .717, .741, and .766, respectively.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1441,
+                        "end": 1448,
+                        "text": "Table 1",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "To identify the reciprocal longitudinal relationship between self-esteem and career maturity, ARCL modeling was used in this study. In ARCL model, scores at time (t) sufficiently account for score deviation at a previous time (t \u00c0 1; Curran & Bollen, 2001; Hong et al., 2007) . Autoregressive effect is calculated using coefficient values obtained by regressing the measure from a previous time point to the next time point. As the number of multivariate cases increases, interrelationships emerge between constructs. The cross-lagged effect is calculated using coefficient values obtained by regressing the measure from the other construct's previous time point to each construct's time point. ARCL model has merits that include its assistance in estimating the relationship between theoretical concepts, controlling for measurement errors, and assessing the assumption of metric invariance that the theoretical concepts do not change over time (Hong, Yoo, You, & Wu, 2010; Steenkamp & Baumgartner, 1998) .",
+                "cite_spans": [
+                    {
+                        "start": 234,
+                        "end": 256,
+                        "text": "Curran & Bollen, 2001;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 257,
+                        "end": 275,
+                        "text": "Hong et al., 2007)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 946,
+                        "end": 974,
+                        "text": "(Hong, Yoo, You, & Wu, 2010;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 975,
+                        "end": 1005,
+                        "text": "Steenkamp & Baumgartner, 1998)",
+                        "ref_id": "BIBREF57"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Procedure: ARCL Modeling",
+                "sec_num": null
+            },
+            {
+                "text": "In exploring the ARCL model, this research included analyses of measurement invariance, path invariance, and error covariance invariance in sequence, where the term ''invariance'' is used as ''homogeneity'' (Hong et al., 2007; Song et al., 2012) . Figure 1 shows the research model.",
+                "cite_spans": [
+                    {
+                        "start": 207,
+                        "end": 226,
+                        "text": "(Hong et al., 2007;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 227,
+                        "end": 245,
+                        "text": "Song et al., 2012)",
+                        "ref_id": "BIBREF56"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 248,
+                        "end": 256,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Procedure: ARCL Modeling",
+                "sec_num": null
+            },
+            {
+                "text": "Descriptive statistics for both career maturity and self-esteem are presented in Table 2 . Means for career maturity and self-esteem were 3.745-3.848 and 3.417-3.492, respectively. The distributions were judged normal with skewness being less than 2 and kurtosis being less than 7 (Curran, West, & Finch, 1996) , which allowed this research to proceed with the ARCL model.",
+                "cite_spans": [
+                    {
+                        "start": 281,
+                        "end": 310,
+                        "text": "(Curran, West, & Finch, 1996)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 81,
+                        "end": 88,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Descriptive Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Pearson's correlation analysis was performed before analyzing the ARCL model. As shown in Table  2 , results presented statistically significant correlations (p < .01) among (a ",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 90,
+                        "end": 98,
+                        "text": "Table  2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Correlations Between Career Maturity and Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "To examine the reciprocal longitudinal relationship between career maturity and self-esteem, we selected the final optimal model and conducted the ARCL analysis after testing measurement invariance, path invariance, and error covariance invariance. Table 3 shows the process of selecting the optimal model. Model 1 was a base model without constraints. Model 2 was a measurement invariance model for the construct of career maturity. It constrained every factor loading at every time point. Figure 2 shows the invariance model with the same measurement of career maturity, where both ''a1'' and ''a2'' are the factor loading index for constraint in the construct of career maturity at each time point. Model 3 constrained the same factor loading value at each time point by confirming the measurement invariance in the latent construct for self-esteem. Figure 2 shows invariance constraint such as ''b1''-the measurement of the same construct (i.e., self-esteem)-with measurement variables for each year. Model 4 was a constraint model for determining path congruence as an autoregressive coefficient (''A'' in Figure 2 ) of career maturity. Model 5 was a constraint model for determining path congruence as an autoregressive coefficient (''B'' in Figure 2 ) of self-esteem. Model 6 was a constraint model for identifying path congruence from career maturity to self-esteem as a cross-lagged coefficient (''C'' in Figure 2 ). Model 7 was a constraint model for finding path congruence from self-esteem to career maturity for the cross-lagged coefficient (''D'' in Figure 2 ). Model 8 was a constraint model for identifying error covariance invariance from the error coefficient (''E'' in Figure 2 ) for career maturity and self-esteem. We judged that all models fit well by looking at multiple model fit indices including the Tucker-Lewis index (TLI), comparative fit index (CFI), and root mean square error of approximation (RMSEA; Browne & Cudeck, 1993; Hu & Bentler, 1999; Tucker & Lewis, 1973) because w 2 is known to be sensitive to the sample size (Fornell & Larcker, 1981; Hong et al., 2007; McDonald & Ho, 2002) . Then, we analyzed statistics sequentially and compared the results to find the optimal model among the eight models with the model simplicity principle that the nested model can be selected if the constraints are included and the fit indices are not moving in a negative direction (Hong et al., 2007; Song et al., 2012) . According to the sequential analyses with constraints from Models 1 to 8, where the fit indices were not moving in a negative direction, Model 8 was selected as the final ARCL model. Fit indices for Model 8-TLI \u00bc .958, CFI \u00bc .971, and RMSEA \u00bc .025indicated that the ARCL model matched the data well.",
+                "cite_spans": [
+                    {
+                        "start": 1933,
+                        "end": 1955,
+                        "text": "Browne & Cudeck, 1993;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1956,
+                        "end": 1975,
+                        "text": "Hu & Bentler, 1999;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1976,
+                        "end": 1997,
+                        "text": "Tucker & Lewis, 1973)",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 2054,
+                        "end": 2079,
+                        "text": "(Fornell & Larcker, 1981;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 2080,
+                        "end": 2098,
+                        "text": "Hong et al., 2007;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 2099,
+                        "end": 2119,
+                        "text": "McDonald & Ho, 2002)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 2403,
+                        "end": 2422,
+                        "text": "(Hong et al., 2007;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 2423,
+                        "end": 2441,
+                        "text": "Song et al., 2012)",
+                        "ref_id": "BIBREF56"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 249,
+                        "end": 256,
+                        "text": "Table 3",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 491,
+                        "end": 499,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 853,
+                        "end": 861,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1111,
+                        "end": 1119,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1248,
+                        "end": 1256,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1414,
+                        "end": 1422,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1564,
+                        "end": 1572,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1688,
+                        "end": 1696,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results for the ARCL Model",
+                "sec_num": null
+            },
+            {
+                "text": "Subsequently, we conducted the ARCL analysis using Model 8, which rendered the results presented in Figure 2 with the standardized path coefficients. To be specific, the autoregressive relationship, known to better control the stabilities in the cross-lagged model (Lee, 2011) , was first examined to find that both career maturity and self-esteem in early adolescence were stable from one measurement point to the next point. The stability coefficients for career maturity were all positive and statistically significant-b \u00bc .398, .435, and .429; all ps < .001 (Research Question 1). The stability coefficients for self-esteem were also all positive and statistically significant-b \u00bc .783, 778, and .707; all ps < .001 (Research Question 2). Then, the cross-lagged analysis was conducted-we found that career maturity and self-esteem had no reciprocal influences across each time point but only a cross-lagged effect from self-esteem to career maturity. Statistically significant coefficients were found only on three paths: from self-esteem in Wave 1 to career maturity in Wave 2 (b \u00bc .165, p < .001), from self-esteem in Wave 2 to career maturity in Wave 3 (b \u00bc .161, p <.001), and from self-esteem in Wave 3 to career maturity in Wave 4 (b \u00bc .156, p <.001). In other words, career maturity has no significant effect on self-esteem (Research Question 3), while self-esteem exerts a significant positive effect on career maturity (Research Question 4), as students advance from fourth to seventh grade in South Korea.",
+                "cite_spans": [
+                    {
+                        "start": 265,
+                        "end": 276,
+                        "text": "(Lee, 2011)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 100,
+                        "end": 108,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results for the ARCL Model",
+                "sec_num": null
+            },
+            {
+                "text": "To identify whether there is a gender difference in the relationship between career maturity and self-esteem based on the ARCL model, we performed a multigroup analysis by comparing the structural coefficients (i.e., structural invariance). We divided the final ARCL model by gender and analyzed each group to check for configural invariance. We compared Boys' Model 1, which did not constrain invariance, with Girls' Model 2, which did constrain invariance and found that Girls' Model 2 fit equally well for both girls and boys and therefore satisfied configural invariance with path coefficients estimated in Figure 2 . Also, we checked the assumption of metric invariance between the genders by evaluating the factor loading values in group comparisons (Hong et al., 2007) and found that the assumption was met. Specifically, the Base model was not an invariant-constrained model based on Model 8, and Metric Invariance Model 1 did not differ significantly from the Base model. The comparison between the two models presented a significantly different Dw 2 -Dw 2 (Ddf \u00bc 3) \u00bc 21.409-and slightly diminished TLI-DTLI \u00bc \u00c0.002. However, we judged that the metric invariance assumption was satisfied because Dw 2 is affected by sample size, DRMSEA \u00bc .000, and DCFI \u00bc .002 that was below .01 (Cheung & Rensvold, 2002) . In addition, Structural Invariance Model 2 satisfied the assumption of path invariance as well with little or no change in fit indices-Dw 2 (Ddf \u00bc 4) \u00bc 7.403, DRMSEA \u00bc .000, DCFI \u00bc \u00c0.001, and DTLI \u00bc .000 (see Table 3 ). All these results indicated that there was no gender difference in the ARCL model with self-esteem and career maturity (Research Question 5).",
+                "cite_spans": [
+                    {
+                        "start": 756,
+                        "end": 775,
+                        "text": "(Hong et al., 2007)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1289,
+                        "end": 1314,
+                        "text": "(Cheung & Rensvold, 2002)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 611,
+                        "end": 619,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1526,
+                        "end": 1533,
+                        "text": "Table 3",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Multigroup Analysis Results: Gender Difference in the ARCL Model",
+                "sec_num": null
+            },
+            {
+                "text": "The purpose of this study was to investigate, using a longitudinal data set on Korean early adolescents, a reciprocal longitudinal relationship between self-esteem and career maturity. The analytical findings answered the research questions as follows: (a) there was a positive autoregressive longitudinal relationship in career maturity over time, (b) there was a positive autoregressive longitudinal relationship in self-esteem over time, (c) there was no cross-lagged longitudinal relationship from career maturity to self-esteem over time, (d) there was a cross-lagged longitudinal relationship from self-esteem to career maturity over time, and (e) there was no gender difference in the ARCL model with self-esteem and career maturity during early adolescence in Korea. Based on these results, we discuss implications for research and practice.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In this study, preceding stages in career maturity positively and significantly affected following stages throughout fourth to seventh grades. This agrees with previous arguments that career maturity increases over time (Cha et al., 2007; Heo, 2009; Herr, 1970; Kim, 2009; Super, 1957) . Especially, this finding corresponds with Cha et al.'s (2007) research-career maturity was evident among Korean 8th-10th graders based on a cross-sectional analysis-to expand the empirical inference about career maturity to early adolescents and adolescents (4th-10th) in the Korean context. In this vein, research attempts to extend longitudinal and cross-cultural validation in the interest of more compelling and generalizable theory building on career maturity are encouraged.",
+                "cite_spans": [
+                    {
+                        "start": 220,
+                        "end": 238,
+                        "text": "(Cha et al., 2007;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 239,
+                        "end": 249,
+                        "text": "Heo, 2009;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 250,
+                        "end": 261,
+                        "text": "Herr, 1970;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 262,
+                        "end": 272,
+                        "text": "Kim, 2009;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 273,
+                        "end": 285,
+                        "text": "Super, 1957)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 330,
+                        "end": 349,
+                        "text": "Cha et al.'s (2007)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Research",
+                "sec_num": null
+            },
+            {
+                "text": "Self-esteem was also found positively stable over time during early adolescence, which complements the extant literature on adolescents' self-esteem which has shown that little changes over time (Chung, 2007; Cole et al., 2001; Hong et al., 2006) and stretches this consistent result to the early adolescent age-group. Considering the widely tested construct validity of the measurement and crosscultural validity of the findings, this phenomenon appears to leave little room for extensive refutability. Therefore, besides the quantitative approach, qualitative research attempts to delve deeper into the nature and characteristics of this phenomenon by exploring subjective experiences are invited to further our epistemology on (early) adolescents (Creswell, 2012) . Identification of individual and environmental factors that may disrupt stability could be an example of this sort, which would inform frontline educators and parents as well as researchers.",
+                "cite_spans": [
+                    {
+                        "start": 195,
+                        "end": 208,
+                        "text": "(Chung, 2007;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 209,
+                        "end": 227,
+                        "text": "Cole et al., 2001;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 228,
+                        "end": 246,
+                        "text": "Hong et al., 2006)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 750,
+                        "end": 766,
+                        "text": "(Creswell, 2012)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Research",
+                "sec_num": null
+            },
+            {
+                "text": "Consistent with previous studies (e.g., Greenhaus, 1971; Heo, 2009; Kahn & Alvi, 1983) , the crosslagged effect of self-esteem on career maturity was statistically significant over time. However, the cross-lagged effect in reverse was not statistically significant, which differed from some studies with similar variables that had reported the significance (e.g., Emmanuelle, 2009; Heo, 2012; Kawai & Yamazaki, 2006; Smith & Betz, 2002) . Presumably, the reason for the disagreement in the latter might be in part due to the difference in age-group (e.g., university students vs. early adolescents) or data attributes (e.g., cross sectional vs. longitudinal) researched. Therefore, the following investigation into a more extended time period from the developmental (i.e., longitudinal) perspective should be a valued effort especially when considering the study subjects being not-yet adults.",
+                "cite_spans": [
+                    {
+                        "start": 40,
+                        "end": 56,
+                        "text": "Greenhaus, 1971;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 57,
+                        "end": 67,
+                        "text": "Heo, 2009;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 68,
+                        "end": 86,
+                        "text": "Kahn & Alvi, 1983)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 364,
+                        "end": 381,
+                        "text": "Emmanuelle, 2009;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 382,
+                        "end": 392,
+                        "text": "Heo, 2012;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 393,
+                        "end": 416,
+                        "text": "Kawai & Yamazaki, 2006;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 417,
+                        "end": 436,
+                        "text": "Smith & Betz, 2002)",
+                        "ref_id": "BIBREF55"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Research",
+                "sec_num": null
+            },
+            {
+                "text": "The research model did not indicate gender differences among Korean early adolescents. As mentioned earlier, previous studies have offered conflicting findings with regard to gender difference and career maturity. This study's findings are in line with Barnes's (2001) by offering an additional empirical finding of no gender difference. Inconsistent research results about variations in persons and settings are a threat to the external validity of a theory or scientific argument and thus limit its generalization (Shadish, Cook, & Campbell, 2002) . Therefore, rather than selectively relying on one claim or another, researchers and policy makers are advised to conduct/refer to a time-and contextspecific assessment to determine whether there is a gender difference in their study of focus.",
+                "cite_spans": [
+                    {
+                        "start": 253,
+                        "end": 268,
+                        "text": "Barnes's (2001)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 516,
+                        "end": 549,
+                        "text": "(Shadish, Cook, & Campbell, 2002)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Research",
+                "sec_num": null
+            },
+            {
+                "text": "It appears natural yet remarkable that early adolescents become career mature steadily without any formal career-related curriculum. Presumably, they construct perceptions of and perspectives on their career from information gleaned from daily conversations, individual experiences, and own research and reflections in a social context (Glasersfeld, 1989; Vygotskii, 1978) that are informal and/or incidental in nature. Therefore, parents and educators should facilitate students' inquiry into their interests and competencies and serve as an information provider, discussion partner, and decision-making helper. Metaphorically, rather than being a bus driver who takes the student on an already-planned route that is the same for everyone, they are encouraged to be a back seat corider of a tandem who helps the student make decisions on the route, pace, and so on of his or her learning and career journeys (Cross, 2007) .",
+                "cite_spans": [
+                    {
+                        "start": 336,
+                        "end": 355,
+                        "text": "(Glasersfeld, 1989;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 356,
+                        "end": 372,
+                        "text": "Vygotskii, 1978)",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 909,
+                        "end": 922,
+                        "text": "(Cross, 2007)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Practice",
+                "sec_num": null
+            },
+            {
+                "text": "The autoregressive propensity of career maturity and self-esteem suggests that parents and teachers of early adolescents and/or younger children should pay attention to these elements as they form. We do not argue that the structural curriculum on these topics should necessarily be placed in the public education system at a certain grade. Rather, the educator's roles and competencies should serve to provide inspiring feedback for students, aiding them to believe that they are good, competent, worthy, and able to make the right decision. Valuing efforts, applauding achievements, appreciating contributions, and respecting decisions are some examples that would make a lasting difference in their lives. The more time and effort educators devote to these activities, the more likely it is that students will maintain a sense of self-esteem and maturity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Practice",
+                "sec_num": null
+            },
+            {
+                "text": "The cross-lagged longitudinal influence of self-esteem on career maturity holds policy implications. Many Korean students strive from early ages to enter a so-called ''good'' university that will lead to career success as represented by a reputable job, decent income, and high-social status (Kim, 2006; Lee, 2002) . Those in Germany make relatively straightforward and earlier career decisions. Since the Smith-Hughes Act of 1917 mandated the integration of vocational and academic programs into the public school system, whether the coexistence is effective in terms of students' preparation for future careers has been a topic of ongoing debate in the United States. However, as indicated by many studies including ours, students commonly cruise toward a career path on their own power regardless of the education system. Therefore, attempts to make dramatic changes with the education system based on limited/biased information about others' may not be the best way. Rather, policy makers are advised to engage in making relentless progress in their own system and attach importance to students' selfconcepts when designing career-related curricula and activities. In doing so, benchmarking others, referring to research and best practices, and fostering social discourse should go together since these all mutually inform parenting, teaching, counseling, and policy making.",
+                "cite_spans": [
+                    {
+                        "start": 292,
+                        "end": 303,
+                        "text": "(Kim, 2006;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 304,
+                        "end": 314,
+                        "text": "Lee, 2002)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Practice",
+                "sec_num": null
+            },
+            {
+                "text": "There also is room for discussion on the topic of gender difference in terms of students' interest, age, and educational circumstances. Korean early adolescents in the fourth to seventh grades are less likely to be engaged in gender-specific career considerations yet because they are not required to make a concrete career-related decision that might relate to gender-specific career roles and expectations. In other words, the result may (or not) differ if the focus is adolescents or young adults since they have accumulated (biased/balanced) knowledge and experiences regarding their parents' expectations, societal traditions and circumstances, and their own interests and capacities. In addition, traditional gender roles continue to be redefined, gender-specific barriers and boundaries associated with a certain career path are being restructured, and the gender gap keeps narrowing for many socioeconomic indicators such as labor force participation rates, pay levels, and leadership position distributions. Therefore, counseling and career guidance programs should be arranged in consideration of a student's careerrelated stage and changing social trends to celebrate diversity and pursue gender equality.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for Practice",
+                "sec_num": null
+            },
+            {
+                "text": "Despite utilizing national longitudinal data collected using validated measurements, the reliability range we judged acceptable for this study might be discussed as a limitation. To be specific, all Cronbach's a values in this study were higher than .7 with one exception: career maturity in the first wave (.639). We based our judgment on the general rule of thumb that a Cronbach's a of .7 or higher is good and .6 or higher is acceptable (Hair, Anderson, Tatham, & Black, 1998; Kline, 2000; Urdan, 2010) . We also used latent variables to help resolve potential reliability-related issues. Nonetheless, future research that revisits and redesigns the panel study to improve internal consistency reliability might be a desirable follow-up.",
+                "cite_spans": [
+                    {
+                        "start": 441,
+                        "end": 480,
+                        "text": "(Hair, Anderson, Tatham, & Black, 1998;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 481,
+                        "end": 493,
+                        "text": "Kline, 2000;",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 494,
+                        "end": 506,
+                        "text": "Urdan, 2010)",
+                        "ref_id": "BIBREF61"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "There might be a concern that the degree of variability within and relationships between the constructs/waves could be inflated or attenuated with a large sample. This might lead to a question about such findings, as there is no significant gender differences in self-esteem and career maturity in this research, given some reporting otherwise. As aforementioned, we acknowledge differing results might occur due to the data attributes such as age and cultural context, as well as size, and therefore invite continued scholarly inquiry into this research topic and the statistical and substantive presentations of this research.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "Another limitation is the conduct of this study in the South Korean context only, which leads us to caution against generalizing the findings. As indicated earlier, research should extend the scope of examination to the entire continuum of human life in many cultural contexts. Even though we attempted to do so, this call still remains open to scholarly explorations that will expand the horizon of career theory.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "Researchers have been interested in whether/how a student's self-concept contributes to his or her career maturity. This study identified a research opportunity to address issues in the previous literature-the need to investigate the reciprocal longitudinal relationship between career maturity and self-esteem among early adolescents in diverse cultural contexts. The longitudinal analysis of Korean national data on early adolescents revealed that self-esteem and career maturity were stable over the developmental period of early adolescence, self-esteem had a cross-lagged influence on career maturity, and there was no gender difference in the relationship. While enriching the literature on career theory with empirical evidence involving Korean early agers, this study holds implications for researchers, educators, and policy makers who seek to provide effective support for students to grow and succeed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "In conclusion, career success is better secured by the sequential development of self-esteem, career maturity, and career planning. Therefore, effective career counseling requires parents and educators to pay attention to students' self-esteem and career maturity first and then to help them engage in career planning, ''a deliberate process for becoming aware of self, opportunities, constraints, choices, and consequences: identifying career-related goals: and 'career pathing' or programming work, education, and related developmental experiences to provide the direction, timing, and sequence of steps to attain a specific career goal'' (Rothwell & Sredl, 2000, p. 12) .",
+                "cite_spans": [
+                    {
+                        "start": 641,
+                        "end": 672,
+                        "text": "(Rothwell & Sredl, 2000, p. 12)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Declaration of Conflicting Interests",
+                "sec_num": null
+            },
+            {
+                "text": "at Universitaetsbibliothek Trier on August 15, 2016 jcd.sagepub.com Downloaded from",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Journal of Career Development at Universitaetsbibliothek Trier on August 15, 2016 jcd.sagepub.com Downloaded from",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "The author(s) received no financial support for the research, authorship, and/or publication of this article. ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Funding",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Assessing the vocational maturity of students in the east central state of Nigeria",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Achebe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Journal of Vocational Behavior",
+                "volume": "20",
+                "issue": "",
+                "pages": "153--161",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Achebe, C. (1982). Assessing the vocational maturity of students in the east central state of Nigeria. Journal of Vocational Behavior, 20, 153-161.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The effects of item parceling on goodness-of-fit and parameter estimate bias in structural equation modeling",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Bandalos",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Structural Equation Modeling",
+                "volume": "9",
+                "issue": "",
+                "pages": "78--102",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bandalos, D. L. (2002). The effects of item parceling on goodness-of-fit and parameter estimate bias in structural equation modeling. Structural Equation Modeling, 9, 78-102.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Item parceling issues in structural equation modeling",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Bandalos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Finney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "New developments and techniques in structural equation modeling",
+                "volume": "",
+                "issue": "",
+                "pages": "269--296",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bandalos, D. L., & Finney, S. J. (2001). Item parceling issues in structural equation modeling. In G. A. Mar- coulides & R. E. Schumacker (Eds.), New developments and techniques in structural equation modeling (pp. 269-296). Mahwah, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Student career development in grade 9 and grade 12: Can growth be assumed?",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Barnes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Barnes, P. E. (2001, April). Student career development in grade 9 and grade 12: Can growth be assumed? Paper presented at the Annual Conference of the American Educational Research Association, Seattle, WA.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Alternative ways of assessing model fit",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Browne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Cudeck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Testing structural equation models",
+                "volume": "",
+                "issue": "",
+                "pages": "136--162",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Browne, M. W., & Cudeck, R. (1993). Alternative ways of assessing model fit. In K. A. Bollen & J. S. Long (Eds), Testing structural equation models (pp. 136-162). Newbury Park, CA: Sage.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Gender difference and developmental trend in career maturity and career indecision among adolescents",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Cha",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "The Korean Journal of Educational Psychology",
+                "volume": "21",
+                "issue": "",
+                "pages": "923--944",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cha, J. E., Kim, A. Y., Lee, E. K., & Kim, B. H. (2007). Gender difference and developmental trend in career maturity and career indecision among adolescents. The Korean Journal of Educational Psychology, 21, 923-944.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Evaluating goodness-of-fit indices for testing measurement invariance",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Cheung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Rensvold",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Structural Equation Modeling",
+                "volume": "9",
+                "issue": "",
+                "pages": "233--255",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cheung, G. W., & Rensvold, R. B. (2002). Evaluating goodness-of-fit indices for testing measurement invariance. Structural Equation Modeling, 9, 233-255.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Developmental trajectories of adolescent self-esteem and their predictors",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Chung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Studies on Korean Youth",
+                "volume": "18",
+                "issue": "",
+                "pages": "127--166",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chung, I. J. (2007). Developmental trajectories of adolescent self-esteem and their predictors. Studies on Korean Youth, 18, 127-166.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Age and gender effects in multiple domains of child and adolescent self-concept: A cohort sequential longitudinal design",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Maschman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Child Development",
+                "volume": "72",
+                "issue": "",
+                "pages": "1723--1746",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Maschman, T. (2001). Age and gender effects in multiple domains of child and adolescent self-concept: A cohort sequential longitudinal design. Child Development, 72, 1723-1746.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Qualitative inquiry and research design: Choosing among five approaches",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Creswell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Creswell, J. W. (2012). Qualitative inquiry and research design: Choosing among five approaches. Thousand Oaks, CA: Sage.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Career maturity inventory: Theory and research handbook",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Crites",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Crites, J. O. (1978). Career maturity inventory: Theory and research handbook. Monterey, CA: CBT/ McGraw-Hill.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Informal learning: Rediscovering the natural pathways that inspire innovation and performance",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Cross",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cross, J. (2007). Informal learning: Rediscovering the natural pathways that inspire innovation and performance. San Francisco, CA: Pfeiffer.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "The best of both worlds: Combining autoregressive and latent curve models",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Curran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Bollen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "New methods for the analysis of change",
+                "volume": "",
+                "issue": "",
+                "pages": "107--135",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Curran, P. J., & Bollen, K. A. (2001). The best of both worlds: Combining autoregressive and latent curve models. In L. M. Collins & A. G. Sayer (Eds.), New methods for the analysis of change (pp. 107-135). Washington, DC: American Psychological Association.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "The robustness of test statistics to non-normality and specification error in confirmatory factor analysis",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Curran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "West",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Finch",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Psychological Methods",
+                "volume": "1",
+                "issue": "",
+                "pages": "16--29",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Curran, P. J., West, S. G., & Finch, J. (1996). The robustness of test statistics to non-normality and specification error in confirmatory factor analysis. Psychological Methods, 1, 16-29.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Relationship between career maturity and self-concept of suburban and urban middle and urban lower-class preadolescent Black males",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Dillard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Journal of Vocational Behavior",
+                "volume": "9",
+                "issue": "",
+                "pages": "311--320",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dillard, J. M. (1976). Relationship between career maturity and self-concept of suburban and urban middle and urban lower-class preadolescent Black males. Journal of Vocational Behavior, 9, 311-320.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Inter-relationships among attachment to mother and father, self-esteem, and career indecision",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Emmanuelle",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Vocational Behavior",
+                "volume": "75",
+                "issue": "",
+                "pages": "91--99",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Emmanuelle, V. (2009). Inter-relationships among attachment to mother and father, self-esteem, and career indecision. Journal of Vocational Behavior, 75, 91-99.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Evaluating structural equation models with unobservable variables and measurement error",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Fornell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Larcker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Journal of Marketing Research",
+                "volume": "18",
+                "issue": "",
+                "pages": "39--50",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research, 18, 39-50.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Toward a theory of occupational choice",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Ginzberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1966,
+                "venue": "Vocational guidance and career development: Selected readings",
+                "volume": "",
+                "issue": "",
+                "pages": "93--98",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ginzberg, E. (1966). Toward a theory of occupational choice. In H. J. Peters & J. C. Hansen (Eds.), Vocational guidance and career development: Selected readings (pp. 93-98). New York, NY: Macmillan Company.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Cognition, construction of knowledge, and teaching",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Glasersfeld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Synthese",
+                "volume": "80",
+                "issue": "",
+                "pages": "121--140",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Glasersfeld, E. (1989). Cognition, construction of knowledge, and teaching. Synthese, 80, 121-140.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Self-esteem as an influence on occupational choice and occupational satisfaction",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Greenhaus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1971,
+                "venue": "Journal of Vocational Behavior",
+                "volume": "1",
+                "issue": "",
+                "pages": "75--83",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Greenhaus, J. H. (1971). Self-esteem as an influence on occupational choice and occupational satisfaction. Journal of Vocational Behavior, 1, 75-83.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Multivariate data analysis with readings",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Hair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Tatham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Black",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hair, J. F., Anderson, R. E., Tatham, R. L., & Black, W. C. (1998). Multivariate data analysis with readings. Englewood Cliffs, NJ: Prentice Hall.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Analysis of changing trends in vocational maturity and self-reliance of young adolescents using latent growth modeling. The Journal of Vocational Education Research",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Heo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "28",
+                "issue": "",
+                "pages": "17--30",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Heo, G. (2009). Analysis of changing trends in vocational maturity and self-reliance of young adolescents using latent growth modeling. The Journal of Vocational Education Research, 28, 17-30.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "A study on the longitudinal structural relationship among career maturity, gender, self-esteem and parental attachment using latent growth modeling. The Journal of Vocational Education Research",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Heo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "31",
+                "issue": "",
+                "pages": "1--17",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Heo, G. (2012). A study on the longitudinal structural relationship among career maturity, gender, self-esteem and parental attachment using latent growth modeling. The Journal of Vocational Education Research, 31, 1-17.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Indentifying latent classes and testing their determinants in early adolescents' use of computers and internet for learning",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Heo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Computers & Education",
+                "volume": "63",
+                "issue": "",
+                "pages": "318--326",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Heo, G. (2013). Indentifying latent classes and testing their determinants in early adolescents' use of computers and internet for learning. Computers & Education, 63, 318-326.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Guidance monograph series IV:Career information and development",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Herr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1970,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Herr, E. L. (1970). Decision-making and vocational development. In S. C. Stone & B. Shertzer (Eds.), Guidance monograph series IV:Career information and development. Boston: Houghton Mifflin.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Estimating adolescents' changes in self-concept: Tests of the effects of parents and peers on individual differences in the changes",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Park",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Hong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Studies on Korean Youth",
+                "volume": "17",
+                "issue": "",
+                "pages": "241--263",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hong, S. H., Park, E. H., & Hong, H. Y. (2006). Estimating adolescents' changes in self-concept: Tests of the effects of parents and peers on individual differences in the changes. Studies on Korean Youth, 17, 241-263.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Testing the autoregressive cross-lagged effects between adolescents' Internet addiction and communication with parents: Multigroup analysis across gender",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Park",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "The Korean Journal of Educational Psychology",
+                "volume": "21",
+                "issue": "",
+                "pages": "129--143",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hong, S. H., Park, M. S., & Kim, W. J. (2007). Testing the autoregressive cross-lagged effects between adoles- cents' Internet addiction and communication with parents: Multigroup analysis across gender. The Korean Journal of Educational Psychology, 21, 129-143.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "The reciprocal relationship between parental involvement and mathematics achievement: Autoregressive cross-lagged modeling",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Yoo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "You",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Wu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Journal of Experimental Education",
+                "volume": "78",
+                "issue": "",
+                "pages": "419--439",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hong, S. H., Yoo, S. K., You, S., & Wu, C. C. (2010). The reciprocal relationship between parental involve- ment and mathematics achievement: Autoregressive cross-lagged modeling. Journal of Experimental Edu- cation, 78, 419-439.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Cut off criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Hu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Structural Equation Modeling",
+                "volume": "6",
+                "issue": "",
+                "pages": "1--55",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hu, L. Z., & Bentler, P. M. (1999). Cut off criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling, 6, 1-55.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Self-esteem: A test of its measurability",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Jeon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1974,
+                "venue": "YONSEI Nonchong",
+                "volume": "11",
+                "issue": "",
+                "pages": "109--129",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jeon, B. Y. (1974). Self-esteem: A test of its measurability. YONSEI Nonchong, 11, 109-129.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Self-esteem and extrinsic career success: Test of a dynamic model",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kammeyer-Muller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Judge",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Piccolo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Applied Psychology",
+                "volume": "57",
+                "issue": "",
+                "pages": "204--224",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kammeyer-Muller, J., Judge, T. A., & Piccolo, R. F. (2008). Self-esteem and extrinsic career success: Test of a dynamic model. Applied Psychology, 57, 204-224.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Educational, social, and psychological correlates of vocational maturity",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Kahn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Alvi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Journal of Vocational Behavior",
+                "volume": "22",
+                "issue": "",
+                "pages": "357--364",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kahn, S. B., & Alvi, S. A. (1983). Educational, social, and psychological correlates of vocational maturity. Journal of Vocational Behavior, 22, 357-364.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "The effects of pre-entry career maturity and support networks in workplace on newcomers' mental health",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Kawai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Yamazaki",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Occupational Health",
+                "volume": "48",
+                "issue": "",
+                "pages": "451--461",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kawai, K., & Yamazaki, Y. (2006). The effects of pre-entry career maturity and support networks in workplace on newcomers' mental health. Journal of Occupational Health, 48, 451-461.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Changes in the hierarch among Korean universities from",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Public Economy",
+                "volume": "11",
+                "issue": "",
+                "pages": "121--153",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kim, J. Y. (2006). Changes in the hierarch among Korean universities from 1994 to 2003. Public Economy, 11, 121-153.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "The effect of career guidance activities on career maturity of students in vocational high school. The Journal of Vocational Education Research",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "28",
+                "issue": "",
+                "pages": "183--200",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kim, K. H. (2009). The effect of career guidance activities on career maturity of students in vocational high school. The Journal of Vocational Education Research, 28, 183-200.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Affecting factors to the development of vocational maturity in the adolescence",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Roh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Adolescent Welfare",
+                "volume": "10",
+                "issue": "",
+                "pages": "27--50",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kim, S. A., & Roh, H. (2008). Affecting factors to the development of vocational maturity in the adolescence. Journal of Adolescent Welfare, 10, 27-50.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "A comparative study on the difference of gender-role identity and self-esteem between children of broken homes and those of normal homes",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "An",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Understanding People",
+                "volume": "26",
+                "issue": "",
+                "pages": "105--124",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kim, Y. R., & An, M. J. (2005). A comparative study on the difference of gender-role identity and self-esteem between children of broken homes and those of normal homes. Understanding People, 26, 105-124.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Sex differences in causal model of career maturity",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "King",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Counseling & Development",
+                "volume": "68",
+                "issue": "",
+                "pages": "208--215",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "King, S. (1989). Sex differences in causal model of career maturity. Journal of Counseling & Development, 68, 208-215.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "The handbook of psychological testing",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Kline",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Das Bildungswesen in der Bundesrepublick Deutschland",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kline, P. (2000). The handbook of psychological testing (2nd ed.). London, England: Routledge. KMK. (2004). Das Bildungswesen in der Bundesrepublick Deutschland 2003. KMK(Kultusminister konferenz).",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Self-esteem variable in vocational choice",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Korman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1966,
+                "venue": "Journal of Applied Psychology",
+                "volume": "50",
+                "issue": "",
+                "pages": "479--486",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Korman, A. K. (1966). Self-esteem variable in vocational choice. Journal of Applied Psychology, 50, 479-486.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Self-esteem as a moderator of the relationship between self-perceived abilities and vocational choice",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Korman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1967,
+                "venue": "Journal of Applied Psychology",
+                "volume": "51",
+                "issue": "",
+                "pages": "65--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Korman, A. K. (1967). Self-esteem as a moderator of the relationship between self-perceived abilities and voca- tional choice. Journal of Applied Psychology, 51, 65-67.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Self-esteem as a moderator in vocational choice: Replications and extensions",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Korman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1969,
+                "venue": "Journal of Applied Psychology",
+                "volume": "53",
+                "issue": "",
+                "pages": "188--192",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Korman, A. K. (1969). Self-esteem as a moderator in vocational choice: Replications and extensions. Journal of Applied Psychology, 53, 188-192.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Reciprocal influences between stress and internalizing problems in Korean adolescents: A crosslagged, longitudinal study",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Asian Journal of Social Psychology",
+                "volume": "14",
+                "issue": "",
+                "pages": "189--196",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, J. (2011). Reciprocal influences between stress and internalizing problems in Korean adolescents: A cross- lagged, longitudinal study. Asian Journal of Social Psychology, 14, 189-196.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Korea youth panel survey (KYPS) IV",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Im",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Ahn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, K. S., Im, H. J., & Ahn, S. J. (2008). Korea youth panel survey (KYPS) IV. Seoul, South Korea: National Youth Policy Institute.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Korea youth panel survey (KYPS) I: A summary report",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Oh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, K. S., Kim, J. H., Oh, H. S., Kim, H. J., & Kim, J. M. (2004). Korea youth panel survey (KYPS) I: A summary report. Seoul, South Korea: National Youth Policy Institute.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "The learning culture of Korean juveniles in the education system of competitive entrance examination",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Sociology of Education",
+                "volume": "12",
+                "issue": "",
+                "pages": "135--171",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, Y. H. (2002). The learning culture of Korean juveniles in the education system of competitive entrance exam- ination. Sociology of Education, 12, 135-171.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Gender differences in college students' career maturity and perceived barriers in career development",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Luzzo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Counseling & Development",
+                "volume": "73",
+                "issue": "",
+                "pages": "319--325",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Luzzo, D. (1995). Gender differences in college students' career maturity and perceived barriers in career devel- opment. Journal of Counseling & Development, 73, 319-325.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Principles and practice in reporting structural equation analyses",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Mcdonald",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Ho",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Psychological Methods",
+                "volume": "7",
+                "issue": "",
+                "pages": "64--82",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McDonald, R. P., & Ho, M. H. (2002). Principles and practice in reporting structural equation analyses. Psycho- logical Methods, 7, 64-82.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Statistical analysis of private education expenses in Korea",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Oh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "The Korean Journal of Applied Statistics",
+                "volume": "22",
+                "issue": "",
+                "pages": "193--206",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Oh, M. S., & Kim, J. H. (2011). Statistical analysis of private education expenses in Korea. The Korean Journal of Applied Statistics, 22, 193-206.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Gender differences for optimism, self-esteem, expectations and goals in predicting career planning and exploration in adolescents",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Patton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Bartum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Creed",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "4",
+                "issue": "",
+                "pages": "193--209",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Patton, W., Bartum, D. A., & Creed, P. A. (2004). Gender differences for optimism, self-esteem, expectations and goals in predicting career planning and exploration in adolescents. International Journal for Educational and Vocational Guidance, 4, 193-209.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Society and the adolescent self-image",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Rosenberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1965,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenberg, M. (1965). Society and the adolescent self-image. Princeton, NJ: Princeton University Press.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "The ASTD reference guide to workplace learning and performance: Present and future roles and competencies",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rothwell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Sredl",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rothwell, W. J., & Sredl, H. J. (2000). The ASTD reference guide to workplace learning and performance: Pres- ent and future roles and competencies (3rd ed.). Amherst, MA: HRD Press.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Simultaneous administration of the Rosenberg self-esteem scale in 53 nations: Exploring the universal and cultural-specific features of global self-esteem",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Schmitt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Allik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "89",
+                "issue": "",
+                "pages": "623--642",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schmitt, D. P., & Allik, J. (2005). Simultaneous administration of the Rosenberg self-esteem scale in 53 nations: Exploring the universal and cultural-specific features of global self-esteem. Journal of Personality and Social Psychology, 89, 623-642.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Experimental and quasi-experimental designs for generalized causal inference",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Shadish",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Cook",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Campbell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). Experimental and quasi-experimental designs for gen- eralized causal inference. Belmont, CA: Wadsworth Cengage Learning.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "An examination of efficacy and esteem pathways to depression in Young adulthood",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Betz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Counseling Psychology",
+                "volume": "49",
+                "issue": "",
+                "pages": "438--448",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smith, H. M., & Betz, E. (2002). An examination of efficacy and esteem pathways to depression in Young adult- hood. Journal of Counseling Psychology, 49, 438-448.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "A three-year autoregressive cross-lagged panel analysis on nicotine dependence and average smoking",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Song",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "An",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Hayman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Jang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Healthcare Informatics Research",
+                "volume": "18",
+                "issue": "",
+                "pages": "115--124",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Song, T. M., An, J. Y., Hayman, L. L., Kim, G. S., Lee, J. Y., & Jang, H. L. (2012). A three-year autoregressive cross-lagged panel analysis on nicotine dependence and average smoking. Healthcare Informatics Research, 18, 115-124.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Assessing measurement invariance in cross-national consumer research",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E M"
+                        ],
+                        "last": "Steenkamp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Baumgartner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Consumer Research",
+                "volume": "25",
+                "issue": "",
+                "pages": "78--90",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Steenkamp, J. E. M., & Baumgartner, H. (1998). Assessing measurement invariance in cross-national consumer research. Journal of Consumer Research, 25, 78-90.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "The psychology of careers: An introduction to vocational development",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Super",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1957,
+                "venue": "Harper & Brothers",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Super, D. E. (1957). The psychology of careers: An introduction to vocational development. New York, NY: Har- per & Brothers.",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "A life-span, life-space approach to career development",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Super",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Career choice and development",
+                "volume": "",
+                "issue": "",
+                "pages": "197--261",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Super, D. E. (1990). A life-span, life-space approach to career development. In D. Brown & L. Brooks (Eds.), Career choice and development (2nd ed., pp. 197-261). San Francisco, CA: Jossey-Bass.",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "A reliability coefficient for maximum likelihood factor analysis. Psychometrika",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Tucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Lewis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1973,
+                "venue": "",
+                "volume": "38",
+                "issue": "",
+                "pages": "1--10",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tucker, L. R., & Lewis, C. (1973). A reliability coefficient for maximum likelihood factor analysis. Psychome- trika, 38, 1-10.",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "Statistics in plain English",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Urdan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Urdan, T. C. (2010). Statistics in plain English (3rd ed.). New York, NY: Taylor & Francis.",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "Mind in society: The development of higher mental processes",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Vygotskii",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vygotskii, L. S. (1978). Mind in society: The development of higher mental processes. Cambridge, MA: Harvard University Press.",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "Measurement models for linking latent variables and indicators: A review of human resource management research using parcels",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Williams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Boyle",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Human Resource Management Review",
+                "volume": "18",
+                "issue": "",
+                "pages": "233--242",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Williams, L. J., & O'Boyle, E. H. (2008). Measurement models for linking latent variables and indicators: A review of human resource management research using parcels. Human Resource Management Review, 18, 233-242.",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "He is now a professor in the Department of Fishers Education at Pukyong National University in Korea. His research interests include educational technology, program design, HRD, and longitudinal and multilevel approach to educational issues. During his leisure time, he enjoys exercise and fitness, learning new fields, and traveling with his family",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "2011--2012",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "2011-2012. He is now a professor in the Department of Fishers Education at Pukyong National University in Korea. His research interests include educational technology, program design, HRD, and longitudinal and multi- level approach to educational issues. During his leisure time, he enjoys exercise and fitness, learning new fields, and traveling with his family. He can be reached over the e-mail at gyunheo@pknu.ac.kr",
+                "links": null
+            },
+            "BIBREF65": {
+                "ref_id": "b65",
+                "title": "He is currently teaching as a faculty member in the School of Labor and Employment Relations and working as a faculty curriculum assistant in the Workforce Education and Development Program at the Pennsylvania State University. His research focuses on workplace learning and performance, career development, leadership and work engagement, organizational change management, and professional ethics. While engaging in research and teaching, he also enjoys playing various sports and outdoor activities with his family and traveling back and forth for his son's ice hockey games",
+                "authors": [],
+                "year": null,
+                "venue": "Taesung Kim earned his PhD degree in the Workforce Education and Development Program at The Pennsylvania State University in the United States",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Taesung Kim earned his PhD degree in the Workforce Education and Development Program at The Pennsylvania State University in the United States. He received both his BA in education and MEd in HRD at Yonsei University in Seoul, Korea. He has more than 10 years of extensive experience in the HR field as an internal manager and an external consultant, and most recently he worked for KPMG Korea as a senior manager in the Learning and Devel- opment Center. He is currently teaching as a faculty member in the School of Labor and Employment Relations and working as a faculty curriculum assistant in the Workforce Education and Development Program at the Penn- sylvania State University. His research focuses on workplace learning and performance, career development, lead- ership and work engagement, organizational change management, and professional ethics. While engaging in research and teaching, he also enjoys playing various sports and outdoor activities with his family and traveling back and forth for his son's ice hockey games. He can be reached over the e-mail at exp0225@gmail.com",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": ") career maturity in 2004 and self-esteem in 2005, (b) self-esteem in 2004 and career maturity in 2005, (c) career maturity in 2005 and self-esteem in 2006, (d) self-esteem in 2005 and career maturity in 2006, (e) career maturity in 2006 and self-esteem in 2007, and (f) self-esteem in 2006 and career maturity in 2007. From these correlation results, it was anticipated that the reciprocal relationship between career maturity and self-esteem might exist in the ARCL model."
+            },
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Autoregressive cross-lagged research model."
+            },
+            "FIGREF2": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Autoregressive cross-lagged research model tested. The coefficient mean standard estimations: total estimation (Boys' estimation and Girls' estimation); measurement invariance constraints: a1, a2, and b1; path invariance constraints: A, B, C, and D; and error covariance constraint: E. ***p < .001."
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td/><td colspan=\"3\">Factors (1st Wave)</td><td colspan=\"3\">Factors (2nd Wave)</td><td colspan=\"3\">Factors (3rd Wave)</td><td colspan=\"3\">Factors (4th Wave)</td></tr><tr><td>Variables</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td><td>1</td><td>2</td><td>3</td></tr><tr><td>CM q1</td><td>.779</td><td colspan=\"3\">.065 .174 .811</td><td>.146</td><td>.126</td><td>.821</td><td colspan=\"2\">.165 .174</td><td colspan=\"3\">.829 .233 .150</td></tr><tr><td>CM q2</td><td>.812</td><td colspan=\"3\">.108 .036 .810</td><td>.121</td><td>.175</td><td>.829</td><td colspan=\"2\">.125 .193</td><td colspan=\"3\">.830 .083 .241</td></tr><tr><td>CM q3</td><td>.077</td><td colspan=\"3\">.855 .077 .126</td><td>.854</td><td>.119</td><td>.177</td><td colspan=\"2\">.868 .102</td><td colspan=\"3\">.145 .866 .164</td></tr><tr><td>CM q4</td><td>.112</td><td colspan=\"3\">.827 .176 .143</td><td>.833</td><td>.181</td><td>.139</td><td colspan=\"2\">.805 .296</td><td colspan=\"3\">.181 .798 .283</td></tr><tr><td>CM q5</td><td>.039</td><td colspan=\"3\">.329 .564 .061</td><td>.354</td><td colspan=\"2\">.552 \u00c0.005</td><td colspan=\"5\">.276 .672 \u00c0.060 .282 .720</td></tr><tr><td>CM q6</td><td>.288</td><td colspan=\"3\">.129 .604 .283</td><td>.213</td><td>.640</td><td>.282</td><td colspan=\"2\">.123 .670</td><td colspan=\"3\">.279 .054 .721</td></tr><tr><td>CM q7</td><td colspan=\"4\">\u00c0.028 \u00c0.060 .819 .044</td><td>\u00c0.047</td><td>.817</td><td colspan=\"3\">.101 \u00c0.027 .757</td><td colspan=\"3\">.148 .069 .746</td></tr><tr><td>SE q1</td><td>.800</td><td>.135</td><td>-</td><td>.808</td><td>.134</td><td>-</td><td>.816</td><td>.110</td><td>-</td><td colspan=\"2\">.801 .107</td><td>-</td></tr><tr><td>SE q2</td><td>.877</td><td>.094</td><td>-</td><td>.899</td><td>.084</td><td>-</td><td>.905</td><td>.071</td><td>-</td><td colspan=\"2\">.891 .109</td><td>-</td></tr><tr><td>SE q3</td><td>.856</td><td>.099</td><td>-</td><td>.863</td><td>.115</td><td>-</td><td>.856</td><td>.120</td><td>-</td><td colspan=\"2\">.864 .142</td><td>-</td></tr><tr><td>SE q4</td><td>.105</td><td>.837</td><td>-</td><td>.081</td><td>.857</td><td>-</td><td>.124</td><td>.855</td><td>-</td><td colspan=\"2\">.127 .837</td><td>-</td></tr><tr><td>SE q5</td><td>.095</td><td>.821</td><td>-</td><td>.108</td><td>.844</td><td>-</td><td>.074</td><td>.854</td><td>-</td><td colspan=\"2\">.081 .844</td><td>-</td></tr><tr><td>SE q6</td><td>.116</td><td>.783</td><td>-</td><td>.141</td><td>.826</td><td>-</td><td>.103</td><td>.845</td><td>-</td><td colspan=\"2\">.145 .832</td><td>-</td></tr></table>",
+                "type_str": "table",
+                "text": "Factor Analysis for Items Parceling."
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td>Variables</td><td>Mean</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>1. 1st Wave CM</td><td>3.777</td><td>.703</td><td>-</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>2. 2nd Wave CM</td><td>3.848</td><td>.713</td><td>.392**</td><td>-</td><td/><td/><td/><td/><td/><td/></tr><tr><td>3. 3rd Wave CM</td><td>3.812</td><td>.686</td><td>.255**</td><td>.396**</td><td>-</td><td/><td/><td/><td/><td/></tr><tr><td>4. 4th Wave CM</td><td>3.745</td><td>.968</td><td>.197**</td><td>.314**</td><td>.451**</td><td>-</td><td/><td/><td/><td/></tr><tr><td>5. 1st Wave SE</td><td>3.492</td><td>.675</td><td>.220**</td><td>.164**</td><td>.137**</td><td>.125**</td><td>-</td><td/><td/><td/></tr><tr><td>6. 2nd Wave SE</td><td>3.470</td><td>.683</td><td>.163**</td><td>.241**</td><td>.153**</td><td>.143**</td><td>.422**</td><td>-</td><td/><td/></tr><tr><td>7. 3rd Wave SE</td><td>3.417</td><td>.671</td><td>.122**</td><td>.175**</td><td>.263**</td><td>.212**</td><td>.346**</td><td>.422**</td><td>-</td><td/></tr><tr><td>8. 4th Wave SE</td><td>3.442</td><td>.663</td><td>.095**</td><td>.152**</td><td>.143**</td><td>.212**</td><td>.257**</td><td>.304**</td><td>.423**</td><td>-</td></tr></table>",
+                "type_str": "table",
+                "text": "Correlations Between Time Series Variables."
+            },
+            "TABREF3": {
+                "num": null,
+                "content": "<table><tr><td>Model</td><td>w 2</td><td>df TLI CFI RMSEA</td></tr></table>",
+                "type_str": "table",
+                "text": "Comparison of the Model Fitness for Self-Esteem and Career Maturity in the ARCL Model and Multigroup Analysis."
+            }
+        }
+    }
+}

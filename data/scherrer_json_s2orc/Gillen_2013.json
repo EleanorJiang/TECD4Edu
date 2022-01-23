@@ -1,0 +1,3541 @@
+{
+    "paper_id": "Gillen_2013",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:03:32.407111Z"
+    },
+    "title": "A Longitudinal Study of School Belonging and Academic Motivation Across High School",
+    "authors": [
+        {
+            "first": "Cari",
+            "middle": [],
+            "last": "Gillen-O'neel",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of California",
+                "location": {
+                    "settlement": "Los Angeles"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Andrew",
+            "middle": [],
+            "last": "Fuligni",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of California",
+                "location": {
+                    "settlement": "Los Angeles"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This longitudinal study examined how school belonging changes over the years of high school, and how it is associated with academic achievement and motivation. Students from Latin American, Asian, and European backgrounds participated (N = 572; age span = 13.94-19.15 years). In ninth grade, girls' school belonging was higher than boys'. Over the course of high school, however, girls' school belonging declined, whereas boys' remained stable. Within-person longitudinal analyses indicated that years in which students had higher school belonging were also years in which they felt that school was more enjoyable and more useful, above and beyond their actual level of achievement. Results highlight the importance of belonging for maintaining students' academic engagement during the teenage years. Development of School Belonging Although there is individual variability in how school belonging changes over the course of development, there is a generally normative trend for school belonging to decline from childhood to Support for this study was provided by a grant from the Russell Sage Foundation.",
+    "pdf_parse": {
+        "paper_id": "Gillen_2013",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "This longitudinal study examined how school belonging changes over the years of high school, and how it is associated with academic achievement and motivation. Students from Latin American, Asian, and European backgrounds participated (N = 572; age span = 13.94-19.15 years). In ninth grade, girls' school belonging was higher than boys'. Over the course of high school, however, girls' school belonging declined, whereas boys' remained stable. Within-person longitudinal analyses indicated that years in which students had higher school belonging were also years in which they felt that school was more enjoyable and more useful, above and beyond their actual level of achievement. Results highlight the importance of belonging for maintaining students' academic engagement during the teenage years. Development of School Belonging Although there is individual variability in how school belonging changes over the course of development, there is a generally normative trend for school belonging to decline from childhood to Support for this study was provided by a grant from the Russell Sage Foundation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Late adolescence, when students are in high school, may be a time when feeling a sense of belonging or connectedness with one's school is critically important. High school students, for example, reach the age at which education is no longer compulsory, and the extent to which students maintain a sense of belonging at school may predict whether or not they leave high school prematurely, a decision that can have life-long social and economic implications (Finn, 1989; Rouse & Kemple, 2009) . Despite the importance of school belonging during this developmental period, most research has been conducted with children and early adolescents, leaving school belonging among middle and late adolescents relatively unexplored (Liu & Lu, 2011; Witherspoon & Ennett, 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 457,
+                        "end": 469,
+                        "text": "(Finn, 1989;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 470,
+                        "end": 491,
+                        "text": "Rouse & Kemple, 2009)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 722,
+                        "end": 738,
+                        "text": "(Liu & Lu, 2011;",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 739,
+                        "end": 766,
+                        "text": "Witherspoon & Ennett, 2011)",
+                        "ref_id": "BIBREF63"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In particular, little is known about what happens to school belonging over the course of high school and the extent to which school belonging is truly associated with academic achievement and values among high school students from different ethnic backgrounds. Although findings from early adolescence suggest that students may become progressively less connected to school over time, key differences between early and middle to late adolescents suggest that declines in school belonging that occur in middle school may not continue into high school (Anderman, 2003; Witherspoon & Ennett, 2011) . Furthermore, although school belonging is often found to be associated with academic achieve-ment and values (Pittman & Richmond, 2007; Roeser, Midgley, & Urdan, 1996) , there are some inconsistencies in these findings (Booker, 2006; Dotterer, McHale, & Crouter, 2007; Liu & Lu, 2011; Singh, Chang, & Dika, 2010) .",
+                "cite_spans": [
+                    {
+                        "start": 550,
+                        "end": 566,
+                        "text": "(Anderman, 2003;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 567,
+                        "end": 594,
+                        "text": "Witherspoon & Ennett, 2011)",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 706,
+                        "end": 732,
+                        "text": "(Pittman & Richmond, 2007;",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 733,
+                        "end": 764,
+                        "text": "Roeser, Midgley, & Urdan, 1996)",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 816,
+                        "end": 830,
+                        "text": "(Booker, 2006;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 831,
+                        "end": 865,
+                        "text": "Dotterer, McHale, & Crouter, 2007;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 866,
+                        "end": 881,
+                        "text": "Liu & Lu, 2011;",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 882,
+                        "end": 909,
+                        "text": "Singh, Chang, & Dika, 2010)",
+                        "ref_id": "BIBREF57"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "To address the limitations of previous school belonging work, the current study followed a diverse group of students across each year of high school. This longitudinal study was specifically designed to investigate whether school belonging tends to decline over the course of high school and whether high school students' school belonging translates into higher academic achievement and motivation. In examining school belonging, we focused on students' social and emotional connection with their academic institutions or the people within their academic institutions. Other researchers have examined differently named constructs (e.g., school identity, school connectedness, and emotional engagement) that, despite their names, tap essentially the same concepts. In the review that follows, therefore, we include work that focuses on students' social and emotional connections to school, regardless of the exact nomenclature. early adolescence (Anderman, 2003; Anderman & Anderman, 1999) . In childhood, when students are in elementary school, reports of school belonging tend to be universally high (Fredricks, Blumenfeld, Friedel, & Paris, 2005) . As students enter adolescence, average school belonging tends to drop significantly, especially among students transitioning into middle school (Eccles et al., 1993) . Across the course of the early adolescence, school belonging generally continues to decline (Anderman, 2002; Ding & Hall, 2007) .",
+                "cite_spans": [
+                    {
+                        "start": 945,
+                        "end": 961,
+                        "text": "(Anderman, 2003;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 962,
+                        "end": 988,
+                        "text": "Anderman & Anderman, 1999)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1101,
+                        "end": 1148,
+                        "text": "(Fredricks, Blumenfeld, Friedel, & Paris, 2005)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1295,
+                        "end": 1316,
+                        "text": "(Eccles et al., 1993)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1411,
+                        "end": 1427,
+                        "text": "(Anderman, 2002;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1428,
+                        "end": 1446,
+                        "text": "Ding & Hall, 2007)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Unlike school belonging research conducted with children and early adolescents, the limited school belonging research that has been conducted with older students offers mixed findings. A few studies have examined students' school belonging as they transition from middle to high school. These studies indicate that compared to the transition to middle school, changes in school belonging may be less normative when transitioning to high school (Benner & Graham, 2007) . Most studies that have examined school belonging beyond the high school transition have relied on cross-sectional data. Although some of these cross-sectional studies suggest that school belonging generally declines over the course of high school, others suggest that school belonging remains stable or increases slightly (Meeus & Dekovic, 1995; Whitlock, 2006) . Witherspoon and Ennett (2011) conducted one of the few studies that has employed longitudinal data among high school students; they found that school belonging decreased during the transition to and 1st year of high school, but then increased slightly across the rest of high school. This study, however, focused only on students from predominately rural counties. Thus, unlike in childhood and early adolescence, it is not clear whether there are general trends in school belonging across middle and late adolescence. Unfortunately, even turning to an examination of the theoretical reasons why school belonging declines across development offers equivocal predictions for what might happen in late adolescence.",
+                "cite_spans": [
+                    {
+                        "start": 444,
+                        "end": 467,
+                        "text": "(Benner & Graham, 2007)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 792,
+                        "end": 815,
+                        "text": "(Meeus & Dekovic, 1995;",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 816,
+                        "end": 831,
+                        "text": "Whitlock, 2006)",
+                        "ref_id": "BIBREF62"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "As argued by stage-environment fit theory, one reason for the drop in school belonging among early adolescents is a relatively ubiquitous mismatch between adolescent students' developmental needs and the environments that their schools typically provide (Eccles & Roeser, 2009; Eccles et al., 1993) . As students enter adolescence, for example, their developmental needs for autonomy and positive relationships with nonparental adults increase (Eccles, Early, Fraser, Belansky, & McCarthy, 1997) . Simultaneously, however, the structures of most adolescents' schools tend to provide authoritarian rule enforcement and few opportunities for the development of teacher-student relationships (Eccles et al., 1993; Roeser, Eccles, & Sameroff, 2000) . As indicated earlier, school belonging does tend to decrease after middle school matriculation, and it continues to decrease over the course of middle school (e.g., Finn, 1989; Whitlock, 2006) . This decline is especially steep among students who report that their needs are not met and, importantly, school belonging declines less or not at all among the minority of middle school students who report that their needs are met by their school environments (Anderman, 2003; Brewster & Bowen, 2004; Eccles et al., 1997) .",
+                "cite_spans": [
+                    {
+                        "start": 254,
+                        "end": 277,
+                        "text": "(Eccles & Roeser, 2009;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 278,
+                        "end": 298,
+                        "text": "Eccles et al., 1993)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 444,
+                        "end": 495,
+                        "text": "(Eccles, Early, Fraser, Belansky, & McCarthy, 1997)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 689,
+                        "end": 710,
+                        "text": "(Eccles et al., 1993;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 711,
+                        "end": 744,
+                        "text": "Roeser, Eccles, & Sameroff, 2000)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 912,
+                        "end": 923,
+                        "text": "Finn, 1989;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 924,
+                        "end": 939,
+                        "text": "Whitlock, 2006)",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 1203,
+                        "end": 1219,
+                        "text": "(Anderman, 2003;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1220,
+                        "end": 1243,
+                        "text": "Brewster & Bowen, 2004;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1244,
+                        "end": 1264,
+                        "text": "Eccles et al., 1997)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Similarities between middle and high school environments and students may result in continued needs-environment mismatches among a majority of high school students. Like middle schools, high schools tend to be large and have fully departmentalized curriculums, both of which can attenuate feelings of autonomy and student-teacher relationships (Alfaro, Uma\u00f1a-Taylor, & Bamaca, 2006; Davis, 2003; Gilman & Anderman, 2006) . Differences between middle and high school environments and students, however, may result in better fit between high school environments and students' developmental needs. Compared to middle schools, for example, high schools tend to offer students more choice in coursework and have more support staff (e.g., guidance counselors), meeting students' needs for autonomous decision making and supportive adult relationships (Eccles & Roeser, 2005; Hargreaves, Earl, & Ryan, 1996) . High school students, themselves, may need less support from their school environment given that they are older and more mature, have already successfully navigated one major school transition, and generally have already entered puberty and therefore are not simultaneously navigating biological as well as social transitions (Anderson, Jacobs, Schramm, & Splittgerber, 2000; Hargreaves et al., 1996) . Thus, even considering stage-environment fit, research does not offer a clear prediction for whether to expect normative changes in school belonging across the course of high school.",
+                "cite_spans": [
+                    {
+                        "start": 344,
+                        "end": 382,
+                        "text": "(Alfaro, Uma\u00f1a-Taylor, & Bamaca, 2006;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 383,
+                        "end": 395,
+                        "text": "Davis, 2003;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 396,
+                        "end": 420,
+                        "text": "Gilman & Anderman, 2006)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 845,
+                        "end": 868,
+                        "text": "(Eccles & Roeser, 2005;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 869,
+                        "end": 900,
+                        "text": "Hargreaves, Earl, & Ryan, 1996)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 1229,
+                        "end": 1278,
+                        "text": "(Anderson, Jacobs, Schramm, & Splittgerber, 2000;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1279,
+                        "end": 1303,
+                        "text": "Hargreaves et al., 1996)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Very few studies have longitudinally examined school belonging in high school. Even school belonging studies that have drawn from longitudinal data sets have either restricted analyses to data from a single year and used a cross-sectional approach (e.g., McNeely, Nonnemaker, & Blum, 2002) , restricted analyses to a limited sample (e.g., youth living in rural communites; Witherspoon & Ennett, 2011) , or failed to test the significance of longitudinal changes in school belonging (Liu & Lu, 2011) . The current study assessed school belonging among diverse students during each year of high school and was specifically designed to examine how students' school belonging changes over the course of high school.",
+                "cite_spans": [
+                    {
+                        "start": 255,
+                        "end": 289,
+                        "text": "McNeely, Nonnemaker, & Blum, 2002)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 373,
+                        "end": 400,
+                        "text": "Witherspoon & Ennett, 2011)",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 482,
+                        "end": 498,
+                        "text": "(Liu & Lu, 2011)",
+                        "ref_id": "BIBREF48"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to being an indicator of the extent to which students' needs are met by their academic institutions, school belonging may be an important source of students' academic achievement and values. Drawing on the idea that belonging is a fundamental human need and, as such, is a prerequisite for positive outcomes in any domain (Baumeister & Leary, 1995) , many theories of academic achievement include the idea that students' sense of personal connection to their academic institution supports internalization of academic values, encourages academic-supporting behaviors, and therefore, plays a role in academic success (e.g., Eccles, 2004; Finn, 1989; Voelkl, 1997) .",
+                "cite_spans": [
+                    {
+                        "start": 334,
+                        "end": 360,
+                        "text": "(Baumeister & Leary, 1995)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 634,
+                        "end": 647,
+                        "text": "Eccles, 2004;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 648,
+                        "end": 659,
+                        "text": "Finn, 1989;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 660,
+                        "end": 673,
+                        "text": "Voelkl, 1997)",
+                        "ref_id": "BIBREF60"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging and Academic Achievement and Values",
+                "sec_num": null
+            },
+            {
+                "text": "Across studies, however, associations between school belonging and academic achievement have been inconsistently observed. Although some research has found that students who have higher school belonging tend to have higher achievement (Anderman, 2002; Walton & Cohen, 2007) , other studies have found no association between school belonging and achievement (Dotterer et al., 2007; Liu & Lu, 2011) , and others have found inconsistent associations. Battistich, Solomon, Kim, Watson, and Schaps (1995) , for example, found that school belonging is associated with achievement test scores, but not with reading or writing performance. Singh et al. (2010) found that school belonging is associated with self-reported grades among African American high school students, but not among European American high school students.",
+                "cite_spans": [
+                    {
+                        "start": 235,
+                        "end": 251,
+                        "text": "(Anderman, 2002;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 252,
+                        "end": 273,
+                        "text": "Walton & Cohen, 2007)",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 357,
+                        "end": 380,
+                        "text": "(Dotterer et al., 2007;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 381,
+                        "end": 396,
+                        "text": "Liu & Lu, 2011)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 448,
+                        "end": 499,
+                        "text": "Battistich, Solomon, Kim, Watson, and Schaps (1995)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 632,
+                        "end": 651,
+                        "text": "Singh et al. (2010)",
+                        "ref_id": "BIBREF57"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging and Academic Achievement and Values",
+                "sec_num": null
+            },
+            {
+                "text": "Different studies have employed different measures of achievement, including standardized test scores (Adams & Singh, 1998) , self-reported grades (Finn & Frone, 2004) , and grades from school records (Kuperminc, Darnell, & Alvarez-Jimenez, 2008) . Different studies have also focused on different populations of students, including students of different ages, genders, ethnic backgrounds, and generational status. Thus, it is possible that methodological and population differences could account for some of the discrepancies. It is also possible, however, that school belonging is not reliably associated with achieve-ment. School belonging research has almost exclusively relied on between-person associations. Thus, instances in which school belonging seems to be associated with achievement may be attributable to confounding between-person variables that were not assessed.",
+                "cite_spans": [
+                    {
+                        "start": 102,
+                        "end": 123,
+                        "text": "(Adams & Singh, 1998)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 147,
+                        "end": 167,
+                        "text": "(Finn & Frone, 2004)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 201,
+                        "end": 246,
+                        "text": "(Kuperminc, Darnell, & Alvarez-Jimenez, 2008)",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging and Academic Achievement and Values",
+                "sec_num": null
+            },
+            {
+                "text": "In the current study, we measured school belonging and academic achievement among the same students over the course of many years. In this study, therefore, each participant could essentially serve as their own control group, and these data allow us to move beyond between-person questions (e.g., do the students with higher school belonging tend to be the students with higher achievement?) and allow us to answer within-person questions (e.g., during a year when a student reports higher than personal average school belonging, does this same student also report higher than personal average achievement?). Thus, the longitudinal design provides a conservative test of the association between school belonging and academic outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging and Academic Achievement and Values",
+                "sec_num": null
+            },
+            {
+                "text": "Unlike school belonging and achievement, associations between school belonging and academic values have been consistently demonstrated. Students who are more connected to their schools tend to also report liking school more and persevering in school for intrinsic reasons (i.e., self-driven reasons such as interest; Gilman & Anderman, 2006; Iba\u00f1ez, Kuperminc, Jurkovic, & Perilla, 2004) . Thus, despite school belonging's inconsistent direct association with achievement, school belonging may nonetheless indirectly support achievement by helping students maintain engagement with the academic enterprise. Again, however, previous studies' results draw almost exclusively from betweenperson associations. As mentioned earlier, the current study examined the within-person associations between school belonging and academic values. We included two types of academic values that are likely to be very relevant for high school studentsintrinsic value (i.e., the extent to which students enjoy school) and utility value (i.e., the extent to which student's feel that school is useful to their current or future lives; Eccles, 1983 ).",
+                "cite_spans": [
+                    {
+                        "start": 317,
+                        "end": 341,
+                        "text": "Gilman & Anderman, 2006;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 342,
+                        "end": 387,
+                        "text": "Iba\u00f1ez, Kuperminc, Jurkovic, & Perilla, 2004)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 1115,
+                        "end": 1127,
+                        "text": "Eccles, 1983",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging and Academic Achievement and Values",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to considering the development of school belonging across all students, the current study also examined whether or not school belonging develops differently among certain groups of students. Given previous research suggesting that changes in school belonging may be less normative among high school students, examining these group differences may be especially important during this time period. Although broad social groups (e.g., gender and ethnicity) comprise heterogeneous individuals, if typical school environments tend to differentially meet the needs of students from different groups, group membership may be associated with average differences in school belonging (Goodenow, 1993b; Smith & Tyler, 1997) .",
+                "cite_spans": [
+                    {
+                        "start": 686,
+                        "end": 703,
+                        "text": "(Goodenow, 1993b;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 704,
+                        "end": 724,
+                        "text": "Smith & Tyler, 1997)",
+                        "ref_id": "BIBREF58"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Group Differences",
+                "sec_num": null
+            },
+            {
+                "text": "Across studies of school belonging, there is a fairly consistent gender difference with girls tending to report higher school belonging than boys. This gender difference is demonstrated across a range of student ages, including elementary, middle school, and early high school students (Anderman, 2002; Hughes, Zhang, & Hill, 2006; Kenny & Bledsoe, 2005; Voelkl, 1997) . Girls' higher school belonging may be consistent with the idea that from an early age, schools' and teachers' behavioral expectations are more consistent with behavior that is more typical among girls (Banse, Gawronski, Rebetez, Gutt, & Morton, 2010) . There is some evidence, however, that the gender difference in school belonging may decrease in the latter years of high school (Witherspoon & Ennett, 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 286,
+                        "end": 302,
+                        "text": "(Anderman, 2002;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 303,
+                        "end": 331,
+                        "text": "Hughes, Zhang, & Hill, 2006;",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 332,
+                        "end": 354,
+                        "text": "Kenny & Bledsoe, 2005;",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 355,
+                        "end": 368,
+                        "text": "Voelkl, 1997)",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 572,
+                        "end": 621,
+                        "text": "(Banse, Gawronski, Rebetez, Gutt, & Morton, 2010)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 752,
+                        "end": 780,
+                        "text": "(Witherspoon & Ennett, 2011)",
+                        "ref_id": "BIBREF63"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Group Differences",
+                "sec_num": null
+            },
+            {
+                "text": "Unlike gender, ethnic differences in school belonging have been inconsistently observed. Theoretically, a number of researchers have predicted that ethnic-minority students would report lower school belonging than their ethnic-majority peers, perhaps because of negative academic stereotypes that ethnic-minority students often face (Garcia-Reid, 2007; Goodenow & Grady, 1993; Iba\u00f1ez et al., 2004) . Empirically, however, although some studies do report that ethnic-minority students have lower school belonging, other studies do not (Booker, 2006; Goodenow, 1993b; Voelkl, 1997) . One possible reason for this lack of consensus is that ethnic differences in school belonging may depend on factors such as school and neighborhood diversity that vary widely between studies (Benner & Graham, 2007) .",
+                "cite_spans": [
+                    {
+                        "start": 333,
+                        "end": 352,
+                        "text": "(Garcia-Reid, 2007;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 353,
+                        "end": 376,
+                        "text": "Goodenow & Grady, 1993;",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 377,
+                        "end": 397,
+                        "text": "Iba\u00f1ez et al., 2004)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 534,
+                        "end": 548,
+                        "text": "(Booker, 2006;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 549,
+                        "end": 565,
+                        "text": "Goodenow, 1993b;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 566,
+                        "end": 579,
+                        "text": "Voelkl, 1997)",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 773,
+                        "end": 796,
+                        "text": "(Benner & Graham, 2007)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Group Differences",
+                "sec_num": null
+            },
+            {
+                "text": "Like school belonging research in general, most studies that have examined group differences have been conducted among younger students and have focused on differences at a single time point. Questions remain, therefore, as to whether there are gender or ethnic differences in school belonging in high school and whether these differences change over time. Beyond differences in mean levels of school belonging, it is also possible that there are group differences in the associations between school belonging and other outcomes. According to the concept of functional substitution, for example, any resource is especially influential among students who have fewer resources in general (Mirowsky & Ross, 2003) . Thus, it is possible that school belonging is associated with achievement only among students who face increased risk of academic challenges (Crosnoe, Johnson, & Elder, 2004; Goodenow & Grady, 1993) . To the extent that boys may have lower general school belonging or ethnic-minority students may face negative stereotypes at school, any school belonging that these students are able to maintain in spite of these challenges may be especially associated with achievement. Indeed, there is some evidence that although school belonging is associated with higher intrinsic motivation among all students, this association is especially strong among students from Latin American backgrounds (Bennett & Sani, 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 686,
+                        "end": 709,
+                        "text": "(Mirowsky & Ross, 2003)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 853,
+                        "end": 886,
+                        "text": "(Crosnoe, Johnson, & Elder, 2004;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 887,
+                        "end": 910,
+                        "text": "Goodenow & Grady, 1993)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 1398,
+                        "end": 1420,
+                        "text": "(Bennett & Sani, 2003)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Group Differences",
+                "sec_num": null
+            },
+            {
+                "text": "The current study included boys and girls from Asian, European, and Latin American backgrounds. Our diverse sample allowed us to examine whether or not there are group differences in average levels of school belonging, differences in how school belonging changes across the course of high school, and differences in the associations between school belonging and other academic outcomes. For levels of school belonging, like previous work, we expect that girls will report higher school belonging than boys. Given the contradictory findings regarding ethnic differences, we make no a priori prediction about the comparative levels of school belonging between students from the different ethnic backgrounds included in this study. For the associations between school belonging, grade point average (GPA), and academic values, we speculate that these associations will be especially strong among boys and students from Latin American backgrounds.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Group Differences",
+                "sec_num": null
+            },
+            {
+                "text": "In summary, this study sought to answer two main questions: (a) On average, what happens to students' school belonging over the course of high school? (b) Within individual high school students, how is school belonging associated with academic achievement and values? In addition to these primary questions, we also examined whether levels of school belonging or associations with school belonging differ by gender or ethnicity. To answer these questions, we tracked students' school belonging, academic achievement, and academic values longitudinally over the 4 years of high school. We then employed multilevel analyses to examine the within-person associations between school belonging and academic outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Goals of the Study",
+                "sec_num": null
+            },
+            {
+                "text": "Beginning in 9th and continuing in 10th, 11th, and 12th grades, we recruited students from three public high schools in Los Angeles to participate in a larger longitudinal study. Each school had a unique ethnic and socioeconomic composition, but no school was dominated by a single ethnic group. Instead, the two largest ethnic groups of each school composed 30%-50% of the total population (California Department of Education, 2006) . School 1 primarily served students from Latin American and Asian backgrounds whose families had lowermiddle to middle class educational and occupational statuses. School 2 primarily served students from Latin American and European backgrounds whose families were lower-middle to middle class. Finally, School 3 primarily served students from families with Asian and European backgrounds who were middle to upper-middle class. At the time of the study, these three schools also had different average levels of achievement. School 1 tended to be in the lower average to average range of the achievement distribution of schools within the state of California, School 2 tended to be in the average range, and School 3 tended to be in the above average range (California Department of Education, 2006).",
+                "cite_spans": [
+                    {
+                        "start": 391,
+                        "end": 433,
+                        "text": "(California Department of Education, 2006)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "In Schools 1 and 2, we invited the entire ninth grade to participate in the 1st year of the study. This same recruitment strategy was employed in subsequent years-during each year of the study, we invited all students in the target grade at these two schools to participate. Across the years of the study, the participation rate at School 1 ranged from 57% to 63%, and the participation rate at School 2 ranged from 63% to 69%. The large size of School 3 made it infeasible to recruit all students in a given grade. In this school, therefore, we invited approximately half the ninth graders to participate in the 1st year of the study, and 53% of those invited agreed to participate. In subsequent years, we only followed those students from School 3 who had participated in ninth grade. In all three schools, students who had participated in earlier years, but were no longer enrolled in the school were contacted and invited to participate by mail in subsequent years.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "For the current study, we examined responses from the students who were from Latin American, Asian, or European backgrounds and who participated in at least two of the 4 years of the study. Of the 467 participants who began this study when they were in 9th grade, 97% participated in 10th grade, 87% participated in 11th grade, and 88% participated in 12th grade. Of the 93 participants who began this study when they were in 10th grade, 95% participated in 11th grade, and 91% participated in 12th grade. All 12 of the participants who began this study when they were in 11th grade participated again when they were in 12th grade.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "In total, 572 participants were included in the current study. During the first wave of data collection (i.e., when participants were in the ninth grade), participants ranged in age from 13.94 to 16.22 years (M = 14.88 SD = 0.39). The majority of the 210 participants from Latin American families had Mexican backgrounds (82.4%), and these participants included 40 adolescents who were first-generation immigrants (i.e., they and their parents were born outside the United States), 130 adolescents who were second-generation (i.e., they were born in the United States, but at least one of their parents was not), and 40 adolescents who were third-generation or later (i.e., they and both of their parents were born in the United States). The majority of the 246 participants from Asian families had Chinese backgrounds (67.1%), and these participants included 77 first-generation adolescents, 158 second-generation adolescents, and 11 third-or latergeneration adolescents. Finally, the 116 participants from European backgrounds included 12 first-generation adolescents, 12 second-generation adolescents, and 92 third-or later-generation adolescents.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "As a measure of socioeconomic status (SES), we combined students' reports of their parents' education and occupation. Students reported how far their mothers and fathers went in school by selecting one of the following categories: elementaryjunior high school, some high school, graduated from high school, some college, graduated from college, or law, medical, or graduate school. Students' open-ended reports of their mothers' and fathers' jobs were coded into the following five categories: unskilled, semiskilled, skilled, semiprofessional, or professional. These four measures (mother's and father's education and mother's and father's occupation) were each standardized and summed to provide an overall index of SES. On average, students from European backgrounds reported higher SES (M = .70, SD = 0.55) than students from Asian backgrounds (M = .05, SD = 0.78), who in turn reported higher SES than students from Latin American backgrounds (M = \u00c0.52, SD = 0.70), F(2, 567) = 114.71, p < .001, g 2 = .29. These ethnic differences held even after controlling for differences in immigrant background.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Participant recruitment and data collection were conducted during school hours. Students who returned parental consent forms and provided their own assent completed self-report questionnaires during class time. Consent forms and questionnaires were available to students and their parents in Spanish, Chinese, and English; all participants chose to complete the survey in English.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "School belonging. Items from Tyler's work on institutional engagement (Tyler & Degoey, 1995) were revised to assess the extent to which students feel a sense of belonging with their school. Using a 5-point response scale (1 = strongly disagree to 5 = strongly agree), students rated their agreement with the following seven statements: \"I feel close to people at my school,\" \"I feel like I am a part of my school,\" \"I am happy to be at my school,\" \"My school is important to the way I think of myself as a person,\" \"I feel a sense that I personally belong at my school,\" \"I feel like a valued member of my school,\" and \"I do not feel like an important part of my school\" (reversed). The final measure was an average of participants' responses to all seven items. Across each year of the study, this scale possessed good internal consistency (as = .86-.89) and was similarly reliable for the adolescents from all three ethnic backgrounds (Latino: as = .85-.89, Asian: as = .85-.89, European: as = .88-.92).",
+                "cite_spans": [
+                    {
+                        "start": 70,
+                        "end": 92,
+                        "text": "(Tyler & Degoey, 1995)",
+                        "ref_id": "BIBREF59"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Academic achievement. Participants' grades were collected from school records at the end of each school year. Using a 5-point scale (0 = F to 4 = A), yearly GPAs were calculated by averaging students' grades across all their classes for both semesters of each grade.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Intrinsic value of school. The extent to which students believe that school is intrinsically valuable was assessed by averaging students' responses to two items: \"In general, I find working on school work \u2026\" (1 = very boring to 5 = very interesting) and \"How much do you like working on school work?\" (1 = a little to 5 = a lot). These items were adapted from Eccles (1983) and were highly correlated with one another each year of the study (rs = .66-.73, ps < .001). These items were similarly correlated among adolescents from all three ethnic backgrounds (Latino: rs = .63-.69, Asian: rs = .63 -.75, European: rs = .67-.75, ps < .001).",
+                "cite_spans": [
+                    {
+                        "start": 360,
+                        "end": 373,
+                        "text": "Eccles (1983)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Utility value of school. This measure was also adapted from Eccles (1983) and assessed the extent to which students believe that school is a useful enterprise. Using a 1 (not at all useful) to 5 (very useful) scale, students responded to three items: \"Right now, how useful do you find things you learn in school to be in your everyday life?\" \"In the future, how useful do you think the things you have learned in school will be in your everyday life?\" \"How useful do you think the things you have learned in school will be for what you want to be after you graduate?\" The final scale was an average of students' responses to these three items. This scale had good internal consistency each year of the study (as = .77-.82) and was similarly reliable for each ethnic group (Latino: as = .75-.84, Asian: as = .74-.83, European: as = .82-.84).",
+                "cite_spans": [
+                    {
+                        "start": 60,
+                        "end": 73,
+                        "text": "Eccles (1983)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Sample means, standard deviations, and correlations for each variable in each year of the study are presented in Table 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 113,
+                        "end": 120,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "The sample for the current study included the adolescents who participated in 2, 3, or all 4 years of the study. Despite this inclusive criteria, most adolescents participated in all 4 years (M = 3.54 years, SD = 0.66). Initial analyses were conducted to examine whether or not participants differed according to the number of years in which they participated. Because participants could potentially enter the study during different years of data collection, a variable was created to indicate the percentage of possible years each participant took part in the study. A participant who began the study in 9th grade, for example, had 4 possible years, whereas a participant who began the study in 10th grade had only 3 possible years. On average, participants took part in the study in 93.5% (SD = 13.9) of their possible years. Between-subjects analyses of variance (ANOVAs) indicated only one demographic difference in proportion of years participated; students from Asian backgrounds tended to participate in a higher proportion of years (95.4%) than students from Latin American backgrounds (91.8%), F(2, 569) = 4.17, p = .016, g 2 = .01). There were no other ethnic, gender, generation, or SES differences in proportion of years participated. To determine if there were differences in any of the yearly varying variables (i.e., school belonging, GPA, intrinsic value of school, and utility value of school) as a function of participation, hierarchical linear models (HLMs; Bryk & Raudenbush, 1992) were estimated using the following equations:",
+                "cite_spans": [
+                    {
+                        "start": 1477,
+                        "end": 1501,
+                        "text": "Bryk & Raudenbush, 1992)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participation Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "school belonging, etc. ij \u00bc b 0j \u00fe e ij \u00f01\u00de b 0j \u00bc c 00 \u00fe c 01 \u00f0participation j \u00de \u00fe u 0j",
+                        "eq_num": "\u00f02\u00de"
+                    }
+                ],
+                "section": "Participation Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "where Equation 1 represents adolescents' scores on the yearly varying variables, and Equation 2 represents these scores as a function of adolescents' degree of participation (i.e., the percentage of possible years that they took part in the study). For three of the four variables, there were no differences based on degree of participation; adolescents' average school belonging, intrinsic value of school, and utility value of school did not differ according to the percentage of possible years that they took part in the study. The one exception was GPA; participants with higher degrees of participation tended to have higher GPAs (b = 1.26, p < .001).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participation Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Given that participants in this study were drawn from three different schools (School 1: n = 267, School 2: n = 114, School 3: n = 191), we conducted a series of ANOVAs to examine whether or not any of the key study variables (averaged across the years of high school) differed by school. Controlling for ethnicity and SES, there were no differences between schools in average school belonging, F(2, 560) = .83, p = .436, g 2 = .003; average GPA, F(2, 560) = 1.28, p = .278, g 2 = .005; or average intrinsic value of school, F(2, 560) = 1.07, p = .345, g 2 = .004. Average utility value, however, did differ slightly by school; students who attended School 1 reported higher utility value (M = 3.71, SD = 0.72) than students who attended either School 2 (M = 3.30, SD = 0.71) or School 3 (M = 3.17, SD = 0.64), F(2, 560) = 3.80, p = .023, g 2 = .013.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Differences",
+                "sec_num": null
+            },
+            {
+                "text": "For all of our primary research questions, we initially conducted two-level HLMs (Level 1 = years and Level 2 = individuals). We then reran these analyses as three-level HLMs (Level 1 = years, Level 2 = individuals, and Level 3 = schools) to account for the fact that our participants were nested within schools. In all cases, the results of the three-level models were identical to those of the two-level models, and therefore, we only report the coefficients from the more parsimonious two-level models.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Differences",
+                "sec_num": null
+            },
+            {
+                "text": "The first goal of this study was to examine students' sense of school belonging over the course of high school. To address this goal, two-level HLMs were estimated using the following equations: Note. SB = school belonging; GPA = grade point average; IV = intrinsic value; UV = utility value. All bolded correlations (i.e., correlations with magnitude ! .093) are significant at p < .05.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "school belonging ij \u00bc b 0j \u00fe b 1j \u00f0year ij \u00de \u00fe e ij \u00f03\u00de",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "b 0j \u00bc c 00 \u00fe c 01 \u00f0female j \u00de \u00fe c 02 \u00f0Latino j \u00de \u00fe c 03 \u00f0Asian j \u00de \u00fe c 04 \u00f0SES j \u00de \u00fe u 0j \u00f04\u00de b 1j \u00bc c 10 \u00fe c 11 \u00f0female j \u00de \u00fe c 12 \u00f0Latino j \u00de \u00fe c 13 \u00f0Asian j \u00de \u00fe c 14 \u00f0SES j \u00de \u00fe u 1j",
+                        "eq_num": "\u00f05\u00de"
+                    }
+                ],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "As shown in Equation 3, adolescents' school belonging during a particular year (i) for a particular individual (j) was modeled as a function of average school belonging during the 1st year of the study (i.e., 9th grade; b 0j ) and the average change in school belonging that occurred over each additional year of the study (i.e., the slope; b 1j ). Year was coded such that the 1st year of the study (9th grade) = 0, 10th grade = 1, 11th grade = 2, and 12th grade = 3. As shown in Equations 4 and 5, average school belonging during 9th grade and average slope of school belonging were modeled as a function of adolescents' gender, ethnicity, and SES. Gender was dummy coded such that males = 0 and females = 1. The two ethnicity variables were also dummy coded such that students from European backgrounds were the comparison group.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "As shown in Table 2 and in Figure 1 , results indicated that controlling for SES, female students reported higher school belonging in 9th grade. Over the course of high school, however, female students' sense of school belonging declined, whereas male students' sense of school belonging did not change. Female students' average school belonging declined 6.92% from 9th to 12th grades; male students' average school belonging stayed similar across high school. As a result, female students and male students had similar levels of school belonging by the end of high school.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 12,
+                        "end": 19,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 27,
+                        "end": 35,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "None of the ethnicity terms reached significance, indicating that students from Latin American, Asian, and European backgrounds reported similar levels of school belonging in ninth grade, and on average, students from these three groups reported similar slopes of school belonging over the course of high school. The standard deviations of the estimates of school belonging's intercept and slope were significant. These standard deviations indicate that across individuals, there was significant variance in both ninth-grade school belonging and the slope of school belonging across the years of high school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "In this and all subsequent analyses, we initially examined main effects of gender and ethnicity and then estimated additional models that included Gender \u00d7 Ethnicity interaction terms. These analyses tested whether or not observed gender differences were consistent across ethnicity and, conversely, whether or not observed ethnic differences were consistent across gender. In the current analysis, all interaction terms for the intercept of school belonging were nonsignificant. For the slope of school belonging, however, the interaction between gender and Latin American background was significant (b = \u00c0.17, p = .032). This interaction indicates that the gender difference in school belonging slopes (i.e., female students' school belonging declining more steeply than that of male students') is more pronounced among students from Latin American backgrounds compared to students from European American backgrounds. Finally, we estimated additional models that included generation. These analyses indicated whether or not observed ethnic differences were artifacts of immigrant background. For both the intercept and the slope of school belonging, none of the generation terms reached significance.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "The second goal of this study was to examine whether or not students' sense of school belonging in any given year can predict their academic achievement in that same year. To address this goal, a series of HLMs were estimated using the following equations: ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "GPA ij \u00bc b 0j \u00fe b 1j \u00f0year ij \u00de \u00fe b 2j \u00f0school belonging ij \u00de \u00fe e ij \u00f06\u00de b 0j \u00bc c 00 \u00fe c 01 \u00f0female j \u00de \u00fe c 02 \u00f0Latino j \u00de \u00fe c 03 \u00f0Asian j \u00de \u00fe c 04 \u00f0SES j \u00de \u00fe u 0j",
+                        "eq_num": "\u00f07\u00de"
+                    }
+                ],
+                "section": "School Belonging and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "b 1j \u00bc c 10 \u00fe c 11 \u00f0female j \u00de \u00fe c 12 \u00f0Latino j \u00de \u00fe c 13 \u00f0Asian j \u00de \u00fe c 14 \u00f0SES j \u00de \u00fe u 1j",
+                        "eq_num": "\u00f08\u00de"
+                    }
+                ],
+                "section": "School Belonging and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "b 2j \u00bc c 20 \u00fe c 21 \u00f0female j \u00de \u00fe c 22 \u00f0Latino j \u00de \u00fe c 23 \u00f0Asian j \u00de \u00fe c 24 \u00f0SES j \u00de \u00fe u 2j",
+                        "eq_num": "\u00f09\u00de"
+                    }
+                ],
+                "section": "School Belonging and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Equation 6 represents adolescents' GPA as a function of the within-person association between school belonging and GPA (b 2j ) while controlling for normative levels of high school GPA (average GPA during ninth grade: b 0j and the average slope of GPA across the years of the study: b 1j ). In this equation, school belonging was centered at each individual's mean, and all other predictors were uncentered. As can be seen in Equations 7-9, average GPA in ninth grade, average slope of GPA over the course of high school, and the within-person association between school belonging and GPA were each modeled as a function of adolescents' gender, ethnicity, and SES. As before, gender and ethnicity were dummy coded such that male students and students from European backgrounds were the comparison groups. Results indicated no within-person association between school belonging and GPA (b = .04, p = .273) and this nonsignificant association did not differ by gender or ethnicity (bs: \u00c0.03-.05). In other words, students' school belonging for a particular year had no association with their GPA in that same year.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "To examine whether or not students' sense of school belonging in any given year can predict their academic values in that same year, a series of HLMs were estimated. These models were similar to Equations 6-9 but included either intrinsic value or utility value of school (rather than GPA) as the outcome.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging and Academic Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "As shown in Table 3 , results indicated positive within-person associations between school belonging and intrinsic value of school and between school belonging and utility value of school. In other words, years in which individuals reported higher than personal average school belonging were likely to be years in which these same individuals also reported higher intrinsic value and higher utility value.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 12,
+                        "end": 19,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "School Belonging and Academic Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "For intrinsic value, the within-person association with school belonging was invariant across gender and ethnicity; the average association between school belonging and intrinsic value was similar for male students and female students from Latin American, Asian, and European backgrounds. For utility value, the association differed by gender, but not by ethnicity. The positive association between school belonging and utility value was significant for both genders but was stronger for male students than it was for female students. Follow-up tests of Gender \u00d7 Ethnicity interactions were nonsignificant, indicating that the gender difference in the association between school belonging and utility value was consistent across students from Latin American, Asian, and European American backgrounds. We conducted one final set of analyses in which we controlled for GPA at Level 1. These analyses allowed us to determine whether or not the associations between school belonging, intrinsic value, and utility value would remain significant even after controlling for individuals' year-to-year variation in academic achievement. As shown in Table 4 , results indicated that school belonging's positive within-person associations with intrinsic and utility value of education remained significant even when controlling for students' GPA in each given year. In other words, these analyses indicated that even after statistically equating students' GPA within a particular year of high school, students' school belonging in that year is associated with higher academic values in that same year. These results suggest that school belonging is associated with a higher level of academic motivation among adolescents as compared to their equally achieving peers.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1140,
+                        "end": 1147,
+                        "text": "Table 4",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "School Belonging and Academic Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "Our results indicated that changes in school belonging over the course of high school depend on students' gender. In their 1st year of high school, girls' average school belonging was higher than boys'. This gender difference is consistent with previous research that has demonstrated that middle school girls tend to have higher school belonging than middle school boys (Anderman, 2002; Goodenow, 1993b) . The current findings suggest, however, that this gender difference in school belonging does not persist beyond the beginning of high school. Over the course of high school, girls' school belonging tended to decline, whereas boys' school belonging remained the same; by the end of high school, the gender difference in school belonging had disappeared. As compared to girls from European American backgrounds, the decline in school belonging was steeper among girls from Latin American backgrounds.",
+                "cite_spans": [
+                    {
+                        "start": 371,
+                        "end": 387,
+                        "text": "(Anderman, 2002;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 388,
+                        "end": 404,
+                        "text": "Goodenow, 1993b)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "Previous investigations of school belonging among high school students have primarily relied on cross-sectional data, which can be unreliable for examinations of change over time. Perhaps this is one reason why previous studies have not offered consistent findings for how school belonging changes across the course of high school (e.g., Note. Gender was dummy coded such that males = 0 and females = 1. All ethnicity variables were dummy coded such that students from European backgrounds were the comparison group. School belonging was centered at each individual's mean; all other predictors were uncentered. *p < .05. **p < .01. ***p < .001. Meeus & Dekovic, 1995; Whitlock, 2006) . The current results, in contrast, are drawn from longitudinal data, with the same group of students reporting their school belonging in each of the 4 years of high school. These data, therefore, are more likely to accurately represent trajectories of school belonging and, as such, add to the school belonging literature. The current study suggests that, unlike in middle school, normative declines in school belonging do not continue into high school. Among male students especially, school belonging remains remarkably stable, and although school belonging does decline among female students, the magnitude of this decline across all 4 years of high school is only about 7% of ninth-grade values. These findings are in contrast to studies conducted with younger students that find larger drops in school belonging across the course of middle school among both boys and girls. Anderman (2003) , for example, reported a 5% decline in school belonging across just a single year of middle school.",
+                "cite_spans": [
+                    {
+                        "start": 646,
+                        "end": 668,
+                        "text": "Meeus & Dekovic, 1995;",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 669,
+                        "end": 684,
+                        "text": "Whitlock, 2006)",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 1565,
+                        "end": 1580,
+                        "text": "Anderman (2003)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "Two possible explanations for the gender difference in school belonging are access to extracurricular activities and the importance of student-teacher relationships. For late adolescents in particular, participation in extracurricular activities (e.g., sports) fosters connections at school (Brown & Evans, 2002; Fredricks & Eccles, 2006) . Despite reforms such as Title IX aimed at reducing gender disparities, many high schools still provide more extracurricular opportunities for boys than those for girls (Braddock, Sokol-Katz, Greene, & Basinger-Fleischman, 2005) . Gender disparities in extracurricular options may explain boys' stable and girls' declining school belonging over the course of high school.",
+                "cite_spans": [
+                    {
+                        "start": 291,
+                        "end": 312,
+                        "text": "(Brown & Evans, 2002;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 313,
+                        "end": 338,
+                        "text": "Fredricks & Eccles, 2006)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 509,
+                        "end": 568,
+                        "text": "(Braddock, Sokol-Katz, Greene, & Basinger-Fleischman, 2005)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "Another possibility is that girls may be especially sensitive to the quality of student-teacher relationships (Crosnoe et al., 2004) . For Latinas in particular, student-teacher relationships may be especially important for fostering school connection (Garcia-Reid, 2007) . Although middle school presents challenges for student-teacher relationships, these challenges are often exacerbated in high school (Davis, 2003) . If girls are especially sensitive to declining student-teacher relationships, this may account for girls' declining school belonging in high school.",
+                "cite_spans": [
+                    {
+                        "start": 110,
+                        "end": 132,
+                        "text": "(Crosnoe et al., 2004)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 252,
+                        "end": 271,
+                        "text": "(Garcia-Reid, 2007)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 406,
+                        "end": 419,
+                        "text": "(Davis, 2003)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "To the extent that school belonging represents the degree to which school environments are meeting students' developmental needs, the current study offers some surprising optimism for high schools. Although there are many aspects of typical high school environments that are not optimal for students (Eccles & Roeser, 2005; Hargreaves et al., 1996) , the current study suggests that at least in the three schools sampled, school environments may fit students' developmental needs at least well enough to stop the dramatic declines in school belonging that are seen among younger students. Future research could more thoroughly test this idea by directly measuring students' needs, their school environments, and their school belonging across the course of high school. By measuring a variety of specific aspects of school environment, this research would allow us to determine which aspects of the school environment are beneficial for all students and which are especially beneficial for certain groups of students (e.g., boys or girls).",
+                "cite_spans": [
+                    {
+                        "start": 300,
+                        "end": 323,
+                        "text": "(Eccles & Roeser, 2005;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 324,
+                        "end": 348,
+                        "text": "Hargreaves et al., 1996)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "Although the current study was an important first step in documenting changes in school belonging across the course of high school, it is important to remember that the reported findings represent average levels of school belonging. Even after controlling for SES, gender, and ethnicity, significant variability in school belonging remained. This significant variability indicates that although, on average, boys' school belonging remained consistent and girls' declined, there may have been some students for whom these averages did not apply. There may be subgroups of girls, for example, for whom school belonging remained stable or increased, and there may be subgroups of boys for whom school belonging increased or decreased. Future research, therefore, will benefit by more thoroughly examining predictors of changes in school belonging, identifying protective factors associated with stability or increases in school belonging and risk factors associated with decreases in school belonging.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "It is worth emphasizing, however, that unlike some previous work, we did not find ethnicity to be one such risk factor. Some researchers have suggested that ethnic minority students are at increased risk for academic disengagement, which could manifest as decreasing school belonging (Anderson et al., 2000; Nussbaum & Steele, 2007) . Our findings, in contrast, indicate that ethnic group membership alone is not associated with mean levels of school belonging or with changes in school belonging across high school. On average, students from Latin American, Asian, and European backgrounds reported similar levels of school belonging in ninth grade, and students from these three groups reported similar slopes of school belonging over the course of high school. As with our findings for gender, however, there is certainly within-group variability in school belonging that the current study was unable to capture, and there may be subgroups of students who are at risk of school disengagement. Our findings, however, argue for moving beyond ethnic group membership as a definition of risk (Catterall, 1998) . Future research should include more individual-level variables to examine predictors of school belonging among subgroups of students.",
+                "cite_spans": [
+                    {
+                        "start": 284,
+                        "end": 307,
+                        "text": "(Anderson et al., 2000;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 308,
+                        "end": 332,
+                        "text": "Nussbaum & Steele, 2007)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 1091,
+                        "end": 1108,
+                        "text": "(Catterall, 1998)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging Over the Course of High School",
+                "sec_num": null
+            },
+            {
+                "text": "The second goal of this study was to examine the associations between students' school belonging and their academic achievement and academic values. Within-person analyses indicated that school belonging was not associated with achievement as measured by GPA, and this was true among boys and girls from Latin American, Asian, and European backgrounds. Although this null association between school belonging and GPA is consistent with some previous research (e.g., Dotterer et al., 2007; Gutman & Midgley, 2000) , it does seem to conflict with other research (e.g., Anderman, 2002; Kuperminc et al., 2008) . Unlike the current study, however, previous studies demonstrating associations between school belonging and GPA have been based on between-subjects analyses. Like these studies, we also found modest correlations between school belonging and GPA at the individual level (in the 11th and 12th grades). Between-subjects analyses, however, address whether or not individuals with high school belonging also have high GPA. Despite the inclusion of control variables in these analyses, the possibility remains that betweensubjects associations are artifacts of unmeasured variables. In contrast, the longitudinal within-person analyses employed in the current study assess whether or not year-to-year variations in a student's school belonging predict year-to-year variations in the same student's GPA. Within-person analyses, therefore, control for unmeasured factors that confound traditional, individual-level analyses. Thus, our study suggests that knowing how connected a student is to their school in a particular year does not predict their GPA for that same year.",
+                "cite_spans": [
+                    {
+                        "start": 466,
+                        "end": 488,
+                        "text": "Dotterer et al., 2007;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 489,
+                        "end": 512,
+                        "text": "Gutman & Midgley, 2000)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 567,
+                        "end": 582,
+                        "text": "Anderman, 2002;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 583,
+                        "end": 606,
+                        "text": "Kuperminc et al., 2008)",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging, Academic Achievement, and Academic Values",
+                "sec_num": null
+            },
+            {
+                "text": "Another important difference between our study and others is the age of the participants. Most previous investigations of school belonging and achievement have focused on middle school students. It is possible that school belonging does contribute to middle school students' achievement, but not high school students'. More so than in middle school, for example, high school grades are largely determined by objective indicators such as standardized test performance (Eccles & Midgley, 1990) . It is possible that school belonging does not directly contribute to the knowledge and skills needed to perform on such tests and therefore, may not directly contribute to one's high school grades.",
+                "cite_spans": [
+                    {
+                        "start": 467,
+                        "end": 491,
+                        "text": "(Eccles & Midgley, 1990)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging, Academic Achievement, and Academic Values",
+                "sec_num": null
+            },
+            {
+                "text": "Unlike GPA, the current study suggests that school belonging was associated with both intrinsic value and utility value of school. During years in which high school students had a strong connection to their school, they were more likely to feel that school was enjoyable and useful. These results are consistent with school belonging work conducted with elementary and middle school students (Anderman, 2002; Battistich et al., 1995; Goodenow, 1993a) , indicating that the motivational benefits of school belonging continue into high school. Importantly, these associations held even after controlling for achievement. In other words, year-by-year changes in GPA were ruled out as a potentially confounding variable, indicating that even after statistically equating students' GPA within a particular year of high school, students' school belonging in that year was still associated with higher academic values in that same year. In other words, school belonging may help high school students continue to enjoy school and appreciate its usefulness, even when they are struggling academically. Given that these academic values are associated with increased educational persistence and graduation rates (Finn, 1989; Janosz, Archambault, Morizot, & Pagani, 2008) , the current study suggests that school belonging may be a promising intervention to reduce school dropout.",
+                "cite_spans": [
+                    {
+                        "start": 392,
+                        "end": 408,
+                        "text": "(Anderman, 2002;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 409,
+                        "end": 433,
+                        "text": "Battistich et al., 1995;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 434,
+                        "end": 450,
+                        "text": "Goodenow, 1993a)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1201,
+                        "end": 1213,
+                        "text": "(Finn, 1989;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1214,
+                        "end": 1259,
+                        "text": "Janosz, Archambault, Morizot, & Pagani, 2008)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging, Academic Achievement, and Academic Values",
+                "sec_num": null
+            },
+            {
+                "text": "There were no ethnic differences in the associations between school belonging and academic values, but there was one gender difference. Although the positive associations between school belonging and academic values were significant among both boys and girls, the association between school belonging and utility value was especially strong among boys. On average, boys' graduation rates are lower than those of girls' (Greene & Winters, 2006) , but feeling that school is useful may be especially beneficial for boys' educational persistence (DeBacker & Nelson, 1999) . Thus, the potential benefits that school belonging may have for reducing school dropout may especially be conferred among boys.",
+                "cite_spans": [
+                    {
+                        "start": 419,
+                        "end": 443,
+                        "text": "(Greene & Winters, 2006)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 543,
+                        "end": 568,
+                        "text": "(DeBacker & Nelson, 1999)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging, Academic Achievement, and Academic Values",
+                "sec_num": null
+            },
+            {
+                "text": "The longitudinal design and diverse sample were among this study's methodological strengths. This study did, however, have some limitations that future studies should address. The main limitation was that our sample was drawn from only three different schools, which is insufficient for examining school-level effects. Among elementary and middle school students, there is some evidence that aggregated school belonging (i.e., average school belonging across all students at the school) has independent effects above and beyond individuallevel school belonging (Battistich et al., 1995) . Anderman (2002) , for example, found that individual school belonging interacted with school average school belonging-the positive effects of an individual student's school belonging were especially strong in schools in which average school belonging was low. Future studies should include more high schools to allow for an examination of these between school effects.",
+                "cite_spans": [
+                    {
+                        "start": 561,
+                        "end": 586,
+                        "text": "(Battistich et al., 1995)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 589,
+                        "end": 604,
+                        "text": "Anderman (2002)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging, Academic Achievement, and Academic Values",
+                "sec_num": null
+            },
+            {
+                "text": "Including more schools could also address the second limitation of our study; we did not include any measurements of school context. It is possible that we found few ethnic differences in school belonging because all the students in our sample attended schools in which there was no dominant ethnic majority. Research has suggested that the ethnic composition of one's school can make a difference for one's school belonging (Benner & Graham, 2007) . Within particular school contexts, ethnicity may be associated with school belonging. Other school context variables such as urbanicity, busing policies, and safety also impact students' school belonging (Anderman, 2002) . Including a wide range of schools and directly measuring these context variables would allow us to determine if the observed patterns of school belonging in the current study hold across a variety of contexts. Finally, as mentioned earlier, the current study did not examine predictors of change in school belonging and, as such, does not offer any indication of what could be done to foster students' school belonging. Future research focusing on predictors of school belonging could more directly inform interventions aimed at increasing students' connections with their schools.",
+                "cite_spans": [
+                    {
+                        "start": 425,
+                        "end": 448,
+                        "text": "(Benner & Graham, 2007)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 655,
+                        "end": 671,
+                        "text": "(Anderman, 2002)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging, Academic Achievement, and Academic Values",
+                "sec_num": null
+            },
+            {
+                "text": "Despite these limitations, this study makes a significant contribution to the school belonging literature by examining longitudinal changes in school belonging and within-person associations between school belonging and academic outcomes. The current study demonstrated a surprising amount of stability in school belonging across the course of high school, especially among male students. The current study also suggests that school belonging may help students maintain high levels of motivation, regardless of their actual level of achievement. These findings were derived from conservative, within-person analyses, providing confidence that they represent true trajectories and true associations between school belonging and motivation. Furthermore, the diversity of our sample demonstrated that school belonging operates similarly across students from different ethnic backgrounds, at least in the contexts we studied. Thus, to the extent that high schools can help students feel like a part of the academic community, the schools will help these students to continue liking school and appreciating its usefulness, even if they are struggling academically.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Belonging, Academic Achievement, and Academic Values",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Direct and indirect effects of school learning variables on the academic achievement of African American 10th graders",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Adams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Singh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Negro Education",
+                "volume": "67",
+                "issue": "",
+                "pages": "48--66",
+                "other_ids": {
+                    "DOI": [
+                        "10.2307/2668240"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Adams, C. R., & Singh, K. (1998). Direct and indirect effects of school learning variables on the academic achievement of African American 10th graders. Journal of Negro Education, 67, 48-66. doi:10.2307/2668240",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The influence of academic support on Latino adolescents' academic motivation",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Alfaro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Uma\u00f1a-Taylor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Bamaca",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Family Relations",
+                "volume": "55",
+                "issue": "",
+                "pages": "279--291",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Alfaro, E. C., Uma\u00f1a-Taylor, A. J., & Bamaca, M. Y. (2006). The influence of academic support on Latino adolescents' academic motivation. Family Relations, 55, 279-291.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "School effects on psychological outcomes during adolescence",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Educational Psychology",
+                "volume": "94",
+                "issue": "",
+                "pages": "795--809",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.94.4.795"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, E. M. (2002). School effects on psychological outcomes during adolescence. Journal of Educational Psychology, 94, 795-809. doi:10.1037/0022-0663.94.4.795",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Academic and social perceptions as predictors of change in middle school students' sense of school belonging",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Experimental Education",
+                "volume": "72",
+                "issue": "",
+                "pages": "5--22",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, L. H. (2003). Academic and social perceptions as predictors of change in middle school students' sense of school belonging. Journal of Experimental Educa- tion, 72, 5-22.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Social predictors of changes in students' achievement goal orientations",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "24",
+                "issue": "",
+                "pages": "21--37",
+                "other_ids": {
+                    "DOI": [
+                        "10.1006/ceps.1998.0978"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, L. H., & Anderman, E. M. (1999). Social pre- dictors of changes in students' achievement goal orien- tations. Contemporary Educational Psychology, 24, 21-37. doi:10.1006/ceps.1998.0978",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "School transitions: Beginning of the end or a new beginning?",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Schramm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Splittgerber",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "International Journal of Educational Research and Evaluation",
+                "volume": "33",
+                "issue": "",
+                "pages": "325--339",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderson, L. W., Jacobs, J., Schramm, S., & Splittgerber, F. (2000). School transitions: Beginning of the end or a new beginning? International Journal of Educational Research and Evaluation, 33, 325-339.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Schools as communities, poverty levels of student populations, and students' attitudes, motives, and performance: A multilevel analysis",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Banse",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Gawronski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Rebetez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Gutt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Morton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Battistich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Solomon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Watson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Schaps",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "American Educational Research Journal",
+                "volume": "13",
+                "issue": "",
+                "pages": "627--658",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1467-7687.2009.00880"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Banse, R., Gawronski, B., Rebetez, C., Gutt, H., & Morton, J. B. (2010). The development of spontaneous gender stereotyping in childhood: Relations to stereotype knowledge and stereotype flexibility. Developmental Science, 13, 298-306. doi:10.1111/j.1467-7687.2009. 00880.x Battistich, V., Solomon, D., Kim, D., Watson, M., & Schaps, E. (1995). Schools as communities, pov- erty levels of student populations, and students' attitudes, motives, and performance: A multilevel analysis. American Educational Research Journal, 32, 627-658.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "The need to belong: Desire for interpersonal attachments as a fundamental human motivation",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Baumeister",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Leary",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Psychological Bulletin",
+                "volume": "117",
+                "issue": "",
+                "pages": "497--529",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0033-2909.117.3.497"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fun- damental human motivation. Psychological Bulletin, 117, 497-529. doi:10.1037/0033-2909.117.3.497",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Navigating the transition to multi-ethnic urban high schools: Changing ethnic congruence and adolescents' school-related affect",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Benner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Graham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Research on Adolescence",
+                "volume": "17",
+                "issue": "",
+                "pages": "207--220",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1532-7795.2007.00519.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Benner, A. D., & Graham, S. (2007). Navigating the transi- tion to multi-ethnic urban high schools: Changing eth- nic congruence and adolescents' school-related affect. Journal of Research on Adolescence, 17, 207-220. doi:10.1111/j.1532-7795.2007.00519.x",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "The role of target gender and race in children's encoding of category-neutral person information",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bennett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Sani",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "British Journal of Developmental Psychology",
+                "volume": "21",
+                "issue": "",
+                "pages": "99--112",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bennett, M., & Sani, F. (2003). The role of target gender and race in children's encoding of category-neutral person information. British Journal of Developmental Psy- chology, 21, 99-112.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "School belonging and the African American adolescent: What do we know and where should we go?",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Booker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "The High School Journal",
+                "volume": "89",
+                "issue": "",
+                "pages": "1--7",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Booker, K. C. (2006). School belonging and the African American adolescent: What do we know and where should we go? The High School Journal, 89, 1-7.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Uneven playing fields: State variations in boys' and girls' access to and participation in high school interscholastic sports",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Braddock",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Ii",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Sokol-Katz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Greene",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Basinger-Fleischman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Sociological Spectrum",
+                "volume": "25",
+                "issue": "",
+                "pages": "231--250",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/02732170590884040"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Braddock, J. H. II., Sokol-Katz, J., Greene, A., & Basinger- Fleischman, L. (2005). Uneven playing fields: State vari- ations in boys' and girls' access to and participation in high school interscholastic sports. Sociological Spectrum, 25, 231-250. doi:10.1080/02732170590884040",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Teacher support and the school engagement of latino middle and high school students at risk of school failure",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Brewster",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Bowen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Social Work Journal",
+                "volume": "21",
+                "issue": "",
+                "pages": "47--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brewster, A. B., & Bowen, G. L. (2004). Teacher support and the school engagement of latino middle and high school students at risk of school failure. Child and Ado- lescent Social Work Journal, 21, 47-67. doi:10.1023/ B:CASW.0000012348.83939.6b",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Extracurricular activity and ethnicity: Creating greater school connection among diverse student populations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Evans",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "37",
+                "issue": "",
+                "pages": "41--58",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0042085902371004"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Brown, R., & Evans, W. P. (2002). Extracurricular activity and ethnicity: Creating greater school connection among diverse student populations. Urban Education, 37, 41-58. doi:10.1177/0042085902371004",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Hierarchical linear models: Applications and data analysis methods",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Bryk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Raudenbush",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bryk, A. S., & Raudenbush, S. W. (1992). Hierarchical lin- ear models: Applications and data analysis methods. Thou- sand Oaks, CA: Sage.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "School summary data",
+                "authors": [],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "California Department of Education. (2006). School sum- mary data. Retrieved January 27, 2006, from http://dq. cde.ca.gov/dataquest/",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Risk and resilience in student transitions to high school",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Catterall",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "American Journal of Education",
+                "volume": "106",
+                "issue": "",
+                "pages": "302--333",
+                "other_ids": {
+                    "DOI": [
+                        "10.1086/444184"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Catterall, J. S. (1998). Risk and resilience in student transi- tions to high school. American Journal of Education, 106, 302-333. doi:10.1086/444184",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Intergenerational bonding in school: The behavioral and contextual correlates of student-teacher relationships",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Crosnoe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Elder",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Sociology of Education",
+                "volume": "77",
+                "issue": "",
+                "pages": "60--81",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Crosnoe, R., Johnson, M. K., & Elder, G. H. Jr. (2004). Intergenerational bonding in school: The behavioral and contextual correlates of student-teacher relation- ships. Sociology of Education, 77, 60-81.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Conceptualizing the role and influence of student-teacher relationships on children's social and cognitive development",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Davis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Educational Psychologist",
+                "volume": "38",
+                "issue": "",
+                "pages": "207--234",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Davis, H. A. (2003). Conceptualizing the role and influ- ence of student-teacher relationships on children's social and cognitive development. Educational Psycholo- gist, 38, 207-234.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Variations on an expectancy-value model of motivation in science",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Debacker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Nelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "24",
+                "issue": "",
+                "pages": "71--94",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "DeBacker, T. K., & Nelson, R. M. (1999). Variations on an expectancy-value model of motivation in science. Con- temporary Educational Psychology, 24, 71-94. doi:10.1006/ ceps.1998.0984",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Gender, ethnicity, and grade differences in perceptions of school experiences among adolescents",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Ding",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hall",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Studies in Educational Evaluation",
+                "volume": "33",
+                "issue": "",
+                "pages": "159--174",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ding, C., & Hall, A. (2007). Gender, ethnicity, and grade differences in perceptions of school experiences among adolescents. Studies in Educational Evaluation, 33, 159-174.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Implications of out-of-school activities for school engagement in African American adolescents",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Dotterer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mchale",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Crouter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "36",
+                "issue": "",
+                "pages": "391--401",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dotterer, A. M., McHale, S. M., & Crouter, A. C. (2007). Implications of out-of-school activities for school engagement in African American adolescents. Journal of Youth and Adolescence, 36, 391-401.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Expectancies, values, and academic behaviors",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "75--146",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S. (1983). Expectancies, values, and academic behaviors. In J. T. Spence (Ed.), Achievement and achieve- ment motivation (pp. 75-146). San Francisco: Freeman.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Schools, academic motivation, and stage-environment fit",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Handbook of adolescent psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "125--153",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S. (2004). Schools, academic motivation, and stage-environment fit. In R. M. Lerner & L. Steinberg (Eds.), Handbook of adolescent psychology (2nd ed., pp. 125-153). Hoboken, NJ: Wiley.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "The relation of connection, regulation, and support for autonomy to adolescents' functioning",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Early",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Fraser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Belansky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Mccarthy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Adolescent Research",
+                "volume": "12",
+                "issue": "",
+                "pages": "263--286",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Early, D., Fraser, K., Belansky, E., & McCar- thy, K. (1997). The relation of connection, regulation, and support for autonomy to adolescents' functioning. Journal of Adolescent Research, 12, 263-286.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Changes in academic motivation and self-perception during early adolescence",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Advances in adolescent development: An annual book series",
+                "volume": "1992",
+                "issue": "",
+                "pages": "1134--1155",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Midgley, C. (1990). Changes in academic motivation and self-perception during early adolescence. In R. Montemayor, G. R. Adams, & T. P. Gullotta (Eds.), From childhood to adolescence: A transitional period? Advances in adolescent development: An annual book series (Vol. 1992, pp. 1134-1155). Thousand Oaks, CA: Sage.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Development during adolescence: The impact of stage-environment fit on young adolescents' experiences in schools and in families",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Buchanan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Reuman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Flanagan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "American Psychologist",
+                "volume": "48",
+                "issue": "",
+                "pages": "90--101",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Midgley, C., Wigfield, A., Buchanan, C. M., Reuman, D., Flanagan, C., et al. (1993a). Development during adolescence: The impact of stage-environment fit on young adolescents' experiences in schools and in families. American Psychologist, 48, 90-101.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "School and community influences on human development",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Roeser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Developmental science: An advanced textbook",
+                "volume": "",
+                "issue": "",
+                "pages": "513--555",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Roeser, R. W. (2005). School and commu- nity influences on human development. In M. H. Born- stein & M. E. Lamb (Eds.), Developmental science: An advanced textbook (5th ed., pp. 513-555). Mahwah, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Schools, academic motivation, and stage-environment fit",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Roeser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Individual bases of adolescent development",
+                "volume": "1",
+                "issue": "",
+                "pages": "404--434",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Roeser, R. W. (2009). Schools, academic motivation, and stage-environment fit. In R. M. Lerner & L. Steinberg (Eds.), Handbook of adolescent psychology: Vol. 1. Individual bases of adolescent development (3rd ed., pp. 404-434). Hoboken, NJ: Wiley.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Negative effects of traditional middle schools on students' motivation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Reuman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Mac Iver",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Feldlaufer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Elementary School Journal",
+                "volume": "93",
+                "issue": "",
+                "pages": "553--574",
+                "other_ids": {
+                    "DOI": [
+                        "10.1086/461740"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Wigfield, A., Midgley, C., Reuman, D., Mac Iver, D., & Feldlaufer, H. (1993b). Negative effects of traditional middle schools on students' motivation. Ele- mentary School Journal, 93, 553-574. doi:10.1086/461740",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Withdrawing from school",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Finn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Review of Educational Research",
+                "volume": "59",
+                "issue": "",
+                "pages": "117--142",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Finn, J. D. (1989). Withdrawing from school. Review of Educational Research, 59, 117-142.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Academic performance and cheating: Moderating role of school identification and self-efficacy",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Finn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Frone",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Educational Research",
+                "volume": "97",
+                "issue": "",
+                "pages": "115--122",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Finn, K. V., & Frone, M. R. (2004). Academic performance and cheating: Moderating role of school identification and self-efficacy. Journal of Educational Research, 97, 115-122.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "What do children need to flourish: Conceptualizing and measuring indicators of positive development",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Fredricks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Blumenfeld",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Friedel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Paris",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "305--321",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fredricks, J. A., Blumenfeld, P., Friedel, J., & Paris, A. (2005). School engagement. In K. A. Moore & L. H. Lippman (Eds.), What do children need to flourish: Con- ceptualizing and measuring indicators of positive develop- ment (pp. 305-321). New York: Springer Science + Business Media.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Is extracurricular participation associated with beneficial outcomes? Concurrent and longitudinal relations",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Fredricks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Developmental Psychology",
+                "volume": "42",
+                "issue": "",
+                "pages": "698--713",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0012-1649.42.4.698"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Fredricks, J. A., & Eccles, J. S. (2006). Is extracurricular participation associated with beneficial outcomes? Concurrent and longitudinal relations. Developmental Psychology, 42, 698-713. doi:10.1037/0012-1649.42.4.698",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Examining social capital as a mechanism for improving school engagement among low income Hispanic girls",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Garcia-Reid",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "39",
+                "issue": "",
+                "pages": "164--181",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Garcia-Reid, P. (2007). Examining social capital as a mech- anism for improving school engagement among low income Hispanic girls. Youth and Society, 39, 164-181.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "The relationship between relative levels of motivation and intrapersonal, interpersonal, and academic functioning among older adolescents",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Gilman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of School Psychology",
+                "volume": "44",
+                "issue": "",
+                "pages": "375--391",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gilman, R., & Anderman, E. M. (2006). The relation- ship between relative levels of motivation and intra- personal, interpersonal, and academic functioning among older adolescents. Journal of School Psychology, 44, 375-391.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Classroom belonging among early adolescent students: Relationships to motivation and achievement",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Goodenow",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Journal of Early Adolescence",
+                "volume": "13",
+                "issue": "",
+                "pages": "21--43",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0272431693013001002"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Goodenow, C. (1993a). Classroom belonging among early adolescent students: Relationships to motivation and achievement. Journal of Early Adolescence, 13, 21-43. doi:10.1177/0272431693013001002",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "The Psychological Sense of School Membership among adolescents: Scale development and educational correlates",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Goodenow",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Psychology in the Schools",
+                "volume": "30",
+                "issue": "",
+                "pages": "79--90",
+                "other_ids": {
+                    "DOI": [
+                        "10.1002/1520-6807(199301)30:1<79::AID-PITS2310300113>3.0.CO"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Goodenow, C. (1993b). The Psychological Sense of School Membership among adolescents: Scale development and educational correlates. Psychology in the Schools, 30, 79-90. doi:10.1002/1520-6807(199301)30:1<79::AID- PITS2310300113>3.0.CO;2-X",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "The relationship of school belonging and friends' values to academic motivation among urban adolescent students",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Goodenow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Grady",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Journal of Experimental Education",
+                "volume": "62",
+                "issue": "",
+                "pages": "60--71",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Goodenow, C., & Grady, K. E. (1993). The relationship of school belonging and friends' values to academic moti- vation among urban adolescent students. Journal of Experimental Education, 62, 60-71.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Leaving boys behind: Public high school graduation rates",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Greene",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Winters",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Greene, J. P., & Winters, M. A. (2006). Leaving boys behind: Public high school graduation rates. New York: Manhattan Institute for Policy Research.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "The role of protective factors in supporting the academic achievement of poor African American students during the middle school transition",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Gutman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "29",
+                "issue": "",
+                "pages": "223--248",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gutman, L. M., & Midgley, C. (2000). The role of protec- tive factors in supporting the academic achievement of poor African American students during the middle school transition. Journal of Youth and Adolescence, 29, 223-248.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Schooling for change: Reinventing education for early adolescents",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hargreaves",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Earl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hargreaves, A., Earl, L. M., & Ryan, J. (1996). Schooling for change: Reinventing education for early adolescents. New York: RoutlegdeFalmer.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Peer assessments of normative and individual teacher-student support predict social acceptance and engagement among low-achieving children",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Hughes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Hill",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of School Psychology",
+                "volume": "43",
+                "issue": "",
+                "pages": "447--463",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hughes, J. N., Zhang, D., & Hill, C. R. (2006). Peer assess- ments of normative and individual teacher-student support predict social acceptance and engagement among low-achieving children. Journal of School Psychol- ogy, 43, 447-463.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Cultural attributes and adaptations linked to achievement motivation among Latino adolescents",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Iba\u00f1ez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Kuperminc",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Jurkovic",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Perilla",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "33",
+                "issue": "",
+                "pages": "559--568",
+                "other_ids": {
+                    "DOI": [
+                        "10.1023/B:JOYO.0000048069.22681.2c"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Iba\u00f1ez, G. E., Kuperminc, G. P., Jurkovic, G., & Perilla, J. (2004). Cultural attributes and adaptations linked to achievement motivation among Latino adolescents. Journal of Youth and Adolescence, 33, 559-568. doi:10.1023/B:JOYO.0000048069.22681.2c",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "School engagement trajectories and their differential predictive relations to dropout",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Janosz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Archambault",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Morizot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Pagani",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Social Issues",
+                "volume": "64",
+                "issue": "",
+                "pages": "21--40",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Janosz, M., Archambault, I., Morizot, J., & Pagani, L. S. (2008). School engagement trajectories and their differ- ential predictive relations to dropout. Journal of Social Issues, 64, 21-40.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Contributions of the relational context to career adaptability among urban adolescents",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Kenny",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bledsoe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Vocational Behavior",
+                "volume": "66",
+                "issue": "",
+                "pages": "257--272",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kenny, M. E., & Bledsoe, M. (2005). Contributions of the relational context to career adaptability among urban adolescents. Journal of Vocational Behavior, 66, 257-272.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Parent involvement in the academic adjustment of Latino middle and high school youth: Teacher expectations and school belonging as mediators",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Kuperminc",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Darnell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Alvarez-Jimenez",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Adolescence",
+                "volume": "31",
+                "issue": "",
+                "pages": "469--483",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kuperminc, G. P., Darnell, A. J., & Alvarez-Jimenez, A. (2008). Parent involvement in the academic adjustment of Latino middle and high school youth: Teacher expec- tations and school belonging as mediators. Journal of Adolescence, 31, 469-483.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Trajectories of Chinese students' sense of school belonging and academic achievement over the high school transition period",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Lu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Learning and Individual Differences",
+                "volume": "21",
+                "issue": "",
+                "pages": "187--190",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.lindif.2010.12.007"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Liu, Y., & Lu, Z. (2011). Trajectories of Chinese students' sense of school belonging and academic achievement over the high school transition period. Learning and Individual Differences, 21, 187-190. doi:10.1016/j.lindif. 2010.12.007",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Promoting school connectedness: Evidence from the National Longitudinal Study of Adolescent Health",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Mcneely",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Nonnemaker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Blum",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of School Health",
+                "volume": "72",
+                "issue": "",
+                "pages": "138--146",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McNeely, C. A., Nonnemaker, J. M., & Blum, R. W. (2002). Promoting school connectedness: Evidence from the National Longitudinal Study of Adolescent Health. Journal of School Health, 72, 138-146.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Identity development, parental and peer support in adolescence: Results of a national Dutch survey",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Meeus",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Dekovic",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Adolescence",
+                "volume": "30",
+                "issue": "",
+                "pages": "931--944",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Meeus, W., & Dekovic, M. (1995). Identity development, parental and peer support in adolescence: Results of a national Dutch survey. Adolescence, 30, 931-944.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Social causes of psychological distress",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Mirowsky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Ross",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mirowsky, J., & Ross, C. E. (2003). Social causes of psycho- logical distress (2nd ed.). New York: Walter de Gruyter.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Situational disengagement and persistence in the face of adversity",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Nussbaum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Steele",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Experimental Social Psychology",
+                "volume": "43",
+                "issue": "",
+                "pages": "127--134",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nussbaum, A. D., & Steele, C. M. (2007). Situational dis- engagement and persistence in the face of adversity. Journal of Experimental Social Psychology, 43, 127-134.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Academic and psychological functioning in late adolescence: The importance of school belonging",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Pittman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Richmond",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Experimental Education",
+                "volume": "75",
+                "issue": "",
+                "pages": "270--290",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pittman, L. D., & Richmond, A. (2007). Academic and psychological functioning in late adolescence: The importance of school belonging. Journal of Experimental Education, 75, 270-290.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "School as a context of early adolescents' academic and social-emotional development: A summary of research findings",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Roeser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Sameroff",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Elementary School Journal",
+                "volume": "100",
+                "issue": "",
+                "pages": "443--471",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Roeser, R. W., Eccles, J. S., & Sameroff, A. J. (2000). School as a context of early adolescents' academic and social-emotional development: A summary of research findings. Elementary School Journal, 100, 443-471.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Perceptions of the school psychological environment and early adolescents' psychological and behavioral functioning in school: The mediating role of goals and belonging",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Roeser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Urdan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Journal of Educational Psychology",
+                "volume": "88",
+                "issue": "",
+                "pages": "408--422",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Roeser, R. W., Midgley, C., & Urdan, T. C. (1996). Percep- tions of the school psychological environment and early adolescents' psychological and behavioral functioning in school: The mediating role of goals and belonging. Journal of Educational Psychology, 88, 408-422.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Introducing the issue. The Future of Children",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Rouse",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Kemple",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "19",
+                "issue": "",
+                "pages": "3--15",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rouse, C. E., & Kemple, J. J. (2009). Introducing the issue. The Future of Children, 19, 3-15.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Ethnicity, selfconcept, and school belonging: Effects on school engagement",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Singh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Chang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Dika",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Educational Research for Policy and Practice",
+                "volume": "9",
+                "issue": "",
+                "pages": "159--175",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/s10671-010-9087-0"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Singh, K., Chang, M., & Dika, S. (2010). Ethnicity, self- concept, and school belonging: Effects on school engagement. Educational Research for Policy and Practice, 9, 159-175. doi:10.1007/s10671-010-9087-0",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Choosing the right pond: The impact of group membership on self-esteem and group-oriented behavior",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Tyler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Experimental Social Psychology",
+                "volume": "33",
+                "issue": "",
+                "pages": "146--170",
+                "other_ids": {
+                    "DOI": [
+                        "10.1006/jesp.1996.1318"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Smith, H. J., & Tyler, T. R. (1997). Choosing the right pond: The impact of group membership on self-esteem and group-oriented behavior. Journal of Experimental Social Psychology, 33, 146-170. doi:10.1006/jesp.1996. 1318",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "Collective restraint in social dilemmas: Procedural justice and social identification effects on support for authorities",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Tyler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Degoey",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "69",
+                "issue": "",
+                "pages": "482--497",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-3514.69.3.482"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Tyler, T. R., & Degoey, P. (1995). Collective restraint in social dilemmas: Procedural justice and social identification effects on support for authorities. Journal of Personality and Social Psychology, 69, 482-497. doi:10.1037/0022-3514.69. 3.482",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "Identification with school",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Voelkl",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "American Journal of Education",
+                "volume": "105",
+                "issue": "",
+                "pages": "294--318",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Voelkl, K. E. (1997). Identification with school. American Journal of Education, 105, 294-318.",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "A question of belonging: Race, social fit, and achievement",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Walton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Cohen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "92",
+                "issue": "",
+                "pages": "82--96",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Walton, G. M., & Cohen, G. L. (2007). A question of belonging: Race, social fit, and achievement. Journal of Personality and Social Psychology, 92, 82-96. doi:10.1037/ 0022-3514.92.1.82",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "Youth perceptions of life at school: Contextual correlates of school connectedness in adolescence",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Whitlock",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Applied Developmental Science",
+                "volume": "10",
+                "issue": "",
+                "pages": "13--29",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/s1532480xads1001_2"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Whitlock, J. L. (2006). Youth perceptions of life at school: Contextual correlates of school connectedness in adoles- cence. Applied Developmental Science, 10, 13-29. doi:10.1207/s1532480xads1001_2",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "Stability and change in rural youths' educational outcomes through the middle and high school years",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Witherspoon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Ennett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "40",
+                "issue": "",
+                "pages": "1077--1090",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/s10964-010-9614-6"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Witherspoon, D., & Ennett, S. (2011). Stability and change in rural youths' educational outcomes through the mid- dle and high school years. Journal of Youth and Adoles- cence, 40, 1077-1090. doi:10.1007/s10964-010-9614-6",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "School belonging over the course of high school among boys and girls from European, Latin American, and Asian backgrounds."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td/><td>M (SD)</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td>1. SB (9th)</td><td>3.37 (.83)</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>2. SB (10th)</td><td>3.24 (.85)</td><td>.54</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>3. SB (11th)</td><td>3.15 (.91)</td><td>.47</td><td>.58</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>4. SB (12th)</td><td>3.24 (.87)</td><td>.32</td><td>.49</td><td>.66</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>5. GPA (9th)</td><td>2.97 (.75)</td><td>.09</td><td>.13</td><td>.14</td><td>.16</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>6. GPA (10th)</td><td>2.86 (.80)</td><td>.07</td><td>.07</td><td>.11</td><td>.12</td><td>.81</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>7. GPA (11th)</td><td>2.85 (.77)</td><td>.02</td><td>.05</td><td>.16</td><td>.16</td><td>.74</td><td>.81</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>8. GPA (12th)</td><td>2.92 (.71)</td><td>\u00c0.01</td><td>.04</td><td>.16</td><td>.17</td><td>.64</td><td>.71</td><td>.75</td><td>-</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>9. IV (9th)</td><td>2.71 (.97)</td><td>.36</td><td>.35</td><td>.31</td><td>.23</td><td>.13</td><td>.09</td><td>.06</td><td>.12</td><td>-</td><td/><td/><td/><td/><td/><td/></tr><tr><td>10. IV (10th)</td><td>2.61 (.94)</td><td>.28</td><td>.43</td><td>.24</td><td>.20</td><td>.11</td><td>.10</td><td>.05</td><td>.03</td><td>.56</td><td>-</td><td/><td/><td/><td/><td/></tr><tr><td>11. IV (11th)</td><td>2.53 (.95)</td><td>.26</td><td>.33</td><td>.40</td><td>.32</td><td>.11</td><td>.07</td><td>.15</td><td>.15</td><td>.48</td><td>.57</td><td>-</td><td/><td/><td/><td/></tr><tr><td>12. IV (12th)</td><td>2.54 (.95)</td><td>.15</td><td>.24</td><td>.22</td><td>.38</td><td>.05</td><td>.03</td><td>.09</td><td>.17</td><td>.40</td><td>.47</td><td>.54</td><td>-</td><td/><td/><td/></tr><tr><td>13. UV (9th)</td><td>3.68 (.91)</td><td>.38</td><td>.26</td><td>.25</td><td>.22</td><td>\u00c0.02</td><td>\u00c0.03</td><td>\u00c0.02</td><td>.07</td><td>.45</td><td>.35</td><td>.32</td><td>.36</td><td>-</td><td/><td/></tr><tr><td>14. UV (10th)</td><td>3.50 (.89)</td><td>.28</td><td>.38</td><td>.23</td><td>.13</td><td>.01</td><td>\u00c0.01</td><td>\u00c0.03</td><td>\u00c0.00</td><td>.32</td><td>.45</td><td>.35</td><td>.37</td><td>.53</td><td>-</td><td/></tr><tr><td>15. UV (11th)</td><td>3.34 (.94)</td><td>.21</td><td>.25</td><td>.29</td><td>.22</td><td>\u00c0.02</td><td>\u00c0.04</td><td>.03</td><td>.05</td><td>.25</td><td>.30</td><td>.49</td><td>.35</td><td>.45</td><td>.51</td><td>-</td></tr><tr><td>16. UV (12th)</td><td>3.25 (.90)</td><td>.09</td><td>.20</td><td>.22</td><td>.27</td><td>\u00c0.01</td><td>\u00c0.01</td><td>.07</td><td>.16</td><td>.21</td><td>.23</td><td>.32</td><td>.49</td><td>.38</td><td>.43</td><td>.54</td></tr></table>",
+                "type_str": "table",
+                "text": "Means, Standard Deviations, and Correlations"
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td>School belonging b (SE)</td></tr></table>",
+                "type_str": "table",
+                "text": "School Belonging Over the Course of High School"
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td/><td>Intrinsic</td><td>Utility</td></tr><tr><td/><td>value b (SE)</td><td>value b (SE)</td></tr><tr><td>Intercept (ninth grade)</td><td>1.08 (.23)***</td><td>2.12 (.22)***</td></tr><tr><td>Female students</td><td>0.58 (.18)**</td><td>0.64 (.17)**</td></tr><tr><td>Latino</td><td>0.19 (.28)</td><td>0.23 (.28)</td></tr><tr><td>Asian</td><td>0.05 (.25)</td><td>0.44 (.25)</td></tr><tr><td>SES</td><td>\u00c00.05 (.13)</td><td>\u00c00.17 (.13)</td></tr><tr><td>SD</td><td>0.76*</td><td>0.77</td></tr><tr><td>Year (slope)</td><td>\u00c00.06 (.04)</td><td>\u00c00.13 (.04)**</td></tr><tr><td>Female students</td><td>\u00c00.01 (.03)</td><td>\u00c00.02 (.03)</td></tr><tr><td>Latino</td><td>0.05 (.05)</td><td>0.00 (.05)</td></tr><tr><td>Asian</td><td>0.01 (.04)</td><td>\u00c00.02 (.04)</td></tr><tr><td>SES</td><td>\u00c00.01 (.02)</td><td>0.04 (.02)</td></tr><tr><td>SD</td><td>0.17**</td><td>0.15**</td></tr><tr><td>School belonging</td><td>0.42 (.06)***</td><td>0.40 (.06)***</td></tr><tr><td>Female students</td><td>\u00c00.08 (.05)</td><td>\u00c00.15 (.05)**</td></tr><tr><td>Latino</td><td>\u00c00.03 (.08)</td><td>\u00c00.01 (.08)</td></tr><tr><td>Asian</td><td>0.02 (.06)</td><td>\u00c00.07 (.07)</td></tr><tr><td>SES</td><td>\u00c00.01 (.04)</td><td>\u00c00.04 (.04)</td></tr><tr><td>SD</td><td>0.22</td><td>0.16</td></tr></table>",
+                "type_str": "table",
+                "text": "Within-Person Associations Between School Belonging and Academic Values"
+            },
+            "TABREF3": {
+                "num": null,
+                "content": "<table><tr><td/><td>Intrinsic</td><td>Utility</td></tr><tr><td/><td>value b (SE)</td><td>value b (SE)</td></tr><tr><td>Intercept (ninth grade)</td><td>.69 (.24)**</td><td>1.86 (.24) ***</td></tr><tr><td>Female students</td><td>.42 (.17)*</td><td>0.55 (.18)**</td></tr><tr><td>Latino</td><td>.21 (.28)</td><td>0.28 (.28)</td></tr><tr><td>Asian</td><td>.01 (.24)</td><td>0.41 (.25)</td></tr><tr><td>SES</td><td>\u00c0.10 (.13)</td><td>\u00c00.20 (.13)</td></tr><tr><td>SD</td><td>.67</td><td>0.80</td></tr><tr><td>Year (slope)</td><td>\u00c0.06 (.04)</td><td>\u00c00.12 (.04)**</td></tr><tr><td>Female students</td><td>\u00c0.01 (.03)</td><td>\u00c00.02 (.03)</td></tr><tr><td>Latino</td><td>.05 (.05)</td><td>\u00c00.01 (.05)</td></tr><tr><td>Asian</td><td>.01 (.04)</td><td>\u00c00.02 (.04)</td></tr><tr><td>SES</td><td>.01 (.02)</td><td>0.04 (.02)*</td></tr><tr><td>SD</td><td>.18***</td><td>0.15**</td></tr><tr><td>School belonging</td><td>.38 (.06)***</td><td>0.39 (.06)***</td></tr><tr><td>Female students</td><td>\u00c0.05 (.05)</td><td>\u00c00.14 (.05)**</td></tr><tr><td>Latino</td><td>\u00c0.01 (.08)</td><td>0.00 (.08)</td></tr><tr><td>Asian</td><td>.03 (.07)</td><td>\u00c00.07 (.07)</td></tr><tr><td>SES</td><td>\u00c0.01 (.04)</td><td>\u00c00.03 (.04)</td></tr><tr><td>SD</td><td>.19</td><td>0.16</td></tr><tr><td>GPA</td><td>.17 (.03)***</td><td>0.10 (.03)**</td></tr><tr><td colspan=\"3\">Note. Gender was dummy coded such that males = 0 and</td></tr><tr><td colspan=\"3\">females = 1. All ethnicity variables were dummy coded such that</td></tr><tr><td colspan=\"3\">students from European backgrounds were the comparison</td></tr><tr><td colspan=\"3\">group. School belonging was centered at each individual's mean;</td></tr><tr><td colspan=\"2\">all other predictors were uncentered.</td><td/></tr><tr><td colspan=\"2\">*p &lt; .05. **p &lt; .01. ***p &lt; .001.</td><td/></tr></table>",
+                "type_str": "table",
+                "text": "Within-Person Associations Between School Belonging and Academic Values, Controlling for Yearly Variations in Achievement"
+            }
+        }
+    }
+}

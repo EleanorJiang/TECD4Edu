@@ -1,0 +1,3262 @@
+{
+    "paper_id": "Otis_2005",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:05:09.529263Z"
+    },
+    "title": "Latent Motivational Change in an Academic Setting: A 3-Year Longitudinal Study",
+    "authors": [
+        {
+            "first": "Nancy",
+            "middle": [],
+            "last": "Otis",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Frederick",
+            "middle": [
+                "M E"
+            ],
+            "last": "Grouzet",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Luc",
+            "middle": [
+                "G"
+            ],
+            "last": "Pelletier",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This research examined changes in intrinsic and extrinsic motivation during the transition from junior to senior high school as well as the impact of motivational changes on various educational consequences (i.e., dropout intentions, absenteeism, homework frequency, and educational aspirations). A total of 646 participants completed a questionnaire in 8th, 9th, and 10th grade. Using the true intraindividual change modeling technique (R. Steyer, I. Partchev, & M. J. Shanahan, 2000), the authors reached results revealing that students' intrinsic motivation and extrinsic motivation decreased gradually from 8th to 10th grade. Furthermore, less educational adjustment was observed for students experiencing a decline in external regulation during the transitional year and students experiencing a decline in intrinsic motivation and identified regulation during the year after the transition.",
+    "pdf_parse": {
+        "paper_id": "Otis_2005",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "This research examined changes in intrinsic and extrinsic motivation during the transition from junior to senior high school as well as the impact of motivational changes on various educational consequences (i.e., dropout intentions, absenteeism, homework frequency, and educational aspirations). A total of 646 participants completed a questionnaire in 8th, 9th, and 10th grade. Using the true intraindividual change modeling technique (R. Steyer, I. Partchev, & M. J. Shanahan, 2000), the authors reached results revealing that students' intrinsic motivation and extrinsic motivation decreased gradually from 8th to 10th grade. Furthermore, less educational adjustment was observed for students experiencing a decline in external regulation during the transitional year and students experiencing a decline in intrinsic motivation and identified regulation during the year after the transition.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Despite the fact that an impressive amount of research in the educational context has been conducted on intrinsic and extrinsic motivation, little research has focused on changes in these motivations across the school years (Deci, Vallerand, Pelletier, & Ryan, 1991; Dweck & Elliot, 1983; Grolnick, Ryan, & Deci, 1991; Harter, 1982; Nicholls, 1984; Sansone & Harackiewicz, 2000) . From primary school to university, intrinsic motivation was found to lead to better school outcomes (e.g., persistence, creativity, and performance) than extrinsic motivation (Amabile & Gitomer, 1984; Goldberg & Cornell, 1998; Hardre & Reeve, 2003) . To date, studies on motivational changes have observed that students tend to be less intrinsically motivated and more extrinsically motivated as they progress through the grades, especially after a school transition (Eccles, Lord, & Buchanan, 1996) . Given the evidence so far and the potential negative outcomes associated with a motivational decline, a comprehensive assessment of change in motivation and its impact is warranted.",
+                "cite_spans": [
+                    {
+                        "start": 224,
+                        "end": 266,
+                        "text": "(Deci, Vallerand, Pelletier, & Ryan, 1991;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 267,
+                        "end": 288,
+                        "text": "Dweck & Elliot, 1983;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 289,
+                        "end": 318,
+                        "text": "Grolnick, Ryan, & Deci, 1991;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 319,
+                        "end": 332,
+                        "text": "Harter, 1982;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 333,
+                        "end": 348,
+                        "text": "Nicholls, 1984;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 349,
+                        "end": 378,
+                        "text": "Sansone & Harackiewicz, 2000)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 556,
+                        "end": 581,
+                        "text": "(Amabile & Gitomer, 1984;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 582,
+                        "end": 607,
+                        "text": "Goldberg & Cornell, 1998;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 608,
+                        "end": 629,
+                        "text": "Hardre & Reeve, 2003)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 848,
+                        "end": 880,
+                        "text": "(Eccles, Lord, & Buchanan, 1996)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The present study focuses on change in motivation during the transition from junior to senior high school. To obtain a more complete analysis of change, we examined motivation according to the self-determination theory's (SDT; Deci & Ryan, 1985 , 2002 multidimensional perspective of motivation. Further, a latent approach, the true intraindividual change modeling technique (e.g., Steyer et al., 2000) , is used in order to identify changes occurring in each motivational form proposed by SDT among all three measurement occasions. Another contribution of the present study consists of examining the influence of actual changes in each motivational form on academic adjustment. In the sections below, past investigations on intraindividual motivational changes and their limits are first presented. Then, the theoretical framework (i.e., SDT) and the statistical technique used in the present study to overcome limits of past studies are described.",
+                "cite_spans": [
+                    {
+                        "start": 227,
+                        "end": 244,
+                        "text": "Deci & Ryan, 1985",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 245,
+                        "end": 251,
+                        "text": ", 2002",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 382,
+                        "end": 402,
+                        "text": "Steyer et al., 2000)",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Developmental and educational researchers have repeatedly observed a decline in students' motivation as they progress through elementary school and high school. In a cross-sectional study, Harter (1981) reported a gradual decline in intrinsic motivation involving students in 3rd through 9th grade. A longitudinal study from the middle elementary through the high school years conducted by Gottfried, Fleming, and Gottfried (2001) found that intrinsic motivation declined substantially for math and science, declined a little for reading and school in general, and did not change for social studies. Value beliefs, defined as the perceived importance and interest attached to subject areas, were found to decrease for math across 1st through 12th grade (Pajares & Graham, 1999) , and for math and sport during the transition to middle school (Fredericks & Eccles, 2002) . The transition to high school was also associated with a decrease in students' self-efficacy (Bouffard, Boileau, & Vezeau, 2001 ) and students' interest (Wigfield & Eccles, 1994) .",
+                "cite_spans": [
+                    {
+                        "start": 189,
+                        "end": 202,
+                        "text": "Harter (1981)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 390,
+                        "end": 430,
+                        "text": "Gottfried, Fleming, and Gottfried (2001)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 753,
+                        "end": 777,
+                        "text": "(Pajares & Graham, 1999)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 842,
+                        "end": 869,
+                        "text": "(Fredericks & Eccles, 2002)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 965,
+                        "end": 999,
+                        "text": "(Bouffard, Boileau, & Vezeau, 2001",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1025,
+                        "end": 1050,
+                        "text": "(Wigfield & Eccles, 1994)",
+                        "ref_id": "BIBREF57"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Past Investigations on Intraindividual Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to a general decline in motivation, a shift from intrinsic to a more extrinsic motivational orientation has been documented. For instance, Harter (1981) measured motivation with subscales made up of both an intrinsic and extrinsic pole (preference for challenge vs. preference for easy work, curiosityinterest vs. teacher approval, and independent mastery vs. dependence on teacher). In this cross-sectional study, involving students from 3rd through 9th grade, a linear trend was observed in which motivational orientation was at first very intrinsic in 3rd grade but became increasingly extrinsic with each grade level. However, the shift from intrinsic to extrinsic motivation needs to be interpreted carefully because Harter (1981) used a dichotomous measure of motivation that puts intrinsic and extrinsic motivation at the opposite ends of the same continuum. Finally, studies within the context of achievement goal orientations have found a decrease in personal task goals and an increase in personal extrinsic goals during the transition to middle school (E. M. Anderman, Maehr, & Midgley, 1999; L. H. Anderman & Anderman, 1999; Maehr & Anderman, 1993) . In sum, studies investigating mean level changes in motivation indicate a general trend toward extrinsic motivation as students move further into their education.",
+                "cite_spans": [
+                    {
+                        "start": 151,
+                        "end": 164,
+                        "text": "Harter (1981)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 734,
+                        "end": 747,
+                        "text": "Harter (1981)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1082,
+                        "end": 1115,
+                        "text": "Anderman, Maehr, & Midgley, 1999;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1116,
+                        "end": 1148,
+                        "text": "L. H. Anderman & Anderman, 1999;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1149,
+                        "end": 1172,
+                        "text": "Maehr & Anderman, 1993)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Past Investigations on Intraindividual Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "Existing research has underlined the significance of studying changes in motivation through transition. However, limitations of previous studies can be pointed out. A first limitation concerns the dichotomous conceptualization of motivation. Several studies have either focused exclusively on intrinsic motivation or have defined extrinsic motivation as the opposite of intrinsic motivation, which prevented the assessment of change in intrinsic and extrinsic motivation independently.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Past Investigations on Intraindividual Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "A second limitation involves the statistical techniques that were used. Cross-sectional studies have relied on between-persons group means and/or cross-time intraindividual correlation, which provide important information but do not assess adequately intraindividual change, and the longitudinal studies have relied on repeated measures multivariate analyses of variance and linear trend analyses. Because these statistical analyses are based on observed variables, they confound true-construct components and measurement-error components of the intraindividual change. Observed changes in motivation found in past studies could be attributed to other factors such as changes in students' conceptualization of the motivational measure or changes in students' perception of the rating scale (e.g., Millsap & Hartog, 1988) .",
+                "cite_spans": [
+                    {
+                        "start": 797,
+                        "end": 820,
+                        "text": "Millsap & Hartog, 1988)",
+                        "ref_id": "BIBREF35"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Past Investigations on Intraindividual Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "The third limitation concerns the absence of research on the link between changes in motivation and consequences. Most researchers have treated a decline in motivation as a negative consequence that should be avoided because a low level of motivation has been negatively associated with a successful pursuit of studies. However, those researchers did not examine whether the actual decline in motivation was associated with specific consequences. We propose to examine educational consequences as a function of a discontinuity in intrinsic and extrinsic motivation. We feel that such a dynamic approach to motivation is closer to the reality of a school transition, which is an event that takes place in time.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Past Investigations on Intraindividual Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "In the present study, we propose to examine educational motivation from the perspective of SDT (Deci & Ryan, 1985 , 2002 . This theory possesses several characteristics that make it suitable to the study of change. First, it proposes a multidimensional conceptualization of motivation. Consistent with other motivational perspectives, SDT proposes a distinction between intrinsic and extrinsic motivation. Intrinsic motivation refers to engaging in activities for their inherent satisfaction. When intrinsically motivated, individuals initiate an activity for no other reason than knowing they will experience pleasure while doing it. In contrast, extrinsic motivation refers to engaging in activities for instrumental reasons. Thus, the incentive to perform the activity in extrinsic motivation is separate from the activity, whereas the incentive is located in the activity itself for intrinsically motivated behaviors. However, SDT does not view extrinsic motivation as only nonautonomous and as antithetical of intrinsic motivation. In fact, SDT postulates the existence of three forms of extrinsic motivation reflecting different levels of self-determination. From lowest to highest levels of self-determination, the forms are external regulation, introjected regulation, and identified regulation. When externally regulated, individuals' behaviors are controlled by external sources. For example, students study because they want to get a good grade, gain recognition from their teachers, or avoid punishment from their parents. This form of regulation refers to the common definition of extrinsic motivation found in the literature. With introjected regulation, individuals have internalized the formerly external source of motivation but have not yet truly accepted it. In this case, students study because of self-imposed pressures, to avoid feelings of guilt, or to conserve their self-esteem. However, individuals behave because they feel they have to and not because they want to. Identified regulation develops when individuals have chosen to perform the activity after having estimated its value and personal importance. An example of an identified regulation is when students decide to study because they recognize that it has advantages for them. Only this last form of extrinsic motivation is truly self-determined because individuals have made the choice to regulate the behavior.",
+                "cite_spans": [
+                    {
+                        "start": 95,
+                        "end": 113,
+                        "text": "(Deci & Ryan, 1985",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 114,
+                        "end": 120,
+                        "text": ", 2002",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Toward a Multidimensional Perspective of Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "SDT proposes also the existence of amotivation, which happens when individuals perceive that whatever they do, it will amount to nothing. The experience of amotivation is similar to the concept of learned helplessness (Abramson, Seligman, & Teasdale, 1978) ; individuals feel that they are incompetent, have no control over desired outcomes, and think that outside forces are operating against them. Amotivated students cannot find any good reason to study because in their eyes, it is not worth it. Thus, SDT provides a complex typology to examine increase in some motivational forms and decrease in others.",
+                "cite_spans": [
+                    {
+                        "start": 218,
+                        "end": 256,
+                        "text": "(Abramson, Seligman, & Teasdale, 1978)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Toward a Multidimensional Perspective of Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "A second characteristic of SDT is that each form of motivation can be placed on a continuum of self-determination (Ryan & Connell, 1989) . Self-determined motivations (i.e., intrinsic motivation and identified regulation) have been associated with better psychological functioning compared with non-self-determined motivations (i.e., introjected regulation, external regulation, and amotivation; see Deci & Ryan, 2002) . Thus, with SDT, it is possible to examine educational consequences in terms of an increase or a decrease in the self-determined (vs. non-selfdetermined) forms of motivation.",
+                "cite_spans": [
+                    {
+                        "start": 114,
+                        "end": 136,
+                        "text": "(Ryan & Connell, 1989)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 400,
+                        "end": 418,
+                        "text": "Deci & Ryan, 2002)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Toward a Multidimensional Perspective of Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "The third characteristic of SDT concerns its central postulate that motivation is malleable. According to SDT, motivational changes naturally occur through the internalization process, which refers to individuals' natural tendency to internalize and integrate the regulation of behaviors that are socially valued (i.e., schoolrelated behaviors), and initially depend on extrinsic incentives. The internalization process is viewed as an innate tendency serving to promote the development of self-determined motivation and, thus, facilitates optimal functioning. SDT also proposes that the social context can undermine self-determined motivation (and promote non-self-determined motivation) when it is not supporting individuals' fundamental needs for autonomy, competence, and relatedness. Thus, the examination of changes in motivation fits with the basic theoretical fundaments of SDT.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Toward a Multidimensional Perspective of Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "Greater educational adjustment has been found among students with self-determined forms of motivation. For instance, students with more self-determined motivation report more positive emotions in class as well as more interest toward school (Vallerand, Blais, Bri\u00e8re, & Pelletier, 1989) . More creativity on art projects has also been observed among students who received instructions supporting their self-determined motivation (Amabile & Gitomer, 1984) . Furthermore, high school dropout students have been found to be less intrinsically motivated, less identified, and less introjected toward school than persistent students (Vallerand, Fortier, & Guay, 1997) . Conversely, dropout students have been found to be more amotivated toward education than persistent students. Similar results have been observed for dropout students involved in a compulsory course at the college level (Vallerand & Bissonnette, 1992) .",
+                "cite_spans": [
+                    {
+                        "start": 241,
+                        "end": 286,
+                        "text": "(Vallerand, Blais, Bri\u00e8re, & Pelletier, 1989)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 429,
+                        "end": 454,
+                        "text": "(Amabile & Gitomer, 1984)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 628,
+                        "end": 662,
+                        "text": "(Vallerand, Fortier, & Guay, 1997)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 884,
+                        "end": 915,
+                        "text": "(Vallerand & Bissonnette, 1992)",
+                        "ref_id": "BIBREF51"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SDT and Educational Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "The relationship between school adjustment and the different forms of motivation has been less studied at the latent level. To date, studies that used latent variables have favored the Self-Determination Index over each form of motivation (e.g., Fortier, Vallerand, & Guay, 1995; Sen\u00e9cal, Julien, & Guay, 2003; Vallerand, Fortier, & Guay, 1997 ). The Self-Determination Index is often chosen in complex models because it allows simplifying by summarizing all measures of motivation into one index. However, this also means that the distinction between each form of motivation is not examined. We believe that the investigation of each form of motivation separately within the structural equation methodology makes a distinct and important contribution to existing research on SDT.",
+                "cite_spans": [
+                    {
+                        "start": 246,
+                        "end": 279,
+                        "text": "Fortier, Vallerand, & Guay, 1995;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 280,
+                        "end": 310,
+                        "text": "Sen\u00e9cal, Julien, & Guay, 2003;",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 311,
+                        "end": 343,
+                        "text": "Vallerand, Fortier, & Guay, 1997",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SDT and Educational Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "For this purpose, the Academic Motivation Scale (AMS; Vallerand et al., 1989 Vallerand et al., , 1993 is used. This widely used scale assesses intrinsic motivation, the different types of extrinsic motivation, and amotivation described above. In the AMS, motivation is operationalized as the \"why\" of behaviors. Several studies with samples of various age groups and geographic areas (Canada, France, United States, and Greece) have documented the excellent psychometric properties of the AMS (e.g., Blanchard, Vrignaud, Lallemand, & Dosnon, 1997; Tsorbatzoudis, Barkoykis, & Grouios, 2001 ). The motivational forms measured by the AMS were found to be related differently to important educational consequences such as procrastination (e.g., Sen\u00e9cal, Koestner, & Vallerand, 1995) and adjustment to university (e.g., Baker, 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 54,
+                        "end": 76,
+                        "text": "Vallerand et al., 1989",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 77,
+                        "end": 101,
+                        "text": "Vallerand et al., , 1993",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 500,
+                        "end": 547,
+                        "text": "Blanchard, Vrignaud, Lallemand, & Dosnon, 1997;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 548,
+                        "end": 589,
+                        "text": "Tsorbatzoudis, Barkoykis, & Grouios, 2001",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 742,
+                        "end": 779,
+                        "text": "Sen\u00e9cal, Koestner, & Vallerand, 1995)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 816,
+                        "end": 828,
+                        "text": "Baker, 2003)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SDT and Educational Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "Modeling intraindividual change and variability has a long history in psychology. Within this line of research, significant progress has been made in applying structural equation modeling techniques in analyzing intraindividual variability with repeated measures data (see, e.g., T. D. Little, Schnabel, & Baumert, 2000; Menard, 2002; Moskowitz & Hershberger, 2002) . The most popular methodological technique is latent growth curve modeling (LGC; see Duncan, Duncan, Strycker, Li, & Alpert, 1999) , which analyzes growth curves by decomposing them into latent variables that represent an intercept and a linear or higher component of change (e.g., quadratic, etc.). Then, these components may be correlated or explained by linear regressions. However, although the LGC allows the examination of the pattern of change for the entire period under study, this technique does not allow the modeling of the true intraindividual change for a specific time interval.",
+                "cite_spans": [
+                    {
+                        "start": 286,
+                        "end": 320,
+                        "text": "Little, Schnabel, & Baumert, 2000;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 321,
+                        "end": 334,
+                        "text": "Menard, 2002;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 335,
+                        "end": 365,
+                        "text": "Moskowitz & Hershberger, 2002)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 452,
+                        "end": 497,
+                        "text": "Duncan, Duncan, Strycker, Li, & Alpert, 1999)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analysis of True Intraindividual Motivational Change",
+                "sec_num": null
+            },
+            {
+                "text": "According to a second technique proposed by Raykov (1992 Raykov ( , 1999 and Steyer (Steyer, Eid, & Schwenkmezger, 1997; Steyer et al., 2000) , intraindividual change (i.e., difference rather than residual gain) might be analyzed at the latent level rather than at the observed level. Within this line of research, true intraindividual change (TIC) scores (i.e., the difference between two true score variables) between two occasions of measurement are examined at the level of the latent variables. Consequently, TIC models offer the strong advantage to distinguish change components from error of measurement components. 1 Moreover, in TIC models, the true intraindividual change, and not a particular component of it as in LGC models, may be correlated with other variables.",
+                "cite_spans": [
+                    {
+                        "start": 44,
+                        "end": 56,
+                        "text": "Raykov (1992",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 57,
+                        "end": 72,
+                        "text": "Raykov ( , 1999",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 84,
+                        "end": 120,
+                        "text": "(Steyer, Eid, & Schwenkmezger, 1997;",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 121,
+                        "end": 141,
+                        "text": "Steyer et al., 2000)",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analysis of True Intraindividual Motivational Change",
+                "sec_num": null
+            },
+            {
+                "text": "As noted by Steyer and his colleagues (1997),",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analysis of True Intraindividual Motivational Change",
+                "sec_num": null
+            },
+            {
+                "text": "LGC and TIC models \"may be preferred over the other depending on the substantive questions investigated\" (p. 30). We preferred the TIC over the LGC modeling for two main reasons. First, we wanted to explore the true change itself rather than its linear, quadratic, or cubic components (separately). The true change contains more information than the sum of the trend components. Indeed, a linear curve represents only an approximation of what occurs through the 3 years, and even if we add a quadratic (or cubic) component to the LGC model, it is difficult to examine (true) changes between 8th and 9th grade and between 9th and 10th grade, separately. Such a distinction could be important to make if we want to examine the transition from junior (8th grade) to senior (9th grade) high school. TIC is well suited to examine the motivational change between 8th and 9th grade and between 9th and 10th grade.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analysis of True Intraindividual Motivational Change",
+                "sec_num": null
+            },
+            {
+                "text": "Second, we wanted to examine the relationships between motivational changes and academic adjustment variables, and we wanted to do this both during the transition from junior (8th grade) to senior (9th grade) high school and during the 9th-to 10th-grade period. Although both in TIC and LGC modeling it is possible to examine this type of correlation, only TIC allows the distinction between the relationships between the 8th-to 9th-grade change and the academic adjustment and those between the 9th-to 10thgrade change and the academic adjustment. In contrast, in LGC modeling, only the linear or higher components of change (quadratic, cubic, etc.) can be correlated with academic adjustment variables. Moreover, because in LGC models the motivational change is decomposed into trend components, the relationship between the motivational change and academic adjustment variables are then decomposed into correlations that do not meet our objectives.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analysis of True Intraindividual Motivational Change",
+                "sec_num": null
+            },
+            {
+                "text": "Following the last advanced techniques in TIC modeling developed by Steyer and his colleagues 2000, we specified a multistate model (for multiple occasions of measurement) with invariant parameters (MSIP). With MISP, it is assumed that the measurement models (i.e., the metric and scalar components) are invariant across occasions. For this purpose, Grouzet, Otis, and Pelletier (in press ) have examined, in a previous article, the longitudinal factorial invariance of the AMS. They found strong evidences for metric invariance (i.e., invariance of the factorial loadings) across the three grade years (i.e., from 8th to 10th grade). Concerning scalar invariance (i.e., invariance of intercepts), comparative index statistics were satisfactory. Therefore, the AMS in its present form (i.e., five factors) showed a good level of 3-year factorial invariance.",
+                "cite_spans": [
+                    {
+                        "start": 350,
+                        "end": 388,
+                        "text": "Grouzet, Otis, and Pelletier (in press",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analysis of True Intraindividual Motivational Change",
+                "sec_num": null
+            },
+            {
+                "text": "The MSIP includes three versions (see Steyer et al., 2000 ; see Figure 1 ). First, in the state version of the MSIP, the measurement models of the five motivational latent variables (i.e., intrinsic motivation, identified regulation, introjected regulation, external regulation, and amotivation) are fixed to be invariant across the three occasions (i.e., from 8th to 10th grade), they are free to correlate with each other, and they are free to correlate through the three grades. The state version is examined in order to replicate past findings obtained in studies using SDT.",
+                "cite_spans": [
+                    {
+                        "start": 38,
+                        "end": 57,
+                        "text": "Steyer et al., 2000",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 64,
+                        "end": 72,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analysis of True Intraindividual Motivational Change",
+                "sec_num": null
+            },
+            {
+                "text": "The two change versions of the MSIP are the baseline and the neighbor versions. The baseline version captures the basic idea of the TIC techniques, where indicators of each of the five motivational latent variables at the 9th-and 10th-grade occasions (i.e., occasions k \u03e9 1 and k \u03e9 2, where k refers to the first measurement time) are regressed on the corresponding motivational latent variables at the 8th-grade occasion (i.e., occasion k; see Figure 1 ). Thus, fixing these added regression coefficients to be equal to the corresponding factorial loadings (which are equal across occasions) means that the five motivational latent factors at the 9thgrade occasion and the five motivational latent factors at the 10th-grade occasion become five 8th-to 9th-grade true intraindividual motivational changes and five 8th-to 10th-grade true intraindividual motivational changes, respectively.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 445,
+                        "end": 453,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analysis of True Intraindividual Motivational Change",
+                "sec_num": null
+            },
+            {
+                "text": "In the neighbor version, the indicators of each of the five motivational latent variables at the 10th-grade occasion (i.e., occasion k \u03e9 2) are also regressed on the corresponding motivational latent variables at the 8th-and 9th-grade occasions (i.e., occasions k and k \u03e9 1; see Figure 1 ). Thus, fixing these new added regression coefficients to be equal to the corresponding factorial loadings (and the previous added regression coefficients) means that the five motivational latent factors at the 10th grade become five 9thto 10th-grade true intraindividual motivational changes. 2 We think that each change model brings unique information that is worth examining. The baseline model can be examined in order to establish the true motivational change occurring between 8th and 9th grade (the transitional year) as well as between 8th and 10th grade. Changes during this last interval are important in order to obtain a picture of changes in motivation from junior high school to 1 year after the transitional year. Examination of longterm trajectories of motivation has been lacking in the school transition literature, and researchers have indicated the need to explore in more depth this period of adaptation (Hirsch, DuBois, & Brownell, 1993) . As for the neighbor model, it provides information on the true motivational change occurring between each successive measurement time. This additional model can also be examined so that changes in motivation between 9th and 10th grade are revealed. This period of change is of utmost importance to us because it represents inclusively the adaptation period, but it is also the period preceding students' legal age for dropping out from school.",
+                "cite_spans": [
+                    {
+                        "start": 583,
+                        "end": 584,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1214,
+                        "end": 1248,
+                        "text": "(Hirsch, DuBois, & Brownell, 1993)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 279,
+                        "end": 287,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analysis of True Intraindividual Motivational Change",
+                "sec_num": null
+            },
+            {
+                "text": "The first objective of the present study is to replicate past findings based on the SDT. We expect to replicate in each grade the simplex pattern of correlations among the motivational forms found in past studies. According to the SDT proposed by Ryan (1985, 2002) , the simplex pattern of correlations is achieved 2 More detailed and technical information is provided in Steyer et al. (1997 Steyer et al. ( , 2000 . when a motivational form correlates most highly with the motivational forms that are adjacent to it on the continuum of selfdetermination, less so with motivational forms that are farther on the continuum, and negatively with motivational forms that are the farthest on the continuum. For example, intrinsic motivation is anticipated to correlate positively and more strongly with identified regulation, less with introjected and external regulations, and negatively with amotivation. Also, we expect to replicate, for each grade, the previously observed relations between the different motivational forms and educational consequences. Correlations with educational adjustment (i.e., dropout intentions, absenteeism, homework frequency, and educational aspirations) are expected to be increasingly positive from external regulation to more selfdetermined motivational forms. Moreover, amotivation is proposed to negatively correlate with educational adjustment.",
+                "cite_spans": [
+                    {
+                        "start": 247,
+                        "end": 264,
+                        "text": "Ryan (1985, 2002)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 372,
+                        "end": 391,
+                        "text": "Steyer et al. (1997",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 392,
+                        "end": 414,
+                        "text": "Steyer et al. ( , 2000",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Present Study: Objectives and Hypotheses",
+                "sec_num": null
+            },
+            {
+                "text": "The second objective of this study is to investigate the patterns of change in each SDT's forms of motivation during the interval between 8th and 9th grade, between 9th and 10th grade, and between 8th and 10th grade. Because this study constitutes a first investigation of motivational changes with a multidimensional perspective and past research does not present a clear picture of motivational changes over time, we feel that it could be speculative to propose precise hypotheses. The third objective of this study consists of examining for the first time the simplex pattern with the change version of the motivational forms. Finally, the fourth objective of this study is to examine the impact of true motivational changes on long-term school adjustment. Once again, because of the innovative nature of the investigation and the fact that past research does not say much about the impact of motivational changes on school adjustment, we feel that it may be too speculative to propose specific hypotheses.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Present Study: Objectives and Hypotheses",
+                "sec_num": null
+            },
+            {
+                "text": "Students registered in junior and senior high schools of a Catholic French-speaking school district in the Ottawa, Canada, region participated in the present study. The data collection took place for 3 consecutive years when participants were in 8th, 9th, and 10th grade. Participants made the senior high school transition at the 9th grade. Our sample consisted of 646 participants (321 boys, 322 girls, and 3 undefined). Mean ages for 8th, 9th, and 10th grade were 13, 14, and 15 years, respectively.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "In spring of each year, the experimenters went to the different schools to administer the questionnaire. The questionnaire was answered during regular class hours. Participants were informed that the questionnaire did not represent an evaluation and that there were no right or wrong answers. For the 8th graders, questions were read aloud to ascertain a good understanding of the questions. Ninth and 10th graders answered the questions by themselves.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Missing data are common in most longitudinal studies. The reasons the data are missing vary, but past studies have dealt with missing data by using listwise deletion. In our study, 201 participants were absent from the 9th-grade wave of measurement, and 164 participants were absent from the 10th-grade wave of measurement. Therefore, use of listwise deletion would reduce the sample from 646 to 355 (i.e., a 45% reduction). However, listwise deletion yields unbiased parameter estimates only if the assumption that the missing data are missing completely at random holds and if the attrition rate is less than 5% (Schafer & Graham, 2002) . When the two assumptions are not valid, listwise deletion of missing data generates biased estimates (Graham, Cumsille, & Elek-Fisk, 2003 ; R. J. A. Little & Rubin, 1987; Schafer & Graham, 2002) . To counter the problems associated with listwise deletion and make use of all the data, we used the expectation maximization (EM) algorithm for covariance matrices. The EM algorithm offers several advantages over listwise deletion. Unlike listwise deletion, if the data are missing at random, the EM algorithm estimates are unbiased (Schafer & Graham, 2002) . Finally, if the missing data are considered nonignorable missing, all missing data strategies yield biased estimates. However, EM algorithm estimates are the least biased (Schafer, 1997; Schafer & Graham, 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 614,
+                        "end": 638,
+                        "text": "(Schafer & Graham, 2002)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 742,
+                        "end": 778,
+                        "text": "(Graham, Cumsille, & Elek-Fisk, 2003",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 790,
+                        "end": 811,
+                        "text": "Little & Rubin, 1987;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 812,
+                        "end": 835,
+                        "text": "Schafer & Graham, 2002)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1171,
+                        "end": 1195,
+                        "text": "(Schafer & Graham, 2002)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1369,
+                        "end": 1384,
+                        "text": "(Schafer, 1997;",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 1385,
+                        "end": 1408,
+                        "text": "Schafer & Graham, 2002)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Missing Data",
+                "sec_num": null
+            },
+            {
+                "text": "Multidimensional academic motivation. We used the French version of the AMS developed by Vallerand and his colleagues (1989;  for the English version, see Vallerand et al., , 1993 . This scale is composed of 20 items grouped in five subscales corresponding to the motivational types proposed by SDT (Deci & Ryan, 1985 , 2002 ; see above). Items illustrate possible answers to the question \"Why do you go to school?\" An example for each subscale is as follows: Intrinsic Motivation to Know, \"Because I experience pleasure and satisfaction while learning new things\"; Identified Regulation, \"Because I think that education will help me better prepare for the career I have chosen\"; Introjected Regulation, \"To show myself that I am an intelligent person\"; External Regulation, \"To have a better salary later\"; and Amotivation, \"I cannot see why I go to school and frankly I could not care less\" (see the Appendix for all AMS items). Participants rated the correspondence between the reason illustrated by the item and their personal reasons for going to school on a 5-point Likert-type scale, ranging from 1 (do not correspond at all) to 5 (correspond exactly). Dropout intentions. A single statement adapted from Vallerand et al. (1997) was used to measure future intentions to drop out from school. Participants had to answer the question \"Do you find yourself thinking about quitting school?\" on a 5-point Likert-type scale, ranging from 1 (No, never) to 5 (Yes, often).",
+                "cite_spans": [
+                    {
+                        "start": 89,
+                        "end": 124,
+                        "text": "Vallerand and his colleagues (1989;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 125,
+                        "end": 125,
+                        "text": "",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 155,
+                        "end": 179,
+                        "text": "Vallerand et al., , 1993",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 299,
+                        "end": 317,
+                        "text": "(Deci & Ryan, 1985",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 318,
+                        "end": 324,
+                        "text": ", 2002",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1212,
+                        "end": 1235,
+                        "text": "Vallerand et al. (1997)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Absenteeism. A single statement was used to measure nonjustified absenteeism. Participants had to answer the question \"Do you miss school only because you do not feel like it?\" on a 4-point scale, ranging from 1 (No, I never thought about it) to 4 (Yes, it happens about 1 time a week).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Homework. A single statement was used to measure frequency of homework. Participants had to answer the question \"How often do you do your homework?\" on a 5-point scale, ranging from 1 (Never) to 5 (Always).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Educational aspirations. A single statement was designed to measure students' future intentions regarding their studies. Participants were asked \"Until when do you intend to go to school?\" and they had to choose between four answers: (a) Until I'm 16-years-old, (b) Until I have a secondary school diploma, (c) Until I have a collegial studies diploma, (c) Until I have a university diploma.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Academic adjustment. To obtain a global measure of academic adjustment, we combined the four previous measures. The Cronbach's alpha coefficient for this measure was .61. A high score on academic adjustment indicates that students had no intention to drop out, that they were doing their homework, that they were not missing school, and that they wanted to continue their studying past the high school diploma.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Descriptive statistics. The means and standard deviations for each motivational form in 8th, 9th, and 10th grade and the educational consequences in 10th grade are provided in Table 1 . For each grade, identified regulation and external regulation were the most popular reasons why students reported going to school. Intrinsic motivation and introjected regulation were moderately popular reasons to go to school. Fewer students reported being amotivated toward school. These findings replicate past findings (Daoust, Vallerand, & Blais, 1988; Harter, 1981; Vallerand & Bissonnette, 1992; Vallerand et al., 1989) .",
+                "cite_spans": [
+                    {
+                        "start": 509,
+                        "end": 543,
+                        "text": "(Daoust, Vallerand, & Blais, 1988;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 544,
+                        "end": 557,
+                        "text": "Harter, 1981;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 558,
+                        "end": 588,
+                        "text": "Vallerand & Bissonnette, 1992;",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 589,
+                        "end": 612,
+                        "text": "Vallerand et al., 1989)",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 176,
+                        "end": 183,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "State Motivations",
+                "sec_num": null
+            },
+            {
+                "text": "Longitudinal stability coefficients. Table 2 presents comparable same-form correlations between 8th and 9th grade (i.e., 1-year test-retest; r \u03ed .33 to .42) and between 8th and 10th grade (i.e., 2-year test-retest; r \u03ed .32 to .51). Stronger same-form correlations were found between 9th and 10th grade (r \u03ed .41 to .58). These results suggest that the stability for each form of motivation is higher for the 9th-to 10th-grade period compared with the 8th-to 9th-grade period.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 37,
+                        "end": 44,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "State Motivations",
+                "sec_num": null
+            },
+            {
+                "text": "The simplex pattern. Correlations among the five motivational forms (intrinsic motivation, identified regulation, introjected regulation, external regulation, and amotivation) were examined separately for 8th, 9th, and 10th grade. As can be seen in Table 3 , the hypothesized associations were generally supported for each grade. However, minor deviations were observed at each measurement time. In total, we counted 3 deviations out of 20 for the 8th grade, 6 deviations out of 20 for the 9th grade, and 4 deviations out of 20 for the 10th grade. Most of these deviations were due to the strong relation between external and identified regulation. Indeed, for all grades, a stronger correlation was found between external and identified regulation than between external and introjected regulation. A stronger correlation was also found between external and identified regulation than between identified and introjected regulation. Finally, a stronger relation was observed between introjected regulation and intrinsic motivation than between introjected and identified regulation.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 249,
+                        "end": 256,
+                        "text": "Table 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "State Motivations",
+                "sec_num": null
+            },
+            {
+                "text": "Mean changes. Raw means, latent means, and statistics on differences are reported in Table 4 . Latent means were estimated in the baseline and neighbor models and correspond to the mean changes at the latent level (i.e., taking account of the measurement error; see Footnote 1). For example, a negative latent mean from 8th to 9th grade, which is statistically different from 0, could mean that, on average, students' motivation significantly decreased from 8th to 9th grade. In contrast, a positive latent mean could mean that, on average, students' motivation significantly increased during the lapse of time in consideration. Analyses of changes in raw and latent means both revealed that intrinsic motivation and all forms of extrinsic motivation declined significantly over the transition to high school and further declined between the first and second year of high school. Levels of amotivation increased after the transition and then decreased during the second year of high school to return to its initial level.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 85,
+                        "end": 92,
+                        "text": "Table 4",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "The simplex pattern. As for the state motivations, correlations among the five 8th-to 9th-grade true motivational changes (e.g., 8th-to 9th-grade change in Intrinsic Motivation to Know, Identified Regulation, Introjected Regulation, External Regulation, and Amotivation), among the five 9th-to 10th-grade true motivational changes, and among the five 8th-to 10th-grade true motivational changes generally supported the simplex pattern hypothesis. Table  5 shows that all correlations were significant and in the expected direction. Concerning deviations from the simplex pattern, we counted 4 deviations out of 20 for the 8th-to 9th-grade change, 4 deviations out of 20 for the 8th-to 10th-grade change, and 5 deviations out of 20 for the 9th-to 10th-grade change.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 447,
+                        "end": 455,
+                        "text": "Table  5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "The exceptions to the simplex pattern were essentially the same as for the state motivations and concerned the strong relation between change in identified and external regulation. For example, a decrease in identified regulation was found to be more positively correlated with a decrease in external regulation than a decrease in introjected regulation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "State motivations as covariates. Table 6 presents correlations between motivational forms, measured in 8th, 9th, and 10th grade, and educational adjustment, measured in 10th grade. The results for the global measure of educational adjustment were generally consistent with our expectations. Overall, better school adjustment was observed with the most self-determined forms of motivation whether measured prior to or after the senior high school transition. However, these relations were stronger for a smaller time lag between motivational assessment and educational adjustment assessment. Indeed, all forms of motivation in 9th and 10th grade were related to educational adjustment measured in 10th grade. It is interesting that in the 9th grade, intrinsic motivation and identified regulation were similarly associated with educational adjustment, but in 10th grade, identified regulation was more strongly associated with educational adjustment than intrinsic motivation. In 8th grade, the two most extreme motivational forms, that is, intrinsic motivation and amotivation, were the most related to educational adjustment measured 2 years later. This result is remarkable because the presence of the most autonomous form of motivation or the absence of motivation in the last year of primary school were indicators of educational adjustment 2 years into senior high school. In summary, intrinsic motivation and amotivation in the 8th grade were the main motivational forms that were related to educational adjustment in the 10th grade. Overall, all forms of motivation in the 9th and the 10th grade were related to educational adjustment in the 10th grade. A closer look at the specific adjustment consequences revealed some particularities. Regarding homework frequency, the role of external regulation was found to differ across grade. Indeed, external regulation in 8th grade was negatively related to homework frequency, but no relation was observed between external regulation in 9th and 10th grade and homework frequency. Absenteeism was mostly determined by intrinsic motivation, identified regulation, and amotivation. Moreover, similar to the global measure of academic adjustment, intrinsic motivation and amotivation in 8th grade were found to have the most influence on absenteeism, but intrinsic motivation and identified regulation in 9th and 10th grade had similar effects. Dropout intentions was the consequence more strongly predicted by the different forms of motivation. Notably, each form of motivation in 9th and 10th grade contributed significantly to the prediction of intentions to drop out. Inversely, educational aspirations was the consequence that had fewer significant relationships with the different forms of motivation. Among motivational forms in 8th grade, only amotivation was negatively associated with academic aspiration. Among motivational forms in 9th grade, identified regulation was also positively associated with academic aspiration. Finally, among motivational forms in 10th grade, amotivation (negative), intrinsic motivation, and identified regulation (positive) were equal predictors of academic aspiration, followed by external regulation (positive). An interesting trend we found was that, in 10th grade, homework frequency and dropout intentions associated the most with identified regulation, whereas absenteeism and educational aspirations associated the most with intrinsic motivation and identified regulation.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 33,
+                        "end": 40,
+                        "text": "Table 6",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Educational Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "True motivational changes as covariates. Table 6 also presents the correlations between the various measures of educational adjustment and 8th-to 9th-grade, 8th-to 10th-grade, and 9th-to Table 3 Correlations Among the Motivational Forms in 8th, 9th, and 10th Grade   Variable   8th grade  9th grade  10th grade   1  2  3  4  5  1  2  3  4  5  1  2  3  4 10th-grade true motivational changes. First, we focused on the global measure of educational adjustment. For the period occurring from the end of junior high school to the first year of senior high school (i.e., the 8th-to 9th-grade change), we observed that a decrease 3 in external and identified regulation was associated with less long-term educational adjustment, whereas a decrease in amotivation was associated with increased long-term educational adjustment. Looking separately at the various consequences composing the global measure of educational adjustment, we noticed that dropout intentions explained by itself the relation between changes in identified regulation and educational adjustment. Thus, by omitting the dropout consequences, we can conclude that a decrease in non-self-determined motivation, especially external regulation, during the following year of the transition is associated with less long-term educational adjustment. Surprisingly, during the subsequent year (i.e., the 9th-to 10thgrade change), change in external regulation was not related to educational adjustment. For the period extending from the first year to the second year of high school, a decrease in identified regulation was found to be the most important negative correlate of educational adjustment. Also, educational adjustment was negatively associated with a decrease in intrinsic motivation and with introjected regulation and positively associated with a decrease in amotivation. Results for the 2-year period (i.e., 8th to 10th grade) reflected an integration of the 8th-to 9th-grade and the 9th-to 10th-grade results. In the 8th-to 10th-grade period, the type of motivational change the most strongly associated with both the global and specific measures of educational adjustment was identified regulation.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 41,
+                        "end": 48,
+                        "text": "Table 6",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 187,
+                        "end": 194,
+                        "text": "Table 3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 259,
+                        "end": 353,
+                        "text": "Grade   Variable   8th grade  9th grade  10th grade   1  2  3  4  5  1  2  3  4  5  1  2  3  4",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Educational Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "In summary, during the senior high school transition, a decrease in non-self-determined motivation was associated with less educational adjustment 2 years into senior high school. During the first and second year of senior high school, a decrease in selfdetermined motivation was related to less educational adjustment in the second year of senior high school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Educational Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "Then, we focused on the more specific measures of educational adjustment. For all of these consequences, we observed differences between the results for the 8th-to 9th-grade period and the 9th-to 10th-grade period. First, in the 8th-to 9th-grade period, only a decrease in external regulation was negatively related to homework frequency. But in the 9th-to 10th-grade period, a decrease in intrinsic motivation, identified regulation, and introjected regulation was related negatively to willingness to do homework, and amotivation was related positively to it. Second, the only motiva-tional change in the 8th-to 9th-grade period that had an influence on absenteeism was change in amotivation. For the 9th-to 10thgrade period, a decrease in intrinsic motivation and identified regulation was negatively related to absenteeism. Third, similar negative correlations were found between dropout intentions and a decrease in intrinsic motivation, identified regulation, introjected regulation, and external regulation during the 8th-to 9th-grade period. During the 9th-to 10th-grade period, a decrease in identified regulation was negatively associated with dropout intentions, and a decrease in amotivation was positively associated with dropout intentions. Finally, in the 8th-to 9th-grade period, only a decrease in external regulation had a negative impact on educational aspirations. However, in the 9th-to 10th-grade period, a decrease in intrinsic motivation and identified regulation was related negatively and equally with academic aspiration.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Educational Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "The interesting trend regarding the relations between the motivational forms and the specific educational consequences in 10th grade was also found between the motivational changes occurring between the 9th and 10th grades and the specific educational consequences. Indeed, homework frequency and dropout intentions correlated the most with a decrease in identified regulation between the 9th and 10th grades, whereas absenteeism and educational aspirations correlated highly and similarly with a decrease in intrinsic motivation and identified regulation during this same period.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Educational Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "The purpose of this study was to examine true change in academic motivation over the transition from junior high school to the second year of senior high school. Although the beneficial impact of intrinsic motivation versus extrinsic motivation on various educational consequences is well established, few studies have examined changes in these motivations and their impact on 3 The results are interpreted in term of decrease in motivation. The results could have been also interpreted in terms of increase in motivation. The positive correlation between change and consequence reflects that an increase in motivation is associated with a higher level of the consequences, and a decrease in motivation is associated with a lower level of the outcomes. Conversely, a negative correlation between change and consequence means that an increase in motivation is associated with a lower level of the consequence, and a decrease in motivation is associated with a higher level of the consequence.",
+                "cite_spans": [
+                    {
+                        "start": 377,
+                        "end": 378,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Correlations Among the 8th-to 9th-Grade, 8th-to 10th-Grade, and 9th-to 10th-Grade True Motivational Changes   Motivations subscale   8th to 9th grade  8th to 10th grade  9th to 10th grade   1  2  3  4  5  1  2  3  4  5  1  2  3  4 educational adjustment. With a latent modeling technique, we explored true change occurring in the different motivational forms proposed by SDT (Deci & Ryan, 1985 , 2002 between each successive year as well as over the entire 3-year period, and the relationship between these changes and educational adjustment.",
+                "cite_spans": [
+                    {
+                        "start": 375,
+                        "end": 393,
+                        "text": "(Deci & Ryan, 1985",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 394,
+                        "end": 400,
+                        "text": ", 2002",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 100,
+                        "end": 230,
+                        "text": "Changes   Motivations subscale   8th to 9th grade  8th to 10th grade  9th to 10th grade   1  2  3  4  5  1  2  3  4  5  1  2  3  4",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Table 5",
+                "sec_num": null
+            },
+            {
+                "text": "Our results indicated a continued decline in intrinsic motivation from the last year of junior high school until the second year of senior high school. The results of the present study extended prior research by revealing the pattern of change for different forms of extrinsic motivation and for amotivation. The pattern of change for all self-determined and non-self-determined forms of extrinsic motivation was marked by a steady decline. Amotivation slightly increased during the transitional year but then slightly decreased during the second year in senior high school, which explains why levels of amotivation in 8th and 10th grade were not significantly different. Thus, our results suggest that students, as a group, are generally less motivated toward school as they move from junior to senior high school. It seems that every reason students have for going to school becomes less important when they enter senior high school and even less important in their second year into senior high school. Indeed, senior high school students generally become highly invested in social activities and in sport activities and attach more importance to these nonacademic activities compared with academic activities (Wigfield & Eccles, 1994) . In sum, the use of a multidimensional measure of motivation showed a different picture of students' motivational trajectory during the senior high school transition. The present results suggest that students experience a decrease in both intrinsic and selfdetermined and non-self-determined forms of extrinsic motivation in senior high school, whereas past results reported that students become more extrinsically motivated and less intrinsically motivated to go to school.",
+                "cite_spans": [
+                    {
+                        "start": 1212,
+                        "end": 1237,
+                        "text": "(Wigfield & Eccles, 1994)",
+                        "ref_id": "BIBREF57"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "What Kind of Motivational Change Do Students Experience During Early Adolescence?",
+                "sec_num": null
+            },
+            {
+                "text": "In our opinion, this question has never been examined before. In contrast, past studies have repeatedly observed that the motivational forms are related to each other according to a simplex pattern (Blais, Sabourin, Boucher, & Vallerand, 1990; Green-Demers, Pelletier, & Menard, 1997; Grolnick & Ryan, 1989) . More specifically, ordered correlations were found among the motivational forms, where conceptually similar motivational forms correlated more highly with each other than the more differentiated motivational forms. According to Ryan and Connell (1989) , the simplex pattern provides support to the SDT's postulate that the different forms of motivation differ in terms of degree, are interconnected, and are organized along a continuum of selfdetermination. In this study, the observed correlations among the motivational forms in 8th, 9th, and 10th grades were generally consistent with a simplex pattern, but some departures were observed. The most important departure was that identified and external regulations were more strongly correlated with each other than they were with more conceptually similar motivational forms.",
+                "cite_spans": [
+                    {
+                        "start": 198,
+                        "end": 243,
+                        "text": "(Blais, Sabourin, Boucher, & Vallerand, 1990;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 244,
+                        "end": 284,
+                        "text": "Green-Demers, Pelletier, & Menard, 1997;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 285,
+                        "end": 307,
+                        "text": "Grolnick & Ryan, 1989)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 538,
+                        "end": 561,
+                        "text": "Ryan and Connell (1989)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Are Motivational Changes Related to Each Other?",
+                "sec_num": null
+            },
+            {
+                "text": "Although some research has also observed a positive correlation between identified and external regulation, the strength of the relationship was less than what we obtained (Vallerand et al., 1989 . Furthermore, these studies have found that external regulation was negatively associated with academic outcomes, whereas identified regulation was positively associated with them. In this study, both identified and external regulations were positively associated with educational adjustment. A closer look at the items for identified and external regulation revealed a possible explanation for the overlap between these two concepts and their similar consequences. Even though the items for identified regulation reflected more self-determined reasons to go to school (\"to have a job I will personally like\") than external regulation (\"to have a job that will pay well\"), items of both motivational forms communicate the idea that school is instrumental to one's future goal. Thus, this finding suggests that other studies are necessary to further examine the construct validity of the AMS.",
+                "cite_spans": [
+                    {
+                        "start": 172,
+                        "end": 195,
+                        "text": "(Vallerand et al., 1989",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Are Motivational Changes Related to Each Other?",
+                "sec_num": null
+            },
+            {
+                "text": "A more important contribution of this study was to test whether a simplex pattern could also describe the relations among the motivational changes. On the basis that a student possesses each motivational form to a certain degree, support for the simplex pattern among the motivational changes would mean, for example, that an increase in a student's intrinsic motivation (a selfdetermined form of motivation) is associated more positively with an increase in his or her identified regulation (a self-determined form of motivation), less with an increase in his or her introjected and external regulations (non-self-determined forms of motivation), and negatively with an increase in his or her amotivation (lack of self-determination). Our findings supported the majority of these proposed relations. We found that a change (i.e., increase or decrease) in a motivational form tended to be more strongly associated with a change in the same direction for adjacent motivations, less associated with a change in distant motivations, but associated with a change in the opposite direction for the more distant motivation. The observed violations to the simplex pattern for the motivational changes were almost identical to those for the motivational forms. Thus, this study has observed for the first time that the relations among the motivational changes were similar to the relations among the motivational forms. In sum, our results seem to indicate that changes in motivation do not occur in isolation. Not only are certain forms of motivation similar but changes in certain forms of motivation also share some similarities.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Are Motivational Changes Related to Each Other?",
+                "sec_num": null
+            },
+            {
+                "text": "The replication of the simplex pattern with a dynamic approach offers additional support for the self-determination continuum. Indeed, our results suggest that changes in the motivational forms are interrelated with respect to their initial levels of selfdetermination. Whereas past research has focused mainly on the role of extrinsic rewards on the undermining of intrinsic motivation, the present study contributes to SDT by examining changes within all the forms of motivation. However, the determinants of the observed changes remain unknown. Future research could examine whether changes in levels of self-determination could explain simultaneous changes in the different forms of motivation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Are Motivational Changes Related to Each Other?",
+                "sec_num": null
+            },
+            {
+                "text": "Our results suggest that students who are intrinsically motivated at the end of junior high school are the least vulnerable to longterm effects of the senior high school transition. Conversely, students who are amotivated are those who experience the most negative long-term effects of a high school transition. This result is in line with SDT, which postulates that intrinsic motivation is the optimal form of motivation, and amotivation is the least desirable.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "In addition, we found that all forms of motivation (except for amotivation) at the end of the first senior high school year were positively related to educational adjustment 2 years into senior high school. This result has important practical implications for the timing of motivational assessment. If the researcher's goal is to predict long-term adjustment after a senior high school transition, it may not be necessary to examine motivations beyond the transitional year. Indeed, assessment of motivation in 9th grade is related to crucial consequences in 10th grade such as dropout intentions, academic aspiration, as well as consequences reflecting engagement in school activities.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "Our results concerning the relationship between motivation and educational adjustment in 10th grade were in line with crosssectional studies based on SDT (Deci et al., 1991) . We found strong positive correlations between self-determined motivation (intrinsic motivation and identified regulation) and educational adjustment, and weaker positive correlations between non-selfdetermined motivation (introjected and external regulation) and educational adjustment. A strong negative correlation was found between amotivation and educational adjustment. Whereas SDT proposes that non-self-determined motivations are less adaptive and are related to less academic success, a number of studies have demonstrated that sometimes specific non-self-determined motivation may be beneficial for particular educational outcomes. For example, persistent students were found to have higher levels of introjected regulation compared with dropout students (Vallerand et al., 1997) .",
+                "cite_spans": [
+                    {
+                        "start": 154,
+                        "end": 173,
+                        "text": "(Deci et al., 1991)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 940,
+                        "end": 964,
+                        "text": "(Vallerand et al., 1997)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "One interesting result was that identified regulation was more strongly associated with general educational adjustment compared with intrinsic motivation. According to SDT, intrinsic motivation is the most self-determined form of motivation and it should lead to the highest levels of educational adjustment. However, there is also evidence that shows that identified regulation is particularly important in the school context. For example, Koestner and Losier (2002) proposed that identified regulation ensures the execution of important behaviors that are not interesting. School activities certainly fit in that category of behaviors; they are often perceived as not interesting compared with other leisure activities. In the education context, Koestner and Losier found that identified regulation determined academic satisfaction in college and persistence in college at an 18-month follow-up, whereas intrinsic motivation or introjected regulation were nonsignificant predictors.",
+                "cite_spans": [
+                    {
+                        "start": 441,
+                        "end": 467,
+                        "text": "Koestner and Losier (2002)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "Our investigation of the different consequences composing the general measure of educational adjustment also supports the idea that intrinsic motivation and identified regulation may play different roles depending on the consequences examined. Absenteeism and educational aspirations were found to be equally related to intrinsic motivation and identified regulation. Homework frequency and dropout intentions were more related to identified regulation than to intrinsic motivation. Because doing homework is less likely to be perceived as fun and dropping out of school does not mainly derive from not liking school, this may be why these consequences were more related to the extent students attached importance to school. However, consequences such as attending school and choosing to pursue one's education are more likely to depend on liking school as much as (whether to see friends, for sports, or for learning about subjects that interest them) on finding school important.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "Further, dropout intentions were found to stand out from the other specific adjustment consequences in terms of how this consequence correlated with all the different forms of motivation. Indeed, all forms of motivation in the 9th and the 10th grade were significantly correlated with dropout intentions. Thus, each motivational form contributed to students' intentions to stay in school, and, as a whole, it suggests that students have no intentions to drop out if they have one form of motivation (whatever that form may be) that keeps them motivated to stay in school. Whereas selfdetermined motivations may better prevent students from dropping out, non-self-determined motivations may be associated with other types of incentives to continue school. Only when students do not perceive any reason why they should go to school (amotivation), do they then develop intentions to quit school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "Our results suggest that how the transitional year and the year after are experienced has important long-term consequences. Fluctuations in motivation were found to be related to important consequences. During the critical first year into senior high school, our results indicated that a decrease in external regulation had the most negative influence on educational adjustment measured 2 years into senior high school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do Changes in the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "Regarding the importance of a drop in external regulation in the first year of senior high school, two explanations can be advanced.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do Changes in the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "First, a drop in external regulation has important repercussions because it is one of the most common motivations to go to school. Moreover, external regulation was found important for the acquirement of new behaviors. However, external regulation is only initially adaptive. According to SDT, individuals are motivated to actively internalize and integrate regulations into their sense of self. Indeed, the results for the second year support this proposition from SDT.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do Changes in the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "For the second year in senior high school, changes in every form of motivation were found to relate with educational adjustment, except for external regulation. These results represent adequately the second year, which is an equilibrium period, where the students' task is to internalize the values of school activities. Students have to perceive school activities as \"something personally meaningful rather than something they feel coerced to do\" (Koestner & Losier, 2002, p. 112) . Ideally, students should experience an increase in identified regulation, which represents a fully internalized regulation. This is why a decrease in identified regulation was found to associate the most with less educational adjustment at the end of the 10th grade.",
+                "cite_spans": [
+                    {
+                        "start": 448,
+                        "end": 481,
+                        "text": "(Koestner & Losier, 2002, p. 112)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do Changes in the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "Regarding the specific consequences, some results merit our attention. Again, dropout intentions were found to stand out from the other consequences. During the transitional year, dropout intentions was the only consequence determined by changes in self-determined motivation as well as changes in non-selfdetermined motivation. The dropout intentions consequence distinguished itself because it reflects a minimal adjustment consequence. A student can stay in school while exerting little effort. The other consequences reflect more investment from students, especially academic aspirations.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How Do Changes in the Motivational Forms Influence Long-Term School Adjustment After the Senior High School Transition?",
+                "sec_num": null
+            },
+            {
+                "text": "Combining the above results regarding the motivational states, the motivational changes, and their impact leads to an important interpretation. Indeed, a drop in students' level of extrinsic regulation during the first year in senior high school was negatively associated with long-term adjustment. However, external regulation in the 8th and the 9th grade was not associated with adjustment in the 10th grade. Together, these results show that it is not students' low level of external regulation in the 8th or the 9th grade that is associated with more risk but rather a drop in their level of external regulation between the 8th and the 9th grade. Thus, teachers should be particularly attentive to students who experience a decrease in their motivation, in addition to students who maintain the same low level of motivation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Advantages of Examining Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "Another example illustrating the advantages of examining both the state level and change level concerns the results for the 9th and the 10th grade. For the state level (in the 9th and the 10th grade), every motivational form was associated with the different educational consequences. For the dynamic approach, in general, only an increase in intrinsic motivation and identified regulation was related to positive consequences. So, even if external and introjected regulations were positively associated with educational consequences, an increase in these forms of motivation was not associated with more adjustment. Interventions should then focus on promoting self-determined motivation, as advised by SDT. Even if we found differences between the results for the motivational forms and the motivational changes, most results were convergent.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Advantages of Examining Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "For example, a drop in identified regulation was critical between the first and second year in high school. Similarly, identified regulation in the 9th and the 10th grade were highly correlated with educational adjustment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Advantages of Examining Motivational Changes",
+                "sec_num": null
+            },
+            {
+                "text": "Certain limits need to be considered when interpreting the results of the present study. First, educational adjustment was measured only 2 years after the transition. Future studies should include measures assessing the consequence of a drop in motivation immediately following the transition. Short-term consequences and long-term consequences associated with a decrease in motivation could then be compared. Second, our results relied on self-report measures. Although past research has shown that dropout intentions represent reliable predictors of actual dropout (Vallerand et al., 1997) , it may be important to examine the role played by true motivational changes in the prediction of real dropout. Third, changes due to the school transition and to developmental factors are potentially confounded in this study. Future studies could assess motivational changes among students making the school transition at different grade levels. For example, students making the transition from the 8th to the 9th grade while remaining in the same school could be compared with students making the same transition but moving to a new school. Finally, our results suggest that the different forms of motivation may fluctuate over time. However, they do not suggest anything about the source of those fluctuations. We feel that it could be important to examine this issue in future studies. More specifically, as suggested by SDT, it would be important to examine whether the changes in the different forms of motivation result from the support of autonomy and competence experienced at home and in the classroom. It could then be possible to determine more precisely the origin of the motivational changes that occur and when those changes occur.",
+                "cite_spans": [
+                    {
+                        "start": 567,
+                        "end": 591,
+                        "text": "(Vallerand et al., 1997)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limits",
+                "sec_num": null
+            },
+            {
+                "text": "In conclusion, the examination of changes in academic intrinsic and extrinsic motivation during the transition from junior to senior high school as well as the impact of motivational changes on various educational consequences represents an important and distinct endeavor. It suggests that students' intrinsic motivation and the different forms of extrinsic motivation decreased gradually from the 8th to the 10th grade. Furthermore, less educational adjustment was observed for students experiencing a decline in external regulation during the transitional year and students experiencing a decline in intrinsic motivation and identified regulation during the year after the transition.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "For simplicity, consider an item score (X ) as composed by the true score (T; i.e., the latent variable) and the error of measurement (e), such as X \u03ed T \u03e9 e. Then, the difference (or change) between the two occasions of measurement can be written as follows: X 2 -X 1 \u03ed (T 2 \u03e9 e 2 ) -(T 1 \u03e9 e 1 ) or X 2 -X 1 \u03ed (T 2 -T 1 ) \u03e9 (e 2 -e 1 ). Therefore, the true change corresponds to the T 2 -T 1 component.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Because I experience pleasure and satisfaction while learning new things. For the pleasure I experience when I discover new things never seen before. For the pleasure that I experience in knowing more about subjects which appeal to me. Because my studies allow me to continue to learn about a lot of things that interest me.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Intrinsic Motivation",
+                "sec_num": null
+            },
+            {
+                "text": "Because I think that my studies will help me better prepare for the career I have chosen. Because eventually it will allow me to enter the job market in a field that I like. Because this will help me make a better choice regarding my career orientation. Because I believe that a few additional years of education will improve my competence as a worker.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Identified Regulation",
+                "sec_num": null
+            },
+            {
+                "text": "To show myself that I am an intelligent person. Because I want to show myself that I can succeed in my studies.To prove to myself that I can do better than just a junior high school diploma. Because the fact of succeeding in school makes me feel important.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introjected Regulation",
+                "sec_num": null
+            },
+            {
+                "text": "Because with only a junior high school degree I would not find a job that pays enough. In order to get a more prestigious job later on. Because I want to lead a comfortable life later on.To have a better salary later.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "External Regulation",
+                "sec_num": null
+            },
+            {
+                "text": "I once had good reasons for going to school; however, now I wonder whether I should continue. I don't know; I can't come to understand what I am doing in school. I can't see why I go to school and frankly I couldn't care less. Honestly, I don't know; I truly have the impression of wasting time in school.Note. The Academic Motivation Scale was developed by Vallerand and his colleagues (1989 Vallerand and his colleagues ( , 1992 Vallerand and his colleagues ( , 1993 .",
+                "cite_spans": [
+                    {
+                        "start": 358,
+                        "end": 392,
+                        "text": "Vallerand and his colleagues (1989",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 393,
+                        "end": 430,
+                        "text": "Vallerand and his colleagues ( , 1992",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 431,
+                        "end": 468,
+                        "text": "Vallerand and his colleagues ( , 1993",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Amotivation",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Learned helplessness in humans: Critique and reformulation",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Abramson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E P"
+                        ],
+                        "last": "Seligman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Teasdale",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "Journal of Abnormal Psychology",
+                "volume": "87",
+                "issue": "",
+                "pages": "49--74",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. Journal of Abnor- mal Psychology, 87, 49 -74.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Children's artistic creativity: Effects of choice in task materials",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Amabile",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Gitomer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "10",
+                "issue": "",
+                "pages": "209--215",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Amabile, T. M., & Gitomer, J. (1984). Children's artistic creativity: Effects of choice in task materials. Personality and Social Psychology Bulletin, 10, 209 -215.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Declining motivation after the transition to middle school: School can make a difference",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Research and Development in Education",
+                "volume": "32",
+                "issue": "",
+                "pages": "131--147",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, E. M., Maehr, M. L., & Midgley, C. (1999). Declining moti- vation after the transition to middle school: School can make a differ- ence. Journal of Research and Development in Education, 32, 131-147.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Social predictors of changes in students' achievement goal orientations",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "24",
+                "issue": "",
+                "pages": "21--37",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, L. H., & Anderman, E. M. (1999). Social predictors of changes in students' achievement goal orientations. Contemporary Educational Psychology, 24, 21-37.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "A prospective longitudinal investigation of social problem-solving appraisals on adjustment to university, stress, health, and academic motivation and performance",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Baker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Personality and Individual Differences",
+                "volume": "35",
+                "issue": "",
+                "pages": "569--591",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baker, S. R. (2003). A prospective longitudinal investigation of social problem-solving appraisals on adjustment to university, stress, health, and academic motivation and performance. Personality and Individual Differences, 35, 569 -591.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Toward a motivational model of couple happiness",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Blais",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sabourin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Boucher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "59",
+                "issue": "",
+                "pages": "1021--1031",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Blais, M. R., Sabourin, S., Boucher, C., & Vallerand, R. J. (1990). Toward a motivational model of couple happiness. Journal of Personality and Social Psychology, 59, 1021-1031.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Validation de l\u00e9chelle de motivation en \u00e9ducation aupres de lyc\u00e9ens francais",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Blanchard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Vrignaud",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Lallemand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Dosnon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Blanchard, S., Vrignaud, P., Lallemand, N., & Dosnon, O. (1997). Vali- dation de l\u00e9chelle de motivation en \u00e9ducation aupres de lyc\u00e9ens francais [Validation of Academic Motivation Scale on a French high school student sample].",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Students' transition from elementary to high school and changes of the relationship between motivation and academic performance",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Bouffard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Boileau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Vezeau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "European Journal of Psychology of Education",
+                "volume": "16",
+                "issue": "",
+                "pages": "589--604",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bouffard, T., Boileau, L., & Vezeau, C. (2001). Students' transition from elementary to high school and changes of the relationship between motivation and academic performance. European Journal of Psychology of Education, 16, 589 -604.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Motivation in education: A look at some important consequences",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Daoust",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Blais",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Canadian Psychology",
+                "volume": "29",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Daoust, H., Vallerand, R. J., & Blais, M. R. (1988). Motivation in educa- tion: A look at some important consequences. Canadian Psychology, 29, 172.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Intrinsic motivation and selfdetermination in human behavior",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self- determination in human behavior. New York: Plenum Press.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Handbook of self-determination research",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Deci, E. L., & Ryan, R. M. (2002). Handbook of self-determination research. Rochester, NY: The University of Rochester Press.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Motivation and education: The self-determination perspective",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "The Educational Psychologist",
+                "volume": "74",
+                "issue": "",
+                "pages": "852--859",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Deci, E. L., Vallerand, R. J., Pelletier, L. G., & Ryan, R. M. (1991). Motivation and education: The self-determination perspective. The Ed- ucational Psychologist, 74, 852-859.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "An introduction to latent variable growth curve modeling",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Duncan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Duncan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Strycker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Alpert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Duncan, T. E., Duncan, S. C., Strycker, L. A., Li, F., & Alpert, N. (1999). An introduction to latent variable growth curve modeling. Mahwah, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Achievement motivation",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Elliot",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Handbook of child psychology",
+                "volume": "4",
+                "issue": "",
+                "pages": "643--691",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dweck, C. S., & Elliot, E. S. (1983). Achievement motivation. In P. H. Mussen (Ed.), Handbook of child psychology (Vol. 4, pp. 643-691). New York: Wiley.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "School transitions in early adolescence: What are we doing to our young people",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lord",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Buchanan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Lord, S., & Buchanan, C. M. (1996). School transitions in early adolescence: What are we doing to our young people? In J. A.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Transitions through adolescence: Interpersonal domains and context",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "221--284",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Graber & J. Brooks-Gunn (Eds.), Transitions through adolescence: Interpersonal domains and context (pp. 221-284). Mahwah, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Academic motivation and school performance: Toward a structural model",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fortier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "20",
+                "issue": "",
+                "pages": "257--274",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fortier, M. S., Vallerand, R. J., & Guay, F. (1995). Academic motivation and school performance: Toward a structural model. Contemporary Educational Psychology, 20, 257-274.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Children's competence and value beliefs from childhood through adolescence: Growth trajectories in two male-sex-typed domains",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Fredericks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Developmental Psychology",
+                "volume": "38",
+                "issue": "",
+                "pages": "519--533",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fredericks, J. A., & Eccles, J. S. (2002). Children's competence and value beliefs from childhood through adolescence: Growth trajectories in two male-sex-typed domains. Developmental Psychology, 38, 519 -533.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "The influence of intrinsic motivation and self-concept on academic achievement in second-and third-grade students",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Goldberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Cornell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal for the Education of the Gifted",
+                "volume": "21",
+                "issue": "",
+                "pages": "179--205",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Goldberg, M. D., & Cornell, D. G. (1998). The influence of intrinsic motivation and self-concept on academic achievement in second-and third-grade students. Journal for the Education of the Gifted, 21, 179 - 205.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Continuity of academic intrinsic motivation from childhood through late adolescence: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fleming",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Gottfried",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "3--13",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gottfried, A. E., Fleming, J. S., & Gottfried, A. W. (2001). Continuity of academic intrinsic motivation from childhood through late adolescence: A longitudinal study. Journal of Educational Psychology, 93, 3-13.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Methods for handling missing data",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Graham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Cumsille",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Elek-Fisk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Handbook of psychology",
+                "volume": "2",
+                "issue": "",
+                "pages": "87--114",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Graham, J. W., Cumsille, P. E., & Elek-Fisk, E. (2003). Methods for handling missing data. In J. A. Schinka & W. F. Velicer (Eds.), Hand- book of psychology: Vol. 2. Research methods in psychology (pp. 87- 114). New York: Wiley.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "The impact of behavioral difficulty on the saliency of the association between selfdetermined motivation and environmental behaviors",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Green-Demers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Menard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Canadian Journal of Behavioural Science",
+                "volume": "29",
+                "issue": "",
+                "pages": "157--166",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Green-Demers, I., Pelletier, L. G., & Menard, S. (1997). The impact of behavioral difficulty on the saliency of the association between self- determined motivation and environmental behaviors. Canadian Journal of Behavioural Science, 29, 157-166.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Parent styles associated with children's self-regulation and competence in school",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Grolnick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Educational Psychology",
+                "volume": "81",
+                "issue": "",
+                "pages": "143--154",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Grolnick, W. S., & Ryan, R. M. (1989). Parent styles associated with children's self-regulation and competence in school. Journal of Educa- tional Psychology, 81, 143-154.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Inner resources for school achievement: Motivational mediators of children's perceptions of their parents",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Grolnick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Journal of Educational Psychology",
+                "volume": "83",
+                "issue": "",
+                "pages": "508--517",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Grolnick, W. S., Ryan, R. M., & Deci, E. L. (1991). Inner resources for school achievement: Motivational mediators of children's perceptions of their parents. Journal of Educational Psychology, 83, 508 -517.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Longitudinal cross-gender factorial invariance of the Academic Motivation Scale",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "M E"
+                        ],
+                        "last": "Grouzet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Otis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Structural Equation Modeling",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Grouzet, F. M. E., Otis, N., & Pelletier, L. G. (in press). Longitudinal cross-gender factorial invariance of the Academic Motivation Scale. Structural Equation Modeling.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "A motivational model of rural students' intentions to persist in, versus drop out of, high school",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Hardre",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Reeve",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Educational Psychology",
+                "volume": "95",
+                "issue": "",
+                "pages": "347--356",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hardre, P. L., & Reeve, J. (2003). A motivational model of rural students' intentions to persist in, versus drop out of, high school. Journal of Educational Psychology, 95, 347-356.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "A new self-report scale of intrinsic versus extrinsic orientation in the classroom: Motivational and informational components",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Developmental Psychology",
+                "volume": "17",
+                "issue": "",
+                "pages": "300--312",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1981). A new self-report scale of intrinsic versus extrinsic orientation in the classroom: Motivational and informational compo- nents. Developmental Psychology, 17, 300 -312.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "The Perceived Competence Scale for Children",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Child Development",
+                "volume": "53",
+                "issue": "",
+                "pages": "87--97",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1982). The Perceived Competence Scale for Children. Child Development, 53, 87-97.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Trajectory analysis of the transition to junior high school: Implications for prevention and policy",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hirsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Brownell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Prevention in Human Services",
+                "volume": "10",
+                "issue": "",
+                "pages": "83--101",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hirsch, B. J., DuBois, D. L., & Brownell, A. B. (1993). Trajectory analysis of the transition to junior high school: Implications for prevention and policy. Prevention in Human Services, 10, 83-101.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Distinguishing three ways of being internally motivated: A closer look at introjection, identification, and intrinsic motivation",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Koestner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Losier",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "101--121",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Koestner, R., & Losier, G. F. (2002). Distinguishing three ways of being internally motivated: A closer look at introjection, identification, and intrinsic motivation. In E. L. Deci & R. M. Ryan (Eds.), Handbook of self-determination research (pp. 101-121). Rochester, NY: The Univer- sity of Rochester Press.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Statistical analysis with missing data",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J A"
+                        ],
+                        "last": "Little",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Rubin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Little, R. J. A., & Rubin, D. B. (1987). Statistical analysis with missing data. New York: Wiley.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Modeling longitudinal and multilevel data: Practical issues, applied approaches, and specific examples",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Little",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "U"
+                        ],
+                        "last": "Schnabel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Little, T. D., Schnabel, K. U., & Baumert, J. (2000). Modeling longitudinal and multilevel data: Practical issues, applied approaches, and specific examples. Mahwah, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Reinventing schools for early adolescents: Emphasizing task goals",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "The Elementary School Journal",
+                "volume": "93",
+                "issue": "",
+                "pages": "593--610",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Maehr, M. L., & Anderman, E. M. (1993). Reinventing schools for early adolescents: Emphasizing task goals. The Elementary School Journal, 93, 593-610.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Longitudinal research",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Menard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Menard, S. (2002). Longitudinal research (2nd ed.). Newbury Park, CA: Sage.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Alpha, beta, and gamma change in evaluation research: A structural equation approach",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Millsap",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Hartog",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Applied Psychology",
+                "volume": "73",
+                "issue": "",
+                "pages": "574--584",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Millsap, R. E., & Hartog, S. B. (1988). Alpha, beta, and gamma change in evaluation research: A structural equation approach. Journal of Applied Psychology, 73, 574 -584.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Modeling intra-individual variability with repeated measures data: Methods and applications",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Moskowitz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Hershberger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Moskowitz, D. S., & Hershberger, S. L. (2002). Modeling intra-individual variability with repeated measures data: Methods and applications. Mahwah, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. Psychological Review",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Nicholls",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "",
+                "volume": "91",
+                "issue": "",
+                "pages": "328--346",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nicholls, J. G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. Psychological Re- view, 91, 328 -346.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Self-efficacy, motivation constructs, and mathematics performance of entering middle school students",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Pajares",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Graham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "24",
+                "issue": "",
+                "pages": "124--139",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pajares, F., & Graham, L. (1999). Self-efficacy, motivation constructs, and mathematics performance of entering middle school students. Contem- porary Educational Psychology, 24, 124 -139.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "The Academic Motivation and School Dropout Project",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pelletier, L. G. (2004). [The Academic Motivation and School Dropout Project (2000 -2004)]. Unpublished raw data.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Base-free\" measurement of change: A structural equation modeling approach",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Raykov",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Zeitschrift F\u00fcr Psychologie",
+                "volume": "",
+                "issue": "",
+                "pages": "79--86",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Raykov, T. (1992). \"Base-free\" measurement of change: A structural equation modeling approach. Zeitschrift F\u00fcr Psychologie, 200, 79 -86.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Are simple change scores obsolete? An approach to studying correlates and predictors of change",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Raykov",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Applied Psychological Measurement",
+                "volume": "23",
+                "issue": "",
+                "pages": "120--126",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Raykov, T. (1999). Are simple change scores obsolete? An approach to studying correlates and predictors of change. Applied Psychological Measurement, 23, 120 -126.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Perceived locus of causality and internalization: Examining reasons for acting in two domains",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Connell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "57",
+                "issue": "",
+                "pages": "749--761",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ryan, R. M., & Connell, J. P. (1989). Perceived locus of causality and internalization: Examining reasons for acting in two domains. Journal of Personality and Social Psychology, 57, 749 -761.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Intrinsic and extrinsic motivation: The search for optimal motivation and performance",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Sansone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Harackiewicz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sansone, C., & Harackiewicz, J. M. (2000). Intrinsic and extrinsic moti- vation: The search for optimal motivation and performance. London: Sage.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Analysis of incomplete multivariate data",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Schafer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schafer, J. L. (1997). Analysis of incomplete multivariate data. New York: Chapman & Hall.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Missing data: Our view of the state of the art",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Schafer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Graham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Psychological Methods",
+                "volume": "7",
+                "issue": "",
+                "pages": "147--177",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schafer, J. L., & Graham, J. W. (2002). Missing data: Our view of the state of the art. Psychological Methods, 7, 147-177.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Role conflict and academic procrastination: A self-determined perspective",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Sen\u00e9cal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Julien",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "European Journal of Social Psychology",
+                "volume": "33",
+                "issue": "",
+                "pages": "135--145",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sen\u00e9cal, C., Julien, E., & Guay, F. (2003). Role conflict and academic procrastination: A self-determined perspective. European Journal of Social Psychology, 33, 135-145.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Self-regulation and academic procrastination",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Sen\u00e9cal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Koestner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Social Psychology",
+                "volume": "135",
+                "issue": "",
+                "pages": "607--619",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sen\u00e9cal, C., Koestner, R., & Vallerand, R. J. (1995). Self-regulation and academic procrastination. Journal of Social Psychology, 135, 607-619.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Modeling true intraindividual change: True change as a latent variable",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Steyer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Eid",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Schwenkmezger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Methods of Psychological Research Online",
+                "volume": "2",
+                "issue": "",
+                "pages": "21--33",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Steyer, R., Eid, M., & Schwenkmezger, P. (1997). Modeling true intra- individual change: True change as a latent variable. Methods of Psycho- logical Research Online, 2, 21-33.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Modeling true intraindividual change in structural equation models: The case of poverty and children's psychosocial adjustment",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Steyer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Partchev",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shanahan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Modeling longitudinal and multilevel data: Practical issues, applied approaches, and specific examples",
+                "volume": "",
+                "issue": "",
+                "pages": "109--126",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Steyer, R., Partchev, I., & Shanahan, M. J. (2000). Modeling true intra- individual change in structural equation models: The case of poverty and children's psychosocial adjustment. In T. D. Little, K. U. Schnabel, & J. Baumert (Eds.), Modeling longitudinal and multilevel data: Practical issues, applied approaches, and specific examples (pp. 109 -126). Mah- wah, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "A preliminary study of the psychometric properties of the Academic Motivation Scale",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Tsorbatzoudis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Barkoykis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Grouios",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Psychology: The Journal of the Hellenic Psychological Society",
+                "volume": "8",
+                "issue": "",
+                "pages": "526--537",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tsorbatzoudis, H., Barkoykis, V., & Grouios, G. (2001). A preliminary study of the psychometric properties of the Academic Motivation Scale. Psychology: The Journal of the Hellenic Psychological Society, 8, 526 -537.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Intrinsic, extrinsic, and amotivational styles as predictors of behavior: A prospective study",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Bissonnette",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of Personality",
+                "volume": "60",
+                "issue": "",
+                "pages": "599--620",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vallerand, R. J., & Bissonnette, R. (1992). Intrinsic, extrinsic, and amoti- vational styles as predictors of behavior: A prospective study. Journal of Personality, 60, 599 -620.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Construction et validation de l'\u00c9 chelle de motivation en \u00e9ducation (\u00c9 M\u00c9",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Blais",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bri\u00e8re",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vallerand, R. J., Blais, M. R., Bri\u00e8re, N. M., & Pelletier, L. G. (1989). Construction et validation de l'\u00c9 chelle de motivation en \u00e9ducation (\u00c9 M\u00c9 ) [Construction and validation of the Academic Motivation Scale (AMS)].",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Self-determination and persistence in a real-life setting: Toward a motivational model of high school dropout",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fortier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "72",
+                "issue": "",
+                "pages": "1161--1176",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vallerand, R. J., Fortier, M. S., & Guay, F. (1997). Self-determination and persistence in a real-life setting: Toward a motivational model of high school dropout. Journal of Personality and Social Psychology, 72, 1161-1176.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "The Academic Motivation Scale: A measure of intrinsic, extrinsic, and amotivation in education",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Blais",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bri\u00e8re",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "S\u00e9n\u00e9cal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Valli\u00e8res",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "52",
+                "issue": "",
+                "pages": "1003--1017",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vallerand, R. J., Pelletier, L. G., Blais, M. R., Bri\u00e8re, N. M., S\u00e9n\u00e9cal, C., & Valli\u00e8res, E. F. (1992). The Academic Motivation Scale: A measure of intrinsic, extrinsic, and amotivation in education. Educational and Psychological Measurement, 52, 1003-1017.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "On the assessment of intrinsic, extrinsic, and motivation in education: Further evidence on the concurrent and construct validity of the Academic Motivation Scale",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Blais",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bri\u00e8re",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "S\u00e9n\u00e9cal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Valli\u00e8re",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "35",
+                "issue": "",
+                "pages": "159--172",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vallerand, R. J., Pelletier, L. G., Blais, M. R., Bri\u00e8re, N. M., S\u00e9n\u00e9cal, C., & Valli\u00e8re, E. F. (1993). On the assessment of intrinsic, extrinsic, and motivation in education: Further evidence on the concurrent and con- struct validity of the Academic Motivation Scale. Educational and Psychological Measurement, 35, 159 -172.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Children's competence beliefs, achievement values, and general self-esteem: Change across elementary and middle school",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Journal of Early Adolescence",
+                "volume": "14",
+                "issue": "",
+                "pages": "107--138",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., & Eccles, J. (1994). Children's competence beliefs, achieve- ment values, and general self-esteem: Change across elementary and middle school. Journal of Early Adolescence, 14, 107-138.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Multistate model with invariant parameters applied to intrinsic motivation (IM). e \u03ed error of measurement."
+            },
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Internal consistency indices obtained for this study for the 8th grade (\u2423: Intrinsic Motivation to Know \u03ed .79, Identified Regulation \u03ed .68, Introjected Regulation \u03ed .82, External Regulation \u03ed .67, Amotivation \u03ed .85), the 9th grade (\u2423: Intrinsic Motivation to Know \u03ed .83, Identified Regulation \u03ed .83; Introjected Regulation \u03ed .86, External Regulation \u03ed .75, Amotivation \u03ed .86), and the10th grade (\u2423: Intrinsic Motivation to Know \u03ed .82, Identified Regulation \u03ed .74, Introjected Regulation \u03ed .85, External Regulation \u03ed .69, Amotivation \u03ed .83) were satisfactory."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td/><td colspan=\"2\">8th grade</td><td colspan=\"2\">9th grade</td><td colspan=\"2\">10th grade</td></tr><tr><td>Variable</td><td>M</td><td>SD</td><td>M</td><td>SD</td><td>M</td><td>SD</td></tr><tr><td>Motivations</td><td/><td/><td/><td/><td/><td/></tr><tr><td>Intrinsic motivation</td><td>3.72</td><td>0.77</td><td>3.41</td><td>0.74</td><td>3.15</td><td>0.74</td></tr><tr><td>Identified regulation</td><td>4.42</td><td>0.58</td><td>4.17</td><td>0.67</td><td>4.02</td><td>0.64</td></tr><tr><td>Introjected regulation</td><td>3.52</td><td>1.01</td><td>3.31</td><td>0.95</td><td>2.82</td><td>0.96</td></tr><tr><td>External regulation</td><td>4.21</td><td>0.74</td><td>4.17</td><td>0.69</td><td>3.98</td><td>0.72</td></tr><tr><td>Amotivation</td><td>1.48</td><td>0.80</td><td>1.77</td><td>0.85</td><td>1.50</td><td>0.64</td></tr><tr><td>Educational adjustment</td><td>-</td><td/><td>-</td><td/><td>2.02</td><td>1.07</td></tr><tr><td>Dropout intentions</td><td>-</td><td/><td>-</td><td/><td>1.71</td><td>0.83</td></tr><tr><td>Absenteeism</td><td>-</td><td/><td>-</td><td/><td>1.82</td><td>0.74</td></tr><tr><td>Homework</td><td>-</td><td/><td>-</td><td/><td>2.61</td><td>1.10</td></tr><tr><td>Educational aspiration</td><td>-</td><td/><td>-</td><td/><td>1.92</td><td>1.07</td></tr></table>",
+                "type_str": "table",
+                "text": "Means and Standard Deviations of the Motivational Forms in 8th, 9th, and 10th Grade and the Educational Consequences in 10th Grade"
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td/><td>From 8th</td><td>From 8th</td><td>From 9th</td></tr><tr><td>Motivations subscale</td><td>to 9th grade</td><td>to 10th grade</td><td>to 10th grade</td></tr><tr><td>Intrinsic Motivation</td><td>.39</td><td>.39</td><td>.46</td></tr><tr><td>Identified Regulation</td><td>.37</td><td>.32</td><td>.43</td></tr><tr><td>Introjected Regulation</td><td>.42</td><td>.46</td><td>.58</td></tr><tr><td>External Regulation</td><td>.33</td><td>.51</td><td>.43</td></tr><tr><td>Amotivation</td><td>.36</td><td>.39</td><td>.41</td></tr><tr><td colspan=\"4\">Note. N \u03ed 646. All correlation coefficients are significantly different</td></tr><tr><td colspan=\"3\">from 0 at p \u03fd .01. AMS \u03ed Academic Motivation Scale.</td><td/></tr></table>",
+                "type_str": "table",
+                "text": "Longitudinal Stability Correlations for the Five Subscales of the AMS"
+            },
+            "TABREF3": {
+                "num": null,
+                "content": "<table><tr><td/><td/><td>Raw means</td><td/><td colspan=\"3\">Latent means (change)</td></tr><tr><td/><td/><td/><td/><td>8th to</td><td>9th to</td><td>8th to</td></tr><tr><td>Variable</td><td>8th grade</td><td>9th grade</td><td>10th grade</td><td>9th grade</td><td>10th grade</td><td>10th grade</td></tr><tr><td>Intrinsic motivation</td><td>3.72 a</td><td>3.41 b</td><td>3.15 c</td><td>\u03ea0.44*</td><td>\u03ea0.39*</td><td>\u03ea0.83*</td></tr><tr><td>Identified regulation</td><td>4.42 a</td><td>4.17 b</td><td>4.02 c</td><td>\u03ea0.53*</td><td>\u03ea0.31*</td><td>\u03ea0.84*</td></tr><tr><td>Introjected regulation</td><td>3.52 a</td><td>3.31 b</td><td>2.83 c</td><td>\u03ea0.26*</td><td>\u03ea0.50*</td><td>\u03ea0.76*</td></tr><tr><td>External regulation</td><td>4.21 a</td><td>4.17 a</td><td>3.98 b</td><td>\u03ea0.08</td><td>\u03ea0.33*</td><td>\u03ea0.40*</td></tr><tr><td>Amotivation</td><td>1.48 a</td><td>1.77 b</td><td>1.50 a</td><td>0.38*</td><td>\u03ea0.34*</td><td>0.04</td></tr></table>",
+                "type_str": "table",
+                "text": "Raw and Latent Means for Each Motivational Form"
+            },
+            "TABREF5": {
+                "num": null,
+                "content": "<table><tr><td/><td/><td colspan=\"2\">Educational adjustment items</td><td/><td/></tr><tr><td/><td/><td/><td/><td/><td>Latent</td></tr><tr><td/><td/><td>Dropout</td><td/><td/><td>educational</td></tr><tr><td>Variable</td><td>Homework</td><td>intentions</td><td>Absenteeism</td><td>Aspirations</td><td>adjustment</td></tr><tr><td>8th grade</td><td/><td/><td/><td/><td/></tr><tr><td>Intrinsic motivation</td><td>.16**</td><td>\u03ea.11*</td><td>\u03ea.14**</td><td>.03</td><td>.21**</td></tr><tr><td>Identified regulation</td><td>.07</td><td>\u03ea.06</td><td>\u03ea.10</td><td>.05</td><td>.13*</td></tr><tr><td>Introjected regulation</td><td>.06</td><td>\u03ea.04</td><td>\u03ea.03</td><td>\u03ea.05</td><td>.05</td></tr><tr><td>External regulation</td><td>\u03ea.12*</td><td>.01</td><td>.01</td><td>\u03ea.08</td><td>\u03ea.10</td></tr><tr><td>Amotivation</td><td>\u03ea.19**</td><td>.20**</td><td>.09*</td><td>\u03ea.17**</td><td>\u03ea.31**</td></tr><tr><td>9th grade</td><td/><td/><td/><td/><td/></tr><tr><td>Intrinsic motivation</td><td>.10*</td><td>\u03ea.20**</td><td>\u03ea.14**</td><td>.05</td><td>.24**</td></tr><tr><td>Identified regulation</td><td>.12**</td><td>\u03ea.19**</td><td>\u03ea.13**</td><td>.12**</td><td>.27**</td></tr><tr><td>Introjected regulation</td><td>.04</td><td>\u03ea.17**</td><td>\u03ea.07</td><td>\u03ea.03</td><td>.14*</td></tr><tr><td>External regulation</td><td>.06</td><td>\u03ea.12*</td><td>\u03ea.06</td><td>.05</td><td>.14*</td></tr><tr><td>Amotivation</td><td>\u03ea.24**</td><td>.24**</td><td>.18**</td><td>\u03ea.24**</td><td>\u03ea.41**</td></tr><tr><td>10th grade</td><td/><td/><td/><td/><td/></tr><tr><td>Intrinsic motivation</td><td>.32**</td><td>\u03ea.35**</td><td>\u03ea.28**</td><td>.27**</td><td>.57**</td></tr><tr><td>Identified regulation</td><td>.41**</td><td>\u03ea.46**</td><td>\u03ea.30**</td><td>.30**</td><td>.70**</td></tr><tr><td>Introjected regulation</td><td>.16**</td><td>\u03ea.27**</td><td>\u03ea.16**</td><td>.03</td><td>.31**</td></tr><tr><td>External regulation</td><td>\u03ea.02</td><td>\u03ea.18**</td><td>\u03ea.05</td><td>.12*</td><td>.15*</td></tr><tr><td>Amotivation</td><td>\u03ea.46**</td><td>.54**</td><td>.31**</td><td>\u03ea.31**</td><td>\u03ea.79**</td></tr><tr><td>8th to 9th grade</td><td/><td/><td/><td/><td/></tr><tr><td>Intrinsic motivation</td><td>\u03ea.04</td><td>\u03ea.10*</td><td>\u03ea.02</td><td>.02</td><td>.06</td></tr><tr><td>Identified regulation</td><td>.07</td><td>\u03ea.15**</td><td>\u03ea.05</td><td>.07</td><td>.16*</td></tr><tr><td>Introjected regulation</td><td>\u03ea.02</td><td>\u03ea.12**</td><td>\u03ea.04</td><td>.02</td><td>.08</td></tr><tr><td>External regulation</td><td>.15**</td><td>\u03ea.12*</td><td>\u03ea.06</td><td>.11*</td><td>.21**</td></tr><tr><td>Amotivation</td><td>\u03ea.06</td><td>.06</td><td>.09*</td><td>\u03ea.08</td><td>\u03ea.13*</td></tr><tr><td>9th to 10th grade</td><td/><td/><td/><td/><td/></tr><tr><td>Intrinsic motivation</td><td>.18**</td><td>\u03ea.09</td><td>\u03ea.10*</td><td>.18***</td><td>.25***</td></tr><tr><td>Identified regulation</td><td>.26**</td><td>\u03ea.25**</td><td>\u03ea.16**</td><td>.18**</td><td>.40**</td></tr><tr><td>Introjected regulation</td><td>.12*</td><td>\u03ea.08</td><td>\u03ea.09</td><td>.06</td><td>.16*</td></tr><tr><td>External regulation</td><td>\u03ea.08</td><td>\u03ea.02</td><td>.02</td><td>.05</td><td>\u03ea.02</td></tr><tr><td>Amotivation</td><td>\u03ea.12*</td><td>.17**</td><td>.06</td><td>\u03ea.00</td><td>\u03ea.18*</td></tr><tr><td>8th to 10th grade</td><td/><td/><td/><td/><td/></tr><tr><td>Intrinsic motivation</td><td>.14**</td><td>\u03ea.21**</td><td>\u03ea.13*</td><td>.21**</td><td>.32**</td></tr><tr><td>Identified regulation</td><td>.33**</td><td>\u03ea.39**</td><td>\u03ea.21**</td><td>.25**</td><td>.56**</td></tr><tr><td>Introjected regulation</td><td>.08</td><td>\u03ea.20**</td><td>\u03ea.11*</td><td>.07</td><td>.23**</td></tr><tr><td>External regulation</td><td>.11*</td><td>\u03ea.18**</td><td>\u03ea.06</td><td>.20**</td><td>.25**</td></tr><tr><td>Amotivation</td><td>\u03ea.20**</td><td>.24**</td><td>.17**</td><td>\u03ea.09</td><td>\u03ea.34**</td></tr><tr><td>Note. N \u03ed 646.</td><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Correlations Between the State and Change Versions of the Motivational Forms and Educational Adjustment in 10th Grade"
+            }
+        }
+    }
+}

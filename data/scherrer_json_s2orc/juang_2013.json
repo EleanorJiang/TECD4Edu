@@ -1,0 +1,2973 @@
+{
+    "paper_id": "juang_2013",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:06:13.330553Z"
+    },
+    "title": "Acculturation-Based and Everyday Parent-Adolescent Conflict Among Chinese American Adolescents: Longitudinal Trajectories and Implications for Mental Health",
+    "authors": [
+        {
+            "first": "Linda",
+            "middle": [
+                "P"
+            ],
+            "last": "Juang",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of California",
+                "location": {}
+            },
+            "email": "juang@ucsb.psych.edu"
+        },
+        {
+            "first": "Santa",
+            "middle": [],
+            "last": "Barbara",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Minnesota",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Moin",
+            "middle": [],
+            "last": "Syed",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Minnesota",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Jeffrey",
+            "middle": [
+                "T"
+            ],
+            "last": "Cookston",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "San Francisco State University",
+                "location": {}
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The purpose of the study was to examine 2 types of conflict for Chinese American families that have not been integrated in previous literature: everyday conflict and acculturation-based conflict. We explored the relation between the 2 types of conflict over time and their associations with adolescent adjustment (i.e., anxiety/somatization, loneliness, depressive symptoms, and self-esteem). The sample consisted of 316 Chinese American adolescents (M \u03ed 14.8 years, SD \u03ed .73 at Wave 1) who participated in a 3-wave longitudinal study. The results showed that everyday and acculturation-based conflict are related and change in parallel over time. However, the 2 types of conflict are unique predictors of the 4 different indicators of psychological functioning. Results also suggested that psychological functioning is a better predictor of trajectories of conflict than vice versa. Taken together, the results highlight the importance of considering how the acculturation process contributes to parent-adolescent conflict regarding everyday issues and deeper cultural values.",
+    "pdf_parse": {
+        "paper_id": "juang_2013",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The purpose of the study was to examine 2 types of conflict for Chinese American families that have not been integrated in previous literature: everyday conflict and acculturation-based conflict. We explored the relation between the 2 types of conflict over time and their associations with adolescent adjustment (i.e., anxiety/somatization, loneliness, depressive symptoms, and self-esteem). The sample consisted of 316 Chinese American adolescents (M \u03ed 14.8 years, SD \u03ed .73 at Wave 1) who participated in a 3-wave longitudinal study. The results showed that everyday and acculturation-based conflict are related and change in parallel over time. However, the 2 types of conflict are unique predictors of the 4 different indicators of psychological functioning. Results also suggested that psychological functioning is a better predictor of trajectories of conflict than vice versa. Taken together, the results highlight the importance of considering how the acculturation process contributes to parent-adolescent conflict regarding everyday issues and deeper cultural values.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Engaging in moderate conflict is normative during adolescence as children and parents renegotiate roles and relationships (Collins & Steinberg, 2006) . Currently, there are two parallel literatures on parent-adolescent conflict. One focuses on conflict centered on \"minor,\" \"everyday\" issues such as arguing about schoolwork, chores, and routines (Galambos & Almeida, 1992; Laursen, Coy, & Collins, 1998; Smetana, 1989) . The other focuses on conflict centered on more \"serious,\" acculturation-based issues rooted in differing cultural values, namely, adopting more mainstream American independenceoriented values versus retaining more heritage culture family-oriented values (Lee, Choe, Kim, & Ngo, 2000; Portes & Rumbaut, 1996) . The everyday conflict literature has focused primarily on European Amer-ican and African American adolescents and their families, whereas the acculturation literature has focused on Asian American and Latino adolescents and their families. We consider these two literatures to be parallel because, to our knowledge, no study has examined both types of conflict concurrently within a single investigation. Accordingly, in this study, we use a Chinese American sample to explore, longitudinally, (a) the relation between everyday conflict and acculturationbased conflict, and (b) how everyday conflict and acculturation-based conflict are uniquely associated with adolescent adjustment.",
+                "cite_spans": [
+                    {
+                        "start": 122,
+                        "end": 149,
+                        "text": "(Collins & Steinberg, 2006)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 347,
+                        "end": 373,
+                        "text": "(Galambos & Almeida, 1992;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 374,
+                        "end": 404,
+                        "text": "Laursen, Coy, & Collins, 1998;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 405,
+                        "end": 419,
+                        "text": "Smetana, 1989)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 676,
+                        "end": 705,
+                        "text": "(Lee, Choe, Kim, & Ngo, 2000;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 706,
+                        "end": 729,
+                        "text": "Portes & Rumbaut, 1996)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Parent-adolescent conflict is a key process facilitating the development of autonomy during adolescence (Collins & Steinberg, 2006; Smetana, 2002) . Becoming autonomous means, in part, taking up increasing responsibilities for making decisions and managing one's everyday life. Disagreements over the timing and nature of the responsibilities (e.g., when and to what degree adolescents are allowed to make decisions in various areas of life) can lead to parentadolescent conflict. Although parent-adolescent conflict has been widely studied, less is known regarding whether conflicts in particular domains (i.e., everyday vs. acculturation-based) differentially predict adjustment.",
+                "cite_spans": [
+                    {
+                        "start": 104,
+                        "end": 131,
+                        "text": "(Collins & Steinberg, 2006;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 132,
+                        "end": 146,
+                        "text": "Smetana, 2002)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "(mainstream U.S. culture). Accordingly, Chinese Americans are an ideal population in which to examine the interrelations of everyday and acculturation-based conflict and the implications of conflict for adjustment, as they most likely engage in both types of conflict. Importantly, parent-adolescent conflict may have particularly dire consequences for adolescents of Chinese background, especially if their families adhere to the traditional cultural emphasis on family interdependence, obligation, and cohesion. Indeed, one study found that parent-adolescent conflicts were more highly correlated with problem behavior (e.g., antisocial behavior, cigarette smoking, alcohol use, school misconduct) among Chinese American adolescents compared with European American adolescents (Chen, Greenberger, Lester, Dong, & Guo, 1998) . Similarly, another study found that family conflict was more strongly associated with depression for Chinese adolescents than U.S. adolescents (Greenberger, Chen, Tally, & Dong, 2000) . Thus, depending on the particular ethnic or cultural context, engaging in open parentadolescent conflict may be associated with different developmental outcomes for the adolescent (Smetana, 2008 ). Because we focus on a single ethnicity, we do not test the proposition of differential pathways directly, but rather, our study will contribute to an understanding of how the two types of conflict relate to adolescent adjustment within Chinese American families.",
+                "cite_spans": [
+                    {
+                        "start": 779,
+                        "end": 825,
+                        "text": "(Chen, Greenberger, Lester, Dong, & Guo, 1998)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 971,
+                        "end": 1011,
+                        "text": "(Greenberger, Chen, Tally, & Dong, 2000)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1194,
+                        "end": 1208,
+                        "text": "(Smetana, 2008",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In the early family conflict literature, the finding that parents and adolescents engaged in conflict over \"everyday\" issues was a surprise (Smetana, 2002) . The term \"everyday\" is used here to refer to everyday issues such as schoolwork, home chores, and attire (Smetana, 1989 (Smetana, , p. 1052 . Initially, researchers believed that parents and adolescents argued over more serious and complicated values such as religious and political views (Smetana, 2002) . However, large-scale survey studies showed that parents and adolescents generally agreed on these important values (Offer, 1969) . Where they disagreed concerned everyday issues. The finding that European American families tend to engage in conflict around everyday issues to a greater degree than deeper value-based issues led researchers to focus on how conflict over everyday issues was developmentally important. Everyday conflict has been explicitly linked to the developmental goal of autonomy (Fuligni, 1998; Smetana, 2002; Steinberg & Morris, 2001 ). Engaging in parentadolescent conflict is seen as an opportunity for adolescents to negotiate and challenge their parents and, in the process, realign the parent-adolescent relationship into a more mature one. In contrast, acculturation-related conflict is not viewed as developmentally important in promoting autonomy-perhaps because much of the literature on acculturation-based conflict has focused on Latino-and Asian-heritage families, both of which have been described as emphasizing family, connectedness, and relatedness over the individual and his or her autonomy.",
+                "cite_spans": [
+                    {
+                        "start": 140,
+                        "end": 155,
+                        "text": "(Smetana, 2002)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 263,
+                        "end": 277,
+                        "text": "(Smetana, 1989",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 278,
+                        "end": 297,
+                        "text": "(Smetana, , p. 1052",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 447,
+                        "end": 462,
+                        "text": "(Smetana, 2002)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 580,
+                        "end": 593,
+                        "text": "(Offer, 1969)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 965,
+                        "end": 980,
+                        "text": "(Fuligni, 1998;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 981,
+                        "end": 995,
+                        "text": "Smetana, 2002;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 996,
+                        "end": 1020,
+                        "text": "Steinberg & Morris, 2001",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Everyday Conflict",
+                "sec_num": null
+            },
+            {
+                "text": "Although studies of everyday conflict have predominately focused on European American families, a few have included adolescents from other cultural groups. These studies have indicated striking similarities in the prevalence of everyday conflict across groups, including comparisons of Mexican, Chinese, Filipino, and European Americans (Fuligni, 1998) , Chinese and European Americans (Greenberger & Chen, 1996) , and adolescents from Hong Kong and mainland China (Yau & Smetana, 1996) . Unre-solved by these studies is whether families of immigrant origin engage in other types of conflict that are culturally salient as opposed to general issues of, for instance, homework and chores. If so, other areas of conflict merit attention.",
+                "cite_spans": [
+                    {
+                        "start": 337,
+                        "end": 352,
+                        "text": "(Fuligni, 1998)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 386,
+                        "end": 412,
+                        "text": "(Greenberger & Chen, 1996)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 465,
+                        "end": 486,
+                        "text": "(Yau & Smetana, 1996)",
+                        "ref_id": "BIBREF48"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Everyday Conflict",
+                "sec_num": null
+            },
+            {
+                "text": "On an individual level, acculturation is a broad term that refers to the process of psychological, behavioral, and social adaptation in response to sustained intercultural contact, such as during immigration (Berry, Phinney, Sam, & Vedder, 2006) . Portes and Rumbaut (1996) introduced the concept of acculturation dissonance-a mismatch in the cultural values, attitudes, and beliefs between children and parents due to differing rates of integration with the mainstream culture (Kwak, 2003; Lee et al., 2000) . This dissonance can be disturbing and lead to greater parent-adolescent conflict over core cultural beliefs (Juang, Syed, & Takagi, 2007; Kwak, 2003; Lee et al., 2000; Portes & Rumbaut, 1996; Qin, 2006) . Thus, acculturation theorists propose that parents and adolescents engage in conflict primarily because of clashing cultural values.",
+                "cite_spans": [
+                    {
+                        "start": 208,
+                        "end": 245,
+                        "text": "(Berry, Phinney, Sam, & Vedder, 2006)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 248,
+                        "end": 273,
+                        "text": "Portes and Rumbaut (1996)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 478,
+                        "end": 490,
+                        "text": "(Kwak, 2003;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 491,
+                        "end": 508,
+                        "text": "Lee et al., 2000)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 619,
+                        "end": 648,
+                        "text": "(Juang, Syed, & Takagi, 2007;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 649,
+                        "end": 660,
+                        "text": "Kwak, 2003;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 661,
+                        "end": 678,
+                        "text": "Lee et al., 2000;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 679,
+                        "end": 702,
+                        "text": "Portes & Rumbaut, 1996;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 703,
+                        "end": 713,
+                        "text": "Qin, 2006)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acculturation-Based Conflict",
+                "sec_num": null
+            },
+            {
+                "text": "Although the cultural clash between immigrant parents and their children has been long recognized, few studies have assessed this particular type of conflict. Lee et al. (2000) developed a survey of culturally salient conflict issues relevant to Asian American youth. The Asian American Family Conflict Scale (FCS; Lee et al., 2000) assesses 10 types of conflicts that can be attributed to acculturation differences (over and above intergenerational differences) between parents and adolescents, such as showing respect to elders, sacrificing personal interests over family interests, and wishing parents would show more physical and verbal affection. Such acculturative conflict has been consistently linked to negative outcomes, including greater depressive symptoms, psychological distress, and poorer academic performance (Bahrassa, Syed, Su, & Lee, 2011; Juang et al., 2007; Lee & Liu, 2001) . In contrast to everyday conflict, levels of acculturation-based conflict are not similar across ethnic groups; Asian Americans reported higher levels of acculturation-based conflict compared with Latinos and European Americans (Lee & Liu, 2001 ).",
+                "cite_spans": [
+                    {
+                        "start": 159,
+                        "end": 176,
+                        "text": "Lee et al. (2000)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 315,
+                        "end": 332,
+                        "text": "Lee et al., 2000)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 826,
+                        "end": 859,
+                        "text": "(Bahrassa, Syed, Su, & Lee, 2011;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 860,
+                        "end": 879,
+                        "text": "Juang et al., 2007;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 880,
+                        "end": 896,
+                        "text": "Lee & Liu, 2001)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1126,
+                        "end": 1142,
+                        "text": "(Lee & Liu, 2001",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acculturation-Based Conflict",
+                "sec_num": null
+            },
+            {
+                "text": "One of the challenges of transactional, longitudinal research is to identify the appropriate window of time to study a developmental process (Sameroff & Mackenzie, 2003) . For Chinese-heritage adolescents, parent-adolescent conflict may not peak in early adolescence but in later adolescence, as the push for autonomy occurs at later ages compared with European American adolescents (Fuligni, Tseng, & Lam, 1999; Greenberger & Chen, 1996) . With this in mind, our sample of mid-to late adolescents should provide an adequate window to examine stability and change in conflict. Because of the later push for autonomy for Chineseheritage adolescents, everyday conflict may increase from mid-to late adolescence. On the other hand, there is evidence that because adolescents spend less time with family and more time with peers as they get older, there are fewer opportunities for parentadolescent conflict, thus decreasing in frequency over time (Laursen et al., 1998) .",
+                "cite_spans": [
+                    {
+                        "start": 141,
+                        "end": 169,
+                        "text": "(Sameroff & Mackenzie, 2003)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 383,
+                        "end": 412,
+                        "text": "(Fuligni, Tseng, & Lam, 1999;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 413,
+                        "end": 438,
+                        "text": "Greenberger & Chen, 1996)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 944,
+                        "end": 966,
+                        "text": "(Laursen et al., 1998)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trajectories of Parent-Adolescent Conflict",
+                "sec_num": null
+            },
+            {
+                "text": "In contrast to findings on everyday conflict, we are not aware of any empirical studies on trajectories of acculturation-based con-flict. Theoretically, parents and adolescents are acculturating at different rates and, subsequently, experience a growing acculturation gap that may correspond with an increase in acculturationbased conflict (Portes & Rumbaut, 1996) . Another possibility is that, similar to everyday conflict, the frequency of acculturationbased conflict may decrease over time, partly due to less time spent with family (Laursen et al., 1998) . Due to these competing rationales, we did not propose a specific hypothesis about the direction of change in everyday and acculturation-based conflict.",
+                "cite_spans": [
+                    {
+                        "start": 340,
+                        "end": 364,
+                        "text": "(Portes & Rumbaut, 1996)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 537,
+                        "end": 559,
+                        "text": "(Laursen et al., 1998)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trajectories of Parent-Adolescent Conflict",
+                "sec_num": null
+            },
+            {
+                "text": "Prior studies of change over time in family conflict have examined mean rates of change. There may be, however, individual variation in how family conflict changes over time. Thus, although group trends in family conflict have been identified, our study uses latent growth curve modeling to explore whether individual parent-adolescent trajectories show variation over time. This is important because it also allows for the prediction of change trajectories. This framework also allows for the investigation of transactional relations between individual adolescent and family characteristics (e.g., gender of child, immigrant status) and change patterns over time. Finally, using latent growth curve modeling allowed us to examine how everyday and acculturation-based conflict relate to one another over time. Because conflict in one area may add to conflict in other areas, we hypothesize that the two types of conflict would demonstrate correlated trajectories.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trajectories of Parent-Adolescent Conflict",
+                "sec_num": null
+            },
+            {
+                "text": "As discussed previously, conflict within the family has been identified as a major contributor to a variety of problems for Asian-heritage adolescents of immigrant families, including low self-esteem, anxiety, somatization, and depression (Juang et al., 2007; Kim, Chen, Li, Huang, & Moon, 2009; Lee et al., 2000; Qin, 2006) . Although the link between parent-adolescent conflict and poorer adolescent adjustment is well documented, only a few studies (e.g., Qin, 2006 ) adopt a longitudinal approach. Further, most studies have examined how parent-adolescent conflict contributes to adolescent adjustment yet have rarely examined the reverse-the role of adolescent adjustment to experiences of parent-adolescent conflict. One important aspect of this study is the focus on transactional relations between parent-adolescent conflict and adolescent adjustment. Transactional models emphasize that it is the bidirectional relations between individuals and the contexts they inhabit over time that explain developmental outcomes (Sameroff & Mackenzie, 2003) . Examining the relation between conflict and adjustment may be especially salient during adolescence, as parent-adolescent conflict is considered a key process by which adolescents develop into mature, autonomous individuals (e.g., Steinberg & Morris, 2001 ). Based on a transactional view of development (Sameroff & Mackenzie, 2003) , we expect that conflict would contribute to adolescent adjustment and vice versa.",
+                "cite_spans": [
+                    {
+                        "start": 239,
+                        "end": 259,
+                        "text": "(Juang et al., 2007;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 260,
+                        "end": 295,
+                        "text": "Kim, Chen, Li, Huang, & Moon, 2009;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 296,
+                        "end": 313,
+                        "text": "Lee et al., 2000;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 314,
+                        "end": 324,
+                        "text": "Qin, 2006)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 459,
+                        "end": 468,
+                        "text": "Qin, 2006",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1026,
+                        "end": 1054,
+                        "text": "(Sameroff & Mackenzie, 2003)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 1288,
+                        "end": 1312,
+                        "text": "Steinberg & Morris, 2001",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1361,
+                        "end": 1389,
+                        "text": "(Sameroff & Mackenzie, 2003)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Parent-Adolescent Conflict and Adolescent Adjustment Over Time",
+                "sec_num": null
+            },
+            {
+                "text": "The areas of adjustment assessed in this study are anxiety/ somatization, depressive symptoms, loneliness, and self-esteem. We focus on these particular adjustment indices because studies show that internalizing symptoms are especially relevant to this population (Hwang & Goto, 2008; Okazaki, 2000) and all four measures are important indices of psychological health, especially during adolescence (Heinrich & Gullone, 2006; Tsai, Ying, & Lee, 2001 ).",
+                "cite_spans": [
+                    {
+                        "start": 264,
+                        "end": 284,
+                        "text": "(Hwang & Goto, 2008;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 285,
+                        "end": 299,
+                        "text": "Okazaki, 2000)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 399,
+                        "end": 425,
+                        "text": "(Heinrich & Gullone, 2006;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 426,
+                        "end": 449,
+                        "text": "Tsai, Ying, & Lee, 2001",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Parent-Adolescent Conflict and Adolescent Adjustment Over Time",
+                "sec_num": null
+            },
+            {
+                "text": "First, given that trajectories of everyday and acculturation-based conflict may either increase or decrease during mid-to late adolescence, our examination of the group-level trajectory of both types of conflict was descriptive. We expect, however, that there would be individual variation in stability and change in both types of conflict over time. Second, we hypothesize that acculturationbased conflict and everyday conflict would be positively correlated at Time 1 and across time. Third, we hypothesize that acculturation-based conflict would predict adjustment (i.e., more conflict associating with greater depressive symptoms, loneliness, anxiety/somatization, and lower self-esteem) at Time 1 and across time. We also expect that adolescent adjustment would predict levels of conflict such that better adolescent adjustment would predict lower levels of conflict across time. Fourth, we hypothesize that acculturation-based conflict and everyday conflict would each uniquely predict adolescent adjustment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hypotheses",
+                "sec_num": null
+            },
+            {
+                "text": "We sampled from San Francisco, an ethnically diverse city. Among Asian and Pacific Islanders, the Chinese are the largest group (66%), followed by 17% Filipino, 4% Japanese, 3% Korean, 3% Vietnamese, 1% Native Hawaiian or other Pacific Islander, and 3% other Asian. San Francisco has a rich history of Chinese immigration, starting in the mid-1800s. In the 1960s, there was a large wave of Chinese immigrants to the United States, in particular, to San Francisco, most of who were from Hong Kong. Today, the Chinese community in San Francisco enjoys institutional support in the form of churches, youth centers, and a vibrant Chinatown (the oldest Chinatown in the United States) that provides a focal point for community members.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Setting",
+                "sec_num": null
+            },
+            {
+                "text": "We recruited adolescents from two ethnically diverse high schools. Both schools had 53% of adolescents with Chinese backgrounds. One school reported 18% White, 6% Latino, 5% Filipino, 2% African American, 2% Korean, 1% Japanese, and 12% other non-White students. Similarly, the other high school reported 14% White, 6% Latino, 5% Filipino, 5% African American, 2% Japanese, 2% Korean, and 14% other non-White students. The school contexts reflected a diversity of ethnic groups, as did the broader community, but they included an overrepresentation of Asians, in particular, students of Chinese backgrounds.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Setting",
+                "sec_num": null
+            },
+            {
+                "text": "Participants were recruited from the two high schools through announcements at school assemblies and after-school clubs geared toward students of Chinese background and through posting fliers. Adolescents who obtained a signed guardian/parent consent form and assented to participate were surveyed. The survey was completed during classroom hours or immediately after school. Parents were not present. Adolescents were told their responses were confidential and that responses would not be shared with either parents or other adolescents. Adolescents were compensated $15 each time for participating in the first two waves of data collection and $20 for the third wave.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Surveys were offered in English and Chinese. The English version was translated into Chinese by three bilingual adults fluent in both English and Chinese. The translators were born outside of the United States (two in Taiwan and one in Hong Kong) and had immigrated to the United States in adolescence and young adulthood. Translators varied in age (one was over 60 years old; the other two between 25 and 30 years old) and were familiar with both Mandarin and Cantonese, to account for variations in the Chinese language due to cohort and geographical differences. A majority of adolescents (86%) completed the surveys in English and the rest completed them in Chinese. 1",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "At Wave 1, we recruited 316 Chinese American adolescents who identified their father or mother to be of Chinese descent. Of these, 75% completed the survey at Wave 2 and 83% completed the survey at Wave 3. In the analyses, we included all adolescents who had data for at least two waves (n \u03ed 276; 87%). Participants with data for at least two waves did not significantly differ from those with only one wave in terms of birth order, generational status, years lived in the U.S., gender, parent education, or any of the Wave 1 study variables.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "A cohort of ninth graders (n \u03ed 110) and a cohort of tenth graders (n \u03ed 166) was sampled at Wave 1 and participants from each cohort completed surveys at two or three waves. Defining our cohorts as year in school, we analyzed our data as an accelerated longitudinal design covering four time points (ninth, tenth, and eleventh grade for the first cohort; tenth, eleventh, and twelfth grade for the second cohort). We established within-grade equivalence on all study variables for the two cohorts at tenth and eleventh grade. At Wave 1, the ninth-grade cohort's mean age was 14.2 years (SD \u03ed .57, range 13 to 17 years), and the tenth-grade cohort's mean age was 15.1 years (SD \u03ed .48, ranging from 14 to 18 years). Waves 2 and 3 were collected at precisely 1 year and 2 years, respectively, after Wave 1. Fifty-seven percent of participants were female and 30% were first generation (foreign born), born in China (n \u03ed 57), Hong Kong (n \u03ed 20), Taiwan (n \u03ed 3), Macaw (n \u03ed 5), Vietnam (n \u03ed 2), Myanmar (n \u03ed 2), Thailand (n \u03ed 1), Germany (n \u03ed 1), and South America (n \u03ed 1). Two adolescents did not report where they were born. At Wave 1, foreign-born adolescents, on average, lived in the United States for 5.67 years (SD \u03ed 4.08). Most of the adolescents grew up with both parents (91%). The mean and modal maternal and paternal education was that of high school graduate. A new variable-parent education-was created for the analysis, representing the highest level of education attained by either parent.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Acculturation-based parent-adolescent conflict. The Asian American Family Conflicts Scale-Likelihood (Lee et al., 2000) consists of 10 items measuring the likelihood of parent-adolescent conflict typical in Asian American families. Using a scale ranging from (1) almost never to (5) almost always, adolescents responded to the likelihood of situations such as \"Your parents want you to sacrifice your personal interests for the sake of the family, but you feel this is unfair.\" This scale has been shown to be reliable and valid for diverse groups of Asian American youth, correlating positively with psychological distress (Bahrassa et al., 2011; Lee & Liu, 2001 ). Mean scores were calculated so that higher scores indicated a greater likelihood of conflict. Cronbach alphas were .87, .88, and .89 at Waves 1, 2, and 3, respectively.",
+                "cite_spans": [
+                    {
+                        "start": 101,
+                        "end": 119,
+                        "text": "(Lee et al., 2000)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 624,
+                        "end": 647,
+                        "text": "(Bahrassa et al., 2011;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 648,
+                        "end": 663,
+                        "text": "Lee & Liu, 2001",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Everyday conflicts with mother and father. Everyday conflict was assessed based on eight items of the Issues Checklist (Prinz, Foster, Kent, & O'Leary, 1979) used in a previous study of Chinese American adolescents (Chen et al., 1998) . Adolescents responded to this stem: \"Young people sometimes argue or fight with their parents. Below is a list of topics which you and your parents may argue or fight about. How often did you argue or disagree with your parents about the following topics in the last month?\" Adolescents were asked whether they argued over eight different areas of day-to-day decision making (over schoolwork, chores, money, routines, friends, privacy, appearance, and family relations) for their mothers and fathers separately. The response scale ranged from (1) never to (5) every day. This scale has been shown to be reliable and valid for Chinese American adolescents, correlating negatively with family cohesion (Fuligni, 1998) and parental warmth (Chen et al., 1998) , and positively with adolescent misconduct (Chen et al., 1998) . Mean scores were calculated by averaging the score between mothers and fathers so that a higher score indicated greater everyday conflict with both parents combined. Cronbach alphas for everyday conflict with parents were .89, .90, and .92, respectively, at Waves 1, 2, and 3.",
+                "cite_spans": [
+                    {
+                        "start": 119,
+                        "end": 157,
+                        "text": "(Prinz, Foster, Kent, & O'Leary, 1979)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 215,
+                        "end": 234,
+                        "text": "(Chen et al., 1998)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 937,
+                        "end": 952,
+                        "text": "(Fuligni, 1998)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 973,
+                        "end": 992,
+                        "text": "(Chen et al., 1998)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1037,
+                        "end": 1056,
+                        "text": "(Chen et al., 1998)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Anxiety and somatization. Two subscales from the Brief Symptom Inventory (Derogatis, 1993) were used to measure anxiety and somatization. For anxiety (5 items), adolescents reported how much a series of problems (e.g., \"nervousness or shakiness inside\") caused them distress in the past 7 days. For somatization (seven items), adolescents reported how much a series of problems (e.g., \"nausea or upset stomach\") caused them distress in the past 7 days. The response scale ranged from (1) not at all to (5) extremely. The mean scores for the two subscales were combined so that a higher score indicated greater internalization symptoms. Cronbach alphas were .83, .82, and .81, at Waves 1, 2 and 3, respectively.",
+                "cite_spans": [
+                    {
+                        "start": 73,
+                        "end": 90,
+                        "text": "(Derogatis, 1993)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Loneliness. The Revised UCLA Loneliness Questionnaire (Russell, Peplau, & Cutrona, 1980) consists of 20 items measuring the discrepancy between achieved and desired levels of social contact. Adolescents indicated the extent to which they agreed with statements such as \"I lack companionship\" using a scale of (1) never to (4) often. For Waves 1 and 2, the full version was used, and for Wave 3, the short version with eight items was used (Hays & Dimatteo, 1987) . Positive items were reverse coded and mean scores calculated so that a higher score indicated more loneliness. Cronbach alphas were .89, .90, and .86, for Waves 1, 2, and 3, respectively.",
+                "cite_spans": [
+                    {
+                        "start": 54,
+                        "end": 88,
+                        "text": "(Russell, Peplau, & Cutrona, 1980)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 439,
+                        "end": 462,
+                        "text": "(Hays & Dimatteo, 1987)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Self-esteem. Participants completed the 10-item Rosenberg (1989) self-esteem measure, which has been widely used in studies with ethnically diverse adolescents (Way & Robinson, 2003) . Agreement was measured on a 4-point Likert scale ranging from (1) strongly disagree to (4) strongly agree. Negatively worded items were reverse-coded and mean scores were calculated so that a higher score indicated higher self-esteem. Cronbach alphas were .85, .85, and .84, for Waves 1, 2, and 3, respectively.",
+                "cite_spans": [
+                    {
+                        "start": 160,
+                        "end": 182,
+                        "text": "(Way & Robinson, 2003)",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Center for Epidemiological Studies -Depression (CES-D; Radloff, 1977) . This 20-item scale measured depressive symptoms. Using a scale ranging from (1) rarely to (4) most of the time, adolescents indicated how often they felt or behaved during the past week. They responded to items such as, \"I was bothered by things that usually don't bother me.\" Positively worded items were reverse coded and mean scores calculated so that a higher score indicated higher levels of depressive symptoms. The CES-D has demonstrated adequate reliability and validity with Chinese American populations (Kim et al., 2009) . In the present study, Cronbach alphas were .86, .86, and .87, at Waves 1, 2, and 3, respectively.",
+                "cite_spans": [
+                    {
+                        "start": 55,
+                        "end": 69,
+                        "text": "Radloff, 1977)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 585,
+                        "end": 603,
+                        "text": "(Kim et al., 2009)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Because everyday conflict and acculturation-based conflict have not previously been studied together, we first investigated if they were empirically distinct. We conducted a series of confirmatory factor analyses comparing a two-factor versus one-factor structure for the two scales at each time point. The two-factor structure showed consistently good fit at each time point (CFIs \u03ed .90 to 94, RMSEAs \u03ed .05 to .08), and was far superior to the one-factor structure (CFIs \u03ed .67 to .70, RMSEAs \u03ed .12 to .14). Thus, the two scales are distinct from a measurement perspective.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Preliminary Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Descriptive statistics and bivariate correlations for all study variables are reported in Table 1 . Bivariate correlations and t tests were used to test whether age, gender, generational status, and parent education were related to the study variables at each of the four time points (ninth, tenth, eleventh, and twelfth grade). U.S.born adolescents reported lower levels of everyday conflict at Time 2, t \u03ed 2.67, p \u03fd .05, lower anxiety/somatization at Time 1, t \u03ed 2.91, p \u03fd .05 and 2, t \u03ed 2.35, p \u03fd .05, and lower depressive symptoms at Time 1, t \u03ed 2.19, p \u03fd .05, than did foreign-born adolescents. Boys reported more everyday conflict at Time 4, t \u03ed 2.42, p \u03fd .05, and fewer depressive symptoms at Time 2, t \u03ed \u03ea2.02, p \u03fd .05, than girls. Age was positively correlated with loneliness at Times 1 (r \u03ed .22) and 4 (r \u03ed .17), and parent education was negatively correlated with depressive symptoms at Time 3 (r \u03ed \u03ea.13). In light of these findings, we controlled for Time 1 age, gender, generational status, and parent education in all analyses.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 90,
+                        "end": 97,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Preliminary Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "The hypotheses in this study were tested using latent growth curve modeling (LGM) in Mplus 6.1 (Muth\u00e9n & Muth\u00e9n, 2000) . We used LGM because our hypotheses require the estimation of parallel process models, which examine how multiple trajectories relate to one another (e.g., testing how change in one construct relates to change in another). The analysis proceeded in four steps. First, we estimated unconditional growth models for acculturation-based conflict and everyday conflict separately to describe change over time in the two types of conflict. Second, we ran a parallel process model with both types of conflict to see how the two covaried over time. Parallel process models allow for the specification of two or more growth models simultaneously and permit an investigation of how the growth factors interrelate. The third step was to conduct parallel process models by specifying growth parameters for acculturation-based conflict and measures of psychological functioning (i.e., anxiety/somatization, loneliness, depressive symptoms, and self-esteem). In the fourth step, we added everyday conflict as a third construct in the parallel process model to determine whether acculturation-based conflict was predictive of psychological functioning over and above everyday conflict. These analyses allowed us to test one of the primary research questions of the study, namely, whether acculturation-based conflict and everyday conflict uniquely predict psychological functioning. In all of the conditional parallel process models, we included Time 1 age, gender, immigrant status, and parent education as time invariant controls. Gender and immigrant status were both dummy coded (0 \u03ed male, 1 \u03ed female; 0 \u03ed foreign born, 1 \u03ed U.S. born, respectively), and age and parent education were standardized. All other variables were kept in their original metrics. Missing data estimation was conducted using full information maximum likelihood because it tends to yield efficient and unbiased parameter estimates when random missing data are present (Enders & Bandalos, 2001 ).",
+                "cite_spans": [
+                    {
+                        "start": 95,
+                        "end": 118,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 2000)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 2050,
+                        "end": 2074,
+                        "text": "(Enders & Bandalos, 2001",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analysis Plan",
+                "sec_num": null
+            },
+            {
+                "text": "The unconditional growth model for acculturation-based conflict yielded a nonsignificant slope factor, B \u03ed \u03ea.04, SE \u03ed .03, ns, indicating that, on average, there was no change over time. The variance components for both the intercept, B \u03ed .59, SE \u03ed .12, p \u03fd .001, and slope, B \u03ed .05, SE \u03ed .03, p \u03fd .05, were significant, indicating that there was variability in both adolescents' Time 1 acculturation-based conflict scores and in the slope of change over time. Next we added the controls (age, gender, immigrant status, and parent education) as predictors of the intercept and slope, but none were significant. The unconditional growth model for everyday conflict also yielded a nonsignificant slope factor, B \u03ed \u03ea.04, SE \u03ed .03, ns, and significant variances for both the intercept, B \u03ed .29, SE \u03ed .08, p \u03fd .001, and slope, B \u03ed .03, SE \u03ed .02, p \u03fd .01. Adding covariates to the model did not change these estimates, but U.S.born adolescents reported less initial conflict than did foreign-born adolescents, B \u03ed \u03ea.32, SE \u03ed .13, p \u03fd .05.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Change in Acculturation-Based Conflict and Everyday Conflict",
+                "sec_num": null
+            },
+            {
+                "text": "Next we conducted a parallel process model on acculturationbased conflict and everyday conflict to determine the association of the two types of conflict over time. Initial values of the two were positively related, B \u03ed .38, SE \u03ed .06, p \u03fd .001, as was the rate of change over time in both types of conflict, B \u03ed .03, SE \u03ed .01, p \u03fd .001. In other words, higher acculturation-based conflict was associated with higher everyday conflict at Time 1, and faster rates of change in one were associated with faster rates of change in the other. Additionally, initial levels of acculturation-based conflict were predictive of the rate of change over time in everyday conflict, B \u03ed \u03ea.11, SE \u03ed .05, p \u03fd .05, and initial everyday conflict was predictive of the rate of change over time in acculturation-based conflict, B \u03ed \u03ea.14, SE \u03ed .07, p \u03fd .05. ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Change in Acculturation-Based Conflict and Everyday Conflict",
+                "sec_num": null
+            },
+            {
+                "text": "Anxiety/Somatization. The acculturation-based conflict-anxiety/somatization parallel process model indicated that higher initial conflict was associated with higher initial anxiety/somatization, and faster increases over time in conflict were associated with faster increases in anxiety/somatization ( Figure 1 ; Table 1 of the online supplemental materials, Model A). Whereas initial levels of conflict were marginally associated with a faster decrease in change in anxiety, initial anxiety was a strong predictor of faster decrease in conflict over time. None of the control variables were significant.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 302,
+                        "end": 310,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 313,
+                        "end": 320,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Acculturation-Based Conflict, Everyday Conflict, and Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "We next added everyday conflict to the previous parallel process model to create a three-construct, tri-process growth model (Table  1 of the online supplemental materials, Model B). There was no significant variability in the slope for anxiety/somatization in this model, and thus we were unable to predict variation in the slope factor. Initial levels of everyday conflict were positively associated with initial levels of anxiety/somatization. Importantly, after adding everyday conflict to the parallel process model, the estimates for acculturation-based conflict remained significant.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 125,
+                        "end": 134,
+                        "text": "(Table  1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Acculturation-Based Conflict, Everyday Conflict, and Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Loneliness. The parallel process model for loneliness indicated an association between initial acculturation-based conflict and initial loneliness, and initial loneliness predicted a faster decrease over time in acculturation-based conflict (Figure 2 ; Table  2 of the online supplemental materials, Model A). The slope covariance and initial acculturation-based conflict predicting changes in loneliness were not significant, nor were any of the control variables. Adding everyday conflict did not yield any associations between everyday conflict and loneliness ( Table 2 of the online supplemental materials, Model B) and did not alter the effects of acculturation-based conflict.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 241,
+                        "end": 250,
+                        "text": "(Figure 2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 253,
+                        "end": 261,
+                        "text": "Table  2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 565,
+                        "end": 572,
+                        "text": "Table 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Acculturation-Based Conflict, Everyday Conflict, and Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Depressive symptoms. For depressive symptoms, there was no significant variability in the slopes, and thus we were unable to predict variation in the slope factor. Higher initial levels of acculturation-based conflict were associated with higher depressive symptoms, and higher initial depressive symptoms were predictive of a faster decrease in the rate of conflict over time ( Figure  3 ; Table 3 of the online supplemental materials, Model A). Parent education was a positive predictor of initial levels of depressive symptoms, B \u03ed .07, SE \u03ed .02, p \u03fd .05, and females had higher initial levels than males, B \u03ed .15, SE \u03ed .06, p \u03fd .05.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 379,
+                        "end": 388,
+                        "text": "Figure  3",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 391,
+                        "end": 398,
+                        "text": "Table 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Acculturation-Based Conflict, Everyday Conflict, and Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Higher initial everyday conflict was also associated with higher initial depressive symptoms, and higher initial depressive symptoms predicted a faster rate of increase in everyday conflict over time (Table 3 of conflict was still related to the intercept of depressive symptoms, but the initial depressive symptoms predicting change in acculturation-based conflict attenuated to marginal significance.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 200,
+                        "end": 211,
+                        "text": "(Table 3 of",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Acculturation-Based Conflict, Everyday Conflict, and Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Self-esteem. Higher initial acculturation-based conflict was associated with lower self-esteem, and faster increases over time in conflict were associated with faster decreases in self-esteem (Figure 4 ; Table 4 of the online supplemental materials, Model A). Moreover, initial higher self-esteem predicted a faster increase in acculturation-based conflict over time. None of the control variables were significant.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 192,
+                        "end": 201,
+                        "text": "(Figure 4",
+                        "ref_id": "FIGREF4"
+                    },
+                    {
+                        "start": 204,
+                        "end": 211,
+                        "text": "Table 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Acculturation-Based Conflict, Everyday Conflict, and Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Adding everyday conflict to the model indicated that initial levels of everyday conflict were negatively associated with initial levels of self-esteem, but the rate of change in conflict was not associated with the rate of change in self-esteem (Table 4 of the online supplemental materials, Model B). Initial levels of everyday conflict were not predictive of the rate of change in self-esteem, nor were initial levels of self-esteem predictive of the rate of change in everyday conflict. After adding everyday conflict to the model, acculturation-based conflict was still related to the intercept and slope of self-esteem.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 245,
+                        "end": 253,
+                        "text": "(Table 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Acculturation-Based Conflict, Everyday Conflict, and Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "The purpose of the study was to examine two types of conflict for Chinese American families that have not been integrated in previous literature-acculturation-based and everyday conflictand to investigate, longitudinally, how these forms of conflict are associated with one another and with adolescent adjustment. Importantly, the two types of conflict are unique, additive predictors of different indicators of psychological functioning, indicating the distinctiveness of these two types of conflict. Results also suggested that psychological functioning is a better predictor of conflict trajectories than vice versa. Taken together, the results highlight the importance of considering how the acculturation process contributes to parent-adolescent conflict concerning everyday issues and deeper cultural values.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "On a group-level, we found that the frequency of everyday conflict for Chinese American adolescents is stable over a 3-year period from mid-to late adolescence, adding to previous research with ethnically diverse samples that showed little change from early to mid-adolescence (Fuligni, 1998; Yau & Smetana, 2003) . The analyses concerning the trajectory of acculturation-based conflict showed that it, too, was stable over a 3-year period during mid-to late adolescence. Such findings are important, as they counter the notion that adolescence is necessarily a period of increasing parent-child conflict for immigrant families, as parentadolescent acculturation discrepancies may also be increasing (Kwak, 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 277,
+                        "end": 292,
+                        "text": "(Fuligni, 1998;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 293,
+                        "end": 313,
+                        "text": "Yau & Smetana, 2003)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 700,
+                        "end": 712,
+                        "text": "(Kwak, 2003)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Supporting the first hypothesis, results showed that, on an individual level, there was variation in both types of conflict trajectories, indicating that levels of conflict did not change uniformly in the sample. More importantly, we found support for the second hypothesis, that acculturation-based and everyday conflict were positively related to one another at Time 1 and over time. For immigrant families, then, conflicts over everyday issues are related to conflicts over broader issues of acculturation. On the surface, acculturation-based conflict taps into deeper cultural value differences than everyday conflict. These cultural value differences, however, may manifest as conflict over everyday issues. Arnett (2009) argues that conflict over everyday issues (such as what clothes to wear) can reflect more serious issues (such as parents being uncomfortable with their adolescent's emerging sexuality). For Chinese American families in particular, discussing certain topics (such as sexuality) is avoided (Kim & Ward, 2007) . Engaging in conflict over everyday issues, then, may be one way that parents and adolescents can more comfortably address deeper underlying issues. Thus, parent-adolescent conflict over everyday issues may be touching on broader areas of conflict related to parents' and children's acculturation processes.",
+                "cite_spans": [
+                    {
+                        "start": 713,
+                        "end": 726,
+                        "text": "Arnett (2009)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1016,
+                        "end": 1034,
+                        "text": "(Kim & Ward, 2007)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Because research has traditionally studied these two types of conflict separately and with different measures, future researchers could develop measures that would allow for more parallel comparisons of the two constructs both in frequency and content. Further, the term \"everyday\" has been used to represent \"minor,\" \"normative\" bickering over \"everyday details of family life\" (Smetana, 1989 (Smetana, , p. 1052 versus more \"serious\" and \"deeper\" issues of conflict. More clarity in the term \"everyday\" may be needed as some acculturation-based conflicts may also be considered normative \"everyday\" details of family life. Regardless, our goal was to integrate two parallel literatures that have used different terminology (\"everyday\" vs. acculturation-based) and that have focused on different populations. The current study is an initial attempt to move the field forward by considering these two types of conflict in relation to one another within a single ethnic group.",
+                "cite_spans": [
+                    {
+                        "start": 379,
+                        "end": 393,
+                        "text": "(Smetana, 1989",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 394,
+                        "end": 413,
+                        "text": "(Smetana, , p. 1052",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Supporting the third hypothesis, the results showed that acculturation-based conflict was related to adolescent adjustment initially at Time 1 and over the next three years. Greater levels of acculturation-based conflict were associated with higher anxiety/ somatization, loneliness, depressive symptoms, and lower selfesteem, consistent with previous cross-sectional research documenting the association between parent-adolescent conflict and poorer adjustment among Asian-heritage families (e.g., Juang et al., 2007; Lee et al., 2000; Lim, Yeh, Liang, Lau, & McCabe, 2009) . Over time, however, conflict was differentially related to adjustment. For anxiety/somatization and self-esteem (but not loneliness, or depressive symptoms), increases in acculturation-based conflict were related to increases in adolescent anxiety/somatization and decreases in self-esteem. Thus, anxiety/somatization and self-esteem appear to be closely tied to conflict in terms of mirroring the conflict trajectory. Further, unexpectedly, adolescents who started off with higher levels of anxiety/somatization, loneliness and depressive symptoms and lower levels of self-esteem also decreased faster over time in acculturation-based conflict. In general, the reverse was not the case-initial levels of conflict did not predict changes in adjustment over time-suggesting that psychological adjustment is a better predictor of trajectories of conflict than vice versa, but in complex ways. Most studies of parentadolescent conflict have conceptualized conflict as leading to poorer adjustment. However, our findings suggest that poorer adjustment may sometimes foreshadow less conflict in the future. It could be the case that adolescents who are more anxious, depressed, and withdrawn may be less motivated to engage in this particular type of conflict in the home. In other words, adolescents who are more anxious, depressed, and withdrawn may be less likely to challenge cultural traditions and engage in acculturationbased conflict. Although the relations between adjustment and conflict are most likely reciprocal (as evidenced by the significant link between increases in acculturation-based conflict and corresponding increases in somatization/anxiety and self-esteem over time), our findings emphasize the importance of adolescents' psychological functioning to their perceptions of parent-adolescent conflict. Because the direction of our findings was unexpected, more research is needed to replicate and confirm our findings.",
+                "cite_spans": [
+                    {
+                        "start": 499,
+                        "end": 518,
+                        "text": "Juang et al., 2007;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 519,
+                        "end": 536,
+                        "text": "Lee et al., 2000;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 537,
+                        "end": 574,
+                        "text": "Lim, Yeh, Liang, Lau, & McCabe, 2009)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In general, the results for everyday conflict were similar to acculturation-based conflict and consistent with past research (Juang et al., 2007; Lee et al., 2000; Lim et al., 2009) . Initial levels of everyday conflict were associated with initial levels of anxiety/ somatization, depressive symptoms, and self-esteem. Unlike acculturation-based conflict, however, there was no consistent pattern of initial levels of psychological functioning predicting change in everyday conflict. One notable finding was that higher initial depressive symptoms predicted a faster increase in the rate of everyday conflict over time. This result contrasts the finding that higher initial levels of depressive symptoms were predictive of a faster decrease in acculturation-based conflict. How do we reconcile these contrasting findings between everyday and acculturation-based conflict? Fuligni (2012) suggested that one way to make sense of findings regarding conflict is to distinguish between the different aspects of conflict, namely, the acculturation gap (e.g., differences in parent-adolescent cultural values), internal conflict (e.g., having conflicting feelings about acculturation gaps), and actual arguments (i.e., open conflicts). Each of these aspects of conflict may have different relations with adjustment. Our measure of everyday conflict assessed frequency of actual arguments, whereas the acculturation-based conflict measure may have tapped into more internal feelings of conflict. Over time, then, perhaps open conflict is more consequentially related to depressive symptoms than internal feelings of conflict. Indeed, others have observed that open conflict in Chinese American families is usually avoided (Qin, Chang, Han, & Chee, 2012) but, when present, can have particularly negative consequences for the adolescent (Chen et al., 1998) . In sum, cross-sectional results for everyday and acculturation-based conflict are consistent-higher levels are associated with poorer adjustment. Longitudinally, results for everyday and acculturation-based conflict are less consistent, suggesting that these two types of conflict, although similar, are distinct in how they each relate to adolescent adjustment over time.",
+                "cite_spans": [
+                    {
+                        "start": 125,
+                        "end": 145,
+                        "text": "(Juang et al., 2007;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 146,
+                        "end": 163,
+                        "text": "Lee et al., 2000;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 164,
+                        "end": 181,
+                        "text": "Lim et al., 2009)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 873,
+                        "end": 887,
+                        "text": "Fuligni (2012)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1715,
+                        "end": 1746,
+                        "text": "(Qin, Chang, Han, & Chee, 2012)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1829,
+                        "end": 1848,
+                        "text": "(Chen et al., 1998)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Supporting the fourth hypothesis, when everyday conflict was accounted for, acculturation-based conflict still predicted adjustment, demonstrating that these two types of parent-adolescent conflict uniquely predict adolescent adjustment, despite being related. In general, psychological functioning appears to be more closely tied with acculturation-based conflict than everyday conflict, suggesting that assessing culturally salient conflict issues may be especially important for immigrant families (Lee et al., 2000) .",
+                "cite_spans": [
+                    {
+                        "start": 501,
+                        "end": 519,
+                        "text": "(Lee et al., 2000)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "We have argued that researchers have traditionally studied everyday and acculturation-based conflict separately in different populations, with different views on their implications: one is deemed normative and the other not. We found that each was uniquely associated with adjustment, but in slightly different ways. Our findings suggest that considering the role of acculturation in parent-adolescent conflict has important implications for clinical practice with Chinese-heritage families. Families may find it helpful to examine why acculturation-based conflicts occur and, in doing so, build empathy for the conflict partner (Hwang, 2006) . Parents and adolescents could also be taught skills to reinterpret some conflicts as a result of cultural differences rather than dispositional qualities of the conflict partner (Szapocznik, Santisteban, Kurtines, Perez-Vidal, & Hervis, 1984) . Finally, families may be comforted to understand that everyday and acculturation-based conflicts during adolescence may be developmentally normative for families negotiating two cultural systems.",
+                "cite_spans": [
+                    {
+                        "start": 629,
+                        "end": 642,
+                        "text": "(Hwang, 2006)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 823,
+                        "end": 887,
+                        "text": "(Szapocznik, Santisteban, Kurtines, Perez-Vidal, & Hervis, 1984)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications",
+                "sec_num": null
+            },
+            {
+                "text": "In terms of implications for future research, it will be important to determine the ways in which everyday and acculturation-based conflicts are distinct, and the ways in which they may overlap, allowing for greater clarity to our definitions of parent-adolescent conflict. Another issue in need of resolution is whether acculturation-based conflicts are specific to a particular cultural group or specific to immigrant groups only. There is evidence that the Lee et al. (2000) scale is reliable and valid with non-Asian, nonimmigrant groups such as African Americans and European Americans (Lee & Liu, 2001 ). Thus, it may be difficult to isolate conflicts due to intergenerational clashes from those due to the acculturation process. However, Lee et al. (2000) did find that a greater perceived acculturation gap was related to greater parentadolescent conflict, and studies show that Asian American youth consistently report higher levels of parent-adolescent conflict than Latino, European American, and African American youth (Lee & Liu, 2001) . In contrast, studies using the Issues Checklist (for everyday conflict) find similar levels of conflict across different ethnic groups (e.g., Fuligni, 1998) . Lee et al.'s (2000) scale, at least, seems to be tapping into intergenerational or acculturationbased issues that everyday conflict scales such as the Issues Checklist may overlook. Taken together, these findings suggest that both everyday and acculturation-based conflict are important to include in assessing parent-adolescent conflict for families of various cultural backgrounds.",
+                "cite_spans": [
+                    {
+                        "start": 460,
+                        "end": 477,
+                        "text": "Lee et al. (2000)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 591,
+                        "end": 607,
+                        "text": "(Lee & Liu, 2001",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 745,
+                        "end": 762,
+                        "text": "Lee et al. (2000)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1031,
+                        "end": 1048,
+                        "text": "(Lee & Liu, 2001)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1193,
+                        "end": 1207,
+                        "text": "Fuligni, 1998)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1210,
+                        "end": 1229,
+                        "text": "Lee et al.'s (2000)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications",
+                "sec_num": null
+            },
+            {
+                "text": "Recognizing that there are two separate, yet related, sets of conflict is necessary. In the literature, one type of conflict has traditionally been viewed as a normative aspect of promoting autonomy (everyday conflict), whereas the other (acculturationbased conflict) has not. For clinicians working with immigrant families, it may be helpful to reframe acculturation-based conflict as potentially also normative (and not always negative) and, just like everyday conflict, likely important for the development of autonomy during adolescence. Recognizing this would counter the perception that immigrant family relations are always \"at risk\" or in crisis (see Coll & Magnuson, 1997) . Indeed, recent qualitative studies reported that some young adults of immigrant families who engaged in acculturation-based conflicts with their parents as adolescents reinterpreted those conflicts later as young adults. Instead of viewing these conflicts as primarily negative, the young adults discussed how these conflicts helped them redefine their relationship with their parents by improving communication and promoting better understanding, which ultimately enriched their relationships and brought them closer to their parents (Kang, Okazaki, Abelmann, Kim-Prieto, & Shanshan, 2010; Stuart, Ward, Jose, & Narayanan, 2010) .",
+                "cite_spans": [
+                    {
+                        "start": 659,
+                        "end": 681,
+                        "text": "Coll & Magnuson, 1997)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1219,
+                        "end": 1274,
+                        "text": "(Kang, Okazaki, Abelmann, Kim-Prieto, & Shanshan, 2010;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1275,
+                        "end": 1313,
+                        "text": "Stuart, Ward, Jose, & Narayanan, 2010)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications",
+                "sec_num": null
+            },
+            {
+                "text": "The strengths of our study include that it was longitudinal, included multiple measures of adjustment, included two types of parent-adolescent conflicts, and focused on one specific ethnic group-Chinese Americans-a population that is not wellrepresented in the parent-adolescent conflict literature. Nonetheless, there were several limitations that must be noted. First, we only used questionnaire data. Other methodologies such as personal narratives, in-depth interviews, or observations of family interactions would offer additional insights into how conflict is experienced. Second, we only used self-report data from adolescents; thus, the possibility of common method variance cannot be ruled out. And although there is evidence that adolescents provide more \"accurate\" accounts of conflict with their parents (aligning with independent observer accounts) than parents do (Gonzales, Cauc\u00e9, & Mason, 1996) , future research should also incorporate parents' reports to provide a more complete and complex picture of parent-adolescent conflict. Third, we did not address how parent-adolescent conflict, under certain conditions, may relate differentially to adolescent adjustment. From a risk and resilience perspective (Luthar, Cichetti, & Becker, 2000) , not all adolescents who are exposed to the same risks (such as parent-adolescent conflict) will be affected in the same way. Future research should examine variables that may buffer the negative effects of conflict on adolescent adjustment. For instance, engaging in some levels of conflict may not be harmful to the adolescent if it occurs within a supportive relationship with parents.",
+                "cite_spans": [
+                    {
+                        "start": 878,
+                        "end": 910,
+                        "text": "(Gonzales, Cauc\u00e9, & Mason, 1996)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1223,
+                        "end": 1257,
+                        "text": "(Luthar, Cichetti, & Becker, 2000)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "Our study contributes to the literature by highlighting how everyday and acculturation-based parent-adolescent conflict, previously considered separately, uniquely contribute to adolescent adjustment. It will be important to explore strengths that immigrant families bring to navigate changing parent-child relations and expectations as adolescents take on more responsibilities, manage decisions in everyday life, and establish their values, beliefs, and lifestyles. It will also be important to pinpoint specific domains of conflict that may be more consequential for adjustment, consider the dynamic relation between adolescent psychological functioning and parent-adolescent conflict, and elaborate on factors that can provide a supportive context for adolescents as they grow and adjust to changing relations with their parents.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "All analyses reported below were rerun after removing the 14% of adolescents who completed the survey in Chinese. The results were substantively identical, so only analyses based on the full sample are reported.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "PARENT-ADOLESCENT CONFLICT AMONG CHINESE AMERICANS",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Adolescence and emerging adulthood: A cultural approach",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Arnett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Arnett, J. J. (2009). Adolescence and emerging adulthood: A cultural approach (4th ed.). Upper Saddle River, NJ: Prentice Hall.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Family conflict and academic performance of first-year Asian American undergraduates",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Bahrassa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Syed",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Su",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Cultural Diversity & Ethnic Minority Psychology",
+                "volume": "17",
+                "issue": "",
+                "pages": "415--426",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0024731"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Bahrassa, N. F., Syed, M., Su, J., & Lee, R. M. (2011). Family conflict and academic performance of first-year Asian American undergraduates. Cultural Diversity & Ethnic Minority Psychology, 17, 415-426. doi: 10.1037/a0024731",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Immigrant youth in cultural transition: Acculturation, identity, and adaptation across national contexts",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Berry",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Phinney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Sam",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Vedder",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Berry, J. W., Phinney, J. S., Sam, D. L., & Vedder, P. (2006). Immigrant youth in cultural transition: Acculturation, identity, and adaptation across national contexts. Mahwah, NJ: Lawrence Erlbaum Associates Publishers.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "A cross-cultural study of family and peer correlates of adolescent misconduct",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Greenberger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Lester",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Dong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.-S",
+                        "middle": [],
+                        "last": "Guo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Developmental Psychology",
+                "volume": "34",
+                "issue": "",
+                "pages": "770--781",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0012-1649.34.4.770"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Chen, C., Greenberger, E., Lester, J., Dong, Q., & Guo, M.-S. (1998). A cross-cultural study of family and peer correlates of adolescent miscon- duct. Developmental Psychology, 34, 770 -781. doi:10.1037/0012-1649 .34.4.770",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The psychological experience of immigration: A developmental perspective",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Coll",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Magnuson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Immigration and the family: Research and policy on U.S. immigrants",
+                "volume": "",
+                "issue": "",
+                "pages": "91--131",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Coll, C. G., & Magnuson, K. (1997). The psychological experience of immigration: A developmental perspective. In A. Booth, A. C. Crouter, & N. S. Landale (Eds.), Immigration and the family: Research and policy on U.S. immigrants (pp. 91-131). Hillsdale, NJ: Lawrence Erl- baum Associates.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Adolescent development in interpersonal context",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Collins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Steinberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Social, emotional, and personality development",
+                "volume": "3",
+                "issue": "",
+                "pages": "1003--1067",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Collins, A. W., & Steinberg, L. (2006). Adolescent development in inter- personal context. In N. Eisenberg, W. Damon, & R. Lerner (Eds.), Handbook of child psychology: Vol. 3, Social, emotional, and person- ality development (6th ed. pp. 1003-1067). Hoboken, NJ: John Wiley.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "BSI Brief Symptom Inventory. Administration, scoring, and procedures manual",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Derogatis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Derogatis, L. R. (1993). BSI Brief Symptom Inventory. Administration, scoring, and procedures manual (4th ed.). Minneapolis, MN: National Computer Systems.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "The relative performance of full information maximum likelihood for missing data in structural equation modeling",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Enders",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Bandalos",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Structural Equation Modeling",
+                "volume": "8",
+                "issue": "",
+                "pages": "430--457",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Enders, C., & Bandalos, D. (2001). The relative performance of full information maximum likelihood for missing data in structural equation modeling. Structural Equation Modeling, 8, 430 -457. doi:10.1207/ S15328007SEM0803_5",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Authority, autonomy, and parent-adolescent conflict and cohesion: A study of adolescents from Mexican, Chinese, Filipino, and European backgrounds",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Fuligni",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Developmental Psychology",
+                "volume": "34",
+                "issue": "",
+                "pages": "782--792",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0012-1649.34.4.782"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Fuligni, A. J. (1998). Authority, autonomy, and parent-adolescent conflict and cohesion: A study of adolescents from Mexican, Chinese, Filipino, and European backgrounds. Developmental Psychology, 34, 782-792. doi:10.1037/0012-1649.34.4.782",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Gaps, conflicts, and arguments between adolescents and their parents",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Fuligni",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "New directions in child and adolescent development: Family conflict among Chinese and Mexican-origin adolescents and their parents",
+                "volume": "",
+                "issue": "",
+                "pages": "105--110",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fuligni, A. J. (2012). Gaps, conflicts, and arguments between adolescents and their parents. In L. P. Juang & A. J. Uma\u00f1a-Taylor (Eds.), New directions in child and adolescent development: Family conflict among Chinese and Mexican-origin adolescents and their parents (No. 135, pp. 105-110). San Francisco: Jossey-Bass.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Attitudes toward family obligations among American adolescents with Asian, Latin American, and European backgrounds",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Fuligni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Tseng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Lam",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Child Development",
+                "volume": "70",
+                "issue": "",
+                "pages": "1030--1044",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/1467-8624.00075"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Fuligni, A. J., Tseng, V., & Lam, M. (1999). Attitudes toward family obligations among American adolescents with Asian, Latin American, and European backgrounds. Child Development, 70, 1030 -1044. doi: 10.1111/1467-8624.00075",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Does parent-adolescent conflict increase in early adolescence?",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Galambos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Almeida",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of Marriage and the Family",
+                "volume": "54",
+                "issue": "",
+                "pages": "737--747",
+                "other_ids": {
+                    "DOI": [
+                        "10.2307/353157"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Galambos, N., & Almeida, D. (1992). Does parent-adolescent conflict increase in early adolescence? Journal of Marriage and the Family, 54, 737-747. doi:10.2307/353157",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Interobserver agreement in the assessment of parental behavior and parent-adolescent conflict: African American mothers, daughters, and independent observers",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Gonzales",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Cauc\u00e9",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Mason",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Child Development",
+                "volume": "67",
+                "issue": "",
+                "pages": "1483--1498",
+                "other_ids": {
+                    "DOI": [
+                        "10.2307/1131713"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Gonzales, N. A., Cauc\u00e9, A. M., & Mason, C. A. (1996). Interobserver agreement in the assessment of parental behavior and parent-adolescent conflict: African American mothers, daughters, and independent observ- ers. Child Development, 67, 1483-1498. doi:10.2307/1131713",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Perceived family relationships and depressed mood in early and late adolescence: A comparison of European and Asian Americans",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Greenberger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Developmental Psychology",
+                "volume": "32",
+                "issue": "",
+                "pages": "707--716",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0012-1649.32.4.707"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Greenberger, E., & Chen, C. (1996). Perceived family relationships and depressed mood in early and late adolescence: A comparison of Euro- pean and Asian Americans. Developmental Psychology, 32, 707-716. doi:10.1037/0012-1649.32.4.707",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Family, peer, and individual correlates of depressive symptomatology among U.S. and Chinese adolescents",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Greenberger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Tally",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Dong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Consulting and Clinical Psychology",
+                "volume": "68",
+                "issue": "",
+                "pages": "209--219",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-006x.68.2.209"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Greenberger, E., Chen, C., Tally, S. R., & Dong, Q. (2000). Family, peer, and individual correlates of depressive symptomatology among U.S. and Chinese adolescents. Journal of Consulting and Clinical Psychology, 68, 209 -219. doi:10.1037/0022-006x.68.2.209",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "A short-form measure of loneliness",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Hays",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Dimatteo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Journal of Personality Assessment",
+                "volume": "51",
+                "issue": "",
+                "pages": "69--81",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hays, R. D., & DiMatteo, M. (1987). A short-form measure of loneliness. Journal of Personality Assessment, 51, 69 -81. doi:10.1207/ s15327752jpa5101_6",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "The clinical significance of loneliness: A literature review",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Heinrich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Gullone",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Clinical Psychology Review",
+                "volume": "26",
+                "issue": "",
+                "pages": "695--718",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.cpr.2006.04.002"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Heinrich, L. M., & Gullone, E. (2006). The clinical significance of lone- liness: A literature review. Clinical Psychology Review, 26, 695-718. doi:10.1016/j.cpr.2006.04.002",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Acculturative family distancing: Theory, research, and clinical practice",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Hwang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Psychotherapy",
+                "volume": "43",
+                "issue": "",
+                "pages": "397--409",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0033-3204.43.4.397"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Hwang, W. C. (2006). Acculturative family distancing: Theory, research, and clinical practice. Psychotherapy (Chicago, Ill.), 43, 397-409. doi: 10.1037/0033-3204.43.4.397",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "The impact of perceived racial discrimination on the mental health of Asian American and Latino college students",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Hwang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Goto",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Cultural Diversity and Ethnic Minority Psychology",
+                "volume": "14",
+                "issue": "",
+                "pages": "326--335",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/1099-9809.14.4.326"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Hwang, W. C., & Goto, S. (2008). The impact of perceived racial discrim- ination on the mental health of Asian American and Latino college students. Cultural Diversity and Ethnic Minority Psychology, 14, 326 - 335. doi:10.1037/1099-9809.14.4.326",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Intergenerational discrepancies of parental control among Chinese American families: Links to family conflict and adolescent depressive symptoms",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Juang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Syed",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Takagi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Adolescence",
+                "volume": "30",
+                "issue": "",
+                "pages": "965--975",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.adolescence.2007.01.004"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Juang, L. P., Syed, M., & Takagi, M. (2007). Intergenerational discrepan- cies of parental control among Chinese American families: Links to family conflict and adolescent depressive symptoms. Journal of Adoles- cence, 30, 965-975. doi:10.1016/j.adolescence.2007.01.004",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Redeeming immigrant parents: How Korean American emerging adults reinterpret their childhood",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Okazaki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Abelmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Kim-Prieto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Shanshan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Journal of Adolescent Research",
+                "volume": "25",
+                "issue": "",
+                "pages": "441--464",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0743558410361371"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Kang, H., Okazaki, S., Abelmann, N., Kim-Prieto, C., & Shanshan, L. (2010). Redeeming immigrant parents: How Korean American emerging adults reinterpret their childhood. Journal of Adolescent Research, 25, 441-464. doi:10.1177/0743558410361371",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Silence speaks volumes: Parental sexual communication among Asian American emerging adults",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ward",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Adolescent Research",
+                "volume": "22",
+                "issue": "",
+                "pages": "3--31",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0743558406294916"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Kim, J. L., & Ward, L. M. (2007). Silence speaks volumes: Parental sexual communication among Asian American emerging adults. Journal of Adolescent Research, 22, 3-31. doi:10.1177/0743558406294916",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Parent-child acculturation, parenting, and adolescent depressive symptoms in Chinese immigrant families",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Moon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Family Psychology",
+                "volume": "23",
+                "issue": "",
+                "pages": "426--437",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0016019"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Kim, S. Y., Chen, Q., Li, J., Huang, X., & Moon, U. J. (2009). Parent-child acculturation, parenting, and adolescent depressive symptoms in Chi- nese immigrant families. Journal of Family Psychology, 23, 426 -437. doi:10.1037/a0016019",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Adolescents and their parents: A review of intergenerational family relations for immigrant and non-immigrant families",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Kwak",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Human Development",
+                "volume": "46",
+                "issue": "",
+                "pages": "115--136",
+                "other_ids": {
+                    "DOI": [
+                        "10.1159/000068581"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Kwak, K. (2003). Adolescents and their parents: A review of intergenera- tional family relations for immigrant and non-immigrant families. Hu- man Development, 46, 115-136. doi:10.1159/000068581",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Reconsidering changes in parent-child conflict across adolescence: A meta-analysis",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Laursen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Coy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Collins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Child Development",
+                "volume": "69",
+                "issue": "",
+                "pages": "817--832",
+                "other_ids": {
+                    "DOI": [
+                        "10.2307/1132206"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Laursen, B., Coy, K., & Collins, W. A. (1998). Reconsidering changes in parent-child conflict across adolescence: A meta-analysis. Child Devel- opment, 69, 817-832. doi:10.2307/1132206",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Construction of the Asian American family conflicts scale",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Choe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Ngo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Counseling Psychology",
+                "volume": "47",
+                "issue": "",
+                "pages": "211--222",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0167.47.2.211"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, R. M., Choe, J., Kim, V., & Ngo, G. (2000). Construction of the Asian American family conflicts scale. Journal of Counseling Psychology, 47, 211-222. doi:10.1037/0022-0167.47.2.211",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Coping with intergenerational family conflict: Comparison of Asian American, Hispanic, and European American college students",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H.-T",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Counseling Psychology",
+                "volume": "48",
+                "issue": "",
+                "pages": "410--419",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0167.48.4.410"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, R. M., & Liu, H.-T. (2001). Coping with intergenerational family conflict: Comparison of Asian American, Hispanic, and European American college students. Journal of Counseling Psychology, 48, 410 - 419. doi:10.1037/0022-0167.48.4.410",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Acculturation gap, intergenerational conflict, parenting style, and youth distress in immigrant Chinese American families",
+                "authors": [
+                    {
+                        "first": "S.-L",
+                        "middle": [],
+                        "last": "Lim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Yeh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Liang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Lau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Mccabe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Marriage & Family Review",
+                "volume": "45",
+                "issue": "",
+                "pages": "84--106",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/01494920802537530"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Lim, S.-L., Yeh, M., Liang, J., Lau, A. S., & McCabe, K. (2009). Accul- turation gap, intergenerational conflict, parenting style, and youth dis- tress in immigrant Chinese American families. Marriage & Family Review, 45, 84 -106. doi:10.1080/01494920802537530",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "The construct of resilience: A critical evaluation and guidelines for future work",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Luthar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Cichetti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Becker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Child Development",
+                "volume": "71",
+                "issue": "",
+                "pages": "543--562",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/1467-8624.00164"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Luthar, S. S., Cichetti, D., & Becker, B. (2000). The construct of resilience: A critical evaluation and guidelines for future work. Child Development, 71, 543-562. doi:10.1111/1467-8624.00164",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Integrating person-centered and variable-centered analyses: Growth mixture modeling with latent trajectory classes",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Alcoholism: Clinical and Experimental Research",
+                "volume": "24",
+                "issue": "",
+                "pages": "882--891",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1530-0277.2000.tb02070.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth\u00e9n, B., & Muth\u00e9n, L. (2000). Integrating person-centered and variable-centered analyses: Growth mixture modeling with latent trajec- tory classes. Alcoholism: Clinical and Experimental Research, 24, 882- 891. doi:10.1111/j.1530-0277.2000.tb02070.x",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "The psychological world of the teenager",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Offer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1969,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Offer, D. (1969). The psychological world of the teenager. New York: Basic Books.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Asian American and White American differences on affective distress symptoms: Do symptom reports differ across reporting methods",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Okazaki",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Cross-Cultural Psychology",
+                "volume": "31",
+                "issue": "",
+                "pages": "603--625",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0022022100031005004"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Okazaki, S. (2000). Asian American and White American differences on affective distress symptoms: Do symptom reports differ across reporting methods? Journal of Cross-Cultural Psychology, 31, 603-625. doi: 10.1177/0022022100031005004",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Immigrant America: A portrait",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Portes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Rumbaut",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Portes, A., & Rumbaut, R. G. (1996). Immigrant America: A portrait (2nd ed.). Berkeley, CA: University of California Press.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Multivariate assessment of conflict in distressed and nondistressed mother adolescent dyads",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Prinz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Foster",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Kent",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Leary",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "Journal of Applied Behavior Analysis",
+                "volume": "12",
+                "issue": "",
+                "pages": "691--700",
+                "other_ids": {
+                    "DOI": [
+                        "10.1901/jaba.1979.12-691"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Prinz, R. J., Foster, S. L., Kent, R. N., & O'Leary, K. D. (1979). Multi- variate assessment of conflict in distressed and nondistressed mother adolescent dyads. Journal of Applied Behavior Analysis, 12, 691-700. doi:10.1901/jaba.1979.12-691",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Our child doesn't talk to us anymore\": Alienation in immigrant Chinese families",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Qin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Anthropology & Education Quarterly",
+                "volume": "37",
+                "issue": "",
+                "pages": "162--179",
+                "other_ids": {
+                    "DOI": [
+                        "10.1525/aeq.2006.37.2.162"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Qin, D. B. (2006). \"Our child doesn't talk to us anymore\": Alienation in immigrant Chinese families. Anthropology & Education Quarterly, 37, 162-179. doi:10.1525/aeq.2006.37.2.162",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Conflicts and communication between high achieving Chinese American adolescents and their parents",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Qin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.-F",
+                        "middle": [],
+                        "last": "Chang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E.-J",
+                        "middle": [],
+                        "last": "Han",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Chee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "New directions in child and adolescent development: Family conflict among Chinese and Mexican-origin adolescents and their parents",
+                "volume": "",
+                "issue": "",
+                "pages": "35--57",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Qin, D. B., Chang, T.-F., Han, E.-J., & Chee, G. (2012). Conflicts and communication between high achieving Chinese American adolescents and their parents. In L. P. Juang & A. J. Uma\u00f1a-Taylor (Eds.), New directions in child and adolescent development: Family conflict among Chinese and Mexican-origin adolescents and their parents (No. 135, pp. 35-57). San Francisco: Jossey-Bass.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "The CES-D Scale: A self-report depression scale for research in the general population",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Radloff",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1977,
+                "venue": "Applied Psychological Measurement",
+                "volume": "1",
+                "issue": "",
+                "pages": "385--401",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/014662167700100306"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Radloff, L. S. (1977). The CES-D Scale: A self-report depression scale for research in the general population. Applied Psychological Measurement, 1, 385-401. doi:10.1177/014662167700100306",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Society and the adolescent self-image (rev",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Rosenberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenberg, M. (1989). Society and the adolescent self-image (rev. ed.). Middletown, CT: Wesleyan University Press.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "The revised UCLA Loneliness Scale: Concurrent and discriminant validity evidence",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Russell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Peplau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Cutrona",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "39",
+                "issue": "",
+                "pages": "472--480",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-3514.39.3.472"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Russell, D., Peplau, L., & Cutrona, C. (1980). The revised UCLA Lone- liness Scale: Concurrent and discriminant validity evidence. Journal of Personality and Social Psychology, 39, 472-480. doi:10.1037/0022- 3514.39.3.472",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Research strategies for capturing transactional models of development: The limits of the possible",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Sameroff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Mackenzie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Development and Psychopathology",
+                "volume": "15",
+                "issue": "",
+                "pages": "613--640",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sameroff, A. J., & Mackenzie, M. J. (2003). Research strategies for capturing transactional models of development: The limits of the pos- sible. Development and Psychopathology, 15, 613-640. doi:10.1017/ S0954579403000312",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Adolescents' and parents' reasoning about actual family conflict",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Smetana",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Child Development",
+                "volume": "60",
+                "issue": "",
+                "pages": "1052--1067",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smetana, J. G. (1989). Adolescents' and parents' reasoning about actual family conflict. Child Development, 60, 1052-1067.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Culture, autonomy, and personal jurisdiction in adolescent-parent relationships",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Smetana",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Advances in child development and behavior",
+                "volume": "29",
+                "issue": "",
+                "pages": "51--87",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smetana, J. G. (2002). Culture, autonomy, and personal jurisdiction in adolescent-parent relationships. In H. W. Reese and R. Kail (Eds.), Advances in child development and behavior (Vol. 29, pp. 51-87). New York, NY: Academic Press.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Conflicting views of conflict. Monographs of the Society for Research in Child Development",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Smetana",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "73",
+                "issue": "",
+                "pages": "161--168",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smetana, J. G. (2008). Conflicting views of conflict. Monographs of the Society for Research in Child Development, 73, 161-168. doi:10.1111/ j.1540-5834.2008.00477.x",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Adolescent development",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Steinberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Morris",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Annual Review of Psychology",
+                "volume": "52",
+                "issue": "",
+                "pages": "83--110",
+                "other_ids": {
+                    "DOI": [
+                        "10.1146/annurev.psych.52.1.83"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Steinberg, L., & Morris, A. S. (2001). Adolescent development. Annual Review of Psychology, 52, 83-110. doi:10.1146/annurev.psych.52.1.83",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Working with and for communities: A collaborative study of harmony and conflict in well-functioning, acculturating families",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Stuart",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Ward",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jose",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Narayanan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "International Journal of Intercultural Relations",
+                "volume": "34",
+                "issue": "",
+                "pages": "114--126",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.ijintrel.2009.11.004"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Stuart, J., Ward, C., Jose, P. E., & Narayanan, P. (2010). Working with and for communities: A collaborative study of harmony and conflict in well-functioning, acculturating families. International Journal of Inter- cultural Relations, 34, 114 -126. doi:10.1016/j.ijintrel.2009.11.004",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Bicultural effectiveness training: A treatment intervention for enhancing intercultural adjustment in Cuban American families",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Szapocznik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Santisteban",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Kurtines",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Perez-Vidal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Hervis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Hispanic Journal of Behavioral Sciences",
+                "volume": "6",
+                "issue": "",
+                "pages": "317--344",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Szapocznik, J., Santisteban, D., Kurtines, W., Perez-Vidal, A., & Hervis, O. (1984). Bicultural effectiveness training: A treatment intervention for enhancing intercultural adjustment in Cuban American families. His- panic Journal of Behavioral Sciences, 6, 317-344. doi:10.1177/ 07399863840064001",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Cultural predictors of self-esteem: A study of Chinese American female and male young adults",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Tsai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Ying",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Cultural Diversity and Ethnic Minority Psychology",
+                "volume": "7",
+                "issue": "",
+                "pages": "284--297",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tsai, J. L., Ying, Y., & Lee, P. (2001). Cultural predictors of self-esteem: A study of Chinese American female and male young adults. Cultural Diversity and Ethnic Minority Psychology, 7, 284 -297. doi:10.1037/ 1099-9809.7.3.284",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "A longitudinal study of the effects of family, friends, and school experiences on the psychological adjustment of ethnic minority, low-SES adolescents",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Way",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Robinson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Adolescent Research",
+                "volume": "18",
+                "issue": "",
+                "pages": "324--346",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0743558403018004001"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Way, N., & Robinson, M. G. (2003). A longitudinal study of the effects of family, friends, and school experiences on the psychological adjustment of ethnic minority, low-SES adolescents. Journal of Adolescent Re- search. 18, 324 -346. doi:10.1177/0743558403018004001",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Adolescent-parent conflict among Chinese adolescents in Hong Kong",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Yau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Smetana",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Child Development",
+                "volume": "67",
+                "issue": "",
+                "pages": "1262--1275",
+                "other_ids": {
+                    "DOI": [
+                        "10.2307/1131891"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Yau, J., & Smetana, J. (1996). Adolescent-parent conflict among Chinese adolescents in Hong Kong. Child Development, 67, 1262-1275. doi: 10.2307/1131891",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "the online supplemental materials, Model B). After adding everyday conflict to the model, acculturation-based"
+            },
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Final standardized estimates for the parallel-process growth model of acculturative conflict and anxiety/somatization. Only statistically significant paths are displayed. \u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .01. \u202b\u0621\u0621\u0621\u202c p \u03fd .001."
+            },
+            "FIGREF2": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Final standardized estimates for the parallel-process growth model of acculturative conflict and loneliness. Only statistically significant paths are displayed. \u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .01. \u202b\u0621\u0621\u0621\u202c p \u03fd .001."
+            },
+            "FIGREF3": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Final standardized estimates for the parallel-process growth model of acculturative conflict and depressive symptoms. Only statistically significant paths are displayed. \u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .01. \u202b\u0621\u0621\u0621\u202c p \u03fd .001."
+            },
+            "FIGREF4": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Final standardized estimates for the parallel-process growth model of acculturative conflict self-esteem. Only statistically significant paths are displayed. \u202b\u0621\u202c p \u03fd .05. \u202b\u0621\u0621\u202c p \u03fd .01. \u202b\u0621\u0621\u0621\u202c p \u03fd .001."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td>2 3</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>1</td><td>.63 \u202b\u0621\u202c</td></tr><tr><td>2 2</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>1</td><td>.54 \u202b\u0621\u202c</td><td>.55 \u202b\u0621\u202c</td></tr><tr><td>2 0 2 1</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>1</td><td>a 1</td><td>\u03ea.30 \u202b\u0621\u202c .46 \u202b\u0621\u202c \u03ea.37 \u202b\u0621\u202c .41 \u202b\u0621\u202c \u03ea.61 \u202b\u0621\u202c a</td></tr><tr><td>1 9</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>1</td><td>.45 \u202b\u0621\u202c</td><td>\u03ea.19 \u03ea.30 \u202b\u0621\u202c \u03ea.54 \u202b\u0621\u202c \u03ea.49 \u202b\u0621\u202c</td></tr><tr><td>1 8</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>1</td><td>.44 \u202b\u0621\u202c</td><td>.39 \u202b\u0621\u202c</td><td>\u03ea.36 \u202b\u0621\u202c \u03ea.56 \u202b\u0621\u202c \u03ea.31 \u202b\u0621\u202c \u03ea.43 \u202b\u0621\u202c</td></tr><tr><td>1 7</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>1</td><td>.59 \u202b\u0621\u202c</td><td>.50 \u202b\u0621\u202c</td><td>a</td><td>\u03ea.54 \u202b\u0621\u202c \u03ea.40 \u202b\u0621\u202c \u03ea.41 \u202b\u0621\u202c</td><td>a</td></tr><tr><td>1 6</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>1</td><td>a</td><td>.47 \u202b\u0621\u202c</td><td>.43 \u202b\u0621\u202c</td><td>.63 \u202b\u0621\u202c</td><td>a</td><td>\u03ea.35 \u202b\u0621\u202c \u03ea.42 \u202b\u0621\u202c \u03ea.56 \u202b\u0621\u202c</td></tr><tr><td>1 5</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>1</td><td>.63 \u202b\u0621\u202c</td><td>.42 \u202b\u0621\u202c</td><td>.36 \u202b\u0621\u202c</td><td>.62 \u202b\u0621\u202c</td><td>.42 \u202b\u0621\u202c</td><td>\u03ea.27 \u202b\u0621\u202c \u03ea.32 \u202b\u0621\u202c \u03ea.58 \u202b\u0621\u202c \u03ea.42 \u202b\u0621\u202c</td></tr><tr><td>1 4</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>1</td><td>.52 \u202b\u0621\u202c</td><td>.54 \u202b\u0621\u202c</td><td>.43 \u202b\u0621\u202c</td><td>.62 \u202b\u0621\u202c</td><td>.33 \u202b\u0621\u202c</td><td>.29 \u202b\u0621\u202c</td><td>\u03ea.35 \u202b\u0621\u202c \u03ea.53 \u202b\u0621\u202c \u03ea.37 \u202b\u0621\u202c \u03ea.39 \u202b\u0621\u202c</td></tr><tr><td>M SD 1 2 3 4 5 6 7 8 9 1 0 1 1 1 2 1 3</td><td>1. Acc. Conflict T1 b 3.01 0.89 1</td><td>2. Acc. Conflict T2 b 2.83 0.94 .56 \u202b\u0621\u202c 1</td><td>3. Acc. Conflict T3 b 2.85 0.94 .50 \u202b\u0621\u202c .64 \u202b\u0621\u202c 1</td><td>4. Acc. Conflict T4 b 2.81 0.91 a .51 \u202b\u0621\u202c .64 \u202b\u0621\u202c 1</td><td>5. Ev. Conflict T1 b 2.26 0.83 .33 \u202b\u0621\u202c .34 \u202b\u0621\u202c .36 \u202b\u0621\u202c a 1</td><td>6. Ev. Conflict T2 b 2.18 0.78 .48 \u202b\u0621\u202c .49 \u202b\u0621\u202c .38 \u202b\u0621\u202c .40 \u202b\u0621\u202c .39 \u202b\u0621\u202c 1</td><td>7. Ev. Conflict T3 b 2.13 0.75 .40 \u202b\u0621\u202c .42 \u202b\u0621\u202c .45 \u202b\u0621\u202c .45 \u202b\u0621\u202c .46 \u202b\u0621\u202c .61 \u202b\u0621\u202c 1</td><td>8. Ev. Conflict T4 b 2.12 0.87 a .25 \u202b\u0621\u202c .19 \u202b\u0621\u202c .42 \u202b\u0621\u202c a .39 \u202b\u0621\u202c .60 \u202b\u0621\u202c 1</td><td>9. Anx/Somat T1 b 1.67 0.65 .33 \u202b\u0621\u202c .18 .20 \u202b\u0621\u202c a .24 \u202b\u0621\u202c .25 \u202b\u0621\u202c .10 a 1</td><td>10. Anx/Somat T2 b 1.73 0.68 .37 \u202b\u0621\u202c .37 \u202b\u0621\u202c .22 \u202b\u0621\u202c .16 .25 \u202b\u0621\u202c .35 \u202b\u0621\u202c .28 \u202b\u0621\u202c .11 .21 \u202b\u0621\u202c 1</td><td>11. Anx/Somat T3 b 1.72 0.61 .34 \u202b\u0621\u202c .35 \u202b\u0621\u202c .32 \u202b\u0621\u202c .32 \u202b\u0621\u202c .33 \u202b\u0621\u202c .33 \u202b\u0621\u202c .38 \u202b\u0621\u202c .22 \u202b\u0621\u202c .34 \u202b\u0621\u202c .54 \u202b\u0621\u202c 1</td><td>12. Anx/Somat T4 b 1.69 0.65 a .21 \u202b\u0621\u202c .17 .24 \u202b\u0621\u202c a .27 \u202b\u0621\u202c .28 \u202b\u0621\u202c .26 \u202b\u0621\u202c a .57 \u202b\u0621\u202c .48 \u202b\u0621\u202c 1</td><td>13. Loneliness T1 c 1.79 0.43 .20 \u202b\u0621\u202c .22 \u202b\u0621\u202c .17 a .04 .20 \u202b\u0621\u202c .23 \u202b\u0621\u202c a .40 \u202b\u0621\u202c .19 .15 a 1</td><td colspan=\"3\">14. Loneliness T2 c 1.89 0.45 .29 \u202b\u0621\u202c .27 \u202b\u0621\u202c .15 \u202b\u0621\u202c .04 \u03ea.09 .23 \u202b\u0621\u202c .12 .01 .21 \u202b\u0621\u202c .44 \u202b\u0621\u202c .20 \u202b\u0621\u202c .25 \u202b\u0621\u202c .55 \u202b\u0621\u202c 2.02 0.52 .25 \u202b\u0621\u202c 15. Loneliness T3 c .16 \u202b\u0621\u202c .21 \u202b\u0621\u202c .01 .11 .19 \u202b\u0621\u202c .19 \u202b\u0621\u202c \u03ea.06 .23 \u202b\u0621\u202c .28 \u202b\u0621\u202c .37 \u202b\u0621\u202c .36 \u202b\u0621\u202c .35 \u202b\u0621\u202c .19 \u202b\u0621\u202c 16. Loneliness T4 c 2.08 0.66 a .13 .05 a .19v .11 .07 a .36 \u202b\u0621\u202c .29 \u202b\u0621\u202c .40 \u202b\u0621\u202c a</td><td>17. Depression T1 c 1.69 0.44 .42 \u202b\u0621\u202c .32 \u202b\u0621\u202c .25 \u202b\u0621\u202c a .09 .13 .31 \u202b\u0621\u202c a .51 \u202b\u0621\u202c .33 \u202b\u0621\u202c .35 \u202b\u0621\u202c a .59 \u202b\u0621\u202c</td><td colspan=\"2\">18. Depression T2 c 1.75 0.43 .39 \u202b\u0621\u202c .38 \u202b\u0621\u202c .26 \u202b\u0621\u202c .09 \u03ea.04 .29 \u202b\u0621\u202c .26 \u202b\u0621\u202c .05 .19 .62 \u202b\u0621\u202c .37 \u202b\u0621\u202c .38 \u202b\u0621\u202c .44 \u202b\u0621\u202c 1.85 0.46 .48 \u202b\u0621\u202c 19. Depression T3 c .40 \u202b\u0621\u202c .41 \u202b\u0621\u202c .26 \u202b\u0621\u202c .29 \u202b\u0621\u202c .30 \u202b\u0621\u202c .37 \u202b\u0621\u202c .09 .27 \u202b\u0621\u202c .39 \u202b\u0621\u202c .62 \u202b\u0621\u202c .50 \u202b\u0621\u202c .20 \u202b\u0621\u202c</td><td>20. Depression T4 c 1.87 0.51 a .17 \u202b\u0621\u202c .25 \u202b\u0621\u202c .22 \u202b\u0621\u202c a .17 \u202b\u0621\u202c .23 \u202b\u0621\u202c .16 a .36 \u202b\u0621\u202c .42 \u202b\u0621\u202c .57 \u202b\u0621\u202c a</td><td>21. Self-esteem T1 c 3.04 0.52 \u03ea.17 \u03ea.17 \u03ea.13 a \u03ea.06 \u03ea.10 \u03ea.11 a \u03ea.40 \u202b\u0621\u202c \u03ea.12 \u03ea.09 a \u03ea.50 \u202b\u0621\u202c \u03ea.22 \u03ea.25 \u202b\u0621\u202c 22. Self-esteem T2 c 2.93 0.47 \u03ea.21 \u202b\u0621\u202c \u03ea.06 .12 \u03ea.26 \u202b\u0621\u202c \u03ea.18 \u202b\u0621\u202c \u03ea.02 \u03ea.07 .35 \u202b\u0621\u202c \u03ea.20 \u202b\u0621\u202c \u03ea.25 \u202b\u0621\u202c \u03ea.22 \u202b\u0621\u202c \u03ea.31 \u202b\u0621\u202c 23. Self-esteem T3 c 2.93 0.47 \u03ea.24 \u202b\u0621\u202c \u03ea.33 \u202b\u0621\u202c \u03ea.08 \u03ea.09 \u03ea.25 \u202b\u0621\u202c \u03ea.30 \u202b\u0621\u202c .01 \u03ea.28 \u202b\u0621\u202c \u03ea.22 \u202b\u0621\u202c \u03ea.36 \u202b\u0621\u202c \u03ea.19 \u202b\u0621\u202c \u03ea.27 \u202b\u0621\u202c \u03ea.17 \u202b\u0621\u202c 24. Self-esteem T4 c 2.92 0.53 a a \u03ea.14 \u03ea.16 a \u03ea.26 \u202b\u0621\u202c \u03ea.24 \u202b\u0621\u202c \u03ea.15 a \u03ea.39 \u202b\u0621\u202c \u03ea.41 \u202b\u0621\u202c \u03ea.47 \u202b\u0621\u202c</td><td>Note. Acc. \u03ed Acculturation; Ev. \u03ed Everyday; Anx/Somat \u03ed Anxiety/Somatization.</td><td>1 to 5 response scale. c 1 to 4 response scale.</td></tr></table>",
+                "type_str": "table",
+                "text": "Bivariate Correlations for Everyday and Acculturation-Based Conflict and Adolescent Adjustment at 4 Time PointsNot applicable (i.e., data do not overlap due to planned missingness."
+            }
+        }
+    }
+}

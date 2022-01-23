@@ -1,0 +1,2790 @@
+{
+    "paper_id": "Viljaranta_2015",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:03:12.762605Z"
+    },
+    "title": "The Different Role of Mothers' and Fathers' Beliefs in the Development of Adolescents' Mathematics and Literacy Task Values",
+    "authors": [
+        {
+            "first": "Jaana",
+            "middle": [],
+            "last": "Viljaranta",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Jyv\u00e4skyl\u00e4",
+                "location": {
+                    "country": "Finland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Rebecca",
+            "middle": [],
+            "last": "Lazarides",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Technische Universit\u00e4t Berlin",
+                "location": {
+                    "country": "Germany"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Kaisa",
+            "middle": [],
+            "last": "Aunola",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Jyv\u00e4skyl\u00e4",
+                "location": {
+                    "country": "Finland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Eija",
+            "middle": [],
+            "last": "R\u00e4ikk\u00f6nen",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Jyv\u00e4skyl\u00e4",
+                "location": {
+                    "country": "Finland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Jari-Erik",
+            "middle": [],
+            "last": "Nurmi",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Jyv\u00e4skyl\u00e4",
+                "location": {
+                    "country": "Finland"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This study examined how interest and importance values concerning mathematics and literacy develop from grade 7 to grade 9 in comprehensive school and to what extent gender, in addition to mothers' and fathers' beliefs about the abilities of individual children, predicts the level of and changes in these values. A total of 206 Finnish students (100 girls, 106 boys) were followed from grade 7 to grade 9, just before an important transition from compulsory comprehensive school to secondary education occurs in the Finnish context. Students' parents participated in the study when the students were in grade 7. The results of multivariate latent change models showed that interest and importance values and their development in one particular subject were associated with one another. Mothers' and fathers' beliefs seemed to play a different role in relation to task values, and this role also varied according to the subject: mothers' ability beliefs predicted the students' level of interest in mathematics and evaluation of the importance of literacy. However, fathers' ability beliefs were found to predict the changes related to interest and importance values in mathematics. The role of gender in students' values was more evident in the case of literacy than in mathematics.",
+    "pdf_parse": {
+        "paper_id": "Viljaranta_2015",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "This study examined how interest and importance values concerning mathematics and literacy develop from grade 7 to grade 9 in comprehensive school and to what extent gender, in addition to mothers' and fathers' beliefs about the abilities of individual children, predicts the level of and changes in these values. A total of 206 Finnish students (100 girls, 106 boys) were followed from grade 7 to grade 9, just before an important transition from compulsory comprehensive school to secondary education occurs in the Finnish context. Students' parents participated in the study when the students were in grade 7. The results of multivariate latent change models showed that interest and importance values and their development in one particular subject were associated with one another. Mothers' and fathers' beliefs seemed to play a different role in relation to task values, and this role also varied according to the subject: mothers' ability beliefs predicted the students' level of interest in mathematics and evaluation of the importance of literacy. However, fathers' ability beliefs were found to predict the changes related to interest and importance values in mathematics. The role of gender in students' values was more evident in the case of literacy than in mathematics.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Subject-specific task values, that is, the interest and importance that students attach to different school subjects, have been found to be important predictors of several academic outcomes, such as educational enrollment decisions (Bong, 2001; Simpkins, Davis-Kean, & Eccles, 2006; Viljaranta, Nurmi, Aunola, & Salmela-Aro, 2009) and career plans (Watt, 2006) . Eccles and colleagues (1983; outline in their parent socialization model that children's task values are partly based on parents' beliefs. However, the few studies carried out on the topic have mainly concerned the role of mothers' beliefs and behaviors (Aunola, Viljaranta, Lehtinen, & Nurmi, 2013; Harackiewicz, Rozek, Hulleman, & Hyde, 2012; Simpkins, Fredricks, & Eccles, 2012) , and less is known about the role of fathers' beliefs (Simpkins, Fredricks, & Eccles, 2015) . The present study aims to fill in this gap in the previous literature by examining the effect of mothers' and fathers' beliefs about individual children's abilities, as well as the role of a child's gender, on the development of adolescents' interest and importance values in mathematics and literacy from grade 7 to grade 9 in comprehensive school in a Finnish school context. Because the majority of previous studies focusing on this topic have been carried out in educational systems where the first important educational transitions take place in a relatively early phase, such as in the United States or Australia, this study also aims to broaden previous knowledge by focusing on a different educational context. In Finland, all students follow a relatively similar curriculum in compulsory schooling until grade 9, and it is only after grade 9 that the first major educational transition to either upper secondary or vocational school occurs. Therefore, this study focuses on the development of task values just before the important transition from compulsory comprehensive school to secondary education takes place.",
+                "cite_spans": [
+                    {
+                        "start": 232,
+                        "end": 244,
+                        "text": "(Bong, 2001;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 245,
+                        "end": 282,
+                        "text": "Simpkins, Davis-Kean, & Eccles, 2006;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 283,
+                        "end": 330,
+                        "text": "Viljaranta, Nurmi, Aunola, & Salmela-Aro, 2009)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 348,
+                        "end": 360,
+                        "text": "(Watt, 2006)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 363,
+                        "end": 391,
+                        "text": "Eccles and colleagues (1983;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 617,
+                        "end": 662,
+                        "text": "(Aunola, Viljaranta, Lehtinen, & Nurmi, 2013;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 663,
+                        "end": 707,
+                        "text": "Harackiewicz, Rozek, Hulleman, & Hyde, 2012;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 708,
+                        "end": 744,
+                        "text": "Simpkins, Fredricks, & Eccles, 2012)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 800,
+                        "end": 837,
+                        "text": "(Simpkins, Fredricks, & Eccles, 2015)",
+                        "ref_id": "BIBREF35"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "In their expectancy-value model of achievement motivation, Eccles and colleagues (2009; 1983; 2000) define three different task values: interest value (or intrinsic value) refers to liking and enjoyment of a particular task; attainment value refers to the personal importance of doing well in a task; and utility value refers to the perception of a task as useful for one's long-range goals. From these components, utility and attainment values have often been combined to form an importance value (Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002; Watt et al., 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 59,
+                        "end": 87,
+                        "text": "Eccles and colleagues (2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 88,
+                        "end": 93,
+                        "text": "1983;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 94,
+                        "end": 99,
+                        "text": "2000)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 498,
+                        "end": 547,
+                        "text": "(Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 548,
+                        "end": 566,
+                        "text": "Watt et al., 2012)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Development of Interest and Importance Values across Domains",
+                "sec_num": null
+            },
+            {
+                "text": "Research has shown that the development of interest and importance values varies across domains (Eccles et al., 1989; Wigfield, Eccles, Mac Iver, Reuman, & Midgley, 1991) . Results concerning overall task values have shown, for example, that the task value attributed to math declines during high-school years, whereas that attributed to language declines during earlier school years and stabilizes during high-school years among American students (Jacobs et al., 2002) . Studies focusing on different aspects of task values have shown somewhat similar results. Frenzel, Goetz, Pekrun, and Watt (2010) found a downward trend in the development of mathematics relating to interest value from grades 5 to 9 among German students. Watt (2004) , in turn, found that among Australian adolescents, interest value in mathematics declined consistently throughout the school years and stabilized only in the senior years of high school, while interest value in literacy also declined during the seventh grade but showed minor recovery after grade 7. In regard to importance value, Eccles and colleagues (1989) found that among a US sample, the mathematics importance value decreased from the beginning of sixth-grade elementary school to the end of seventh-grade junior high school, while the importance value of literacy increased during grade 6 and dropped after the transition to high school (Eccles et al., 1989) . Watt (2004) found that the utility value (which is one aspect of importance value in the present study) attached to mathematics declined through grades 7 to 11, and the utility value attached to literacy at first declined and after grade 7 stabilized. Previous literature has found that gender plays a role in the development of task values. This literature will be reviewed in more detail in a later part of this Introduction.",
+                "cite_spans": [
+                    {
+                        "start": 96,
+                        "end": 117,
+                        "text": "(Eccles et al., 1989;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 118,
+                        "end": 170,
+                        "text": "Wigfield, Eccles, Mac Iver, Reuman, & Midgley, 1991)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 448,
+                        "end": 469,
+                        "text": "(Jacobs et al., 2002)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 562,
+                        "end": 601,
+                        "text": "Frenzel, Goetz, Pekrun, and Watt (2010)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 728,
+                        "end": 739,
+                        "text": "Watt (2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 1072,
+                        "end": 1100,
+                        "text": "Eccles and colleagues (1989)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1386,
+                        "end": 1407,
+                        "text": "(Eccles et al., 1989)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1410,
+                        "end": 1421,
+                        "text": "Watt (2004)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Development of Interest and Importance Values across Domains",
+                "sec_num": null
+            },
+            {
+                "text": "At least two major explanations have been given for the declining trend of task values. First, it has been suggested that during school years students become better at understanding and integrating the evaluative feedback they receive, which might affect their valuation of certain subjects . Another explanation is that school environments change in school transitions in a way that makes evaluation more salient and competition between students more likely, and that, owing to this, some students' assessments of their values become more negative during their adolescent years . One shortcoming of the previous research on the development of task values, however, is that the majority has been carried out among US or Australian samples. As cultural socialization shapes individuals' values (Wigfield, Tonks, & Eccles, 2004) , more research is needed on task value development in different cultural and school contexts. The Finnish school system differs from that of many European countries and the United States because the first major educational transition, that is, transition to upper secondary education, takes place only after grade 9 (at the age of 15 or 16), and there is no tracking before that transition. Therefore, the present study examines the level of and change in students' interest and importance value for math and literacy from grade 7 to grade 9 in Finland.",
+                "cite_spans": [
+                    {
+                        "start": 793,
+                        "end": 826,
+                        "text": "(Wigfield, Tonks, & Eccles, 2004)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Development of Interest and Importance Values across Domains",
+                "sec_num": null
+            },
+            {
+                "text": "Eccles' expectancy-value theory suggests that parents can be seen as an important factor affecting the development of students' task values (Eccles et al., 1983) . In particular, parents' perceptions of their children's abilities play a role in children's values via many mechanisms. For example, parental beliefs may be reflected in parenting behaviors, and they can be communicated to adolescents in different ways, such as expectations (see Jacobs & Eccles, 2000) . Empirical findings have been in line with expectancy-value theory (e.g., Chouinard, Karsenti, & Roy (2007) , showing especially that mothers' beliefs about their children's abilities in mathematics in particular are related to their children's task values during later school years (Eccles & Jacobs, 1986; Wigfield & al., 1997) . However, contradictory findings have also been reported: in the study by Jacobs and Bleeker (2004) neither mothers' nor fathers' beliefs about mathematics ability (Year 2) predicted their children's later interest in mathematics (Year 8). One possible reason for these contradictory findings might be the differences in the design of the studies. It is possible that relationships between parents' beliefs and children's task values are found only when these aspects are measured closely enough to each other.",
+                "cite_spans": [
+                    {
+                        "start": 140,
+                        "end": 161,
+                        "text": "(Eccles et al., 1983)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 444,
+                        "end": 466,
+                        "text": "Jacobs & Eccles, 2000)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 542,
+                        "end": 575,
+                        "text": "Chouinard, Karsenti, & Roy (2007)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 751,
+                        "end": 774,
+                        "text": "(Eccles & Jacobs, 1986;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 775,
+                        "end": 796,
+                        "text": "Wigfield & al., 1997)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 872,
+                        "end": 897,
+                        "text": "Jacobs and Bleeker (2004)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Parents' Ability Beliefs and Students' Interest and Importance Values",
+                "sec_num": null
+            },
+            {
+                "text": "There are, however, two important limitations in these previous studies. The first is that they have mainly focused on mathematics-related beliefs, and less is known about the role of parental beliefs in literacy skills. Moreover, most previous studies have focused on the role of mothers' beliefs only. In the present study, we focus on the influence of mothers' and fathers' mathematics-and literacy-related ability beliefs on the level and development of interest and importance value among Finnish students.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Parents' Ability Beliefs and Students' Interest and Importance Values",
+                "sec_num": null
+            },
+            {
+                "text": "A large number of studies have shown gender differences in both students' task values and parents' ability beliefs. First, several studies have shown that students' gender plays a salient role in their parents' beliefs about their ability in both mathematics (Eccles, Jacobs, & Harold, 1990; Jacobs, 1991; Tiedemann, 2000) and literacy (Eccles et al., 1990; Frome & Eccles, 1998) . For example, Frome and Eccles (1998) found that mothers of daughters held higher ability beliefs regarding their children's literacy skills than mothers of sons -which corresponded with girls' higher observed grades in literacy. In addition, Tiedemann (2000) showed that mothers as well as fathers perceived boys to be more competent at mathematics than girls although there were no gender differences in students' mathematics performance. However, there are also studies where these kinds of effects of children's gender on parents' ability beliefs have not been found in regard to mathematics Jacobs (1991) . For example, Frome and Eccles (1998) did not find that mothers' or fathers' ratings of children's mathematics ability depended on the children's gender. Yee and Eccles (1988) , in turn, demonstrated that fathers but not mothers held lower math achievement standards for their daughters in seventh grade than for their sons. These contradictory findings reveal an evident need for studying the role of gender in relation to both mothers' and fathers' beliefs in several different subject fields.",
+                "cite_spans": [
+                    {
+                        "start": 259,
+                        "end": 291,
+                        "text": "(Eccles, Jacobs, & Harold, 1990;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 292,
+                        "end": 305,
+                        "text": "Jacobs, 1991;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 306,
+                        "end": 322,
+                        "text": "Tiedemann, 2000)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 336,
+                        "end": 357,
+                        "text": "(Eccles et al., 1990;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 358,
+                        "end": 379,
+                        "text": "Frome & Eccles, 1998)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 395,
+                        "end": 418,
+                        "text": "Frome and Eccles (1998)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 624,
+                        "end": 640,
+                        "text": "Tiedemann (2000)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 977,
+                        "end": 990,
+                        "text": "Jacobs (1991)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 1006,
+                        "end": 1029,
+                        "text": "Frome and Eccles (1998)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1146,
+                        "end": 1167,
+                        "text": "Yee and Eccles (1988)",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Role of Children's Gender in Parents' Ability Beliefs and Students' Task Values",
+                "sec_num": null
+            },
+            {
+                "text": "Results concerning gender differences in task values have shown that girls, as compared to boys, report lower mean levels of interest in mathematics at the beginning of secondary school (Frenzel, Goetz, Pekrun, & Watt, 2010; Watt, 2004) but report similar mean levels of mathematics utility value to boys (Fredricks & Eccles, 2002; Watt, 2004) . Concerning literacy, Watt (2004) reported higher levels of literacy interest and utility value for girls than for boys (see Jacobs et al., (2002) . Previous research examining gender differences in the development of values has encountered somewhat mixed results. Most studies have shown that mathematics interest and importance value decline equally for girls and boys in secondary school (Fredricks & Eccles, 2002; Frenzel et al., 2010; Watt, 2004) . For literacy-related value development, Watt (2004) reported a slightly greater decline in girls' interest in literacy compared to boys, while girls' and boys' utility values towards literacy followed similar developmental trajectories. Jacobs et al. (2002) , for their part, did not find significant gender differences in the rate of change in overall task value scores concerning literacy. However, in the study of Jacobs et al. (2002) , task values were measured as an overall task value score, whereas in Watt's study (2004) interest was measured separately from utility value.",
+                "cite_spans": [
+                    {
+                        "start": 186,
+                        "end": 224,
+                        "text": "(Frenzel, Goetz, Pekrun, & Watt, 2010;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 225,
+                        "end": 236,
+                        "text": "Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 305,
+                        "end": 331,
+                        "text": "(Fredricks & Eccles, 2002;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 332,
+                        "end": 343,
+                        "text": "Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 367,
+                        "end": 378,
+                        "text": "Watt (2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 470,
+                        "end": 491,
+                        "text": "Jacobs et al., (2002)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 736,
+                        "end": 762,
+                        "text": "(Fredricks & Eccles, 2002;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 763,
+                        "end": 784,
+                        "text": "Frenzel et al., 2010;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 785,
+                        "end": 796,
+                        "text": "Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 839,
+                        "end": 850,
+                        "text": "Watt (2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 1036,
+                        "end": 1056,
+                        "text": "Jacobs et al. (2002)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1216,
+                        "end": 1236,
+                        "text": "Jacobs et al. (2002)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1321,
+                        "end": 1327,
+                        "text": "(2004)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Role of Children's Gender in Parents' Ability Beliefs and Students' Task Values",
+                "sec_num": null
+            },
+            {
+                "text": "Overall, there is some evidence that both task values and parental beliefs are at least to some extent gendered. Because of this, it has been suggested that gender differences in students' task values are partly due to socializers' gendered beliefs (Eccles & Jacobs, 1986; Wigfield et al., 1997) . Therefore, the present study examines the role of gender in mothers' and fathers' ability beliefs about mathematics and literacy as well as in students' interest and importance value in the same domains.",
+                "cite_spans": [
+                    {
+                        "start": 249,
+                        "end": 272,
+                        "text": "(Eccles & Jacobs, 1986;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 273,
+                        "end": 295,
+                        "text": "Wigfield et al., 1997)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Role of Children's Gender in Parents' Ability Beliefs and Students' Task Values",
+                "sec_num": null
+            },
+            {
+                "text": "There are at least two important aspects of the Finnish context that make Finland an interesting environment for the development of task values. First, as mentioned earlier, the Finnish school system is unlike that of many European countries and the United States in that the transition to secondary education takes place only after grade 9. Finnish children start comprehensive school at the age of seven and continue without tracking until grade 9. Therefore, all students receive relatively similar education until the end of grade 9. The time period that is the subject of the present study is characterized by planning and applying for future education, and previous literature suggests that task values provide an important basis for these future enrollment aspirations and decisions (Viljaranta et al., 2009; Watt et al., 2012) . At the same time, there is a need to perform well because students' achievement is a strong criterion for entrance to further education after grade 9, and students' values have been shown to predict their performance (K\u00f6ller, Trautwein, L\u00fcdtke, & Baumert, 2006) . The second interesting feature of the Finnish educational context is adolescents' achievement level: in Finland, girls outperform boys in literacy, and there are no gender differences in performance in mathematics (OECD, 2013) and in eighth-graders' mathematics test scores (519); in addition, reading test scores (524) were higher than the OECD mean score (494 in mathematics, 496 in reading) in the 2012 study of the International Programme of Student Assessment Study 2012 (PISA). Therefore, adolescents' achievement level is, in general, relatively good, and in the case of mathematics, boys and girls have equal skill. Therefore, the focus of the present study is on the development of task values between grades 7 and 9 in a Finnish context.",
+                "cite_spans": [
+                    {
+                        "start": 790,
+                        "end": 815,
+                        "text": "(Viljaranta et al., 2009;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 816,
+                        "end": 834,
+                        "text": "Watt et al., 2012)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1054,
+                        "end": 1098,
+                        "text": "(K\u00f6ller, Trautwein, L\u00fcdtke, & Baumert, 2006)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Role of Children's Gender in Parents' Ability Beliefs and Students' Task Values",
+                "sec_num": null
+            },
+            {
+                "text": "The present study examined the following research questions: 1) Are there mean level changes in students' interest and importance values relating to math and literacy from grade 7 to grade 9? 2) To what extent are the levels of students' interest and importance value in mathematics and literacy, and the changes in them from grade 7 to grade 9, associated with each other within each domain? 3) To what extent do mothers' and fathers' child-specific ability beliefs in mathematics and literacy predict the levels of and changes in students' interest and importance values in these domains? 4) How is students' gender related to mothers' and fathers' ability beliefs and to the level of and change in students' interest and importance values?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESEARCH QUESTIONS AND HYPOTHESES",
+                "sec_num": null
+            },
+            {
+                "text": "Our hypotheses in response to the research questions were as follows:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESEARCH QUESTIONS AND HYPOTHESES",
+                "sec_num": null
+            },
+            {
+                "text": "1) On the basis of previous empirical studies, we expected that students' level of interest value regarding mathematics would decrease from grade 7 to grade 9 (Fredricks & Eccles, 2002; Watt, 2004) . In the case of literacy, we expected that the level of interest would be stabilized (Jacobs et al., 2002; Watt, 2004) . We further expected that the importance value for mathematics would decline from grade 7 to grade 9 (Fredricks & Eccles, 2002; Watt, 2004) , and that for literacy it would show a slight decrease or stability (Watt, 2004) . However, the previous studies have been carried out mainly in the USA and in Australia. The educational systems in those countries differ from the Finnish system, which might account for different results being found in varying educational contexts. 2) We expected that levels of students' interest and importance value would be moderately to highly intercorrelated in grade 7 and grade 9 (Eccles & Wigfield, 1995; Watt et al., 2012) . Furthermore, we expected that changes in interest and importance value would be positively associated, i.e., increases in interest values would be associated with increases in importance values, and decreases in interest values would be associated with decreases in importance values. 3) We expected that both mothers' and fathers' child-specific ability beliefs in mathematics and literacy would positively predict the level of and change in interest and importance value within each domain (Wigfield et al., (1997) when the level of students' achievement is controlled for. 4) We expected that, in the case of mathematics, parents' beliefs about their children's abilities would be similar for boys and girls (Andre, Whigham, Hendrickson, & Chambers, 1999; Frome & Eccles, 1998) but that, in the case of literacy, their beliefs would be higher regarding girls (Frome & Eccles, 1998) . In addition, we expected boys to show a higher level of interest in mathematics than girls (Frenzel et al., 2010; Watt, 2004) but to ascribe to it an equal level of importance (Fredricks & Eccles, 2002; Watt, 2004) . In the case of literacy, we expected girls to show higher interest and ascribe more importance than boys (Jacobs et al., 2002; Watt, 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 159,
+                        "end": 185,
+                        "text": "(Fredricks & Eccles, 2002;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 186,
+                        "end": 197,
+                        "text": "Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 284,
+                        "end": 305,
+                        "text": "(Jacobs et al., 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 306,
+                        "end": 317,
+                        "text": "Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 420,
+                        "end": 446,
+                        "text": "(Fredricks & Eccles, 2002;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 447,
+                        "end": 458,
+                        "text": "Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 528,
+                        "end": 540,
+                        "text": "(Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 932,
+                        "end": 957,
+                        "text": "(Eccles & Wigfield, 1995;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 958,
+                        "end": 976,
+                        "text": "Watt et al., 2012)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1471,
+                        "end": 1495,
+                        "text": "(Wigfield et al., (1997)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1690,
+                        "end": 1737,
+                        "text": "(Andre, Whigham, Hendrickson, & Chambers, 1999;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1738,
+                        "end": 1759,
+                        "text": "Frome & Eccles, 1998)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1841,
+                        "end": 1863,
+                        "text": "(Frome & Eccles, 1998)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1957,
+                        "end": 1979,
+                        "text": "(Frenzel et al., 2010;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1980,
+                        "end": 1991,
+                        "text": "Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 2042,
+                        "end": 2068,
+                        "text": "(Fredricks & Eccles, 2002;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 2069,
+                        "end": 2080,
+                        "text": "Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 2188,
+                        "end": 2209,
+                        "text": "(Jacobs et al., 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2210,
+                        "end": 2221,
+                        "text": "Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESEARCH QUESTIONS AND HYPOTHESES",
+                "sec_num": null
+            },
+            {
+                "text": "Data from this study stemmed from the Jyv\u00e4skyl\u00e4 Entrance into Primary School (JEPS) study (Nurmi & Aunola, 1999 -2009 The study aims to examine students' academic and motivational development from the beginning of their school career until the end of comprehensive school. Data was assessed from two medium-sized districts in central Finland, including both urban and semi-urban areas. Students were followed through their kindergarten and comprehensive school years. The present study focuses on grades 7 and 9. Students were given questionnaires during the spring term of each grade. The sample consisted of 206 students (100 girls, 106 boys), who participated at both measurement points. Of this total, 190 students came from 16 different classrooms in four different schools. Sixteen students who had been part of the original larger study but moved away from the study district before grade 7 were also included in the sample. These students all came from different locations around Finland. At both measurement points, students were asked to fill out a questionnaire on their task values concerning mathematics and literacy as school subjects. In grade 7, they were also asked to report their previous grades in these subjects. In the spring term of grade 7, students' parents (N of mothers = 197, N of fathers = 171) were asked to fill out a questionnaire regarding their beliefs about their children's skills in mathematics and literacy.",
+                "cite_spans": [
+                    {
+                        "start": 90,
+                        "end": 111,
+                        "text": "(Nurmi & Aunola, 1999",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 112,
+                        "end": 117,
+                        "text": "-2009",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "METHOD Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Interest value. Students' interest in mathematics and literacy in grades 7 and 9 was assessed using a scale based on Eccles et al. (1983) . Students were asked to rate two questions, separately, for math and literacy (How much do you like math / literacy? How much do you like doing math / literacy?) according to a 5-point Likert scale (1 = \"not at all\", 5 = \"very much\"). The Cronbach alpha reliabilities for interest value assigned to mathematics at two measurement points were .82 and .91 respectively, and for literacy-related interest value they were .76 and .79 respectively. To test measurement invariance across time, latent factor models assuming equal factor loadings, intercepts, and residual variances of the two items across two time points were compared with factor models without these constraints. The results showed measurement invariance across time for both interest assigned to mathematics and interest assigned to literacy.",
+                "cite_spans": [
+                    {
+                        "start": 117,
+                        "end": 137,
+                        "text": "Eccles et al. (1983)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Importance value. The importance of mathematics and literacy as perceived by students in grades 7 and 9 was determined from an attainment and utility value questionnaire based on Eccles et al. (1983) . Students were asked to rate four questions, separately, for math and literacy (How useful do you think math / literacy is for your future plans? How useful and necessary is math / literacy in your daily life? How important is it for you to get good grades in math / literacy? How important is it for you to succeed in math / literacy?) according to a 5-point Likert scale (1 = \"not at all\", 5 = \"very much\"). The Cronbach alpha reliabilities for the importance assigned to mathematics at the two measurement points were .82 and .82 respectively, and for literacy-related importance they were .83 and .81 respectively. To test measurement invariance across time, latent factor models assuming equal factor loadings, intercepts, and residual variances of the four items across two time points were compared with factor models without these constraints. The results showed measurement invariance across time for both importance assigned to mathematics and importance assigned to literacy.",
+                "cite_spans": [
+                    {
+                        "start": 179,
+                        "end": 199,
+                        "text": "Eccles et al. (1983)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Mothers' and fathers' beliefs. Mothers and fathers were asked about the beliefs they have concerning their children's success at school by means of questionnaires in grade 7 (Aunola, Nurmi, Lerkkanen, & Rasku-Puttonen, 2003) . The scale consisted of a set of items modified from the questionnaires used by Parsons, Adler, and Kaczala (1982) . Two of these items measured expectations concerning the student's mathematics abilities (How well do you think your child is doing in mathematics? How well do you think your child will do in mathematics later in school?), and two items measured beliefs concerning the student's literacy abilities (How well do you think your child is doing in literacy? How well do you think your child will do in literacy later in school?). Both parents, separately, answered the questions using a 5-point Likert scale (1 = \"poorly\", 5 = \"very well\"). Cronbach alphas were as follows: for mothers\u00b4 beliefs, .93 in math and .93 in literacy; and for fathers\u00b4 beliefs, .93 in math and .91 in literacy.",
+                "cite_spans": [
+                    {
+                        "start": 174,
+                        "end": 224,
+                        "text": "(Aunola, Nurmi, Lerkkanen, & Rasku-Puttonen, 2003)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 306,
+                        "end": 340,
+                        "text": "Parsons, Adler, and Kaczala (1982)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Achievement. In grade 7, students were asked to report their grades in mathematics and literacy from the preceding term (autumn). Self-reported gradepoint average has been shown to correlate .96 with actual grade-point average among a sample of Finnish adolescents (Holopainen & Savolainen, 2005) .",
+                "cite_spans": [
+                    {
+                        "start": 265,
+                        "end": 296,
+                        "text": "(Holopainen & Savolainen, 2005)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "A multivariate latent change analysis was used to examine the relationships between parents' ability beliefs and the level of and the change in students' interest and importance value in mathematics and literacy. All analyses were performed using the Mplus statistical package version 7.0 (Muth\u00e9n & Muth\u00e9n, 1998 -2010 . The model parameters were estimated using the maximum likelihood estimator with robust standard errors and chi-square (MLR), which is a robust method of estimating the parameters in the case of non-normal distribution. The fullinformation maximum likelihood procedure (FIML) was used to estimate missing data. Standard errors were corrected using the TYPE = COMPLEX function of Mplus, which takes the nested structure of the data (i.e., students nested in classrooms) into account (Muth\u00e9n & Muth\u00e9n, 1998 -2010 . The analyses were carried out using the following steps. First, a univariate latent change model was estimated for the interest and importance values separately within each domain (mathematics and literacy) to analyze changes in these values from grade 7 to grade 9. Second, a multivariate latent change model was estimated for each domain, including levels of and changes in both interest and importance values. Third, students' gender and achievement and mothers' and fathers' ability beliefs were included in the model as predictors of the levels of and changes in students' interest and importance values. Students' gender was considered as a predictor of achievement, mothers' and fathers' ability beliefs, as well as of level of and changes in students' interest and importance values. In the first step, all paths were included in the model. In further steps, all non-significant paths were excluded sequentially from the model. Figure 1 shows the final model for literacy, including only significant paths. Figure 2 shows the final model for mathematics.",
+                "cite_spans": [
+                    {
+                        "start": 289,
+                        "end": 311,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 1998",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 312,
+                        "end": 317,
+                        "text": "-2010",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 801,
+                        "end": 823,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 1998",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 824,
+                        "end": 829,
+                        "text": "-2010",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1768,
+                        "end": 1776,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1847,
+                        "end": 1855,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analysis Strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Means and standard deviations of achievement, parents' ability beliefs, and students' interest and importance values in grade 7 and grade 9, as well as intercorrelations among the variables, are reported in Table 1 (mathematics) and  Table 2 (literacy). ",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 207,
+                        "end": 241,
+                        "text": "Table 1 (mathematics) and  Table 2",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analysis Strategy",
+                "sec_num": null
+            },
+            {
+                "text": "The results showed that the mean of the change in mathematics interest was not statistically significant (M = 0.10, SE = .09, p = .28), indicating that, at the mean level, no change occurred in interest value over time. However, the results indicated that the variance of the level (estimate = 1.02, SE = .11; p < .001) and change (estimate = 1.05, SE = .13, p < .001) of interest value were both statistically significant, indicating that there were individual variations among students in both the initial level of their math-related interest and the change in interest from grade 7 and 9.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mathematics",
+                "sec_num": null
+            },
+            {
+                "text": "The results showed further that the mean of the change in importance value was negative and statistically significant (M = -0.11, SE = .05, p < .05), indicating that, at the mean level, the importance students attached to mathematics decreased from grade 7 to grade 9. The results further showed significant variance in the level (estimate = 0.54, SE = .06, p < .001) and change (estimate = 0.65, SE = .09, p < .001) of importance value, indicating that students differed in both the initial level of their math-related importance and in the change of importance over time.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mathematics",
+                "sec_num": null
+            },
+            {
+                "text": "Next, a multivariate latent change model was constructed, including the level and change components of both the interest and the importance value (the fit indices for the final model: \u03c7 2 (14) = 11.76, p = .63; CFI = 1.00; TLI = 1.01; RMSEA = .00; SRMR = .05). The results (see Figure 1) showed a positive and statistically significant relationship between the levels of mathematics interest and importance values: the higher the level of interest, the higher the level of importance. Furthermore, there was a positive and significant relationship between the changes in interest and importance value: the greater the increase in interest, the greater the increase in importance; the greater the decrease in interest, the greater the decrease in importance. Next, gender, previous level of achievement, and parental beliefs were added to the model as predictors. The results showed that mothers' beliefs concerning their children's ability in mathematics in grade 7 positively predicted the students' level of interest value in mathematics at grade 7: the stronger the mothers' beliefs, the higher the students' interest value in math in grade 7. Prior mathematics achievement, in turn, predicted students' level of importance value in mathematics in grade 7: the higher the mathematics achievement, the higher the students' importance value in math in grade 7. Fathers' child-specific ability beliefs in grade 7 did not predict the level of mathematics interest and importance values. However, fathers' ability beliefs positively predicted the change in both students' mathematics interest and importance values: the stronger the father's child-specific ability beliefs in mathematics, the less students' mathematics interest and importance values decreased across school years. In addition, prior mathematics achievement positively predicted students' change in interest value: the higher the mathematics achievement, the less decrease in interest value occurred. Finally, gender did not predict mothers' or fathers' child-specific ability beliefs, but it had a negative effect on achievement and a positive effect on the change in importance values: boys showed a lower level of achievement in mathematics but the importance value attached to mathematics, however, decreased less among boys than among girls from grade 7 to grade 9. ",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 278,
+                        "end": 287,
+                        "text": "Figure 1)",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Mathematics",
+                "sec_num": null
+            },
+            {
+                "text": "The results of the univariate latent change models for literacy showed, first, that the mean of the change of the literacy interest value was not statistically significant (M = -0.10, SE = 0.13, p = .45), indicating that -as for mathematics -at the mean level, no change occurred in literacy interest value over time. However, the variance of the level (estimate = 0.93, SE = 0.07, p < .001) and change (estimate = 1.13, SE = 0.16, p < .001) components of literacy interest value was statistically significant, indicating that -as for mathematics -there were individual variations in both the initial level of literacy value and the change of interest value among students from grade 7 and 9.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Literacy",
+                "sec_num": null
+            },
+            {
+                "text": "As regards importance value, the mean of the change of the literacy importance value was negative and not statistically significant (M = -0.04, SE = 0.09, p = .67), indicating that, at the mean level, the importance students attached to literacy did not change from grade 7 to grade 9. The results further showed that there was statistically significant variance in the level (estimate = 0.61, SE = 0.07, p < .001) and change (estimate = 0.58, SE = 0.09, p < 0.001) of the literacy importance value, indicating that individuals differed in both the initial level of their literacy importance value and the change of importance value over time.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Literacy",
+                "sec_num": null
+            },
+            {
+                "text": "The multivariate latent change model for literacy (the fit indices for the final model: \u03c7 2 (11) = 9.22, p = .60; CFI = 1.00; TLI = 1.01; RMSEA = .00; SRMR = .04) showed that -as for mathematics -the relationship between the level of interest value and the level of importance value, as well as between the change of interest and the change of importance, was positive and statistically significant in literacy (see Figure 2) .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 416,
+                        "end": 425,
+                        "text": "Figure 2)",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Literacy",
+                "sec_num": null
+            },
+            {
+                "text": "The results showed further that mothers' child-specific ability beliefs regarding literacy in grade 7 did not significantly predict the level of students' interest value. Mothers' beliefs did, however, positively predict students' level of importance value in grade 7: the stronger the mothers' child-specific ability beliefs, the higher the students' importance values in literacy. Regarding the changes in interest or importance values, mothers' beliefs did not have any effect. Fathers' child-specific ability beliefs in literacy, in turn, did not predict either students' level or change of interest or importance value in literacy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Literacy",
+                "sec_num": null
+            },
+            {
+                "text": "Students' prior achievement in literacy positively predicted the level of both their literacy interest and their importance values: the higher the student's grade in literacy, the higher the level of interest value and importance value in literacy in grade 7.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Literacy",
+                "sec_num": null
+            },
+            {
+                "text": "Student's gender played a salient role in students' achievement, parents' beliefs, and students' interest and importance values in the literacy model. Boys reported lower achievement in literacy, and mothers' and fathers' beliefs concerning boys' abilities in literacy were correspondingly lower than their ability beliefs for girls. Furthermore, gender predicted the level of interest value (but not importance value) in literacy as well as the changes in both interest and importance values from grade 7 to grade 9, indicating that boys showed lower interest value regarding literacy as well as a more negative trend in the development of both interest and importance values than girls. ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Literacy",
+                "sec_num": null
+            },
+            {
+                "text": "The present study aimed to investigate the development of Finnish students' interest and importance values in mathematics and literacy and the effects of gender and mothers' and fathers' child-specific ability beliefs on these values, from grade 7 to grade 9 in comprehensive school, just before an important transition occurs from compulsory comprehensive school to secondary education. The results showed, first, that at the mean level, the importance attached to mathematics decreased, but no change occurred in importance in literacy or interest values . Second, the interest and importance values and their development in one particular subject were associated with each other. Mothers' and fathers' beliefs seemed to play a different role in relation to task values, and this role also varied according to the subject. In line with our expectations, only mothers' ability beliefs predicted students' level of interest in mathematics and the level of importance of literacy. However, fathers' ability beliefs were found to predict the changes relating to interest and importance values in mathematics. The role of gender in students' values was more evident in the case of literacy than in mathematics.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Our first research question was what kind of changes are there at the mean level from grade 7 to grade 9 in students' interest and importance values in mathematics and literacy. Our results showed that, first, at the mean level, no significant change occurred in the interest value attached to either mathematics or literacy. In the case of reading, our results are in line with our hypotheses and some previous findings showing that interest value regarding literacy is stable during early adolescence. The result for mathematics, however, contradicted our expectations (Hypothesis 1) and the results of prior research, which demonstrated a decline throughout high school in students' interest in mathematics (Fredricks & Eccles, 2002; Frenzel et al., 2010) . One reason for this contradictory finding might be the distinct characteristics of the Finnish school system: Finnish children remain in comprehensive school from grade 1 until grade 9. Only after grade 9 does a transition to secondary education (either upper secondary school or vocational school) occur, whereas in the US and Australia the transition from elementary school to junior high school occurs after either fifth or sixth grade. Such a change in the learning environment is often seen as the precursor of a strong decline in students' values, as it often does not meet the needs of adolescent students Eccles & Roeser, 2009) . In Finland, this transition happens later in students' school career, and this may be a reason for not finding a decline in interest value in mathematics and literacy in this study.",
+                "cite_spans": [
+                    {
+                        "start": 710,
+                        "end": 736,
+                        "text": "(Fredricks & Eccles, 2002;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 737,
+                        "end": 758,
+                        "text": "Frenzel et al., 2010)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1374,
+                        "end": 1396,
+                        "text": "Eccles & Roeser, 2009)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Interest and Importance Value Development",
+                "sec_num": null
+            },
+            {
+                "text": "The results concerning the importance value attached to mathematics and literacy, in turn, showed a statistically significant negative change over time in mathematics but no change in literacy. These results are in line with previous findings (Fredricks & Eccles, 2002; Watt, 2004) . It is possible that during this phase of schooling Finnish adolescents are starting to plan their future education and evaluating the skills that are needed in their planned educational path. It might be that some students believe that they do not need mathematics in their future education, and therefore the importance value attached to mathematics declines. It is possible that the nature of literacy as a school subject is seen as different from the nature of mathematics: literacy skills might be viewed as more general skills that are needed in a broader set of educational fields, which may affect students' evaluation of the importance of literacy and make the importance value of literacy more stable than the importance value of mathematics.",
+                "cite_spans": [
+                    {
+                        "start": 243,
+                        "end": 269,
+                        "text": "(Fredricks & Eccles, 2002;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 270,
+                        "end": 281,
+                        "text": "Watt, 2004)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Interest and Importance Value Development",
+                "sec_num": null
+            },
+            {
+                "text": "The second research question examined the extent to which the levels of students' interest and importance value in mathematics and literacy, and their changes from grade 7 to grade 9, are associated with one another within each domain. The results showed, as we expected (Hypothesis 2), that the higher the level of interest value in a certain subject in grade 7, the higher the corresponding importance value the students attached to that same subject at the same time point. Furthermore, the more the interest decreased over time, the more the importance value decreased in the corresponding subject as well. These results are not surprising.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Interest and Importance Value Development",
+                "sec_num": null
+            },
+            {
+                "text": "Based on Eccles' model (1983; see also Wigfield & Eccles, 2000) , during middleschool years these different components of task values start to differentiate from each other, but they remain closely related to each other during later school years.",
+                "cite_spans": [
+                    {
+                        "start": 9,
+                        "end": 29,
+                        "text": "Eccles' model (1983;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 30,
+                        "end": 63,
+                        "text": "see also Wigfield & Eccles, 2000)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Interest and Importance Value Development",
+                "sec_num": null
+            },
+            {
+                "text": "In line with our expectations (Hypothesis 3) and some previous findings (Chouinard et al., 2007; Eccles & Jacobs, 1986) , the results of this study showed that parents' beliefs about their abilities contributed positively to their children's level of and change in interest and importance values, although mothers' and fathers' beliefs seemed to play a different role. The results showed, first, that mothers' beliefs about their children's abilities positively predicted the level of the students' interest value in mathematics and the level of importance of literacy in grade 7. Mothers' beliefs did not, however, predict changes in either value in either subject. Second, in line with previous results (Parsons et al., 1982) , fathers' ability beliefs did not play a role in students' levels of importance or interest values, but they did predict the changes in mathematics-related interest and importance values. The findings that mothers' beliefs play a role in the level of values and fathers' beliefs are important to the development of values is interesting. One possible explanation is that mothers are already involved with their children's schooling during the early school years and, therefore, have an effect on the level of values in grade 7. It is possible that fathers become more involved between grades 7 and 9 since this is an important time for students' planning of their future educational career. It might be that during this time fathers give more support to their children in schooling and future planning. It is also possible that fathers' beliefs could act as a protective factor against decreases in values: the stronger the fathers' beliefs concerning their children's mathematical abilities, the less decrease in interest and importance values occurred from grade 7 to grade 9.",
+                "cite_spans": [
+                    {
+                        "start": 72,
+                        "end": 96,
+                        "text": "(Chouinard et al., 2007;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 97,
+                        "end": 119,
+                        "text": "Eccles & Jacobs, 1986)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 705,
+                        "end": 727,
+                        "text": "(Parsons et al., 1982)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Role of Mothers' and Fathers' Ability Beliefs in Students' Interest and Importance Value",
+                "sec_num": null
+            },
+            {
+                "text": "Another interesting finding from the present study is the difference between mathematics and literacy: in mathematics, mothers' beliefs predicted the level of interest in mathematics, and fathers' beliefs predicted the development of both interest and importance values. In literacy, mothers' beliefs positively predicted the level of importance value, but no other effects of parents' beliefs on students' values were found. It is possible that mathematics is seen as a more concrete and specific subject area, and therefore it is easier for parents to communicate their beliefs about children's abilities to their children in math than in literacy and, therefore, to affect the students' values. Another possibility is that literacy is, like English in English-speaking countries, a relatively highly gender-stereotyped subject (Forgasz & Leder, 1996) , seen as a subject for females rather than males. These gender effects might be so strong that it is difficult to find other affective factors influencing values. Our results actually did show strong gender effects on literacy values.",
+                "cite_spans": [
+                    {
+                        "start": 830,
+                        "end": 853,
+                        "text": "(Forgasz & Leder, 1996)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Role of Mothers' and Fathers' Ability Beliefs in Students' Interest and Importance Value",
+                "sec_num": null
+            },
+            {
+                "text": "The results of the present study showed, in general, that the role of gender was very different in mathematics and literacy (Hypothesis 4). In mathematics, boys reported a lower level of achievement, which is in line with the results of the 2012 PISA, which demonstrated that Finland is one of the few countries in which girls outperform boys in mathematics although the difference is not great: the average score for girls was 520 and for boys 517 (OECD, 2013). However, previous findings have also shown that, when measured with grades, instead of performance tests, as was done in the present study, girls typically outperform boys in mathematics (for a meta-analysis, see Voyer & Voyer, 2014) . The results of the present study also revealed that students' gender was not significantly related to the level of and change in interest in mathematics for students in grades 7 to 9 in this study or to the level of importance they attributed to it, but a more positive trend in the development of importance value was found among boys than in girls. This might indicate that during this time period, before the decision to continue in academic or vocational secondary education, students start to think about the demands of their future educational and occupational career. Since there is evidence for gendered participation rates in the workforce in some European countries (European Commission, 2009 , it is possible that, in the Finnish context, this is the time when these kinds of gendered attitudes relating to the importance of mathematics begin to form. It is important to note that during this period boys start to see mathematics as more important than girls do, because these attitudes might affect students' long-term educational and occupational plans.",
+                "cite_spans": [
+                    {
+                        "start": 676,
+                        "end": 696,
+                        "text": "Voyer & Voyer, 2014)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1375,
+                        "end": 1401,
+                        "text": "(European Commission, 2009",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Role of Gender",
+                "sec_num": null
+            },
+            {
+                "text": "No gender differences were found in parents' beliefs about ability in mathematics in this study. There are also some previous studies that did not find effects of children's gender on parents' ability beliefs in mathematics (Andre et al., 1999; Frome & Eccles, 1998) . A possible explanation for the missing gender effect in this study may lie in other factors that were not included in this study: Jacobs (1991) , for example, showed that the role of gender in mothers' ability beliefs in mathematics varied according to the level of their gender stereotypes, with strong stereotypes leading to gendered ability beliefs. Yee and Eccles (1988) demonstrated that fathers had lower math achievement standards for their daughters than for their sons, but only for students with average math ability.",
+                "cite_spans": [
+                    {
+                        "start": 224,
+                        "end": 244,
+                        "text": "(Andre et al., 1999;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 245,
+                        "end": 266,
+                        "text": "Frome & Eccles, 1998)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 399,
+                        "end": 412,
+                        "text": "Jacobs (1991)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 622,
+                        "end": 643,
+                        "text": "Yee and Eccles (1988)",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Role of Gender",
+                "sec_num": null
+            },
+            {
+                "text": "The overall role of gender was more evident in the case of literacy. The results indicated that boys showed a lower level of interest value in literacy, and they also showed a more negative trend in the development of interest and importance value. These results are in line with many earlier studies suggesting that the values placed on languages are higher among girls than boys Jacobs et al., 2002; Viljaranta et al., 2009; Wigfield et al., 1997) . In addition, boys reported a lower level of achievement than girls, and mothers' and fathers' beliefs about their children's abilities in literacy were lower for boys than for girls, indicating that mothers and fathers accurately estimated existing gender differences in boys' and girls' achievement levels in literacy.",
+                "cite_spans": [
+                    {
+                        "start": 381,
+                        "end": 401,
+                        "text": "Jacobs et al., 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 402,
+                        "end": 426,
+                        "text": "Viljaranta et al., 2009;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 427,
+                        "end": 449,
+                        "text": "Wigfield et al., 1997)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Role of Gender",
+                "sec_num": null
+            },
+            {
+                "text": "The present study has several strengths, such as the analyses of the effects of both mothers' and fathers' beliefs about ability on students' interest and importance value as separate predictors within the same model, as well as the examination of parental effects on students' mean levels and development of values in different domains. Moreover, the study was conducted in the context of the Finnish culture. However, there are some limitations that need to be discussed. First, the study tested only one direction of effects. It is possible that students' values also have an impact on their parents' beliefs (Eccles, Freedman-Doan, Frome, Jacobs, & Yoon, 2000; Yoon et al., 1993) . It is also possible that parents' beliefs explain gender differences in values, which was not tested in the present study. Second, we included only parents' beliefs in this model; parental activities with their children (Jacobs & Bleeker, 2004 ) may be more influential on students' interest or task value in mathematics than parents' expectations of ability. For example, it is possible that concrete activities, such as helping with school tasks or supporting a math-or literacy-related hobby has more impact on adolescents' task values than parents' beliefs, which may not be communicated very clearly to adolescents. Finally, in the present study, we examined the development of task values over a period of two years only. In order to better understand the developmental dynamics of values and the role of parental beliefs, it is important to broaden the time span in future studies.",
+                "cite_spans": [
+                    {
+                        "start": 612,
+                        "end": 664,
+                        "text": "(Eccles, Freedman-Doan, Frome, Jacobs, & Yoon, 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 665,
+                        "end": 683,
+                        "text": "Yoon et al., 1993)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 906,
+                        "end": 929,
+                        "text": "(Jacobs & Bleeker, 2004",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Analyses were based on survey data of the Jyv\u00e4skyl\u00e4 Entrance into Primary School (JEPS) study (Nurmi & Aunola, 1999 -2009 and funded by the Academy of Finland under grant number 63099 and by personal funding from the Academy of Finland to Jaana Viljaranta (grant number 265817).",
+                "cite_spans": [
+                    {
+                        "start": 116,
+                        "end": 121,
+                        "text": "-2009",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ACKNOWLEDGMENTS",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Competency beliefs, positive affect, and gender stereotypes of elementary students and their parents about science versus other school subjects",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Andre",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Whigham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hendrickson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Chambers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Research in Science Teaching",
+                "volume": "36",
+                "issue": "6",
+                "pages": "719--747",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Andre, T., Whigham, M., Hendrickson, A., & Chambers, S. (1999). Competency beliefs, positive affect, and gender stereotypes of elementary students and their parents about science versus other school subjects. Journal of Research in Science Teaching, 36(6), 719-747.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The roles of achievement-related behaviours and parental beliefs in children's mathematical performance",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Aunola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-E",
+                        "middle": [],
+                        "last": "Nurmi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.-K",
+                        "middle": [],
+                        "last": "Lerkkanen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Rasku-Puttonen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Educational Psychology",
+                "volume": "23",
+                "issue": "4",
+                "pages": "403--421",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Aunola, K., Nurmi, J.-E., Lerkkanen, M.-K., & Rasku-Puttonen, H. (2003). The roles of achievement-related behaviours and parental beliefs in children's mathematical performance. Educational Psychology, 23(4), 403-421.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "The role of maternal support of competence, autonomy and relatedness in children's interests and mastery orientation",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Aunola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Viljaranta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Lehtinen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-E",
+                        "middle": [],
+                        "last": "Nurmi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Learning and Individual Differences",
+                "volume": "25",
+                "issue": "",
+                "pages": "171--177",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Aunola, K., Viljaranta, J., Lehtinen, E., & Nurmi, J.-E. (2013). The role of maternal support of competence, autonomy and relatedness in children's interests and mastery orientation. Learning and Individual Differences, 25, 171-177.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Role of self-efficacy and task-value in predicting college students' course performance and future enrollment intentions",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "26",
+                "issue": "4",
+                "pages": "553--570",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bong, M. (2001). Role of self-efficacy and task-value in predicting college students' course performance and future enrollment intentions. Contemporary Educational Psychology, 26(4), 553-570.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Relations among competence beliefs, utility value, achievement goals, and effort in mathematics",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Chouinard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Karsenti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Roy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "77",
+                "issue": "3",
+                "pages": "501--517",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chouinard, R., Karsenti, T., & Roy, N. (2007). Relations among competence beliefs, utility value, achievement goals, and effort in mathematics. British Journal of Educational Psychology, 77(3), 501-517.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Who am I and what am I going to do with my life? Personal and collective identities as motivators of action",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Educational Psychologist",
+                "volume": "44",
+                "issue": "",
+                "pages": "78--89",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S. (2009). Who am I and what am I going to do with my life? Personal and collective identities as motivators of action. Educational Psychologist, 44, 78- 89.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Expectancies, values and academic behaviors",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Adler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Futterman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Goff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kaczala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Meece",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Achievement and achievement motives: Psychological and sociological approaches",
+                "volume": "",
+                "issue": "",
+                "pages": "75--146",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Adler, T. F., Futterman, R., Goff, S. B., Kaczala, C. M., Meece, J., & et al. (1983). Expectancies, values and academic behaviors. In J. T. Spence (Ed.), Achievement and achievement motives: Psychological and sociological approaches (pp. 75-146). San Francisco, CA: Freeman.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Gender-role socialization in the family: A longitudinal approach",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "333--360",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gender-role socialization in the family: A longitudinal approach. In T. Eckes & H. M. Trautner (Eds.), The developmental social psychology of gender (pp. 333-360).",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Parent-school involvement during the early adolescent years. The Teachers College Record",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harold",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "94",
+                "issue": "",
+                "pages": "568--587",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Harold, R. D. (1993). Parent-school involvement during the early adolescent years. The Teachers College Record, 94(3), 568-587.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Social forces shape math attitudes and performance",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Signs",
+                "volume": "11",
+                "issue": "2",
+                "pages": "367--380",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Jacobs, J. E. (1986). Social forces shape math attitudes and performance. Signs, 11(2), 367-380.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Gender role stereotypes, expectancy effects, and parents' socialization of gender differences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harold",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Social Issues",
+                "volume": "46",
+                "issue": "2",
+                "pages": "183--201",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Jacobs, J. E., & Harold, R. D. (1990). Gender role stereotypes, expectancy effects, and parents' socialization of gender differences. Journal of Social Issues, 46(2), 183-201.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Development during adolescence. The impact of stageenvironment fit on young adolescents' experiences in schools and in families",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Buchanan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Reuman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Flanagan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Mac Iver",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "American Psychologist",
+                "volume": "48",
+                "issue": "2",
+                "pages": "90--101",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Midgley, C., Wigfield, A., Buchanan, C. M., Reuman, D., Flanagan, C., & Mac Iver, D. (1993). Development during adolescence. The impact of stage- environment fit on young adolescents' experiences in schools and in families. American Psychologist, 48(2), 90-101.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Schools, academic motivation, and stage-environment fit",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Roeser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Handbook of adolescent psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "404--434",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Roeser, R. W. (2009). Schools, academic motivation, and stage-environment fit. In R. Lerner & L. Steinberg (Eds.), Handbook of adolescent psychology (pp. 404-434). New York: Wiley.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "In the mind of the actor: The structure of adolescents' achievement task values and expectancy-related beliefs",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "21",
+                "issue": "3",
+                "pages": "215--225",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Wigfield, A. (1995). In the mind of the actor: The structure of adolescents' achievement task values and expectancy-related beliefs. Personality and Social Psychology Bulletin, 21(3), 215-225.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Self-concepts, domain values, and self-esteem: Relations and changes at early adolescence",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Flanagan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Miller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Reuman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Yee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of personality",
+                "volume": "57",
+                "issue": "2",
+                "pages": "283--310",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Wigfield, A., Flanagan, C. A., Miller, C., Reuman, D. A., & Yee, D. (1989). Self-concepts, domain values, and self-esteem: Relations and changes at early adolescence. Journal of personality, 57(2), 283-310.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Statistics and indicators on gender equality in science",
+                "authors": [],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "European Commission. (2009). She Figures 2009. Statistics and indicators on gender equality in science. Retrieved July 17, 2014, from http://ec.europa.eu/research/science- society/document_library/pdf_06/she_figures_2009_en.pdf.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "She Figures 2012. Gender in Research and Innovation",
+                "authors": [],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "European Commission. (2012). She Figures 2012. Gender in Research and Innovation. Retrieved July 17, 2014, from",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Mathematics and English: Stereotyped Domains? Focus on Learning Problems in Mathematics",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Forgasz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Leder",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "18",
+                "issue": "",
+                "pages": "129--137",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Forgasz, H. J., & Leder, G. C. (1996). Mathematics and English: Stereotyped Domains? Focus on Learning Problems in Mathematics, 18, 129-137.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Children's competence and value beliefs from childhood through adolescence: growth trajectories in two male-sex-typed domains",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Fredricks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Developmental Psychology",
+                "volume": "38",
+                "issue": "4",
+                "pages": "519--533",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fredricks, J. A., & Eccles, J. S. (2002). Children's competence and value beliefs from childhood through adolescence: growth trajectories in two male-sex-typed domains. Developmental Psychology, 38(4), 519-533.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Development of mathematics interest in adolescence: Influences of gender, family, and school context",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Frenzel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Goetz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Pekrun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M G"
+                        ],
+                        "last": "Watt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Journal of Research on Adolescence",
+                "volume": "20",
+                "issue": "2",
+                "pages": "507--537",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Frenzel, A. C., Goetz, T., Pekrun, R., & Watt, H. M. G. (2010). Development of mathematics interest in adolescence: Influences of gender, family, and school context. Journal of Research on Adolescence, 20(2), 507-537.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Parents' influence on children's achievementrelated perceptions",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Frome",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "74",
+                "issue": "2",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Frome, P. M., & Eccles, J. S. (1998). Parents' influence on children's achievement- related perceptions. Journal of Personality and Social Psychology, 74(2), 435.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Helping parents to motivate adolescents in mathematics and science: An experimental test of a utility-value intervention",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Harackiewicz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Rozek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Hulleman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Hyde",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Psychological Science",
+                "volume": "23",
+                "issue": "8",
+                "pages": "899--906",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harackiewicz, J. M., Rozek, C. S., Hulleman, C. S., & Hyde, J. S. (2012). Helping parents to motivate adolescents in mathematics and science: An experimental test of a utility-value intervention. Psychological Science, 23(8), 899-906.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Correlation table of self-reported grade point average and actual grade point average",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Holopainen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Savolainen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Holopainen, L., & Savolainen, H. (2005). Correlation table of self-reported grade point average and actual grade point average. University of Joensuu and University of Jyv\u00e4skyl\u00e4. Jyv\u00e4skyl\u00e4, Finland.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Influence of gender stereotypes on parent and child mathematics attitudes",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Journal of Educational Psychology",
+                "volume": "83",
+                "issue": "4",
+                "pages": "518--527",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jacobs, J. E. (1991). Influence of gender stereotypes on parent and child mathematics attitudes. Journal of Educational Psychology, 83(4), 518-527.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Girls' and boys' developing interests in math and science: Do parents matter? New Directions for Child and Adolescent Development",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bleeker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "5--21",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jacobs, J. E., & Bleeker, M. M. (2004). Girls' and boys' developing interests in math and science: Do parents matter? New Directions for Child and Adolescent Development, 2004(106), 5-21.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Changes in children's self-competence and values: Gender and domain differences across grades one through twelve",
+                "authors": [],
+                "year": null,
+                "venue": "Child Development",
+                "volume": "73",
+                "issue": "2",
+                "pages": "509--527",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Changes in children's self-competence and values: Gender and domain differences across grades one through twelve. Child Development, 73(2), 509-527.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Zum Zusammenspiel von schulischer Leistung, Selbstkonzept und Interesse in der gymnasialen Oberstufe [The interplay of achievement, self-concept, and",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "K\u00f6ller, O., Trautwein, U., L\u00fcdtke, O., & Baumert, J. (2006). Zum Zusammenspiel von schulischer Leistung, Selbstkonzept und Interesse in der gymnasialen Oberstufe [The interplay of achievement, self-concept, and interest in upper secondary school].",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Mplus user's guide",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth\u00e9n, L., & Muth\u00e9n, B. (1998-2010). Mplus user's guide. Los Angeles, CA: Muthen & Muthen.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "What 15-years-olds know and what they can do with what they know",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Oecd",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "OECD. (2013). PISA 2012 results in focus. What 15-years-olds know and what they can do with what they know. http://www.oecd.org/pisa/keyfindings/pisa-2012- results-overview.pdf. Gesehen 17. Juli 2014.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Socialization of achievement attitudes and beliefs: Parental influences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Parsons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Adler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kaczala",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Child Development",
+                "volume": "53",
+                "issue": "2",
+                "pages": "310--321",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Parsons, J. E., Adler, T. F., & Kaczala, C. M. (1982). Socialization of achievement attitudes and beliefs: Parental influences. Child Development, 53(2), 310-321.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Math and science motivation: A longitudinal examination of the links between choices and beliefs",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Simpkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Davis-Kean",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Developmental Psychology",
+                "volume": "42",
+                "issue": "1",
+                "pages": "70--83",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Simpkins, S. D., Davis-Kean, P. E., & Eccles, J. S. (2006). Math and science motivation: A longitudinal examination of the links between choices and beliefs. Developmental Psychology, 42(1), 70-83.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Parent beliefs to youth choices: Mapping the sequence of predictors from childhood to adolescence. Monographs of the Society for Research in Child Development Research",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Simpkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Fredricks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "",
+                "volume": "80",
+                "issue": "",
+                "pages": "1--169",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Simpkins, S. D., Fredricks, J., & Eccles, J. S. (2015). Parent beliefs to youth choices: Mapping the sequence of predictors from childhood to adolescence. Monographs of the Society for Research in Child Development Research, 80(2), 1- 169.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Charting the Eccles' expectancy-value model from mothers' beliefs in childhood to youths' activities in adolescence",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Simpkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Fredricks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Developmental Psychology",
+                "volume": "48",
+                "issue": "4",
+                "pages": "1019--1032",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Simpkins, S. D., Fredricks, J. A., & Eccles, J. S. (2012). Charting the Eccles' expectancy-value model from mothers' beliefs in childhood to youths' activities in adolescence. Developmental Psychology, 48(4), 1019-1032.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Parents' gender stereotypes and teachers' beliefs as predictors of children's concept of their mathematical ability in elementary school",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Tiedemann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Educational Psychology",
+                "volume": "92",
+                "issue": "1",
+                "pages": "144--151",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tiedemann, J. (2000). Parents' gender stereotypes and teachers' beliefs as predictors of children's concept of their mathematical ability in elementary school. Journal of Educational Psychology, 92(1), 144-151.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "The Role of Task Values in Adolescents' Educational Tracks: A Person-Oriented Approach",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Viljaranta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-E",
+                        "middle": [],
+                        "last": "Nurmi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Aunola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Salmela-Aro",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Research on Adolescence",
+                "volume": "19",
+                "issue": "4",
+                "pages": "786--798",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1532-7795.2009.00619.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Viljaranta, J., Nurmi, J.-E., Aunola, K., & Salmela-Aro, K. (2009). The Role of Task Values in Adolescents' Educational Tracks: A Person-Oriented Approach. Journal of Research on Adolescence, 19(4), 786-798. doi: 10.1111/j.1532-7795.2009.00619.x",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Development of adolescents' self-perceptions, values, and task perceptions according to gender and domain in 7th-through 11th-grade Australian students",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M G"
+                        ],
+                        "last": "Watt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Child Development",
+                "volume": "75",
+                "issue": "5",
+                "pages": "1556--1574",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Watt, H. M. G. (2004). Development of adolescents' self-perceptions, values, and task perceptions according to gender and domain in 7th-through 11th-grade Australian students. Child Development, 75(5), 1556-1574.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "The role of motivation in gendered educational and occupational trajectories related to maths",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M G"
+                        ],
+                        "last": "Watt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Educational Research and Evaluation",
+                "volume": "12",
+                "issue": "4",
+                "pages": "305--322",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Watt, H. M. G. (2006). The role of motivation in gendered educational and occupational trajectories related to maths. Educational Research and Evaluation, 12(4), 305-322.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Gendered motivational processes affecting high school mathematics participation, educational aspirations, and career plans: A comparison of samples from Australia, Canada, and the United States",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M G"
+                        ],
+                        "last": "Watt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Shapka",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Morris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Durik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Keating",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Developmental Psychology",
+                "volume": "48",
+                "issue": "6",
+                "pages": "1594--1611",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Watt, H. M. G., Shapka, J. D., Morris, Z. A., Durik, A. M., Keating, D. P., & Eccles, J. S. (2012). Gendered motivational processes affecting high school mathematics participation, educational aspirations, and career plans: A comparison of samples from Australia, Canada, and the United States. Developmental Psychology, 48(6), 1594-1611.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Expectancy-value theory of achievement motivation",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "25",
+                "issue": "1",
+                "pages": "68--81",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., & Eccles, J. S. (2000). Expectancy-value theory of achievement motivation. Contemporary Educational Psychology, 25(1), 68-81.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "The development of competence beliefs, expectancies for success, and achievement values from childhood through adolescence",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Development of achievement motivation",
+                "volume": "",
+                "issue": "",
+                "pages": "91--120",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., & Eccles, J. S. (2002). The development of competence beliefs, expectancies for success, and achievement values from childhood through adolescence. In A. Wigfield & J. S. Eccles (Eds.), Development of achievement motivation (pp. 91-120). San Diego, CA: Academic Press.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Transitions during early adolescence: Changes in children's domain-specific selfperceptions and general self-esteem across the transition to junior high school",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Mac Iver",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Reuman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Developmental Psychology",
+                "volume": "27",
+                "issue": "4",
+                "pages": "552--565",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., Eccles, J. S., Mac Iver, D., Reuman, D. A., & Midgley, C. (1991). Transitions during early adolescence: Changes in children's domain-specific self- perceptions and general self-esteem across the transition to junior high school. Developmental Psychology, 27(4), 552-565.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Change in children's competence beliefs and subjective task values across the elementary school years: A 3-year study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yoon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Arbreton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Freedman-Doan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Blumenfeld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Educational Psychology",
+                "volume": "89",
+                "issue": "3",
+                "pages": "451--469",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., Eccles, J. S., Yoon, K. S., Harold, R. D., Arbreton, A. J., Freedman- Doan, C., & Blumenfeld, P. C. (1997). Change in children's competence beliefs and subjective task values across the elementary school years: A 3-year study. Journal of Educational Psychology, 89(3), 451-469.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Expectancy value theory in crosscultural perspective",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Tonks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Big theories revisited",
+                "volume": "4",
+                "issue": "",
+                "pages": "165--198",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., Tonks, S., & Eccles, J. S. (2004). Expectancy value theory in cross- cultural perspective. In D. M. McInerney & S. Van Etten (Eds.), Big theories revisited (Vol. 4, pp. 165-198). Greenwich, Conneticut: Information Age Publishing.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Parent perceptions and attributions for children's math achievement",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Yee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Sex Roles",
+                "volume": "19",
+                "issue": "5-6",
+                "pages": "317--333",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yee, D. K., & Eccles, J. S. (1988). Parent perceptions and attributions for children's math achievement. Sex Roles, 19(5-6), 317-333.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Causal relations between mothers' and children's beliefs about math ability: A structural equation model",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yoon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Arbreton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Freedman-Doan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Roeser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yoon, K. S., Wigfield, A., Eccles, J. S., Arbreton, A., Freedman-Doan, K., & Roeser, R. (1993). Causal relations between mothers' and children's beliefs about math ability: A structural equation model. Paper presented at the Annual meeting of the American Educational Research Association, Atlanta.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Relations between gender, grade, parents' beliefs, and students' interest   and importance values in mathematics: standardized estimates. All coefficients are significant at level p.<05."
+            },
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Relations between gender, grade, parents' beliefs, and students' interest   and importance values in literacy: standardized estimates. All coefficients are significant at level p.<05."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td colspan=\"7\">Intercorrelations, Means, and Standard Deviations of the Study Variables in</td><td/></tr><tr><td>Mathematics</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Variables</td><td>1.</td><td>2.</td><td>3.</td><td>4.</td><td>5.</td><td>6.</td><td>7.</td></tr><tr><td>1 Interest</td><td>1</td><td/><td/><td/><td/><td/><td/></tr><tr><td>value math 7</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>2 Interest</td><td>.55***</td><td>1</td><td/><td/><td/><td/><td/></tr><tr><td>value math 9</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>3 Importance</td><td>.54***</td><td>.38***</td><td>1</td><td/><td/><td/><td/></tr><tr><td>value math 7</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>4 Importance</td><td>.34***</td><td>.71***</td><td>.45***</td><td>1</td><td/><td/><td/></tr><tr><td>value math 9</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>5 Mothers'</td><td>.38***</td><td>.43***</td><td>.30**</td><td>.35***</td><td>1</td><td/><td/></tr><tr><td>beliefs math</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>6 Fathers'</td><td>.23**</td><td>.35***</td><td>.20*</td><td>.39***</td><td>.65***</td><td>1</td><td/></tr><tr><td>beliefs math</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>7 Achievement</td><td>.36***</td><td>.43***</td><td>.36***</td><td>.37***</td><td>.72***</td><td>.57***</td><td>1</td></tr><tr><td>math</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>M</td><td>2.88</td><td>2.98</td><td>3.72</td><td>3.62</td><td>2.81</td><td>2.89</td><td>7.93</td></tr><tr><td>SD</td><td>1.01</td><td>1.14</td><td>0.73</td><td>0.80</td><td>0.78</td><td>0.73</td><td>1.04</td></tr><tr><td>scale</td><td>1-5</td><td>1-5</td><td>1-5</td><td>1-5</td><td>1-4</td><td>1-4</td><td>4-10</td></tr><tr><td colspan=\"4\">Note 1. * = p &lt; .05. ** = p &lt; .01. *** = p &lt; .001.</td><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td>Variables</td><td>1.</td><td>2.</td><td>3.</td><td>4.</td><td>5.</td><td>6.</td><td>7.</td></tr><tr><td>1 Interest</td><td>1</td><td/><td/><td/><td/><td/><td/></tr><tr><td>value</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>literacy 7</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>2 Interest</td><td>.38***</td><td>1</td><td/><td/><td/><td/><td/></tr><tr><td>value</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>literacy 9</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>3 Importance</td><td>.55***</td><td>.36***</td><td>1</td><td/><td/><td/><td/></tr><tr><td>value</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>literacy 7</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>4 Importance</td><td>.28***</td><td>.67***</td><td>.46***</td><td>1</td><td/><td/><td/></tr><tr><td>value</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>literacy 9</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>5 Mothers'</td><td>.25***</td><td>.21**</td><td>.31***</td><td>.24***</td><td>1</td><td/><td/></tr><tr><td>beliefs</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>literacy</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>6 Fathers'</td><td>.24**</td><td>.19*</td><td>.23**</td><td>.32***</td><td>.57***</td><td>1</td><td/></tr><tr><td>beliefs</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>literacy</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>7 Achievement</td><td>.30***</td><td>.21**</td><td>.30***</td><td>.22**</td><td>58***</td><td>.48***</td><td>1</td></tr><tr><td>literacy</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>M</td><td>3.12</td><td>3.02</td><td>3.61</td><td>3.58</td><td>2.91</td><td>2.92</td><td>7.99</td></tr><tr><td>SD</td><td>0.96</td><td>0.94</td><td>0.78</td><td>0.68</td><td>0.74</td><td>0.64</td><td>0.95</td></tr><tr><td>scale</td><td>1-5</td><td>1-5</td><td>1-5</td><td>1-5</td><td>1-4</td><td>1-4</td><td>4-10</td></tr><tr><td>Note 1.</td><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Intercorrelations, Means, and Standard Deviations of the Study Variables in Literacy"
+            }
+        }
+    }
+}

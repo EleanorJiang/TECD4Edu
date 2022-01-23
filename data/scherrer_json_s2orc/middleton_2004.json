@@ -1,0 +1,2885 @@
+{
+    "paper_id": "middleton_2004",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:04:54.214969Z"
+    },
+    "title": "The change in middle school students' achievement goals in mathematics over time",
+    "authors": [
+        {
+            "first": "Michael",
+            "middle": [
+                "J"
+            ],
+            "last": "Middleton",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of New Hampshire",
+                "location": {
+                    "addrLine": "Morrill Hall, 62 College Road",
+                    "postCode": "03824",
+                    "settlement": "Durham",
+                    "region": "NH",
+                    "country": "USA"
+                }
+            },
+            "email": "michael.middleton@unh.edu"
+        },
+        {
+            "first": "Avi",
+            "middle": [],
+            "last": "Kaplan",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Ben Gurion University of the Negev",
+                "location": {
+                    "country": "Israel"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Carol",
+            "middle": [],
+            "last": "Midgley",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Michigan",
+                "location": {
+                    "country": "USA"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Through the use of longitudinal survey data the change of achievement goal orientations was tested in a sample of middle school students in mathematics as they moved from sixth to seventh grade. Achievement goals include task goals and performance goals, with the partitioning of performance goals into approach and avoidance components. Results indicate that all goal orientations were moderately stable over time. Task goals in sixth grade positively predicted academic efficacy in seventh grade. Performance-approach goals in sixth grade positively predicted performance-avoid goals in seventh grade. Multiple regression and multi-sample analyses revealed that the path from performance-approach goals to performance-avoid goals was significant only among students reporting high academic efficacy before the transition. The results suggest that individuals who feel efficacious in math while endorsing a performance-approach goal orientation may be particularly vulnerable to adopting maladaptive performance-avoid goals over time and with change in circumstances.",
+    "pdf_parse": {
+        "paper_id": "middleton_2004",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Through the use of longitudinal survey data the change of achievement goal orientations was tested in a sample of middle school students in mathematics as they moved from sixth to seventh grade. Achievement goals include task goals and performance goals, with the partitioning of performance goals into approach and avoidance components. Results indicate that all goal orientations were moderately stable over time. Task goals in sixth grade positively predicted academic efficacy in seventh grade. Performance-approach goals in sixth grade positively predicted performance-avoid goals in seventh grade. Multiple regression and multi-sample analyses revealed that the path from performance-approach goals to performance-avoid goals was significant only among students reporting high academic efficacy before the transition. The results suggest that individuals who feel efficacious in math while endorsing a performance-approach goal orientation may be particularly vulnerable to adopting maladaptive performance-avoid goals over time and with change in circumstances.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Achievement goal theory has emerged as one of the preeminent approaches to achievement motivation (Pintrich, 1994; Elliot, 1997; Covington, 2000) . This theory is concerned with the purposes a learner adopts for achievement behavior. Two types of goals have received the most attention: a task goal orientation, which involves engagement for the purpose of improvement or mastery; and a performance goal orientation, which involves engagement for the purpose of demonstrating ability or avoiding the demonstration of lack of ability (Dweck, 1986) . Research has provided a rich picture of how achievement goals relate to academic beliefs and behaviors (Ames & Archer, 1988; Dweck & Leggett, 1988; Ames, 1992; Urdan, 1997; Kaplan, Middleton, Urdan, & Midgley, 2002) . Little is known, however, about the relations among achievement goals over time. For example, how might certain achievement goals provide a basis for the adoption of future achievement goals? This question is especially important with the recent controversy concerning the facilitative nature of performance goals (Pintrich 2000; Midgley, Kaplan, & Middleton, 2001; Harckiewicz et al., 2002) . With longitudinal data and the inclusion of recent advances in achievement goal theory, this paper addresses goal stability and change with particular attention to performance goals, including the key aspect of the moderating effect of student academic self-efficacy.",
+                "cite_spans": [
+                    {
+                        "start": 98,
+                        "end": 114,
+                        "text": "(Pintrich, 1994;",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 115,
+                        "end": 128,
+                        "text": "Elliot, 1997;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 129,
+                        "end": 145,
+                        "text": "Covington, 2000)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 533,
+                        "end": 546,
+                        "text": "(Dweck, 1986)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 652,
+                        "end": 673,
+                        "text": "(Ames & Archer, 1988;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 674,
+                        "end": 696,
+                        "text": "Dweck & Leggett, 1988;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 697,
+                        "end": 708,
+                        "text": "Ames, 1992;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 709,
+                        "end": 721,
+                        "text": "Urdan, 1997;",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 722,
+                        "end": 764,
+                        "text": "Kaplan, Middleton, Urdan, & Midgley, 2002)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1081,
+                        "end": 1096,
+                        "text": "(Pintrich 2000;",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 1097,
+                        "end": 1132,
+                        "text": "Midgley, Kaplan, & Middleton, 2001;",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1133,
+                        "end": 1158,
+                        "text": "Harckiewicz et al., 2002)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Achievement goal theory has developed within a social-cognitive framework that focuses on the aims or purposes that are perceived or pursued in an achievement setting. Across a large number of studies, a task goal orientation has been associated consistently with an adaptive pattern of achievement-related cognition, affect, and behaviors (e.g., Nicholls, Patashnick, & Nolen, 1985; Ames & Archer, 1988; Meece, Blumenfeld, & Hoyle, 1988; Urdan, 1997) . A performance goal orientation has been associated with less adaptive patterns (Nicholls, Patashnick, & Nolen, 1985; Ames & Archer, 1988; Meece, Blumenfeld, & Hoyle, 1988) , though the findings have been somewhat inconsistent. For example, a performance goal orientation has been associated with the use of superficial learning strategies and avoiding challenging work (Meece, Blumenfeld, & Hoyle, 1988; Pintrich, 1989) but also with higher performance (Harackiewicz, Barron, & Elliot, 1998) , academic efficacy (Midgley & Urdan, 1995) and academic self-regulation (Wolters, Yu, & Pintrich, 1996) . In these studies, performance goals focused in particular on the demonstration of high ability, an 'approach' goal orientation.",
+                "cite_spans": [
+                    {
+                        "start": 347,
+                        "end": 383,
+                        "text": "Nicholls, Patashnick, & Nolen, 1985;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 384,
+                        "end": 404,
+                        "text": "Ames & Archer, 1988;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 405,
+                        "end": 438,
+                        "text": "Meece, Blumenfeld, & Hoyle, 1988;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 439,
+                        "end": 451,
+                        "text": "Urdan, 1997)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 533,
+                        "end": 570,
+                        "text": "(Nicholls, Patashnick, & Nolen, 1985;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 571,
+                        "end": 591,
+                        "text": "Ames & Archer, 1988;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 592,
+                        "end": 625,
+                        "text": "Meece, Blumenfeld, & Hoyle, 1988)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 823,
+                        "end": 857,
+                        "text": "(Meece, Blumenfeld, & Hoyle, 1988;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 858,
+                        "end": 873,
+                        "text": "Pintrich, 1989)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 907,
+                        "end": 945,
+                        "text": "(Harackiewicz, Barron, & Elliot, 1998)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 966,
+                        "end": 989,
+                        "text": "(Midgley & Urdan, 1995)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1019,
+                        "end": 1050,
+                        "text": "(Wolters, Yu, & Pintrich, 1996)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ACHIEVEMENT GOAL THEORY",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "Recently, researchers (Elliot & Harackiewicz, 1996; Middleton & Midgley, 1997; Skaalvik, 1997) have demonstrated a theoretical and empirical distinction between the approach and avoidance components of performance goals. These researchers suggest that prior inconsistencies in findings concerning performance goals may be the result of neglecting to make this distinction. According to this conceptualization, the avoidance component of performance goals (an orientation to avoiding the demonstration of lack of ability) relates to less adaptive outcomes than does the approach component (an orientation to demonstrating ability). Findings regarding performance-avoid goals have been consistent and have shown an association with maladaptive beliefs and behaviors (Elliot & Harackiewicz, 1996; Middleton & Midgley, 1997; Elliot, McGregor, & Gable, 1999) . 1 However, the nature of performance-approach goals and their relation to educational outcomes remains an important question for motivation research and theory (Midgley, Kaplan, & Middleton, 2001; Harackiewicz et al., 2002; Kaplan, Middleton, Urdan, & Midgley, 2002) . Performance-approach seems to be a more complex orientation than either task or performance-avoid goals. It has been suggested that performance-approach goals are under-girded by both achievement motivation and a fear of failure (Elliot & Church, 1997) . Perhaps the relative strength of these underlying dispositions in the orientation that students adopt relates both to individual differences, such as academic efficacy for a task (Elliot & Church, 1997) , and to the learning environment, which may possess more or less opportunity for success (Church, Elliot, & Gable, 2001) . For example, a student who feels more efficacious about a particular subject area or perceives more opportunity for success in a classroom may endorse performance-approach goals based on an achievement motivation. However, lower efficacy or greater chance for failure may trigger a fear of failure underlying their goals.",
+                "cite_spans": [
+                    {
+                        "start": 22,
+                        "end": 51,
+                        "text": "(Elliot & Harackiewicz, 1996;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 52,
+                        "end": 78,
+                        "text": "Middleton & Midgley, 1997;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 79,
+                        "end": 94,
+                        "text": "Skaalvik, 1997)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 764,
+                        "end": 793,
+                        "text": "(Elliot & Harackiewicz, 1996;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 794,
+                        "end": 820,
+                        "text": "Middleton & Midgley, 1997;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 821,
+                        "end": 853,
+                        "text": "Elliot, McGregor, & Gable, 1999)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 856,
+                        "end": 857,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1016,
+                        "end": 1052,
+                        "text": "(Midgley, Kaplan, & Middleton, 2001;",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1053,
+                        "end": 1079,
+                        "text": "Harackiewicz et al., 2002;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1080,
+                        "end": 1122,
+                        "text": "Kaplan, Middleton, Urdan, & Midgley, 2002)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1354,
+                        "end": 1377,
+                        "text": "(Elliot & Church, 1997)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1559,
+                        "end": 1582,
+                        "text": "(Elliot & Church, 1997)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1673,
+                        "end": 1704,
+                        "text": "(Church, Elliot, & Gable, 2001)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ACHIEVEMENT GOAL THEORY",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "Exploring the nature of performance-approach goals is also important for educational practice (Elliot, 1997; Pintrich, 2000; Midgley, Kaplan, & Middleton, 2001) . Environments such as classrooms and schools can be structured so that performance goals are more or less salient (e.g., Maehr & Midgley, 1996) . Until the recent theoretical distinction in performance goals, the recommendation has been to downplay an emphasis on performance goals as much as possible while emphasizing task goals (e.g., Ames, 1992; Maehr & Midgley, 1996) . The possible positive nature of performance-approach goals when combined with task goals may challenge such recommendations (Harackiewicz, Barron, & Elliot, 1998; Pintrich, 2000; Harackiewicz et al., 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 94,
+                        "end": 108,
+                        "text": "(Elliot, 1997;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 109,
+                        "end": 124,
+                        "text": "Pintrich, 2000;",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 125,
+                        "end": 160,
+                        "text": "Midgley, Kaplan, & Middleton, 2001)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 283,
+                        "end": 305,
+                        "text": "Maehr & Midgley, 1996)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 500,
+                        "end": 511,
+                        "text": "Ames, 1992;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 512,
+                        "end": 534,
+                        "text": "Maehr & Midgley, 1996)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 661,
+                        "end": 699,
+                        "text": "(Harackiewicz, Barron, & Elliot, 1998;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 700,
+                        "end": 715,
+                        "text": "Pintrich, 2000;",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 716,
+                        "end": 742,
+                        "text": "Harackiewicz et al., 2002)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ACHIEVEMENT GOAL THEORY",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "Some researchers have examined the facilitative nature of performance-approach goals by relating them to various outcomes. Yet, the studies conducted so far have either looked at these goals as a transitory state (i.e., in experiments, Elliot & Harackiewicz, 1996) or in short spans of time (i.e., in survey studies, Middleton & Midgley, 1997) . Another way to understand the nature of performance-approach goals would be to examine the relation of these goals with the more adaptive task goals and the less adaptive performance-avoid goals over time. Perhaps performance-approach goals relate to the development of other goals in the future when academic efficacy or the learning environment change. Nicholls (1984) and Dweck (1986) suggested that people may start out working on an achievement task with an approach orientation but slip into an avoidance orientation when they encounter difficulties that threaten their demonstration of high ability, especially in a performance-focused context. In conversations with teachers, we have heard them describe students who were eager to demonstrate their ability in class but when they experienced some difficulty or challenge, they began to engage in behaviors that would hide any lack of ability. It would be particularly problematic if an orientation to demonstrating ability at one point in time were predictive of an orientation to avoiding the demonstration of lack of ability at another point in time.",
+                "cite_spans": [
+                    {
+                        "start": 236,
+                        "end": 264,
+                        "text": "Elliot & Harackiewicz, 1996)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 317,
+                        "end": 343,
+                        "text": "Middleton & Midgley, 1997)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 701,
+                        "end": 716,
+                        "text": "Nicholls (1984)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 721,
+                        "end": 733,
+                        "text": "Dweck (1986)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ACHIEVEMENT GOAL THEORY",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "A change in school environment may contribute to a change in students' achievement goal orientation (Anderman & Midgley, 1997) . After the transition to middle school, students may experience an increase in the emphasis on relative ability and competition with peers (Midgley, 1993) . This may be particularly true in mathematics, a discipline oriented toward ability and achievement levels (Stodolsky, Salk, & Glaessner, 1991) . Many middle school reformers have suggested that relative ability be de-emphasized (e.g., Carnegie, 1989) , but conversations with the middle school principals in our study suggest that most of those reform efforts have been focused on the sixth grade level, the first year of middle school. Less attention has been paid to the upper grade levels in middle school. The move from sixth to seventh grade may be accompanied by an increase in the saliency of performance differences. Therefore, to examine relations among achievement goals over time, we focus our work in middle school mathematics classes, in particular as students move from sixth to seventh grade within the middle school environment.",
+                "cite_spans": [
+                    {
+                        "start": 100,
+                        "end": 126,
+                        "text": "(Anderman & Midgley, 1997)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 267,
+                        "end": 282,
+                        "text": "(Midgley, 1993)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 391,
+                        "end": 427,
+                        "text": "(Stodolsky, Salk, & Glaessner, 1991)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 499,
+                        "end": 535,
+                        "text": "de-emphasized (e.g., Carnegie, 1989)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ACHIEVEMENT GOAL THEORY",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "Although the relation between achievement goals and outcomes has been the subject of many studies, less attention has been given to the relations among goal orientations over time. In other words, how past reports of pursuing each goal may be associated with future reports of pursuing other goals has rarely been examined. Moreover, since the distinction between performance-approach and avoid goals has been reintroduced only recently, little longitudinal research has been conducted that includes both of these components. Is the endorsement of one type of performance goal associated with adopting a different performance goal in the future?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THE CHANGE OF ACHIEVEMENT GOALS OVER TIME",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "Some studies have looked at stability in goal orientations at two points in time. Nolen and Haladyna (1990) examined the relation between task goals (but not performance goals) at two time points within the same academic year, in high school science classes. They found that task orientation in the fall was moderately related to task orientation in the spring both directly and through perceived teachers' goals. They concluded that \"(A)lthough the motivational orientation that a student brings to school in the fall seems to be a powerful predictor of later orientation and strategy beliefs, teachers may also be able to influence these outcomes... (pp. 127-128) .\"",
+                "cite_spans": [
+                    {
+                        "start": 82,
+                        "end": 107,
+                        "text": "Nolen and Haladyna (1990)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 652,
+                        "end": 665,
+                        "text": "(pp. 127-128)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THE CHANGE OF ACHIEVEMENT GOALS OVER TIME",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "As we have stated, however, it is important that goals be examined across school years, not simply within one academic year. Kaplan and Midgley (1999) found that the stability of students' perceptions of the emphasis in the classroom on task and performance goals was stronger within an academic year than across the transition from elementary to middle school. It makes sense that the changing context from year to year may be related to fluctuation and perhaps change in achievement goals. Anderman and Midgley (1997) studied achievement goals across the transition from elementary to middle school and found that both task and performance goals had moderate stability over time. However, neither of these studies included the avoidance component of performance goals, or looked at the relation across time of different goal orientations (task to performance or performance to task). Skaalvik (1998) incorporated performance-avoidance goals into his study and found stability in all three achievement goals across academic years. But, as with Kaplan and Midgley (1999) and Anderman and Midgley (1997) , Skaalvik focused on the stability of each goal, not relations among the different goals.",
+                "cite_spans": [
+                    {
+                        "start": 125,
+                        "end": 150,
+                        "text": "Kaplan and Midgley (1999)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 492,
+                        "end": 519,
+                        "text": "Anderman and Midgley (1997)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1045,
+                        "end": 1070,
+                        "text": "Kaplan and Midgley (1999)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1075,
+                        "end": 1102,
+                        "text": "Anderman and Midgley (1997)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THE CHANGE OF ACHIEVEMENT GOALS OVER TIME",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "As part of their study of goals and self-regulation over time, Wolters, Yu, and Pintrich (1996) included information regarding the association of goals at different time points. They examined middle school students' goals at the beginning and end of the academic year and found moderate to high stability for both task and performance-approach goals across three disciplines -English, math, and social studies. They also examined the correlation of different goals at the two time points. The correlations between task goals at the beginning of the year and performanceapproach goals at the end of the year were positive but modest (range of r = 0.10 to 0.13). Similarly, performance-approach goals at the beginning of the year had a low positive relation with task goals at the end of the year (range of r = 0.10 to 0.13). It should be pointed out that this study examined goals in the context of the same classroom and school year and did not include a measure of performance-avoidance goals.",
+                "cite_spans": [
+                    {
+                        "start": 63,
+                        "end": 95,
+                        "text": "Wolters, Yu, and Pintrich (1996)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THE CHANGE OF ACHIEVEMENT GOALS OVER TIME",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "These studies suggest that although achievement goals are somewhat stable, there is less stability when students move from one learning environment (i.e., classroom, grade, or school) to another. This is compatible with a social-cognitive perspective that proposes that as contexts change, individuals reevaluate and reconstruct their goals and actions. Some have suggested that the distinction between endorsing approach and avoid forms of performance goals is largely due to individual differences such as fear of failure (Elliot, 1997) , but there is also evidence that students perceive classroom goal structures that emphasize either performanceapproach or performance-avoid goals (Middleton et al., 2000) . Although distinct, classroom performance-approach and avoid goals are closely related (Middleton et al., 2000) Moreover, it is likely, unless the contexts are different in ways that are expected to impact goals, that the reconstruction of goals when moving to a new environment will be heavily influenced by the previous goals the individual had for achievement situations. Thus, as performance-approach and performanceavoidance goals are distinct but close in meaning, we would expect that a positive predictive relation between these two goals over time would be more likely to occur than between either type of performance-goal and task goals. Moreover, in moving to a new classroom environment with new rules and expectations for success, students with a performance orientation may have their fear of failure activated and be concerned with avoiding the appearance of being unable. Therefore, the direction of change might be from a performance-approach goal in a familiar setting to a performance-avoid goal in a new setting. Acquiring an understanding of the relation between performance-approach and performance-avoidance goals takes on particular significance as we seek to understand the adaptive or maladaptive patterns associated with performance goals.",
+                "cite_spans": [
+                    {
+                        "start": 524,
+                        "end": 538,
+                        "text": "(Elliot, 1997)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 686,
+                        "end": 710,
+                        "text": "(Middleton et al., 2000)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 799,
+                        "end": 823,
+                        "text": "(Middleton et al., 2000)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THE CHANGE OF ACHIEVEMENT GOALS OVER TIME",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "Simply examining how achievement goals relate to achievement goals over time ignores the role of an important factor in the development of goals: academic self-efficacy. Many of the studies examining goals have included measures of perceived academic competence or efficacy. Some researchers have suggested that self-efficacy is an important determinant of goals (Schunk, 1991) . In contrast, Anderman and Maehr (1994) suggested that goals contribute to perceived efficacy, and that these perceptions mediate outcomes such as performance.",
+                "cite_spans": [
+                    {
+                        "start": 363,
+                        "end": 377,
+                        "text": "(Schunk, 1991)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 393,
+                        "end": 418,
+                        "text": "Anderman and Maehr (1994)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THE ROLE OF SELF-EFFICACY",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "More often, however, achievement goal theorists have treated self-efficacy as a moderator between goals and outcomes rather than an antecedent, consequence, or mediator of goals. For example, research by Dweck and by Elliot and Harackiewicz in the laboratory showed that perceived ability moderated the relations between performance goals and outcomes, whereas this was not found for the relations between task goals and outcomes (Dweck & Leggett, 1988; Elliott & Dweck, 1988; Elliot & Harackiewicz, 1996) . In these studies, individuals with perceptions of high ability who adopted performance goals displayed an adaptive pattern of outcomes. In contrast, individuals with perceptions of low ability who adopted performance goals displayed a helpless pattern. Some research has failed to replicate these findings (Miller, Behrens, Greene, & Newman, 1993; Kaplan & Midgley, 1997) . 2 Studies of the relations among goals over time need to examine the moderating role of efficacy. If self-efficacy plays a role in moderating goals and outcomes, what happens when future goal orientation is the outcome in question?",
+                "cite_spans": [
+                    {
+                        "start": 430,
+                        "end": 453,
+                        "text": "(Dweck & Leggett, 1988;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 454,
+                        "end": 476,
+                        "text": "Elliott & Dweck, 1988;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 477,
+                        "end": 505,
+                        "text": "Elliot & Harackiewicz, 1996)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 814,
+                        "end": 855,
+                        "text": "(Miller, Behrens, Greene, & Newman, 1993;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 856,
+                        "end": 879,
+                        "text": "Kaplan & Midgley, 1997)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 882,
+                        "end": 883,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THE ROLE OF SELF-EFFICACY",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "Rarely has efficacy been considered as a factor in the relation of achievement goals over time although researchers have suggested it may play a crucial role. Skaalvik (1997) suggested that perceived ability might influence whether individuals adopt performance-approach or performance-avoid goals. Similarly, Elliot and Harackiewicz (1996) elicited performance-approach goals and performance-avoid goals by manipulating the salience of positive and negative outcomes and thus, the participants' outcome expectancies. It is likely that self-efficacy is related to any shift between performance goal orientations over time.",
+                "cite_spans": [
+                    {
+                        "start": 159,
+                        "end": 174,
+                        "text": "Skaalvik (1997)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 310,
+                        "end": 340,
+                        "text": "Elliot and Harackiewicz (1996)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THE ROLE OF SELF-EFFICACY",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "Some prior research has looked at the stability of goals, but virtually no studies have examined how achievement goals relate to each other over time. This question takes on particular significance with the recent inclusion of performance-avoid goals in achievement goal theory, and the current controversy over the facilitative nature of performance-approach goals. To fully understand these relations over time, it is important to include an examination of how they may be related to and moderated by self-efficacy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "AND EFFICACY IN THE DEVELOPMENT OF PERFORMANCE GOALS",
+                "sec_num": null
+            },
+            {
+                "text": "Task goals seem to be the most stable goal orientation over time for individuals of all levels of efficacy. Because there are two components to performance goals and they are closely related in underlying meaning, we expect less stability for the performance goal orientations and stronger relations between the two types of performance goals over time. In addition, we expect to find that level of academic efficacy will play a role in relations between performance goals over time. Low efficacy may contribute to a vulnerability to performance-avoid goals. It may be that a performance-approach orientation paired with low efficacy will be associ-ated with performance-avoid goals in the future. On the other hand, high efficacy and a performance-approach orientation may combine to predict a particular vulnerability to less adaptive goals when the learning environment becomes more focused on relative performance, and changing circumstances may pose a threat to expectations for demonstrating high ability.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "AND EFFICACY IN THE DEVELOPMENT OF PERFORMANCE GOALS",
+                "sec_num": null
+            },
+            {
+                "text": "Data for this study were collected as part of a longitudinal study examining student motivation and well being as they made the transitions from elementary to middle school and middle to high school. The study was conducted in three ethnically and economically diverse school districts in southeastern Michigan. All students in the districts were invited to participate during the fifth grade. Informed consent was received from the parents of participating students in the fifth grade, with a return rate of over 83%. Those who participated at the fifth grade were invited to continue as part of the study. The participants in our study were 475 students who completed surveys in both sixth and seventh grade years; they were 51% female, 49% male; 51% African-American, 37% European-American, 9% Hispanic, and 3% other races.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SAMPLE",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "The data used in this study were collected during the spring of the students' sixth and seventh grade years in the 10 participating middle schools, across the mathematics classrooms at each grade level. Principals in all the schools reported that a number of middle school reforms had been implemented at the sixth grade level, but that fewer reforms were in place at the seventh and eighth grade level. For example, homogenous grouping in math was prevalent at the seventh and eighth grade levels but not at the sixth grade level. Principals also described math instruction as following a traditional middle school pre-algebra math curriculum with no specific reforms in math instruction.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SAMPLE",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "Students completed surveys in their school during two 40-min sessions. Trained survey administrators explained the procedure, informed students that their answers were confidential, and read each item on the surveys aloud. The use of a Likert-type response scale was described and students were encouraged to ask questions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROCEDURES",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "The surveys included scales from the Pattern of Adaptive Learning Survey (PALS) developed by Midgley and her colleagues to assess task goals, performanceapproach goals, performance-avoid goals, and academic efficacy (Midgley et al., 1998) . A list of items contained in the scales and results of reliability analysis (Cronbach alpha) for both waves of data collection are presented in Appendix A. The decision was made to focus the items on one academic domain -mathematicssince students in middle school take classes in several different subject areas and might have different beliefs and behaviors in those different areas (Stodolsky, Salk, & Glaessner, 1991) .",
+                "cite_spans": [
+                    {
+                        "start": 216,
+                        "end": 238,
+                        "text": "(Midgley et al., 1998)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 625,
+                        "end": 661,
+                        "text": "(Stodolsky, Salk, & Glaessner, 1991)",
+                        "ref_id": "BIBREF48"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SURVEY MEASURES",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "We used LISREL8 to test a model in which perceived efficacy and achievement goals in sixth grade predicted perceived efficacy and achievement goals in seventh grade. In evaluating the fit of the models we follow recommendations by Hoyle and Panter (1995) , as well as others (Hu & Bentler, 1995; Jaccard & Wan, 1996) , and use multiple indices of fit. Specifically, in addition to reporting the chi-square test statistic, we report the Tucker-Lewis index (TLI), the comparative fit index (CFI), and the root mean square of error approximation (RMSEA). Each of these indices evaluates the fit of the model slightly differently (see Hu & Bentler, 1995) and therefore an indication of good fit from these various indices increases the confidence in the model. The critical value, under which a model is considered to have a questionable fit, which is recommended for the first three indices is 0.90. A value lower than 0.08 of the RMSEA is considered to indicate an adequate fit whereas values lower than 0.05 indicate a good fit (Browne & Cudek, 1993) . The RMSEA index involves testing for the approximation of the fit of the model to the population. This index is therefore accompanied by a p value for a significance test with a critical value of 0.05. A non-significant p value indicates a close fit.",
+                "cite_spans": [
+                    {
+                        "start": 231,
+                        "end": 254,
+                        "text": "Hoyle and Panter (1995)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 275,
+                        "end": 295,
+                        "text": "(Hu & Bentler, 1995;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 296,
+                        "end": 316,
+                        "text": "Jaccard & Wan, 1996)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 631,
+                        "end": 650,
+                        "text": "Hu & Bentler, 1995)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1027,
+                        "end": 1049,
+                        "text": "(Browne & Cudek, 1993)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": "3."
+            },
+            {
+                "text": "The initial model tested included measures of achievement goals and efficacy in the sixth grade as predictors of achievement goals and efficacy in the seventh grade for the whole sample. 3 All items are presented in Appendix A.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "TESTING OF MODEL FOR WHOLE SAMPLE",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "Following J\u00f6reskog and S\u00f6rbom (1993) we first tested the measurement model. Goodness of fit indices provided support for this model: \u03c7 2 (852) = 1251.06, p < 0.00; TLI = 0.94; CFI = 0.95; RMSEA = 0.034 with p = 1.0. After running the measurement model, the model was run allowing LISREL to estimate path coefficients between constructs. The goodness of fit indices indicated a reasonable fit: \u03c7 2 (858) = 1419.55, p < 0.00; TLI = 0.92; CFI = 0.92; RMSEA = 0.04 with p = 1.0. The results are presented in Figure 1 .",
+                "cite_spans": [
+                    {
+                        "start": 10,
+                        "end": 36,
+                        "text": "J\u00f6reskog and S\u00f6rbom (1993)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 504,
+                        "end": 512,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "TESTING OF MODEL FOR WHOLE SAMPLE",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "The stability paths are partial correlation coefficients of each construct at time 1 with the same construct at time 2, having controlled for the shared variance with the other variables in the model that predict the construct at time 2. The stability paths from sixth grade to seventh grade for each achievement goal and for self-efficacy were all significant, as expected. None of the paths from self-efficacy measured in the sixth grade to goals measured in the seventh grade were significant. The path from task goals in the sixth grade to self-efficacy in the seventh grade was positive and significant. In addition, the path from performance-approach goals measured in the sixth grade to performance-avoid goals measured in the seventh grade was positive and significant. The path from performance-avoid goals in sixth grade to performance-approach goals in seventh grade was not significant.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Stability Coefficients",
+                "sec_num": "3.1.1."
+            },
+            {
+                "text": "To test the significance of the differences between the stability coefficients of the achievement goals, we ran three additional LISREL models. In each of these models, one stability path (e.g., from task goals in sixth grade to task goals in seventh grade) was set to be equal to another path (e.g., from performanceapproach goals in sixth grade to performance-approach goals in seventh grade). The significance of the difference between the stability coefficients in the original model was tested by calculating the significance of the difference in \u03c7 2 between each of the three models and the original model, which indicates the information 'lost' by setting the paths to be equal (cf., J\u00f6reskog & S\u00f6rbom, 1993) . This procedure indicated that the task goal stability path was significantly different from the performance-avoid goal stability path ( \u03c7 2 = 4.48, df = 1, p <0.025). The stability paths for task goals and for performance-approach goals and the stability paths for performance-approach goals and performance-avoid goals were not sig-nificantly different from each other ( \u03c7 2 =0.87, df = 1, p >0.05; \u03c7 2 = 1.31, df = 1, p >0.05, respectively).",
+                "cite_spans": [
+                    {
+                        "start": 691,
+                        "end": 715,
+                        "text": "J\u00f6reskog & S\u00f6rbom, 1993)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Stability Coefficients",
+                "sec_num": "3.1.1."
+            },
+            {
+                "text": "AND THE MODERATING ROLE OF SELF-EFFICACY",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INVESTIGATING THE ROLES OF GENDER, ETHNICITY,",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "The most important finding in our initial analyses was the significant path between sixth grade performance-approach and seventh grade performance-avoid goals. Our next step was to run analyses to help us understand this link. To examine the possibility that students' gender, ethnicity, and self-efficacy were factors in the relation between sixth grade performance-approach goals and seventh grade performance-avoid goals, we used two procedures. First, we ran hierarchical multiple regression analyses with gender, ethnicity, and interaction terms for each of the sixth grade achievement goals and self-efficacy predicting each of the seventhgrade achievement goals, while controlling for academic achievement. Variables were centered prior to forming the interaction terms to avoid multicollinearity (Aiken & West, 1991) . In each analysis, gender, ethnicity 4 , and sixth grade math grades were entered first. Second, the sixth-grade construct that was similar to the dependent variable was entered. In the third step, the three other constructs were block-entered. Lastly, the three interaction terms were block-entered. Table I presents the correlations among the scales as well as the mean and standard deviation for each scale. Tables II-V present the results of these analyses for performance-approach goals, performance-avoid goals, task goals, and self-efficacy, respectively. The results of the multiple regression analyses confirmed the significant relations indicated by the LISREL model. All stability coefficients were significant, performance-approach goals in sixth grade were a significant predictor of performance-avoid goals in seventh grade, and task goals in sixth grade were a significant predictor of self-efficacy in seventh grade. In addition, however, the multiple regressions suggested some significant relations that were not indicated in the LISREL analysis. First, ethnicity was a significant predictor of task goals and self-efficacy in seventh grade. Being African American was related to higher task goals and higher self-efficacy. This finding was not unexpected since other researchers have found that African-American students are likely to report more positive attitudes toward school and higher academic self-perceptions than other racial groups (Mickelson, 1990; Graham, 1994) .",
+                "cite_spans": [
+                    {
+                        "start": 804,
+                        "end": 824,
+                        "text": "(Aiken & West, 1991)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 2287,
+                        "end": 2304,
+                        "text": "(Mickelson, 1990;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 2305,
+                        "end": 2318,
+                        "text": "Graham, 1994)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1127,
+                        "end": 1134,
+                        "text": "Table I",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Multiple Regression",
+                "sec_num": "3.2.1."
+            },
+            {
+                "text": "Second, task goals in sixth grade were a significant positive predictor and performance-avoid goals in sixth grade were a significant negative predictor of self-efficacy in seventh grade. These results confirm early studies indicating the adaptive nature of task goals and maladaptive nature of performance-avoid goals. Finally, two interaction terms were significant. The interaction term of performance-approach and self-efficacy was significant in predicting performanceavoid goals in seventh grade, and the interaction of performance-avoid goals and self-efficacy was significant in predicting task goals in seventh grade. Following Aiken and West (1991) , Figures 2 and 3 present plots of these interactions. As Figure 2 shows, higher performance-approach goals combined with higher self-efficacy were a strong predictor of performance-avoid goals in seventh grade. Figure 3 also reveals the interesting finding that the relations between self-efficacy and task goals across the grades was lower for students with higher performanceavoid goals.",
+                "cite_spans": [
+                    {
+                        "start": 637,
+                        "end": 658,
+                        "text": "Aiken and West (1991)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 661,
+                        "end": 676,
+                        "text": "Figures 2 and 3",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 717,
+                        "end": 725,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 871,
+                        "end": 879,
+                        "text": "Figure 3",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Multiple Regression",
+                "sec_num": "3.2.1."
+            },
+            {
+                "text": "As the results of the multiple regression were slightly different from those in the LISREL model, we used a second method to test the possible moderating effect of self-efficacy in predicting performance-avoid goals in seventh grade: a multi- sample LISREL analysis testing the relations among the constructs with three different levels of self-efficacy. Based on the frequency counts on the self-efficacy scale, which ranged from 1 to 5, we divided the sample into three groups fairly similar in size. One group included all students with scores lower than 3.6 on the scale. A second group included students with scores that were equal to or higher than 3.6 and lower than 4.6. A third group included students who had scores equal to or higher than 4.6. After a listwise deletion of missing data, the three groups had the following sizes: low efficacy: N = 131; medium efficacy: N = 129; high efficacy: N = 170. As gender and ethnicity did not emerge as significant predictors of performance goals in seventh grade, they were not included in this analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "MULTI-SAMPLE ANALYSIS",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "We tested a model leading from performance-approach and avoid goals in sixth grade to performance-approach and avoid goals in seventh grade. We first tested the model with the assumption that these paths were equal among the three groups. The fit for this model was: \u03c7 2 (619) = 908.86, p < 0.001, TLI = 0.91, CFI =0.91, RMSEA = 0.033 with P (0.05) = 1.00. The results of this analysis replicated the Figure 4 . The relations between performance-approach and performance-avoid achievement goals for mathematics in sixth and seventh grades among groups low, medium, and high in self-efficacy for mathematics in sixth grade. findings of the model tested for the whole sample. Next we tested the model with the structural paths freed to be estimated for the three groups. The fit for this model was: \u03c7 2 (611) = 892.16, p <0.001, TLI = 0.91, CFI = 0.92, RMSEA = 0.033 with P (0.05) = 1.00. The difference in chi-square ( \u03c7 2 = 16.7, df = 8, p < 0.05) indicated that the structural paths were significantly different among the groups. The different paths are presented in Figure 4 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 401,
+                        "end": 409,
+                        "text": "Figure 4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1068,
+                        "end": 1076,
+                        "text": "Figure 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Testing the Structural Model Using Multi-Sample Analysis",
+                "sec_num": "3.3.1."
+            },
+            {
+                "text": "As can be seen in Figure 4 , the significant path leading from performanceapproach goals in sixth grade to performance-avoid in seventh grade was significant only among the high efficacy group, confirming the results of the multiple regression analysis. In addition, the structural path from performance-avoid in sixth grade to performance-avoid in seventh grade was not significant in this group.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 18,
+                        "end": 26,
+                        "text": "Figure 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Testing the Structural Model Using Multi-Sample Analysis",
+                "sec_num": "3.3.1."
+            },
+            {
+                "text": "Underlying the differences among efficacy groups is the assumption that the changes observed in achievement goal orientations are linked to changes in the environment. For example, do students with high efficacy seem more susceptible to changes in the environment across time that might elicit performance-avoid goals?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Link to the Environment",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "We were limited in our ability to test this with the data that were available to us. However, we were able to consider the effect of changes in math grades across the two years. We created continuous variables for change in grades (the subtraction of sixth grade math grades from seventh grade math grades) and change in efficacy (the subtraction of sixth grade efficacy from seventh grade efficacy). Both variables were normally distributed with means close to zero. The correlation of change in efficacy with change in grades was 0.11 (p <0.05) for the whole sample. However, when this correlation was examined among the three groups with different levels of efficacy in sixth grade (low, medium and high), the correlation was only significant among high efficacy students. This finding suggests that the way students with high efficacy respond to change is different from the way lower efficacy students respond. For example, students with higher efficacy may perceive a drop in grades when faced with a new environment as an indication of lower efficacy and therefore possibly more of a threat.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Link to the Environment",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "This study investigated how performance goals change across schools years, with particular attention to the role of academic self-efficacy. Unlike previous research which considered prior goals as a control for future goals, and efficacy as an outcome related to goals or as a moderator between goals and outcomes, we examined the stability for achievement goal orientations, with goals at sixth grade predicting the same goal orientation at seventh grade; the relations among performanceapproach and avoid goals over time; and the role of self-efficacy as a moderator in those relations.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "We found that task goals were stable over time and that sixth grade task goals predicted seventh grade efficacy. It makes sense that engaging in achievement behavior for the purpose of mastery and improvement would relate to espousing these reasons for doing work even in new contexts. Prior research has shown that students who espouse task goals are effortful and are likely to engage in self-regulating behavior. They are focused on the task rather than the self (Dweck, 1986) and thus may be less likely to be affected by changes in context. Generally, efficacy in sixth grade did not predict task goals in seventh grade. Theoreticians have questioned whether efficacy influences task goals, or task goals influence a sense of efficacy. Although these are correlational data, the finding does lend some support for the belief that task goals influence efficacy. Whereas high quality engagement may contribute to higher academic efficacy, mere perceptions of high ability do not necessarily lead to engagement out of the desire to learn and improve (i.e., Dweck, 1986) .",
+                "cite_spans": [
+                    {
+                        "start": 466,
+                        "end": 479,
+                        "text": "(Dweck, 1986)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1059,
+                        "end": 1071,
+                        "text": "Dweck, 1986)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "As researchers continue to examine the nature of performance goals, such as the recent attention to performance-avoid goals and the facilitative nature of performance-approach goals, this study contributes to our knowledge. Each component of performance goal orientation was found to be stable over time. In addition, a performance-approach goal orientation was related to performance-avoid orientation at a later time. Moreover, academic self-efficacy interacted with prior goals in predicting future performance goal orientation. The findings suggest that feeling academically efficacious and endorsing performance-approach goals is predictive of developing the less adaptive performance-avoid goals when moving to a new learning environment. The findings suggest that in some cases performanceapproach and performance-avoidance orientations may be two sides of the same achievement goal -a general concern with demonstration of ability -and that the adoption of approach and avoidance orientations may be a matter of circumstances. Individuals who are oriented to demonstrating their ability, and who perceive that they have high ability, may find themselves in a situation where they begin to take steps to avoid the demonstration of lack of ability in order to protect their image. Ames and Ames (1984) suggest: \"Even children with generally positive self-views have been found to become self-punitive when they experience failure in competitive settings (C. Ames, 1978) , suggesting that students with high selfconcepts can react negatively to a competitive loss\" (p. 45). Perhaps students who move toward endorsing performance-avoid goals are reacting negatively to the possibility of a competitive loss. We consider this to be an interesting and important finding.",
+                "cite_spans": [
+                    {
+                        "start": 1287,
+                        "end": 1307,
+                        "text": "Ames and Ames (1984)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1464,
+                        "end": 1475,
+                        "text": "Ames, 1978)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "Research on the approach and avoidance components of performance goals indicated that approach goals were the more adaptive orientation (Middleton & Midgley, 1997; Skaalvik, 1997) . Indeed, several theorists have suggested that performance-approach goals have benefits for students (Elliot & Harackiewicz, 1996; Harackiewicz, Barron, & Elliot, 1998; Pintrich, 2000; Harackiewicz et al., 2002) . Similarly, research indicates that performance goals combined with high perceived efficacy are associated with positive outcomes, at least when the outcomes are measured concurrently (Dweck & Leggett, 1988; Elliott & Dweck, 1988 ). This does not appear to be true for performance-avoid goals. Indeed, in our study, performance-avoid goals even lowered any slight relations between academic efficacy and engagement that focuses on learning and understanding.",
+                "cite_spans": [
+                    {
+                        "start": 136,
+                        "end": 163,
+                        "text": "(Middleton & Midgley, 1997;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 164,
+                        "end": 179,
+                        "text": "Skaalvik, 1997)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 282,
+                        "end": 311,
+                        "text": "(Elliot & Harackiewicz, 1996;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 312,
+                        "end": 349,
+                        "text": "Harackiewicz, Barron, & Elliot, 1998;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 350,
+                        "end": 365,
+                        "text": "Pintrich, 2000;",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 366,
+                        "end": 392,
+                        "text": "Harackiewicz et al., 2002)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 578,
+                        "end": 601,
+                        "text": "(Dweck & Leggett, 1988;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 602,
+                        "end": 623,
+                        "text": "Elliott & Dweck, 1988",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "Also in contrast to the assertions that performance goals combined with efficacy are associated with positive outcomes, this study suggests that being performance-approach oriented, while perhaps adaptive under some circumstances (Midgley, Kaplan, & Middleton, 2001) , may place students with high perceived efficacy in a vulnerable situation as they move to a new learning environment. Self-efficacy seems to be stable from sixth to seventh grade but not for all students. Being confident of one's ability in one learning environment for performance-oriented students may be related to being confident of performance expectations and measures which may change in different learning environments. This would be particularly true if individuals moved to an environment with an increased emphasis on relative ability, as may be the case when students move from sixth to seventh grade in middle school. As students with performance goals are oriented towards social comparison, moving to a new environment with new material -particularly in math -and new students to whom one's ability can be compared may serve as a threat or may activate a fear of failure (Elliot, 1997) . This fear of failure may lead these students to self-protection or to adopt learning goals focused around not wanting to appear unable. Unlike students with high-perceived efficacy, students with performance-approach goals and lower academic efficacy are familiar with this threat and thus may not manifest a change in their goals. Indeed, in comparison to low efficacy students, high-efficacy students may rely more on sense of relative ability in their orientation to demonstrate superior ability. They are therefore more likely to be sensitive to changes in the environment that suggest that their relative ability is not as high.",
+                "cite_spans": [
+                    {
+                        "start": 230,
+                        "end": 266,
+                        "text": "(Midgley, Kaplan, & Middleton, 2001)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1155,
+                        "end": 1169,
+                        "text": "(Elliot, 1997)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "The higher sensitivity of high-efficacy students to the environment may explain also the finding that among high-efficacy students, performance-avoid goals were not stable across grades (see Figure 4 ). Students who felt they could master the work for their math course were not consistent over time in their report of whether they do their work to avoid appearing unable. Perhaps the nature of the classroom environment is very salient for these students and their perceptions of personal goals are more closely tied to their classroom context rather than with individual characteristics with which they enter a class. More research with students with high academic efficacy might help us understand their orientation toward avoiding the demonstration of lack of ability lacks stability over time. They may be particularly sensitive to the goals that are emphasized in their classrooms. In future research greater attention should be paid to the ways in which the classroom environment changes from year to year, as well as changes in students' experiences of success.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 191,
+                        "end": 199,
+                        "text": "Figure 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "Achievement goal theory is a central theoretical framework for research and practice in educational motivation (e.g., Ames, 1990; Maehr & Midgley, 1996; Covington, 2000; Pintrich, 2000) . It is important, therefore, that in addressing the concerns of educators about improving students' achievement and well-being through their patterns of beliefs and behaviors, the consequences of adopting different achievement goals be investigated thoroughly.",
+                "cite_spans": [
+                    {
+                        "start": 118,
+                        "end": 129,
+                        "text": "Ames, 1990;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 130,
+                        "end": 152,
+                        "text": "Maehr & Midgley, 1996;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 153,
+                        "end": 169,
+                        "text": "Covington, 2000;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 170,
+                        "end": 185,
+                        "text": "Pintrich, 2000)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "While performance-approach goals and feeling efficacious have been suggested as desired motivational orientations (Harackiewicz et al., 1998) , we have shown that these recommendations should be taken with caution. Simply feeling efficacious may not be associated with positive patterns, and being oriented to demonstrating ability may be problematic over time for some students. Speculation about the benefits of such an orientation may be premature until we examine the effects over time, and as we continue to examine separately the avoidance and approach components of performance goals. Future research should pay attention to the development of goals within and across learning environments, to their interaction with other motivational processes, and to their longitudinal relations with a variety of outcomes.",
+                "cite_spans": [
+                    {
+                        "start": 114,
+                        "end": 141,
+                        "text": "(Harackiewicz et al., 1998)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "One reason I might not participate in math class is to avoid looking stupid.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "X15; Y15",
+                "sec_num": null
+            },
+            {
+                "text": "One of my main goals in math is to avoid looking like I can not do my work.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "X16; Y16",
+                "sec_num": null
+            },
+            {
+                "text": "Self-efficacy in mathematics (alpha level sixth grade = 0.85; seventh grade = 0.84) X17; Y17 I am certain I can master the skills taught in math this year. X18; Y18 I can do even the hardest work in my math class if I try. X19; Y19",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "X16; Y16",
+                "sec_num": null
+            },
+            {
+                "text": "I can do almost all the work in math if I do not give up. X20; Y20",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "X16; Y16",
+                "sec_num": null
+            },
+            {
+                "text": "Even if the work in math is hard, I can learn it. X21; Y21",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "X16; Y16",
+                "sec_num": null
+            },
+            {
+                "text": "I am certain I can figure out how to do even the most difficult math work.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "X16; Y16",
+                "sec_num": null
+            },
+            {
+                "text": "No matter how hard I try, there is some math work I will never understand. (Reverse item) * Slight change in wording from sixth to seventh grade survey.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "X22; Y22",
+                "sec_num": null
+            },
+            {
+                "text": "1 More recently, a distinction has also been made between approach and avoidance components of mastery goals (Linnenbrink & Pintrich, 2000; Elliot & McGregor, 2001 ). Relatively little research has been conducted with the avoid aspect of mastery goals to date. This study did not assess mastery-avoid goals.",
+                "cite_spans": [
+                    {
+                        "start": 109,
+                        "end": 139,
+                        "text": "(Linnenbrink & Pintrich, 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 140,
+                        "end": 163,
+                        "text": "Elliot & McGregor, 2001",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Endnotes",
+                "sec_num": null
+            },
+            {
+                "text": "2 See Kaplan and Midgley (1997) for a discussion of these findings.",
+                "cite_spans": [
+                    {
+                        "start": 6,
+                        "end": 31,
+                        "text": "Kaplan and Midgley (1997)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Endnotes",
+                "sec_num": null
+            },
+            {
+                "text": "3 Covariance matrices and standard deviations for items in the measurement models are available by contacting the second author. 4 The ethnicity variable was constructed with the two ethnic groups -African-American and European-American. Our sample size of other ethnic groups was too small to include as separate groups in analyses and those cases were dropped from the analysis.",
+                "cite_spans": [
+                    {
+                        "start": 129,
+                        "end": 130,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Endnotes",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "This research was supported by a grant from the W.T. Grant Foundation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgement",
+                "sec_num": null
+            },
+            {
+                "text": "Math task goal orientation (alpha level sixth grade = 0.84; seventh grade = 0.80) X1; Y1 I like math work that I will learn from, even if I make a lot of mistakes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Appendix A. List of items appearing in Figure 1 and reliabilities for scales",
+                "sec_num": null
+            },
+            {
+                "text": "An ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "X2; Y2",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Multiple regression: Testing and interpreting interactions",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Aiken",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "West",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Aiken, L.S. & West, S.G. (1991). Multiple regression: Testing and interpreting interactions. Thousand Oaks, CA: Sage Publications, Inc.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Classrooms: goals, structures, and motivation",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Ames",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of Educational Psychology",
+                "volume": "84",
+                "issue": "",
+                "pages": "261--271",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ames, C. (1992). Classrooms: goals, structures, and motivation. Journal of Educational Psychology, 84, 261-271.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Goal structures and motivation",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Ames",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Ames",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Elementary School Journal",
+                "volume": "85",
+                "issue": "",
+                "pages": "39--52",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ames, C. & Ames, R. (1984). Goal structures and motivation. Elementary School Journal, 85, 39-52.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Achievement goals in the classroom: students' learning strategies and motivation process",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Ames",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Archer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Educational Psychology",
+                "volume": "80",
+                "issue": "",
+                "pages": "260--267",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ames, C. & Archer, J. (1988). Achievement goals in the classroom: students' learning strategies and motivation process. Journal of Educational Psychology, 80, 260-267.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Motivation: What teachers need to know",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Ames",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Teachers College Record",
+                "volume": "91",
+                "issue": "",
+                "pages": "409--421",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ames, C. (1990). Motivation: What teachers need to know. Teachers College Record, 91, 409-421.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Motivation and schooling in the middle grades",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Review of Educational Research",
+                "volume": "64",
+                "issue": "",
+                "pages": "287--309",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, E.M. & Maehr, M.L. (1994). Motivation and schooling in the middle grades. Review of Educational Research, 64, 287-309.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Changes in achievement goals orientations, perceived academic competence, and grades across the transition to middle-level schools",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "22",
+                "issue": "",
+                "pages": "269--298",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderman, E.M. & Midgley, C. (1997). Changes in achievement goals orientations, perceived academic competence, and grades across the transition to middle-level schools. Contemporary Educational Psychology, 22, 269-298.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Alternative ways of assessing model fit",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Browne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Cudek",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "136--162",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Browne, M.W. & Cudek, R. (1993). Alternative ways of assessing model fit. In K. Bollen & J. Long (Eds.), Testing structural equation models. Newbury Park, CA: Sage; pp. 136-162.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Turning points: Preparing American youth for the 21st century",
+                "authors": [],
+                "year": 1989,
+                "venue": "Carnegie Council on Adolescent Development",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Carnegie Council on Adolescent Development. (1989). Turning points: Preparing American youth for the 21st century. New York: Carnegie Foundation.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Perceptions of classroom environment, achievement goals, and achievement outcomes",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Church",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Elliot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Gable",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "43--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Church, M.A., Elliot, A.J., & Gable, S.L. (2001). Perceptions of classroom environment, achieve- ment goals, and achievement outcomes. Journal of Educational Psychology, 93, 43-54.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Goal theory, motivation, and school achievement: an integrative review",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Covington",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Annual Review of Psychology",
+                "volume": "51",
+                "issue": "",
+                "pages": "171--200",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Covington, M.V. (2000). Goal theory, motivation, and school achievement: an integrative review. Annual Review of Psychology, 51, 171-200.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Motivational processes affecting learning",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Psychologist",
+                "volume": "40",
+                "issue": "",
+                "pages": "1040--1048",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dweck, C.S. (1986). Motivational processes affecting learning. American Psychologist, 40, 1040-1048.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "A social-cognitive approach to motivation and personality",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Leggett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Psychological Review",
+                "volume": "95",
+                "issue": "",
+                "pages": "256--273",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dweck, C.S. & Leggett, E.L. (1988). A social-cognitive approach to motivation and personality. Psychological Review, 95, 256-273.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Integrating the 'classic' and 'contemporary' approaches to achievement motivation: a hierarchical model of approach and avoidance achievement motivation",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Elliot",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Advances in motivation and achievement",
+                "volume": "10",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Elliot, A.J. (1997). Integrating the 'classic' and 'contemporary' approaches to achievement motiv- ation: a hierarchical model of approach and avoidance achievement motivation. In M.L. Maehr and P.R. Pintrich (Eds.), Advances in motivation and achievement, (Vol. 10). Greenwich, CT: JAI Press.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "A hierarchical model of approach and avoidance achievement motivation",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Elliot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Church",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "72",
+                "issue": "",
+                "pages": "218--232",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Elliot, A.J. & Church, M.A. (1997). A hierarchical model of approach and avoidance achievement motivation. Journal of Personality and Social Psychology, 72, 218-232.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Goals: an approach to motivation and achievement",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Elliott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "70",
+                "issue": "",
+                "pages": "461--475",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Elliott, E.S. & Dweck, C.S. (1988). Goals: an approach to motivation and achievement. Journal of Personality and Social Psychology, 70, 461-475.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Approach and avoidance goals and intrinsic motivation: a mediational analysis",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Elliot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Harackiewicz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "70",
+                "issue": "",
+                "pages": "461--475",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Elliot, A.J. & Harackiewicz, J.M. (1996). Approach and avoidance goals and intrinsic motivation: a mediational analysis. Journal of Personality and Social Psychology, 70, 461-475.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Achievement goals, study strategies, and exam performance: a mediational analysis",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Elliot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Mcgregor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gable",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Educational Psychology",
+                "volume": "91",
+                "issue": "",
+                "pages": "549--563",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Elliot, A.J., McGregor, H.A., & Gable, S. (1999). Achievement goals, study strategies, and exam performance: a mediational analysis. Journal of Educational Psychology, 91, 549-563.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Motivation in African Americans",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Graham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Review of Educational Research",
+                "volume": "64",
+                "issue": "",
+                "pages": "55--117",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Graham, S. (1994). Motivation in African Americans. Review of Educational Research, 64, 55-117.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Rethinking achievement goals: when are they adaptive for college students and why?",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Harackiewicz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Barron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Elliot",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Educational Psychologist",
+                "volume": "33",
+                "issue": "",
+                "pages": "1--21",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harackiewicz, J.M., Barron, K.E., & Elliot, A.J. (1998). Rethinking achievement goals: when are they adaptive for college students and why? Educational Psychologist, 33, 1-21.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Revision of achievement goal theory: necessary and illuminating",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Harackiewicz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Barron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Elliot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Thrash",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Educational Psychology",
+                "volume": "92",
+                "issue": "",
+                "pages": "638--645",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harackiewicz, J.M., Barron, K.E., Pintrich, P.R., Elliot, A.J., & Thrash, T.M. (2002). Revision of achievement goal theory: necessary and illuminating. Journal of Educational Psychology, 92, 638-645.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Writing about structural equation models",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hoyle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Panter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Structural equation modeling: Concepts, issues, and applications",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hoyle, R.H. & Panter, A.T. (1995). Writing about structural equation models. In R.H. Hoyle (Ed.), Structural equation modeling: Concepts, issues, and applications. Thousand Oaks, CA: Sage Publications.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Structural equation modeling: Concepts, issues, and applications",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Hu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hu, L. & Bentler, P.M. (1995). Evaluating model fit. In R.H. Hoyle (Ed.), Structural equa- tion modeling: Concepts, issues, and applications. Thousand Oaks, CA: Sage Publications;",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "LISREL approaches to interaction effects in multiple regression",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Jaccard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Wan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jaccard, J. & Wan, C.K. (1996). LISREL approaches to interaction effects in multiple regression. Thousand Oaks, CA: Sage Publications.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "LISREL 8: User's reference guide",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "J\u00f6reskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "S\u00f6rbom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Chicago: Scientific Software",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f6reskog, K.G. & S\u00f6rbom, D. (1993). LISREL 8: User's reference guide. Chicago: Scientific Software.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Should childhood be a journey or a race? A response to Harackiewicz et",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Middleton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Educational Psychology",
+                "volume": "94",
+                "issue": "",
+                "pages": "646--648",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaplan, A. & Middleton, M.J. (2002). Should childhood be a journey or a race? A response to Harackiewicz et al. (2002). Journal of Educational Psychology, 94, 646-648.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Achievement goals and goal structures",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Middleton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Urdan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Goals, goal structures, and patterns of adaptive learning",
+                "volume": "",
+                "issue": "",
+                "pages": "21--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaplan, A., Middleton, M.J., Urdan, T., & Midgley, C. (2002). Achievement goals and goal struc- tures. In C. Midgley (Ed.), Goals, goal structures, and patterns of adaptive learning. Mahwah, NJ: Erlbaum Associates; pp. 21-54.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "The effect of achievement goals: does level of perceived academic competence make a difference?",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "22",
+                "issue": "",
+                "pages": "415--435",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaplan, A. & Midgley, C. (1997). The effect of achievement goals: does level of per- ceived academic competence make a difference? Contemporary Educational Psychology, 22, 415-435.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "The relationship between perceptions of the classroom goal structure and early adolescents' affect in school: the mediating role of coping strategies",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Learning and Individual Differences",
+                "volume": "11",
+                "issue": "",
+                "pages": "187--212",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaplan, A. & Midgley, C. (1999). The relationship between perceptions of the classroom goal struc- ture and early adolescents' affect in school: the mediating role of coping strategies. Learning and Individual Differences, 11, 187-212.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Transforming school cultures",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Maehr, M.L. & Midgley, C. (1996). Transforming school cultures. Boulder, CO: Westview Press.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Students' goal orientation and cognitive engagement in classroom activities",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Meece",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Blumenfeld",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hoyle",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Educational Psychology",
+                "volume": "80",
+                "issue": "",
+                "pages": "514--523",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Meece, J.L., Blumenfeld, P.C., & Hoyle, R.H. (1988). Students' goal orientation and cognitive engagement in classroom activities. Journal of Educational Psychology, 80, 514-523.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "The attitude-achievement paradox among Black adolescents",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Mickelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Sociology of Education",
+                "volume": "63",
+                "issue": "",
+                "pages": "44--61",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mickelson, R.A. (1990). The attitude-achievement paradox among Black adolescents. Sociology of Education, 63, 44-61.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Avoiding the demonstration of lack of ability: an underexplored aspect of goal theory",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Middleton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Educational Psychology",
+                "volume": "89",
+                "issue": "",
+                "pages": "710--718",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Middleton, M.J. & Midgley, C. (1997). Avoiding the demonstration of lack of ability: an under- explored aspect of goal theory. Journal of Educational Psychology, 89, 710-718.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Approach and avoid goal structures: Relating classroom and personal goal orientations",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Middleton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Gheen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Hruda",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Anderman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Middleton, M.J., Gheen, M., Midgley, C., Hruda, L., & Anderman, E. (2000). Approach and avoid goal structures: Relating classroom and personal goal orientations. Paper presented at the 2000 Annual Meeting of the American Psychological Association, Washington, DC.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Motivation and middle level schools",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Advances in motivation and achievement",
+                "volume": "8",
+                "issue": "",
+                "pages": "217--274",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Midgley, C. (1993). Motivation and middle level schools. In Advances in motivation and achieve- ment. (Vol. 8). JAI Press; pp. 217-274.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Predictors of middle school students' use of self-handicapping strategies",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Urdan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Early Adolescence",
+                "volume": "15",
+                "issue": "",
+                "pages": "90--113",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Midgley, C. & Urdan, T. (1995). Predictors of middle school students' use of self-handicapping strategies. Journal of Early Adolescence, 15, 90-113.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Performance-approach goals: good for what, for whom, under what circumstances, and at what cost?",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Middleton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "77--86",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Midgley, C., Kaplan, A., & Middleton, M.J. (2001). Performance-approach goals: good for what, for whom, under what circumstances, and at what cost? Journal of Educational Psychology, 93, 77-86.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "The development and validation of scales assessing students' achievement goal orientations",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Middleton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maehr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Urdan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Roeser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "23",
+                "issue": "",
+                "pages": "113--131",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Midgley, C., Kaplan, A., Middleton, M., Maehr, M.L., Urdan, T., Anderman, L.H., Anderman, E., & Roeser, R. (1998). The development and validation of scales assessing students' achievement goal orientations. Contemporary Educational Psychology, 23, 113-131.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Goals and perceived ability: impact on student valuing, self-regulation, and persistence",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Miller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Behrens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Greene",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Newman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "18",
+                "issue": "",
+                "pages": "2--14",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Miller, R.B., Behrens, J.T., Greene, B.A., & Newman, D. (1993). Goals and perceived ability: impact on student valuing, self-regulation, and persistence. Contemporary Educational Psychology, 18, 2-14.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Nicholls",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Psychological Review",
+                "volume": "91",
+                "issue": "",
+                "pages": "328--346",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nicholls, J.G. (1984). Achievement motivation: Conceptions of ability, subjective experience, task choice, and performance. Psychological Review, 91, 328-346.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Adolescents' theories of education",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Nicholls",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Patashnick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nolen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Journal of Educational Psychology",
+                "volume": "77",
+                "issue": "",
+                "pages": "683--692",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nicholls, J.G., Patashnick, M., & Nolen, S. (1985). Adolescents' theories of education. Journal of Educational Psychology, 77, 683-692.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Personal and environmental influences on students' beliefs about effective study strategies",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Nolen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Haladyna",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "15",
+                "issue": "",
+                "pages": "116--130",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nolen, S.B. & Haladyna, T.M. (1990). Personal and environmental influences on students' beliefs about effective study strategies. Contemporary Educational Psychology, 15, 116-130.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "The dynamic interplay of student motivation and cognition in the college classroom",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Advances in motivation and achievement: Motivation-enhancing environments",
+                "volume": "6",
+                "issue": "",
+                "pages": "117--160",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pintrich, P.R. (1989). The dynamic interplay of student motivation and cognition in the col- lege classroom. In M. Maehr & C. Ames (Eds.), Advances in motivation and achievement: Motivation-enhancing environments (Vol. 6). Greenwich, CT: JAI Press; pp. 117-160.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Continuities and discontinuities: future directions for research in educational psychology",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Educational Psychologist",
+                "volume": "29",
+                "issue": "",
+                "pages": "137--148",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pintrich, P.R. (1994). Continuities and discontinuities: future directions for research in educational psychology. Educational Psychologist, 29, 137-148.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Multiple goals, multiple pathways: the role of goal orientation in learning and achievement",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Educational Psychology",
+                "volume": "92",
+                "issue": "",
+                "pages": "544--555",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pintrich, P.R. (2000). Multiple goals, multiple pathways: the role of goal orientation in learning and achievement. Journal of Educational Psychology, 92, 544-555.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Self-efficacy and academic motivation",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Schunk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Educational Psychology",
+                "volume": "26",
+                "issue": "",
+                "pages": "207--231",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schunk, D.H. (1991). Self-efficacy and academic motivation. Educational Psychology, 26, 207-231.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Self-enhancing and self-defeating ego orientation: relations with task and avoidance orientation, achievement, self-perceptions, and anxiety",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Educational Psychology",
+                "volume": "89",
+                "issue": "",
+                "pages": "1--11",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E.M. (1997). Self-enhancing and self-defeating ego orientation: relations with task and avoidance orientation, achievement, self-perceptions, and anxiety. Journal of Educational Psychology, 89, 1-11.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Self-enhancing and self-defeating ego-goals: Relations with task and avoidance goals, achievement, and self-perceptions",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E.M. (1998, April). Self-enhancing and self-defeating ego-goals: Relations with task and avoidance goals, achievement, and self-perceptions. Paper presented at the Annual Meeting of the American Educational Research Association in San Diego.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Student views about learning math and social studies",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Stodolsky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Salk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Glaessner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "American Educational Research Journal",
+                "volume": "33",
+                "issue": "",
+                "pages": "359--382",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stodolsky, S.S., Salk, S., & Glaessner, B. (1991). Student views about learning math and social studies. American Educational Research Journal, 33, 359-382.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Achievement goal theory: past results, future directions",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Urdan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Advances in motivation and achievement",
+                "volume": "10",
+                "issue": "",
+                "pages": "99--141",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Urdan, T. (1997). Achievement goal theory: past results, future directions. In M.L. Maehr & P.R. Pintrich (Eds.), Advances in motivation and achievement, (Vol. 10). Greenwich, CT: JAI Press; pp. 99-141.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "The relations between goal orientation and students' motivational beliefs and self-regulated learning",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Wolters",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Yu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Learning and Individual Differences",
+                "volume": "8",
+                "issue": "",
+                "pages": "211--238",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wolters, C.A., Yu, S.L., & Pintrich, P.R. (1996). The relations between goal orientation and stu- dents' motivational beliefs and self-regulated learning. Learning and Individual Differences, 8, 211-238.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "The relations between achievement goals and self-efficacy for mathematics in sixth and seventh grades."
+            },
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Performance-approach and self-efficacy in sixth grade predicting performanceavoidance in seventh grade."
+            },
+            "FIGREF2": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Performance-avoid and self-efficacy in sixth grade predicting task goals in seventh grade."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td>Independent variables</td><td/><td>Beta</td><td>Beta</td><td/><td>Beta</td><td/><td>Beta</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Gender (male = 0; female = 1)</td><td>\u22120.13</td><td>\u22120.07</td><td/><td>\u22120.06</td><td/><td>\u22120.07</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Ethnicity (African Am = 0, White = 1)</td><td>\u22120.13</td><td>\u22120.05</td><td/><td>\u22120.04</td><td/><td>\u22120.05</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Math grades sixth grade</td><td>\u22120.04</td><td>\u22120.02</td><td/><td>\u22120.03</td><td/><td>\u22120.03</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Math performance-approach sixth grade</td><td/><td colspan=\"2\">0.47  *  *  *</td><td colspan=\"2\">0.41  *  *  *</td><td colspan=\"2\">0.36  *  *  *</td><td/><td/><td/></tr><tr><td colspan=\"2\">Math task goals sixth grade</td><td/><td/><td/><td>0.08</td><td/><td>0.05</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Math performance-avoid sixth grade</td><td/><td/><td/><td>0.12</td><td/><td>0.13</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Math self-efficacy sixth grade</td><td/><td/><td/><td>0.01</td><td/><td>0.00</td><td/><td/><td/><td/></tr><tr><td>Task \u00d7 self-efficacy</td><td>Scale</td><td/><td/><td>M</td><td>S D</td><td>1 2</td><td>0.05</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td colspan=\"10\">1. Task sixth grade Performance-approach \u00d7 self-efficacy 2. Task seventh grade Performance-avoid \u00d7 self-efficacy 3. Performance-approach sixth grade Adj. R 2 0.02 0.23 4. Performance-approach seventh grade 2.55 1.06 3.26 1.06 -0.47  *  *  *  0.13 3.19 1.09 -0.03 2.77 1.13 0.23 0.23 5. Performance-avoid sixth grade 2.41 1.02 6. Performance-avoid seventh grade 2.06 0.90  Table III. Results of multiple regression of achievement goals and self-efficacy in sixth grade 0.06 \u22120.03 \u22120.04 0.06 -0.51  *  *  *  -</td><td>0.02 \u22120.10  *  0.58  *  *  *  0.33  *  *  *  -</td><td colspan=\"2\">\u22120.01 \u22120.03 0.36  *  *  *  0.62  *  *  *  \u22120.07 0.46  *  *  *  0.25  *  *  *  0.01 0.44  *  *  *  \u22120.07 -\u22120.07</td><td>0.26  *  *  *  0.39  *  *  *  \u22120.08 \u22120.04 \u22120.16  *  *  \u22120.16  *  *</td></tr><tr><td colspan=\"3\">7. Self-efficacy sixth grade predicting performance-avoid goals in seventh grade</td><td/><td colspan=\"2\">4.10 0.86</td><td/><td/><td/><td/><td/><td/><td>-</td><td>0.42  *  *  *</td></tr><tr><td>Independent variables</td><td colspan=\"2\">8. Self-efficacy seventh grade Beta</td><td>Beta</td><td colspan=\"2\">3.97 0.87 Beta</td><td/><td>Beta</td><td/><td/><td/><td/><td>-</td></tr><tr><td colspan=\"5\">*  p &lt; 0.05,  *  *  p &lt; 0.01,  *  *  *  p &lt; 0.001. Gender (male = 0; female = 1) \u22120.20  *  *  \u22120.15  *</td><td>\u22120.14</td><td/><td>\u22120.15  *</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Ethnicity (African Am = 0, White = 1)</td><td>\u22120.05</td><td>\u22120.05</td><td/><td>\u22120.03</td><td/><td>\u22120.05</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Math grades sixth grade</td><td>\u22120.11</td><td>\u22120.11</td><td/><td>\u22120.10</td><td/><td>\u22120.10</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Math performance-avoid sixth grade</td><td/><td colspan=\"2\">0.37  *  *  *</td><td colspan=\"2\">0.28  *  *</td><td colspan=\"2\">0.27  *  *  *</td><td/><td/><td/></tr><tr><td colspan=\"2\">Math task goals sixth grade</td><td/><td/><td/><td>\u22120.01</td><td/><td>\u22120.10</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Math performance-approach sixth grade</td><td/><td/><td/><td colspan=\"2\">0.17  *</td><td>0.06</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Math self-efficacy sixth grade</td><td/><td/><td/><td>0.00</td><td/><td>0.03</td><td/><td/><td/><td/></tr><tr><td>Task \u00d7 self-efficacy</td><td/><td/><td/><td/><td/><td/><td>0.17</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Performance-approach \u00d7 self-efficacy</td><td/><td/><td/><td/><td/><td>0.22  *</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Performance-avoid \u00d7 self-efficacy</td><td/><td/><td/><td/><td/><td>0.14</td><td/><td/><td/><td/></tr><tr><td>Adj. R 2</td><td/><td>0.05</td><td>0.17</td><td/><td>0.18</td><td/><td>0.25</td><td/><td/><td/><td/></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Correlations among achievement goals and self-efficacy in sixth and seventh gradeTable II. Results of multiple regression of achievement goals and self-efficacy in sixth grade predicting performance-approach goals in seventh grade"
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td>Independent variables</td><td>Beta</td><td>Beta</td><td>Beta</td><td>Beta</td></tr><tr><td>Gender (male = 0; female = 1)</td><td>\u22120.02</td><td>\u22120.03</td><td>\u22120.04</td><td>\u22120.04</td></tr><tr><td>Ethnicity (African Am = 0, White = 1)</td><td>\u22120.13</td><td>\u22120.14  *  *  *</td><td>\u22120.17  *  *  *</td><td>\u22120.17  *  *  *</td></tr><tr><td>Math grades sixth grade</td><td>0.19  *</td><td>0.16  *</td><td>0.12</td><td>0.13</td></tr><tr><td>Math task goals sixth grade</td><td/><td>0.27  *  *  *</td><td>0.17  *</td><td>0.19  *</td></tr><tr><td>Math performance-approach sixth grade</td><td/><td/><td>\u22120.05</td><td>\u22120.08</td></tr><tr><td>Math performance-avoid sixth grade</td><td/><td/><td>\u22120.09</td><td>\u22120.09</td></tr><tr><td>Math self-efficacy sixth grade</td><td/><td/><td>0.26  *  *</td><td>0.24  *  *</td></tr><tr><td>Task \u00d7 self-efficacy</td><td/><td/><td/><td>\u22120.04</td></tr><tr><td>Performance-approach \u00d7 self-efficacy</td><td/><td/><td/><td>0.07</td></tr><tr><td>Performance-avoid \u00d7 self-efficacy</td><td/><td/><td/><td>\u22120.02</td></tr><tr><td>Adj. R 2</td><td>0.03</td><td>0.10</td><td>0.17</td><td>0.16</td></tr><tr><td>*  p &lt; 0.05,  *  *  p &lt; 0.01,  *  *  *  p &lt; 0.001.</td><td/><td/><td/><td/></tr><tr><td colspan=\"5\">Table V. Results of multiple regression of achievement goals and self-efficacy in sixth grade</td></tr><tr><td>predicting self-efficacy in seventh grade</td><td/><td/><td/><td/></tr><tr><td>Independent variables</td><td>Beta</td><td>Beta</td><td>Beta</td><td>Beta</td></tr><tr><td>Gender (male = 0; female = 1)</td><td>\u22120.07</td><td>\u22120.06</td><td>\u22120.08</td><td>\u22120.09</td></tr><tr><td>Ethnicity (African Am = 0, White = 1)</td><td>\u22120.14</td><td>\u22120.15  *</td><td>\u22120.17  *</td><td>\u22120.17  *</td></tr><tr><td>Math grades sixth grade</td><td>0.25  *  *</td><td>0.18  *</td><td>0.17  *</td><td>0.18  *</td></tr><tr><td>Math self-efficacy sixth grade</td><td/><td>0.40  *  *  *</td><td>0.34  *  *  *</td><td>0.33  *  *  *</td></tr><tr><td>Math Task goals sixth grade</td><td/><td/><td>0.08</td><td>0.09</td></tr><tr><td>Math Performance-approach sixth grade</td><td/><td/><td>\u22120.03</td><td>\u22120.03</td></tr><tr><td>Math Performance-avoid sixth grade</td><td/><td/><td>\u22120.11</td><td>\u22120.12</td></tr><tr><td>Task \u00d7 self-efficacy</td><td/><td/><td/><td>\u22120.02</td></tr><tr><td>Performance-approach \u00d7 self-efficacy</td><td/><td/><td/><td>\u22120.01</td></tr><tr><td>Performance-avoid \u00d7 self-efficacy</td><td/><td/><td/><td>0.03</td></tr><tr><td>Adj. R 2</td><td>0.05</td><td>0.20</td><td>0.21</td><td>0.20</td></tr><tr><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "Results of multiple regression of achievement goals and self-efficacy in sixth grade predicting task goals in seventh grade"
+            }
+        }
+    }
+}

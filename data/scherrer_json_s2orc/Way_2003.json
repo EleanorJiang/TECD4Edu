@@ -1,0 +1,3225 @@
+{
+    "paper_id": "Way_2003",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-24T16:04:30.768384Z"
+    },
+    "title": "A Longitudinal Study of the Effects of Family, Friends, and School Experiences on the Psychological Adjustment of Ethnic Minority, Low-SES Adolescents",
+    "authors": [
+        {
+            "first": "Niobe",
+            "middle": [],
+            "last": "Way",
+            "suffix": "",
+            "affiliation": {},
+            "email": "niobe.way@nyu.edu"
+        },
+        {
+            "first": "Melissa",
+            "middle": [
+                "G"
+            ],
+            "last": "Robinson",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This study examined the independent and combined influence of demographic variables (gender and ethnicity) and contextual variables (perceived family and friend support, and school climate) on changes in psychological adjustment (self-esteem and depressive symptoms) over a 2-year period. The sample included 100 Black, Latino, and Asian American adolescents from low-income families. Hierarchical regression analyses indicated that the increase over time in reported levels of self-esteem was significantly greater for those who reported more positive perceptions of school climate at Time 1. Unexpectedly, the increase in self-esteem and the decrease in depressive symptoms over time were also significantly greater for those who reported lower family support at Time 1. Post hoc analyses were conducted to better understand the patterns detected. Findings underscore the importance of positive school experiences for students' psychological well-being and the need to examine the meaning of family support.",
+    "pdf_parse": {
+        "paper_id": "Way_2003",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "This study examined the independent and combined influence of demographic variables (gender and ethnicity) and contextual variables (perceived family and friend support, and school climate) on changes in psychological adjustment (self-esteem and depressive symptoms) over a 2-year period. The sample included 100 Black, Latino, and Asian American adolescents from low-income families. Hierarchical regression analyses indicated that the increase over time in reported levels of self-esteem was significantly greater for those who reported more positive perceptions of school climate at Time 1. Unexpectedly, the increase in self-esteem and the decrease in depressive symptoms over time were also significantly greater for those who reported lower family support at Time 1. Post hoc analyses were conducted to better understand the patterns detected. Findings underscore the importance of positive school experiences for students' psychological well-being and the need to examine the meaning of family support.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The importance of family and peer support and school experiences on the psychological adjustment of adolescents has been underscored by numerous theorists and researchers. Researchers have typically found that the perceived quality of family relationships, friendships, and/or school experiences are associated positively with psychological adjustment as indicated by self-esteem and/or depressive symptoms (DuBois, Felner, Brand, Adan, & Evans, 1992; Eccles, Early, Frasier, Belansky, & McCarthy, 1997; Harter & Whitesell, 1996; Hughes & Demo, 1989; Luster & McAdoo, 1995; McFarlane, Bellissimo, & Norman, 1995) . Few studies, however, have examined prospectively the relative influence of families, peers, and school experiences on the psychological adjustment of adolescents. Studies have typically been concurrent or cross-sectional and have focused on the effects of families and peers (separately or together) or of school experiences (e.g., Hoge, Smit, & Hanson, 1990 ) on psychological adjustment. In addition, few longitudinal studies have examined the predictors of psychological adjustment among ethnic minority and/or low-income adolescents. Although there exists some research on the predictors of psychological adjustment among African American, middle-class, and low-income adolescents (see Eccles et al., 1997; Coates, 1985; DuBois et al., 1992; Luster & McAdoo, 1995; Taylor, Casten, & Flickinger, 1993) , there exists almost no research on the predictors of psychological adjustment among Asian American or Latino adolescents of any socioeconomic status. The purpose of the present investigation was to examine prospectively the influence of perceptions of family support, friendship support, and school climate on psychological adjustment (i.e., selfesteem and depressive symptoms) among Black, Latino, and Asian American adolescents from low-income families.",
+                "cite_spans": [
+                    {
+                        "start": 407,
+                        "end": 451,
+                        "text": "(DuBois, Felner, Brand, Adan, & Evans, 1992;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 452,
+                        "end": 503,
+                        "text": "Eccles, Early, Frasier, Belansky, & McCarthy, 1997;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 504,
+                        "end": 529,
+                        "text": "Harter & Whitesell, 1996;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 530,
+                        "end": 550,
+                        "text": "Hughes & Demo, 1989;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 551,
+                        "end": 573,
+                        "text": "Luster & McAdoo, 1995;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 574,
+                        "end": 612,
+                        "text": "McFarlane, Bellissimo, & Norman, 1995)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 948,
+                        "end": 974,
+                        "text": "Hoge, Smit, & Hanson, 1990",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1306,
+                        "end": 1326,
+                        "text": "Eccles et al., 1997;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1327,
+                        "end": 1340,
+                        "text": "Coates, 1985;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1341,
+                        "end": 1361,
+                        "text": "DuBois et al., 1992;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1362,
+                        "end": 1384,
+                        "text": "Luster & McAdoo, 1995;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1385,
+                        "end": 1420,
+                        "text": "Taylor, Casten, & Flickinger, 1993)",
+                        "ref_id": "BIBREF58"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The influence of perceived family support on the psychological adjustment of adolescents has been repeatedly examined (Aseltine, Gore, & Colten, 1994; Feldman, Rubenstein, & Rubin, 1988; Luster & McAdoo, 1995; McFarlane et al., 1995; Paterson, Pryor, & Field, 1995) . Drawing from Cooley's (1902) conception of the \"looking glass self\" (p. 184), researchers have found that self-worth and depressed affect are influenced by one's perceptions of support from family members (Harter & Whitesell, 1996; Luster & McAdoo, 1995; Rubin et al., 1992) . Luster and McAdoo (1995) found in their study of 123 African American, low-income adolescents that the perceived quality of family relationships was positively correlated with selfesteem. Similarly, Harter and Whitesell (1996) in their cross-sectional study of 1,725 middle-class, primarily White adolescents found that parental support was positively associated with psychological adjustment (i.e., global self-worth and depressed affect). A few researchers have found that the association between perceptions of family support and psychological adjustment is moderated by gender. In their study of the relative influence of family and peer influence on depressed affect among adolescents, Rubin et al. (1992) noted that perceptions of family cohesion made an independent contribution to depressed affect only among the girls in their sample. Furthermore, under conditions of high stress, girls were found to be more \"protected\" emotionally by their family relationships than boys. Armsden (1986) has also noted that the correlation between parental support and self-esteem is higher for girls than for boys.",
+                "cite_spans": [
+                    {
+                        "start": 118,
+                        "end": 150,
+                        "text": "(Aseltine, Gore, & Colten, 1994;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 151,
+                        "end": 186,
+                        "text": "Feldman, Rubenstein, & Rubin, 1988;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 187,
+                        "end": 209,
+                        "text": "Luster & McAdoo, 1995;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 210,
+                        "end": 233,
+                        "text": "McFarlane et al., 1995;",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 234,
+                        "end": 265,
+                        "text": "Paterson, Pryor, & Field, 1995)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 281,
+                        "end": 296,
+                        "text": "Cooley's (1902)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 473,
+                        "end": 499,
+                        "text": "(Harter & Whitesell, 1996;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 500,
+                        "end": 522,
+                        "text": "Luster & McAdoo, 1995;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 523,
+                        "end": 542,
+                        "text": "Rubin et al., 1992)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 545,
+                        "end": 569,
+                        "text": "Luster and McAdoo (1995)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 744,
+                        "end": 771,
+                        "text": "Harter and Whitesell (1996)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1236,
+                        "end": 1255,
+                        "text": "Rubin et al. (1992)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 1528,
+                        "end": 1542,
+                        "text": "Armsden (1986)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Perceived Family Support and Psychological Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "A limitation of the research on family support and psychological adjustment is the lack of longitudinal studies. The longitudinal research that has been conducted has usually been between only 6 months to 1 year in duration. Consequently, we know little about the long-term effects of family support on the psychological adjustment of adolescents. Furthermore, the research on the effects of family support has focused predominantly on White middleclass or upper-class adolescents. Studies of the prospective effects of family support on the psychological adjustment of Black, Latino, and Asian American adolescents from low-income families are rare.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Perceived Family Support and Psychological Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "Another important support system that has been examined in relation to psychological adjustment is friendships or peer relations. Peers and friends are assumed to play an increasingly important role in the lives of adolescents (Savin-Williams & Berndt, 1990) . Research has typically found that perceived friendship quality, peer support, or attachment to friends is positively associated with self-esteem (Armsden & Greenberg, 1987; Buhrmester & Yin, 1997; Cauce, 1986; Coates, 1985; Dubow & Ullman, 1989; Hirsch & Rapkin, 1987; Keefe & Berndt, 1996; Ryan, Stiller, & Lynch, 1994) and negatively associated with both depressive symptoms (Armsden & Greenberg, 1987; Compas, Slavin, Wagner, & Vannatta, 1986; Licitra-Klecker & Waas, 1993) and psychosocial disturbance (Berndt & Hawkins, 1985; Buhrmester, 1990) . Way and Chen (2000) and Berndt and Savin-Williams (1993) have found that friendship support is positively associated with self-esteem and negatively associated with depressed feelings. Those who express greater satisfaction with their friends or peers typically report feeling better about themselves than those who express less satisfaction with friends and peers. A few studies, however, have indicated that this relationship is moderated by gender (DuBois & Hirsch, 1993; Fenzel & Blyth, 1986) , with activities with best friends or contact with peers being associated with higher self-esteem for boys but not for girls.",
+                "cite_spans": [
+                    {
+                        "start": 227,
+                        "end": 258,
+                        "text": "(Savin-Williams & Berndt, 1990)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 406,
+                        "end": 433,
+                        "text": "(Armsden & Greenberg, 1987;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 434,
+                        "end": 457,
+                        "text": "Buhrmester & Yin, 1997;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 458,
+                        "end": 470,
+                        "text": "Cauce, 1986;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 471,
+                        "end": 484,
+                        "text": "Coates, 1985;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 485,
+                        "end": 506,
+                        "text": "Dubow & Ullman, 1989;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 507,
+                        "end": 529,
+                        "text": "Hirsch & Rapkin, 1987;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 530,
+                        "end": 551,
+                        "text": "Keefe & Berndt, 1996;",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 552,
+                        "end": 581,
+                        "text": "Ryan, Stiller, & Lynch, 1994)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 638,
+                        "end": 665,
+                        "text": "(Armsden & Greenberg, 1987;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 666,
+                        "end": 707,
+                        "text": "Compas, Slavin, Wagner, & Vannatta, 1986;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 708,
+                        "end": 737,
+                        "text": "Licitra-Klecker & Waas, 1993)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 767,
+                        "end": 791,
+                        "text": "(Berndt & Hawkins, 1985;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 792,
+                        "end": 809,
+                        "text": "Buhrmester, 1990)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 812,
+                        "end": 831,
+                        "text": "Way and Chen (2000)",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 836,
+                        "end": 868,
+                        "text": "Berndt and Savin-Williams (1993)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1263,
+                        "end": 1286,
+                        "text": "(DuBois & Hirsch, 1993;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1287,
+                        "end": 1308,
+                        "text": "Fenzel & Blyth, 1986)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Perceived Friendship Support and Psychological Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "Similar to the research on families, a limitation of much of the research on friendships has been its cross-sectional approach (Buhrmester & Yin, 1997) . The research that has been longitudinal has found that although psychologi-cal adjustment (e.g., self-esteem and/or depressive symptoms) and friendship quality are highly correlated in concurrent data, friendship quality does not predict self-esteem over time (DuBois et al., 1992; Keefe & Berndt, 1996) . In their 1-year longitudinal study of junior high students' self-esteem and friendship support, Keefe and Berndt (1996) found that friendship support did not significantly predict changes over time in self-esteem. This finding, however, may have been due to the small amount of change in selfesteem over 1 year. Consequently, longitudinal research spanning a longer time period (more than 1 year) may be necessary to discern differences in self-esteem as a function of friendship support. Additionally, a lack of longitudinal relations between friendships and self-esteem may be limited to early adolescence, a time of considerable change in both the nature of friendships (Hartup, 1996) and in self-definition (Harter, 1990) . Consistent with this possibility, Buhrmester (1990) found that the association between friendship intimacy and psychological adjustment is relatively weak during preadolescence but is stronger during adolescence. This finding is congruent with Harry Stack Sullivan's (1953) theory that emphasizes the increasing importance of intimacy in friendships for the evaluation of self-worth during adolescence. Buhrmester and Yin (1997) found, in fact, that the quality of friendships among adolescents significantly predicted psychological adjustment (self-esteem and depressive symptoms) 2 years later. This small body of longitudinal research has been conducted primarily with White workingclass or middle-class adolescents. Consequently, the influence of friendship support over time on the psychological adjustment of ethnic minority and/or low-income adolescents is relatively unknown.",
+                "cite_spans": [
+                    {
+                        "start": 127,
+                        "end": 151,
+                        "text": "(Buhrmester & Yin, 1997)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 414,
+                        "end": 435,
+                        "text": "(DuBois et al., 1992;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 436,
+                        "end": 457,
+                        "text": "Keefe & Berndt, 1996)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 556,
+                        "end": 579,
+                        "text": "Keefe and Berndt (1996)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1133,
+                        "end": 1147,
+                        "text": "(Hartup, 1996)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1171,
+                        "end": 1185,
+                        "text": "(Harter, 1990)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1222,
+                        "end": 1239,
+                        "text": "Buhrmester (1990)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1444,
+                        "end": 1461,
+                        "text": "Sullivan's (1953)",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 1591,
+                        "end": 1616,
+                        "text": "Buhrmester and Yin (1997)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Perceived Friendship Support and Psychological Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to family and friendship support, a growing number of studies have focused on the psychological effects of students' perceptions of school climate (Andersen, 1982; Epstein, 1989; Epstein & Karweit, 1983; Minuchin & Shapiro, 1983; Roeser, Eccles, & Sameroff, 1998; Seidman, 1991; Way, 1998) . School climate has often been defined as the quality of interactions among and between adults and students in a school community (Kuperminc, Leadbeater, Emmons, & Blatt, 1997) . Researchers have commonly found that perceptions of school climate significantly predict psychological adjustment (Bachman & O'Malley, 1986; Hoge et al., 1990; Kuperminc et al., 1997; . Middle school students' perceptions of school climate, for example, appear to predict self-esteem even after accounting for demographic factors such as IQ, sex, race, single-parent family, and socioeconomic status (Bachman & O'Malley, 1986; Hoge et al., 1990) . Similarly, in their study of 1,041 White and African American adolescents from socioeconomically diverse families, reported that early adolescents' perceptions of overall school climate and positive teacher regard predicted positive changes in emotional adjustment during the middle school years. In addition, early adolescents who perceived their teachers as emotionally supportive were less likely to experience alienation from school or emotional distress. Epstein and Karweit (1983) also noted that those students who do not feel safe at school may experience isolation at school and may, consequently, report lower self-esteem and higher depressive symptoms than those who experience their school to be safer and/or more supportive.",
+                "cite_spans": [
+                    {
+                        "start": 159,
+                        "end": 175,
+                        "text": "(Andersen, 1982;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 176,
+                        "end": 190,
+                        "text": "Epstein, 1989;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 191,
+                        "end": 215,
+                        "text": "Epstein & Karweit, 1983;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 216,
+                        "end": 241,
+                        "text": "Minuchin & Shapiro, 1983;",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 242,
+                        "end": 275,
+                        "text": "Roeser, Eccles, & Sameroff, 1998;",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 276,
+                        "end": 290,
+                        "text": "Seidman, 1991;",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 291,
+                        "end": 301,
+                        "text": "Way, 1998)",
+                        "ref_id": "BIBREF59"
+                    },
+                    {
+                        "start": 433,
+                        "end": 479,
+                        "text": "(Kuperminc, Leadbeater, Emmons, & Blatt, 1997)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 596,
+                        "end": 622,
+                        "text": "(Bachman & O'Malley, 1986;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 623,
+                        "end": 641,
+                        "text": "Hoge et al., 1990;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 642,
+                        "end": 665,
+                        "text": "Kuperminc et al., 1997;",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 882,
+                        "end": 908,
+                        "text": "(Bachman & O'Malley, 1986;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 909,
+                        "end": 927,
+                        "text": "Hoge et al., 1990)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1390,
+                        "end": 1416,
+                        "text": "Epstein and Karweit (1983)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Experiences and Psychological Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "A few studies have also considered the role of gender in the association between perceived school climate and psychological adjustment. Kuperminc et al. (1997) found, for example, that although boys' perceptions of their school climate (i.e., fairness, order, discipline, achievement motivation, and teacher/student and student/student relations) explained a significant portion of the variance in externalizing and internalizing problems, girls'perceptions were a significant predictor only of externalizing problems. Thus, gender may moderate the association between school climate and psychological and behavioral outcomes.",
+                "cite_spans": [
+                    {
+                        "start": 136,
+                        "end": 159,
+                        "text": "Kuperminc et al. (1997)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Experiences and Psychological Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "Limitations of the existing research on the effects of perceived school climate include its almost exclusive examination of middle school students. Few studies have explored the influence of perceived school climate among high school students. Furthermore, studies of perceived school climate have typically examined the effects of school climate without examining the influence of other contextual variables as well (an exception includes Eccles et al., 1997) . Research exploring the relative influence of perceived family support, friendship support, and perceived school climate is generally missing in the literature.",
+                "cite_spans": [
+                    {
+                        "start": 440,
+                        "end": 460,
+                        "text": "Eccles et al., 1997)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Experiences and Psychological Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "The present longitudinal study examined the independent and combined influences of the quality of family support, friendship support, and perceptions of school climate on changes over time in psychological adjustment (i.e., self-esteem and depressive symptoms) among Black, Latino, and Asian American high school students. We were also interested in the potential moderating effects of gender and ethnicity on the relationship between family support, friendship support, school experiences, and psychological adjustment. Given the lack of research investigating these variables among ethnic minority, low-income adolescents, we did not test specific hypotheses but rather sought to explore the relative effects of contextual variables on the psychological adjustment of an understudied population.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "School Experiences and Psychological Adjustment",
+                "sec_num": null
+            },
+            {
+                "text": "Participants were 100 adolescents (46% males, mean age = 14.2 at Time 1) from a public high school in New York City who took part in a longitudinal study of adolescent development. One hundred and seventy-six freshman students participated in Time 1 during the fall of 1996, and, 2 years later, 100 of the adolescents from the original sample participated in Time 3 in the fall of 1998. The present analysis focuses only on the 100 students who participated in the study at both Time 1 and Time 3. These 100 students represented 98% of the students from the original sample that remained in the school at Time 3. The attrition rate over a 2-year period is typical of low-income urban samples (see Seidman et al., 1999) . There were no significant demographic differences or differences in reported levels of family support, friend support, perceived school climate, or psychological adjustment at Time 1 between those who were retained for the study and those who were not.",
+                "cite_spans": [
+                    {
+                        "start": 697,
+                        "end": 718,
+                        "text": "Seidman et al., 1999)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "METHOD Participants",
+                "sec_num": null
+            },
+            {
+                "text": "The current sample was racially and ethnically diverse, including 30% Black (African American or West Indian), 43% Latino (predominantly Dominican or Puerto Rican), 21% Asian American (predominantly Chinese American), and 6% racially mixed students. Because of the small number (n = 6) of racially mixed students, these students were not included in any of the subsequent statistical analyses. Most of the students were born or were raised primarily in the United States, and all of them were fluent in English. The participants tended to come from single-parent or caregiver homes (70%) and have mothers (72%) and fathers (71%) who were not educated past high school. Of the student body at this school, 90% were eligible for federal assistance through the free lunch program.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "METHOD Participants",
+                "sec_num": null
+            },
+            {
+                "text": "During both waves of data collection, students were recruited from mainstream English classes. Informed consent was obtained from both parents and students and was translated into Spanish and Chinese to accommodate non-English-speaking parents. Questionnaires were administered by members of a racially diverse research team and distributed during English classes or lunch periods. Students were paid $5.00 in return for completion of their questionnaires at Time 1 and $10.00 at Time 3.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "A demographic questionnaire was administered to assess the participant's birth date, gender, race/ethnicity, current living situation, parents' (or primary caretakers') occupation, and level of education. For the purposes of the present analyses, gender was coded as 0 = female and 1 = male. Two dummy variables (asiandum and blackdum) were created to compare the three ethnic/ racial groups that were included in the study: Asian American, African American, and Latino. The Latino students were used as a reference group based on a preliminary analysis of the data that suggested that the differences between ethnic groups lay primarily between the Latino adolescents and the non-Latino adolescents.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures Background Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Family support. The Perceived Social Support for Family Scale (PSS-FA) (Procidano & Heller, 1983 ) was administered to assess the level of support that the student received from members of his or her family. Students were asked to respond yes, no, or don't know to 20 items concerning their experiences with their families (e.g., \"I rely on my family for emotional support\"). Procidano and Heller (1983) reported good reliability and construct validity for this measure. Additionally, when used in urban samples of ethnically and racially diverse adolescents, this measure has demonstrated good reliability and validity (e.g. Tardy, 1985; Way & Leadbeater, 1999 ). In the current study, this measure yielded good internal consistency (\u03b1 = .79). For the purposes of the present analyses, the total number of positive responses was used as a summary score of the quality of family relationships.",
+                "cite_spans": [
+                    {
+                        "start": 71,
+                        "end": 96,
+                        "text": "(Procidano & Heller, 1983",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 376,
+                        "end": 403,
+                        "text": "Procidano and Heller (1983)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 626,
+                        "end": 638,
+                        "text": "Tardy, 1985;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 639,
+                        "end": 661,
+                        "text": "Way & Leadbeater, 1999",
+                        "ref_id": "BIBREF61"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contextual Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Friendship support. The Perceived Social Support Scale for Friends (PSS-FR) (Procidano & Heller, 1983 ) was administered to assess perceived support from friends. Students were asked to respond yes, no, or don't know to 20 items concerning their experiences with their friends. Again, Procidano and Heller (1983) reported good internal consistency and construct validity for this measure. Additionally, this measure has demonstrated good psychometric properties when used with ethnically diverse populations (Tardy, 1985; Way & Leadbeater, 1999) . In the present sample, this measure demonstrated good internal consistency (\u03b1 = .79). For the purposes of the present analyses, the total number of positive responses was used as a summary score of the perceived quality of friendship support.",
+                "cite_spans": [
+                    {
+                        "start": 76,
+                        "end": 101,
+                        "text": "(Procidano & Heller, 1983",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 285,
+                        "end": 312,
+                        "text": "Procidano and Heller (1983)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 508,
+                        "end": 521,
+                        "text": "(Tardy, 1985;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 522,
+                        "end": 545,
+                        "text": "Way & Leadbeater, 1999)",
+                        "ref_id": "BIBREF61"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contextual Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Perceived school climate. Perceived school climate was measured with a shortened version of the School Climate Scale (Haynes, Emmons, & Comer, 1993) . This shortened version contained 33 items tapping three dimensions of school climate: student/student relations, teacher/student relations, and order and discipline. Students indicate their agreement with the items using a 5-point Likert-type scale ranging from strongly agree to strongly disagree. This measure has demonstrated good reliability and validity (Haynes et al., 1993 ). In the current study, this measure yielded excellent internal consistency (\u03b1 = .89). For the present analyses, a summary score was calculated for each participant as a measure of perceived school climate.",
+                "cite_spans": [
+                    {
+                        "start": 117,
+                        "end": 148,
+                        "text": "(Haynes, Emmons, & Comer, 1993)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 510,
+                        "end": 530,
+                        "text": "(Haynes et al., 1993",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Contextual Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Self-esteem. Self-esteem at both time points was assessed with the Rosenberg Self-Esteem scale (RSE) (Rosenberg, 1965) . The RSE is a measure of general self-esteem and consists of 10 items. Students indicate their agreement or disagreement with each statement on the scale using a 5-point Likert-type scale ranging from strongly disagree to strongly agree. The RSE was developed for use with high school students, it has been used in previous research with racially/ethnically diverse adolescent samples, and its reliability and validity have been well established (e.g., Buhrmester, 1990; Rosenberg, 1965; Wheelock & Erickson, 1996) . In the present study, the RSE yielded good internal consistency (\u03b1 .84) at Times 1 and 3.",
+                "cite_spans": [
+                    {
+                        "start": 101,
+                        "end": 118,
+                        "text": "(Rosenberg, 1965)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 573,
+                        "end": 590,
+                        "text": "Buhrmester, 1990;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 591,
+                        "end": 607,
+                        "text": "Rosenberg, 1965;",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 608,
+                        "end": 634,
+                        "text": "Wheelock & Erickson, 1996)",
+                        "ref_id": "BIBREF62"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Criterion Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Depressive symptomatology. Depressive symptomatology at Time 1 was assessed with the 10-item depressive symptom subscale of Buhrmester's (1990) measure of socioemotional adjustment. This measure contains items drawn from the Children's Depression Inventory (CDI) (Kovacs, 1981) and has been used in previous research investigating the relationship between psychological well-being and adolescent friendships (see Buhrmester, 1990) . Students were asked to respond on a 5-point Likert-type scale ranging from 1 (never or not at all) to 5 (very often or very much) to questions such as, \"How often do you feel unhappy or down?\" Buhrmester reported adequate internal consistency for this scale. Additionally, this scale has been found to correlate significantly with other indices of adjustment (Buhrmester, 1989) . In the present study, this measure demonstrated adequate internal consistency (\u03b1 = .70). At Time 3, depressive symptomatology was assessed with the 10-item CDI. Students responded to forced choice questions indicating the presence and severity of depressive symptoms. The CDI has been used with ethnically diverse samples and has yielded satisfactory reliability, with coefficient alphas ranging from .83 to .85 (Kovacs, 1985; Smucker, Craighead, Craighead, & Greene, 1986) . In the present study, this measure of depressive symptomatology yielded good internal consistency (\u03b1 = .80).",
+                "cite_spans": [
+                    {
+                        "start": 124,
+                        "end": 143,
+                        "text": "Buhrmester's (1990)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 263,
+                        "end": 277,
+                        "text": "(Kovacs, 1981)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 413,
+                        "end": 430,
+                        "text": "Buhrmester, 1990)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 792,
+                        "end": 810,
+                        "text": "(Buhrmester, 1989)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1225,
+                        "end": 1239,
+                        "text": "(Kovacs, 1985;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 1240,
+                        "end": 1286,
+                        "text": "Smucker, Craighead, Craighead, & Greene, 1986)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Criterion Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Before addressing our primary research question concerning the predictors of change in psychological adjustment, correlational analyses were performed to examine the relationships between the predictors and the criterion variables (see Table 1 ). Bivariate correlations revealed that between the predictor variables, perceived family support was positively correlated with perceived friendship support and with perceived school climate. Furthermore, self-esteem at Time 3 was significantly correlated with self-esteem at Time 1, and depressive symptoms at Time 3 were significantly correlated with depressive symptoms at Time 1.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 236,
+                        "end": 243,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "A hierarchical multiple regression analysis was conducted to explore the independent and combined effects of demographic variables (ethnicity and gender) and contextual variables (perceptions of family support, friendship support, and school climate) assessed at Time 1 on changes over time in selfesteem from Time 1 to Time 3. The measure of self-esteem at Time 3 was used as the criterion variable in this regression analysis with the corresponding measure of self-esteem assessed at Time 1 entered as the first predictor in the model to statistically control for this variable. Next, gender and ethnicity were entered into the model, followed by the contextual variables of perceived family support, friendship support, and school climate. The sequence of steps in the hierarchical regression model was based on an ecological understanding of human development in which the proximal influences on development are entered before the more distal influences (Bronfenbrenner, 1979) .",
+                "cite_spans": [
+                    {
+                        "start": 958,
+                        "end": 980,
+                        "text": "(Bronfenbrenner, 1979)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Predictors of Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "Since self-esteem at Time 1 was entered first in the model, the regression coefficients for contextual variables indicated how well they predicted change in adolescents' self-esteem from Time 1 to Time 3. This strategy for determining the predictors of change over time has been used repeatedly by researchers (Allen, Hauser, Bell, & O'Connor, 1994; Cohen & Cohen, 1975; DuBois et al., 1992; Dubow, Tisak, Causy, Hryshko, & Reid, 1991; Hoge et al., 1990; Keefe & Berndt, 1996; . In this method for examining change over time, the beta coefficients for the independent variables represent either the direction of change or the magnitude of change in the dependent variable that is predicted by the independent variables (see Cohen & Cohen, 1975) . The interpretation of the beta coefficients is determined by an examination of the change over time in the mean score of the dependent variable for the sample as a whole. If there is no significant change over time in the mean score for the sample as a whole, the beta coefficients for the independent variables in the model represent the direction of change in the dependent variable that is predicted by the independent variables. If there is a significant increase or decrease over time in the mean score of the dependent variable in the sample as a whole, the beta coefficients for the independent variables in the model represent the magnitude of change in the dependent variable that is predicted by the independent variables. In the current analysis, a t test revealed a significant increase in the mean score of self-esteem (t = 4.80, p < .001) over time for the total sample. Thus, the beta coefficients for the contextual variables for this analysis will reveal the magnitude of change in self-esteem over time that is predicted by the contextual variables.",
+                "cite_spans": [
+                    {
+                        "start": 310,
+                        "end": 349,
+                        "text": "(Allen, Hauser, Bell, & O'Connor, 1994;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 350,
+                        "end": 370,
+                        "text": "Cohen & Cohen, 1975;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 371,
+                        "end": 391,
+                        "text": "DuBois et al., 1992;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 392,
+                        "end": 435,
+                        "text": "Dubow, Tisak, Causy, Hryshko, & Reid, 1991;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 436,
+                        "end": 454,
+                        "text": "Hoge et al., 1990;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 455,
+                        "end": 476,
+                        "text": "Keefe & Berndt, 1996;",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 724,
+                        "end": 744,
+                        "text": "Cohen & Cohen, 1975)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Predictors of Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "To determine whether the contextual variables were moderated by gender or race/ethnicity, a series of interaction terms was entered as final steps in separate regression equations (Set 1: Gender \u00d7 Friend Support, Gender \u00d7 Family Support, Gender \u00d7 School Climate; Set 2: Race/Ethnicity \u00d7 Family Support; Set 3: Race/Ethnicity \u00d7 Friend Support; and Set 4: Race/Ethnicity \u00d7 School Climate). No significant interaction effects were found. Additionally, as subtle interaction effects can be difficult to detect in the context of a complex multivariate model, each of the six possible interaction terms was entered into a regression model containing only Time 1 self-esteem (Step 1), one demographic predictor (Step 2), one contextual predictor (Step 3), and the appropriate interaction term (Step 4). Because there were no significant interaction effects using this less conservative method, the interaction terms were dropped from the final model and the demographic predictors were used as control variables in the final regression model. The final regression model accounted for 45% of the variance in selfesteem assessed at Time 3 (see Table 2 ). Self-esteem at Time 1 alone accounted for 31% of the variance in self-esteem at Time 3. Gender and ethnicity accounted for an additional 8% of the variance in self-esteem. The addition of the contextual variables entered in Step 3 contributed an additional 6% to the explained variance in self-esteem. The increase in reported levels of self-esteem from Time 1 to Time 3 was significantly greater for those who reported lower family support at Time 1 than for those who reported higher family support (see Figure 1) . In addition, the increase in reported levels of self-esteem from Time 1 to Time 3 was significantly greater for those who reported more positive perceptions of school climate at Time 1 than for those who reported less positive perceptions of school climate (see Figure 2 ). Perceived friendship support did not contribute significantly to change in self-esteem but demonstrated a trend toward significance, indicating that higher levels of perceived friendship support predicted a greater increase in self-esteem from Time 1 to Time 3 than did lower levels of perceived friendship support.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1135,
+                        "end": 1142,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 1652,
+                        "end": 1661,
+                        "text": "Figure 1)",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1926,
+                        "end": 1934,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Predictors of Self-Esteem",
+                "sec_num": null
+            },
+            {
+                "text": "A hierarchical multiple regression analysis was conducted to explore the relative and combined influence of demographic variables (ethnicity and gender) and contextual variables (perceptions of family support, friendship support, and school climate) assessed at Time 1 on changes over time in depressive symptoms from Time 1 to Time 3. Because two different measures were used to assess depressive symptoms at Time 1 and Time 3, Time 1 and Time 3 depression scores were transformed into the same metric, having the same minimum and maximum values, and therefore the same possible gender and ethnicity were entered into the model, followed by the contextual variables of perceived family support, friendship support, and school climate. A t test revealed that there was a significant decrease in mean levels of depressive symptoms from Time 1 to Time 3 for the total sample (t = -8.70, p < .001). Thus, the beta coefficients for the contextual variables for this analysis will reveal the magnitude of change in depressive symptoms over time that is predicted by the contextual variables.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Predictors of Depressive Symptoms",
+                "sec_num": null
+            },
+            {
+                "text": "To determine whether the contextual variables were moderated by gender or race/ethnicity, a series of interaction terms was entered as final steps in separate regression equations (the same sets of interactions that were entered in the model for self-esteem). No significant interaction effects were found. Additionally, six separate regression models were constructed to examine each interaction term in the least conservative method possible, as discussed previously for the self-esteem analyses. Because no significant interaction effects were found in this manner, these terms were dropped from the final model. Furthermore, because gender and ethnicity did not interact significantly with any of the contextual predictors, these demographic variables were used only as control variables and were not interpreted as predictors of change in depressive symptoms.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Predictors of Depressive Symptoms",
+                "sec_num": null
+            },
+            {
+                "text": "The final model explained 29% of the variance in depressive symptoms assessed at Time 3 (see Table 3 ). As expected, depressive symptoms at Time 1 were a significant predictor of depressive symptoms assessed at Time 3 and accounted for 19% of the variance in depressive symptoms at Time 3. The addition of the demographic variables of gender and ethnicity did not add significantly to the explained variance in depressive symptoms assessed at Time 3 after controlling for the effects of depressive symptoms at Time 1. The addition of the contextual variables contributed an additional 7% to the explained variance in depressive symptoms at Time 3. Among the contextual variables, perceived family support was a significant predictor of change in depressive symptoms over time, with lower levels of perceived family support at Time 1 predicting a greater decrease over time in depressive symptoms from Time 1 to Time 3 than higher levels of perceived family support (see Figure 3) . The hierarchical regression model also indicated a trend suggesting that more positive perceptions of school climate predicted a greater decrease over time in depressive symptoms from Time 1 to Time 3.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 93,
+                        "end": 100,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 970,
+                        "end": 979,
+                        "text": "Figure 3)",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Predictors of Depressive Symptoms",
+                "sec_num": null
+            },
+            {
+                "text": "Because of the surprising findings that the increase over time in selfesteem was greatest for those who reported lower family support scores and that lower family support scores predicted a greater decline over time in reported depressive symptoms from Time 1 to Time 3, these associations warranted additional attention. We first examined these associations for curvilinearity to examine whether perceived family support and change in self-esteem and depressive symptoms differed as a function of level of Time 1 family support. There was no evidence of a quadratic trend in the relationship between Time 1 family support and change in self-esteem or depressive symptoms. We also explored if those adolescents who reported significant changes in self-esteem and depressive symptoms over time experienced a significant change in their perceived family support from Time 1 to Time 3. Did the adolescents who, for example, reported lower family support at Time 1 and whose self-esteem increased more sharply over time also report an increase in perceived family support over time? To address this question, a change score was computed for perceived family support by subtracting Time 1 family support from Time 3 family support. These change scores were then entered into the second step of a regression model containing Time 1 selfesteem. This analysis indicated that change in perceived family support was a positive predictor of change in self-esteem (\u03b2 = .27, p < .01), suggesting that, in fact, the increase in self-esteem over time was associated with an increase in family support over time. A similar analysis examining the prediction of change in depressive symptoms revealed change in family support to be a significant negative predictor of change in depressive symptoms (\u03b2 = -.30, p < .01), suggesting that an increase in family support over time predicts a significant decline in depressive symptoms from Time 1 to Time 3. 1 These post hoc analyses suggest that those adolescents who experienced an increase in self-esteem or a decrease in depressive symptoms from Time 1 to Time 3 also experienced an increase in perceived family support from Time 1 to Time 3. A close examination of the family support scores at Times 1 and 3 revealed, however, that family support scores significantly increased from Time 1 to Time 3 only for those who reported low family support scores (i.e., below the mean) at Time 1. Therefore, the analyses, in sum, indicated that an increase in family support over time was associated with an increase in self-esteem and a decrease in depressive symptoms, but this association was only evident among those who reported low family support at Time 1.",
+                "cite_spans": [
+                    {
+                        "start": 1934,
+                        "end": 1935,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Post Hoc Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "A major finding of this study was that perceived school climate was associated significantly with the magnitude of change in self-esteem, over and above the effects of family and friend support. A similar finding had been detected by DuBois et al. (1992) in their longitudinal study of 166 African American and White adolescents. Support from school personnel was found to contribute significantly to a decrease in perceived psychological distress at a 2-year follow-up, over and above the effects of family and friend support. Eccles et al. (1997) also found, in a sample of 1,387 African American and White early adolescents, that perceived school climate explained a unique amount of the variance in adolescent adjustment after controlling for perceptions of home and peers. These findings underscore the importance of school experiences in the social and emotional lives of adolescents. Schools, or the interpersonal relationships that exist within a school setting, not only influence adolescents'academic achievement, goals, and ideals but also their psychological well-being. In addition, the effects of perceived school climate on psychological adjustment appear to persist during the middle and high school years.",
+                "cite_spans": [
+                    {
+                        "start": 234,
+                        "end": 254,
+                        "text": "DuBois et al. (1992)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 528,
+                        "end": 548,
+                        "text": "Eccles et al. (1997)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Another major finding of the study was that family support at Time 1 was significantly related to the magnitude of change in both self-esteem and depressive symptoms from Time 1 to Time 3, over and above the effects of perceived friendship support and perceived school climate. The relative importance of family support over friendship support in the prediction of psychological adjustment has been noted in previous research (Armsden & Greenberg, 1987; Paterson et al., 1995) . What was unexpected, however, was the direction of effect. Contrary to most research on family support, our findings suggested that lower family support at Time 1 was associated with a greater increase over time in self-esteem scores than was higher family support at Time 1. Lower family support at Time 1 was also associated with a greater decrease in depressive symptoms over time. Our post hoc analyses indicated that the increase in self-esteem and decrease in depressive symptoms corresponded with a significant increase in family support over time. Yet a close examination of mean scores of family support over time indicated that such patterns were only evident among those reporting lower family support at Time 1. In sum, an increase in perceived family support is associated with an increase in self-esteem and a decrease in depressive symptoms, but these associations are evident only for those who are least supported by their families at Time 1.",
+                "cite_spans": [
+                    {
+                        "start": 426,
+                        "end": 453,
+                        "text": "(Armsden & Greenberg, 1987;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 454,
+                        "end": 476,
+                        "text": "Paterson et al., 1995)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "A plausible explanation for this pattern may be that those adolescents receiving the least amount of family support may be the most responsive psychologically to any increase in family support. The self-esteem of an adolescent who does not perceive his or her family to be supportive may be low: This is what our correlation table indicates. If the level of perceived family support increases over time, however, the self-esteem of this adolescent may benefit more than that of an adolescent who is less psychologically vulnerable. An increase in family support over time for those already receiving much support from their families may not be as psychologically meaningful as an increase in family support over time for those receiving little family support. Additional research is needed to determine when, how, and for whom perceived family support influences the psychological adjustment of adolescents.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Friendship support at Time 1 did not appear to be a significant predictor of the magnitude of changes in self-esteem or depressive symptoms. Although friendship support has been repeatedly found to be a concurrent correlate of psychological adjustment, other researchers have noted that friendship support does not appear to be a significant predictor of changes over time in psychological adjustment (DuBois et al., 1992; Hirsch & DuBois, 1991; Keefe & Berndt, 1996; McFarlane et al., 1995; Zimmerman & Maton, 1992) . Keefe and Berndt (1996) noted that previous researchers using correlational data may have \"exaggerated the effects of supportive friendships on self-esteem\" (p. 112). Yet some studies have found that friendship support predicted changes in self-esteem 2 years later (Buhrmester & Yin, 1997) , and the present study indicated that friendship support at Time 1 was almost significant in the prediction of change over time in self-esteem, over and above the effects of family support and perceived school climate. With a larger sample, the effects of friendship support at Time 1 on the magnitude of changes in selfesteem may have been significant. Additional longitudinal research with larger samples of ethnically and socioeconomically diverse adolescents is needed to determine if and when friendship support at one time point is a significant predictor of change over time in self-esteem and/or depressive symptoms.",
+                "cite_spans": [
+                    {
+                        "start": 401,
+                        "end": 422,
+                        "text": "(DuBois et al., 1992;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 423,
+                        "end": 445,
+                        "text": "Hirsch & DuBois, 1991;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 446,
+                        "end": 467,
+                        "text": "Keefe & Berndt, 1996;",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 468,
+                        "end": 491,
+                        "text": "McFarlane et al., 1995;",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 492,
+                        "end": 516,
+                        "text": "Zimmerman & Maton, 1992)",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 519,
+                        "end": 542,
+                        "text": "Keefe and Berndt (1996)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 785,
+                        "end": 809,
+                        "text": "(Buhrmester & Yin, 1997)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Strikingly, we did not find that gender or ethnicity moderated the association between family support, friendship support, or school climate and psychological adjustment (self-esteem or depressive symptoms). Family support, friendship support, and school climate appeared to have similar effects in the prediction of change in self-esteem and depressive symptoms over time for boys, girls, Blacks, Latinos, and Asian Americans. This finding may be due, however, to the relatively small sample size. Additional research with larger samples of ethnic minority adolescents is necessary to further investigate whether gender or ethnicity moderates the association between contextual variables and psychological adjustment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The present study was an initial, exploratory step toward understanding the predictors of change in psychological adjustment over time among lowincome Asian Americans, Latinos, and Blacks. It was also an attempt to understand the relative influence of family, friends, and school environments on the psychological adjustment of adolescents. The study, however, had var-ious limitations including its small sample size. In addition, only support from family and friends was examined. Parenting styles, family structures, or the structure of friendship networks may also influence the psychological adjustment of adolescents (Savin-Williams & Berndt, 1990; Steinberg, 1990) . Other factors within the school, such as the academic tracking system, may also shape the psychological adjustment of the students. Future research needs to examine the form and content of family relationships and friendships, and the multiple dimensions of school environments that may affect psychological adjustment among adolescents. Furthermore, the quality of the neighborhood in which the adolescent resides, the quality of after-school activities (e.g., sports activities), and ethnic identity have been shown to influence the way that adolescents feel about themselves (Erkut, Fields, Sing, & Marx, 1996; Roberts et al., 1999; Way, 1998) . Longitudinal studies are needed to investigate the multiple predictors of change in psychological adjustment between adolescents and the relative influence of each of these predictors over time.",
+                "cite_spans": [
+                    {
+                        "start": 623,
+                        "end": 654,
+                        "text": "(Savin-Williams & Berndt, 1990;",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 655,
+                        "end": 671,
+                        "text": "Steinberg, 1990)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 1252,
+                        "end": 1287,
+                        "text": "(Erkut, Fields, Sing, & Marx, 1996;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1288,
+                        "end": 1309,
+                        "text": "Roberts et al., 1999;",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 1310,
+                        "end": 1320,
+                        "text": "Way, 1998)",
+                        "ref_id": "BIBREF59"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The percentage of adolescents in the United States who are ethnic minorities is expected to grow considerably over the next two decades; ethnic minorities may soon be in the majority in American society. It is, therefore, critical that this segment of the adolescent population be included in psychological studies of adjustment. Studies of the ecological or contextual factors that influence the psychological adjustment of low-income and/or ethnic minority adolescents are important because such studies implicitly challenge a model of psychological health that blames the individual for his or her troubles and instead advocates a model that explores how the world in which the adolescent resides deeply shapes his or her sense of self and ability to contribute to his or her community. Ecological studies of psychological adjustment allow professionals to acquire the necessary knowledge and create strategies that have the potential to truly make a difference in the lives of adolescents.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "1. For exploratory purposes, identical analyses were run for the other contextual variables (i.e., school climate and friendship support) that suggested a trend or were significant predictors of the magnitude of change in self-esteem or depressive symptoms. Neither change in friendship support nor change in school climate from Time 1 to Time 3 predicted change in self-esteem from Time 1 to Time 3. Similarly, change in school climate from Time 1 to Time 3 was not associated with change in depressive symptoms from Time 1 to Time 3.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "NOTE",
+                "sec_num": null
+            },
+            {
+                "text": "at Universitaetsbibliothek Trier on September 14, 2016 jar.sagepub.com Downloaded from",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Way, Robinson / PSYCHOLOGICAL ADJUSTMENT AMONG ADOLESCENTS",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "*p <.05. **p <.01. ***p <.001. at Universitaetsbibliothek Trier on September 14, 2016 jar.sagepub.com Downloaded from",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Longitudinal assessment of autonomy and relatedness in adolescent-family interactions as predictors of adolescent egodevelopment and self-esteem",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Allen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hauser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Bell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Connor",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Child Development",
+                "volume": "65",
+                "issue": "",
+                "pages": "179--194",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Allen, J. P., Hauser, S. T., Bell, K. L., & O'Connor, T. G. (1994). Longitudinal assessment of autonomy and relatedness in adolescent-family interactions as predictors of adolescent ego- development and self-esteem. Child Development, 65, 179-194.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The search for school climate: A review of the research",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Andersen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Review of Educational Research",
+                "volume": "52",
+                "issue": "",
+                "pages": "368--420",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Andersen, C. S. (1982). The search for school climate: A review of the research. Review of Edu- cational Research, 52, 368-420.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Attachment to parents and peers in late adolescence: Relationships to affective status, self-esteem and coping with loss, threat and challenge. (Doctoral dissertation",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Armsden",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Dissertation Abstracts International",
+                "volume": "47",
+                "issue": "4-B",
+                "pages": "1751--1752",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Armsden, G. C. (1986). Attachment to parents and peers in late adolescence: Relationships to affective status, self-esteem and coping with loss, threat and challenge. (Doctoral dissertation, University of Washington, 1986). Dissertation Abstracts International, 47(4-B), 1751-1752.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "The inventory of parent and peer attachment: Individual differences and their relationship to psychological well-being in adolescence",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Armsden",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Greenberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "16",
+                "issue": "",
+                "pages": "427--453",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Armsden, G. C., & Greenberg, M. T. (1987). The inventory of parent and peer attachment: Indi- vidual differences and their relationship to psychological well-being in adolescence. Journal of Youth and Adolescence, 16, 427-453.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Depression and the social developmental context of adolescence",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Aseltine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gore",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Colten",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "67",
+                "issue": "",
+                "pages": "252--263",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Aseltine, R. H., Gore, S., & Colten, M. E. (1994). Depression and the social developmental con- text of adolescence. Journal of Personality and Social Psychology, 67, 252-263.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Self-concepts, self-esteem, and educational experiences: The frog pond revisited (again)",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Bachman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Malley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "50",
+                "issue": "",
+                "pages": "35--46",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bachman, J. G., & O'Malley, P. M. (1986). Self-concepts, self-esteem, and educational experi- ences: The frog pond revisited (again). Journal of Personality and Social Psychology, 50, 35-46.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "The effects of friendships on students'adjustment after the transition to high school",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Berndt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hawkins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Berndt, T. J., & Hawkins, J. (1985, April). The effects of friendships on students'adjustment after the transition to high school. Paper presented at the meeting of the American Educational Research Association, Chicago.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Peer relations and friendships",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Berndt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Savin-Williams",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Handbook of clinical research and practice with adolescents",
+                "volume": "",
+                "issue": "",
+                "pages": "203--219",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Berndt, T. J., & Savin-Williams, R. C. (1993). Peer relations and friendships. In P. H. Tolan & B. J. Cohler (Eds.), Handbook of clinical research and practice with adolescents (pp. 203- 219). New York: John Wiley.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "The ecology of human development",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Bronfenbrenner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bronfenbrenner, U. (1979). The ecology of human development. Cambridge, MA: Harvard Uni- versity Press.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Manual for the Socioemotional Adjustment Questionnaire",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Buhrmester",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Buhrmester, D. (1989). Manual for the Socioemotional Adjustment Questionnaire. University of Texas at Dallas.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Intimacy of friendship, interpersonal competence, and adjustment during preadolescence and adolescence",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Buhrmester",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Child Development",
+                "volume": "61",
+                "issue": "",
+                "pages": "1101--1111",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Buhrmester, D. (1990). Intimacy of friendship, interpersonal competence, and adjustment dur- ing preadolescence and adolescence. Child Development, 61, 1101-1111.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "A longitudinal study of friends' influence on adolescents' adjustment. Paper presented at the meeting for the Society for Research on Child Development",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Buhrmester",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Yin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Buhrmester, D., & Yin, J. (1997, April). A longitudinal study of friends' influence on adoles- cents' adjustment. Paper presented at the meeting for the Society for Research on Child Development, Washington, DC.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Social networks and social competence: Exploring the effects of early adolescent friendships",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Cauce",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Journal of Community Psychology",
+                "volume": "14",
+                "issue": "",
+                "pages": "607--628",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cauce, A. M. (1986). Social networks and social competence: Exploring the effects of early ado- lescent friendships. American Journal of Community Psychology, 14, 607-628.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Relationships between self-concept measures and social network characteristics for Black adolescents",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Coates",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Journal of Early Adolescence",
+                "volume": "5",
+                "issue": "",
+                "pages": "319--338",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Coates, D. L. (1985). Relationships between self-concept measures and social network charac- teristics for Black adolescents. Journal of Early Adolescence, 5, 319-338.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Applied multiple regression/correlation analysis for the behavioral sciences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1975,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cohen, J., & Cohen, P. (1975). Applied multiple regression/correlation analysis for the behav- ioral sciences. Hillsdale, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Relationships of life events and social support with psychological dysfunction among adolescents",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Compas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Slavin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Wagner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Vannatta",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "15",
+                "issue": "",
+                "pages": "205--221",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Compas, B. E., Slavin, L. A., Wagner, B. M., & Vannatta, K. (1986). Relationships of life events and social support with psychological dysfunction among adolescents. Journal of Youth and Adolescence, 15, 205-221.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Human nature and the social order",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Cooley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1902,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cooley, C. H. (1902). Human nature and the social order. New York: Scribner.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "A prospective study of life stress, social support, and adaptation in early adolescence",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Felner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Brand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Adan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Evans",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Child Development",
+                "volume": "63",
+                "issue": "",
+                "pages": "542--557",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "DuBois, D. L., Felner, R. D., Brand, S., Adan, A. M., & Evans, E. G. (1992). A prospective study of life stress, social support, and adaptation in early adolescence. Child Development, 63, 542-557.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "School/nonschool friendship patterns in early adolescence",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hirsch",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Journal of Early Adolescence",
+                "volume": "13",
+                "issue": "",
+                "pages": "102--122",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "DuBois, D. L., & Hirsch, B. J. (1993). School/nonschool friendship patterns in early adoles- cence. Journal of Early Adolescence, 13, 102-122.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "A two-year longitudinal study of stressful life events, social support, and social problem-solving skills: Contributions to children's behavioral and academic adjustment",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Dubow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Tisak",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Causy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hryshko",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Reid",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Child Development",
+                "volume": "62",
+                "issue": "",
+                "pages": "583--599",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dubow, E. F., Tisak, J., Causy, D., Hryshko, A., & Reid, M. (1991). A two-year longitudinal study of stressful life events, social support, and social problem-solving skills: Contributions to children's behavioral and academic adjustment. Child Development, 62, 583-599.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Assessing social support in elementary school children: The survey of children's social support",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Dubow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Ullman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Child Clinical Psychology",
+                "volume": "18",
+                "issue": "",
+                "pages": "52--64",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dubow, E. F., & Ullman, D.G. (1989). Assessing social support in elementary school children: The survey of children's social support. Journal of Child Clinical Psychology, 18, 52-64.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "The relation of connection, regulation, and support for autonomy to adolescents' functioning",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Early",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Frasier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Belansky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Mccarthy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Adolescent Research",
+                "volume": "12",
+                "issue": "",
+                "pages": "263--286",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J., Early, D., Frasier, K., Belansky, E., & McCarthy, K. (1997). The relation of connec- tion, regulation, and support for autonomy to adolescents' functioning. Journal of Adoles- cent Research, 12, 263-286.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "The selection of friends: Changes across the grades and in different school environments",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Epstein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Peer relationships in child development",
+                "volume": "",
+                "issue": "",
+                "pages": "158--187",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Epstein, J. L. (1989). The selection of friends: Changes across the grades and in different school environments. In T. J. Berndt & G. W. Ladd (Eds.), Peer relationships in child development (pp. 158-187). New York: Wiley.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Friends in school: Patterns of selection and influence in secondary schools",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Epstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Karweit",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Epstein, J. L., & Karweit, N. (1983). Friends in school: Patterns of selection and influence in sec- ondary schools. New York: Academic Press.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Diversity in girls' experiences: Feeling good about who you are",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Erkut",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Fields",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Sing",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Marx",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Urban girls: Resisting stereotypes, creating identities",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Erkut, S., Fields, J., Sing, R., & Marx, F. (1996). Diversity in girls' experiences: Feeling good about who you are. In B. Leadbeater & N. Way (Eds.), Urban girls: Resisting stereotypes, creating identities. New York: New York University Press.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Depressive affect and restraint in early adolescents: Relationships with family structure, family process and friendship",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Feldman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Rubenstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Rubin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Early Adolescence",
+                "volume": "8",
+                "issue": "",
+                "pages": "279--296",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Feldman, S. S., Rubenstein, J. L., & Rubin, C. (1988). Depressive affect and restraint in early adolescents: Relationships with family structure, family process and friendship. Journal of Early Adolescence, 8, 279-296.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Individual adjustment to school transitions: An exploration of the role of supportive peer relations",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Fenzel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Blyth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Journal of Early Adolescence",
+                "volume": "6",
+                "issue": "",
+                "pages": "315--329",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fenzel, L. M., & Blyth, D. A. (1986). Individual adjustment to school transitions: An exploration of the role of supportive peer relations. Journal of Early Adolescence, 6, 315-329.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "At the threshold: The developing adolescent",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "352--387",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1990). Self and identity development. In S. S. Feldman & G. R. Elliot (Eds.), At the threshold: The developing adolescent (pp. 352-387). Cambridge, MA: Harvard University Press.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Multiple pathways to self-reported depression and psychological adjustment among adolescents",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Whitesell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Development and Psychopathology",
+                "volume": "8",
+                "issue": "",
+                "pages": "761--777",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S., & Whitesell, N. R. (1996). Multiple pathways to self-reported depression and psycho- logical adjustment among adolescents. Development and Psychopathology, 8, 761-777.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "The company they keep: Friendships and their developmental significance",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Hartup",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Child Development",
+                "volume": "67",
+                "issue": "",
+                "pages": "1--13",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hartup, W. W. (1996). The company they keep: Friendships and their developmental signifi- cance. Child Development, 67, 1-13.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Elementary and middle school climate survey. Unpublished manuscript",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Haynes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Emmons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Comer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Haynes, N., Emmons, C., & Comer, J. P. (1993). Elementary and middle school climate survey. Unpublished manuscript, Yale University Child Study Center.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Self-esteem in early adolescence: The identification and prediction of contrasting longitudinal trajectories",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hirsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Dubois",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "20",
+                "issue": "",
+                "pages": "53--71",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hirsch, B. J., & DuBois, D. (1991). Self-esteem in early adolescence: The identification and pre- diction of contrasting longitudinal trajectories. Journal of Youth and Adolescence, 20, 53-71.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "The transition to junior high school: A longitudinal study of self-esteem, psychological symptomatology, school life, and social support",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hirsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Rapkin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Child Development",
+                "volume": "58",
+                "issue": "",
+                "pages": "1235--1243",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hirsch, B. J., & Rapkin, B. D. (1987). The transition to junior high school: A longitudinal study of self-esteem, psychological symptomatology, school life, and social support. Child Devel- opment, 58, 1235-1243.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "School experiences predicting changes in selfesteem of sixth-and seventh-grade students",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Hoge",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Smit",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Hanson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "117--127",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hoge, D. R., Smit, E. K., & Hanson, S. L. (1990). School experiences predicting changes in self- esteem of sixth-and seventh-grade students. Journal of Educational Psychology, 82, 117-127.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Self-perceptions of Black Americans: Self-esteem and personal efficacy",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Hughes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Demo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "American Journal of Sociology",
+                "volume": "95",
+                "issue": "",
+                "pages": "132--159",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hughes, M., & Demo, D. H. (1989). Self-perceptions of Black Americans: Self-esteem and per- sonal efficacy. American Journal of Sociology, 95, 132-159.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Relations of friendship quality to self-esteem in early adolescence",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Keefe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Berndt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Journal of Early Adolescence",
+                "volume": "16",
+                "issue": "",
+                "pages": "110--129",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Keefe, K., & Berndt, T. (1996). Relations of friendship quality to self-esteem in early adoles- cence. Journal of Early Adolescence, 16, 110-129.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Rating scales to assess depression in school-aged children",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kovacs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Acta Paedopsychiatry",
+                "volume": "46",
+                "issue": "",
+                "pages": "305--315",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kovacs, M. (1981). Rating scales to assess depression in school-aged children. Acta Paedopsychiatry, 46, 305-315.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "The Children's Depression Inventory",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kovacs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Psychopharmacology Bulletin",
+                "volume": "21",
+                "issue": "",
+                "pages": "995--998",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kovacs, M. (1985). The Children's Depression Inventory. Psychopharmacology Bulletin, 21, 995-998.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Perceived school climate and problem behaviors in middle school students: The protective function of a positive educational environment",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Kuperminc",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Leadbeater",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Emmons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Blatt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Applied Developmental Science",
+                "volume": "1",
+                "issue": "",
+                "pages": "76--88",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kuperminc, G., Leadbeater, B. J., Emmons, C., & Blatt, S. J. (1997). Perceived school climate and problem behaviors in middle school students: The protective function of a positive edu- cational environment. Journal of Applied Developmental Science, 1, 76-88.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Perceived social support among high-stress adolescents: The role of peers and family",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Licitra-Klecker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Waas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Journal of Adolescent Research",
+                "volume": "8",
+                "issue": "",
+                "pages": "381--402",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Licitra-Klecker, D. M., & Waas, G. A. (1993). Perceived social support among high-stress ado- lescents: The role of peers and family. Journal of Adolescent Research, 8, 381-402.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Factors related to self-esteem among African American youths: A secondary analysis of the High/Scope Perry preschool data",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Luster",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Mcadoo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Research Adolescence",
+                "volume": "5",
+                "issue": "",
+                "pages": "451--467",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Luster, T., & McAdoo, H. P. (1995). Factors related to self-esteem among African American youths: A secondary analysis of the High/Scope Perry preschool data. Journal of Research Adolescence, 5, 451-467.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "The role of family and peers in social self-efficacy: Links to depression in adolescence",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Mcfarlane",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bellissimo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Norman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "American Journal of Orthopsychiatry",
+                "volume": "65",
+                "issue": "",
+                "pages": "402--410",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McFarlane, A. H., Bellissimo, A., & Norman, G. R. (1995). The role of family and peers in social self-efficacy: Links to depression in adolescence. American Journal of Orthopsychiatry, 65, 402-410.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Socialization, personality, and social development",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Minuchin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Shapiro",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Handbook of child psychology",
+                "volume": "4",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Minuchin, P. P., & Shapiro, E. K. (1983). The school as a context for social development. In P. H. Mussen (Ed.), Handbook of child psychology: Vol. 4. Socialization, personality, and social development. New York: John Wiley.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Adolescent attachment to parents and friends in relation to aspects of self-esteem",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Paterson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Pryor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Field",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Youth and Adolescence",
+                "volume": "24",
+                "issue": "",
+                "pages": "365--375",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Paterson, J., Pryor, H., & Field, J. (1995). Adolescent attachment to parents and friends in rela- tion to aspects of self-esteem. Journal of Youth and Adolescence, 24, 365-375.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Measure of perceived social support from friends and family",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Procidano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Heller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "American Journal of Community Psychology",
+                "volume": "11",
+                "issue": "",
+                "pages": "1--24",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Procidano, M., & Heller, K. (1983). Measure of perceived social support from friends and fam- ily. American Journal of Community Psychology, 11, 1-24.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "The structure of ethnic identity of young adolescents from diverse ethnocultural groups",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Roberts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Phinney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Masse",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Roberts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Romero",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Early Adolescence",
+                "volume": "19",
+                "issue": "",
+                "pages": "301--322",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Roberts, R., Phinney, J. S., Masse, L. C., Chen, R., Roberts, C. R., & Romero, A. (1999). The structure of ethnic identity of young adolescents from diverse ethnocultural groups. Journal of Early Adolescence, 19, 301-322.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Adolescents' perceptions of middle school: Relation to longitudinal changes in academic and psychological adjustment",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Roeser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Research on Adolescence",
+                "volume": "8",
+                "issue": "",
+                "pages": "123--158",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Roeser, R., & Eccles, J. (1998). Adolescents' perceptions of middle school: Relation to longitu- dinal changes in academic and psychological adjustment. Journal of Research on Adoles- cence, 8, 123-158.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Academic and emotional functioning in early adolescence: Longitudinal relations, patterns, and prediction by experience in middle school",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Roeser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Sameroff",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Development and Psychopathology",
+                "volume": "10",
+                "issue": "",
+                "pages": "321--352",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Roeser, R. W., Eccles, J. S., & Sameroff, A. J. (1998). Academic and emotional functioning in early adolescence: Longitudinal relations, patterns, and prediction by experience in middle school. Development and Psychopathology, 10, 321-352.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Society and the adolescent self-image",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Rosenberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1965,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenberg, M. (1965). Society and the adolescent self-image. Princeton, NJ: Princeton Univer- sity Press.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Depressive affect in \"normal\" adolescents: Relationship to life stress, family, and friends",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Rubin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Rubenstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Stechler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Heeren",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Halton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Housman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Kasten",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "American Journal of Orthopsychiatry",
+                "volume": "62",
+                "issue": "",
+                "pages": "430--441",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rubin, C., Rubenstein, J. L., Stechler, G., Heeren, T., Halton, A., Housman, D., & Kasten, L. (1992). Depressive affect in \"normal\" adolescents: Relationship to life stress, family, and friends. American Journal of Orthopsychiatry, 62, 430-441.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Representation of relationships to teachers, parents, and friends as predictors of academic motivation and self-esteem",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Stiller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Lynch",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Journal of Early Adolescence",
+                "volume": "14",
+                "issue": "",
+                "pages": "226--249",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ryan, R. M., Stiller, J. D., & Lynch, J. H. (1994). Representation of relationships to teachers, par- ents, and friends as predictors of academic motivation and self-esteem. Journal of Early Adolescence, 14, 226-249.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "At the threshold: The developing adolescent",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Savin-Williams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Berndt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Savin-Williams, R. C., & Berndt, T. J. (1990). Friendship and peer relations. In S. Feldman & G. R. Elliot (Eds.), At the threshold: The developing adolescent. Cambridge, MA: Harvard University Press.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Growing up the hard way: Pathways of urban adolescents",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Seidman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "American Journal of Community Psychology",
+                "volume": "19",
+                "issue": "",
+                "pages": "173--201",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Seidman, E. (1991). Growing up the hard way: Pathways of urban adolescents. American Jour- nal of Community Psychology, 19, 173-201.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "The risk and protective functions of perceived family and peer microsystems among urban adolescents in poverty",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Seidman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Chesir-Teran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Friedman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Yoshikawa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Allen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Roberts",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "American Journal of Community Psychology",
+                "volume": "27",
+                "issue": "",
+                "pages": "211--237",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Seidman, E., Chesir-Teran, D., Friedman, J. L., Yoshikawa, H., Allen, L., & Roberts, A. (1999). The risk and protective functions of perceived family and peer microsystems among urban adolescents in poverty. American Journal of Community Psychology, 27, 211-237.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Normative and reliability data for the Children's Depression Inventory",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Smucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Craighead",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Craighead",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Green",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Journal of Abnormal Child Psychology",
+                "volume": "14",
+                "issue": "",
+                "pages": "25--39",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smucker, M. R., Craighead, W. E., Craighead, L. W., & Green, B. J. (1986). Normative and reli- ability data for the Children's Depression Inventory. Journal of Abnormal Child Psychology, 14, 25-39.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Autonomy, conflict, and harmony in the family relationship",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Steinberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Steinberg, L. (1990). Autonomy, conflict, and harmony in the family relationship. In S. Feldman & G. R. Elliot (Eds.), At the threshold: The developing adolescent. Cambridge, MA: Harvard University Press.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "The interpersonal theory of psychiatry",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Sullivan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1953,
+                "venue": "American Journal of Community Psychology",
+                "volume": "13",
+                "issue": "",
+                "pages": "187--202",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sullivan, H. S. (1953). The interpersonal theory of psychiatry. New York: Norton. Tardy, C. H. (1985). Social support measures. American Journal of Community Psychology, 13, 187-202.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Influence of kinship social support on the parenting experiences and psychosocial adjustment of African-American adolescents",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Taylor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Casten",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Flickinger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Developmental Psychology",
+                "volume": "29",
+                "issue": "",
+                "pages": "382--388",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Taylor, R. D., Casten, R., & Flickinger, S. M. (1993). Influence of kinship social support on the parenting experiences and psychosocial adjustment of African-American adolescents. Developmental Psychology, 29, 382-388.",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "Everyday courage: The lives and stories of urban teenagers",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Way",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Way, N. (1998). Everyday courage: The lives and stories of urban teenagers. New York: New York University Press.",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "Close and general friendships among African American, Latino, and Asian American Adolescents from low-income families",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Way",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Adolescent Research",
+                "volume": "15",
+                "issue": "",
+                "pages": "274--300",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Way, N., & Chen, L. (2000). Close and general friendships among African American, Latino, and Asian American Adolescents from low-income families. Journal of Adolescent Research, 15, 274-300.",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "Pathways toward educational achievement among African American and Puerto Rican adolescent mothers: Reconsidering the role of family support",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Way",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Leadbeater",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Development and Psychopathology",
+                "volume": "11",
+                "issue": "",
+                "pages": "349--364",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Way, N., & Leadbeater, B. J. (1999). Pathways toward educational achievement among African American and Puerto Rican adolescent mothers: Reconsidering the role of family support. Development and Psychopathology, 11, 349-364.",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "Self-esteem: Examining gender, ethnic, socioeconomic status, and developmental differences",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Wheelock",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Erickson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wheelock, M. A., & Erickson, C. (1996, February). Self-esteem: Examining gender, ethnic, socioeconomic status, and developmental differences. Paper presented at the Association for Women in Psychology conference, Atlanta, Georgia.",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "Self-esteem, social support, and life stress: A regression analysis among male African-American adolescents. Paper presented at the meeting of the Society for Research on Adolescence",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Zimmerman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Maton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Zimmerman, M. A., & Maton, K. I. (1992, March). Self-esteem, social support, and life stress: A regression analysis among male African-American adolescents. Paper presented at the meeting of the Society for Research on Adolescence, Washington, DC.",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "She received her doctoral degree in human development and psychology from Harvard University. Her research, funded by The National Institute of Mental Health, The National Science Foundation, The Spencer Foundation, and The William T. Grant Foundation, focuses on the social and emotional development of lowincome adolescents. She has written, coedited, or coauthored the following books: Everyday Courage: The Lives and Stories of Urban Teenagers",
+                "authors": [],
+                "year": null,
+                "venue": "University Press), and Growing Up Fast: Transitions to Early Adulthood Among Inner-City Adolescent Mothers",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Niobe Way is currently an associate professor at New York University in the Department of Applied Psychology. She received her doctoral degree in human development and psy- chology from Harvard University. Her research, funded by The National Institute of Mental Health, The National Science Foundation, The Spencer Foundation, and The William T. Grant Foundation, focuses on the social and emotional development of low- income adolescents. She has written, coedited, or coauthored the following books: Everyday Courage: The Lives and Stories of Urban Teenagers (New York University Press), Urban Girls: Resisting Stereotypes, Creating Identities (New York University Press), and Growing Up Fast: Transitions to Early Adulthood Among Inner-City Ado- lescent Mothers (Lawrence Erlbaum).",
+                "links": null
+            },
+            "BIBREF65": {
+                "ref_id": "b65",
+                "title": "Robinson is currently a doctoral student in clinical psychology in the Department of Psychology at New York University. Her research interests include targeting and understanding the factors that contribute to psychological adjustment among adolescents. Her most recent work has focused on understanding the developmental trajectories of self-esteem among urban, low-income adolescents",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Melissa",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Her clinical work involves interventions with children, adolescents, and their families",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Melissa G. Robinson is currently a doctoral student in clinical psychology in the Depart- ment of Psychology at New York University. Her research interests include targeting and understanding the factors that contribute to psychological adjustment among adoles- cents. Her most recent work has focused on understanding the developmental trajecto- ries of self-esteem among urban, low-income adolescents. Her clinical work involves in- terventions with children, adolescents, and their families.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Change in self-esteem over time by high versus low levels of family support"
+            },
+            "FIGREF1": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Change in self-esteem over time by high versus low levels of perceived school climate at Time 1."
+            },
+            "FIGREF2": {
+                "num": null,
+                "uris": null,
+                "type_str": "figure",
+                "text": "Change in depressive symptoms over time by high versus low levels of family support at Time 1."
+            },
+            "TABREF0": {
+                "num": null,
+                "content": "<table><tr><td/><td/><td/><td>Self-</td><td>Self-</td><td colspan=\"3\">Depressive Depressive Friend</td><td>Friend</td><td>Family</td><td>Family</td><td colspan=\"2\">School School</td></tr><tr><td/><td/><td/><td colspan=\"10\">Esteem Esteem Symptoms Symptoms Support Support Support Support Climate Climate</td></tr><tr><td/><td>Mean</td><td>SD</td><td>Time 1</td><td>Time 3</td><td>Time 1</td><td>Time 3</td><td>Time 1</td><td>Time 3</td><td>Time 1</td><td>Time 3</td><td colspan=\"2\">Time 1 Time 3</td></tr><tr><td>Self-esteem Time 1</td><td>37.49</td><td>5.97</td><td>-</td><td>.56***</td><td>-.61***</td><td>-.33***</td><td>.40***</td><td>.23**</td><td>.40***</td><td>.46***</td><td>.07</td><td>.20*</td></tr><tr><td>Self-esteem Time 3</td><td>40.30</td><td>6.09</td><td>-</td><td>-</td><td>-.52***</td><td>-.65***</td><td>.31***</td><td>.30***</td><td>.12</td><td>.42***</td><td>.17</td><td>.24**</td></tr><tr><td colspan=\"2\">Depressive symptoms Time 1 15.21</td><td>3.34</td><td>-</td><td>-</td><td>-</td><td>.44***</td><td>-.25**</td><td>-.21**</td><td>-.17</td><td>-.32***</td><td>-.18*</td><td>-.18*</td></tr><tr><td colspan=\"2\">Depressive symptoms Time 3 12.28</td><td>2.79</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-.14</td><td>-.33***</td><td>.06</td><td>-.30***</td><td>-.19*</td><td>-.27**</td></tr><tr><td>Friend support Time 1</td><td>13.17</td><td>4.20</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>.45***</td><td>.39***</td><td>.33***</td><td>.10</td><td>-.10</td></tr><tr><td>Friend support Time 3</td><td>14.63</td><td>4.76</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>.03</td><td>.32***</td><td>.16</td><td>.06</td></tr><tr><td>Family support Time 1</td><td>12.54</td><td>4.64</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>.45***</td><td>.22**</td><td>.11</td></tr><tr><td>Family support Time 3</td><td>12.51</td><td>5.03</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>.20**</td><td>.15</td></tr><tr><td>School climate Time 1</td><td colspan=\"2\">94.68 13.75</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>.45***</td></tr><tr><td>School climate Time 3</td><td colspan=\"2\">95.01 17.73</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>",
+                "type_str": "table",
+                "text": ""
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td>Final B</td><td>SE b</td><td>Final \u03b2</td><td>R</td><td>2 Change</td></tr></table>",
+                "type_str": "table",
+                "text": "of summary scores. The transformed score for depressive symptoms at Time 3 was used as the criterion variable in this regression analysis with the transformed score for depressive symptoms assessed at Time 1 entered as the first predictor in the model to statistically control for this variable. Then"
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td>Final B</td><td>SE b</td><td>Final \u03b2 R 2 Change</td></tr></table>",
+                "type_str": "table",
+                "text": ""
+            }
+        }
+    }
+}
