@@ -1,0 +1,2900 @@
+{
+    "paper_id": "marsh_1994",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:57:11.842091Z"
+    },
+    "title": "Using the National Longitudinal Study of 1988 to Evaluate Theoretical Models of Self-Concept: The Self-Description Questionnaire",
+    "authors": [
+        {
+            "first": "Herbert",
+            "middle": [
+                "W"
+            ],
+            "last": "Marsh",
+            "suffix": "",
+            "affiliation": {},
+            "email": "h.marsh@uws.edu.au."
+        },
+        {
+            "first": "Raymond",
+            "middle": [
+                "S"
+            ],
+            "last": "Nickerson",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Self-concept scales (Math, English, Parent Relations, Same-Sex Peer Relations, and Opposite-Sex Peer Relations) from the Australian Self-Description Questionnaire II (SDQII) were included in the National Educational Longitudinal Survey of 1988 (NELS:88). Mean differences that were based on responses by 17,544 (NELS:88) U.S. and 1,147 (SDQII normative archive) Australian students were small, and gender differences (girls higher for English and Same-Sex Relations but lower for Math) were similar for both countries. Structural equation models relating mathematics and English achievement scores, school grades, self-concepts, and school-average abilities replicated and extended previous results that were based on the internal/external frame of reference model and the big-fish-little-pond effect. The results support the construct validity of the SDQII responses in the NELS:88 data and have implications for self-concept theory, measurement, and practice.",
+    "pdf_parse": {
+        "paper_id": "marsh_1994",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Self-concept scales (Math, English, Parent Relations, Same-Sex Peer Relations, and Opposite-Sex Peer Relations) from the Australian Self-Description Questionnaire II (SDQII) were included in the National Educational Longitudinal Survey of 1988 (NELS:88). Mean differences that were based on responses by 17,544 (NELS:88) U.S. and 1,147 (SDQII normative archive) Australian students were small, and gender differences (girls higher for English and Same-Sex Relations but lower for Math) were similar for both countries. Structural equation models relating mathematics and English achievement scores, school grades, self-concepts, and school-average abilities replicated and extended previous results that were based on the internal/external frame of reference model and the big-fish-little-pond effect. The results support the construct validity of the SDQII responses in the NELS:88 data and have implications for self-concept theory, measurement, and practice.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "number of items in the abbreviated, NELS:88 version of the SDQII were based on requirements established by the National Center for Educational Statistics, and I chose the particular items on the basis of analyses of the (Australian) normative archive of the SDQII instrument. Although the base year NELS:88 survey contained a variation of the Rosenberg (1965) self-esteem scale similar to those in the earlier NELS:72 and High School and Beyond studies, items designed to measure specific domains of self-concept were not included in these earlier studies. The purposes of the present investigation are to evaluate implications of research presented here for self-concept theory, measurement, and practice. Toward this end, I begin by evaluating the psychometric properties of the self-concept responses in the NELS:88 and comparing these properties with those from parallel analyses that are based on Australian students.",
+                "cite_spans": [
+                    {
+                        "start": 343,
+                        "end": 359,
+                        "text": "Rosenberg (1965)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Self-Concept Self-concept research has suffered from a paucity of theoretical models, psychometrically sound instruments, and appropriate statistical analyses. In an attempt to remedy this situation, Shavelson, Hubner, and Stanton (1976) reviewed theoretical and empirical research and developed a hierarchical, multifaceted model of self-concept. Selfconcept, broadly defined by Shavelson et al. , is a person's self-perceptions, formed through experience with and interpretations of one's environment. Shavelson et al. found only modest support for their hypothesized domains of self-concept. Much stronger support, however, comes from subsequent factor analyses of responses to instruments designed to measure specific domains that are based at least loosely on an explicit theoretical model such as the Shavelson et al. model (e.g., Boersma & Chapman, 1979; Byrne & Shavelson, 1987; Fleming & Courtney, 1984; Harter, 1982; Hattie, 1992; Marsh, 1989 Marsh, , 1990c Marsh, , 1992a Soares & Soares, 1982) . Reviews of this research (Byrne, 1984; Hattie, 1992; Marsh, 1990c Marsh, , 1993a Marsh & Shavelson, 1985) support the multifaceted structure of self-concept and indicate that selfconcept cannot be adequately understood if its multidimensionality is ignored. Particularly in educational research, the academic components of the model-their measurement, their structure, and their relation to external constructs such as academic achievement-have received considerable attention (e.g., Byrne, 1984; Hattie, 1992; Marsh, 1990c; 1993a; Marsh, Byrne, & Shavelson, 1988; Marsh & Shavelson, 1985) .",
+                "cite_spans": [
+                    {
+                        "start": 200,
+                        "end": 237,
+                        "text": "Shavelson, Hubner, and Stanton (1976)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 380,
+                        "end": 396,
+                        "text": "Shavelson et al.",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 504,
+                        "end": 520,
+                        "text": "Shavelson et al.",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 807,
+                        "end": 861,
+                        "text": "Shavelson et al. model (e.g., Boersma & Chapman, 1979;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 862,
+                        "end": 886,
+                        "text": "Byrne & Shavelson, 1987;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 887,
+                        "end": 912,
+                        "text": "Fleming & Courtney, 1984;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 913,
+                        "end": 926,
+                        "text": "Harter, 1982;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 927,
+                        "end": 940,
+                        "text": "Hattie, 1992;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 941,
+                        "end": 952,
+                        "text": "Marsh, 1989",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 953,
+                        "end": 967,
+                        "text": "Marsh, , 1990c",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 968,
+                        "end": 982,
+                        "text": "Marsh, , 1992a",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 983,
+                        "end": 1005,
+                        "text": "Soares & Soares, 1982)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1033,
+                        "end": 1046,
+                        "text": "(Byrne, 1984;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1047,
+                        "end": 1060,
+                        "text": "Hattie, 1992;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1061,
+                        "end": 1073,
+                        "text": "Marsh, 1990c",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1074,
+                        "end": 1088,
+                        "text": "Marsh, , 1993a",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1089,
+                        "end": 1113,
+                        "text": "Marsh & Shavelson, 1985)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1492,
+                        "end": 1504,
+                        "text": "Byrne, 1984;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1505,
+                        "end": 1518,
+                        "text": "Hattie, 1992;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1519,
+                        "end": 1532,
+                        "text": "Marsh, 1990c;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1533,
+                        "end": 1539,
+                        "text": "1993a;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1540,
+                        "end": 1572,
+                        "text": "Marsh, Byrne, & Shavelson, 1988;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 1573,
+                        "end": 1597,
+                        "text": "Marsh & Shavelson, 1985)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Multidimensional, Hierarchical Model of",
+                "sec_num": null
+            },
+            {
+                "text": "Three self-concept instruments (see Marsh, 1990c , for an overview), which are based on the Shavelson et al. (1976) model, were designed to measure preadolescent self-concepts (SDQI), adolescent self-concepts (SDQII), and lateadolescent-young adult self-concepts (SDQIII). SDQ research provided strong support for the multidimensionality of self-concept and for the Shavelson et al. model, but it also posed complications. The strong hierarchical structure posited by Shavelson et al. requires self-concepts in different domains to be substantially correlated, but the small correlations actually observed imply that the hierarchy must be much weaker than originally anticipated. For example, Math and English self-concepts in the Shavelson et al. model were posited to be substantially correlated so that they could be described in terms of a single higher order academic self-concept. Correlations between Math and English self-concepts, however, were typically close to zero, and confirmatory factor analyses showed that relations between multiple dimensions of academic self-concept could not be explained in terms of a single domain of academic self-concept. These results led to the Marsh-Shavelson revision of the Shavelson et al. model in which two higher-order components of academic self-concept-Math/academic and English/academic-were posited instead of only one (see Marsh, 1990c Marsh, , 1993a , for reviews of this research). Strong support for the construct validity of SDQ responses has led to widespread endorsement of this Australian instrument. Wylie (1989) , for example, evaluated the SDQs as being the strongest and most thoroughly researched self-concept instruments whereas Hattie (1992) concluded that the SDQs were \"the best set of measures available\" (p. 83).",
+                "cite_spans": [
+                    {
+                        "start": 36,
+                        "end": 48,
+                        "text": "Marsh, 1990c",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 92,
+                        "end": 115,
+                        "text": "Shavelson et al. (1976)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 366,
+                        "end": 393,
+                        "text": "Shavelson et al. model, but",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1379,
+                        "end": 1391,
+                        "text": "Marsh, 1990c",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1392,
+                        "end": 1406,
+                        "text": "Marsh, , 1993a",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1564,
+                        "end": 1576,
+                        "text": "Wylie (1989)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 1698,
+                        "end": 1711,
+                        "text": "Hattie (1992)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Multidimensional, Hierarchical Model of",
+                "sec_num": null
+            },
+            {
+                "text": "Particularly for school-aged children, academic components of self-concept are often related to academic achievement. Support for the construct validity of multidimensional self-concept responses requires that academic achievement should be more highly correlated with academic components of self-concept than with nonacademic components of self-concept, and that academic achievement in particular domains should be more highly correlated with academic self-concepts in the matching domain (e.g., mathematics achievement and Math self-concept) than self-concepts in nonmatching domains. Although academic self-concept should be substantially correlated with both school grades and standardized test scores, relations with school grades are expected to be stronger because schools grades are a more salient source of feedback to students that also reflect motivational properties that are likely to be related to selfconcept (Marsh, 1987; 1990c; 1993a; Wylie, 1979) . Although not a focus of the present investigation, Marsh (1990a) used a longitudinal analysis to demonstrate that prior academic self-concept affects subsequent academic achievement beyond the effects of prior academic achievement. Whereas most research considers only a global component of academic self-concept or academic self-concept in only one specific domain (e.g., math self-concept), there is a growing body of research indicating the need to consider multiple dimensions of academic self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 925,
+                        "end": 938,
+                        "text": "(Marsh, 1987;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 939,
+                        "end": 945,
+                        "text": "1990c;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 946,
+                        "end": 952,
+                        "text": "1993a;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 953,
+                        "end": 965,
+                        "text": "Wylie, 1979)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 1019,
+                        "end": 1032,
+                        "text": "Marsh (1990a)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relations Between Academic Self-Concept and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Internal/external (I/E) frame of reference model. The I/E model (Marsh, 1986b; 1990b; 1990c; Marsh, Byrne, et al., 1988) was developed to explain why Math and English self-concepts are almost uncorrelated even though corresponding areas of academic achievement are substantially correlated. According to the I/E model, academic self-concepts are formed in relation to two distinct comparison processes or frames of reference.",
+                "cite_spans": [
+                    {
+                        "start": 64,
+                        "end": 78,
+                        "text": "(Marsh, 1986b;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 79,
+                        "end": 85,
+                        "text": "1990b;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 86,
+                        "end": 92,
+                        "text": "1990c;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 93,
+                        "end": 120,
+                        "text": "Marsh, Byrne, et al., 1988)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relations Between Academic Self-Concept and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "1. According to the external comparison process, students compare their academic accomplishments in each domain with those of other students in their immediate frame of reference (i.e., their school or classroom). On the basis of this social comparison process, Math and English selfconcepts should be substantially correlated as are academic accomplishments in these two domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relations Between Academic Self-Concept and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "2. According to the internal comparison process, students compare their academic accomplishments in any one area with their accomplishments in other academic areas. Students will have more positive self-concepts in whatever school subject happens to be their best subject, independent of whether their performance in that subject is above or below average in relation to the accomplishments of other students. On the basis of this ipsative-like process, Math and English self-concepts should be negatively correlated; an improved academic self-concept in any one domain is at the expense of a lowered academic self-concept in the remaining domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relations Between Academic Self-Concept and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "The joint operation of these two processes, which depends on the relative weight given to each, is consistent with the near-zero correlations between Math and English selfconcepts that led to the revision of the Shavelson et al. (1976) model. Even stronger tests of the I/E model are possible when mathematics and English achievement are related to Math and English self-concepts. The external comparison process and common sense predict that good mathematics skills should lead to higher Math self-concepts and that good English skills should lead to higher English self-concept. According to the internal comparison process, however, good mathematics skills should lead to lower English self-concepts and good English skills should lead to lower Math self-concepts. In the path model used to test this prediction, the direct effects of mathematics achievement on English self-concept and of English achievement on Math self-concept were predicted to be negative. According to the model, high English accomplishments detract from Math self-concept and high mathematics accomplishments detract from English self-concept. Support for these predictions comes both from a large body of SDQ research (Marsh, 1986b; 1990c) and from research for which other selfconcept instruments were used (Marsh, Byrne, et al., 1988) .",
+                "cite_spans": [
+                    {
+                        "start": 212,
+                        "end": 235,
+                        "text": "Shavelson et al. (1976)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 1196,
+                        "end": 1210,
+                        "text": "(Marsh, 1986b;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1211,
+                        "end": 1217,
+                        "text": "1990c)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1286,
+                        "end": 1314,
+                        "text": "(Marsh, Byrne, et al., 1988)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relations Between Academic Self-Concept and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Big-Fish-Little-Pond Effect. As I indicated in the discussion of the I/E model, even after individuals obtain information from various sources about their academic accomplishments, these impressions must be compared with some frame of reference. To the extent that individuals have different frames of reference, the same objective indicators of achievement will lead to different academic self-concepts. The social comparison theory underlying the big-fishlittle-pond effect hypothesizes that students compare their own academic ability with the academic abilities of other students in their reference group and use this comparison as one basis for forming their own academic self-concept. The big-fish-little-pond effect occurs when students have (a) lower academic self-concepts when they compare themselves to more able students and (b) higher academic selfconcepts when they compare themselves with less able students (Marsh, 1984; 1991; Marsh & Parker, 1984) . According to this model, individual student achievement is positively correlated with academic self-concept, but the contribution of school-average ability is negative. If a student attends a school where the average ability level of other students is high, then this student-according to the bigfish-little-pond effect-is likely to have a lower academic self-concept than if the same student attended a school in which the average ability is low. Support for the big-fishlittle-pond effect using various experimental and analytical approaches has been reported (Brookover, 1989; Davis, 1966; Jerusalem, 1984; Marsh, 1984; 1990b; 1991; Marsh & Parker, 1984; Reuman, 1989; Rogers, Smith, & Coleman, 1978; Schwarzer, Jerusalem, & Lange, 1983) . Marsh (1991) considered the influence of school-average ability on a much wider array of outcomes, using the High School and Beyond longitudinal database consisting of responses by the same high school students when they were sophomores (Tl), seniors (T2), and two years after the typical graduation from high school (T3). The major findings of this path analysis were that the effects of schoolaverage ability were not positive for any outcomes, and the effects were significantly negative for advanced coursework selection, academic self-concept, grade point average, educational aspiration, occupational aspiration, standardized test score, and university attendance. Subsequent analyses suggested that many of the negative effects of schoolaverage ability were mediated by academic self-concept, thus indicating the importance of academic self-concept as both an outcome variable and as a mediating variable that influences other desirable outcomes.",
+                "cite_spans": [
+                    {
+                        "start": 923,
+                        "end": 936,
+                        "text": "(Marsh, 1984;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 937,
+                        "end": 942,
+                        "text": "1991;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 943,
+                        "end": 964,
+                        "text": "Marsh & Parker, 1984)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1529,
+                        "end": 1546,
+                        "text": "(Brookover, 1989;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1547,
+                        "end": 1559,
+                        "text": "Davis, 1966;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1560,
+                        "end": 1576,
+                        "text": "Jerusalem, 1984;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1577,
+                        "end": 1589,
+                        "text": "Marsh, 1984;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1590,
+                        "end": 1596,
+                        "text": "1990b;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1597,
+                        "end": 1602,
+                        "text": "1991;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1603,
+                        "end": 1624,
+                        "text": "Marsh & Parker, 1984;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1625,
+                        "end": 1638,
+                        "text": "Reuman, 1989;",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 1639,
+                        "end": 1670,
+                        "text": "Rogers, Smith, & Coleman, 1978;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1671,
+                        "end": 1707,
+                        "text": "Schwarzer, Jerusalem, & Lange, 1983)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1710,
+                        "end": 1722,
+                        "text": "Marsh (1991)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relations Between Academic Self-Concept and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Self-concept researchers frequently evaluate gender differences in the mean levels of self-concept (e.g., Hattie, 1992; Marsh, 1989; Wylie, 1979) . Marsh (1989) , for example, reported that gender differences that are based on Australian responses to multiple dimensions of self-concept are consistent with sex stereotypes (e.g., males higher in Math self-concept and physical self-concept, girls higher in English self-concepts). Inadequate attention, however, has been given to gender differences in the factor structure of self-concept and to the question of whether a given instrument measures the same components of self-concept with equal validity for males and females. It is important to emphasize that this concern is not one of mean differences in the level of self-concept that are related to gender. Rather, the concern is a more fundamental issue about the factor structure underlying self-concept; whether responses to the same instrument have the same meaning for boys and girls. Byrne and Shavelson (1987, p. 369) , for example, concluded that: \"Clearly, interpretations of mean differences in SC [self-concept] between males and females are problematic unless the underlying construct has the same structure in the two groups.\" Consistent with this perspective, Hattie (1992, p. 177-178) emphasized that \"the differences in means may not be as critical in the development of selfconcept as changes in factor structure.\" At a pragmatic level, the implications of this issue are profound. Unless there is reasonable support for the invariance of the selfconcept structure across gender, it may not be justified to compare self-concept responses across males and females. Such concerns about factor structure invariance are most appropriately evaluated by using confirmatory factor analysis to determine whether-and how-the structure of selfconcept varies according to gender (see Marsh, 1993b) . The minimal criterion of factorial invariance is that the factor loadings relating each indicator to its hypothesized factor is the same across all the different groups. Previous research has shown that Australian SDQ responses are reasonably invariant over gender (Marsh, 1993b) , but it is important to evaluate the generalizability of this finding to responses of U.S. students in the NELS:88 database.",
+                "cite_spans": [
+                    {
+                        "start": 106,
+                        "end": 119,
+                        "text": "Hattie, 1992;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 120,
+                        "end": 132,
+                        "text": "Marsh, 1989;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 133,
+                        "end": 145,
+                        "text": "Wylie, 1979)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 148,
+                        "end": 160,
+                        "text": "Marsh (1989)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 995,
+                        "end": 1029,
+                        "text": "Byrne and Shavelson (1987, p. 369)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1113,
+                        "end": 1127,
+                        "text": "[self-concept]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1279,
+                        "end": 1304,
+                        "text": "Hattie (1992, p. 177-178)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1895,
+                        "end": 1908,
+                        "text": "Marsh, 1993b)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 2176,
+                        "end": 2190,
+                        "text": "(Marsh, 1993b)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Gender Differences",
+                "sec_num": null
+            },
+            {
+                "text": "The purposes of the present investigation are (a) to evaluate the NELS:88 self-concept scales, (b) to provide a comprehensive comparison of U.S. and Australian selfconcept responses, thereby evaluating more fully the applicability of the Australian SDQII instrument for U.S. students, and (c) to test and extend a variety of theoretical self-concept models with the uniquely appropriate NELS:88 data. More specifically, 1. I compared the psychometric properties and mean responses by U.S. males, U.S. females, Australian males, and Australian females. The particular concerns in these initial analyses are tests of the generalizability of the psychometric properties of the SDQII responses over gender and country and of gender differences in mean self-concept responses across the U.S. and Australian data.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Present Investigation",
+                "sec_num": null
+            },
+            {
+                "text": "2. I evaluated and extended predictions that were based on the I/E model. The NELS:88 data provide a stronger basis for testing the I/E model because of its size, national representativeness, and the quality of measures included in it. Furthermore, the availability of school grades and standardized test scores provides an opportunity to test the I/E model with both of achievement indicators.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Present Investigation",
+                "sec_num": null
+            },
+            {
+                "text": "3. I also evaluated and extended predictions that were based on the big-fish-little-pond effect. In tests of the bigfish-little-pond effect that were based on the High School and Beyond data (Marsh, 1991) I used standardized achievement tests administered in the sophomore year of high school to infer initial individual ability and schoolaverage ability. Although reasonable, these measures may confound initial ability and initial effects of the school that occurred between the start of high school and the administration of the tests. For the NELS:88 data, however, standardized tests were first administered when students were in eighth grade, thus providing a stronger basis for testing the big-fish-little-pond effect. Furthermore, because there are separate measures for the mathematics and English constructs (achievement, school grades, and self-concepts), it is possible to evaluate the domain specificity of the big-fishlittle-pond effect. Thus, I predicted that school-average mathematics achievement negatively affects Math self-concept but has less effect on English self-concept, whereas school-average English achievement negatively affects English self-concept but has less effect on Math selfconcept.",
+                "cite_spans": [
+                    {
+                        "start": 191,
+                        "end": 204,
+                        "text": "(Marsh, 1991)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Present Investigation",
+                "sec_num": null
+            },
+            {
+                "text": "The present investigation is based on the first follow-up of the NELS:88 study that was documented in greater detail in the User's Manual (Ingles et al., 1992) . As recommended in the User's manual, my analyses were based on responses made by the 17,544 students who composed a representative sample of students enrolled in 10th grade in the spring of 1990, and responses were weighted by the basic weight (F1QWT; Ingles et al., 1992 , Appendix K) designed for this group that takes into account disproportionate sampling of specific subgroups. Because of the twostage probability sample in the NELS:88 design, standard errors that were based on the assumption of simple random sampling substantially underestimate the sampling variability in summary statistics and distort tests of statistical significance. To compensate for this bias, I divided the weight for each student by the estimated design effect of 3.858 (Ingles et al., 1992, p. 50) ; this reduced the nominal sample size from 17,544 to 4,547. It is important to emphasize that this nominal reduction in sample size affects only the size of standard errors and tests of statistical significance; it has no effect on the size of parameter estimates (e.g., coefficient alpha estimates of reliability, scale means, factor loadings, and path coefficients) that are the focus of the present investigation.",
+                "cite_spans": [
+                    {
+                        "start": 138,
+                        "end": 159,
+                        "text": "(Ingles et al., 1992)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 414,
+                        "end": 433,
+                        "text": "Ingles et al., 1992",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 916,
+                        "end": 944,
+                        "text": "(Ingles et al., 1992, p. 50)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "NELS:88 Sample and Data",
+                "sec_num": null
+            },
+            {
+                "text": "The sample sizes in various analyses depended on the particular variables that were considered. Out of a possible 17,544 unweighted cases, the number of nonmissing responses varied from 16,310 to 16,579 for the 21 self-concept items (only 14,691 cases had no missing responses to any of the items), from 16,682 to 16,703 for math and reading 1990 achievement test scores, from 16,990 to 17,028 for mathematics and English grades, and from 14,866 to 14,888 for math and reading 1988 achievement test scores. Scale scores for each of the self-concept scales were computed by finding the mean of the nonmissing responses of items defining that scale (Appendix A), and analyses of these scores were conducted for the 16,557 cases with no missing scale scores. For all the LISREL analyses, I computed covariance matrices using pairwise deletion for missing data. Taking into account the design factor of 3.858, Ns of 4,000, 4,000, and 3,500 were used for purposes of statistical significance testing for the confirmatory factor analysis (CFA) of self-concept responses, testing the I/E model, and testing the big-fish-little-pond effect. The smaller N in the big-fish-little-pond effect analysis was due to the fact that the analysis was limited to those high schools that had at least 15 students who had completed the reading and mathematics achievement tests in eighth grade. Again, it is important to emphasize that these Ns only affected tests of statistical significance and had no effect on the actual parameter estimates that are the focus of the present investigation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "NELS:88 Sample and Data",
+                "sec_num": null
+            },
+            {
+                "text": "Australian responses from the SDQH normative archive (Marsh, 1992a) are based on responses by 5,494 students selected to be broadly representative of schools in metropolitan Sydney, Australia. In the manual, users are cautioned that these norms may be less appropriate to students from other countries or for students who complete the instrument for other purposes or under different motivational circumstances. For purposes of the present investigation, only responses by 1,187 Australian tenth grade students to the 21 items that were included in the NELS:88 survey were considered.",
+                "cite_spans": [
+                    {
+                        "start": 53,
+                        "end": 67,
+                        "text": "(Marsh, 1992a)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "NELS:88 Sample and Data",
+                "sec_num": null
+            },
+            {
+                "text": "Reliability. In preliminary analyses, item analyses and coefficient alpha estimates of reliability were computed separately for each of the five self-concept scales that were based on the U.S. and Australian responses by male and female ( Table 1 ). Female students' responses tended to be slightly more reliable than the male students' responses, but the differences were small and consistent across country. Responses of U.S. and Australian students were equally reliable for 4 of the 5 scales; Australian responses were more reliable for the Opposite-Sex Relations scale. The U.S.-Australian difference in reliability on the Opposite-Sex Relations scale is consistent for responses by male and female students and is reasonably consistent across the different items that compose this scale. It is also interesting to note that the corrected item-total correlations tended to be lower for the 8 negatively worded items, and that these differences appear to be greater for U.S. students' responses than for Australian students' responses. This suggests the possibility of a negative item effect that varies for U.S. and Australian students' responses. In relation to the required brevity of the self-concept scales, the reliability of each scale appeared to be good.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 239,
+                        "end": 246,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Preliminary Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Mean differences. In preliminary analyses, a 2 (country: United States and Australia) X 2 (gender: male and female students) analysis of variance was used to analyze responses for each of the 5 self-concept scales (see Table 2 ). Because even trivially small differences are statistically significant for such large sample sizes, effect sizes based on the d statistic traditionally used in meta-analyses and variance explained (TJ 2 X 100%) are presented in Table 2 . Responses by U.S. (NELS:88) students were significantly higher than responses by Australian (SDQII archive) students on 4 of the 5 scales-all but the Parent scale. The largest country differences were for the English and Opposite-Sex Relations scales. Mean self-concept, averaged across the five selfconcept scales, was also significantly higher for U.S. responses. There were statistically significant, gender differences in responses Note. The reliability of each self-concept scale was determined separately for responses by Australian and U.S. students. Separate analyses were conducted on the total sample from each country and on responses by male and female students. For each item, the corrected item total correlations (the correlation between that item and the sum of the other items in the scale) are presented for the different analyses (SPSS, 1990 ). a Denotes negatively worded items f, m, n, s, r, p, t, and o listed in Appendix A.",
+                "cite_spans": [
+                    {
+                        "start": 1317,
+                        "end": 1328,
+                        "text": "(SPSS, 1990",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 219,
+                        "end": 226,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 458,
+                        "end": 465,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Preliminary Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "to the 5 self-concept scales. Tenth grade girls had significantly higher self-concepts than tenth-grade boys on two scales (English and Same-Sex Relations) and significantly lower responses on one scale (Math). Although there are statistically significant Country X Gender differences for 3 of 5 scales, these interactions are very small (i.e., variance explained < 0.5%). Hence, the pattern of small gender differences is reasonably consistent across U.S. and Australian responses. Mean self-concept, averaged across the five self-concept scales, is not significantly related to either gender or the Gender X Country interaction.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Preliminary Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Confirmatory factor analysis. CFA models using the mainframe version of LISREL 7 (Joreskog & Sorbom, 1989) were used to test the a priori factor structure underlying self-concept responses. For all results presented in this article, the solutions were \"proper\" in that the iterative estimation procedure converged, no parameter estimates were \"out-of-range\" (e.g., negative variance estimates), and all matrices of parameter estimates were positive definite. Separate analyses were conducted for covariance matrices for U.S. and Australian male and female students. In subsequent analyses, CFA approaches to factorial invariance were used to test the equality of various parameter estimates across the four groups of respondents. Tests of the invariance of parameter estimates over gender were also conducted separately for U.S. and Australian responses.",
+                "cite_spans": [
+                    {
+                        "start": 81,
+                        "end": 106,
+                        "text": "(Joreskog & Sorbom, 1989)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Confirmatory factor analysis parameter estimates (for more detailed descriptions see Bollen, 1989; Byrne, 1989; Hayduk, 1987; Joreskog & Sorbom, 1989; Marsh & Hocevar, 1985) typically consist of factor loadings (the relation between each measured variable and the corresponding latent factor-the validity of each measured variable), factor variances and covariances (relations among the factors), uniquenesses (a combination of specific and error variances), and, perhaps, correlations among uniquenesses. The factor loadings are of central importance in the definition of each factor and the validation of the underlying factor structure. For comparisons across multiple groups, the minimal condition of factorial invariance is typically taken to be the invariance of factor loadings, although the invariance of factor correlations, factor variances, and uniquenesses are also of interest. (Marsh, 1992a) and for American 10th grade students from the NELS:88 study. A 2 (gender: male and female) X 2 (country: Australia and United States) multivariate analysis of variance was conducted for the five self-concept scales scores and was followed by separate univariate analyses for each scale. Var = percent variance explained (TJ 2 X 100%). d = d statistic. a Ns for the U.S. data have been divided by 3.858 to take into account the estimated design effect associated with the cluster sampling design used in the NELS:88 study (Ingles et al., 1992, pp. 48-58) . b Mean self is the simple unweighted mean of the five self-concept scales. *p< .05. **p< .01.",
+                "cite_spans": [
+                    {
+                        "start": 85,
+                        "end": 98,
+                        "text": "Bollen, 1989;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 99,
+                        "end": 111,
+                        "text": "Byrne, 1989;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 112,
+                        "end": 125,
+                        "text": "Hayduk, 1987;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 126,
+                        "end": 150,
+                        "text": "Joreskog & Sorbom, 1989;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 151,
+                        "end": 173,
+                        "text": "Marsh & Hocevar, 1985)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 891,
+                        "end": 905,
+                        "text": "(Marsh, 1992a)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1427,
+                        "end": 1459,
+                        "text": "(Ingles et al., 1992, pp. 48-58)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Critical issues in the application of CFA are (a) how to determine whether a solution that is based on a particular model adequately fits the data and (b) how to compare the relative fit of competing models. The approach used here (see Bentler, 1990; Gerbing & Anderson, 1992; Marsh, Balla, & McDonald, 1988; McDonald & Marsh, 1990; Mulaik, et al., 1989 ) (a) demonstrates that the solution is well defined by establishing that the iterative estimation procedure converges to a proper solution; (b) examines the parameter estimates from alternative models in relation to each other, to substantive a priori expectations, and to common sense; and (c) evaluates the chi-square and subjective indices of fit and compares values obtained from alternative models. Because no restrictive model with positive df is able to fit real data and will be rejected by a formal test of significance for a sufficiently large N, I placed more emphasis on subjective indices like the Tucker-Lewis index (Tucker & Lewis, 1973) , the relative noncentrality index (McDonald & Marsh, 1990) , and the parsimony relative noncentrality index (PRNI; Mulaik, et al., 1989 ) based on the relative noncentrality index (Marsh & Balla, 1991) . Tucker-Lewis and relative noncentrality indexes greater than .90 are typically interpreted as indicating an \"acceptable\" fit. Whereas the restric-tions and invariance constraints necessarily result in a poorer goodness of fit according to the chi-square and relative noncentrality index, the Tucker-Lewis index and parsimony relative noncentrality index incorporate penalty functions that are based on the number of estimated parameters so that it is technically possible for such constraints to result in better fits according to the Tucker-Lewis index and parsimony relative noncentrality index. The parsimony relative noncentrality index penalty function is apparently more substantial than the Tucker-Lewis index penalty function, so that the parsimony relative noncentrality index is likely to favor more parsimonious models (e.g., models with more invariance constraints compared with models with fewer invariance constraints) than the Tucker-Lewis index (for further discussion of these penalty functions see Marsh & Balla, 1991; McDonald & Marsh, 1990) .",
+                "cite_spans": [
+                    {
+                        "start": 236,
+                        "end": 250,
+                        "text": "Bentler, 1990;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 251,
+                        "end": 276,
+                        "text": "Gerbing & Anderson, 1992;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 277,
+                        "end": 308,
+                        "text": "Marsh, Balla, & McDonald, 1988;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 309,
+                        "end": 332,
+                        "text": "McDonald & Marsh, 1990;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 333,
+                        "end": 353,
+                        "text": "Mulaik, et al., 1989",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 985,
+                        "end": 1007,
+                        "text": "(Tucker & Lewis, 1973)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1043,
+                        "end": 1067,
+                        "text": "(McDonald & Marsh, 1990)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 1124,
+                        "end": 1144,
+                        "text": "Mulaik, et al., 1989",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 1189,
+                        "end": 1210,
+                        "text": "(Marsh & Balla, 1991)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 2229,
+                        "end": 2249,
+                        "text": "Marsh & Balla, 1991;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 2250,
+                        "end": 2273,
+                        "text": "McDonald & Marsh, 1990)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Negatively worded items. Test construction specialists often recommend that positively and negatively worded items should be included on rating scales to disrupt possible response sets. This recommendation assumes that positively and negatively worded items measure the same construct, but this assumption is rarely tested, and its validity may be dubious in some situations such as responses by young children (e.g., Benson & Hocevar, 1985; Marsh, 1986a) . Whereas older respondents should be able to cope with the cognitive demands of negatively worded items, Marsh (1992b) reported factors defined primarily by negatively worded items for many different self-concept instruments and for respondents of different ages. Similarly, Carmines and Zeller (1979) found that positively and negatively worded items from the Rosenberg (1965) self-esteem scale defined clearly distinguishable factors that they concluded were \"a function of a single theoretical dimension of self-esteem that is contaminated by a method artifact, response set\" (p. 69).",
+                "cite_spans": [
+                    {
+                        "start": 418,
+                        "end": 441,
+                        "text": "Benson & Hocevar, 1985;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 442,
+                        "end": 455,
+                        "text": "Marsh, 1986a)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 562,
+                        "end": 575,
+                        "text": "Marsh (1992b)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 732,
+                        "end": 758,
+                        "text": "Carmines and Zeller (1979)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Using CFA, it is possible to posit a separate negative item factor or to represent the negative item effect as correlated uniquenesses among the negatively worded items (e.g., Marsh, 1986a; 1992b) . Thus, for example, Bachman and O'Malley (1986) noted that to obtain a reasonable fit, they needed to include correlated uniquenesses in analyses of their 10-item variation of the Rosenberg (1965) self-esteem scale. They argued that the inclusion of correlated errors was necessary to distinguish between the latent factor of esteem and the method effects induced by the presence of the negatively worded items. Because 8 of the 21 self-concept items on the NELS:88 were negatively worded items, negative item effects like those found in previous research are likely, and so I applied a CFA approach like that advocated by Bachman and O'Malley and by Marsh (1986a; 1992b) in the present investigation.",
+                "cite_spans": [
+                    {
+                        "start": 176,
+                        "end": 189,
+                        "text": "Marsh, 1986a;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 190,
+                        "end": 196,
+                        "text": "1992b)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 218,
+                        "end": 245,
+                        "text": "Bachman and O'Malley (1986)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 849,
+                        "end": 862,
+                        "text": "Marsh (1986a;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 863,
+                        "end": 869,
+                        "text": "1992b)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Tests of the I/E model: Structural equation models. The pattern of relations between academic achievement and academic selfconcept posited by the I/E model was tested with structural equation models. Ideally, all latent constructs should be inferred on the basis of multiple indicators so that parameter estimates can be appropriately corrected for measurement error. Because mathematics and English school grades had only a single indicator, the reliability of each of these measures was fixed at the arbitrary, but plausible value of .90 (see Joreskog & Sorbom, 1989) . Mathematics and English achievement tests scores were available for both 1988 and 1990, thus there were multiple indicators of the mathematics and English achievement constructs. Three correlated uniquenesses were posited in this structural equation model. On the basis of the support for the existence of a negative item effect in the self-concept responses in the initial CFA, I posited a correlated uniqueness relating the negatively worded item in the Math scale to the negatively worded item in the English scale. Also, correlated uniquenesses were allowed between the pair of 1988 achievement test scores and the pair of 1990 achievement test scores (i.e., mathematics and reading achievements collected at the same time were more highly correlated than corresponding achievements collected at different times).",
+                "cite_spans": [
+                    {
+                        "start": 545,
+                        "end": 569,
+                        "text": "Joreskog & Sorbom, 1989)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Tests of the big-fish-little-pond effect: Structural equation models. Predictions that were based on the big-fish-little-pond effect were also tested with structural equation models. Here, as in the tests of the I/E model, there were problems associated with single-indicator latent constructs. Again, I used the plausible reliability estimates of .90 for school grades in English and mathematics (see earlier discussion of tests of the I/E model). Because I wanted to estimate academic achievement and school-average ability prior to the start of high school, however, I based these constructs on the eighth-grade data. Because there were good reliability estimates for the individual eighth-grade student test scores (Ingles et al., 1992, p. 72-73) , I used these estimates in the present analysis.",
+                "cite_spans": [
+                    {
+                        "start": 719,
+                        "end": 750,
+                        "text": "(Ingles et al., 1992, p. 72-73)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "To obtain multiple indicators of the school-average (prior) ability in mathematics and English, I randomly divided students from each high school into three groups and only considered high schools with at least 15 students who were tested in eighth grade (N = 652 schools and 13,414 students prior to weighting). A separate mean score was computed for each random subsample within the same high school, and this set of three means provided three independent indicators of the (prior) school-average ability. For each subgroup, mean scores were determined for mathematics and English achievement test scores. These were incorporated into the LISREL analysis by entering the two sets of three schoolaverage scores (3 for mathematics and 3 for English) as separate variables for each student.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Five different models were posited to test the big-fish-little-pond effect. In the first pair of models, individual test scores and school-average scores were related to academic self-concept in separate analyses of mathematics and English constructs (i.e., mathematics achievement, school-average mathematics achievement, and math self-concept in Model A in Figure 2 and the corresponding English constructs in Model B). In the second pair of models, the corresponding measure of school grades in mathematics (Model C) or English (Model D) was added to test the hypothesis that much of the effects due to achievement test scores and some of the effects due to school-average ability are mediated by school grades. In Model E, all variables from both the mathematics and English domains were combined in a single model. In this final model, four correlated uniquenesses were posited. As in earlier analyses, a correlated uniqueness was posited between responses to the negatively worded items from the Math and English self-concept scales. In addition, correlated uniquenesses were posited between mathematics and reading school-average achievement indicators that were based on the same subsample of students (i.e., mathematics and reading scores that are based on the same subsample of students within a given school are more highly correlated than are mathematics and reading scores that are based on different subsamples within the same school).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 359,
+                        "end": 367,
+                        "text": "Figure 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "In the results presented below, I compare the structure underlying SDQII responses for Australian and U.S. students and evaluate various theoretical models with responses by U.S. students included in the nationally representative NELS:88 database. Table 3 provides an overview of the models that were considered. In all the models, each self-concept item was allowed to load on only the one factor that it was designed to measure and the five self-concept factors were correlated. In this particular model, the factor loadings and factor correlations were required to be the same across all four groups. Whereas the ability of this model to fit the data is discussed in further detail, the parameter estimates indicate that the self-concept factors are well defined. The factor loadings relating self-concept items to their corresponding factor-item validities-are all large (.47 to .88 in standardized form) and statistically significant. Also, the pattern of relations among the factors is consistent with previous research (e.g., Marsh, 1990a Marsh, , 1992a . The correlation between the two peer relations scales (Same Sex and Opposite Sex; r = .53) is the only correlation greater than .35. It is also of A) . In this solution, factor loadings and factor correlations were constrained to be equal across all four groups so that only one set of parameter estimates is presented. Factor variances and measured variable uniqueness were freely estimated for each of the four groups, therefore separate estimates are presented for each group. Covariances among uniquenesses representing the negatively worded items (not shown) were also freely estimated for each group. Parameter estimates are standardized in relation to a metric that is common across all four groups and differs from those that would result from standardizing estimates for each group separately in which constraints across groups would be lost (see Joreskog & Sorbom, 1989, p. 238-242) .",
+                "cite_spans": [
+                    {
+                        "start": 1033,
+                        "end": 1045,
+                        "text": "Marsh, 1990a",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 1046,
+                        "end": 1060,
+                        "text": "Marsh, , 1992a",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1919,
+                        "end": 1955,
+                        "text": "Joreskog & Sorbom, 1989, p. 238-242)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 248,
+                        "end": 255,
+                        "text": "Table 3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 1210,
+                        "end": 1212,
+                        "text": "A)",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "interest to note that although the correlation between the Math and English scales (r = .16) is statistically significant, the size of this relation is small-particularly because it has been corrected for measurement error as part of the CFA. This finding is consistent with previous research that is based on various instruments indicating that these two components of academic self-concept are distinct and nearly uncorrelated.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Structure of Self-Concept: Confirmatory Factor Analysis of Self-Concept Responses",
+                "sec_num": null
+            },
+            {
+                "text": "Baseline model. These data from the NELS:88 and the SDQII normative archive provide a unique opportunity to evaluate the comparability of the structure of self-concept over gender for U.S. and Australian adolescents. This com-parison is also relevant because analyses that were based on the Australian data considered here were the basis of selecting items to be included in the NELS:88 survey. The first step in this analysis was to establish whether a baseline model is able to fit data from each of the groups considered separately. For the present purposes, two a priori baseline models were considered. The first and most parsimonious model was a typical independent clusters model in which each self-concept item was allowed to load on only the one factor that it is designed to measure; the five self-concept factors were freely correlated, and the uniquenesses associated with the self-concept items were uncorrelated. The second, less parsimonious model differed only in that correlated uniquenesses were posited among all pairs of negatively worded items (i.e., a negative item effect).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Structure of Self-Concept: Confirmatory Factor Analysis of Self-Concept Responses",
+                "sec_num": null
+            },
+            {
+                "text": "The inclusion of the negative item effect improved the goodness of fit for each of the four groups (Table 4) . The improvement in fit was substantial for U.S. responses (Tucker-Lewis indexes of .720 vs. .955 for males, and .858 vs. .953 for females), but was much smaller for Australian responses (.929 vs. .945 for males, and .933 vs. .945 for females). These results indicate that the negative item effect is larger for the U.S. responses than for the Australian responses. (The inclusion of correlated errors actually led to lower fit statistics for the parsimony index that more severely penalized the inclusion of additional parameters, although differences between the U.S. and Australian re-sults were still evident.) The a priori, baseline model incorporating the negative item effect was able to fit the data very well in each of the four groups in that all the Tucker-Lewis indexes were at least .945 and considerably higher than the Tucker-Lewis index = .90 that is typically taken to represent an acceptable fit.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 99,
+                        "end": 108,
+                        "text": "(Table 4)",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Structure of Self-Concept: Confirmatory Factor Analysis of Self-Concept Responses",
+                "sec_num": null
+            },
+            {
+                "text": "Invariance tests. The next step in the analysis was to test the invariance (i.e., equality) of estimates across various combinations of the four groups. Whereas it is possible to test for the invariance of many possible combinations of parameter estimates, here (see Tables 3 and 4 ) tests for the invariance of factor loadings, are followed by tests of the invariance of factor correlations, factor variances, and, finally, uniquenesses (and correlations between uniquenesses). At each step of the hierarchy, separate tests were Note. In each of the multiple group analyses, parameter estimates were constrained either to be equal across all four groups or to be equal across responses by males and females for separate analyses of Australian and U.S. data. TLI = Tucker-Lewis index; RNI = relative noncentrality index; PRNI = parsimony index based on the RNI. conducted for the invariance of parameter estimates across all four groups (the most demanding test), across gender for U.S. responses, and across gender for Australian responses.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 267,
+                        "end": 281,
+                        "text": "Tables 3 and 4",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Structure of Self-Concept: Confirmatory Factor Analysis of Self-Concept Responses",
+                "sec_num": null
+            },
+            {
+                "text": "There was reasonable support for the invariance of factor loadings, factor correlations, and, perhaps, factor variances across all four groups. The support is particularly strong for the invariance of these parameter estimates across gender conducted separately for U.S. and Australian responses. The Tucker-Lewis indexes corresponding to these invariance constraints were typically slightly higher-indicating a better fit according to this criterion-than the corresponding models with no invariance constraints (see Table 4 ). Whereas models constraining parameter estimates to be invariant across all four groups were poorer, even these more parsimonious models were able to fit the data very well. (As expected, support for the invariance of parameter estimates was even stronger for the parsimony relative noncentrality index that penalized a lack of parsimony more severely; see Table 4 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 517,
+                        "end": 524,
+                        "text": "Table 4",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 884,
+                        "end": 891,
+                        "text": "Table 4",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Structure of Self-Concept: Confirmatory Factor Analysis of Self-Concept Responses",
+                "sec_num": null
+            },
+            {
+                "text": "In the last step of the invariance hierarchy, uniquenesses and correlations among uniquenesses were also constrained to be equal. Particularly for the test of invariance across all four groups, the Tucker-Lewis index for this model was poorer than those for the less restrictive models (Table 4) . This finding is, of course, consistent with the finding reported earlier in this article that the negative item effect was substantially larger for the U.S. data than for the Australian data. In contrast to conclusions that were based on the Tucker-Lewis index, however, results that were based on the parsimony relative noncentrality index indicate that the best fit is for models imposing complete invariance. This pattern of results is consistent with the observation that parsimony indices severely penalized a lack of parsimony so that more parsimonious models-in this application models with more invariance constraints-were favored.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 286,
+                        "end": 295,
+                        "text": "(Table 4)",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Structure of Self-Concept: Confirmatory Factor Analysis of Self-Concept Responses",
+                "sec_num": null
+            },
+            {
+                "text": "Substantively, the most important finding is that the structure of self-concept is similar for male and female students. This pattern of results is evident for both U.S. and Australian responses. The CFA results and tests of factorial invariance were consistent with a priori predictions except, perhaps, the specific nature of the negative item effect. Whereas the negative item effect was anticipated and is consistent with other research, it was not anticipated that this effect would be larger for the U.S. responses than for the Australian responses. Because the U.S. and Australian samples differ on many variables (e.g., culture, race, school curriculum) it is not possible to determine why the negative item effect is larger for the U.S. sample. It is, however, interesting to speculate about a possible explanation that could be evaluated in future research. The larger negative item effect in the U.S. data may reflect the fact that the NELS:88 survey contained only 21 of 102 items from the original SDQII instrument (and only 8 of the 52 negatively worded items). Whereas responses by Australians considered here were based on only 21 SDQII items, Australians actually completed all 102 items. Hence, Australians had considerably more practice in responding to the negatively worded items, and this may account for the different results.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Structure of Self-Concept: Confirmatory Factor Analysis of Self-Concept Responses",
+                "sec_num": null
+            },
+            {
+                "text": "Tests of this speculation, however, are beyond the scope of the present investigation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Structure of Self-Concept: Confirmatory Factor Analysis of Self-Concept Responses",
+                "sec_num": null
+            },
+            {
+                "text": "In summary, there is good support for the baseline model positing a negative item effect for all four groups, although the size of the negative item effect is larger for U.S. responses. Factor loadings and factor correlations are reasonably invariant across gender and country, although there is even stronger support for the invariance of parameters across gender within each country considered separately. These results provide good support for the factor structure of the self-concept responses in the NELS:88 study and for this aspect of their construct validity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Structure of Self-Concept: Confirmatory Factor Analysis of Self-Concept Responses",
+                "sec_num": null
+            },
+            {
+                "text": "The I/E model posits what may initially seem to be an unexpected pattern of relations between academic achievement and academic self-concept. Inspection of the factor loadings for the constructs inferred from multiple indicators (Table 5) indicates that these constructs are well defined and that factor loadings for the Math and English self-concept factors in this analysis are similar to those reported in Table  3 . Furthermore, this model is able to fit the data well (Tucker-Lewis index = .97). It is also useful to evaluate the correlations among the latent constructs (above the main diagonal of the variance-covariance matrix in Table 5 ) in relation to a priori expectations. As predicted, correlations among the different constructs were higher for matching domains than for nonmatching domains. Thus, for example, Math self-concept correlated .73 with mathematics grades but only .19 with English grades, whereas English selfconcept correlated .73 with English grades but only .23 with mathematics grades. Also consistent with predictions, academic self-concepts were more highly correlated with school grades than with standardized achievement scores. Finally, whereas school grades in mathematics and English were moderately correlated (r = .48) and mathematics and reading achievement scores were very highly correlated (r = .83), Math and English self-concepts were nearly uncorrelated (r = .16). Multiple dimensions of academic selfconcept were more distinct than the corresponding test scores and school grades (again consistent with predictions that were based on the I/E model).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 229,
+                        "end": 238,
+                        "text": "(Table 5)",
+                        "ref_id": "TABREF4"
+                    },
+                    {
+                        "start": 409,
+                        "end": 417,
+                        "text": "Table  3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 638,
+                        "end": 645,
+                        "text": "Table 5",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Relations Between Academic Achievement and Academic Self-Concept: The I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "The major predictions of the I/E model are that the direct effects of achievement indicators on the matching area of academic self-concept should be substantial and positive, whereas the direct effects of achievement indicators on nonmatching areas of academic self-concept should be less substantial and negative. Inspection of the eight path coefficients ( Figure 1 and Table 5 ) supports these predictions. Mathematics test scores and grades had positive effects on Math self-concept, but negative effects on English selfconcept. Reading achievement and English grades had positive effects on English self-concept but negative effects on Math self-concept. The effect of mathematics achievement on Math self-concept, although clearly less than mathematics grades (.40 vs. .74), was substantial. The effect of Note. MAch = mathematics achievement, RAch = reading achievement, MGrade = mathematics grade, EGrade = English grade, MSelf = math self-concept, ESelf = English self-concept, Unique = measured variable uniqueness. All parameter estimates are statistically significant (p < .01). The goodness of fit for this model is very good (Tucker-Lewis index = .96). 1 Three correlated uniquenesses were estimated relating the two 1988 achievement measures, the two 1990 achievement measures, and the two negatively worded self-concept items (MSelf-4 and ESelf-4).",
+                "cite_spans": [
+                    {
+                        "start": 1167,
+                        "end": 1168,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 359,
+                        "end": 367,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 372,
+                        "end": 379,
+                        "text": "Table 5",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Relations Between Academic Achievement and Academic Self-Concept: The I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "Reading achievement on English self-concept, however, was not very large and was much smaller than the effect of English grades (.19 vs. .76). The modest effect of Reading achievement apparently reflects, in part, the fact that English self-concept and English school grades both refer to English classes in general, whereas reading achievement refers to only one aspect of English achievement. The residual covariance between Math and English self-concepts (.13) was small. Substantively, the most important findings supported the counter-intuitive predictions that better accomplishments in mathematics are associated with lower English self-concepts and that better English accomplishments are associated with lower Math selfconcepts. Important contributions of the present study are to show (a) that the pattern of results is similar for school grades and standardized test scores and (b) that school grades tend to have stronger effects when both are considered simultaneously.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relations Between Academic Achievement and Academic Self-Concept: The I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "Results from a series of five structural equation models ( Figure 2 ) were used to evaluate the big-fish-little-pond effect with the NELS:88 data. Whereas the most important parameter estimates were the path coefficients shown in Figure 2 , it is important to emphasize that all five models were well defined and able to fit the data very well (all Figure 1 . Internal/external frame of reference model--Path coefficients relating mathematics (math) and reading (read) achievements (achieve), and mathematics and English school grades to Math and English self-concepts (self). Whereas only selected parameter estimates are presented in this figure, all parameter estimates for this model are presented in Table 5 . B Figure 2 . Big-fish-little-pond effect-Path coefficients relating mathematics (math) and reading achievements (achieve), schoolaverage measures of mathematics and reading achievements, and mathematics and English school grades to Math and English self-concepts (self) in Models A through E. Whereas only selected parameter estimates are presented in this figure, all parameter estimates for Model E are presented in Table 6 . Tucker-Lewis indexes > .98). Although factor loadings and the complete set of parameter estimates are only presented for the final model (Table 6) , factor loadings for the other models were similar.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 59,
+                        "end": 67,
+                        "text": "Figure 2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 230,
+                        "end": 238,
+                        "text": "Figure 2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 349,
+                        "end": 357,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 705,
+                        "end": 712,
+                        "text": "Table 5",
+                        "ref_id": "TABREF4"
+                    },
+                    {
+                        "start": 717,
+                        "end": 725,
+                        "text": "Figure 2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1133,
+                        "end": 1140,
+                        "text": "Table 6",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 1280,
+                        "end": 1289,
+                        "text": "(Table 6)",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Effects of School-Average Ability: Big-Fish-Little-Pond Effect",
+                "sec_num": null
+            },
+            {
+                "text": "In Model A, only the prior effects of mathematics achievement, school-average mathematics ability (based on prior achievement), and Math self-concept were considered. Consistent with big-fish-little-pond effect studies, the effect of mathematics achievement on Math self-concept was substantial and positive (.46), whereas the effect of schoolaverage mathematics ability was smaller and negative (-.14) . Being mathematically able leads to a higher Math self-concept, but attending a high school where the other students are more mathematically able leads to lower Math self-concepts. In Model B a similar pattern of results is shown for prior reading achievement, school-average reading achievement, and English self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 396,
+                        "end": 402,
+                        "text": "(-.14)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Effects of School-Average Ability: Big-Fish-Little-Pond Effect",
+                "sec_num": null
+            },
+            {
+                "text": "Models C and D parallel Models A and B, except that the school grades in mathematics (Model C) and English (Model D) are added. Most of the positive effects of prior achievement test scores on subsequent self-concept are mediated through school grades, although both mathematics achievement and English achievement continue to have a small, statistically significant effect on the corresponding areas of academic self-concept. Similarly, some of the negative effect of school-average ability on academic selfconcept is mediated by school grades. This apparently reflects the common practice of \"grading on a curve\" or \"locally centering grades\" such that the average school grade does not vary much from school to school even though the average ability levels of students from different schools vary substantially. Thus, students with comparable academic ability (based on standardized achievement test scores administered prior to the start of high school) tend to earn lower grades in schools where the school-average ability level is higher, and they tend to earn higher grades in schools where the school-average ability is lower. In both Models C and D, however, there is still a direct, negative effect of school-average ability on academic self-concept in addition to the portion of this effect that is mediated by school grades. Hence, there is a statistically significant big-fish-little-pond effect in addition to the effect that is mediated by school grades.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Effects of School-Average Ability: Big-Fish-Little-Pond Effect",
+                "sec_num": null
+            },
+            {
+                "text": "The results in Models A-D are consistent with earlier studies of the big-fish-little-pond effect (e.g., Marsh, 1991) , but there are some important differences. The most obvious difference is that previous big-fish-little-pond effect studies have typically focused on general academic self-concept and total academic achievement. The present study demonstrates that the big-fish-little-pond effect predictions generalize to self-concepts and achievement in particular school subjects. Furthermore, big-fish-little-pond effect researchers have typically considered school-average achievement inferred from achievement tests collected after students have already begun high school and collected at about the same time as the academic self-concept measures. However, in NELS:88 (unlike the High School and Beyond and NELS:72 studies), the first data collection was in 8th grade. .42 Note. MAch = mathematics achievement, RAch = reading achievement, MSchl = school-average mathematics achievement, RSchl = school-average reading achievement, MGrade = mathematics grade, EGrade = English grade, MSelf = math self-concept, ESelf = English self-concept, Unique = measured variable uniqueness. The goodness of fit for this model is very good (Tucker-Lewis index = .96). a Four correlated uniquenesses were estimated relating the matching indicators of school-average achievement (RSchll and MSchl 1, RSchl2 and MSchl2, and RSchl3 and MSchl3) and the two negatively worded self-concept items (MSelf4 and ESelf4). \" Denotes parameter estimates that were not statistically significant.",
+                "cite_spans": [
+                    {
+                        "start": 104,
+                        "end": 116,
+                        "text": "Marsh, 1991)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1383,
+                        "end": 1391,
+                        "text": "MSchl 1,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1392,
+                        "end": 1410,
+                        "text": "RSchl2 and MSchl2,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1411,
+                        "end": 1433,
+                        "text": "and RSchl3 and MSchl3)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Effects of School-Average Ability: Big-Fish-Little-Pond Effect",
+                "sec_num": null
+            },
+            {
+                "text": "Hence, the test scores used to infer school-average achievement were based on data collected prior to the time students first attended the high school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Effects of School-Average Ability: Big-Fish-Little-Pond Effect",
+                "sec_num": null
+            },
+            {
+                "text": "In Model E (Figure 2 , Table 6 , and Appendix B), all the variables considered in Models A-D are evaluated in a single model. This model combines tests of the big-fishlittle-pond effect considered separately for Math and English self-concepts (Models A-D in Figure 2 ) with tests of the I/E model (Figure 1) . Consistent with the I/E model, mathematics achievement and mathematics grades have positive effects on Math self-concept but negative effects on English self-concept (although the direct effect of mathematics achievement on English self-concept is not statistically significant). Similarly, reading achievement and English grades have positive effects on English self-concept but negative effects on Math self-concept.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 11,
+                        "end": 20,
+                        "text": "(Figure 2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 23,
+                        "end": 30,
+                        "text": "Table 6",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 258,
+                        "end": 266,
+                        "text": "Figure 2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 297,
+                        "end": 307,
+                        "text": "(Figure 1)",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Combined Effects of the I/E Model and the Big-Fish-Little-Pond Effect",
+                "sec_num": null
+            },
+            {
+                "text": "Consistent with the big-fish-little-pond effect, the direct effects of school-average mathematics ability on Math selfconcept are negative. In addition, school-average mathematics ability has further, indirect negative effects on Math self-concept that are mediated by mathematics school grades. A similar pattern of results is observed for English self-concept (although the effect of school-average reading on English grades is not statistically significant).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Combined Effects of the I/E Model and the Big-Fish-Little-Pond Effect",
+                "sec_num": null
+            },
+            {
+                "text": "What is new in Model E is the domain specificity of the big-fish-little-pond effect. Thus, for example, school-average mathematics has a negative effect on mathematics school grades and Math self-concept but has no significant effects on English grades and English self-concept. Schoolaverage reading achievement has negative effects on English grades and English self-concept, but positive effects on mathematics grades and Math self-concept. Whereas the positive effects of school-average ability on self-concepts in nonmatching disciplines was not specifically predicted, it is consistent with prior research (Marsh, 1990b) and the logic of the I/E model. These results are consistent with the domain specificity of academic self-concepts that is an overarching principle in all the studies in the present investigation.",
+                "cite_spans": [
+                    {
+                        "start": 612,
+                        "end": 626,
+                        "text": "(Marsh, 1990b)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Combined Effects of the I/E Model and the Big-Fish-Little-Pond Effect",
+                "sec_num": null
+            },
+            {
+                "text": "The purposes of this research were to evaluate the construct validity of responses to 21 self-concept items on the NELS:88, to offer examples of their usage that may be useful for other NELS:88 studies, and to extend evaluations of theoretical self-concept models by incorporating the unique strengths of the NELS:88 data. Hence, the findings have important implications for self-concept measurement, theory and practice, and subsequent use of the NELS:88 data.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and Implications",
+                "sec_num": null
+            },
+            {
+                "text": "The psychometric properties of the self-concept responses are very good and replicate previous Australian research (e.g., Marsh, 1990c Marsh, , 1992b . Particularly given the required brevity of the five scales-4 or 5 items per scale-the coefficient alpha estimates of reliability were good. More importantly, the CFA results provide support for the a priori factor structure underlying responses by Australian and U.S. students and for the invariance of this factor structure over responses by male and female students in both countries. Additional support for the construct validity of the selfconcept responses by only the U.S. students in the NELS:88 study comes from the empirical support of predictions derived from the I/E and the big-fish-little-pond effect models. From a construct validity perspective, these results support the validity of the models used to generate the predictions and the self-concept responses used to test the predictions. On the basis of these findings, it is recommended that these self-concept scales should be considered as potential outcome variables or as mediating variables in other NELS:88 studies.",
+                "cite_spans": [
+                    {
+                        "start": 122,
+                        "end": 134,
+                        "text": "Marsh, 1990c",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 135,
+                        "end": 149,
+                        "text": "Marsh, , 1992b",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and Implications",
+                "sec_num": null
+            },
+            {
+                "text": "The comparison of the Australian and U.S. responses to the self-concept items is an apparently unique contribution of the present investigation. The factorial invariance analyses indicate that the factor structure underlying the selfconcept responses is similar in both countries-except, perhaps, for the negative item effect. The comparison of the mean levels of self-concept indicated that U.S. responses were significantly higher, although the differences were small. It is also relevant that the small gender differences found in responses in each country were very similar. These results suggest that the formation of self-concept may be similar in the two countries, apparently reflecting the influences of reasonably similar cultures-at least for tenthgrade high school students.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and Implications",
+                "sec_num": null
+            },
+            {
+                "text": "Self-concept researchers and practitioners frequently speculate about gender differences in multiple dimensions of self-concept. Individual studies, however, typically are based on small or idiosyncratic samples and have used weak self-concept instruments. Wylie (1979) , for example, concluded not only that there were no gender differences in total self-concept but also that existing research was inadequate for determining whether there were gender differences in specific domains of self-concept. Although such problems can be addressed in part by meta-analysis (e.g., Hattie, 1992) , generalizations are still limited by the quality of existing research. The present investigation-because of the size and representativeness of the NELS:88 and the quality of the measures-provide a stronger basis for investigating gender differences. Whereas earlier studies that were based on large, nationally representative samples (e.g., the High School and Beyond) evaluated gender differences in global measures of self-concept, these studies typically did not evaluate multiple dimensions of self-concept. Consistent with earlier claims (Marsh & Shavelson, 1985) that self-concept cannot be adequately understood unless its multidimensionality is considered, the present results show that gender differences in mean self-concept responses vary logically with the self-concept domain. The lack of gender differences in total self-concept reflect differences favoring girls in some areas and differences favoring boys in other areas.",
+                "cite_spans": [
+                    {
+                        "start": 257,
+                        "end": 269,
+                        "text": "Wylie (1979)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 574,
+                        "end": 587,
+                        "text": "Hattie, 1992)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1133,
+                        "end": 1158,
+                        "text": "(Marsh & Shavelson, 1985)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and Implications",
+                "sec_num": null
+            },
+            {
+                "text": "The I/E model has important implications for self-concept researchers and practitioners in understanding how students form self-concepts in specific academic domains. Although it is not surprising that academic self-concept is substantially associated with standardized achievement test scores and school grades, the particular pattern of results predicted by the I/E model is initially counter-intuitive. By articulating the internal comparison process, however, the results are more readily understood. If a student is exceptionally good at mathematics, then by comparison his or her moderately good accomplishments in English do not seem so impressive. Similarly, even if a student is weak in mathematics he or she may have an average Math self-concept if he or she is even weaker in all his or her other school subjects. This ipsative-like process helps explain why Math and English self-concept are so distinct and why people think of themselves as a \"math person\" or a \"verbal person\" even when there are only small differences in their mathematics and English abilities. Although the I/E model is typically evaluated in relation to either school grades or test scores, both grades and tests were considered here. The results (Figure 1 and Table 5 ) demonstrated that the pattern of results predicted by the I/E model was evident for both test scores and school grades, although the effects associated with school grades were typically larger. Whereas this support for predictions that are based on the I/E model is consistent with previous research, the present results are stronger because of the size and representativeness of the NELS:88 sample, the quality of the variables in the NELS:88 study, and the simultaneous evaluation of both standardized test scores and school grades.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1232,
+                        "end": 1241,
+                        "text": "(Figure 1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1246,
+                        "end": 1253,
+                        "text": "Table 5",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Summary and Implications",
+                "sec_num": null
+            },
+            {
+                "text": "Anonymous reviewers noted that whereas results presented here are consistent with predictions that are based on the I/E model, no attempt was made to assess directly the internal and external comparison processes underlying the I/E model. One reviewer, for example, suggested that it would be useful to supplement the self-concept responses with measures reflecting students' epistomological belief systems (see Schommer, 1990) . Another reviewer suggested that it would be useful to ask students whether they were better at mathematics, better at English, or equally good at both and to incorporate these responses into tests of the I/E model. Although these suggestions are beyond the scope of the present investigation, they provide potentially interesting directions for future research and stronger tests of the I/E model.",
+                "cite_spans": [
+                    {
+                        "start": 412,
+                        "end": 427,
+                        "text": "Schommer, 1990)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and Implications",
+                "sec_num": null
+            },
+            {
+                "text": "The big-fish-little-pond effect also has important implications for both self-concept theory and educational policy. It is frequently assumed that attending schools where the average ability level of other students is high has positive effects on a variety of academic outcomes. In contrast, Marsh (1991) found that attending higher-ability schools had negative effects on academic self-concept, and that these self-concept effects mediated negative effects associated with other outcomes. These negative effects were observed for students of all ability levels and across a variety of outcome variables including academic achievement and subsequent university attendance (Marsh, 1991; 1993a) . Even though these negative effects of attending higher ability high schools may not generalize to all individual students or to all high schools, one should not assume that there are benefits associated with attending such schools-on average the effects are negative. Although the present investigation focused on the negative effects on academic self-concept, it extended previous results (e.g., Marsh, 1991) in several ways. Because the first wave of NELS:88 was collected when students were in eighth grade, it provided a clearer separation between the ability levels of students prior to attending high school and the effects of the high school. By considering school grades in addition to individual and school-average test scores, the negative effects of school-average ability on school grades (the \"grading on a curve\" or \"locally centered grade\" effect) could be separated from the big-fish-little-pond effect. Of particular relevance, the big-fish-little-pond effect showed that the effects of school-average mathematics ability were clearly differentiated from those of school-average English ability. Whereas attending a high-school where school-average mathematics achievement was high had a negative effect on Math self-concept it had no negative effect on English self-concept. Similarly, school-average English had a negative effect on English self-concept, but no negative effect on Math self-concept. In this respect, the results support the need to evaluate multiple dimensions of self-concept and combine aspects of the typical big-fish-little-pond effect with implications from the I/E model. It is also important to note some limitations of the present study and directions for further research. The design and particularly the choice of variables in large, commercial databases like NELS:88 are intended to serve such a diverse range of purposes that they may not serve the particular needs of an individual researcher. Thus, for example, the High School and Beyond study did not include domainspecific dimensions of self-concept, limiting its usefulness for testing many of the theoretical models considered here. In the present investigation, particularly the various LISREL analyses were hindered by the lack of multiple indicators for some constructs, and different strategies were demonstrated for dealing with this potential problem. Because the NELS:88 data were collected initially when students were in eighth grade, prior to the start of high school, the students sampled from a particular high school may not adequately represent that high school. Most students had attended the high school for less than two semesters when the second wave of data was collected. This design limitation dictates caution in the interpretation of the big-fishlittle-pond effect. The results also indicate that achievement and academic self-concept are related, but, because the academic self-concept items were only collected in the second wave of NELS:88 data, it is not possible to test the causal ordering of these constructs. Other research (e.g., Marsh, 1990a; 1993a) , however, suggests that if both academic self-concept and achievement scores are collected in multiple waves, then prior academic self-concept affects subsequent achievement beyond the effect of prior achievement. Whereas these limitations dictate that findings reported here must be interpreted cautiously, at least some of these problems should be overcome by the release of the augmented school data and the data collected in subsequent NELS:88 surveys with these same students (see Ingles et al., 1992) . It is also important to emphasize that in the present investigation I considered only a small fraction of the variables that are available to NELS:88 users that may influence the findings summarized here. Thus, for example, the gender differences observed here may interact with ethnicity or with a host of other NELS:88 variables, and there may be subgroups of students who benefit from attending higher ability schools who can be characterized according to other NELS:88 variables. More generally, the self-concept variables emphasized here should have important implications for many research and policy issues targeted in the design of NELS:88 (e.g., parental involvement; equity, access, and choice; school effectiveness; school climate; special education and gifted-talented programs; ability streaming; mainstreaming students with special needs; family configuration and single-parent homes; school persistence and dropping out; extracurricular school activities). Although the range of additional research is far beyond the scope of the present investigation, the present study provides examples of uses of the NELS:88 self-concept responses that may be helpful in this subsequent research.",
+                "cite_spans": [
+                    {
+                        "start": 292,
+                        "end": 304,
+                        "text": "Marsh (1991)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 672,
+                        "end": 685,
+                        "text": "(Marsh, 1991;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 686,
+                        "end": 692,
+                        "text": "1993a)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1092,
+                        "end": 1104,
+                        "text": "Marsh, 1991)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 3762,
+                        "end": 3775,
+                        "text": "Marsh, 1990a;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 3776,
+                        "end": 3782,
+                        "text": "1993a)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 4270,
+                        "end": 4290,
+                        "text": "Ingles et al., 1992)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary and Implications",
+                "sec_num": null
+            },
+            {
+                "text": "This document is copyrighted by the American Psychological Association or one of its allied publishers.This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Appendix A Scoring the Self-Description Questionnaire II (SDQII) Items Appearing on the First Follow-up Survey of the National Educational Longitudinal Survey of 1988 (NELS:88) StudyQuestion 63a-63u on the student questionnaire (and Question 47 on the dropout questionnaire) of the first follow-up survey of the NELS:88 study compose 21 items selected from the 102-item SDQII instrument (Marsh, 1992a) . The full-length SDQII instrument measures 11 dimensions of self-concept, but on this abbreviated form, 5 of the 11 SDQII scales were each measured by 4 or 5 items (on the full-length SDQII, each scale is measured by 8 or 10 items). To compute scores for these five scales, I first reverse scored each of the negatively worded items AI by subtracting the item response from 7. (This resulted in rescaled item responses on a 1 to 6 scale in which 6 was the most favorable response like the positively worded items). Next, compute the mean response to the 4 or 5 items in each scale as indicated below. Please note that the Same-Sex and Opposite-Sex self-concept scales must be scored separately for boys and girls.Parent relations self-concept = Mean of items a, i, f A1 , m A1 , u ",
+                "cite_spans": [
+                    {
+                        "start": 387,
+                        "end": 401,
+                        "text": "(Marsh, 1992a)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "annex",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Self-concepts, selfesteem, and educational experiences: The frogpond revisited (again)",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Bachman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Malley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "50",
+                "issue": "",
+                "pages": "33--46",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bachman, J. G., & O'Malley, P. M. (1986). Self-concepts, self- esteem, and educational experiences: The frogpond revisited (again). Journal of Personality and Social Psychology, 50, 33-46.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The impact of item phrasing on the validity of attitude scales for elementary school children",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Benson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Hocevar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Journal of Educational Measurement",
+                "volume": "22",
+                "issue": "",
+                "pages": "231--240",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Benson, J., & Hocevar, D. (1985). The impact of item phrasing on the validity of attitude scales for elementary school children. Journal of Educational Measurement, 22, 231-240.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Comparative fit indexes in structural models",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Psychological Bulletin",
+                "volume": "107",
+                "issue": "",
+                "pages": "238--246",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bentler, P. M. (1990). Comparative fit indexes in structural mod- els. Psychological Bulletin, 107, 238-246.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Student's Perception of Ability Scale Manual",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Boersma",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Chapman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Boersma, F. J., & Chapman, J. W. (1979). Student's Perception of Ability Scale Manual. Edmonton, Alberta, Canada: University of Alberta.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Structural equations with latent variables",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Bollen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bollen, K. A. (1989). Structural equations with latent variables. New York: Wiley.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Self-Concept of Ability Scale-A Review and Further Analysis",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Brookover",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brookover, W. B. (1989). Self-Concept of Ability Scale-A Review and Further Analysis. Paper presented at the annual meeting of the American Educational Research Association, Los Angeles, CA.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "The general/academic self-concept nomological network: A review of construct validation research",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Review of Educational Research",
+                "volume": "54",
+                "issue": "",
+                "pages": "427--456",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1984). The general/academic self-concept nomolog- ical network: A review of construct validation research. Review of Educational Research, 54, 427-456.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "A primer of LISREL: Basic applications and programming for confirmatory factor analytic models",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1989). A primer of LISREL: Basic applications and programming for confirmatory factor analytic models. New York: Springer Verlag.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Adolescent self-concept: Testing the assumption of equivalent structure across gender",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "American Educational Research Journal",
+                "volume": "24",
+                "issue": "",
+                "pages": "365--385",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M., & Shavelson, R. J. (1987). Adolescent self-concept: Testing the assumption of equivalent structure across gender. American Educational Research Journal, 24, 365-385.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Reliability and validity assessment",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Carmines",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Zeller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Carmines, E. G., & Zeller, R. A. (1979). Reliability and validity assessment. Beverly Hills, CA: Sage.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "The campus as a frog pond: An application of theory of relative deprivation to career decisions for college men",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Davis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1966,
+                "venue": "American Journal of Sociology",
+                "volume": "72",
+                "issue": "",
+                "pages": "17--31",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Davis, J. A. (1966). The campus as a frog pond: An application of theory of relative deprivation to career decisions for college men. American Journal of Sociology, 72, 17-31.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "The dimensionality of self-esteem: II. Hierarchical facet model for revised measurement scales",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fleming",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Courtney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "46",
+                "issue": "",
+                "pages": "404--421",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fleming, J. S., & Courtney, B. E. (1984). The dimensionality of self-esteem: II. Hierarchical facet model for revised measure- ment scales. Journal of Personality and Social Psychology, 46, 404-421.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Monte Carlo evaluations of goodness-of-fit indices for structural equation models",
+                "authors": [],
+                "year": null,
+                "venue": "Sociological Methods and Research",
+                "volume": "21",
+                "issue": "",
+                "pages": "132--160",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Monte Carlo evalua- tions of goodness-of-fit indices for structural equation models. Sociological Methods and Research, 21, 132-160.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "The Perceived Competence Scale for Children",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Child Development",
+                "volume": "53",
+                "issue": "",
+                "pages": "87--97",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1982). The Perceived Competence Scale for Children, Child Development, 53, 87-97.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hattie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hattie, J. (1992). Self-concept. Hillsdale, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Structural equation models with LISREL: Essentials and advances",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hayduk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hayduk, L. A. (1987). Structural equation models with LISREL: Essentials and advances. Baltimore: John Hopkins University Press.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "National education longitudinal study of 1988. First follow-up: Student component data file user's manual",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Ingles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Scott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Lindmark",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Frankel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Myers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Wu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "1",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ingles, S. J., Scott, L. A., Lindmark, J. T., Frankel, M. R., Myers, S. L., & Wu, S. (1992). National education longitudinal study of 1988. First follow-up: Student component data file user's man- ual (Vol. 1). Washington, DC: U.S. Department of Education Office.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Reference group, learning environment and self-evaluations: A dynamic multi-level analysis with latent variables",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jerusalem",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "The self in anxiety, stress and depression",
+                "volume": "",
+                "issue": "",
+                "pages": "61--73",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jerusalem, M. (1984). Reference group, learning environment and self-evaluations: A dynamic multi-level analysis with latent variables. In R. Schwarzer (Ed.), The self in anxiety, stress and depression (pp. 61-73). New York: Elsevier Science Publishers.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Self-concept: The application of a frame of reference model to explain paradoxical results",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Joreskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Sorbom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Australian Journal of Education",
+                "volume": "28",
+                "issue": "",
+                "pages": "165--181",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Joreskog, K. G., & Sorbom, D. (1989). LISREL 7: A guide to the program and applications. Chicago: SPSS, Inc. Marsh, H. W. (1984). Self-concept: The application of a frame of reference model to explain paradoxical results. Australian Jour- nal of Education, 28, 165-181.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Negative item bias in rating scales for preadolescent children: A cognitive-developmental phenomena",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Developmental Psychology",
+                "volume": "22",
+                "issue": "",
+                "pages": "37--49",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986a). Negative item bias in rating scales for preadolescent children: A cognitive-developmental phenomena. Developmental Psychology, 22, 37-49.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Verbal and math self-concepts: An internal/ external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986b). Verbal and math self-concepts: An internal/ external frame of reference model. American Educational Re- search Journal, 23, 129-149.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "The big-fish-little-pond effect on academic self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Journal of Educational Psychology",
+                "volume": "79",
+                "issue": "",
+                "pages": "280--295",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1987). The big-fish-little-pond effect on academic self-concept. Journal of Educational Psychology, 79, 280-295.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Age and sex effects in multiple dimensions of self-concept: Preadolescence to adulthood",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Educational Psychology",
+                "volume": "81",
+                "issue": "",
+                "pages": "417--430",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1989). Age and sex effects in multiple dimensions of self-concept: Preadolescence to adulthood. Journal of Edu- cational Psychology, 81, 417-430.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal panel analysis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "646--656",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990a). Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal panel analysis. Journal of Educational Psychology, 82, 646-656.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Influences of internal and external frames of reference on the formation of math and English self-concepts",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "107--116",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990b). Influences of internal and external frames of reference on the formation of math and English self-concepts. Journal of Educational Psychology, 82, 107-116.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Multidimensional, hierarchical self-concept: Theoretical and empirical justification",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Educational Psychology Review",
+                "volume": "2",
+                "issue": "",
+                "pages": "77--172",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990c). Multidimensional, hierarchical self-con- cept: Theoretical and empirical justification. Educational Psy- chology Review, 2, 77-172.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Failure of high ability high schools to deliver academic benefits commensurate with their students' ability levels",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "American Educational Research Journal",
+                "volume": "28",
+                "issue": "",
+                "pages": "445--480",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1991). Failure of high ability high schools to deliver academic benefits commensurate with their students' ability levels. American Educational Research Journal, 28, 445-480.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Self-Description Questionnaire II: Manual. Macarthur, Australia: Publication Unit, Faculty of Education",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1992a). Self-Description Questionnaire II: Manual. Macarthur, Australia: Publication Unit, Faculty of Education, University of Western Sydney.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Self-Description Questionnaire III: Manual",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1992b). Self-Description Questionnaire III: Man- ual. Macarthur, Australia: Publication Unit, Faculty of Educa- tion, University of Western Sydney.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Academic self-concept: Theory measurement and research",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": ") Psychological perspectives on the self",
+                "volume": "4",
+                "issue": "",
+                "pages": "59--98",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1993a). Academic self-concept: Theory measure- ment and research. In J. Suls, (Ed.) Psychological perspectives on the self (Vol. 4, pp. 59-98). Hillsdale, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Multidimensional structure of academic self-concept: Invariance over gender and age",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "American Educational Research Journal",
+                "volume": "30",
+                "issue": "",
+                "pages": "841--860",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1993b). Multidimensional structure of academic self-concept: Invariance over gender and age. American Educa- tional Research Journal, 30, 841-860.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Goodness-of-fit indices in confirmatory factor analysis: The effect of sample size and model complexity",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R ; W"
+                        ],
+                        "last": "Balla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Balla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Mcdonald",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Psychological Bulletin",
+                "volume": "103",
+                "issue": "",
+                "pages": "391--410",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Balla, J. R. (1991). Goodness-of-fit indices in confirmatory factor analysis: The effect of sample size and model complexity. Paper presented at the annual meeting of the American Educational Research Association, San Francisco, CA. Marsh, H. W., Balla, J. R., & McDonald, R. P. (1988). Goodness- of-fit indexes in confirmatory factor analysis: The effect of sample size. Psychological Bulletin, 103, 391-410.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "A multifaceted academic self-concept: Its hierarchical structure and its relation to academic achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Educational Psychology",
+                "volume": "80",
+                "issue": "",
+                "pages": "366--380",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Byrne, B. M., & Shavelson, R. J. (1988). A multi- faceted academic self-concept: Its hierarchical structure and its relation to academic achievement. Journal of Educational Psy- chology, 80, 366-380.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Application of confirmatory factor analysis to the study of self-concept: First-and higher order factor models and their invariance across groups",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Hocevar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Psychological Bulletin",
+                "volume": "97",
+                "issue": "",
+                "pages": "562--582",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hocevar, D. (1985). Application of confirmatory factor analysis to the study of self-concept: First-and higher order factor models and their invariance across groups. Psycho- logical Bulletin, 97, 562-582.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Determinants of student self-concept: Is it better to be a relatively large fish in a small pond even if you don't learn to swim as well",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "47",
+                "issue": "",
+                "pages": "213--231",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Parker, J. W. (1984). Determinants of student self-concept: Is it better to be a relatively large fish in a small pond even if you don't learn to swim as well? Journal of Personality and Social Psychology, 47, 213-231.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Self-concept: Its multifaceted, hierarchical structure",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Educational Psychologist",
+                "volume": "20",
+                "issue": "",
+                "pages": "107--125",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Shavelson, R. J. (1985). Self-concept: Its multi- faceted, hierarchical structure. Educational Psychologist, 20, 107-125.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Choosing a multivariate model: Noncentrality and goodness of fit",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Mcdonald",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Psychological Bulletin",
+                "volume": "107",
+                "issue": "",
+                "pages": "247--255",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McDonald, R. P., & Marsh, H. W. (1990). Choosing a multivariate model: Noncentrality and goodness of fit. Psychological Bulle- tin, 107, 247-255.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Evaluation of goodness-of-fit indices for structured equation models",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Mulaik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "James",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Van Alstine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Bennett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lind",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Stillwell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Psychological Bulletin",
+                "volume": "105",
+                "issue": "",
+                "pages": "430--445",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mulaik, S. A., James, L. R., Van Alstine, J., Bennett, N., Lind, S., & Stillwell, C. D. (1989). Evaluation of goodness-of-fit indices for structured equation models. Psychological Bulletin, 105, 430-445.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "How social comparison mediates the relation between ability-grouping practices and students' achievement expectancies in mathematics",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Reuman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Educational Psychology",
+                "volume": "81",
+                "issue": "",
+                "pages": "178--189",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Reuman, D. A. (1989). How social comparison mediates the rela- tion between ability-grouping practices and students' achieve- ment expectancies in mathematics. Journal of Educational Psy- chology, 81, 178-189.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Social comparison in the classroom: The relationship between academic achievement and self-concept",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Rogers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Coleman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "Journal of Educational Psychology",
+                "volume": "70",
+                "issue": "",
+                "pages": "50--57",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rogers, CM., Smith, M. D., & Coleman, J. M. (1978). Social comparison in the classroom: The relationship between aca- demic achievement and self-concept. Journal of Educational Psychology, 70, 50-57.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Society and the adolescent child",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Rosenberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1965,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenberg, M. (1965). Society and the adolescent child. Princeton, NJ: Princeton University Press.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Effects of beliefs about the nature of knowledge on comprehension",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Schommer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "498--504",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schommer, M. (1990). Effects of beliefs about the nature of knowledge on comprehension. Journal of Educational Psychol- ogy, 82, 498-504.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "The change of self-concept with respect to reference groups in school",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Schwarzer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Jerusalem",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Lange",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schwarzer, R., Jerusalem, J., & Lange, B. (1983). The change of self-concept with respect to reference groups in school. Paper presented at the annual meeting of the American Educational Research Association, Montreal, Quebec, Canada.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Selfconcept: Validation of construct interpretations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hubner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Stanton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Review of Educational Research",
+                "volume": "46",
+                "issue": "",
+                "pages": "407--441",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shavelson, R. J., Hubner, J. J., & Stanton, G. C. (1976). Self- concept: Validation of construct interpretations. Review of Ed- ucational Research, 46, 407-441.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "The reliability coefficient for maximum likelihood factor analysis",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Soares",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Soares",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1973,
+                "venue": "International Association of Applied Psychology",
+                "volume": "38",
+                "issue": "",
+                "pages": "1--10",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Soares, L. M, & Soares, A. T. (1982). Convergence and discrim- ination in academic self-concepts. Paper presented at the 20th Congress of the International Association of Applied Psychol- ogy, Edinburgh, Scotland. SPSS. (1990). SPSS User's Guide. Chicago: SPSS, Inc. Tucker, L. R., & Lewis, C. (1973). The reliability coefficient for maximum likelihood factor analysis. Psychometrika, 38, 1-10.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "The self-concept",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Wylie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "",
+                "volume": "2",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wylie, R. C. (1979). The self-concept (Vol. 2). Lincoln, NE: University of Nebraska Press.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Measures of self-concept",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Wylie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wylie, R. C. (1989). Measures of self-concept. Lincoln, NE: Uni- versity of Nebraska Press.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "MAch = mathematics achievement, RAch = reading achievement, MSchl = school-average mathematics achievement, RSchl = school-average reading achievement, MGrade = mathematics grade, EGrade = English grade, MSelf = math self-concept",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Note. MAch = mathematics achievement, RAch = reading achievement, MSchl = school-average mathematics achievement, RSchl = school-average reading achievement, MGrade = mathematics grade, EGrade = English grade, MSelf = math self-concept, ESelf = English self-concept.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "num": null,
+                "text": "Corrected Item-Total Correlations and Coefficient Alpha Estimates of Reliability for the Four or Five Items Composing Each of the Five Self-Concept Scales",
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td/><td>Australia</td><td/><td/><td>United States</td><td/></tr><tr><td colspan=\"2\">Items</td><td>Total</td><td>Male</td><td>Female</td><td>Total</td><td>Male</td><td>Female</td></tr><tr><td colspan=\"2\">Parent</td><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">1. 2. 3. a 4. a</td><td>.71 .61 .76 .54</td><td>.64 .60 .71 .48</td><td>.76 .62 .80 .60</td><td>.64 .59 .73 .57</td><td>.62 .54 .69 .55</td><td>.67 .64 .77 .61</td></tr><tr><td>5.</td><td>Alpha</td><td>.68 .85</td><td>.65 .82</td><td>.69 .87</td><td>.67 .84</td><td>.62 .81</td><td>.71 .86</td></tr><tr><td colspan=\"2\">Verbal</td><td/><td/><td/><td/><td/><td/></tr><tr><td>1.</td><td/><td>.69</td><td>.69</td><td>.69</td><td>.72</td><td>.69</td><td>.74</td></tr><tr><td>2.</td><td/><td>.62</td><td>.57</td><td>.66</td><td>.72</td><td>.68</td><td>.74</td></tr><tr><td colspan=\"2\">3. 4. a</td><td>.74 .67</td><td>.72 .63</td><td>.75 .71</td><td>.75 .58</td><td>.72 .49</td><td>.77 .66</td></tr><tr><td/><td>Alpha</td><td>.84</td><td>.83</td><td>.86</td><td>.85</td><td>.82</td><td>.87</td></tr><tr><td colspan=\"2\">Mathematics</td><td/><td/><td/><td/><td/><td/></tr><tr><td>1.</td><td/><td>.73</td><td>.70</td><td>.75</td><td>.81</td><td>.80</td><td>.81</td></tr><tr><td>2.</td><td/><td>.76</td><td>.74</td><td>.77</td><td>.79</td><td>.76</td><td>.81</td></tr><tr><td colspan=\"2\">3. 4. a</td><td>.82 .69</td><td>.80 .71</td><td>.82 .67</td><td>.81 .58</td><td>.80 .52</td><td>.83 .62</td></tr><tr><td/><td>Alpha</td><td>.88</td><td>.88</td><td>.89</td><td>.88</td><td>.87</td><td>.90</td></tr><tr><td colspan=\"2\">Same sex</td><td/><td/><td/><td/><td/><td/></tr><tr><td>1.</td><td/><td>.52</td><td>.50</td><td>.50</td><td>.42</td><td>.39</td><td>.45</td></tr><tr><td colspan=\"2\">2. 3. a 4. a</td><td>.57 .51 .58</td><td>.57 .44 .55</td><td>.54 .57 .58</td><td>.56 .53 .61</td><td>.50 .51 .59</td><td>.62 .56 .63</td></tr><tr><td/><td>Alpha</td><td>.75</td><td>.72</td><td>.75</td><td>.74</td><td>.71</td><td>.76</td></tr><tr><td colspan=\"2\">Opposite sex</td><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">1 2. 3. a 4. a</td><td>.62 .72 .65 .70</td><td>.63 .73 .64 .65</td><td>.62 .72 .67 .73</td><td>.54 .61 .37 .57</td><td>.57 .63 .43 .59</td><td>.51 .59 .30 .54</td></tr><tr><td/><td>Alpha</td><td>.83</td><td>.83</td><td>.85</td><td>.\u202273</td><td>.76</td><td>.70</td></tr></table>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Self-Concept Differences forMale and Female Students From the U.S. National  Educational Longitudinal Survey of 1988 (NELS:88)  and the Australian Self-Description Questionnaire II (SDQII) Normative Archive: Means, Standard Deviations, and Group Differences (Statistical Significance and Effect Sizes) Scores on five self-concept scores and their total are compared for responses by Australian lOth-grade students in the normative archive for the SDQII instrument",
+                "type_str": "table",
+                "content": "<table><tr><td>Group</td><td>N a</td><td>Parent</td><td>Verbal</td><td>Math</td><td>Same sex</td><td>Opposite sex</td><td>Mean self</td></tr><tr><td>U.S. male</td><td>2,068</td><td/><td/><td/><td/><td/><td/></tr><tr><td>M</td><td/><td>4.83</td><td>4.29</td><td>4.24</td><td>5.11</td><td>4.73</td><td>4.64</td></tr><tr><td>SD U.S. female</td><td>2,116</td><td>1.02</td><td>1.17</td><td>1.38</td><td>0.87</td><td>1.04</td><td>0.69</td></tr><tr><td>M</td><td/><td>4.80</td><td>4.64</td><td>3.93</td><td>5.24</td><td>4.81</td><td>4.68</td></tr><tr><td>SD</td><td/><td>1.12</td><td>1.19</td><td>1.54</td><td>0.90</td><td>0.95</td><td>0.68</td></tr><tr><td>Australian male</td><td>547</td><td/><td/><td/><td/><td/><td/></tr><tr><td>M</td><td/><td>4.91</td><td>3.99</td><td>3.98</td><td>4.84</td><td>4.54</td><td>4.47</td></tr><tr><td>SD Australian female</td><td>640</td><td>1.12</td><td>1.30</td><td>1.51</td><td>0.93</td><td>1.19</td><td>0.73</td></tr><tr><td>M</td><td/><td>4.81</td><td>4.13</td><td>3.58</td><td>5.24</td><td>4.37</td><td>4.44</td></tr><tr><td>SD</td><td/><td>1.20</td><td>1.22</td><td>1.53</td><td>0.79</td><td>1.19</td><td>0.68</td></tr><tr><td>Total</td><td>5,371</td><td/><td/><td/><td/><td/><td/></tr><tr><td>M</td><td/><td>4.82</td><td>4.38</td><td>4.01</td><td>5.15</td><td>4.70</td><td>4.61</td></tr><tr><td>SD</td><td/><td>1.09</td><td>1.22</td><td>1.48</td><td>0.89</td><td>1.05</td><td>0.70</td></tr><tr><td colspan=\"2\">Effect size and significance</td><td/><td/><td/><td/><td/><td/></tr><tr><td>Gender Var</td><td/><td>0.06</td><td>0.71**</td><td>0.99**</td><td>1.57**</td><td>0.03</td><td>0.00</td></tr><tr><td>d Country</td><td/><td>0.05</td><td>-0.17</td><td>0.20</td><td>-0.22</td><td>-0.04</td><td>0.00</td></tr><tr><td>Var</td><td/><td>0.04</td><td>1.92**</td><td>0.72**</td><td>0.41**</td><td>1.59**</td><td>1.54**</td></tr><tr><td>d</td><td/><td>-0.04</td><td>0.28</td><td>0.17</td><td>0.13</td><td>0.25</td><td>0.25</td></tr><tr><td>Interaction</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Var</td><td/><td>0.02</td><td>0.12*</td><td>0.02</td><td>0.41**</td><td>0.25**</td><td>0.04</td></tr><tr><td>Note.</td><td/><td/><td/><td/><td/><td/><td/></tr></table>"
+            },
+            "TABREF2": {
+                "num": null,
+                "text": "Factor Solution (Standardized to a Common Metric) for Four Groups: Factor Loadings and Factor Correlations Invariant Across Groups, Uniquenesses, and Factor Variances Estimated Separately for Each Group The five self-concept scales are each represented by four or five measured variables (see Appendix",
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td/><td/><td/><td/><td colspan=\"2\">Male</td><td colspan=\"2\">Female</td></tr><tr><td>Items</td><td>Parent</td><td colspan=\"2\">Verbal Math</td><td>Same sex</td><td>Opposite sex</td><td>Australia</td><td>United States</td><td>Australia</td><td>United . States</td></tr><tr><td>Parent</td><td/><td/><td colspan=\"2\">Factor loading</td><td/><td/><td colspan=\"2\">Uniqueness</td><td/></tr><tr><td>1.</td><td>.74</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>0.67</td><td>0.39</td><td>0.50</td><td>0.43</td></tr><tr><td>2. 3.</td><td>.62 .85</td><td>.00 .00</td><td>.00 .00</td><td>.00 .00</td><td>.00 .00</td><td>0.52 0.36</td><td>0.74 0.28</td><td>0.47 0.24</td><td>0.57 0.27</td></tr><tr><td>4. 5. Verbal 1.</td><td>.59 .75 .00</td><td>.00 .00 .78</td><td>.00 .00 .00</td><td>.00 .00 .00</td><td>.00 .00 .00</td><td>0.93 0.42 0.63</td><td>0.70 0.45 0.37</td><td>0.67 0.46 0.51</td><td>0.53 0.41 0.30</td></tr><tr><td>2. 3. 4. Math 1.</td><td>.00 .00 .00 .00</td><td>.78 .83 .65 .00</td><td>.00 .00 .00 .86</td><td>.00 .00 .00 .00</td><td>.00 .00 .00 .00</td><td>0.56 0.39 0.70 0.46</td><td>0.38 0.35 0.73 0.21</td><td>0.41 0.27 0.51 0.37</td><td>0.38 0.29 0.41 0.24</td></tr><tr><td>2. 3. 4. Same sex</td><td>.00 .00 .00</td><td>.00 .00 .00</td><td>.86 .88 .64</td><td>.00 .00 .00</td><td>.00 .00 .00</td><td>0.36 0.21 0.50</td><td>0.25 0.22 0.62</td><td>0.29 0.21 0.55</td><td>0.25 0.23 0.58</td></tr><tr><td>1.</td><td>.00</td><td>.00</td><td>.00</td><td>.52</td><td>.00</td><td>0.89</td><td>0.80</td><td>0.55</td><td>0.69</td></tr><tr><td>2. 3.</td><td>.00 .00</td><td>.00 .00</td><td>.00 .00</td><td>.83 .47</td><td>.00 .00</td><td>0.55 1.03</td><td>0.25 0.91</td><td>0.44 0.50</td><td>0.26 0.67</td></tr><tr><td>4. Opposite sex</td><td>.00</td><td>.00</td><td>.00</td><td>.58</td><td>.00</td><td>0.78</td><td>0.74</td><td>0.55</td><td>0.60</td></tr><tr><td>1.</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.69</td><td>0.59</td><td>0.44</td><td>0.62</td><td>0.57</td></tr><tr><td>2.</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.84</td><td>0.37</td><td>0.28</td><td>0.36</td><td>0.29</td></tr><tr><td>3.</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.51</td><td>0.72</td><td>0.84</td><td>0.57</td><td>0.70</td></tr><tr><td>4.</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.63</td><td>0.54</td><td>0.67</td><td>0.41</td><td>0.61</td></tr><tr><td/><td/><td colspan=\"3\">Factor correlations</td><td/><td/><td colspan=\"2\">Factor variances</td><td/></tr><tr><td/><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td/><td/><td/><td/></tr><tr><td>1. Parent</td><td>--</td><td/><td/><td/><td/><td>1.00</td><td>0.82</td><td>1.33</td><td>1.08</td></tr><tr><td>2. Verbal</td><td>.24</td><td>-</td><td/><td/><td/><td>1.14</td><td>0.94</td><td>1.03</td><td>1.00</td></tr><tr><td>3. Math</td><td>.20</td><td>.16</td><td>-</td><td/><td/><td>1.00</td><td>0.89</td><td>1.06</td><td>1.09</td></tr><tr><td>4. Same sex</td><td>.32</td><td>.31</td><td>.16</td><td>-</td><td/><td>1.21</td><td>0.86</td><td>0.87</td><td>1.12</td></tr><tr><td>5. Opposite sex</td><td>.20</td><td>.26</td><td>.11</td><td>.53</td><td>-</td><td>1.38</td><td>0.92</td><td>1.49</td><td>0.83</td></tr><tr><td>Note.</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr></table>"
+            },
+            "TABREF3": {
+                "num": null,
+                "text": "",
+                "type_str": "table",
+                "content": "<table><tr><td colspan=\"6\">Goodness of Fit for Alternative Solutions for Each Group Separately (No Invariance)</td></tr><tr><td colspan=\"3\">and for Multiple Groups (With Invariance Constraints)</td><td/><td/><td/></tr><tr><td>Group analyses</td><td>df</td><td>X 2</td><td>TLI</td><td>RNI</td><td>PRNI</td></tr><tr><td/><td>Separate</td><td/><td/><td/><td/></tr><tr><td>No invariance, no correlated</td><td/><td/><td/><td/><td/></tr><tr><td>uniquenesses</td><td/><td/><td/><td/><td/></tr><tr><td>Australia Male</td><td>179</td><td>457.92</td><td>.929</td><td>.939</td><td>.800</td></tr><tr><td>Female Total</td><td>179 358</td><td>538.63 996.55</td><td>.933 .931</td><td>.943 .941</td><td>.804 .802</td></tr><tr><td>United States</td><td/><td/><td/><td/><td/></tr><tr><td>Male</td><td>179</td><td>5,000.27</td><td>.720</td><td>.762</td><td>.649</td></tr><tr><td>Female</td><td>179</td><td>2,685.94</td><td>.858</td><td>.879</td><td>.750</td></tr><tr><td>Total</td><td>358</td><td>7,686.26</td><td>.790</td><td>.821</td><td>.700</td></tr><tr><td>No invariance, correlated uniquenesses</td><td/><td/><td/><td/><td/></tr><tr><td>Australia Male</td><td>151</td><td>332.39</td><td>.945</td><td>.960</td><td>.691</td></tr><tr><td>Female</td><td>151</td><td>398.10</td><td>.945</td><td>.961</td><td>.691</td></tr><tr><td>Total</td><td>302</td><td>729.49</td><td>.945</td><td>.961</td><td>.691</td></tr><tr><td>United States</td><td/><td/><td/><td/><td/></tr><tr><td>Male</td><td>151</td><td>800.04</td><td>.955</td><td>.968</td><td>.696</td></tr><tr><td>Female</td><td>151</td><td>850.81</td><td>.953</td><td>.966</td><td>.695</td></tr><tr><td>Total</td><td>302</td><td>1,650.85</td><td>.954</td><td>.967</td><td>.695</td></tr><tr><td/><td>Multiple</td><td/><td/><td/><td/></tr><tr><td>Factor loading invariant</td><td/><td/><td/><td/><td/></tr><tr><td>4 groups</td><td>652</td><td>2,813.84</td><td>.946</td><td>.958</td><td>.744</td></tr><tr><td>Australia male &amp; female</td><td>318</td><td>764.52</td><td>.946</td><td>.959</td><td>.726</td></tr><tr><td>United States male &amp; female</td><td>318</td><td>1,686.43</td><td>.956</td><td>.967</td><td>.732</td></tr><tr><td>Factor loading, factor correlations</td><td/><td/><td/><td/><td/></tr><tr><td>invariant</td><td/><td/><td/><td/><td/></tr><tr><td>4 groups</td><td>682</td><td>2,939.35</td><td>.946</td><td>.956</td><td>.777</td></tr><tr><td>Australia male &amp; female</td><td>328</td><td>787.89</td><td>.946</td><td>.958</td><td>.748</td></tr><tr><td>United States male &amp; female</td><td>328</td><td>1,761.02</td><td>.955</td><td>.965</td><td>.754</td></tr><tr><td>Factor loading, factor variance-</td><td/><td/><td/><td/><td/></tr><tr><td>covariance matrix invariant</td><td/><td/><td/><td/><td/></tr><tr><td>4 groups</td><td>697</td><td>3,137.88</td><td>.943</td><td>.953</td><td>.791</td></tr><tr><td>Australia male &amp; female</td><td>333</td><td>810.32</td><td>.945</td><td>.956</td><td>.758</td></tr><tr><td>United States male &amp; female</td><td>333</td><td>1,842.07</td><td>.954</td><td>.963</td><td>.764</td></tr><tr><td>Totally invariant</td><td/><td/><td/><td/><td/></tr><tr><td>4 groups</td><td>844</td><td>5,226.61</td><td>.916</td><td>.915</td><td>.920</td></tr><tr><td>Australia male &amp; female</td><td>382</td><td>1,100.15</td><td>.927</td><td>.934</td><td>.849</td></tr><tr><td>United States male &amp; female</td><td>382</td><td>2,278.15</td><td>.949</td><td>.954</td><td>.867</td></tr></table>"
+            },
+            "TABREF4": {
+                "num": null,
+                "text": "Test of the Internal/External Frame of Reference Model",
+                "type_str": "table",
+                "content": "<table><tr><td>Measured variable</td><td>MAch</td><td>RAch</td><td colspan=\"3\">MGrade EGrade MSelf</td><td>ESelf</td><td colspan=\"2\">Unique Correlated*</td></tr><tr><td/><td/><td/><td colspan=\"2\">Factor loadings</td><td/><td/><td/><td/></tr><tr><td>MAch 1990</td><td>.93</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.13</td><td>.04</td></tr><tr><td>MAch 1988</td><td>.89</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.23</td><td>.08</td></tr><tr><td>RAch 1990</td><td>.00</td><td>.89</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.21</td><td/></tr><tr><td>RAch 1988</td><td>.00</td><td>.84</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.30</td><td/></tr><tr><td>MGrade</td><td>.00</td><td>.00</td><td>.95</td><td>.00</td><td>.00</td><td>.00</td><td>.10</td><td/></tr><tr><td>EGrade</td><td>.00</td><td>.00</td><td>.00</td><td>.95</td><td>.00</td><td>.00</td><td>.10</td><td/></tr><tr><td>MSelf-1</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.87</td><td>.00</td><td>.24</td><td>.14</td></tr><tr><td>MSelf-2</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.86</td><td>.00</td><td>.26</td><td/></tr><tr><td>MSelf-3</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.89</td><td>.00</td><td>.21</td><td/></tr><tr><td>MSelf-4</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.62</td><td>.00</td><td>.62</td><td/></tr><tr><td>ESelf-1</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.76</td><td>.42</td><td/></tr><tr><td>ESelf-2</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.79</td><td>.37</td><td/></tr><tr><td>ESelf-3</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.86</td><td>.26</td><td/></tr><tr><td>ESelf-4</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.63</td><td>.60</td><td/></tr><tr><td/><td/><td/><td>Path</td><td>coefficients</td><td/><td/><td/><td/></tr><tr><td>MSelf</td><td>.40</td><td>-.31</td><td>.74</td><td>-.20</td><td>.00</td><td>.00</td><td/><td/></tr><tr><td>ESelf</td><td>-.08</td><td>.19</td><td>-.17</td><td>.76</td><td>.00</td><td>.00</td><td/><td/></tr><tr><td colspan=\"4\">Variance-Covariances (factor</td><td>correlations</td><td>above</td><td>the main</td><td>diagonal)</td><td/></tr><tr><td>MAch</td><td/><td>.83</td><td>.44</td><td>.40</td><td>.39</td><td>.30</td><td/><td/></tr><tr><td>RAch</td><td>.83</td><td>-</td><td>.30</td><td>.42</td><td>.16</td><td>.39</td><td/><td/></tr><tr><td>MGrade</td><td>.44</td><td>.30</td><td/><td>.48</td><td>.73</td><td>.22</td><td/><td/></tr><tr><td>EGrade</td><td>.40</td><td>.42</td><td>.48</td><td>-</td><td>.19</td><td>.73</td><td/><td/></tr><tr><td>MSelf</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.38</td><td>.16</td><td/><td/></tr><tr><td>ESelf</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td>.13</td><td>.42</td><td/><td/></tr></table>"
+            },
+            "TABREF5": {
+                "num": null,
+                "text": "Test of the Big-Fish-Little-Pond Effect",
+                "type_str": "table",
+                "content": "<table><tr><td>Measured variable</td><td>MAch</td><td>RAch</td><td>MSchl</td><td colspan=\"4\">RSchl MGrade EGrade</td><td colspan=\"2\">MSelf</td><td>ESelf</td><td>Unique</td><td>Correlated 3</td></tr><tr><td>MAch 1988 RAch 1988 MSchl 1 MSchl2 MSchl2 RSchll RSchl2 RSchB MGrade EGrade MSelfl MSelf2 MSelfi MSelf4 ESelfl ESelf2 ESelf3 ESelf4</td><td>.95 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00</td><td>.00 .92 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00</td><td>.00 .00 .75 .78 .77 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00</td><td colspan=\"2\">Factor .00 .00 .00 .00 .00 .66 .64 .71 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00</td><td>loadings .00 .00 .00 .00 .00 .00 .00 .00 .95 .00 .00 .00 .00 .00 .00 .00 .00 .00</td><td>.00 .00 .00 .00 .00 .00 .00 .00 .00 .95 .00 .00 .00 .00 .00 .00 .00 .00</td><td/><td>.00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .89 .86 .89 .00 .00 .00 .00 .63</td><td>.00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .65 .88 .81 .78 .00</td><td>.10 .16 .44 .39 .40 .58 .59 .50 .10 .10 .21 .26 .21 .58 .23 .34 .39 .60</td><td>.34 .30 .29 .13</td></tr><tr><td/><td/><td/><td/><td>Path</td><td colspan=\"2\">coefficients</td><td/><td/><td/><td/></tr><tr><td>MAch 1988</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td></tr><tr><td>RAch 1988</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td></tr><tr><td>MSchl</td><td>.50</td><td>.00</td><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td></tr><tr><td>MSchl</td><td>.00</td><td>.51</td><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td></tr><tr><td>MGrade</td><td>.70</td><td>-.26</td><td>-.37</td><td>.32</td><td/><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td></tr><tr><td>EGrade</td><td>.14</td><td>.41</td><td>.00\"</td><td>-.10</td><td/><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td></tr><tr><td>MSelf ESelf</td><td>.42 -.06\"</td><td>-.29 .15</td><td>-.21 .04\"</td><td>.12 -.07\"</td><td/><td>.77 -.18</td><td>-.20 .79</td><td/><td>.00 .00</td><td>.00 .00</td></tr><tr><td/><td/><td>Factor</td><td colspan=\"2\">variance-covariance</td><td colspan=\"2\">(correlations</td><td colspan=\"2\">above main</td><td colspan=\"2\">diagonal)</td></tr><tr><td>MAch 1988</td><td/><td>.81</td><td>.50</td><td>.41</td><td/><td>-.45</td><td>-.43</td><td/><td>.38</td><td>.32</td></tr><tr><td>RAch 1988</td><td>.81</td><td>__</td><td>.41</td><td>.51</td><td/><td>-.33</td><td>-.43</td><td/><td>.18</td><td>.40</td></tr><tr><td>MSchl</td><td>.00</td><td>.00</td><td>.75</td><td>.87</td><td/><td>-.17</td><td>-.15</td><td/><td>.08</td><td>.10</td></tr><tr><td>ESchl</td><td>.00</td><td>.00</td><td>.67</td><td>.74</td><td/><td>-.16</td><td>-.17</td><td/><td>.05</td><td>.12</td></tr><tr><td>MGrade</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td/><td>.78</td><td>.52</td><td/><td>.74</td><td>-.24</td></tr><tr><td>EGrade</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td/><td>.33</td><td>.76</td><td/><td>.23</td><td>.74</td></tr><tr><td>MSelf</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td><td/><td>.38</td><td>.18</td></tr><tr><td>ESelf</td><td>.00</td><td>.00</td><td>.00</td><td>.00</td><td/><td>.00</td><td>.00</td><td/><td>.13</td><td/></tr></table>"
+            }
+        }
+    }
+}

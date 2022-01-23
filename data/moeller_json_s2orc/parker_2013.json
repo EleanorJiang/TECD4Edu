@@ -1,0 +1,3310 @@
+{
+    "paper_id": "parker_2013",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:58:22.652656Z"
+    },
+    "title": "Differential school contextual effects for math and English: Integrating the big-fish-little-pond effect and the internal/external frame of reference",
+    "authors": [
+        {
+            "first": "Philip",
+            "middle": [
+                "D"
+            ],
+            "last": "Parker",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of T\u00fcbingen",
+                "location": {
+                    "country": "Germany"
+                }
+            },
+            "email": "philip.parker@uws.edu.au"
+        },
+        {
+            "first": "Herbert",
+            "middle": [
+                "W"
+            ],
+            "last": "Marsh",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Western Sydney",
+                "location": {
+                    "country": "Australia"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Oliver",
+            "middle": [],
+            "last": "L\u00fcdtke",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of T\u00fcbingen",
+                "location": {
+                    "country": "Germany"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Ulrich",
+            "middle": [],
+            "last": "Trautwein",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of T\u00fcbingen",
+                "location": {
+                    "country": "Germany"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The internal/external frame of reference and the big-fish-little-pond effect are two major models of academic self-concept formation which have considerable theoretical and empirical support. Integrating the domain specific and compensatory processes of the internal/external frame of reference model with the big-fish-little-pond effect suggests a potential unified model and the presence of a positive compensatory school context effect. This effect, in contrast to the big-fish-little-pond effect, indicates that school-average ability in one academic domain has a positive effect on self-concept in another domain. To date, little empirical support has been observed for this underlying theoretical assumption. The unified model and implied positive compensatory school context effect were tested in both traditional and themed (magnet) university track schools in Germany. In a large multilevel study (5016 students from 157 schools), we found support for the unified model in both school types but for the positive compensatory effect in themed schools only. The substantive and applied implications of these findings are discussed, as well as their theoretical importance for self-concept research.",
+    "pdf_parse": {
+        "paper_id": "parker_2013",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The internal/external frame of reference and the big-fish-little-pond effect are two major models of academic self-concept formation which have considerable theoretical and empirical support. Integrating the domain specific and compensatory processes of the internal/external frame of reference model with the big-fish-little-pond effect suggests a potential unified model and the presence of a positive compensatory school context effect. This effect, in contrast to the big-fish-little-pond effect, indicates that school-average ability in one academic domain has a positive effect on self-concept in another domain. To date, little empirical support has been observed for this underlying theoretical assumption. The unified model and implied positive compensatory school context effect were tested in both traditional and themed (magnet) university track schools in Germany. In a large multilevel study (5016 students from 157 schools), we found support for the unified model in both school types but for the positive compensatory effect in themed schools only. The substantive and applied implications of these findings are discussed, as well as their theoretical importance for self-concept research.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Academic self-concept is a central area of interest to educational research, not only as an important outcome in itself, but also as an important predictor of other educational outcomes (Guay, Larose, & Boivin, 2004; Marsh, 1991 Marsh, , 2007 . It is now well established that self-concept and achievement are reciprocally related over time (Marsh, 2007) and that self-concept is associated with academic effort, anxiety, confidence, motivation, and persistence in education (Marsh, 2007; Stankov, Lee, Lou, & Hogan, in press) . A growing body of research also indicates that academic self-concept is an important predictor of coursework selection and other educational choices made in school and beyond (Marsh, 1991 (Marsh, , 2007 Nagy et al., 2008; Parker et al., in press) . Indeed, Eccles (2009) indicates that academic self-concept plays a central determining role in the educational and career choices that young people make. As such, the degree to which the school context facilitates or hinders the development of self-concept is an important educational concern.",
+                "cite_spans": [
+                    {
+                        "start": 186,
+                        "end": 216,
+                        "text": "(Guay, Larose, & Boivin, 2004;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 217,
+                        "end": 228,
+                        "text": "Marsh, 1991",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 229,
+                        "end": 242,
+                        "text": "Marsh, , 2007",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 341,
+                        "end": 354,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 475,
+                        "end": 488,
+                        "text": "(Marsh, 2007;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 489,
+                        "end": 526,
+                        "text": "Stankov, Lee, Lou, & Hogan, in press)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 704,
+                        "end": 716,
+                        "text": "(Marsh, 1991",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 717,
+                        "end": 731,
+                        "text": "(Marsh, , 2007",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 732,
+                        "end": 750,
+                        "text": "Nagy et al., 2008;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 751,
+                        "end": 775,
+                        "text": "Parker et al., in press)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 786,
+                        "end": 799,
+                        "text": "Eccles (2009)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Given its significance, considerable research has been conducted on self-concept development, with much of this research focused on the role of social comparisons and frames of reference (Marsh, 2007) . Students spend much of their time in school, and the culture of most western schools is evaluative and competitive, where comparison with peers is a central feature (Covington, 2000; Liem, Ginns, Martin, Stone, & Herrett, 2012) . Thus, the school context is thought to play a particularly important role in academic and general self-concept formation (Dijkstra, Kuyper, van der Werf, Buunk, & van der Zee, 2008) . The internal/external frame of reference and the big-fish-little-pond effect 1 represent two theories that conceptualize the role of frames of reference and school context on self-concept, which have found widespread empirical support and which have important implications for educational policy (Marsh & Hau, 2003 , 2004 Wong & Watkins, 2001 ). Despite their importance, both models have limitations, yet these may be overcome by integrating them into a single framework. Below we introduce the internal/external frame of reference model and the big-fish-littlepond effect, outline a proposed single unified model of selfconcept formation, and explore the implications that a unified model may have for school policy, such as whether themed/magnet schools (schools whose selection policy targets ability in specific academic domains) create a school context that is beneficial for students' self-concept development.",
+                "cite_spans": [
+                    {
+                        "start": 187,
+                        "end": 200,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 368,
+                        "end": 385,
+                        "text": "(Covington, 2000;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 386,
+                        "end": 430,
+                        "text": "Liem, Ginns, Martin, Stone, & Herrett, 2012)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 554,
+                        "end": 614,
+                        "text": "(Dijkstra, Kuyper, van der Werf, Buunk, & van der Zee, 2008)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 913,
+                        "end": 931,
+                        "text": "(Marsh & Hau, 2003",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 932,
+                        "end": 938,
+                        "text": ", 2004",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 939,
+                        "end": 959,
+                        "text": "Wong & Watkins, 2001",
+                        "ref_id": "BIBREF56"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Academic self-concept refers to an individual's relatively stable and organized perception and evaluation of themselves within socially important academic domains (Shavelson, Hubner, & Stanton, 1976) . Academic self-concept factors are strongly related to academic achievement, where higher achievement in an academic subject is associated with more positive self-concepts in that domain. Indeed, achievement and self-concept are reciprocally related, such that an increase in achievement predicts more positive self-concepts but as academic self-concepts become more positive, achievement also increases (Marsh, 2007) . Achievement, however, appears to be a necessary but not sufficient predictor of academic self-concept. Rather, extensive research has uncovered the role of social context in the formation of academic self-concept beyond that explained by objective achievement alone (see Ireson & Hallam, 2009; Marsh, 2007) . This research has been largely driven by applying findings from social psychology, including research on social comparisons and frames of reference, to self-beliefs in education contexts (see Dijkstra et al., 2008; Suls & Wheeler, 2000 for reviews). The major finding of this research is that individuals' perceptions of themselves are not solely objective but are also influenced by the context within which they evaluate themselves. Marsh's (1986) internal/external frame of reference is a model of self-concept formation that differentiates outside influences from internal comparison processes. The external dimension stresses the influence of external performance cues in the development of a student's academic self-concept. This external frame of reference refers to the information available in their environment that individuals use as a basis for assessing their own competence, including the perceived abilities of others and external achievement feedback (e.g., feedback from experts). The theory notes that the most salient frame of reference for children is their school and thus their assessments of themselves within academic domains are, at least in part, dependent on their own self-perceived ability compared with that of their school peers and teacher feedback. The internal dimension refers to comparisons that students make across disciplines in assessing their own strengths and weaknesses (see Eccles, 2009) . There is increasing recognition in educational research that students hold multidimensional perceptions about their schooling, which lead to internal evaluations and comparison (Hofer, Kuhnle, Kilian, Marta, & Fries, 2011) . Indeed, the internal frame of reference was stimulated by findings that academic self-concept consists of two near orthogonal factors: math (consisting of sub-factors such as math, sciences, and economics self-concepts) and verbal (consisting of sub-factors such as geography, history, foreign language, and native language self-concepts; see Marsh, 2007 for reviews) . The lack of relationship between these two self-concepts is surprising, given that achievement in these domains is positively correlated. Marsh theorized that this makes sense, however, if students form their self-concept not only by comparing their performance in a subject domain against external performance feedback but also by internally comparing their performance in different domains against each other. This internal comparison is ispsative, such that an increase in self-concept in one domain (i.e., verbal or math) triggers a decrease in self-concept in another domain (Marsh, 2007) . Bringing together both external and internal frames of reference, Marsh predicted that student achievement would be positively related to self-concept if both were in the same academic domain but negatively related to selfconcept in other domains (see Fig. 1 : Model 1).",
+                "cite_spans": [
+                    {
+                        "start": 163,
+                        "end": 199,
+                        "text": "(Shavelson, Hubner, & Stanton, 1976)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 605,
+                        "end": 618,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 892,
+                        "end": 914,
+                        "text": "Ireson & Hallam, 2009;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 915,
+                        "end": 927,
+                        "text": "Marsh, 2007)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1122,
+                        "end": 1144,
+                        "text": "Dijkstra et al., 2008;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1145,
+                        "end": 1165,
+                        "text": "Suls & Wheeler, 2000",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 1365,
+                        "end": 1379,
+                        "text": "Marsh's (1986)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2348,
+                        "end": 2361,
+                        "text": "Eccles, 2009)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 2541,
+                        "end": 2586,
+                        "text": "(Hofer, Kuhnle, Kilian, Marta, & Fries, 2011)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 2932,
+                        "end": 2956,
+                        "text": "Marsh, 2007 for reviews)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 3539,
+                        "end": 3552,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 3807,
+                        "end": 3813,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Internal/external frame of reference and self-concept formation",
+                "sec_num": "2."
+            },
+            {
+                "text": "The internal/external frame of reference (hereafter I/E model) has received widespread cross-cultural support (Marsh & Hau, 2004) . In reviewing the literature, M\u00f6ller, Pohlmann, K\u00f6ller, and Marsh (2009) note the multiplicity of divergent sources of evidence in favor of this model. First, there is evidence that the expected relationships emerge when frames of reference are experimentally manipulated (e.g. M\u00f6ller & K\u00f6ller, 2001 ). Second, a number of longitudinal studies have consistently shown that increases in achievement over time predict a more positive selfconcept in the same domain but have negative implications for self-concept in other domains, as predicted by the I/E model. Such research also points to the critical role that I/E processes play in achievement noting that positive self-concept in one academic domain predicts increases in achievement in the same domain and small decreases in achievement in other domains (see M\u00f6ller, Retelsdorf, K\u00f6ller, & Marsh, 2011) . Third, studies analyzing the contents of students' introspective diaries indicate students do make both external and internal comparisons in their daily life, and both comparison processes inform their self-concept (M\u00f6ller & Husemann, 2006) . Fourth, the meta-analysis conducted by M\u00f6ller et al. (2009) indicated that associations between achievement and self-concept predicted by the I/E model were present across different measures, countries, age groups, and gender. Finally, research by Nagy et al. (2008) , Marsh (2007) , and Parker et al. (in press ) have shown that self-concept ipsatively predicts domain specific educational choices in patterns predicted by the I/E model. For instance, students who have a high self-concept in math tend to avoid choosing disciplines such as history or social sciences.",
+                "cite_spans": [
+                    {
+                        "start": 110,
+                        "end": 129,
+                        "text": "(Marsh & Hau, 2004)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 161,
+                        "end": 203,
+                        "text": "M\u00f6ller, Pohlmann, K\u00f6ller, and Marsh (2009)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 409,
+                        "end": 430,
+                        "text": "M\u00f6ller & K\u00f6ller, 2001",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 944,
+                        "end": 986,
+                        "text": "M\u00f6ller, Retelsdorf, K\u00f6ller, & Marsh, 2011)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 1204,
+                        "end": 1229,
+                        "text": "(M\u00f6ller & Husemann, 2006)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1271,
+                        "end": 1291,
+                        "text": "M\u00f6ller et al. (2009)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1480,
+                        "end": 1498,
+                        "text": "Nagy et al. (2008)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1501,
+                        "end": 1513,
+                        "text": "Marsh (2007)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1516,
+                        "end": 1543,
+                        "text": "and Parker et al. (in press",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Internal/external frame of reference and self-concept formation",
+                "sec_num": "2."
+            },
+            {
+                "text": "In a classic study, Davis (1966) found that college men's achievement was positively related to entry into elite careers. For students of equal ability, however, the more able their peers the less likely they were to enter an elite profession. This led Davis (1966) to conclude \"the aphorism 'It is better to be a big frog in a small pond than a small frog in a big pond' is not perfect advice, but it is not trivial\" (p. 31). Marsh (1991) built on this work, as well as theoretical developments in sociology and psychology, to explain why students in high achieving schools had lower academic selfconcepts than would be expected on the basis of the their objective achievement alone (Marsh, 1991) . Marsh (1991) labeled this phenomenon the big-fish-little-pond effect (hereafter BFLPE).",
+                "cite_spans": [
+                    {
+                        "start": 20,
+                        "end": 32,
+                        "text": "Davis (1966)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 253,
+                        "end": 265,
+                        "text": "Davis (1966)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 427,
+                        "end": 439,
+                        "text": "Marsh (1991)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 684,
+                        "end": 697,
+                        "text": "(Marsh, 1991)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 700,
+                        "end": 712,
+                        "text": "Marsh (1991)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Big-fish-little-pond effect and self-concept formation",
+                "sec_num": "3."
+            },
+            {
+                "text": "The BFLPE model suggests the counterfactual case that a student placed in a high-ability school will have lower self-concept than if they had been placed in a lower-ability school. This is because the average ability of the student peers will differ depending on the school they attend and thus their relative ability rank within each school will also be different (Trautwein, Gerlach, & L\u00fcdtke, 2008) . Formulated as a set of hypotheses, the BFLPE predicts that schoolaverage ability will be negatively related to students' academic self-concept after controlling for individual achievement (see Fig. 1 : Models 2a & 2b). This model has extensive cross-cultural support (Marsh & Hau, 2003) and quasi-experimental support (Marsh, K\u00f6ller, & Baumert, 2001; Wouters, De Franine, Colpin, Van Damme, & Verschueren, in press) , as well as strong support in a variety of academic domains (e.g. Dijkstra et al., 2008; Trautwein et al., 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 365,
+                        "end": 401,
+                        "text": "(Trautwein, Gerlach, & L\u00fcdtke, 2008)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 671,
+                        "end": 690,
+                        "text": "(Marsh & Hau, 2003)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 722,
+                        "end": 754,
+                        "text": "(Marsh, K\u00f6ller, & Baumert, 2001;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 755,
+                        "end": 819,
+                        "text": "Wouters, De Franine, Colpin, Van Damme, & Verschueren, in press)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 887,
+                        "end": 909,
+                        "text": "Dijkstra et al., 2008;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 910,
+                        "end": 933,
+                        "text": "Trautwein et al., 2008)",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 597,
+                        "end": 603,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Big-fish-little-pond effect and self-concept formation",
+                "sec_num": "3."
+            },
+            {
+                "text": "The negative influence of a high-achieving school on students' academic self-concept is surprising in the context of research on other school context effects. For example, previous research on self-concept has suggested that schools with higher average ability may be associated with a 'reflected glory' effect for students' self-concept (see Dijkstra et al., 2008) . This theory states that a student's selfconcept will be positively affected by moving to a prestigious school because the student's acceptance into the school is perceived to reflect positively upon their own abilities. The empirical literature, however, indicates that the positive benefit to self-concept of attending a more prestigious school is weaker than the BFLPE and that the overall relationship between school average achievement and student self-concept is negative (Dijkstra et al., 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 343,
+                        "end": 365,
+                        "text": "Dijkstra et al., 2008)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 845,
+                        "end": 868,
+                        "text": "(Dijkstra et al., 2008)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Big-fish-little-pond effect and self-concept formation",
+                "sec_num": "3."
+            },
+            {
+                "text": "The BFLPE effect is not merely an expression of students' internal lives; rather comparison with peers is an integral part of most school systems, where evaluations about students are often made in comparison to other students (see Covington, 2000 for a review). For example, Espenshade, Hale, and Chung (2005) observed that elite college entry boards make decisions on potential students, at least in part, on the basis of the average ability of the school they attended. BFLPE processes are thus not naive but, at least to some degree, reflect an external reality. Furthermore, the BFLPE has important implications not just for the individual student but also for educational policy. In particular, the BFLPE suggests that school selection policies like selective schooling or the mainstreaming of children with a disability may be counterproductive as they place children in high average ability contexts and thus may have a negative effect on academic self-concept. Thus, research is needed which explores how school context and educational policies affect academic self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 276,
+                        "end": 310,
+                        "text": "Espenshade, Hale, and Chung (2005)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Big-fish-little-pond effect and self-concept formation",
+                "sec_num": "3."
+            },
+            {
+                "text": "Both the I/E model and the BFLPE are empirically supported models for understanding academic self-concept formation, however, both models have limitations. While the I/E model provides a rich framework for understanding domain specificity in academic self-concept, it is a student level model and does not take into account contextual factors (i.e., it does not detail how students' academic self-concepts are affected by the ability composition of their school). The vast majority of research in this area uses single level regression models, which do not include any school level variables. In contrast the BFLPE is a contextual effects model that does not take into account the multi-dimensional nature of academic self-concept. Thus, the majority of research in this area uses either domain general academic measures or focuses only on a single academic domain. Skaalvik and Skaalvik (2002) suggest similar limitations, noting that research on the I/E model provides relatively little detail on how students' academic self-beliefs are affected by the ability composition of the school they are in. Skaalvik and Skaalvik (2002) , further note that one of the major outstanding questions of academic self-concept research is the extent to which students' internal frames of reference are affected by the ability composition of their school, when multiple academic domains are explored. This is indeed problematic as the extreme domain specificity of academic self-concept suggests that, in many cases, theoretical models, which do not take the multidimensional nature of self- concept into account are likely to be inappropriate (Marsh, 2007) . Thus an important goal in furthering research on academic selfconcept is to identify whether the BFLPE and the I/E models can be integrated to form a single unified model to account for their respective short comings.",
+                "cite_spans": [
+                    {
+                        "start": 866,
+                        "end": 894,
+                        "text": "Skaalvik and Skaalvik (2002)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 1102,
+                        "end": 1130,
+                        "text": "Skaalvik and Skaalvik (2002)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 1631,
+                        "end": 1644,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Integrating the I/E and BFLPE models",
+                "sec_num": "4."
+            },
+            {
+                "text": "By integrating the I/E and BFLPE models two hypotheses can be drawn. First, the domain specificity of self-concept suggests the negative relationship between school average ability and student self-concept will only be negative when both are measured in the same academic domain (Skaalvik & Skaalvik, 2002) . Second, the internal frame of reference in the I/E model indicates that anything that lowers self-concept in one domain should result in a more positive evaluation of self-concept in other academic domains. Thus, the relationship between school average ability and selfconcept in one academic domain would be expected to have a positive compensatory effect on self-concept in other academic domains. Put simply, if a student feels like their classmates are better than them in math, they may feel more negative about their math ability but this may result in them evaluating their English ability more positively. This is because an internal frame of reference is based on the use of perceived achievement in one academic domain as a reference point for assessing achievement in other areas (Marsh & Hau, 2004) . Thus, anything that results in a decline in self-concept in one domain (e.g., domain specific BFLPE) should theoretically have positive implications for self-concept in other domains (Marsh, 1986) .",
+                "cite_spans": [
+                    {
+                        "start": 279,
+                        "end": 306,
+                        "text": "(Skaalvik & Skaalvik, 2002)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 1100,
+                        "end": 1119,
+                        "text": "(Marsh & Hau, 2004)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1305,
+                        "end": 1318,
+                        "text": "(Marsh, 1986)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Integrating the I/E and BFLPE models",
+                "sec_num": "4."
+            },
+            {
+                "text": "In one of the few studies to incorporate both the I/E and BFLPE model predictions, Marsh (1986) focused on the relations between math and English achievement and self-concept as a test of the domain specificity of the BFLPE. In addition to providing support for the unique importance of both the BFLPE and the internal/external frame of reference models, evidence in favor of the domain specificity of the BFLPE and a positive compensatory effect of schoolaverage ability in one domain (e.g., math or verbal) leading to more positive self-concept in the non-matching domain was observed. However, the support for the positive compensatory effect in this study was weak. This may have been because the research was not conducted under conditions that were most conducive for testing this effect. In part this was due to latent variable and multilevel statistical modeling (and their integration) not being well-developed nor widely available at that period (see online methodology for more detail). However, limitations of this research were not only of a methodological nature. In particular, Marsh (1991) suggested that the positive compensatory effect was small because school average achievement in math and English were highly correlated. This context is the case in most schools, as selection procedures tend to lead to \"school contexts of math and of English achievements [being] very similar\" (p. 114). Thus, potential positive compensatory effects are likely to be obscured. However, selection processes that either explicitly or implicitly target specific academic domains (or themes) would likely lead to more differentiated school contexts for different academic domains, providing a prime context for testing the positive compensatory effect. Thus, support for a positive compensatory effect suggests that high ability schools with a differentiated math and verbal ability contexts may mitigate some of the negative effects of the BFLPE.",
+                "cite_spans": [
+                    {
+                        "start": 83,
+                        "end": 95,
+                        "text": "Marsh (1986)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1093,
+                        "end": 1105,
+                        "text": "Marsh (1991)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Existing research findings on integrating the I/E and BFLPE models",
+                "sec_num": "5."
+            },
+            {
+                "text": "This differentiation across academic domain is likely to be apparent in targeted selective schools called themed (or magnet) schools. These schools are different from traditional university track (selective) schools in that they have a specialized set of programs focused on an academic domain or on preparing students for a post-school university major or career in a particular field (such schools are often referred to as magnet schools in the United States and Australia; Gamoran, 1996; Giffin, Allen, Kimura-Walsh & Yamamura, 2007) . In such schools, students are either selected or self-selected based primarily on their interests or achievement in a narrowly defined area of excellence (e.g., math or literature ability). In contrast, traditional university track schools are selective in terms of general academic excellence (e.g., math and literature ability). Thus, when compared to traditional university track students who attract students of high ability across academic domains, students in themed schools are likely to be similar in the academic domain most closely associated with the focus of the school but more variable in other domains. As such, school contexts in math and verbal domains will likely be more differentiated in themed rather than traditional schools and thus well suited to testing the unified model and the implied positive compensatory effect developed in this research.",
+                "cite_spans": [
+                    {
+                        "start": 476,
+                        "end": 490,
+                        "text": "Gamoran, 1996;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 491,
+                        "end": 536,
+                        "text": "Giffin, Allen, Kimura-Walsh & Yamamura, 2007)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Traditional and themed (magnet) schools",
+                "sec_num": "6."
+            },
+            {
+                "text": "The purpose of the current research was to test a unified model of academic self-concept formation, which integrates the internal/ external frame of reference and the BFLPE. In order to do this we tested a set of three hypotheses, which are outlined in detail below and are summarized in Table 1 . First, in the introduction we suggested that the positive compensatory effect would emerge in themed selective schools rather than in traditional selective schools, because school average ability is likely to be more differentiated. Thus, as a prerequisite to testing the unified model, we hypothesized that the correlation between school average achievement in math and English would be significantly smaller in themed schools (i.e., more differentiated) than in traditional Table 1 Hypotheses.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 288,
+                        "end": 295,
+                        "text": "Table 1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 774,
+                        "end": 781,
+                        "text": "Table 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The current research",
+                "sec_num": "7."
+            },
+            {
+                "text": "Supported if: 1 Themed schools will be more differentiated in achievement than general schools",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hypothesis:",
+                "sec_num": null
+            },
+            {
+                "text": "Correlation between school average math and English ability is smaller in themed schools than in general schools NA 2a I/E model will be valid for both school types Model provides a good fit to the data and parameter estimates are consistent with theory Model 1 2b BFLPE for math will be valid for both school types Model provides a good fit to the data and parameter estimates are consistent with theory Model 2a 2c BFLPE for English will be valid for both school types Model provides a good fit to the data and parameter estimates are consistent with theory Model 2b 3a",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hypothesis:",
+                "sec_num": null
+            },
+            {
+                "text": "Unified model of self-concept formation will be valid for both school types",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hypothesis:",
+                "sec_num": null
+            },
+            {
+                "text": "Model provides a good fit to the data and parameter estimates are consistent with theory Model 3 3b BFLPE will be domain specific School average achievement in one domain will only have a negative effect on self-concept in the same domain",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hypothesis:",
+                "sec_num": null
+            },
+            {
+                "text": "Positive compensatory effect will be significant for themed schools only",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Model 3 3c",
+                "sec_num": null
+            },
+            {
+                "text": "Parameters from school average ability in one domain significantly and positively predict self-concept in another domain Model 3 schools. Second, we aimed to confirm that both the BFLPE and the internal/external frame of reference models were relevant to students in both traditional and themed university track schools. While both models have been well validated in a variety of settings, little research has applied either model to themed or magnet schools specifically. In both cases, we expect these patterns of associations to be supported, regardless of school type, and thus to represent general models of academic self-concept formation. Finally, we aimed to test a unified model of self-concept formation that brings together the BFLPE and the internal/external frame of reference. We suggest that this model will show several characteristics. First, we expected that the integrative model ( Fig. 1 : Model 3) would be valid for both school types, indicated by a good fit to the data. Second, the BFLPE would be domain specific, such that school average ability in one domain would only have a negative effect on student self-concept in the same domain. Third, we hypothesized that school average ability in one domain would be positively related to student self-concept in a different domain for participants in themed schools who select students on a narrow band of ability rather than general academic excellence. Support for these hypotheses requires that several assumptions hold. First the model relies on the extreme domain specificity in academic self-concept. A lack of domain specificity would suggest that the BFLPE is not domain specific and that a positive compensatory effect would not be possible. Second, support for the hypotheses depends on achievement in different academic domains being at least partially distinct at both the individual student and the school average level. Distinct achievement at the student level is a critical assumption of the internal frame of reference component of the I/E model. Conversely, the positive compensatory effect hypothesized by the unified model, is dependent on a distinction between achievement in math and verbal domains at the school level. As noted above, this assumption is highly likely to be violated in traditional schools, even when student achievement is distinct, but it is hypothesized that school average ability in different academic domains will be more distinct in themed (magnet) schools.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 901,
+                        "end": 907,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Model 3 3c",
+                "sec_num": null
+            },
+            {
+                "text": "Themed schools are not only a convenient context for testing the unified model. They are also an important, though understudied, elements of educational policy for which the current research has potential implications. Themed (or Magnet) schools have been promoted in countries such as the US and Germany as a means of providing an alternate pathway to university entry for students who would not normally qualify or do well in traditional university track schools or programs (K\u00f6ller, Watermann, Trautwein, & L\u00fcdtke, 2004) . Indeed, most of the children who enter themed schools in their final years of schooling in Germany have lower ability than those who go to traditional university track schools and enter these schools after completing studies in vocational school tracks (K\u00f6ller et al., 2004) . Such schools are important educational policy tools, as they tend to draw in children from disadvantaged backgrounds. One of the advantages of themed schools in both the United States and Germany has been to provide a university pathway that is catered to the needs of students from disadvantaged and/or minority backgrounds (Buxton, 2005; Gamoran, 1996; Giffin et al., 2007; K\u00f6ller et al., 2004) . Given that such disadvantaged youth are less likely to enter university (for a review see Checchi, 2006) , themed schools represent one educational program that may help to reduce educational inequality.",
+                "cite_spans": [
+                    {
+                        "start": 477,
+                        "end": 523,
+                        "text": "(K\u00f6ller, Watermann, Trautwein, & L\u00fcdtke, 2004)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 779,
+                        "end": 800,
+                        "text": "(K\u00f6ller et al., 2004)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1128,
+                        "end": 1142,
+                        "text": "(Buxton, 2005;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1143,
+                        "end": 1157,
+                        "text": "Gamoran, 1996;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1158,
+                        "end": 1178,
+                        "text": "Giffin et al., 2007;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1179,
+                        "end": 1199,
+                        "text": "K\u00f6ller et al., 2004)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1292,
+                        "end": 1306,
+                        "text": "Checchi, 2006)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Model 3 3c",
+                "sec_num": null
+            },
+            {
+                "text": "The degree to which this school structure affects students' selfconcept is of central important because academic self-concept affects achievement, educational choices (including university entry), effort, and persistence in education (see Marsh, 2007 for a review). For teachers, understanding how to enhance positive self-beliefs and the mastery of appropriate skills, and the links between the two, is essential. In order to understand how to motivate students, teachers need to understand self-concept formation and in particular how the school context can help or hinder self-concept development. As the BFLPE, I/E, and unified models posit results that are seemingly counter-intuitive, it is critical that teachers understand how they work. In addition, the unified model has important implications for themed schools as an educational policy. Given the narrowly defined area of excellence of themed schools, the prediction derived from the unified model is that themed schools are likely to undermine self-concepts in the domain that is their focus. However, in such schools the positive compensatory effect is expected to be significant. This would serve, at least partially, to compensate for the negative effect of school average achievement on self-concept in one academic domain by creating conditions in which self-concept in other domains might be boosted.",
+                "cite_spans": [
+                    {
+                        "start": 239,
+                        "end": 250,
+                        "text": "Marsh, 2007",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Model 3 3c",
+                "sec_num": null
+            },
+            {
+                "text": "The current research utilized data from the ongoing Transformation of the Secondary School System and Academic Careers (TOSCA) project. This project follows two cohorts of students during the transition from high school. The survey responses from these two cohorts represent some of the most important databases in Germany for testing hypotheses about academic achievement, motivation, and self-concept in young adults. The two cohorts of the study have contributed significantly to the self-concept literature. For example, research with the first cohort of the project indicated that the BFLPE is a persistent influence on self-concept even after high-school graduation (Marsh, Trautwein, L\u00fcdtke, Baumert, & K\u00f6ller, 2007) . Research with the second cohort has indicated that both BFLPE and reflected glory are present in German university track schools and represent significant influences on students' self-concept formation (Trautwein, L\u00fcdtke, Marsh, & Nagy, 2009) . Several other studies focusing on the role of selfconcept in predicting high-school graduation destinations and the relationship between the BFLPE and personality are also currently being undertaken (see Trautwein, Neumann, Nagy, L\u00fcdtke, & Maaz, 2010 for an overview of the TOSCA project).",
+                "cite_spans": [
+                    {
+                        "start": 672,
+                        "end": 723,
+                        "text": "(Marsh, Trautwein, L\u00fcdtke, Baumert, & K\u00f6ller, 2007)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 928,
+                        "end": 968,
+                        "text": "(Trautwein, L\u00fcdtke, Marsh, & Nagy, 2009)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 1175,
+                        "end": 1221,
+                        "text": "Trautwein, Neumann, Nagy, L\u00fcdtke, & Maaz, 2010",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": "8.1."
+            },
+            {
+                "text": "The data for the current research comes from the second cohort of the TOSCA project, which began in 2006. This ongoing project focuses on university track upper secondary schools, where data was obtained from students in 157 randomly selected upper secondary schools in a single German state. Participants filled out a questionnaire that included the analysis variables used in this research during a specially assigned in-class session conducted during school hours. They were given the option of not participating in the research, yet approximately 80% of the potential sample, or a total of 5016 participants, took part in the research. The research was conducted when participants were in their final year of upper secondary schooling. The average age of the participants was 19.76 (SD \u00bc 1.12). The sample was weighted toward females (58 percent), which is consistent with the demographic makeup of German university track schools.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": "8.1."
+            },
+            {
+                "text": "The university track in Germany (Gymnasium) consists of approximately 35% of the secondary school student population (Eurydice, 2010) . It is an important context for the current research, as the system includes clearly demarcated traditional and themed university track schools. The Gymnasiale oberstufe (upper high schools) system includes both large numbers of traditional upper high schools (Allgemeinbildendes Gymnasium; 58% of participants in the current research) and a number of selective themed upper high schools (Berufliches Gymnasium), which students can attend from the age of 15 (Eurydice, 2010) . Both school types are pre-university schools, meaning that most graduates will enter university after having finished school (see Buchmann & Dalton, 2002; Dustmann, 2004; Hillmert & Jacob, 2010 for details) . The themed schools in Germany largely consist of students who have come from vocational school tracks, where average achievement is generally lower than for traditional schools, and they often consist of a more disadvantaged population (K\u00f6ller et al., 2004) . Nevertheless, students of both school types aspire to get the Abitur, a schoolleaving certificate that provides the broadest access to higher education (Eurydice, 2010) . In the current research, themed schools included those that focused on business management, technical/ engineering, bio-technology, agricultural sciences, nutrition sciences, and social pedagogy themed schools. While these themes differ in their focus, they are similar in being orientated toward some academic domains more than others.",
+                "cite_spans": [
+                    {
+                        "start": 117,
+                        "end": 133,
+                        "text": "(Eurydice, 2010)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 593,
+                        "end": 609,
+                        "text": "(Eurydice, 2010)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 742,
+                        "end": 766,
+                        "text": "Buchmann & Dalton, 2002;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 767,
+                        "end": 782,
+                        "text": "Dustmann, 2004;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 783,
+                        "end": 818,
+                        "text": "Hillmert & Jacob, 2010 for details)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1057,
+                        "end": 1078,
+                        "text": "(K\u00f6ller et al., 2004)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1233,
+                        "end": 1249,
+                        "text": "(Eurydice, 2010)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Traditional and themed university track schools in Germany",
+                "sec_num": "8.2."
+            },
+            {
+                "text": "Themed schools students had lower achievement scores in math (d \u00bc \u00c0.73, p < .001) and English (d \u00bc \u00c0.98, p < .001) than traditional school students. A moderate difference was also observed for English self-concept (d \u00bc \u00c0.23, p < .001) but not for math selfconcept (d \u00bc \u00c0.05, ns). Consistently with the focus of themed schools on disadvantaged youth, students from these schools were more likely to be born overseas (4 \u00bc .06, p < .001) and to have a mother (4 \u00bc .05, p < .01) and/or a father (4 \u00bc .06, p < .001) who spoke a language other than German at home. Parents of themed school students also had lower levels of education (d \u00bc \u00c0.46, p < .001), and worked in jobs with lower occupation prestige (d \u00bc \u00c01.17, p < .001) than traditional school students. This is consistent with themed schools being an alternative path to university, particularly catering for disadvantaged students.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Traditional and themed university track schools in Germany",
+                "sec_num": "8.2."
+            },
+            {
+                "text": "To measure academic achievement, we utilized well-validated and comprehensive standardized tests of math and English. The mathematics achievement test that was administered was taken from the Third International Mathematics and Science Study (TIMSS; e.g., Baumert, Bos, & Lehmann, 2000) . The test was administered with a matrix design where students worked on only a subset of the item pool . The math test consisted of three components, including calculus, geometry, and equations. English achievement was assessed using a shortened research version of the Test of English as a Foreign Language (TOEFL), as used in the Institutional Testing Program (Educational Testing Service, 1997) . This instrument comprises three components: listening comprehension, structure and written expression, and reading comprehension. Internal consistency estimates (Cronbach's alphas) were high, with estimates of .93 for math achievement and .97 for English achievement. School-average achievements in English and math were measured by aggregating individual student achievement (see Table 3 for inter-class correlations).",
+                "cite_spans": [
+                    {
+                        "start": 256,
+                        "end": 286,
+                        "text": "Baumert, Bos, & Lehmann, 2000)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 651,
+                        "end": 686,
+                        "text": "(Educational Testing Service, 1997)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1070,
+                        "end": 1077,
+                        "text": "Table 3",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Achievement",
+                "sec_num": "8.3.1."
+            },
+            {
+                "text": "Math and English self-concepts were measured using the German version of the SDQ III (Schwanzer, Trautwein, L\u00fcdtke, & Sydow, 2005) . The SDQ III is a multidimensional self-concept instrument for late adolescents and young adults and includes a number of domain specific factors based on the Shavelson et al. (1976) model. Previous research with the SDQ instruments indicates its excellent construct validity and reliability in German (Schwanzer et al., 2005) . From the 17 scales in the SDQ III (German), only the math self-concept factor (e.g. I have never been good at tasks that required mathematics [reverse scored]) and the English (as a second language) self-concept factor (e.g. I am just not that talented in English [reverse scored]), added in recent versions of the German SDQ III, were used. Participants responded to each item on a 4-point (agree-disagree) response scale. Internal consistency estimates for self-concept were high, with estimates of .90 for math self-concept and .92 for English self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 85,
+                        "end": 130,
+                        "text": "(Schwanzer, Trautwein, L\u00fcdtke, & Sydow, 2005)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 291,
+                        "end": 314,
+                        "text": "Shavelson et al. (1976)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 434,
+                        "end": 458,
+                        "text": "(Schwanzer et al., 2005)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Self-concept",
+                "sec_num": "8.3.2."
+            },
+            {
+                "text": "The current research utilized multilevel modeling to test the major hypotheses. Multilevel modeling focuses on treating nested levels (e.g. students nested within schools) within data as meaningful. This approach has two major advantages. First it allows researchers to test hypothesized relationships at different levels in the data simultaneously. For example, how are student achievement and school average achievement associated with selfconcept? Second, individuals nested within a higher level (e.g. students in the same schools) are likely to be more similar to each other than with members nested within different, higher level units (e.g. students in other schools). Thus, residuals are likely to be correlated and traditional analysis approaches (e.g. OLS regression) will tend to underestimate standard errors. Multilevel modeling provides a means for calculating correct standard errors and thus appropriate tests of statistical inference (see Hox, 2010 for a general introduction to multilevel modeling and estimation procedures). Multilevel modeling is well-established in the social sciences and has been used frequently in BFLPE research (e.g. Marsh et al., 2009) . Nevertheless, readers may be unfamiliar with three additional components of our approach which are not typical of multilevel modeling. We thus provide a detailed discussion of these elements.",
+                "cite_spans": [
+                    {
+                        "start": 1160,
+                        "end": 1179,
+                        "text": "Marsh et al., 2009)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Multi-level modeling",
+                "sec_num": "8.4.1."
+            },
+            {
+                "text": "First, contextual effects like the BFLPE have typically been tested by looking at whether the composition of the school (e.g. school average achievement) predicts self-concept over and above student achievement. In order to test this, we first group mean-centered (where group equals the schools) student achievement. This allows for the direct computation of within and between-group estimates. The school context effect is then given by subtracting the within-group estimate from the between-group estimate (Raudenbush & Bryk, 2002) . With group-mean centering, this is simply the difference between the coefficient for the school average achievement and the coefficient for individual achievement (see the online Appendix A for how to estimate this with correct standard errors). If school context makes a difference (i.e. contributes to self-concept net of individual achievement), then this compositional effect will be significantly different from zero, and the direction of the effect will indicate the nature of the relationship (i.e. is it a positive or negative predictor; see Harker & Tymms, 2004 for an extensive review). Effect size estimation for contextual effects is not yet well developed (see Marsh et al., 2009 for a review). Thus, we used two different effect size measures; one (ES1) based on the residual variance at Level 1 (e.g. the participant level) and one based on the total Level 1 variance (ES2). The difference between these two approaches is that ES2 typically is more conservative. For further discussion see the Appendix A. Second, most multilevel models use manifest variables such as scale scores. This can be problematic when such variables are measured with error (the typical case in social sciences) and thus, parameter estimates are likely to be attenuated (Cohen, Cohen, Aiken, & West, 2003) . The use of latent variables, where the measurement error is modeled and parameter estimates are controlled for this error is an important advance over the use of manifest variables. Recent advancements, and the wide availability of statistical packages that incorporate latent variables and multilevel data (e.g. Mplus), allow for the inclusion of latent variables in multilevel models (see Preacher, Zyphur, & Zhang, 2010 for a review). We take advantage of this ability in order to provide lessbiased parameter estimates.",
+                "cite_spans": [
+                    {
+                        "start": 509,
+                        "end": 534,
+                        "text": "(Raudenbush & Bryk, 2002)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1087,
+                        "end": 1107,
+                        "text": "Harker & Tymms, 2004",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1211,
+                        "end": 1229,
+                        "text": "Marsh et al., 2009",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1798,
+                        "end": 1833,
+                        "text": "(Cohen, Cohen, Aiken, & West, 2003)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Multi-level modeling",
+                "sec_num": "8.4.1."
+            },
+            {
+                "text": "Finally, multilevel modeling can be affected by sampling bias when aggregation used to create Level 2 (e.g. school level) variables is based on only a subset of Level 1 units. Put simply, aggregated school average achievement may be biased if data is available for only a subset of the students within each school. This was relevant to the current research, in which an average of 30 students were sampled from each school. To overcome this, we used latent aggregation (see Marsh et al., 2009) . In this approach the available units (i.e. the students for whom we do have data) are treated as indicators of Level 2 variables (e.g. school average achievement). Analogously to the latent variables described above, this allows a means of directly modeling and thus controlling for, sampling error. When latent variable analysis is used in conjunction with latent aggregation, as is done in this research, multilevel models control for two sources of error; measurement and sampling. Such models are referred to as doubly latent (Marsh et al., 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 474,
+                        "end": 493,
+                        "text": "Marsh et al., 2009)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1026,
+                        "end": 1046,
+                        "text": "(Marsh et al., 2009)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Multi-level modeling",
+                "sec_num": "8.4.1."
+            },
+            {
+                "text": "To test the hypothesis that school achievement contexts in math and English would be more differentiated in themed schools (Hypothesis 1), and that the proposed compensatory effect would be apparent in themed but not in traditional schools (Hypothesis 3), we used a multi-group approach to data analysis. In this case, a model where parameters of interest for both school types were constrained to be equal was first estimated. The fit of this model was then compared with a model in which parameters of interest to testing the hypotheses were free to take on different values for each school type. A chi-squared difference test was used to compare the fit of these models. In relation to missing data, which was small (<5%), a full-information-maximum-likelihood (or FIML) approach was used. FIML is useful, as it combines missing data and parameter estimation in a single step and uses all the available information (Enders, 2010) .",
+                "cite_spans": [
+                    {
+                        "start": 918,
+                        "end": 932,
+                        "text": "(Enders, 2010)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Missing data and multi-group analysis",
+                "sec_num": "8.4.2."
+            },
+            {
+                "text": "The three proposed hypotheses were tested sequentially using different sets of latent multi-level models. The hypothesis that math and English school average achievement are more differentiated in themed than in traditional schools was tested in a multilevel confirmatory factor analysis using a multi-group framework (see Appendix A for a description of multi-level CFA models). The second hypothesis was that both the I/E (Fig. 1: Model 1) and BFLPE models ( Fig. 1: Model 2a and 2b ) could be replicated in both school types. These models were submitted to the data using a multigroup approach. The final hypothesis was that a unified model would fit the data well and that a positive compensatory effect of school average achievement in one domain on self-concept in another domain would be significant. This hypothesis was tested by submitting the unified model of self-concept formation to the data using a multi-group approach (Fig. 1: Model 3) .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 424,
+                        "end": 441,
+                        "text": "(Fig. 1: Model 1)",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 461,
+                        "end": 484,
+                        "text": "Fig. 1: Model 2a and 2b",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 934,
+                        "end": 951,
+                        "text": "(Fig. 1: Model 3)",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": "9."
+            },
+            {
+                "text": "Hypothesis 1 was tested using a multilevel confirmatory factor analysis (hereafter MCFA; see Mehta & Neale, 2005) . MCFA tests the adequacy of hypothesized measurement structures purported to underlie the data at both student and school level (see Appendix A). Using a multi-group approach we first fitted a constrained model in which all parameters were held invariant across school type. The constrained model fitted the data well, indicating good construct validity of the instruments used to measure self-concept and achievement at both student and school level (c 2 [338] \u00bc 1036; CFI \u00bc .98; TLI \u00bc .98; RMSEA \u00bc .03). A model in which latent correlations between the achievement and self-concept were free to vary across school types however, provided a significantly better fitting model than the constrained model (see Table 2 ). This suggested that there were different patterns of relationships between achievement and self-concept in math and English in themed versus traditional schools (Table 3) . Supporting Hypothesis 1, the relationship between school average math and English achievement was r \u00bc .74 in the traditional schools but only r \u00bc .39 in the themed schools (p < .001). This indicates that math and English school average achievement were significantly more differentiated in themed than in traditional university track schools and that themed schools provided the conditions likely to give rise to a positive compensatory effectdshould such an effect exist. 9.2. Hypothesis 2: validity of the I/E and BFLPE models across school type 9.2.1. I/E model An I/E model was submitted to the data using a multi-group approach to test the hypothesis that the associations predicted by this model were significant in both themed and traditional schools. The I/E model is an individual level model, and thus the focus was on relationships between achievement and self-concept at the student level, with standard errors corrected for the nested nature of the data (see Muth\u00e9n & Satorra, 1995) . Confirming that the I/E model was valid across school types, a constrained model provided a good fit to the data (c 2 [119] \u00bc 40,236; CFI \u00bc .97; TLI \u00bc .97; RMSEA \u00bc .05) and supported expected relationships. A free model was also fitted in order to see if there were any differences between the school types in the strength of the I/E relationships. This model provided a significantly better fit to the data (see Table 2 ), indicating that differences were present in the relationships between self-concept and achievement for the traditional and themed schools (Table 4) . Supporting Hypothesis 2, results were similar in pattern and strongly supported I/E predictions in both traditional and themed schools. However, the parameter estimates were generally larger in traditional than in themed schools. In particular, individual math achievement predicted more positive math selfconcept (Traditional: B \u00bc 1.14, p < .001, ES \u00bc .85; Themed: B \u00bc 1.07, p < .001, ES \u00bc .77) but more negative English self-concept (Traditional: B \u00bc \u00c0.42, p < .001, ES \u00bc \u00c0.38; Themed: B \u00bc \u00c0.38, p < .001, ES \u00bc \u00c0.30). Likewise, English achievement predicted more positive English (Traditional: B \u00bc .82, p < .001, ES \u00bc .82; Themed: B \u00bc .81, p < .001, ES \u00bc .76) but predicted more negative math (Traditional: B \u00bc \u00c0.21, p < .001, ES \u00bc \u00c0.17; Themed: B \u00bc \u00c0.30, p < .001, ES \u00bc \u00c0.26) self-concepts. Taken together, however, the results were consistent with the I/E model, in which students' selfconcepts are in part formulated by the internal ranking of their performance in different subject areas (negative parameter estimates) and external evaluations of their performance against their peers (positive parameter estimates), regardless of school type.",
+                "cite_spans": [
+                    {
+                        "start": 93,
+                        "end": 113,
+                        "text": "Mehta & Neale, 2005)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 1980,
+                        "end": 2003,
+                        "text": "Muth\u00e9n & Satorra, 1995)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 824,
+                        "end": 831,
+                        "text": "Table 2",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 996,
+                        "end": 1005,
+                        "text": "(Table 3)",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 2419,
+                        "end": 2426,
+                        "text": "Table 2",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 2568,
+                        "end": 2577,
+                        "text": "(Table 4)",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Hypothesis 1: differential relationships for themed and traditional schools",
+                "sec_num": "9.1."
+            },
+            {
+                "text": "Models testing the BFLPE effect for the math (Model 2a) and English (Model 2b) domains separately were submitted to the data using a multi-group approach. The constrained model provided an excellent fit for the math model (c 2 [79] \u00bc 391; CFI \u00bc .98; TLI \u00bc .98; RMSEA \u00bc .03) and the English model (c 2 [77] \u00bc 250; CFI \u00bc .99; TLI \u00bc .99; RMSEA \u00bc .03). Models were then fitted to the data in which the parameter estimates were free to vary across school types. The chi-squared difference test for both Models 2a and 2b indicated that the free models provided significantly better fit to the data than the constrained model (see Table 2 ), indicating that some differences between the school types were present. As with the I/E model these differences reflected the strength of effects, rather than differences in the pattern of results. For math (Model 2a) the negative BFLPE was slightly weaker in the traditional (B \u00bc \u00c0.60, p < .001, ES1 \u00bc \u00c0.39, ES2 \u00bc \u00c0.24) than the themed (B \u00bc \u00c0.41, p < .001, ES1 \u00bc \u00c0.41, ES2 \u00bc \u00c0.30) schools. Likewise, for the English model the negative BFLPE was weaker in the traditional schools (B \u00bc \u00c0.41, p < .001, ES1 \u00bc \u00c0.18, ES2 \u00bc \u00c0.11) than in the themed (B \u00bc \u00c0.67, p < .001, ES1 \u00bc \u00c0.35, ES2 \u00bc \u00c0.23) schools. Taken together, however, these results were consistent with the hypotheses in indicating that higher school-average ability had a negative effect on student academic self-concept and that this contextual effect was present in both math and verbal domains, regardless of school type (Table 5) .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 624,
+                        "end": 631,
+                        "text": "Table 2",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 1515,
+                        "end": 1524,
+                        "text": "(Table 5)",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "BFLPE",
+                "sec_num": "9.2.2."
+            },
+            {
+                "text": "Analyses then tested a unified model of self-concept formation which integrated the I/E framework and the BFLPE (Fig. 1: Model 3 ). This integrative model was submitted to the data, where it provided a good fit to the data (c 2 [340] \u00bc 1051; CFI \u00bc .97; TLI \u00bc .97; RMSEA \u00bc .04). While the constrained model provided a good fit to the data, a model in which hypothesized parameter estimates of interest were free to take on different values in traditional and themed schools provided a significantly better fit to the data (see Table 2 ). The difference between the traditional and the themed school in relation to the traditional I/E and BFLPE effects was in relation to the size of the effects rather than the pattern of results, where results generally supported the hypotheses drawn from both theories, regardless of school type (see Table 6 ). Importantly, school average ability was only a negative predictor of student selfconcept in the same domaindindicating that the BFLPE is domain specific. This was the case for both school types. However, a difference in the pattern of results was observed for the effects of school average ability in one domain on self-concept in another domain. This relationship supported the proposed positive compensatory effect in themed schools for school average math achievement on English self-concept (B \u00bc .27, p < .01, ES1 \u00bc .15, ES2 \u00bc .10) and school average English achievement on math selfconcept (B \u00bc .73, p < .01, ES1 \u00bc .86, ES2 \u00bc .47). Consistently with Hypothesis 3, this compensatory effect was smaller and not statistically significant in the traditional schools (see Table 6 and Fig. 2) .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 112,
+                        "end": 128,
+                        "text": "(Fig. 1: Model 3",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 526,
+                        "end": 533,
+                        "text": "Table 2",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 836,
+                        "end": 843,
+                        "text": "Table 6",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 1619,
+                        "end": 1626,
+                        "text": "Table 6",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 1631,
+                        "end": 1638,
+                        "text": "Fig. 2)",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Hypothesis 3: testing an integrative model",
+                "sec_num": "9.3."
+            },
+            {
+                "text": "The current research found support for all three hypotheses (see Table 1 ). First, a multi-level CFA indicated that math and English school contexts were more differentiated in themed than in traditional schools. Second, while small differences in the size of the parameter estimates were observed across school type, the I/E model and the BFLPE were supported in both themed and traditional schools. Finally, the I/E and the BFLPE were integrated into a single unified model of self-concept formation, which was submitted to the data. This model fitted the data well and significant positive compensatory relationships between school average ability in one domain and selfconcept in another domain were observed in the themed schools but not in the traditional schools. The following discussion considers the implications of these results for theory and practice. ",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 65,
+                        "end": 72,
+                        "text": "Table 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "10."
+            },
+            {
+                "text": "Supporting our hypothesis, a good fit to the data was observed for the unified model of academic self-concept formation and parameter estimates were consistent with hypotheses. In particular, the results supported the domain specificity of the BFLPE. Such a result is important as it suggests that, when subject domain is pertinent to the research question or context being addressed in research, the BFLPE should be pursued from a domain specific rather than from a domain general perspective. In addition, evidence indicated that school average ability in different academic domains was more differentiated in themed than in traditional schools. It is suggested here that this differentiation provided the foundation for the significant effect from school average ability in one domain predicting more positive self-concept in another domain. These results indicate that self-concept is influenced by a complex set of psychological processes which are affected in multiple ways by the context in which students' self-evaluations take place (Skaalvik & Skaalvik, 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 1042,
+                        "end": 1069,
+                        "text": "(Skaalvik & Skaalvik, 2002)",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Integration of the I/E and BFLPE models of academic self-concept",
+                "sec_num": "10.1."
+            },
+            {
+                "text": "Previous research on the BFLPE has indicated that young people's self-beliefs are based not just on objective data but on their relative standing among salient groups of peers (see Marsh, 2007) . In integrating this well-established finding with the internal/ external frame of reference, the results indicate support for a unified model of self-concept formation. This model is important in indicating that both the I/E model and the BFLPE effect are special cases of an underlying model. Taking these results together, this unified model suggests that school context is central to selfconcept formation and affects how individuals compare themselves externally to their peers but also, indirectly, how they compare their ability internally across different domains (Skaalvik & Skaalvik, 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 181,
+                        "end": 193,
+                        "text": "Marsh, 2007)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 767,
+                        "end": 794,
+                        "text": "(Skaalvik & Skaalvik, 2002)",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Integration of the I/E and BFLPE models of academic self-concept",
+                "sec_num": "10.1."
+            },
+            {
+                "text": "The positive compensatory effect is not just important in supporting a unified model of self-concept formation but also has substantive implications in its own right. Previous research has indicated that the composition of a school has a number of implications for students' educational outcomes (Harker & Tymms, 2004) . For self-concept, school composition has typically been researched in relation to two competing effects; the BFLPE and the reflected glory effect (Dijkstra et al., 2008) . Such research has generally suggested that the negative BFLPE exerts a stronger influence on students' self-concept than the positive effect of being a member of a high achieving group (i.e., reflected glory). The current research, however, reveals a more complex, but also more positive, picture of the role of school composition on students' academic self-concepts. In particular, schools selection policies with a focus on a narrow area of excellence may undermine selfconcept in the domain that is their focus. However, unlike selection policies that focus on general academic excellence, themed school selection policies may also create conditions in which this negative effect is partially compensated for by boosting selfconcept in domains that are not the focus of the school. It is well known from educational motivation research that school policy and classroom culture affects students' self-beliefs (see Covington, 2000 for a review). Our research builds on this literature by suggesting that school selection policies also play an integral role in the intrapsychic life of students.",
+                "cite_spans": [
+                    {
+                        "start": 296,
+                        "end": 318,
+                        "text": "(Harker & Tymms, 2004)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 467,
+                        "end": 490,
+                        "text": "(Dijkstra et al., 2008)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1409,
+                        "end": 1424,
+                        "text": "Covington, 2000",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications of the positive compensatory effect",
+                "sec_num": "10.2."
+            },
+            {
+                "text": "Themed (or magnet) schools in both the United States and Germany are important in providing an alternative to university and as a means to promote university entry for disadvantaged youth (Giffin et al., 2007; K\u00f6ller et al., 2004) . Thus, the ability of these schools to promote psychological factors that are known to predict educational choices and university entry, is important. This point is particularly the case for self-concept, which has such a central role in predicting the educational and occupational choices that young people make (Eccles, 2009) . In the current research a moderate BFLPE was observed in themed schools. This raises important questions about the efficacy of themed schools as an educational policy. From this perspective these schools aim to provide a supportive context for students, to keep them in school and guide them toward university. To achieve this, the selection procedures used in such schools target students who have high achievement or interest in the school's focus. The BFLPE suggests that the nature of such a selection policy may have a negative effect on self-concept in the very domain that is the focus of the school. Thus, these selection procedures may be counterproductive in that they may have a negative effect on a variable known to be important for university entry and career pathways (Eccles, 2009; Marsh, 1991) .",
+                "cite_spans": [
+                    {
+                        "start": 188,
+                        "end": 209,
+                        "text": "(Giffin et al., 2007;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 210,
+                        "end": 230,
+                        "text": "K\u00f6ller et al., 2004)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 545,
+                        "end": 559,
+                        "text": "(Eccles, 2009)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1345,
+                        "end": 1359,
+                        "text": "(Eccles, 2009;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1360,
+                        "end": 1372,
+                        "text": "Marsh, 1991)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Practical implications",
+                "sec_num": "10.3."
+            },
+            {
+                "text": "Indeed, BFLPE research has similar implications for other educational policies. For example, research has raised important questions about whether selective schooling and mainstreaming of children with a disability may be counterproductive, given the BFLPE research has indicated that such education policies have negative effect on students' self-concept (Skaalvik & Skaalvik, 2002) . In contrast to concerns about selective schooling and mainstreaming, however, the current research suggests some important caveats for themed schools where the applied implications are not necessarily negative. First, without such institutions, themed school students would either attend vocational track schools, where it is more difficult to qualify for university (see Maaz, Trautwein, L\u00fcdtke, & Baumert, 2008) , or they would attend traditional university track schools. Given that students in themed schools have, on average, lower achievement than their traditional school peers, an intuitive hypothesis suggests that they would have greater exposure to a more uniformly negative BFLPE in traditional schools, which have high average ability across academic domains. Second, it is important to note that a compensatory effect of school average ability was observed in themed schools but not in traditional schools. This suggests that students in themed schools are exposed to a potential compensatory self-concept process of comparable strength to the BFLPE that was not present in traditional schools. While testing these applied implications was clearly outside the scope of this research, the support for the compensatory effect observed here provides one metric from which the efficacy of themed schools can be assessed.",
+                "cite_spans": [
+                    {
+                        "start": 356,
+                        "end": 383,
+                        "text": "(Skaalvik & Skaalvik, 2002)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 758,
+                        "end": 799,
+                        "text": "Maaz, Trautwein, L\u00fcdtke, & Baumert, 2008)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Practical implications",
+                "sec_num": "10.3."
+            },
+            {
+                "text": "The current research was focused on testing a set of hypotheses that were derived from considering the integration of the internal/ external frame of reference model and the big-fish-little-pond model. Strong evidence for a unified model was observed and substantive and applied implications were identified. Notwithstanding these strengths, several limitations of the study should be noted to guide interpretation of the results and to stimulate further research. First, while the current sample provided an important context for the current research, given that cross-cultural findings indicate that German students show among the highest BFLPE and I/E relationships (Marsh & Hau, 2003 , 2004 , the generalizability of the findings to other cultures needs to be considered. This is particularly the case in countries such as the United States, in which themed (or magnet) schools are also part of educational policy. Second, in the current research, English achievement and selfconcept represented students' proficiency and self-beliefs in a second language. Typically, the I/E model is tested using beliefs about native language proficiency. Nevertheless, M\u00f6ller, Streblow, Pohlmann, and K\u00f6ller (2006) have shown that the I/E model operates similarly for German youth whether German or English domains are compared to math self-concept. The I/E model theoretically applies to all components of verbal self-concept, including second languages, but also to other subjects, including geography, philosophy, and history. While the current research using a second language self-concept strongly supported the I/E model, further research replicating both the I/E and the unified model developed here with other components of verbal self-concept is needed. This limitation also applies to math self-concept where, for example, replication of the current results using science or engineering selfconcept is needed. Third, although students came from different school types (themed or traditional) they were all still in highly selective university tracks, which account for approximately the top third highest achieving students in the German secondary school population (Eurydice, 2010; Hillmert & Jacob, 2010) . While the results derived from the I/E and BFLPE models in this research were consistent with those observed in broader populations (see Marsh & Hau, 2003 , 2004 , the results of the unified model may have been different if a representative sample of the entire German secondary school system had been used. Fourth, the ability context of this study focused on schools. Most research on the BFLPE is done with school as the context of interest, and this choice of ability context is particularly pertinent to the German system. 2 Nevertheless, recent research suggests that a local dominance effect may be important for academic social comparisons. In particular, the relationship between average ability and self-concept may be stronger, the more proximal the context (Alicke, Zell, & Bloom, 2010) . Hence, analysis using school classes (where appropriate; see Footnote 2 ) or friendship group (where students choose their own comparison targets) represents an important extension of this research and of self-concept research in general. Finally, tests of causal relations predicted by the I/E, BFLPE, and the unified models 2 The level at which social comparison research occurs is an important concern in research. Research on the BFLPE typically has occurred at broad group level and thus differs from social psychological research, in which social comparison targets are often chosen by the participant and consist of a single individual. The reason for this is that the BFLPE is typically concerned with the effect of universal (e.g. schoolwide) comparison standards rather than more specific standards (Dijkstra et al., 2008) . Within BFLPE literature there is further differentiation between research that focuses on schools as the level of comparison and research that focuses on the classroom or stream. While the majority of research has been conducted at the school level, in some contexts class is more appropriate (e.g. Wong & Watkins, 2001) . In this respect, the appropriate level at which to conduct research is dependent on the context in which the data was collected. In Germany, ability stratification occurs at the school level, as compared to many other countries, in which stratification occurs within schools. Furthermore, students in upper secondary schools in Germany do not undertake classes with the same group of peers across all subjects. Thus, in the current German context, school rather than class provides the best level at which to conduct research.",
+                "cite_spans": [
+                    {
+                        "start": 669,
+                        "end": 687,
+                        "text": "(Marsh & Hau, 2003",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 688,
+                        "end": 694,
+                        "text": ", 2004",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1159,
+                        "end": 1204,
+                        "text": "M\u00f6ller, Streblow, Pohlmann, and K\u00f6ller (2006)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 2166,
+                        "end": 2182,
+                        "text": "(Eurydice, 2010;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 2183,
+                        "end": 2206,
+                        "text": "Hillmert & Jacob, 2010)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 2346,
+                        "end": 2363,
+                        "text": "Marsh & Hau, 2003",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 2364,
+                        "end": 2370,
+                        "text": ", 2004",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 2978,
+                        "end": 3007,
+                        "text": "(Alicke, Zell, & Bloom, 2010)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 3336,
+                        "end": 3337,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 3819,
+                        "end": 3842,
+                        "text": "(Dijkstra et al., 2008)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 4144,
+                        "end": 4165,
+                        "text": "Wong & Watkins, 2001)",
+                        "ref_id": "BIBREF56"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations and directions for further research",
+                "sec_num": "10.4."
+            },
+            {
+                "text": "were based on responses from a single wave of data. Thus, while the BFLPE and the I/E models have received causal support in previous research (see Marsh, 2007) , there is a need to consider their integration, as outlined by the unified model, from a longitudinal perspective.",
+                "cite_spans": [
+                    {
+                        "start": 148,
+                        "end": 160,
+                        "text": "Marsh, 2007)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations and directions for further research",
+                "sec_num": "10.4."
+            },
+            {
+                "text": "The current research tested a unified model of self-concept formation, bringing the BFLPE and I/E frameworks together into a single model. The model was submitted to data from a large sample of German university track students, utilizing recent advances in the testing of multilevel contextual effects. Findings suggested that themed schools were more differentiated in average ability in different subject domains than traditional schools. Further, strong support for the I/E model at the individual level, and domain specific negative relationships between school-average ability and students' level of self-concept (BFLPE) was found regardless of school type. The results support a single unified model, which integrates the I/E and BFLPE models and fits the data well. A positive compensatory effect that was theoretically implied by this unified model was significant in themed but not in traditional schools. Taken together, these results provide important initial evidence in favor of a unified model of academic self-concept as a parsimonious framework for future research. The current findings also have applied implications, including providing one potential metric for evaluating themed schools as an educational policy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": "10.5."
+            },
+            {
+                "text": "P.D. Parker et al. / Learning and Instruction 23 (2013) 78e89",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "We would like to thank the Jacob foundation's PATHWAYS to Adulthood program and the Ministry of Science, Research, and the Arts Baden-W\u00fcrttemberg, which funded this research. In addition we would like to thank the members of the PATHWAYS to Adulthood program, Felix Thoemmes, Marjorie Seaton, Arief Liem, and Susan Colmar for their helpful comments on the manuscript.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgments",
+                "sec_num": null
+            },
+            {
+                "text": "Supplementary data related to this article can be found online at http://dx.doi.org/10.1016/j.learninstruc.2012.07.001.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Appendix A. Supplementary material",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Mere categorization and the frog-pond effect",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Alicke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Zell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Bloom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Psychological Science",
+                "volume": "21",
+                "issue": "",
+                "pages": "174--177",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Alicke, M. D., Zell, E., & Bloom, D. L. (2010). Mere categorization and the frog-pond effect. Psychological Science, 21, 174e177.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Mathematische und naturwissenschaftliche grundbildung am ende der pflichtschulzeit [Third International Mathematics and Science StudydMath and science education at the end of the school career",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Bos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lehmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "TIMSS/III. Dritte internationale mathematik und naturwissenschaftsstudiee Mathematische und naturwissenschaftliche bildung am ende der schullaufbahn",
+                "volume": "1",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baumert, J., Bos, W., & Lehmann, R. (2000). TIMSS/III. Dritte internationale mathe- matik und naturwissenschaftsstudiee Mathematische und naturwissenschaftliche bildung am ende der schullaufbahn: Vol. 1. Mathematische und natur- wissenschaftliche grundbildung am ende der pflichtschulzeit [Third International Mathematics and Science StudydMath and science education at the end of the school career: Vol. 1. Mathematical and scientific literacy at the end of compulsory schooling]. Opladen: Leske & Budrich.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Interpersonal influences and educational aspirations in 12 countries: the importance of institutional context",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Buchmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Dalton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Sociology of Education",
+                "volume": "75",
+                "issue": "",
+                "pages": "99--122",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Buchmann, C., & Dalton, B. (2002). Interpersonal influences and educational aspi- rations in 12 countries: the importance of institutional context. Sociology of Education, 75, 99e122.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Creating a culture of academic success in an urban science and math magnet high school",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Buxton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Science Education",
+                "volume": "89",
+                "issue": "",
+                "pages": "392--417",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Buxton, C. A. (2005). Creating a culture of academic success in an urban science and math magnet high school. Science Education, 89, 392e417.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The economics of education",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Checchi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Checchi, D. (2006). The economics of education. Cambridge: Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Applied multiple regression/ correlation analysis for the behavioral sciences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Aiken",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "West",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cohen, J., Cohen, P., Aiken, L. S., & West, S. G. (2003). Applied multiple regression/ correlation analysis for the behavioral sciences. Mahwah, N.J.: Lawrence Erlbaum Associates.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Goal theory, motivation, and school achievement: an integrative review",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Covington",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Annual Review of Psychology",
+                "volume": "51",
+                "issue": "",
+                "pages": "171--200",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Covington, M. V. (2000). Goal theory, motivation, and school achievement: an integrative review. Annual Review of Psychology, 51, 171e200.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "The campus as a frog pond: an application of the theory of relative deprivation to career decisions of college men",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Davis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1966,
+                "venue": "American Journal of Sociology",
+                "volume": "72",
+                "issue": "",
+                "pages": "17--31",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Davis, J. (1966). The campus as a frog pond: an application of the theory of relative deprivation to career decisions of college men. American Journal of Sociology, 72, 17e31.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Social comparison in the classroom: a review",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Dijkstra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kuyper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Van Der Werf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Buunk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Van Der Zee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Review of Educational Research",
+                "volume": "78",
+                "issue": "",
+                "pages": "828--879",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dijkstra, P., Kuyper, H., van der Werf, G., Buunk, A. P., & van der Zee, Y. G. (2008). Social comparison in the classroom: a review. Review of Educational Research, 78, 828e879.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Parental background, secondary school track choice, and wages",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Dustmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Oxford Economic Papers",
+                "volume": "56",
+                "issue": "",
+                "pages": "209--230",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dustmann, C. (2004). Parental background, secondary school track choice, and wages. Oxford Economic Papers, 56, 209e230.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Who am I and what am I going to do with my life? Personal and collective identities as motivators of action",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Educational Psychologist",
+                "volume": "44",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S. (2009). Who am I and what am I going to do with my life? Personal and collective identities as motivators of action. Educational Psychologist, 44, 78e89. Educational Testing Service. (1997). TOEFL 1997 edition: Test and score manual. Princeton, NJ: Educational Testing Service.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Applied missing data analysis",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Enders",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Enders, C. (2010). Applied missing data analysis. New York: Guilford Press.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "The frog pond revisited: high school academic context, class rank, and elite college admission",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Espenshade",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Hale",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Chung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Sociology of Education",
+                "volume": "78",
+                "issue": "",
+                "pages": "269--293",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Espenshade, T. J., Hale, L. E., & Chung, C. Y. (2005). The frog pond revisited: high school academic context, class rank, and elite college admission. Sociology of Education, 78, 269e293.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Organisation of the education system in Germany",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Eurydice",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eurydice. (2010). Organisation of the education system in Germany. Brussels: Eurydice.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Student achievement in public magnet, public comprehensive, and private city high schools",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Gamoran",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Educational Evaluation and Policy Analysis",
+                "volume": "18",
+                "issue": "",
+                "pages": "1--18",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gamoran, A. (1996). Student achievement in public magnet, public comprehensive, and private city high schools. Educational Evaluation and Policy Analysis, 18, 1e18.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Those who left, those who stayed: exploring the educational opportunities of highachieving black and Latino students at magnet and nonmagnet Los Angeles high school",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Giffin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Allen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Kimura-Walsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Yamamura",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Educational Studies",
+                "volume": "",
+                "issue": "",
+                "pages": "229--247",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Giffin, K. A., Allen, W. R., Kimura-Walsh, E., & Yamamura, E. K. (2007). Those who left, those who stayed: exploring the educational opportunities of high- achieving black and Latino students at magnet and nonmagnet Los Angeles high school (2000e2001). Educational Studies, 42, 229e247.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Academic self-concept and educational attainment level: a ten-year longitudinal study",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Larose",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Boivin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Self and Identity",
+                "volume": "3",
+                "issue": "",
+                "pages": "53--68",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guay, F., Larose, S., & Boivin, M. (2004). Academic self-concept and educational attainment level: a ten-year longitudinal study. Self and Identity, 3, 53e68.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "The effects of student composition on school outcomes",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Harker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Tymms",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "School Effectiveness and School Improvement",
+                "volume": "15",
+                "issue": "",
+                "pages": "177--199",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harker, R., & Tymms, P. (2004). The effects of student composition on school outcomes. School Effectiveness and School Improvement, 15, 177e199.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Selections and social selectivity on the academic track: a life-course analysis of educational attainment in Germany",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Hillmert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jacob",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Research in Social Stratification and Mobility",
+                "volume": "28",
+                "issue": "",
+                "pages": "59--76",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hillmert, S., & Jacob, M. (2010). Selections and social selectivity on the academic track: a life-course analysis of educational attainment in Germany. Research in Social Stratification and Mobility, 28, 59e76.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Motivational interference in school-leisure conflict and learning outcomes: the differential effects of two value conceptions. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Hofer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Kuhnle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Kilian",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Marta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Fries",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "21",
+                "issue": "",
+                "pages": "301--316",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hofer, M., Kuhnle, C., Kilian, B., Marta, E., & Fries, S. (2011). Motivational interference in school-leisure conflict and learning outcomes: the differential effects of two value conceptions. Learning and Instruction, 21, 301e316.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Multilevel analysis: Techniques and applications",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hox",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hox, J. J. (2010). Multilevel analysis: Techniques and applications. East Sussex: Routledge.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Academic self-concepts in adolescence: relations with achievement and ability grouping in schools",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Ireson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Hallam",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Learning and Instruction",
+                "volume": "19",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ireson, J., & Hallam, S. (2009). Academic self-concepts in adolescence: relations with achievement and ability grouping in schools. Learning and Instruction, 19, 201e213.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Wege zur Hochschulreife in Baden-W\u00fcrttemberg. TOSCAdEine Untersuchung an allgemein bildenden und beruflichen Gymnasien",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Watermann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "K\u00f6ller, O., Watermann, R., Trautwein, U., & L\u00fcdtke, O. (2004). Wege zur Hoch- schulreife in Baden-W\u00fcrttemberg. TOSCAdEine Untersuchung an allgemein bil- denden und beruflichen Gymnasien [Educational pathways to college in Baden- W\u00fcrttemberg. TOSCAdA study at upper secondary level of traditional and voca- tional Gymnasium schools].",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Personal best goals and academic and social functioning: a longitudinal perspective",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Liem",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Ginns",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Martin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Stone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Herrett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Learning and Instruction",
+                "volume": "22",
+                "issue": "",
+                "pages": "222--230",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Liem, G. A., Ginns, P., Martin, A. J., Stone, B., & Herrett, M. (2012). Personal best goals and academic and social functioning: a longitudinal perspective. Learning and Instruction, 22, 222e230.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Educational transitions and differential learning environments: how explicit between-school tracking contributes to social inequality",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Maaz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "2",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Maaz, K., Trautwein, U., L\u00fcdtke, O., & Baumert, J. (2008). Educational transitions and differential learning environments: how explicit between-school tracking contributes to social inequality. Child Development Perspectives, 2, 99e106. Marsh, H. W. (1986). Verbal and math self-concepts: an internal/external frame of reference model. American Educational Research Journal, 23, 129e149.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Failure of high-ability high schools to deliver academic benefits commensurate with their students' ability levels",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "American Educational Research Journal",
+                "volume": "28",
+                "issue": "",
+                "pages": "445--480",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1991). Failure of high-ability high schools to deliver academic benefits commensurate with their students' ability levels. American Educational Research Journal, 28, 445e480.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Self-concept theory, measurement and research into practice: The role of self-concept in educational psychology",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. (2007). Self-concept theory, measurement and research into practice: The role of self-concept in educational psychology. Leicester, UK: British Psychological Society.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Big-fish-little-pond effect on academic self-concept: a cross-cultural (26-country) test of the negative effects of academically selective schools",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "American Psychologist",
+                "volume": "58",
+                "issue": "",
+                "pages": "364--376",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hau, K. (2003). Big-fish-little-pond effect on academic self-concept: a cross-cultural (26-country) test of the negative effects of academically selective schools. American Psychologist, 58, 364e376.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Explaining paradoxical relations between academic self-concepts and achievements: cross-cultural generalizability of the internal/ external frame of reference predictions across 26 countries",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Educational Psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "56--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hau, K. (2004). Explaining paradoxical relations between academic self-concepts and achievements: cross-cultural generalizability of the internal/ external frame of reference predictions across 26 countries. Journal of Educa- tional Psychology, 96, 56e67.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Reunification of East and West German school systems: longitudinal multilevel modeling study of the big-fishlittle-pond effect on academic self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "American Educational Research Journal",
+                "volume": "38",
+                "issue": "",
+                "pages": "321--350",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., K\u00f6ller, O., & Baumert, J. (2001). Reunification of East and West German school systems: longitudinal multilevel modeling study of the big-fish- little-pond effect on academic self-concept. American Educational Research Journal, 38, 321e350.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Doubly-latent models of school contextual effects: integrating multilevel and structural equation approaches to control measurement and sampling error",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Robitzsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Asparouhov",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Muthen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Multivariate Behavioral Research",
+                "volume": "44",
+                "issue": "",
+                "pages": "764--802",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., L\u00fcdtke, O., Robitzsch, A., Trautwein, U., Asparouhov, T., Muthen, B., et al. (2009). Doubly-latent models of school contextual effects: integrating multilevel and structural equation approaches to control measurement and sampling error. Multivariate Behavioral Research, 44, 764e802.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Big fish little pond effect: persistent negative effects of selective high schools on self-concept after graduation",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "American Educational Research Journal",
+                "volume": "44",
+                "issue": "",
+                "pages": "631--669",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Trautwein, U., L\u00fcdtke, O., Baumert, J., & K\u00f6ller, O. (2007). Big fish little pond effect: persistent negative effects of selective high schools on self-concept after graduation. American Educational Research Journal, 44, 631e669.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "People are variables too: multilevel structural equations modeling",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Mehta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Neale",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Psychological Methods",
+                "volume": "10",
+                "issue": "",
+                "pages": "259--284",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mehta, P. D., & Neale, M. C. (2005). People are variables too: multilevel structural equations modeling. Psychological Methods, 10, 259e284.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Internal comparisons in everyday life",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Husemann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Educational Psychology",
+                "volume": "98",
+                "issue": "",
+                "pages": "342--353",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & Husemann, N. (2006). Internal comparisons in everyday life. Journal of Educational Psychology, 98, 342e353.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Frame of reference effects following the announcement of exam results",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "26",
+                "issue": "",
+                "pages": "277--287",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & K\u00f6ller, O. (2001). Frame of reference effects following the announce- ment of exam results. Contemporary Educational Psychology, 26, 277e287.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Review of Educational Research",
+                "volume": "79",
+                "issue": "",
+                "pages": "1129--1167",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Pohlmann, B., K\u00f6ller, O., & Marsh, H. W. (2009). A meta-analytic path analysis of the internal/external frame of reference model of academic achieve- ment and academic self-concept. Review of Educational Research, 79, 1129e1167.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "The reciprocal internal/ external frame of reference model an integration of models of relations between academic achievement and self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "American Educational Research Journal",
+                "volume": "48",
+                "issue": "",
+                "pages": "1315--1346",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Retelsdorf, J., K\u00f6ller, O., & Marsh, H. W. (2011). The reciprocal internal/ external frame of reference model an integration of models of relations between academic achievement and self-concept. American Educational Research Journal, 48, 1315e1346.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "An extension to the internal/external frame of reference model to two verbal and numerical domains",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Streblow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "European Journal of Psychology of Education",
+                "volume": "4",
+                "issue": "",
+                "pages": "467--487",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Streblow, L., Pohlmann, B., & K\u00f6ller, O. (2006). An extension to the internal/external frame of reference model to two verbal and numerical domains. European Journal of Psychology of Education, 4, 467e487.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Complex sample data in structural equation modeling",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Satorra",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Sociological Methodology",
+                "volume": "",
+                "issue": "",
+                "pages": "267--316",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth\u00e9n, B. O., & Satorra, A. (1995). Complex sample data in structural equation modeling. Sociological Methodology, 25, 267e316.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Gendered high school course selection as a precursor of gendered careers: the mediating role of self-concept and intrinsic value",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Garrett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Cortina",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Gender and occupational outcomes: Longitudinal assessments of individual, social, and cultural influences",
+                "volume": "",
+                "issue": "",
+                "pages": "115--143",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nagy, G., Garrett, J., Trautwein, U., Cortina, K., Baumert, J., Eccles, J., et al. (2008). Gendered high school course selection as a precursor of gendered careers: the mediating role of self-concept and intrinsic value. In H. G. Watt, & J. S. Eccles (Eds.), Gender and occupational outcomes: Longitudinal assessments of individual, social, and cultural influences (pp. 115e143).",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Psychometrische Aspekte des Tests zu den voruniversit\u00e4ren Mathematikleistungen in TOSCA-2002 und TOSCA-2006: Unterrichtsvalidit\u00e4t, Rasch-Homogenit\u00e4t und Mess\u00e4quivalenz [Psychometric aspects of tests for pre-university performance in Mathematics in TOSCA-2002 and TOSCA-2006: educational validity",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Neumann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nagy, G., & Neumann, M. (2010). Psychometrische Aspekte des Tests zu den vor- universit\u00e4ren Mathematikleistungen in TOSCA-2002 und TOSCA-2006: Unter- richtsvalidit\u00e4t, Rasch-Homogenit\u00e4t und Mess\u00e4quivalenz [Psychometric aspects of tests for pre-university performance in Mathematics in TOSCA-2002 and TOSCA-2006: educational validity, Rasch-homogenity and measurement invariance].",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Schulleistungen von Abiturienten: Die neu geordnete gymnasiale Oberstufe auf dem Pr\u00fcfstand (pp. 281e306)",
+                "authors": [
+                    {
+                        "first": "In",
+                        "middle": [
+                            "U"
+                        ],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Neumann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "In U. Trautwein, M. Neumann, G. Nagy, O. L\u00fcdtke, & K. Maaz (Eds.), Schulleistungen von Abiturienten: Die neu geordnete gymnasiale Oberstufe auf dem Pr\u00fcfstand (pp. 281e306). Wiesbaden: VS-Verlag f\u00fcr Sozialwissenschaften.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Achievement, agency, gender, and socioeconomic background as predictors of postschool choices: a multicontext study",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Schoon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y.-I",
+                        "middle": [],
+                        "last": "Tsai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Developmental Psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Parker, P. D., Schoon, I., Tsai, Y.-I., Nagy, G., Trautwein, U., & Eccles, J. S. Achievement, agency, gender, and socioeconomic background as predictors of postschool choices: a multicontext study. Developmental Psychology, in press.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "A general multilevel SEM framework for assessing multilevel mediation",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Preacher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Zyphur",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Psychological Methods",
+                "volume": "15",
+                "issue": "",
+                "pages": "209--233",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Preacher, K., Zyphur, M., & Zhang, Z. (2010). A general multilevel SEM framework for assessing multilevel mediation. Psychological Methods, 15, 209e233.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Hierarchical linear models: Applications and data analysis methods",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Raudenbush",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Bryk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Raudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear models: Applications and data analysis methods. Thousand Oaks, CA: SAGE.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Entwicklung eines Instruments zur Erfassung des Selbstkonzepts junger Erwachsener",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Schwanzer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Sydow",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schwanzer, A., Trautwein, U., L\u00fcdtke, O., & Sydow, H. (2005). Entwicklung eines Instruments zur Erfassung des Selbstkonzepts junger Erwachsener [Development of an instrument to measure the self-concept of young adults].",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Self-concept: validation of construct interpretations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hubner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Stanton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Review of Educational Research",
+                "volume": "46",
+                "issue": "",
+                "pages": "407--441",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shavelson, R., Hubner, J., & Stanton, G. (1976). Self-concept: validation of construct interpretations. Review of Educational Research, 46, 407e441.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Internal and external frames of reference for academic self-concept",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Educational Psychologist",
+                "volume": "37",
+                "issue": "",
+                "pages": "233--244",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, M., & Skaalvik, S. (2002). Internal and external frames of reference for academic self-concept. Educational Psychologist, 37, 233e244.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Confidence: a better predictor of academic achievement than self-efficacy, self-concept and anxiety? Learning and Individual Differences",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Stankov",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Lou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hogan",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stankov, L., Lee, J., Lou, W., & Hogan, D. J. Confidence: a better predictor of academic achievement than self-efficacy, self-concept and anxiety? Learning and Indi- vidual Differences, in press.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "A selective history of classic and neo-social comparison theory",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Suls",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Wheeler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Handbook of social comparison: Theory and research (pp. 3e19)",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Suls, J., & Wheeler, L. (2000). A selective history of classic and neo-social compar- ison theory. In J. Suls, & L. Wheeler (Eds.), Handbook of social comparison: Theory and research (pp. 3e19). New York: Kluwer Academic/Plenum.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Athletic classmates, physical selfconcept, and free-time physical activity: a longitudinal study of frame of reference effects",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Gerlach",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Educational Psychology",
+                "volume": "100",
+                "issue": "",
+                "pages": "988--1001",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Trautwein, U., Gerlach, E., & L\u00fcdtke, O. (2008). Athletic classmates, physical self- concept, and free-time physical activity: a longitudinal study of frame of reference effects. Journal of Educational Psychology, 100, 988e1001.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Within-school social comparison: how students' perceived standing of their class predicts academic self-concept",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Educational Psychology",
+                "volume": "101",
+                "issue": "",
+                "pages": "853--866",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Trautwein, U., L\u00fcdtke, O., Marsh, H. W., & Nagy, G. (2009). Within-school social comparison: how students' perceived standing of their class predicts academic self-concept. Journal of Educational Psychology, 101, 853e866.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Schulleistungen von Abiturienten: Die neu geordnete gymnasiale Oberstufe auf dem Pr\u00fcfstand",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Neumann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Maaz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Trautwein, U., Neumann, M., Nagy, G., L\u00fcdtke, O., & Maaz, K. (2010). Schulleistungen von Abiturienten: Die neu geordnete gymnasiale Oberstufe auf dem Pr\u00fcfstand [School achievement of Abitur students: Evaluating the reform of upper secondary education].",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Self-esteem and ability grouping: a Hong Kong investigation of the big fish little pond effect",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "S W"
+                        ],
+                        "last": "Wong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Watkins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Educational Psychology",
+                "volume": "21",
+                "issue": "",
+                "pages": "78--87",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wong, M. S. W., & Watkins, D. A. (2001). Self-esteem and ability grouping: a Hong Kong investigation of the big fish little pond effect. Educational Psychology, 21, 78e87.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "The effect of tracking on the development of academic self-concept in high school: a dynamic test of the big-fish-little-pond effect",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Wouters",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "De Franine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Colpin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Van Damme",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Verschueren",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Journal of Educational Psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wouters, S., De Franine, B., Colpin, H., Van Damme, J., & Verschueren, K. The effect of tracking on the development of academic self-concept in high school: a dynamic test of the big-fish-little-pond effect. Journal of Educational Psychology, in press.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Models under investigation.",
+                "uris": null
+            },
+            "FIGREF1": {
+                "num": null,
+                "type_str": "figure",
+                "text": "",
+                "uris": null
+            },
+            "FIGREF2": {
+                "num": null,
+                "type_str": "figure",
+                "text": "A summary figure of the results for the integrative model by school type. Standardized parameter estimates are given for Level 1. ES1/ES2 given for school context effects (i.e. L2 e L1 coefficients from achievement to self-concept).",
+                "uris": null
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "Statistically significant differences in parameters for general and themed schools.Note. For c 2 degrees of freedom are represented in brackets. **p < .01, ***p < .001.",
+                "type_str": "table",
+                "content": "<table><tr><td>Model</td><td>c 2 (df)</td><td/><td/></tr><tr><td/><td>Constrained</td><td>Free</td><td>Difference</td></tr><tr><td>MCFA</td><td>1036 (338)</td><td>951 (326)</td><td>85 (12)***</td></tr><tr><td>Model 1: I/E</td><td>791 (166)</td><td>777 (162)</td><td>14 (4)**</td></tr><tr><td>Model 2a: BFLPE e English</td><td>250 (77)</td><td>231 (72)</td><td>19 (5)**</td></tr><tr><td>Model 2b: BFLPE e Math</td><td>391 (79)</td><td>363 (74)</td><td>28 (5)***</td></tr><tr><td>Model 3: Unified model</td><td>1051 (340)</td><td>951 (326)</td><td>100 (14)***</td></tr></table>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "ICC, Level 1, and Level 2 correlations of central research constructs.",
+                "type_str": "table",
+                "content": "<table><tr><td/><td>Math Ach</td><td>English Ach</td><td>Math SC</td><td>English SC</td></tr><tr><td>General</td><td/><td/><td/><td/></tr><tr><td>Math achievement</td><td>.03</td><td>.74</td><td>.92</td><td>.38</td></tr><tr><td>English achievement</td><td>.42</td><td>.01</td><td>.83</td><td>.68</td></tr><tr><td>Math self-concept</td><td>.79</td><td>.20</td><td>.05</td><td>.46</td></tr><tr><td>English self-concept</td><td>\u00c0.03</td><td>.65</td><td>\u00c0.16</td><td>.01</td></tr><tr><td>Themed</td><td/><td/><td/><td/></tr><tr><td>Math achievement</td><td>.10</td><td>.39</td><td>.78</td><td>\u00c0.54</td></tr><tr><td>English achievement</td><td>.36</td><td>.04</td><td>.52</td><td>.33</td></tr><tr><td>Math self-concept</td><td>.69</td><td>\u00c0.03</td><td>.04</td><td>\u00c0.31</td></tr><tr><td>English self-concept</td><td>\u00c0.04</td><td>.67</td><td>\u00c0.26</td><td>.01</td></tr></table>"
+            },
+            "TABREF2": {
+                "num": null,
+                "text": "BFLPE: Results for math and English domain.",
+                "type_str": "table",
+                "content": "<table><tr><td>General</td><td>Themed</td></tr></table>"
+            },
+            "TABREF3": {
+                "num": null,
+                "text": "",
+                "type_str": "table",
+                "content": "<table><tr><td colspan=\"2\">BFLP-CE model results.</td><td/><td/><td/></tr><tr><td colspan=\"2\">Predictors of SC General</td><td/><td>Themed</td><td/></tr><tr><td/><td>Math SC</td><td>Eng SC</td><td>Math SC</td><td>Eng SC</td></tr><tr><td>Participant level</td><td/><td/><td/><td/></tr><tr><td>Math Ach</td><td colspan=\"2\">1.11 (.05)*** \u00c0.39 (.03)***</td><td colspan=\"2\">1.04 (.07)*** \u00c0.38 (.04)***</td></tr><tr><td>Eng Ach</td><td>\u00c0.22 (.03)***</td><td colspan=\"2\">.85 (.03)*** \u00c0.39 (.04)***</td><td>.90 (.04)***</td></tr><tr><td>School level</td><td/><td/><td/><td/></tr><tr><td>Math Ach</td><td>\u00c0.81 (.23)***</td><td>.24 (.21)</td><td>\u00c0.62 (.12)***</td><td>.27 (.08)**</td></tr><tr><td>Eng Ach</td><td>.37 (.23)</td><td>\u00c0.34 (.21)</td><td>.73 (.25)**</td><td>\u00c0.72 (.18)***</td></tr><tr><td>Notes.</td><td/><td/><td/><td/></tr></table>"
+            },
+            "TABREF4": {
+                "num": null,
+                "text": "",
+                "type_str": "table",
+                "content": "<table><tr><td colspan=\"2\">I/E model results.</td><td/><td/><td/></tr><tr><td/><td>General</td><td/><td>Themed</td><td/></tr><tr><td/><td>Math SC</td><td>Eng SC</td><td>Math SC</td><td>Eng SC</td></tr><tr><td>Math Ach</td><td>1.14 (.06)***</td><td>\u00c0.42 (.03)***</td><td>1.07 (.07)***</td><td>\u00c0.38 (.05)***</td></tr><tr><td>Eng Ach</td><td>\u00c0.21 (.03)***</td><td>.82 (.03)***</td><td>\u00c0.30 (.04)***</td><td>.81 (.04)***</td></tr><tr><td colspan=\"5\">Notes. ***p &lt; .001. SC \u00bc self-concept, Ach \u00bc achievement. Unstandardized param-</td></tr><tr><td colspan=\"3\">eter estimates. Standard errors in brackets.</td><td/><td/></tr></table>"
+            }
+        }
+    }
+}

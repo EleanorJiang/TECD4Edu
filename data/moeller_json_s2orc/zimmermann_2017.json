@@ -1,0 +1,3456 @@
+{
+    "paper_id": "zimmermann_2017",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:55:48.435185Z"
+    },
+    "title": "When Students Doubt Their Teachers' Diagnostic Competence: Moderation in the Internal/External Frame of Reference Model",
+    "authors": [
+        {
+            "first": "Friederike",
+            "middle": [],
+            "last": "Zimmermann",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Kiel University",
+                "location": {}
+            },
+            "email": "zimmermann@psychologie.uni-kiel.de"
+        },
+        {
+            "first": "Jens",
+            "middle": [],
+            "last": "M\u00f6ller",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Kiel University",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Olaf",
+            "middle": [],
+            "last": "K\u00f6ller",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Frieder- Ike",
+            "middle": [],
+            "last": "Zimmermann",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Kiel University",
+                "location": {
+                    "addrLine": "Olshausenstrasse 75",
+                    "postCode": "24118",
+                    "settlement": "Kiel",
+                    "country": "Germany"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The internal/external frame of reference model (I/E model) posits that individuals' achievement-related self-concepts are formed through social comparisons (e.g., self vs. peers) within academic domains and dimensional comparisons (e.g., math vs. verbal) between distinct domains. A large body of research has supported the theorized pattern of positive within-domain and negative cross-domain effects of achievement on self-concept. However, research on moderators of these effects has been scarce. In this article, we report results from 2 samples of 7th graders (N sample1 \u03ed 1,045 and N sample2 \u03ed 1,966) in which we investigated whether students' perceptions of teachers' domain-specific competence in judging students' achievement moderated the relation between teacher-assigned grades and students' self-concepts in the I/E model. Structural equation modeling was used to estimate the I/E model, which also included teachers' perceived diagnostic competence in each domain (i.e., math and verbal) and 4 latent interaction variables derived from that competence and from school grades in both domains. Both studies found support for the predictions of the I/E model. The cross-domain effect on math self-concept was consistently moderated in both studies: The lower students perceived their teachers' competence in diagnosing math achievement, the stronger the negative path from verbal grade to math self-concept. Furthermore, the results tentatively imply that the positive within-domain effect of verbal grade on verbal self-concept is stronger when students' perceptions of teachers' diagnostic competence in judging verbal achievement are higher. The results extend knowledge on the conditions of academic self-concept formation and provide valuable insights into possible ramifications of teachers' judgment accuracy. Educational Impact and Implications Statement This study suggests that students' beliefs in their competence partly depend on their beliefs in their teachers' ability to judge the students' achievement correctly. That means, for example, when students perceive their teachers' competence in diagnosing verbal achievement to be high, verbal grades may more strongly impact students' verbal competence belief. Our results show in particular that, when students perceive their teachers' competence in diagnosing math achievement to be low, students' math self-concept is influenced more strongly by other sources than math grades, namely, by contrasting with verbal achievement. The results point out the importance of teachers' diagnostic competence.",
+    "pdf_parse": {
+        "paper_id": "zimmermann_2017",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The internal/external frame of reference model (I/E model) posits that individuals' achievement-related self-concepts are formed through social comparisons (e.g., self vs. peers) within academic domains and dimensional comparisons (e.g., math vs. verbal) between distinct domains. A large body of research has supported the theorized pattern of positive within-domain and negative cross-domain effects of achievement on self-concept. However, research on moderators of these effects has been scarce. In this article, we report results from 2 samples of 7th graders (N sample1 \u03ed 1,045 and N sample2 \u03ed 1,966) in which we investigated whether students' perceptions of teachers' domain-specific competence in judging students' achievement moderated the relation between teacher-assigned grades and students' self-concepts in the I/E model. Structural equation modeling was used to estimate the I/E model, which also included teachers' perceived diagnostic competence in each domain (i.e., math and verbal) and 4 latent interaction variables derived from that competence and from school grades in both domains. Both studies found support for the predictions of the I/E model. The cross-domain effect on math self-concept was consistently moderated in both studies: The lower students perceived their teachers' competence in diagnosing math achievement, the stronger the negative path from verbal grade to math self-concept. Furthermore, the results tentatively imply that the positive within-domain effect of verbal grade on verbal self-concept is stronger when students' perceptions of teachers' diagnostic competence in judging verbal achievement are higher. The results extend knowledge on the conditions of academic self-concept formation and provide valuable insights into possible ramifications of teachers' judgment accuracy. Educational Impact and Implications Statement This study suggests that students' beliefs in their competence partly depend on their beliefs in their teachers' ability to judge the students' achievement correctly. That means, for example, when students perceive their teachers' competence in diagnosing verbal achievement to be high, verbal grades may more strongly impact students' verbal competence belief. Our results show in particular that, when students perceive their teachers' competence in diagnosing math achievement to be low, students' math self-concept is influenced more strongly by other sources than math grades, namely, by contrasting with verbal achievement. The results point out the importance of teachers' diagnostic competence.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Students' perceptions of their own academic abilities are core elements of their identities and among the more important factors for their motivation and achievement (Valentine, DuBois, & Cooper, 2004 ). Self-concept features prominently in major theoretical accounts of motivational research, including expectancy-value the-ory (Eccles, 1983) , self-determination theory (Deci & Ryan, 2002) , and Pintrich's (2003) delineation of motivational science. Eccles (1983) , for example, proposed that academic self-concept is influenced by prior scholastic failure and success and plays a central role in the development of motivation and academic choice behavior. High academic self-concept is indeed associated with positive scholastic outcomes such as motivation and achievement (e.g., Valentine et al., 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 166,
+                        "end": 200,
+                        "text": "(Valentine, DuBois, & Cooper, 2004",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 329,
+                        "end": 343,
+                        "text": "(Eccles, 1983)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 372,
+                        "end": 391,
+                        "text": "(Deci & Ryan, 2002)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 398,
+                        "end": 415,
+                        "text": "Pintrich's (2003)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 453,
+                        "end": 466,
+                        "text": "Eccles (1983)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 784,
+                        "end": 807,
+                        "text": "Valentine et al., 2004)",
+                        "ref_id": "BIBREF62"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Scholars from various theoretical approaches have emphasized that academic self-concept is affected by students' achievement, possibly through comparison processes (Marsh, 1986; Marsh & Craven, 2006; M\u00f6ller & Marsh, 2013; Mussweiler, R\u00fcter, & Epstude, 2006; Suls & Wheeler, 2000) . Two of the more prominent in explaining the formation of self-concept are social and dimensional comparisons. Social comparisons use others as a standard for evaluating oneself, whereas dimensional comparisons involve using one's own achievements in other domains as the standard for evaluation (Biernat & Eidelman, 2007; Eccles, 2009; Festinger, 1954) . In his internal/external frame of reference model (I/E model), Marsh (1986) described the juxtaposition of social and dimensional comparisons and their impact on an individual's domain-specific academic self-concepts. The I/E model is quite popular in research on self-concept development. In their metaanalysis on 69 studies, M\u00f6ller, Pohlmann, K\u00f6ller, and Marsh (2009) found strong support for the central assumptions of the I/E model. For example, the findings indicated that the effects of social and dimensional comparisons are not restricted to specific age groups, gender groups, or countries. The potential moderators investigated in the meta-analysis largely failed to explain the variance in effects between studies, which existed regarding the cross-domain effects in particular. It is interesting to note that there is little research explicitly investigating moderation to explain the variance in effects in the I/E model at the student level. The purpose of this study was to investigate the conditions under which the achievements of others and one's own achievements in different domains contribute to the formation of domain-specific academic self-concepts. To that end, we introduced into the I/E model students' perceptions of their teachers' competence to assess achievement as a potential moderator of the relationship between achievement and self-concept. The idea is that students who perceive the reliability of their teacher-assigned grades as low are less inclined to use social comparison information, which is based on these grades but, due to the need of other information sources, more strongly use dimensional comparison information. In the following sections, we first describe the social and dimensional comparison processes posited by the I/E model and second describe teachers' competence to diagnose achievement.",
+                "cite_spans": [
+                    {
+                        "start": 164,
+                        "end": 177,
+                        "text": "(Marsh, 1986;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 178,
+                        "end": 199,
+                        "text": "Marsh & Craven, 2006;",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 200,
+                        "end": 221,
+                        "text": "M\u00f6ller & Marsh, 2013;",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 222,
+                        "end": 257,
+                        "text": "Mussweiler, R\u00fcter, & Epstude, 2006;",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 258,
+                        "end": 279,
+                        "text": "Suls & Wheeler, 2000)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 577,
+                        "end": 603,
+                        "text": "(Biernat & Eidelman, 2007;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 604,
+                        "end": 617,
+                        "text": "Eccles, 2009;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 618,
+                        "end": 634,
+                        "text": "Festinger, 1954)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 700,
+                        "end": 712,
+                        "text": "Marsh (1986)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 964,
+                        "end": 1006,
+                        "text": "M\u00f6ller, Pohlmann, K\u00f6ller, and Marsh (2009)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The I/E model describes the joint operation of social and dimensional comparisons of students' achievements forming the students' self-concepts (Marsh, 1986) . Students conduct social comparisons by comparing their achievement with the achievement of their classmates. If students' verbal achievement is higher than that of classmates, their verbal self-concept is likely to be higher as well. Students conduct dimensional comparisons by comparing their achievement in a given subject with their own achievement in other subjects. For example, if students' verbal achievement is lower than their math achievement, verbal selfconcept will suffer and their math self-concept will benefit.",
+                "cite_spans": [
+                    {
+                        "start": 144,
+                        "end": 157,
+                        "text": "(Marsh, 1986)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Internal/External Frame of Reference Model",
+                "sec_num": null
+            },
+            {
+                "text": "In a meta-analysis of 69 studies on the I/E model, M\u00f6ller et al. (2009) determined that the average correlation between math and verbal achievement is both positive and strong (r \u03ed .67) and paradoxically much higher than the average correlation between math and verbal self-concept (r \u03ed .10). As a result of social comparisons, the two within-domain paths relating math achievement to math self-concept (\u2424 \u03ed .61) and verbal achievement to verbal self-concept (\u2424 \u03ed .49) were strong and positive as well. The results were the opposite for the two cross-domain paths from verbal achievement to math self-concept (\u2424 \u03ed \u03ea.27) and from mathematics achievement to verbal self-concept (\u2424 \u03ed \u03ea.21) as a result of dimensional comparisons. The juxtaposition of dimensional and social comparisons explains the paradoxical finding that self-concepts in different domains are only weakly correlated despite strongly correlated achievements.",
+                "cite_spans": [
+                    {
+                        "start": 51,
+                        "end": 71,
+                        "text": "M\u00f6ller et al. (2009)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Internal/External Frame of Reference Model",
+                "sec_num": null
+            },
+            {
+                "text": "Additional findings from longitudinal, experimental, and diary studies have further substantiated these findings (Marsh et al., 2014; M\u00f6ller & Husemann, 2006; M\u00f6ller & K\u00f6ller, 2001; Strickhouser & Zell, 2015) . However, moderators of the effects of social and dimensional comparisons have seldom been investigated. Insights into the conditions under which the comparison processes in the I/E model are particularly valid are therefore very limited.",
+                "cite_spans": [
+                    {
+                        "start": 113,
+                        "end": 133,
+                        "text": "(Marsh et al., 2014;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 134,
+                        "end": 158,
+                        "text": "M\u00f6ller & Husemann, 2006;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 159,
+                        "end": 181,
+                        "text": "M\u00f6ller & K\u00f6ller, 2001;",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 182,
+                        "end": 208,
+                        "text": "Strickhouser & Zell, 2015)",
+                        "ref_id": "BIBREF57"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Internal/External Frame of Reference Model",
+                "sec_num": null
+            },
+            {
+                "text": "The meta-analysis of M\u00f6ller et al. (2009) provides some evidence on moderation of effects in the I/E model. Age, gender, country of residence, and type of achievement and self-belief measures were considered as potential moderators in addition to sample size and year of publication of the included studies. Regarding the four path coefficients that are central to the evaluation of the I/E model, multigroup analyses revealed significant moderation of the positive within-domain paths by (a) the type of achievement measure (grades assigned by teachers vs. standardized tests) and (b) the type of self-belief measure (academic self-concept vs. self-efficacy). The only significant moderation regarding the negative cross-domain paths involved the path from math achievement to verbal self-concept, and this was due to the sample size of the data sets as a methodologically relevant moderator.",
+                "cite_spans": [
+                    {
+                        "start": 21,
+                        "end": 41,
+                        "text": "M\u00f6ller et al. (2009)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Internal/External Frame of Reference Model",
+                "sec_num": null
+            },
+            {
+                "text": "Little research has explicitly investigated moderators of paths in the I/E model. Skaalvik and Rankin (1992) found significant negative cross-domain paths among students who perceived their levels of math and verbal achievement to be substantially different; in a sample of students who perceived their math and verbal achievement to be relatively equal, these negative paths failed to reach significance. The group differences suggest that dimensional comparisons are moderated by students' perceived relationship between achievements in the contrasting domains. In a similar vein, students' theories about math and verbal abilities in general, that is, whether they believe that both are negatively interdependent or rather independent of each other, moderated dimensional comparisons (more consistently than did social comparisons; M\u00f6ller, Pohlmann, Streblow, & Kaufmann, 2002; M\u00f6ller, Streblow, & Pohlmann, 2006) : The cross-domain paths in the I/E model were more pronounced when students believed that verbal and math skills were rather distinct. Using an experimental research design, Helm, M\u00fcller-Kalthoff, Nagy, and M\u00f6ller (2016) demonstrated the causal effect of perceived subject similarity on domain-specific self-concepts: Lower perceived subject similarity led to stronger dimensional comparison effects than did higher perceived subject similarity. Steinmayr and Spinath (2015) introduced students' intelligence as a moderator of effects in the I/E model. A multigroup analysis with students assigned to two different groups by intelligence, using the median-split method, This document is copyrighted by the American Psychological Association or one of its allied publishers.",
+                "cite_spans": [
+                    {
+                        "start": 82,
+                        "end": 108,
+                        "text": "Skaalvik and Rankin (1992)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 835,
+                        "end": 880,
+                        "text": "M\u00f6ller, Pohlmann, Streblow, & Kaufmann, 2002;",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 881,
+                        "end": 916,
+                        "text": "M\u00f6ller, Streblow, & Pohlmann, 2006)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1092,
+                        "end": 1138,
+                        "text": "Helm, M\u00fcller-Kalthoff, Nagy, and M\u00f6ller (2016)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1364,
+                        "end": 1392,
+                        "text": "Steinmayr and Spinath (2015)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Internal/External Frame of Reference Model",
+                "sec_num": null
+            },
+            {
+                "text": "This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Internal/External Frame of Reference Model",
+                "sec_num": null
+            },
+            {
+                "text": "showed moderation regarding the cross-domain path from math achievement to verbal self-concept, which was stronger for highly compared with lowly intelligent students. The authors concluded that the importance students assign to their ability in math versus the verbal domain is related to their intelligence. To sum up, knowledge concerning moderators of the social and dimensional comparison effects is sparse. On the one hand, students' general perceptions of similarity or dissimilarity of math and verbal school subjects may play a role. On the other hand, students evaluate their own ability on the basis of their teachers' feedback, which is why perceived teacher characteristics such as their competence to diagnose achievement may also play a role. It is an open question what happens to the social and dimensional comparison effects when students doubt their teachers' feedback.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Internal/External Frame of Reference Model",
+                "sec_num": null
+            },
+            {
+                "text": "Teachers' judgments about students' achievements are a main source of information for students as they evaluate their academic achievement and draw conclusions about their academic abilities. Research on the I/E Model and beyond has underscored the role of teachers' assessments of achievement in students' self-related cognitions (M\u00f6ller et al., 2009; Zimmermann, Sch\u00fctte, Taskinen, & K\u00f6ller, 2013) . What are the consequences for students of teachers' accuracy in judging their achievement? Urhahne, Chao, Florineth, Luttenberger, and Paechter (2011) , for example, showed that misjudgment of students' mathematics achievement had consequences for the students' academic self-concept, expectations of success, and test anxiety. The social and dimensional comparison processes described in the I/E model may depend on the extent to which the feedback provided by grades from a teacher is perceived as a reliable and credible basis on which students can evaluate their own abilities. Social comparison theory (Festinger, 1954) posits that people strive to evaluate their abilities. The motivations for social comparisons may differ (Festinger, 1954) . People may be motivated to (a) evaluate their strengths and weaknesses accurately to gain an understanding of their behavioral effectiveness (Anderson & Lux, 2004; Mead, 1934; Ruble, Boggiano, Feldman, & Loebl, 1980) , (b) maintain their self-view or (c) enhance their self-image when comparing themselves with others (Tesser, 1988) , or (d) improve their abilities by learning from more accomplished students (Dijkstra, Kuyper, van der Werf, Buunk, & van der Zee, 2008). With social comparison theory setting the stage for the recently introduced dimensional comparison theory, M\u00f6ller and Marsh (2013) postulated that these motivations also apply to dimensional comparisons.",
+                "cite_spans": [
+                    {
+                        "start": 331,
+                        "end": 352,
+                        "text": "(M\u00f6ller et al., 2009;",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 353,
+                        "end": 399,
+                        "text": "Zimmermann, Sch\u00fctte, Taskinen, & K\u00f6ller, 2013)",
+                        "ref_id": "BIBREF68"
+                    },
+                    {
+                        "start": 493,
+                        "end": 552,
+                        "text": "Urhahne, Chao, Florineth, Luttenberger, and Paechter (2011)",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 1009,
+                        "end": 1026,
+                        "text": "(Festinger, 1954)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1132,
+                        "end": 1149,
+                        "text": "(Festinger, 1954)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1293,
+                        "end": 1315,
+                        "text": "(Anderson & Lux, 2004;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1316,
+                        "end": 1327,
+                        "text": "Mead, 1934;",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 1328,
+                        "end": 1368,
+                        "text": "Ruble, Boggiano, Feldman, & Loebl, 1980)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 1470,
+                        "end": 1484,
+                        "text": "(Tesser, 1988)",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 1731,
+                        "end": 1754,
+                        "text": "M\u00f6ller and Marsh (2013)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' Diagnostic Competence Concerning Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Whatever the initial motivation for self-evaluation, individuals need access to accurate and valid information if social and dimensional comparisons are to be meaningful. Interindividual differences in perceptions of a teacher's competence to assess student achievement should therefore be associated with the use of social comparisons based on the grades teachers assign to students. For example, students who perceive that their math teacher is not really capable of diagnosing their math achievement should be less inclined to use the grades that the teacher gives as a basis for evaluating their own skills in mathematics and be more inclined to use other sources to evaluate their ability. For example, students might turn to a comparison of their math and verbal achievement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' Diagnostic Competence Concerning Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "By and large, teachers' assessments of student achievement are fairly accurate. A meta-analysis of 73 effect sizes on teachers' judgment accuracy found an overall mean effect size of z r \u03ed .63 and a range between \u03ea.03 and 1.18 (S\u00fcdkamp, Kaiser, & M\u00f6ller, 2012) . Obviously, there is strong interindividual variance, as well as room for improvement in teachers' judgment accuracy (see also Helmke & Schrader, 1987; Hoge & Coladarci, 1989) . The interindividual variance in teachers' competence to diagnose achievement may be reflected in the teachers' diagnostic competence as perceived by the students or may be even greater given the subjectivity of their individual perceptions. How students subjectively perceive their teachers' competence in assessing achievement is a crucial factor in determining whether students will take into account the feedback they receive from their teachers. This study therefore focuses on students' perceptions of teachers' competence in assessing achievement, which reflects students' beliefs about the degree to which their subject teachers are capable of assessing their achievements. The question is whether differences in students' perceptions in this regard have consequences for their self-concepts.",
+                "cite_spans": [
+                    {
+                        "start": 227,
+                        "end": 260,
+                        "text": "(S\u00fcdkamp, Kaiser, & M\u00f6ller, 2012)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 389,
+                        "end": 413,
+                        "text": "Helmke & Schrader, 1987;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 414,
+                        "end": 437,
+                        "text": "Hoge & Coladarci, 1989)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' Diagnostic Competence Concerning Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "To sum up, although individuals may be motivated by different reasons to evaluate their abilities by comparing achievements between students or domains, they will in any case base their judgments on salient information they consider to be sufficiently reliable. Our study thus focuses on students' perceptions of teachers' diagnostic competence as a key moderator of those motivational processes. If students perceive a teacher to be competent to assess their performance in a given domain, one would expect the grades given by that teacher to contribute to the formation of their self-concept within that domain. Conversely, a lower level of perceived teacher competence should lead students to rely more on other sources in forming their self-concept. In particular, one would expect the achievement in another salient subject domain to become more predictive of self-concept.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' Diagnostic Competence Concerning Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Specifically, we hypothesized that a lower level of perceived diagnostic competence concerning math (verbal) achievement (a) weakens the effect of the math (verbal) grade on math (verbal) self-concept (social comparisons) and (b) strengthens the effect of the verbal (math) grade on math (verbal) self-concept in the I/E model (dimensional comparisons).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' Diagnostic Competence Concerning Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Participants of the main study (Sample 1) were N \u03ed 1,045 seventh graders (M age \u03ed 12.7 years, SD \u03ed .7; 50% female) in 55 classes from 10 urban schools or school centers covering the whole range of academic and vocational tracks of the segregated school system in Germany. They were the main cohort of the larger multicohort longitudinal project EIKA (Development and Implementation of a School-to-Work Transition Concept for Schools Serving Disadvantaged Communities). This project originally focused on the conditions and determinants of competencies among students from disadvantaged communities, which were drawn to represent an urban area that performed poorly in large-scale international student assessments. To make use of the possibility to This document is copyrighted by the American Psychological Association or one of its allied publishers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Samples and Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Samples and Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "replicate the study's main findings in a different sample (Sample 2), we used an independent sample of seventh graders from further cohorts of the same project (N \u03ed 1,966 from 87 classes; M age \u03ed 12.8 years, SD \u03ed .7; 48% female). The present article is based on self-reported data from seventh graders and on their report card grades from the end of Grade 6. The students' families were characterized by low to moderate socioeconomic status, based on the Highest International Socio-Economic Index of Occupational Status [HISEI] of the mother and father as reported by the parents (M \u03ed 39, SD \u03ed 14 in Sample 1 and M \u03ed 46, SD \u03ed 14 in Sample 2; on a scale from 16 to 90, with higher scores indicating higher socioeconomic status; Ganzeboom & Treiman, 1996 ; M HISEI \u03ed 49, SD \u03ed 16, for countries in the Organisation for Economic Co-operation and Development; Klieme et al., 2010) . About 50% of the samples comprised students with an immigration background (defined by whether at least one of the parents or the child was not born in Germany), according to the country of birth reported by the parents (or by the children if parents' reports were not available).",
+                "cite_spans": [
+                    {
+                        "start": 728,
+                        "end": 753,
+                        "text": "Ganzeboom & Treiman, 1996",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 856,
+                        "end": 876,
+                        "text": "Klieme et al., 2010)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Samples and Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Mathematics achievement (MACH) and verbal achievement (VACH) were assessed by means of students' school grades in mathematics and German. That information was collected from students' report cards at the end of Grade 6. The German grading system includes grades from outstanding (1) to fail (6). To facilitate the interpretation of results, we reverse-coded school grades so that higher scores reflected better outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Students' ratings were collected in the middle of Grade 7. Domain-specific mathematics self-concept (MSC) and verbal selfconcept (VSC) were defined in terms of students' general belief that they were doing well or poorly in that domain. Mathematics and verbal self-concepts were each measured by four items selected from previously developed scales (Jerusalem, 1984; Jopt, 1978) . Sample items include \"I am not particularly good in mathematics\" and \"Nobody's perfect. I am just not talented in German.\" Responses were rated on a 4-point scale ranging from 1 (agree) to 4 (disagree), with higher scores indicating a more favorable self-concept. Reliabilities were good; Students' perceptions of their teachers' diagnostic competence concerning mathematics achievement (PDC-MACH) and verbal achievement (PDC-VACH) were assessed using a five-item scale developed in the course of the BIJU study (Learning Processes, Educational Careers, and Psychosocial Development in Adolescence and Young Adulthood; Baumert, Gruehn, Heyn, K\u00f6ller, & Schnabel, 1997 ; partially based on Fend & Specht, 1986) . The items were \"Our math [German] teacher . . .\" \". . . knows exactly how each of us performs,\" \". . . notices immediately if one does not understand something,\" \". . . knows immediately which tasks are difficult for us,\" \". . . knows immediately what one has not understood,\" and \". . . notices immediately when a student cannot keep up in class.\" Responses were rated on a 4-point scale ranging from 1 (agree) to 4 (disagree). To facilitate the interpretation of results, we reverse-coded the items so that higher scores represented greater perceived competence. Reliabilities were good; Furthermore, we conducted a series of multigroup confirmatory factor models of ascending restrictiveness in each of the two samples to test for the scales' measurement invariance across different school tracks (e.g., Meredith & Teresi, 2006; Steinmetz, Schmidt, Tina-Booh, Wieczorek, & Schwartz, 2009) . According to the recommended criteria of differences in CFI \u03fd .01 and RMSEA \u03fd .015 (Chen, 2007; Cheung & Rensvold, 2002) , the model assuming metric measurement invariance fit the data equally as well as did the least restrictive baseline model of configural measurement invariance (Sample 1: \u232cCFI \u03ed .001, \u232cRMSEA \u03ed .001; Sample 2: \u232cCFI \u03ed .000 and \u232cRMSEA \u03ed .002), and the more restrictive model of scalar measurement invariance fit equally as well as did the model assuming metric measurement invariance (Sample 1: \u232cCFI \u03ed .003, \u232cRMSEA \u03ed .000; Sample 2: \u232cCFI \u03ed .002, \u232cRMSEA \u03ed .001). The well-fitting measurement models, which functioned equally well in different school tracks, prove the scales' factorial validity and support the comparability regarding their meaning across academic and nonacademic track schools. Moreover, although small to moderate associations are plausible, students should not merely state that a teacher is not competent to diagnose achievement just because they feel unjustly treated or simply do not like the teacher. Correlations in the sample of seventh graders from the BIJU study show that the latent factor of perceived teachers' diagnostic competence concerning math achievement is positively related with but different from liking the teacher (\"I like our math teacher very much\", Baumert et al., 1997 ; n \u03ed 5,420; r \u03ed .45, p \u0545 .001) and feelings of justice concerning the given grades (\"Our math teacher assigns grades fairly\", Baumert et al., 1997 ; n \u03ed 5,821; r \u03ed .28, p \u0545 .001), which supports the validity of the construct. In addition, factor analyses from prior research using the perceived teachers' diagnostic competence scales regarding math, physics, and biology from the BIJU study support that students differentiate between the different subjects when judging their teachers' diagnostic competences rather than that their judgments are a result of individual perceptual biases (Gruehn, 2000) .",
+                "cite_spans": [
+                    {
+                        "start": 349,
+                        "end": 366,
+                        "text": "(Jerusalem, 1984;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 367,
+                        "end": 378,
+                        "text": "Jopt, 1978)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1000,
+                        "end": 1047,
+                        "text": "Baumert, Gruehn, Heyn, K\u00f6ller, & Schnabel, 1997",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1069,
+                        "end": 1089,
+                        "text": "Fend & Specht, 1986)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1899,
+                        "end": 1923,
+                        "text": "Meredith & Teresi, 2006;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1924,
+                        "end": 1983,
+                        "text": "Steinmetz, Schmidt, Tina-Booh, Wieczorek, & Schwartz, 2009)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 2069,
+                        "end": 2081,
+                        "text": "(Chen, 2007;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 2082,
+                        "end": 2106,
+                        "text": "Cheung & Rensvold, 2002)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 3299,
+                        "end": 3319,
+                        "text": "Baumert et al., 1997",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 3447,
+                        "end": 3467,
+                        "text": "Baumert et al., 1997",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 3909,
+                        "end": 3923,
+                        "text": "(Gruehn, 2000)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Structural equation modeling using robust maximum likelihood estimation was conducted with Mplus 7.0 (Muth\u00e9n & Muth\u00e9n, 2012) . All multi-item constructs (i.e., MSC, VSC, PDC-MACH, PDC-VACH) were specified as latent factors. For items of the same constructs across subjects, wording was identical except for the name of the subject. Thus, correlated uniqueness between indicators with the same wording was incorporated (Marsh, 1990) . Standard errors were adjusted for the nested structure of students within classes using the Mplus option \u03fdtype is complex\u03fe (Hox, 2002) . On average, 29%",
+                "cite_spans": [
+                    {
+                        "start": 101,
+                        "end": 124,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 2012)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 418,
+                        "end": 431,
+                        "text": "(Marsh, 1990)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 557,
+                        "end": 568,
+                        "text": "(Hox, 2002)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "This document is copyrighted by the American Psychological Association or one of its allied publishers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "of the data were missing from the model variables in Sample 1 and 25% in Sample 2. Missing values in each sample were addressed by multiple imputation (m \u03ed 10 data sets) based on the model's variables plus auxiliary variables (e.g., sex, immigration background, school track, general cognitive abilities, interest in math and German, selfesteem, interaction terms) in Mplus (Graham, 2009) . Moderation of paths in the I/E model was analyzed by including latent interaction variables between achievement and perceived diagnostic competence using the unconstrained approach (Marsh, Wen, & Hau, 2004) . This approach does not require constraints on the factor loadings of the product indicators. As Marsh et al. (2004) have shown, moreover, the unconstrained approach is preferable to constrained approaches when variables are nonnormally distributed. After centering the indicators, we formed cross products by multiplying indicators from the variables involved in a specific interaction. These products were then used as indicators of the latent product variables. Consistent with the unconstrained approach of Marsh et al. (2004) , the loadings of the product indicators were unconstrained. The errors of the product indicators that had a common component covaried. Means of the manifest first-order predictors (achievements) were zero because they had been centered, and means of the latent first-order predictors (perceived diagnostic competence) were fixed to zero; means of the latent product variables were equivalent to the covariance between the first-order variables (Steinmetz, Davidov, & Schmidt, 2011) . The latent product variables were entered into the model along with the first-order predictors. The latent and manifest exogenous variables as well as the latent dependent variables were allowed to correlate.",
+                "cite_spans": [
+                    {
+                        "start": 374,
+                        "end": 388,
+                        "text": "(Graham, 2009)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 572,
+                        "end": 597,
+                        "text": "(Marsh, Wen, & Hau, 2004)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 696,
+                        "end": 715,
+                        "text": "Marsh et al. (2004)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 1110,
+                        "end": 1129,
+                        "text": "Marsh et al. (2004)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 1575,
+                        "end": 1612,
+                        "text": "(Steinmetz, Davidov, & Schmidt, 2011)",
+                        "ref_id": "BIBREF55"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Descriptive statistics and correlations between the study variables are shown in Table 1 . Achievement in mathematics and German correlated positively, as expected, as did achievement and self-concept within each domain. Students' perceptions of teachers' diagnostic competence in mathematics correlated modestly with students' mathematics self-concept, whereas there was no such correlation in the verbal domain. Teachers' perceived diagnostic competence in mathematics and in the verbal domain correlated moderately with each other; each was uncorrelated with students' achievement.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 81,
+                        "end": 88,
+                        "text": "Table 1",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Sample 1",
+                "sec_num": null
+            },
+            {
+                "text": "The hypothesized moderated I/E model (see Figure 1 ) fit the data well, 2 (684) \u03ed 1,285.54, CFI \u03ed .96, TLI \u03ed .96, RMSEA \u03ed .03, SRMR \u03ed .03. Predictions of the I/E model were fully supported. Paths from achievement to the corresponding self-concept within a domain were positive, indicating social comparison effects; cross-domain paths were negative, indicating dimensional comparison effects. More important, regarding moderation, two of the four paths from the latent interaction variables were significant. The pattern of results shows that both cross-domain paths were significantly moderated, whereas the within-domain paths were not.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 42,
+                        "end": 50,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Sample 1",
+                "sec_num": null
+            },
+            {
+                "text": "Students' perceptions of their teachers' diagnostic competence for verbal achievement moderated the cross path from mathematics achievement to verbal self-concept. To describe the meaning of this moderation effect, Figure 2 shows the simple slopes for the regression of verbal self-concept on mathematics achievement within the I/E model at different levels of the moderator PDC-VACH: Math achievement contributed most strongly to verbal self-concept when teachers' diagnostic competence for verbal achievement was perceived to be low. The cross path from mathematics achievement to verbal self-concept was smaller the greater a teacher's competence for assessing verbal achievement was perceived to be.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 215,
+                        "end": 223,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Sample 1",
+                "sec_num": null
+            },
+            {
+                "text": "Similarly, perceptions of teachers' diagnostic competence concerning math achievement moderated the cross path from verbal achievement to math self-concept. To describe the meaning of this moderation effect, Figure 3 depicts the simple slopes for the regression of math self-concept on verbal achievement within the I/E model at different levels of the moderator PDC-MACH: Verbal achievement contributed most strongly to mathematics selfconcept when teachers' diagnostic competence for mathematics achievement was perceived to be low. The cross path from verbal achievement to mathematics self-concept fell in size with increases in teachers' perceived diagnostic competence for mathematics achievement. Thus, verbal patterns parallel math patterns, with one exception: The differences in the strength of the cross-domain path from verbal achievement were most pronounced for better verbal grades. That is, among students with good verbal grades, those who perceived their teacher's diagnostic competence in math to be low tended to have a worse math self-concept. Contrast effects appeared to be robust and independent of teachers' perceived diagnostic competence for those with comparatively worse verbal grades.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 208,
+                        "end": 216,
+                        "text": "Figure 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Sample 1",
+                "sec_num": null
+            },
+            {
+                "text": "Descriptive statistics and correlations between the study variables are shown in Table 2 . Achievement in mathematics and German correlated positively, as expected, as did achievement and self-concept within each domain. Students' perceptions of teachers' diagnostic competences were not significantly related to their self-concepts. Teachers' perceived diagnostic competence in mathematics and in the verbal domain correlated moderately with each other. Each were slightly negatively correlated with students' achievements in the cross-domain subjects; perceived diagnostic competence in the verbal domain correlated slightly negatively This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 81,
+                        "end": 88,
+                        "text": "Table 2",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Sample 2",
+                "sec_num": null
+            },
+            {
+                "text": "with verbal achievement, whereas the equivalent correlation in the domain of mathematics was not significant. The hypothesized moderated I/E model (see Figure 1 ) fit the data well, 2 (684) \u03ed 1,314.62, CFI \u03ed .98, TLI \u03ed .98, RMSEA \u03ed .02, SRMR \u03ed .02. Predictions of the I/E model were fully supported. Regarding moderation, two of the four paths from the latent interaction variables were significant. First, moderation of the within-domain path from verbal achievement to verbal selfconcept reached significance (which was in the same direction but did not reach significance in Sample 1). Second, the moderation of the cross-domain effect on math self-concept was replicated.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 152,
+                        "end": 160,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Sample 2",
+                "sec_num": null
+            },
+            {
+                "text": "Students' perceptions of their teachers' diagnostic competence for verbal achievement moderated the within path from verbal achievement to verbal self-concept. To describe the meaning of this moderation effect, Figure 4 shows the simple slopes for the regression of verbal self-concept on verbal achievement within the I/E model at different levels of the moderator PDC-VACH: Verbal achievement contributed most strongly to verbal self-concept when teachers' diagnostic competence for verbal achievement was perceived to be high. The within path from verbal achievement to verbal self-concept was smaller the lower a teacher's competence for assessing verbal achievement was perceived to be.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 211,
+                        "end": 219,
+                        "text": "Figure 4",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Sample 2",
+                "sec_num": null
+            },
+            {
+                "text": "Students' perceptions of teachers' diagnostic competence concerning math achievement moderated the cross path from verbal achievement to math self-concept. Figure 5 depicts the simple slopes for the regression of mathematics self-concept on verbal achievement within the I/E model at different levels of the moderator PDC-MACH, and shows virtually the same pattern as Figure  3 for Sample 1: Verbal achievement contributed stronger to mathematics self-concept the lower the perceived teachers' diagnostic competence was for mathematics achievement. Again, the differences were most pronounced for better verbal grades: Among students with good verbal grades, those who perceived their teacher's diagnostic competence in math to be low tended to have a worse math self-concept. Contrast effects appeared to be rather independent of teachers' perceived diagnostic competence for those with comparatively worse verbal grades.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 156,
+                        "end": 164,
+                        "text": "Figure 5",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 368,
+                        "end": 377,
+                        "text": "Figure  3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Sample 2",
+                "sec_num": null
+            },
+            {
+                "text": "Finally, the path from perceived teacher's diagnostic competence for math achievement to math self-concept, which we did not hypothesize a priori but which was significant in Sample 1, was replicated in Sample 2.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample 2",
+                "sec_num": null
+            },
+            {
+                "text": "Ample research has documented the replicability of effects in the I/E model (M\u00f6ller et al., 2009) . The aim of this study was to obtain a more comprehensive picture of conditions under which students' achievements contribute to the formation of academic self-concepts. To that end, we investigated moderation in the I/E model of paths within domains, which are posited to result from social comparison, and of paths across domains, which are posited to result from dimensional comparison (Marsh, 1986) . In accor- Figure 1 . Results for the internal/external frame of reference model, including the hypothesized moderating effects of perceived teachers' domain-specific diagnostic competence for Sample 1 (before the slashes) and Sample 2 (after the slashes). MACH (VACH) \u03ed math (verbal) achievement; MSC (VSC) \u03ed math (verbal) self-concept; PDC-MACH (PDC-VACH) \u03ed perceived teachers' diagnostic competence concerning math (verbal) achievement. Standardized path coefficients. The latent interaction variables are represented by the paths of two interacting variables converging at a dot. \u202b\u0621\u202c p \u0545 .05. \u202b\u0621\u0621\u202c p \u0545 .01. \u202b\u0621\u0621\u0621\u202c p \u0545 .001. This document is copyrighted by the American Psychological Association or one of its allied publishers.",
+                "cite_spans": [
+                    {
+                        "start": 76,
+                        "end": 97,
+                        "text": "(M\u00f6ller et al., 2009)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 488,
+                        "end": 501,
+                        "text": "(Marsh, 1986)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 514,
+                        "end": 522,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "dance with the theories of social and dimensional comparison (Festinger, 1954; M\u00f6ller & Marsh, 2013) , we examined as moderators students' perceptions of their teachers' competences in diagnosing their achievements. Drawing on two large samples, we consistently found that the cross-domain effect on math self-concept was moderated: The verbal grade related stronger to math self-concept the lower students perceived their teachers' competence in diagnosing math achievement. Furthermore, the results of our studies reasonably converge in that the within-domain effect of the verbal grade on verbal self-concept is stronger with higher perceived diagnostic competence for verbal achievement.",
+                "cite_spans": [
+                    {
+                        "start": 61,
+                        "end": 78,
+                        "text": "(Festinger, 1954;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 79,
+                        "end": 100,
+                        "text": "M\u00f6ller & Marsh, 2013)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The current study has shown that dimensional comparison effects, in particular the contrast effect on math self-concept when comparing verbal with math achievement, decreases when students believe that their math teacher is highly competent in diagnosing Cohen, West, & Aiken, 2003) . Units of the y-axis are in terms of standard deviation. Figure 3 . Moderation of the cross-domain effect on math self-concept (MSC) for Sample 1. Simple slopes for the influence of verbal achievement (VACH) on MSC at different levels of perceived teachers' diagnostic competence concerning math achievement (PDC-MACH) based on centered data (high \u03ed M \u03e9 1 SD, medium \u03ed M, low \u03ed M -1 SD; Cohen et al., 2003) . Units of the y-axis are in terms of standard deviation. Cohen et al., 2003) . Units of the y-axis are in terms of standard deviation. This document is copyrighted by the American Psychological Association or one of its allied publishers.",
+                "cite_spans": [
+                    {
+                        "start": 255,
+                        "end": 282,
+                        "text": "Cohen, West, & Aiken, 2003)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 671,
+                        "end": 690,
+                        "text": "Cohen et al., 2003)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 749,
+                        "end": 768,
+                        "text": "Cohen et al., 2003)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 341,
+                        "end": 349,
+                        "text": "Figure 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Moderation of Cross-Domain Paths in the I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Moderation of Cross-Domain Paths in the I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "achievement. The finding is as expected and suggests that verbal achievement is less important for the math self-concept when the teachers' diagnostic competence in math is believed to be high. Conversely, students' math self-concept tends to be particularly influenced by verbal achievement when students believe that their math teachers' diagnostic competence is low. Therefore, the effects of dimensional comparisons related to grades on domainspecific self-concept seem to be (at least in part) a consequence of a low level of trust in teachers' diagnostic competence. Accordingly, math teachers' perceived diagnostic competence is taken into account when students evaluate their abilities in math based on dimensional comparisons of achievements. In accordance with the predominantly self-serving nature of dimensional comparisons, students may exaggerate their abilities in a given domain by comparing them with worse grades in a contrasting domain (cf. . Our studies show that the math self-concept of those with worse verbal grades generally benefits from the contrast effect rather independently of their math teacher's perceived diagnostic competence. We have consistently found that students with better verbal grades suffer from negative contrasting effects on their math self-concept, particularly when they perceive their math teacher's diagnostic competence to be low: Students with good verbal grades tend to have a worse opinion of their math skills the less they trust their math teacher's competence in diagnosing achievement. Thus, students might give relatively more weight to other sources such as contrasting subject domains by means of dimensional comparison when they perceive their teacher's competence to assess achievement in the relevant domain to be low.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Moderation of Cross-Domain Paths in the I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "The within-domain effects, which are assumed to result from social comparison processes, were not consistently significantly moderated. The results of our studies tentatively imply that the perceived competence of teachers to diagnose achievement contributes to the degree that students incorporate their grades into their self-concepts in the verbal domain. To us, it is somewhat surprising that the moderation of the within-domain paths yielded only sparse results, which were even less pronounced over our studies than was the moderation of the cross-domain paths. We postulated that students' perceptions of their teachers' competence to diagnose achievement were a prerequisite for social comparisons based on grades given by teachers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Moderation of Within-Domain Paths in the I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "However, some reasons may explain the mostly nonsignificant within-domain paths in the I/E model. Social comparisons may be initiated immediately and almost automatically when achievement feedback is available for oneself and relevant others. For example, school grades are salient in the classroom when exam results are returned in a subject. Explicitly or implicitly, students surely attach great importance to their teachers' assessments of academic achievement as reflected in school grades. These teacher assessments are an important currency in school when it comes to decisions regarding students' further educational careers within and beyond school (Harlen, 2005) . The availability of information about school grades in a particular subject, along with the significance of grades in the corresponding subject, may result in relatively robust social comparisons even in the presence of doubts about their accuracy.",
+                "cite_spans": [
+                    {
+                        "start": 658,
+                        "end": 672,
+                        "text": "(Harlen, 2005)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Moderation of Within-Domain Paths in the I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "The less significant results regarding moderation of the withindomain paths are also more or less in line with findings from previous studies that have investigated moderation of within-and cross-domain paths in the I/E model at the student level. Skaalvik and Rankin (1992) did not report any moderation of the withindomain paths by students' perceived similarity of their math and verbal achievement. Nor was there evidence of a moderation of the social comparison processes within the I/E model by students' intelligence (Steinmayr & Spinath, 2015) . Finally, research by M\u00f6ller and colleagues yielded only inconsistent evidence for a moderation of social comparison processes by students' beliefs about the negative interdependency of math and verbal abilities (M\u00f6ller et al., 2002 .",
+                "cite_spans": [
+                    {
+                        "start": 248,
+                        "end": 274,
+                        "text": "Skaalvik and Rankin (1992)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 524,
+                        "end": 551,
+                        "text": "(Steinmayr & Spinath, 2015)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 765,
+                        "end": 785,
+                        "text": "(M\u00f6ller et al., 2002",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Moderation of Within-Domain Paths in the I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "To conclude, the perceived validity of school grades may encourage students to rely on this achievement feedback or, if perceived to be low, on achievement in other domains when evaluating themselves. Considering the bigger picture, it has to be kept in mind that these are only some aspects of the information that may flow into the formation of students' self-concepts. An exciting challenge for self-concept research is the fact that the various frames of reference and other sources of information for selfbeliefs are often in place simultaneously. For example, the total effect of an exam on domain-specific self-concept will depend on how a student weighs all these pieces of comparative information. Not surprisingly, the comparison processes (i.e., social, dimensional, temporal comparisons, and comparison with a criterion) and their interdependence (see, e.g., Wakslak, Nussbaum, Liberman, & Trope, 2008; Wilson & Ross, 2000; Zell & Alicke, 2009) as well as other sources of information for self-beliefs like the average class or school ability (Chmielewski, Dumont, & Trautwein, 2013; Marsh, 1987) , the reputation of the school (Marsh, Kong, & Hau, 2000) , socializers' feedback (Pohlmann, M\u00f6ller, & Streblow, 2004) , expectancy effects (Jussim & Harber, 2005) , and gender stereotypes (Watt & Eccles, 2008) continue Figure 5 . Moderation of the cross-domain effect on math self-concept (MSC) for Sample 2. Simple slopes for the influence of verbal achievement (VACH) on MSC at different levels of perceived teachers' diagnostic competence concerning math achievement (PDC-MACH) based on centered data (high \u03ed M \u03e9 1 SD, medium \u03ed M, low \u03ed M -1 SD; Cohen et al., 2003) . Units of the y-axis are in terms of standard deviation.",
+                "cite_spans": [
+                    {
+                        "start": 871,
+                        "end": 914,
+                        "text": "Wakslak, Nussbaum, Liberman, & Trope, 2008;",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 915,
+                        "end": 935,
+                        "text": "Wilson & Ross, 2000;",
+                        "ref_id": "BIBREF66"
+                    },
+                    {
+                        "start": 936,
+                        "end": 956,
+                        "text": "Zell & Alicke, 2009)",
+                        "ref_id": "BIBREF67"
+                    },
+                    {
+                        "start": 1055,
+                        "end": 1095,
+                        "text": "(Chmielewski, Dumont, & Trautwein, 2013;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1096,
+                        "end": 1108,
+                        "text": "Marsh, 1987)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1140,
+                        "end": 1166,
+                        "text": "(Marsh, Kong, & Hau, 2000)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1191,
+                        "end": 1227,
+                        "text": "(Pohlmann, M\u00f6ller, & Streblow, 2004)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 1249,
+                        "end": 1272,
+                        "text": "(Jussim & Harber, 2005)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1298,
+                        "end": 1319,
+                        "text": "(Watt & Eccles, 2008)",
+                        "ref_id": "BIBREF65"
+                    },
+                    {
+                        "start": 1659,
+                        "end": 1678,
+                        "text": "Cohen et al., 2003)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1329,
+                        "end": 1337,
+                        "text": "Figure 5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Moderation of Within-Domain Paths in the I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "This document is copyrighted by the American Psychological Association or one of its allied publishers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Moderation of Within-Domain Paths in the I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Moderation of Within-Domain Paths in the I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "to be the subject of empirical investigation and conceptual refinement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Moderation of Within-Domain Paths in the I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "When it comes to students' perceptions of their teachers' competence to assess achievement, there are clear overlaps between the mathematics and verbal domains. This is most likely due to personal characteristics of the students. Accordingly, the correlations between students' perceptions of the diagnostic competence of teachers from different subjects may be the result of a more general belief in teachers' diagnostic competence, independent of the specific teacher or domain. However, individuals' subjective experience-based on the lens through which they see the world-is crucial for their self-evaluation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' Perceived Diagnostic Competence Concerning Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Note also that the perceived teachers' diagnostic competences and the grades provided by the teachers in the same domain were mostly uncorrelated (with one exception of a small and even negative correlation in the verbal domain in Sample 2). This suggests that students rate their teachers' diagnostic competence in a given domain quite independently of their own achievement in that domain. So although students' assessments are probably influenced by their personal characteristics and beliefs and are thus by no means objective (which is neither to be expected nor necessary to be powerful), they are not biased in the sense that students with better school grades rate their teachers' diagnostic competence better.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' Perceived Diagnostic Competence Concerning Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "An additional finding from both studies is that when students perceive their math teachers to be highly competent to assess their math achievement, this is generally associated with a more favorable math self-concept. An adequate level of diagnostic competence concerning their students' achievements is regarded as necessary for teachers to conduct instruction that promotes individual learning progress (Hattie, 2009) . This also involves providing helpful individual feedback about performance level and knowledge gaps or to judge students' performance based on an individual frame of reference. Previous research in the domain of mathematics has shown that teachers' use of an individual frame of reference as perceived by students is positively associated with their self-concepts (L\u00fcdtke, K\u00f6ller, Marsh, & Trautwein, 2005) . It is therefore possible that students' math self-concepts are higher, the more they perceive that their math teachers judge achievement highly based on an individual frame of reference, which should be linked to their perception that the math teachers are highly competent in diagnosing math achievement. In contrast, this correlation was consistently nonsignificant in the verbal domain, perhaps because of the high level of heterogeneity of the verbal selfconcept (Arens & Jansen, 2016) .",
+                "cite_spans": [
+                    {
+                        "start": 405,
+                        "end": 419,
+                        "text": "(Hattie, 2009)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 786,
+                        "end": 828,
+                        "text": "(L\u00fcdtke, K\u00f6ller, Marsh, & Trautwein, 2005)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1298,
+                        "end": 1320,
+                        "text": "(Arens & Jansen, 2016)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' Perceived Diagnostic Competence Concerning Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Our results suggest that most students believe that their teachers are reasonably competent to diagnose achievements in their subjects (math and German). Meta-analyses of teachers' judgment accuracy support the students' perceptions (Hoge & Coladarci, 1989; S\u00fcdkamp et al., 2012) . Such objectively and perceived high diagnostic competences of teachers are desirable, because misjudgments may have detrimental consequences for students' self-concepts, emotions, and behavior (e.g., Urhahne et al., 2011; Zimmermann et al., 2013) . Supporting the development of an appropriate academic self-concept is in turn an important goal in education, given its implications for interest, academic behavior, and achievement (e.g., Eccles, 1983; Valentine et al., 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 233,
+                        "end": 257,
+                        "text": "(Hoge & Coladarci, 1989;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 258,
+                        "end": 279,
+                        "text": "S\u00fcdkamp et al., 2012)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 482,
+                        "end": 503,
+                        "text": "Urhahne et al., 2011;",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 504,
+                        "end": 528,
+                        "text": "Zimmermann et al., 2013)",
+                        "ref_id": "BIBREF68"
+                    },
+                    {
+                        "start": 720,
+                        "end": 733,
+                        "text": "Eccles, 1983;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 734,
+                        "end": 757,
+                        "text": "Valentine et al., 2004)",
+                        "ref_id": "BIBREF62"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Educational Implications",
+                "sec_num": null
+            },
+            {
+                "text": "The current research shows that the integration of students' verbal achievement into their verbal self-concept is somewhat reduced, whereas the distorting effect of dimensional comparison by incorporating verbal achievement into the math self-concept (M\u00f6ller & Marsh, 2013) is amplified by the perception that teachers are not well equipped to assess achievement. In contrast, when teachers are viewed as highly competent to diagnose performance, students are more likely to evaluate their abilities more accurately and less likely to exaggerate their strengths or weaknesses.",
+                "cite_spans": [
+                    {
+                        "start": 251,
+                        "end": 273,
+                        "text": "(M\u00f6ller & Marsh, 2013)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Educational Implications",
+                "sec_num": null
+            },
+            {
+                "text": "Teacher training should provide appropriate learning opportunities for prospective and practicing teachers. They should be given information about diagnosing achievement, possible sources of bias, strategies to minimize such biases, and providing appropriate achievement feedback to students.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Educational Implications",
+                "sec_num": null
+            },
+            {
+                "text": "Among the study's strengths are reasonably large sample sizes, with the power to detect interaction effects, and sophisticated statistical analyses using state-of-the-art latent modeling of interactions. However, it is not without certain limitations. The design of the studies is not truly longitudinal, which precludes the interpretation of results in terms of causal effects. The participants in our studies consisted of a comparatively high proportion of students with an immigration background and were on average from families with a low to moderate socioeconomic background. It is therefore an open question whether the results replicate to student samples with a different composition. Coefficients of the dimensional comparison paths in the I/E model were somewhat lower in these studies compared with those found on average in the meta-analysis by M\u00f6ller et al. (2009) . It is uncertain whether these relatively weak weights indicate the presence of moderators only in our particular samples or whether the phenomenon is more generally valid. A further issue, which the study leaves open for future research, is the generalizability of the results to different domains other than the verbal and mathematics domains. Moreover, it still appears puzzling to us that not all of the interactions yielded significant effects. The interaction effects found were not all replicated, and those significant were rather small. Although there is theoretical importance, it is therefore questionable whether these effects are of great importance, and the practical relevance is probably low. All in all, additional research is needed, and we hope to initiate future research to accumulate more substantial knowledge on the issue of conditions under which students' achievements contribute to the formation of academic self-concepts.",
+                "cite_spans": [
+                    {
+                        "start": 858,
+                        "end": 878,
+                        "text": "M\u00f6ller et al. (2009)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and Directions for Future Research",
+                "sec_num": null
+            },
+            {
+                "text": "The present research serves as one step toward deeper investigations into the moderation of effects in the course of selfconcept formation. Regarding further research on the moderation of effects in the I/E model, it would be interesting to examine student perceptions of teacher characteristics other This document is copyrighted by the American Psychological Association or one of its allied publishers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and Directions for Future Research",
+                "sec_num": null
+            },
+            {
+                "text": "This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and Directions for Future Research",
+                "sec_num": null
+            },
+            {
+                "text": "than the competence to diagnose achievement. For example, the relationships between teachers and students may impact on the relationships between grades and self-concepts. Imagine students who dislike their math teacher. They might disassociate themselves from the math grades, leading to a lower withindomain effect and a stronger cross-domain effect compared with those who like their math teacher. Another candidate for moderation of effects in the I/E model could be the belief in fairness of teacher-assigned grades. If grades are perceived as being assigned unjustly in class in a domain, this might lead to lower within-domain effects and stronger cross-domain effects. Because our additional analyses of data from the BIJU study indicate that there is a certain (small) amount of overlap between perceived teachers' competence to diagnose math achievement with liking of the math teacher and with feelings of justice regarding grade assignment in math, it would also be important to take into account intercorrelations of these variables within one moderation model to examine their unique contributions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and Directions for Future Research",
+                "sec_num": null
+            },
+            {
+                "text": "The present research expands the understanding of the conditions under which within-and cross-domain paths in the I/E model are valid. The results of our studies suggest that withinand cross-domain effects (specifically, the contribution of verbal grades to the math self-concept and also somewhat to the verbal self-concept) are contingent upon the students' perceptions of a teacher characteristic, namely, the competence to diagnose achievement in math or in the verbal domain. In addition, this study contributes to research on teachers' judgment accuracy concerning achievement by taking a closer look at how students' perceptions of their teachers' competence in this area relate to students' self-concept.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and Directions for Future Research",
+                "sec_num": null
+            },
+            {
+                "text": "MODERATION IN THE I/E MODEL",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "If you are interested in reviewing manuscripts for APA journals, the APA Publications and Communications Board would like to invite your participation. Manuscript reviewers are vital to the publications process. As a reviewer, you would gain valuable experience in publishing. The P&C Board is particularly interested in encouraging members of underrepresented groups to participate more in this process.If you are interested in reviewing manuscripts, please write APA Journals at Reviewers@apa.org. Please note the following important points:\u2022 To be selected as a reviewer, you must have published articles in peer-reviewed journals. The experience of publishing provides a reviewer with the basis for preparing a thorough, objective review.\u2022 To be selected, it is critical to be a regular reader of the five to six empirical journals that are most central to the area or journal for which you would like to review. Current knowledge of recently published research provides a reviewer with the knowledge base to evaluate a new submission within the context of existing research.\u2022 To select the appropriate reviewers for each manuscript, the editor needs detailed information. Please include with your letter your vita. In the letter, please identify which APA journal(s) you are interested in, and describe your area of expertise. Be as specific as possible. For example, \"social psychology\" is not sufficient-you would need to specify \"social cognition\" or \"attitude change\" as well.\u2022 Reviewing a manuscript takes time (1-4 hours per manuscript reviewed). If you are selected to review a manuscript, be prepared to invest the necessary time to evaluate the manuscript thoroughly.APA now has an online video course that provides guidance in reviewing manuscripts. To learn more about the course and to access the video, visit http://www.apa.org/pubs/authors/reviewmanuscript-ce-video.aspx.This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Members of Underrepresented Groups: Reviewers for Journal Manuscripts Wanted",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Knowing your own strength: Accurate self-assessment as a requirement for personal autonomy",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Lux",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Psychiatry, & Psychology",
+                "volume": "11",
+                "issue": "",
+                "pages": "279--294",
+                "other_ids": {
+                    "DOI": [
+                        "10.1353/ppp.2005.0003"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Anderson, J., & Lux, W. (2004). Knowing your own strength: Accurate self-assessment as a requirement for personal autonomy. Philosophy, Psychiatry, & Psychology, 11, 279 -294. http://dx.doi.org/10.1353/ppp .2005.0003",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Self-concepts in reading, writing, listening, and speaking: A multidimensional and hierarchical structure and its generalizability across native and foreign languages",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Arens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jansen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Journal of Educational Psychology",
+                "volume": "108",
+                "issue": "",
+                "pages": "646--664",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/edu0000081"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Arens, A. K., & Jansen, M. (2016). Self-concepts in reading, writing, listening, and speaking: A multidimensional and hierarchical structure and its generalizability across native and foreign languages. Journal of Educational Psychology, 108, 646 -664. http://dx.doi.org/10.1037/ edu0000081",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Bildungsverl\u00e4ufe und psychosoziale Entwicklung im Jugendalter (BIJU) Dokumentation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gruehn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Heyn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Schnabel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "1",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baumert, J., Gruehn, S., Heyn, S., K\u00f6ller, O., & Schnabel, K. (1997). Bildungsverl\u00e4ufe und psychosoziale Entwicklung im Jugendalter (BIJU) Dokumentation (Vol. 1) [Educational trajectories and psychosocial de- velopment in adolescence (BIJU) documentation].",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Social psychology: Handbook of basic principles",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Biernat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Eidelman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "308--333",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Biernat, M., & Eidelman, S. (2007). Standards. In A. W. Kruglanski & E. T. Higgins (Eds.), Social psychology: Handbook of basic principles (2nd ed., pp. 308 -333). New York, NY: Guilford Press.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Sensitivity of goodness of fit indexes to lack of measurement invariance",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Chen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Structural Equation Modeling",
+                "volume": "14",
+                "issue": "",
+                "pages": "464--504",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/10705510701301834"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Chen, F. F. (2007). Sensitivity of goodness of fit indexes to lack of measurement invariance. Structural Equation Modeling, 14, 464 -504. http://dx.doi.org/10.1080/10705510701301834",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Evaluating goodness-of-fit indexes for testing measurement invariance. Structural Equation Modeling",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Cheung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Rensvold",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "9",
+                "issue": "",
+                "pages": "233--255",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/S15328007SEM0902_5"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Cheung, G. W., & Rensvold, R. B. (2002). Evaluating goodness-of-fit indexes for testing measurement invariance. Structural Equation Mod- eling, 9, 233-255. http://dx.doi.org/10.1207/S15328007SEM0902_5",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Tracking effects depend on tracking type: An international comparison of students' mathematics self-concept",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Chmielewski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Dumont",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "American Educational Research Journal",
+                "volume": "50",
+                "issue": "",
+                "pages": "925--957",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0002831213489843"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Chmielewski, A. K., Dumont, H., & Trautwein, U. (2013). Tracking effects depend on tracking type: An international comparison of students' mathematics self-concept. American Educational Research Journal, 50, 925-957. http://dx.doi.org/10.3102/0002831213489843",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Applied multiple regression/correlation analysis for the behavioral sciences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "West",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Aiken",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2003). Applied multiple regression/correlation analysis for the behavioral sciences (3rd ed.).",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Handbook of self-determination research",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Deci, E. L., & Ryan, R. M. (Eds.). (2002). Handbook of self-determination research. New York, NY: The University of Rochester Press.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Social comparison in the classroom: A review",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Dijkstra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kuyper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Van Der Werf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Buunk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Van Der Zee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Review of Educational Research",
+                "volume": "78",
+                "issue": "",
+                "pages": "828--879",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0034654308321210"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Dijkstra, P., Kuyper, H., van der Werf, G., Buunk, A. P., & van der Zee, Y. G. (2008). Social comparison in the classroom: A review. Review of Educational Research, 78, 828 -879. http://dx.doi.org/10.3102/ 0034654308321210",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Expectancies, values, and academic behaviors",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Achievement and achievement motives",
+                "volume": "",
+                "issue": "",
+                "pages": "75--146",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S. (1983). Expectancies, values, and academic behaviors. In J. T. Spence (Ed.), Achievement and achievement motives (pp. 75-146). San Francisco, CA: Freeman.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Who am I and what am I going to do with my life? Personal and collective identities as motivators of action",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Educational Psychologist",
+                "volume": "44",
+                "issue": "",
+                "pages": "78--89",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/00461520902832368"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. (2009). Who am I and what am I going to do with my life? Personal and collective identities as motivators of action. Educational Psychologist, 44, 78 -89. http://dx.doi.org/10.1080/0046152090",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Erziehungsumwelten: Bericht aus dem Projekt",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Fend",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Specht",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fend, H., & Specht, W. (1986). Erziehungsumwelten: Bericht aus dem Projekt \"Entwicklung im Jugendalter\" [Educational environments: Re- port from the Development in Youth Age project]. Faculty of Social Sciences, University of Konstanz.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "A theory of social comparison processes",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Festinger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1954,
+                "venue": "Human Relations",
+                "volume": "7",
+                "issue": "",
+                "pages": "117--140",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/001872675400700202"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Festinger, L. (1954). A theory of social comparison processes. Human Relations, 7, 117-140. http://dx.doi.org/10.1177/001872675400700202",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Internationally comparable measures of occu-pational status for the 1988 international standard classification of occupations",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "B G"
+                        ],
+                        "last": "Ganzeboom",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Treiman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Social Science Research",
+                "volume": "25",
+                "issue": "",
+                "pages": "201--239",
+                "other_ids": {
+                    "DOI": [
+                        "10.1006/ssre.1996.0010"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Ganzeboom, H. B. G., & Treiman, D. J. (1996). Internationally comparable measures of occu-pational status for the 1988 international standard classification of occupations. Social Science Research, 25, 201-239. http://dx.doi.org/10.1006/ssre.1996.0010",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Missing data analysis: Making it work in the real world",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Graham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Annual Review of Psychology",
+                "volume": "60",
+                "issue": "",
+                "pages": "549--576",
+                "other_ids": {
+                    "DOI": [
+                        "10.1146/annurev.psych.58.110405.085530"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Graham, J. W. (2009). Missing data analysis: Making it work in the real world. Annual Review of Psychology, 60, 549 -576. http://dx.doi.org/10 .1146/annurev.psych.58.110405.085530",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Unterricht und schulisches Lernen: Sch\u00fcler als Quellen der Unterrichtsbeschreibung [Teaching and schooling: Students as sources of instruction description",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gruehn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gruehn, S. (2000). Unterricht und schulisches Lernen: Sch\u00fcler als Quellen der Unterrichtsbeschreibung [Teaching and schooling: Students as sources of instruction description].",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Trusting teachers' judgement: Research evidence of the reliability and validity of teachers' assessment used for summative purposes",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Harlen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Research Papers in Education",
+                "volume": "20",
+                "issue": "",
+                "pages": "245--270",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/02671520500193744"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Harlen, W. (2005). Trusting teachers' judgement: Research evidence of the reliability and validity of teachers' assessment used for summative purposes. Research Papers in Education, 20, 245-270. http://dx.doi.org/ 10.1080/02671520500193744",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Visible learning: A synthesis of over 800 meta-analyses relating to achievement",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hattie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hattie, J. (2009). Visible learning: A synthesis of over 800 meta-analyses relating to achievement. London, United Kingdom: Routledge.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Dimensional comparison theory: Perceived subject similarity impacts on students' self-concepts",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Helm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "M\u00fcller-Kalthoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "AERA Open",
+                "volume": "2",
+                "issue": "2",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/2332858416650624"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Helm, F., M\u00fcller-Kalthoff, H., Nagy, N., & M\u00f6ller, J. (2016). Dimensional comparison theory: Perceived subject similarity impacts on students' self-concepts. AERA Open, 2(2). doi:10.1177/2332858416650624",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Interactional effects of instructional quality and teacher judgement accuracy on achievement. Teaching and Teacher Education",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F.-W",
+                        "middle": [],
+                        "last": "Schrader",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "3",
+                "issue": "",
+                "pages": "90010--90012",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/0742-051X%2887%2990010-2"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Helmke, A., & Schrader, F.-W. (1987). Interactional effects of instructional quality and teacher judgement accuracy on achievement. Teaching and Teacher Education, 3, 91-98. http://dx.doi.org/10.1016/0742-051X(87) 90010-2",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Teacher-based judgments of academic achievement: A review of literature. Review of Educational Research",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Hoge",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Coladarci",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "59",
+                "issue": "",
+                "pages": "297--313",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/00346543059003297"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Hoge, R. D., & Coladarci, T. (1989). Teacher-based judgments of aca- demic achievement: A review of literature. Review of Educational Re- search, 59, 297-313. http://dx.doi.org/10.3102/00346543059003297",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Multilevel analysis techniques and applications",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hox",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hox, J. (2002). Multilevel analysis techniques and applications. Mahwah, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Selbstbezogene Kognitionen in schulischen Bezugsgruppen: Eine L\u00e4ngsschnittstudie [Self-related cognitions in school reference groups: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jerusalem",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jerusalem, M. (1984). Selbstbezogene Kognitionen in schulischen Bezugs- gruppen: Eine L\u00e4ngsschnittstudie [Self-related cognitions in school ref- erence groups: A longitudinal study].",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Selbstkonzept und Ursachenerkl\u00e4rung in der Schule",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Jopt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jopt, U. J. (1978). Selbstkonzept und Ursachenerkl\u00e4rung in der Schule [Self-concept and attribution at school].",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Jussim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harber",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Personality and Social Psychology Review",
+                "volume": "9",
+                "issue": "",
+                "pages": "131--155",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/s15327957pspr0902_3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controver- sies. Personality and Social Psychology Review, 9, 131-155. http://dx .doi.org/10.1207/s15327957pspr0902_3",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "PISA 2009: Bilanz nach einem Jahrzehnt",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Klieme",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Artelt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hartig",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Jude",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Prenzel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Klieme, E., Artelt, C., Hartig, J., Jude, N., K\u00f6ller, O., Prenzel, M., & Stanat, P. (Eds.). (2010). PISA 2009: Bilanz nach einem Jahrzehnt [PISA 2009: A decade in retrospect].",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Teacher frame of reference and the big-fish-little-pond effect",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "30",
+                "issue": "",
+                "pages": "263--285",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.cedpsych.2004.10.002"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "L\u00fcdtke, O., K\u00f6ller, O., Marsh, H. W., & Trautwein, U. (2005). Teacher frame of reference and the big-fish-little-pond effect. Contemporary Educational Psychology, 30, 263-285. http://dx.doi.org/10.1016/j .cedpsych.2004.10.002",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Verbal and math self-concepts: An internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/00028312023001129"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concepts: An internal/external frame of reference model. American Educational Research Journal, 23, 129 -149. http://dx.doi.org/10.3102/00028312023001129",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "The big-fish-little-pond effect on academic selfconcept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Journal of Educational Psychology",
+                "volume": "79",
+                "issue": "",
+                "pages": "280--295",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.79.3.280"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1987). The big-fish-little-pond effect on academic self- concept. Journal of Educational Psychology, 79, 280 -295. http://dx.doi .org/10.1037/0022-0663.79.3.280",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Influences of internal and external frames of reference on the formation of math and English self-concepts",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "107--116",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.82.1.107"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990). Influences of internal and external frames of refer- ence on the formation of math and English self-concepts. Journal of Educational Psychology, 82, 107-116. http://dx.doi.org/10.1037/0022- 0663.82.1.107",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Longitudinal multilevel models of the big-fish-little-pond effect on academic self-concept: Counterbalancing contrast and reflected-glory effects in Hong Kong schools",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "1",
+                "issue": "",
+                "pages": "337--349",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-3514.78.2.337"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Craven, R. G. (2006). Reciprocal effects of self-concept and performance from a multidimensional perspective: Beyond seduc- tive pleasure and unidimensional perspectives. Perspectives on Psycho- logical Science, 1, 133-163. http://dx.doi.org/10.1111/j.1745-6916.2006 .00010.x Marsh, H. W., Kong, C.-K., & Hau, K.-T. (2000). Longitudinal multilevel models of the big-fish-little-pond effect on academic self-concept: Counterbalancing contrast and reflected-glory effects in Hong Kong schools. Journal of Personality and Social Psychology, 78, 337-349. http://dx.doi.org/10.1037/0022-3514.78.2.337",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Dimensional comparison theory: An extension of the internal/external frame of reference effect on academic self-concept formation",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kuyper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seaton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J S"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abduljabbar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "39",
+                "issue": "",
+                "pages": "326--341",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.cedpsych.2014.08.003"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Kuyper, H., Seaton, M., Parker, P. D., Morin, A. J. S., M\u00f6ller, J., & Abduljabbar, A. S. (2014). Dimensional comparison theory: An extension of the internal/external frame of reference effect on academic self-concept formation. Contemporary Educational Psy- chology, 39, 326 -341. http://dx.doi.org/10.1016/j.cedpsych.2014.08 .003",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Structural equation models of latent interactions: Evaluation of alternative estimation strategies and indicator construction",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Wen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.-T",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Psychological Methods",
+                "volume": "9",
+                "issue": "",
+                "pages": "275--300",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/1082-989X.9.3.275"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Wen, Z., & Hau, K.-T. (2004). Structural equation models of latent interactions: Evaluation of alternative estimation strategies and indicator construction. Psychological Methods, 9, 275-300. http://dx.doi .org/10.1037/1082-989X.9.3.275",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Mind, self, and society",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Mead",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1934,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mead, G. H. (1934). Mind, self, and society. Chicago, IL: University of Chicago Press.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "An essay on measurement and factorial invariance",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Meredith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Teresi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Medical Care",
+                "volume": "",
+                "issue": "11",
+                "pages": "69--77",
+                "other_ids": {
+                    "DOI": [
+                        "10.1097/01.mlr.0000245438.73837.89"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Meredith, W., & Teresi, J. A. (2006). An essay on measurement and factorial invariance. Medical Care, 44(11, Suppl. 3), S69 -S77. http:// dx.doi.org/10.1097/01.mlr.0000245438.73837.89",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Internal comparisons in everyday life",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Husemann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Educational Psychology",
+                "volume": "98",
+                "issue": "",
+                "pages": "342--353",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.98.2.342"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & Husemann, N. (2006). Internal comparisons in everyday life. Journal of Educational Psychology, 98, 342-353. http://dx.doi.org/10 .1037/0022-0663.98.2.342",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Dimensional comparisons: An experimental approach to the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "826--835",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.93.4.826"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & K\u00f6ller, O. (2001). Dimensional comparisons: An experimen- tal approach to the internal/external frame of reference model. Journal of Educational Psychology, 93, 826 -835. http://dx.doi.org/10.1037/0022- 0663.93.4.826",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "A metaanalytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Review of Educational Research",
+                "volume": "79",
+                "issue": "",
+                "pages": "1129--1167",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0034654309337522"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Pohlmann, B., K\u00f6ller, O., & Marsh, H. W. (2009). A meta- analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept. Review of Educa- tional Research, 79, 1129 -1167. http://dx.doi.org/10.3102/00346",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Die Spezifit\u00e4t von Begabungs\u00fcberzeugungen als Determinante des verbalen und mathematischen Begabungsselbstkonzepts [Specificity of ability beliefs as a determinant of academic self-concepts",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Streblow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kaufmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+                "volume": "16",
+                "issue": "",
+                "pages": "87--97",
+                "other_ids": {
+                    "DOI": [
+                        "10.1024//1010-0652.16.2.87"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Pohlmann, B., Streblow, L., & Kaufmann, J. (2002). Die Spezifit\u00e4t von Begabungs\u00fcberzeugungen als Determinante des verbalen und mathematischen Begabungsselbstkonzepts [Specificity of ability beliefs as a determinant of academic self-concepts]. Zeitschrift f\u00fcr P\u00e4da- gogische Psychologie, 16, 87-97. http://dx.doi.org/10.1024//1010-0652 .16.2.87",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "The belief in a negative interdependence of math and verbal abilities as determinant of academic self-concepts",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Streblow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "76",
+                "issue": "",
+                "pages": "57--70",
+                "other_ids": {
+                    "DOI": [
+                        "10.1348/000709905X37451"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Streblow, L., & Pohlmann, B. (2006). The belief in a negative interdependence of math and verbal abilities as determinant of academic self-concepts. British Journal of Educational Psychology, 76, 57-70. http://dx.doi.org/10.1348/000709905X37451",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Dimensional comparison theory",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Psychological Review",
+                "volume": "120",
+                "issue": "",
+                "pages": "544--560",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0032459"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & Marsh, H. W. (2013). Dimensional comparison theory. Psychological Review, 120, 544 -560. http://dx.doi.org/10.1037/ a0032459",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "The why, who, and how of social comparison: A social-cognition perspective",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Mussweiler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "R\u00fcter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Epstude",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Social comparison and social psychology: Understanding cognition, intergroup relations, and culture",
+                "volume": "",
+                "issue": "",
+                "pages": "33--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mussweiler, T., R\u00fcter, K., & Epstude, K. (2006). The why, who, and how of social comparison: A social-cognition perspective. In S. Guimond (Ed.), Social comparison and social psychology: Understanding cogni- tion, intergroup relations, and culture (pp. 33-54). New York, NY: Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "A motivational science perspective on the role of student motivation in learning and teaching contexts",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Educational Psychology",
+                "volume": "95",
+                "issue": "",
+                "pages": "667--686",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.95.4.667"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Pintrich, P. R. (2003). A motivational science perspective on the role of student motivation in learning and teaching contexts. Journal of Edu- cational Psychology, 95, 667-686. http://dx.doi.org/10.1037/0022-0663 .95.4.667",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "On the benefit of dimensional comparisons",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Educational Psychology",
+                "volume": "101",
+                "issue": "",
+                "pages": "248--258",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0013151"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Pohlmann, B., & M\u00f6ller, J. (2009). On the benefit of dimensional com- parisons. Journal of Educational Psychology, 101, 248 -258. http://dx .doi.org/10.1037/a0013151",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Zur Fremdeinsch\u00e4tzung von Sch\u00fclerselbstkonzepten durch Lehrer und Mitsch\u00fcler [On students' self-concepts inferred by teachers and classmates",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Streblow",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+                "volume": "18",
+                "issue": "",
+                "pages": "157--169",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pohlmann, B., M\u00f6ller, J., & Streblow, L. (2004). Zur Fremdeinsch\u00e4tzung von Sch\u00fclerselbstkonzepten durch Lehrer und Mitsch\u00fcler [On students' self-concepts inferred by teachers and classmates]. Zeitschrift f\u00fcr P\u00e4da- gogische Psychologie, 18, 157-169.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Developmental analysis of the role of social comparison in selfevaluation",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Ruble",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Boggiano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Feldman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Loebl",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "Developmental Psychology",
+                "volume": "16",
+                "issue": "",
+                "pages": "105--115",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0012-1649.16.2.105"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Ruble, D. N., Boggiano, A. K., Feldman, N. S., & Loebl, J. H. (1980). Developmental analysis of the role of social comparison in self- evaluation. Developmental Psychology, 16, 105-115. http://dx.doi.org/ 10.1037/0012-1649.16.2.105",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Math and verbal achievement and self-concepts: Testing the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of Early Adolescence",
+                "volume": "12",
+                "issue": "",
+                "pages": "267--279",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0272431692012003003"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1992). Math and verbal achievement and self-concepts: Testing the internal/external frame of reference model. Journal of Early Adolescence, 12, 267-279. http://dx.doi.org/10.1177/ 0272431692012003003",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Intelligence as a potential moderator in the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Steinmayr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Spinath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Journal for Educational Research Online",
+                "volume": "7",
+                "issue": "",
+                "pages": "198--218",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Steinmayr, R., & Spinath, B. (2015). Intelligence as a potential moderator in the internal/external frame of reference model. Journal for Educa- tional Research Online, 7, 198 -218.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Three approaches to estimate latent interaction effects: Intention and perceived behavioral control in the theory of planned behavior",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Steinmetz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Davidov",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Schmidt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Methodological Innovations Online",
+                "volume": "6",
+                "issue": "",
+                "pages": "95--110",
+                "other_ids": {
+                    "DOI": [
+                        "10.4256/mio.2010.0030"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Steinmetz, H., Davidov, E., & Schmidt, P. (2011). Three approaches to estimate latent interaction effects: Intention and perceived behavioral control in the theory of planned behavior. Methodological Innovations Online, 6, 95-110. http://dx.doi.org/10.4256/mio.2010.0030",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Testing measurement invariance using multigroup CFA: Differences between educational groups in human values measurement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Steinmetz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Schmidt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Tina-Booh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Wieczorek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Schwartz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Quality & Quantity: International Journal of Methodology",
+                "volume": "43",
+                "issue": "",
+                "pages": "599--616",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/s11135-007-9143-x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Steinmetz, H., Schmidt, P., Tina-Booh, A., Wieczorek, S., & Schwartz, S. H. (2009). Testing measurement invariance using multigroup CFA: Differences between educational groups in human values measurement. Quality & Quantity: International Journal of Methodology, 43, 599 - 616. http://dx.doi.org/10.1007/s11135-007-9143-x",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Self-evaluative effects of dimensional and social comparison",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Strickhouser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Zell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Journal of Experimental Social Psychology",
+                "volume": "59",
+                "issue": "",
+                "pages": "60--66",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.jesp.2015.03.001"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Strickhouser, J. E., & Zell, E. (2015). Self-evaluative effects of dimen- sional and social comparison. Journal of Experimental Social Psychol- ogy, 59, 60 -66. http://dx.doi.org/10.1016/j.jesp.2015.03.001",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Accuracy of teachers' judgments of students' academic achievement: A meta-analysis",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "S\u00fcdkamp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kaiser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Educational Psychology",
+                "volume": "104",
+                "issue": "",
+                "pages": "743--762",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0027627"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "S\u00fcdkamp, A., Kaiser, J., & M\u00f6ller, J. (2012). Accuracy of teachers' judgments of students' academic achievement: A meta-analysis. Journal of Educational Psychology, 104, 743-762. http://dx.doi.org/10.1037/ a0027627",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "Handbook of social comparison: Theory and research",
+                "authors": [],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/978-1-4615-4237-7"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Suls, J., & Wheeler, L. (Eds.). (2000). Handbook of social comparison: Theory and research. http://dx.doi.org/10.1007/978-1-4615-4237-7",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "Toward a self-evaluation maintenance model of social behavior",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Tesser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Advances in Experimental Social Psychology",
+                "volume": "21",
+                "issue": "",
+                "pages": "181--227",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/S0065-2601%2808%2960227-0"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Tesser, A. (1988). Toward a self-evaluation maintenance model of social behavior. Advances in Experimental Social Psychology, 21, 181-227. http://dx.doi.org/10.1016/S0065-2601(08)60227-0",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "Academic self-concept, learning motivation, and test anxiety of the underestimated student",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Urhahne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.-H",
+                        "middle": [],
+                        "last": "Chao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Florineth",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Luttenberger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Paechter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "81",
+                "issue": "",
+                "pages": "161--177",
+                "other_ids": {
+                    "DOI": [
+                        "10.1348/000709910X504500"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Urhahne, D., Chao, S.-H., Florineth, M. L., Luttenberger, S., & Paechter, M. (2011). Academic self-concept, learning motivation, and test anxiety of the underestimated student. British Journal of Educational Psychol- ogy, 81, 161-177. http://dx.doi.org/10.1348/000709910X504500",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "The relation between self-beliefs and academic achievement: A meta-analytic review",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Valentine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Cooper",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Educational Psychologist",
+                "volume": "39",
+                "issue": "",
+                "pages": "111--133",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/s15326985ep3902_3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Valentine, J. C., DuBois, D. L., & Cooper, H. (2004). The relation between self-beliefs and academic achievement: A meta-analytic review. Educa- tional Psychologist, 39, 111-133. http://dx.doi.org/10.1207/s1532 6985ep3902_3",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "Representations of the self in the near and distant future",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Wakslak",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nussbaum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Liberman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Trope",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "95",
+                "issue": "",
+                "pages": "757--773",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0012939"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Wakslak, C. J., Nussbaum, S., Liberman, N., & Trope, Y. (2008). Repre- sentations of the self in the near and distant future. Journal of Person- ality and Social Psychology, 95, 757-773. http://dx.doi.org/10.1037/ a0012939",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.",
+                "links": null
+            },
+            "BIBREF65": {
+                "ref_id": "b65",
+                "title": "Gender and occupational outcomes: Longitudinal assessments of individual, social, and cultural influences",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M G"
+                        ],
+                        "last": "Watt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/11706-000"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Watt, H. M. G., & Eccles, J. S. (Eds.) (2008). Gender and occupational outcomes: Longitudinal assessments of individual, social, and cultural influences. http://dx.doi.org/10.1037/11706-000",
+                "links": null
+            },
+            "BIBREF66": {
+                "ref_id": "b66",
+                "title": "The frequency of temporal-self and social comparisons in people's personal appraisals",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Wilson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ross",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "78",
+                "issue": "",
+                "pages": "928--942",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-3514.78.5.928"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Wilson, A. E., & Ross, M. (2000). The frequency of temporal-self and social comparisons in people's personal appraisals. Journal of Personality and Social Psychology, 78, 928-942. http://dx.doi.org/10.1037/0022-3514.78.5.928",
+                "links": null
+            },
+            "BIBREF67": {
+                "ref_id": "b67",
+                "title": "Self-evaluative effects of temporal and social comparison",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Zell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Alicke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Experimental Social Psychology",
+                "volume": "45",
+                "issue": "",
+                "pages": "223--227",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.jesp.2008.09.007"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Zell, E., & Alicke, M. D. (2009). Self-evaluative effects of temporal and social comparison. Journal of Experimental Social Psychology, 45, 223-227. http://dx.doi.org/10.1016/j.jesp.2008.09.007",
+                "links": null
+            },
+            "BIBREF68": {
+                "ref_id": "b68",
+                "title": "Reciprocal effects between adolescent externalizing problems and measures of achievement",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Zimmermann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Sch\u00fctte",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Taskinen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Journal of Educational Psychology",
+                "volume": "105",
+                "issue": "",
+                "pages": "747--761",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0032793"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Zimmermann, F., Sch\u00fctte, K., Taskinen, P., & K\u00f6ller, O. (2013). Recip- rocal effects between adolescent externalizing problems and measures of achievement. Journal of Educational Psychology, 105, 747-761. http:// dx.doi.org/10.1037/a0032793",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Moderation of the cross-domain effect on verbal self-concept (VSC) for Sample 1. Simple slopes for the influence of math achievement (MACH) on VSC at different levels of perceived teachers' diagnostic competence concerning verbal achievement (PDC-VACH) based on centered data (high \u03ed M \u03e9 1 SD, medium \u03ed M, low \u03ed M -1 SD; Cohen,",
+                "uris": null
+            },
+            "FIGREF1": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Moderation of the within-domain effect on verbal self-concept (VSC) for Sample 2. Simple slopes for the influence of verbal achievement (VACH) on VSC at different levels of perceived teachers' diagnostic competence concerning verbal achievement (PDC-VACH) based on centered data (high \u03ed M \u03e9 1 SD, medium \u03ed M, low \u03ed M -1 SD;",
+                "uris": null
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "\u2423/McDonald's \u03ed .82/.85 (MSC) and .82/.86 (VSC): Sample 2: Cronbach's \u2423/McDonald's \u03ed .86/.86 (MSC) and .86/.85 (VSC). The measurement model for the self-concepts fit the data well; Sample 1: 2 (15) \u03ed 82.23, comparative fit index (CFI) \u03ed .97, Tucker-Lewis index (TLI) \u03ed .95, root-mean-square error of approximation (RMSEA) \u03ed .06, standardized root-meansquare residual (SRMR) \u03ed .04; Sample 2: 2 (15) \u03ed 51.93, CFI \u03ed .99, TLI \u03ed .99, RMSEA \u03ed .04, SRMR \u03ed .02.",
+                "type_str": "table",
+                "content": "<table><tr><td>Sample 1: Cron-</td></tr><tr><td>bach's</td></tr></table>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Sample 1: Cronbach's \u2423/McDonald's \u03ed .85/.85 (PDC-MACH) and .92/.91 (PDC-VACH); Sample 2: Cronbach's \u2423/McDonald's \u03ed .88/.88 (PDC-MACH) and .92/.91 (PDC-VACH). The measurement model for the perceived diagnostic competence scales fit the data well; Sample 1: 2 (29) \u03ed 108.87, CFI \u03ed .98, TLI \u03ed .97, RMSEA \u03ed .05, SRMR \u03ed .03; Sample 2: 2 (29) \u03ed 124.90, CFI \u03ed .99, TLI \u03ed .98, RMSEA \u03ed .04, SRMR \u03ed .02.",
+                "type_str": "table",
+                "content": "<table/>"
+            },
+            "TABREF2": {
+                "num": null,
+                "text": "Descriptives and Correlations for the Study Variables for Sample 1",
+                "type_str": "table",
+                "content": "<table><tr><td>Variable</td><td>M SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>1. MACH a</td><td>3.81 .97</td><td>-</td><td/><td/><td/><td/></tr><tr><td>2. VACH a</td><td>3.87 .85</td><td>.53 \u202b\u0621\u0621\u0621\u202c</td><td>-</td><td/><td/><td/></tr><tr><td>3. MSC</td><td>2.83 .87</td><td>.48 \u202b\u0621\u0621\u0621\u202c</td><td>.10</td><td>-</td><td/><td/></tr><tr><td>4. VSC</td><td>2.86 .81</td><td>.10 \u202b\u0621\u202c</td><td>.35 \u202b\u0621\u0621\u0621\u202c</td><td>.10</td><td>-</td><td/></tr><tr><td colspan=\"3\">5. PDC-MACH 3.03 .66 6. PDC-VACH 3.07 .74 \u03ea.08 .01</td><td>\u03ea.05 .04</td><td colspan=\"3\">-.02 .44 \u202b\u0621\u0621\u0621\u202c .11 \u202b\u0621\u202c \u03ea.05 \u03ea.01</td></tr><tr><td colspan=\"7\">Note. Means are manifest; correlations are between latent variables (ex-</td></tr><tr><td colspan=\"7\">cept achievements, which are manifest school grades). Possible scale range</td></tr><tr><td colspan=\"7\">is from 1 to 4, unless otherwise indicated. MACH \u03ed math achievement;</td></tr><tr><td colspan=\"7\">VACH \u03ed verbal achievement; MSC \u03ed math self-concept; VSC \u03ed verbal</td></tr><tr><td colspan=\"7\">self-concept; PDC-MACH \u03ed perceived teachers' diagnostic competence</td></tr><tr><td colspan=\"7\">concerning math achievement; PDC-VACH \u03ed perceived teachers' diag-</td></tr><tr><td colspan=\"4\">nostic competence concerning verbal achievement.</td><td/><td/><td/></tr></table>"
+            },
+            "TABREF3": {
+                "num": null,
+                "text": "Descriptives and Correlations for the Study Variables for Sample 2",
+                "type_str": "table",
+                "content": "<table><tr><td>Variable</td><td>M</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>1. MACH a</td><td colspan=\"2\">3.65 1.07</td><td>-</td><td/><td/><td/><td/></tr><tr><td>2. VACH a</td><td colspan=\"2\">3.71 .95</td><td>.62 \u202b\u0621\u0621\u0621\u202c</td><td>-</td><td/><td/><td/></tr><tr><td>3. MSC</td><td colspan=\"2\">2.78 .88</td><td>.31 \u202b\u0621\u0621\u0621\u202c</td><td>.10 \u202b\u0621\u0621\u0621\u202c</td><td>-</td><td/><td/></tr><tr><td>4. VSC</td><td colspan=\"2\">2.82 .81</td><td>.08 \u202b\u0621\u0621\u202c</td><td>.29 \u202b\u0621\u0621\u0621\u202c</td><td colspan=\"2\">.24 \u202b\u0621\u0621\u0621\u202c -</td><td/></tr><tr><td colspan=\"5\">5. PDC-MACH 2.96 .72 \u03ea.07 6. PDC-VACH 3.00 .76 \u03ea.09 \u202b\u0621\u0621\u202c \u03ea.06 \u202b\u0621\u202c \u03ea.08 \u202b\u0621\u202c</td><td>.06 \u03ea.01</td><td colspan=\"2\">-.01 .50 \u202b\u0621\u0621\u0621\u202c \u03ea.05</td></tr><tr><td colspan=\"8\">Note. Means are manifest; correlations are between latent variables (ex-</td></tr><tr><td colspan=\"8\">cept achievements, which are manifest school grades). Possible scale range</td></tr><tr><td colspan=\"8\">is from 1 to 4, unless otherwise indicated. MACH \u03ed math achievement;</td></tr><tr><td colspan=\"8\">VACH \u03ed verbal achievement; MSC \u03ed math self-concept; VSC \u03ed verbal</td></tr><tr><td colspan=\"8\">self-concept; PDC-MACH \u03ed perceived teachers' diagnostic competence</td></tr><tr><td colspan=\"8\">concerning math achievement; PDC-VACH \u03ed perceived teachers' diag-</td></tr><tr><td colspan=\"6\">nostic competence concerning verbal achievement.</td><td/><td/></tr><tr><td colspan=\"4\">a Possible scale range from 1 to 6.</td><td/><td/><td/><td/></tr></table>"
+            }
+        }
+    }
+}

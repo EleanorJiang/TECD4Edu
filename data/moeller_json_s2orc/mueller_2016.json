@@ -1,0 +1,2116 @@
+{
+    "paper_id": "mueller_2016",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:58:38.760584Z"
+    },
+    "title": "Math and verbal academic self-concept: Subject-specificity across four distinctive groups of high ability adolescents",
+    "authors": [
+        {
+            "first": "Christian",
+            "middle": [
+                "E"
+            ],
+            "last": "Mueller",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Memphis (CEPR)",
+                "location": {
+                    "addrLine": "100 Ball Hall"
+                }
+            },
+            "email": "cemueller@memphis.edu"
+        },
+        {
+            "first": "Denise",
+            "middle": [
+                "L"
+            ],
+            "last": "Winsor",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Memphis Counseling",
+                "location": {
+                    "addrLine": "100 Ball Hall"
+                }
+            },
+            "email": "dwinsor@memphis.edu"
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Academic self-concept has a pronounced role in high ability students' academic achievement. Current conceptions of self-concept are multidimensional, hierarchical, and influenced by internal valuations and external comparisons. This research utilized the NELS:88 dataset; the sample consisted of high ability students who had participated in their schools' gifted program in eighth-grade and in tenth-grade and were enrolled in advanced placement (AP) courses. This study examined subject-specificity of Marsh's (1986) Internal/External Frame of Reference Model across four groups of high ability students: a) AP math and AP English classes, b) AP math classes only, c) AP English classes only, and d) neither AP math nor AP English classes. Unexpected path findings suggest certain aspects of the I/E model are malleable depending upon group placement. Implications are discussed in the context of the larger social comparison literature.",
+    "pdf_parse": {
+        "paper_id": "mueller_2016",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Academic self-concept has a pronounced role in high ability students' academic achievement. Current conceptions of self-concept are multidimensional, hierarchical, and influenced by internal valuations and external comparisons. This research utilized the NELS:88 dataset; the sample consisted of high ability students who had participated in their schools' gifted program in eighth-grade and in tenth-grade and were enrolled in advanced placement (AP) courses. This study examined subject-specificity of Marsh's (1986) Internal/External Frame of Reference Model across four groups of high ability students: a) AP math and AP English classes, b) AP math classes only, c) AP English classes only, and d) neither AP math nor AP English classes. Unexpected path findings suggest certain aspects of the I/E model are malleable depending upon group placement. Implications are discussed in the context of the larger social comparison literature.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Globally, self-concept refers to a person's self-perceptions. More specifically, Lister and Roberts (2011, citing Byrne, 1984, p. 449) state, \"selfconcept refers to our 'attitudes, feelings, and knowledge about our abilities, skills, appearance, and social acceptability\" (p. 130). Over time, conceptualizations of self-concept have evolved into a complex view of how individuals perceive themselves-namely, that self-concept is multidimensional and hierarchical in nature, and that it is formed through internal valuations and external comparisons (Harter, 1989; Marsh, 1986 Marsh, , 1990 Shavelson, Hubner, & Stanton, 1976) .",
+                "cite_spans": [
+                    {
+                        "start": 81,
+                        "end": 91,
+                        "text": "Lister and",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 92,
+                        "end": 134,
+                        "text": "Roberts (2011, citing Byrne, 1984, p. 449)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 549,
+                        "end": 563,
+                        "text": "(Harter, 1989;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 564,
+                        "end": 575,
+                        "text": "Marsh, 1986",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 576,
+                        "end": 589,
+                        "text": "Marsh, , 1990",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 590,
+                        "end": 625,
+                        "text": "Shavelson, Hubner, & Stanton, 1976)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "For many high ability students, notions of multidimensionality and hierarchy come together through saliency. Here, we are using the term saliency as a way to describe noteworthy characteristics of selfconcept that can change in relevancy and meaningfulness to students depending on environment and contextual comparisons. That is, certain dimensions of self-concept can become more or less important across different settings and under certain conditions. For example, according to the Big-Fish-Little-Pond-Effect (BFLP) (Marsh, 1987) , academic selfconcept of high ability students is particularly impacted by educational context, because it has been shown that high ability students fare better in more heterogeneous classrooms where external comparisons with peers are more favorable in terms of ability comparisons (e.g., Marsh, 1987; Marsh, Chessor, Craven, & Roche, 1995) .",
+                "cite_spans": [
+                    {
+                        "start": 521,
+                        "end": 534,
+                        "text": "(Marsh, 1987)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 826,
+                        "end": 838,
+                        "text": "Marsh, 1987;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 839,
+                        "end": 877,
+                        "text": "Marsh, Chessor, Craven, & Roche, 1995)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Conversely, when placed in more homogenous classrooms among similar-ability peers, high ability students may actually experience lowered academic self-concepts because external comparisons are not as favorable (McCoach & Siegle, 2002) . Furthermore, viewed through the lens of social comparison processes (Marsh, Trautwein, L\u00fcdtke, & K\u00f6ller, 2008) , many high ability students may be especially vulnerable or protected depending upon the educational environment. This is largely because academic comparisons are so important for self-concept development in high ability students (Marsh, 1989 (Marsh, , 1991 (Marsh, , 1994 .",
+                "cite_spans": [
+                    {
+                        "start": 210,
+                        "end": 234,
+                        "text": "(McCoach & Siegle, 2002)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 305,
+                        "end": 347,
+                        "text": "(Marsh, Trautwein, L\u00fcdtke, & K\u00f6ller, 2008)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 579,
+                        "end": 591,
+                        "text": "(Marsh, 1989",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 592,
+                        "end": 606,
+                        "text": "(Marsh, , 1991",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 607,
+                        "end": 621,
+                        "text": "(Marsh, , 1994",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "In the present study, we examined the interplay between academic self-concept saliency and changing educational context as a function of advanced placement (AP) course enrollment among a nationally-representative sample of high ability tenth-graders. We believe it is important to study these relationships among high ability adolescents for at least three reasons.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "First, it has been shown by much research that academic self-concept plays an important role in academic and adjustment-related outcomes among high ability adolescents (e.g., Dickhauser, 2005; Lyon, 1993; Marsh, 1986 Marsh, , 1990 Valentine, DuBois, & Cooper, 2004) . Therefore, understanding how self-concept saliency changes as a function of AP course enrollment may help AP teachers structure their classrooms in ways that are supportive of healthy selfconcept development among their students.",
+                "cite_spans": [
+                    {
+                        "start": 175,
+                        "end": 192,
+                        "text": "Dickhauser, 2005;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 193,
+                        "end": 204,
+                        "text": "Lyon, 1993;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 205,
+                        "end": 216,
+                        "text": "Marsh, 1986",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 217,
+                        "end": 230,
+                        "text": "Marsh, , 1990",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 231,
+                        "end": 265,
+                        "text": "Valentine, DuBois, & Cooper, 2004)",
+                        "ref_id": "BIBREF35"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Second, as viewed through Marsh's (1986) Internal/External (I/E) Frame of Reference Model, academic self-concept is assumed to form through dimensional comparisons-internally, through self-evaluation processing, and externally, through performance comparisons with others. As discussed previously with respect to the BFLP-Effect, educational context may play a particularly important role in how these dimensional comparisons form among high ability students, especially as schools and districts increasingly utilize AP course programming to educate many of these same students (Curry, MacDonald, & Morgan, 1999; Davis & Rimm, 1989; Henderson, Winitzky, & Kauchak, 1996) . It is assumed that the educational context varies considerably between AP and regular education classes. Especially since interpersonal interactions between students and teachers differ, enriched curriculum is most likely present in AP courses, and differing ability comparisons among students may lead to different self-concept formation outcomes (Hertberg- Davis & Callahan, 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 26,
+                        "end": 40,
+                        "text": "Marsh's (1986)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 578,
+                        "end": 612,
+                        "text": "(Curry, MacDonald, & Morgan, 1999;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 613,
+                        "end": 632,
+                        "text": "Davis & Rimm, 1989;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 633,
+                        "end": 670,
+                        "text": "Henderson, Winitzky, & Kauchak, 1996)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1032,
+                        "end": 1055,
+                        "text": "Davis & Callahan, 2008)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Lastly, from an empirical perspective, academic self-concept comparisons have not been examined across AP and non-AP courses. Increasingly, as schools and districts turn to AP courses as the primary way to educate their high ability students, educators will need to gain a better understanding of how these approaches impact academic and well-being outcomes among these same students (Hertberg- Davis & Callahan, 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 395,
+                        "end": 418,
+                        "text": "Davis & Callahan, 2008)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Over the previous two decades, the Internal/External Frame of Reference Model has become the prevailing model of academic self-concept (Marsh, 1986 (Marsh, , 1994 Marsh, Byrne, & Shavelson, 1988) . This model has proved surprisingly robust across many settings and as a predictor of numerous academic outcomes (for a review of the literature, see Marsh, Trautwein, L\u00fcdtke, Koller, & Baumert, 2005 or M\u00f6ller, Pohlmann, K\u00f6ller, & Marsh, 2009 , especially among high ability students (e.g., Rinn, McQueen, Clark, & Rumsey, 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 135,
+                        "end": 147,
+                        "text": "(Marsh, 1986",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 148,
+                        "end": 162,
+                        "text": "(Marsh, , 1994",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 163,
+                        "end": 195,
+                        "text": "Marsh, Byrne, & Shavelson, 1988)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 347,
+                        "end": 396,
+                        "text": "Marsh, Trautwein, L\u00fcdtke, Koller, & Baumert, 2005",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 397,
+                        "end": 439,
+                        "text": "or M\u00f6ller, Pohlmann, K\u00f6ller, & Marsh, 2009",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 488,
+                        "end": 525,
+                        "text": "Rinn, McQueen, Clark, & Rumsey, 2008)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic self-concept as the Internal/External Frame of Reference Model",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "Longitudinal studies by Marsh (1990) and Valentine et al. (2004) , for example, have shown that one's academic self-concept influences future academic achievement, even after controlling for the effects of previous academic achievement. As related specifically to high ability students, McCoach and Siegle (2002) note that high ability adolescents tend to have higher academic self-concepts in comparison with their non-identified peers, and that as much as a third of academic achievement is accounted for by academic self-concept (e.g., Lyon, 1993) .",
+                "cite_spans": [
+                    {
+                        "start": 24,
+                        "end": 36,
+                        "text": "Marsh (1990)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 41,
+                        "end": 64,
+                        "text": "Valentine et al. (2004)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 287,
+                        "end": 312,
+                        "text": "McCoach and Siegle (2002)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 539,
+                        "end": 550,
+                        "text": "Lyon, 1993)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic self-concept as the Internal/External Frame of Reference Model",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "According to the Internal/External Frame of Reference Model, high ability students are often assumed to have higher academic self-concepts than their non-identified peers due to previous successful academic experiences (internal), as well as favorable performance feedback by parents, teachers and peers across academic tasks, domains, and settings (external). Conversely, other researchers have found that comparatively, students who are not identified as having high ability because they have not been labeled as gifted or talented, and do not participate in any type of AP classes often have higher general social selfconcepts as compared to high ability students (Cornell et al., 1990; Ross & Parker, 1980) . Both of these findings have relevance for the present study for several reasons. First, some researchers (Marsh, Trautwein, L\u00fcdtke, Koller, & Baumert, 2005; Marsh et al., 2008; Trautwein, Ludtke, Koller, & Baummert, 2006) have suggested that high ability students may suffer from unrealistically high social (i.e., parental, teacher, peer) performance expectations, and exaggerated social pressures to excel. Second, diversity in differential standards of classroom assessment is likely to be found in regular versus AP courses (Hertberg- Davis & Callahan, 2008) . Collectively, all of these factors will not only have important influences on academic self-concept formation, but will also most likely differ across AP and non-AP classrooms.",
+                "cite_spans": [
+                    {
+                        "start": 667,
+                        "end": 689,
+                        "text": "(Cornell et al., 1990;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 690,
+                        "end": 710,
+                        "text": "Ross & Parker, 1980)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 818,
+                        "end": 869,
+                        "text": "(Marsh, Trautwein, L\u00fcdtke, Koller, & Baumert, 2005;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 870,
+                        "end": 889,
+                        "text": "Marsh et al., 2008;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 890,
+                        "end": 934,
+                        "text": "Trautwein, Ludtke, Koller, & Baummert, 2006)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1252,
+                        "end": 1275,
+                        "text": "Davis & Callahan, 2008)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic self-concept as the Internal/External Frame of Reference Model",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "1.2. Using AP course programming to educate high ability students",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic self-concept as the Internal/External Frame of Reference Model",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "Initially, AP and International Baccalaureate (IB) programming was introduced as a way to allow college-bound students to earn early college credit towards their degree, rather than as a true form of differentiated education for gifted students. Over time, however, both AP and IB courses have been embraced by educators as a cost-effective way to educate gifted and high ability students, because as Hertberg- Davis and Callahan (2008) note, \"Overwhelmingly, students in AP and IB courses indicated that the learning environments were supportive and generally superior to general education courses and preferred AP and IB classroom environments\" (p. 204). Reasons cited were, among others, preference for working with students of similar ability and motivation levels, positive relationships with AP and IB teachers, and overall, a more positive educational experience as compared with their regular education courses.",
+                "cite_spans": [
+                    {
+                        "start": 411,
+                        "end": 436,
+                        "text": "Davis and Callahan (2008)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic self-concept as the Internal/External Frame of Reference Model",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "Viewed through the lens of normative social comparisons invoked through the BFLP-Effect, there is reason to believe that self-concept comparisons may vary more strongly among high ability students, particularly when these students interact in different educational settings such as may be found in AP and non-AP classes (Marsh et al., 2008) . This is especially true if students are enrolled in both AP and non-AP courses during a typical week, or across an academic year.",
+                "cite_spans": [
+                    {
+                        "start": 320,
+                        "end": 340,
+                        "text": "(Marsh et al., 2008)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic self-concept as the Internal/External Frame of Reference Model",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "Furthermore, building on the work of Hertberg- Davis and Callahan (2008) , we also assume that for many of the reasons cited above (e.g., working with students of similar ability and motivation level), the differing educational contexts found in AP and non-AP courses will also likely differentially impact academic self-concept formation in many high-ability students. Understanding how these relationships work together becomes crucial as AP courses become the mainstay of gifted education across most districts nationwide.",
+                "cite_spans": [
+                    {
+                        "start": 47,
+                        "end": 72,
+                        "text": "Davis and Callahan (2008)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic self-concept as the Internal/External Frame of Reference Model",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "In the present study, we examined how academic self-concept saliency varies as a function of AP course enrollment across four distinct groups of high-ability adolescents who were enrolled in AP math and AP English classes, enrolled in AP math classes only, enrolled in AP English classes only, or enrolled in neither AP math nor AP English classes. Specifically, we were guided by three research questions as they pertain to achievement and self-concept relationships under Marsh's conception of academic self-concept: a) does domain-specific achievement (math/verbal) predict domain-specific self-concept (math/verbal), b) does achievement in one domain (math/verbal) predict opposite-domain self-concept (math/verbal), and c) is domain-specific achievement (math and verbal) correlated, while domain-specific selfconcept (math/verbal) is not; all as a function of different AP course enrollments? Given the lack of previous research examining differences across AP course enrollments, we hypothesized that relationships would occur across the four groups as originally hypothesized by Marsh (1986) (see Fig. 1 and Table 1 ).",
+                "cite_spans": [
+                    {
+                        "start": 1087,
+                        "end": 1099,
+                        "text": "Marsh (1986)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1105,
+                        "end": 1111,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1116,
+                        "end": 1123,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The present study",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "High ability in this research is used broadly since AP course enrollment alone is not always an indicator of high ability. Rather, students with high ability demonstrate a particular capability to perform at considerably higher levels when compared with peers of the same age, environment, or experience in at least one subject area (Renzulli, 1975) . Archived data from a larger dataset collected as part of the National Educational Longitudinal Study of 1988 (NELS:88) were used in the present study. NELS:88 was sponsored by the National Center for Education Statistics (NCES, 1992) . Initial data were collected in Spring 1988, including follow-up interviews with adolescents, parents, teachers and school administrators on issues related to adolescent health and functioning at two-year intervals (i.e., 1990, 1992, 1994, and 2000) .",
+                "cite_spans": [
+                    {
+                        "start": 333,
+                        "end": 349,
+                        "text": "(Renzulli, 1975)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 573,
+                        "end": 585,
+                        "text": "(NCES, 1992)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 802,
+                        "end": 836,
+                        "text": "(i.e., 1990, 1992, 1994, and 2000)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants and procedure",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "In the present study, participants from the second wave of data collection (1990) were used when identified students were in the tenthgrade. The nationally representative nature of the NELS:88 study design intentionally accommodates the vast nature of high ability definitions by including data from multiple school districts and regions across the country, which may increase external validity as a result (Zhang, Archambault, Qwen, & Kulikowich, 1997) .",
+                "cite_spans": [
+                    {
+                        "start": 407,
+                        "end": 453,
+                        "text": "(Zhang, Archambault, Qwen, & Kulikowich, 1997)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants and procedure",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "This research examined tenth-graders (N = 1851) who were considered to have high ability based on two criteria: (a) they were previously labeled as gifted in eighth-grade and (b) persisted in their ability to perform at a high level in tenth-grade by participating in one or more AP courses. When inclusion was determined, the sample was divided into four groups as determined by specific course enrollment: a) AP math and English (N = 766); b) AP math (N = 392); c) AP English (N = 136); and, d) neither AP math nor English (N = 482). 1 In the present study, the variables identifying participation in advanced math and English (i.e., labeled as AP math and/or AP English) were used to categorize high ability students across the four subject areas. The sample was split almost evenly among males (50.7%) and females (49.4%), and ethnicity included Caucasian (67.9%), Asian-Pacific Islanders (11.1%), Hispanic (9.6%), African American (9.5%) and Native American (1.9%).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Current sample",
+                "sec_num": "2.1.1."
+            },
+            {
+                "text": "The tested empirical model included two latent variables (i.e., math and verbal self-concept) and two observed variables (i.e., standardized math and verbal achievement). Yin and Fan (2003) reported that math and verbal self-concept measurement in NELS:88 was based on the Self-Description Questionnaire II (Marsh, 1994) . Additional details for all measures used in the present study are listed next.",
+                "cite_spans": [
+                    {
+                        "start": 171,
+                        "end": 189,
+                        "text": "Yin and Fan (2003)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 307,
+                        "end": 320,
+                        "text": "(Marsh, 1994)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "Four items were used to measure both math and verbal self-concept, respectively. On the Self-Description Questionnaire II, respondents were asked to rate themselves on a six-point Likert-type scale from 1 (False-Not like me at all; it isn't like me at all) to 6 (True-This statement describes me well; it is very much like me). Acceptable reliabilities were found for all four groups on math self-concept (\u03b1's \u2265 0.89), and verbal self-concept (\u03b1's \u2265 0.83).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic self-concept (math and verbal)",
+                "sec_num": "2.2.1."
+            },
+            {
+                "text": "This research used tenth-graders' standardized math and reading scores as indicators of math and reading achievement. In NELS:88, students were given achievement tests in math, reading comprehension, science, and social studies. Assessments were developed by the Educational Testing Service (ETS) and included a total of 116 questions (40 math and 21 reading comprehension). In order to protect against floor and ceiling effects, NELS:88 used a multilevel design in which test difficulty level (math and reading only) was determined by respondents' scores at the base year testing.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Standardized achievement (math and reading)",
+                "sec_num": "2.2.2."
+            },
+            {
+                "text": "1 It is unknown if these students had an option to take AP math or English classes. ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Standardized achievement (math and reading)",
+                "sec_num": "2.2.2."
+            },
+            {
+                "text": "We used AMOS 5.0 (Arbuckle, 2003) to examine a single structural equation model across the aforementioned groups. This approach is consistent with previous studies that have examined academic self-concept with both high ability and regular student populations (e.g., Shi, Li, & Zhang, 2008) . We used suggested guidelines offered by Kline (2005) for model fit statistics, including the comparative fit index (CFI) and root mean square error of approximation (RMSEA). In order to test for measurement invariance across the four groups simultaneously, we conducted a follow-up multigroup analysis following procedures outlined by Byrne (2001) .",
+                "cite_spans": [
+                    {
+                        "start": 17,
+                        "end": 33,
+                        "text": "(Arbuckle, 2003)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 267,
+                        "end": 290,
+                        "text": "Shi, Li, & Zhang, 2008)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 333,
+                        "end": 345,
+                        "text": "Kline (2005)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 628,
+                        "end": 640,
+                        "text": "Byrne (2001)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analysis",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "For clarity, specific results are organized and presented according to each of the four AP configurations-AP math and English, AP math only, AP English only, and neither AP math nor English. Table 1 presents all of these in summary form. Next, a general summary of the multi-group analysis is presented, and includes discussion around group differences across structural paths, covariance relationships, and factor structures (Byrne, 2001) . When appropriate, unexpected or contradictory findings are briefly highlighted. This is followed by a general discussion of findings within the current literature.",
+                "cite_spans": [
+                    {
+                        "start": 426,
+                        "end": 439,
+                        "text": "(Byrne, 2001)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 191,
+                        "end": 198,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": "3."
+            },
+            {
+                "text": "Fit statistics for this model indicate a good fit of the data [\u03c7 2 (31) = 161.36, CFI = 0.967, RMSEA = 0.074]. With one exception, the significant negative relationship found between verbal achievement and math self-concept (\u03b2 = \u22120.27, p b 0.001), all significant and non-significant relationships proposed in the model fit expected patterns. Specifically, there was a significant positive correlation between math achievement and verbal achievement (r = 0.71, p b 0.001), a significant positive relationship between math achievement and math self-concept (\u03b2 = 0.53, p b 0.001), a non-significant relationship between math achievement and verbal self-concept (\u03b2 = 0.04, p = 0.519), a significant positive relationship between verbal achievement and verbal self-concept (\u03b2 = 0.33, p b 0.001) and no significant correlation between math self-concept and verbal self-concept (r = 0.10, p = 0.017).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "High ability students enrolled in both AP math and AP English",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "Fit statistics for the model indicate a good fit of the data to the model [\u03c7 2 (31) = 99.21, CFI = 0.967, RMSEA = 0.075]. The pattern of results for the second group was identical to that of the first. Again, with the exception of the unexpected significant negative relationship found between verbal achievement and math self-concept (\u03b2 = \u2212 0.41, p b 0.001), all significant and non-significant results fit previously established patterns. Specifically, there was a significant positive correlation found between math achievement and verbal achievement (r = 0.76, p b 0.001), a significant positive relationship between math achievement and math self-concept (\u03b2 = 0.71, p b 0.001), a non-significant relationship between math achievement and verbal self-concept (\u03b2 = \u22120.09, p = 0.297), a significant positive relationship between verbal achievement and verbal self-concept (\u03b2 = 0.41, p b 0.001) and no significant correlation between math self-concept and verbal self-concept (r = 0.08, p = 0.176).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "High ability students enrolled in AP math only",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "Fit statistics for the model indicate an adequate, although not strong fit of the data to the model [\u03c7 2 (31) = 64.52, CFI = 0.947, RMSEA = 0.089]. In all likelihood, these fit statistics would improve with an increased sample size (Kline, 2005) . The pattern of results for this group is slightly different than that of the first two-namely, the non-significant relationship found verbal achievement and math self-concept (\u03b2 = \u22120.08, p b 0.519), which is actually in line with the expected pattern. On the contrary, and different from what was found with the first two groups, there was an unexpected significant negative correlation between math self-concept and verbal self-concept (r = \u2212 0.23, p b 0.05). The remaining pattern of results for this group was consistent with the stated hypotheses, and was in line with that of the first two groups. Specifically, there was a significant positive correlation between math achievement and verbal achievement (r = 0.72, p b 0.001), a significant positive relationship between math achievement and math self-concept (\u03b2 = 0.42, p = 0.001), a non-significant relationship between math achievement and verbal self-concept (\u03b2 = \u2212 0.07, p = 0.618), and a significant positive relationship between verbal achievement and verbal self-concept (\u03b2 = 0.37, p b 0.01).",
+                "cite_spans": [
+                    {
+                        "start": 232,
+                        "end": 245,
+                        "text": "(Kline, 2005)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "High ability students enrolled in AP English only",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "Fit statistics for the final model indicate a reasonable fit of the data to the model [\u03c7 2 (31) = 129.56, CFI = 0.956, RMSEA = 0.081]. The pattern of results for this group was identical to that of the first two groups. Like groups 1 and 2, a significant negative relationship was found between verbal achievement and math self-concept (\u03b2 = \u2212 0.32, p b 0.001), which is contrary to what has been previously hypothesized. The remaining significant and non-significant results for the fourth group fit with expected and previously established patterns. Specifically, there was a significant positive correlation between math achievement and verbal achievement (r = 0.67, p b 0.001), a significant positive relationship between math achievement and math self-concept (\u03b2 = 0.61, p b 0.001), a non-significant relationship between math achievement and verbal self-concept (\u03b2 = \u22120.05, p = 0.462), a significant positive relationship between verbal achievement and verbal self-concept (\u03b2 = 0.29, p b 0.001) and no significant correlation between math self-concept and verbal self-concept (r = 0.06, p = 0.280).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "High ability students not enrolled in AP math/English",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "Although acceptable fit statistics were found while examining the model across all four groups individually, we nonetheless conducted a multi-group analysis to explore whether the model was invariant while testing all four groups simultaneously. An initial chi-square comparison test showed that there was inequality across the groups, and thus we examined differences across the four groups. Those results are presented in the next few sections. 2",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results from multi-group comparisons",
+                "sec_num": "3.5."
+            },
+            {
+                "text": "First, we examined the four structural paths: a) math achievement to math self-concept, b) verbal achievement to verbal self-concept, c) math achievement to verbal self-concept, and d) verbal achievement to math self-concept. As assumed by the model and shown in much previous research (e.g., Marsh et al., 2008) , across all four groups math and verbal achievement were found to positively predict math and verbal self-concept, respectively, thereby supporting previous empirical findings about those hypothesized relationships (see Table 1 ). A similar pattern was found when examining the structural path from math achievement to verbal self-concept, with no significant relationship found across the four groups. Again, this finding is in line with much of the previous literature and fits the hypothesized pattern.",
+                "cite_spans": [
+                    {
+                        "start": 293,
+                        "end": 312,
+                        "text": "Marsh et al., 2008)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 534,
+                        "end": 541,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Structural path variation",
+                "sec_num": "3.5.1."
+            },
+            {
+                "text": "Where the analysis of structural paths deviated from expectations and previous literature was in examining the path between verbal achievement and math self-concept. Marsh originally hypothesized a non-existent relationship when examining opposite-domain achievement and self-concept, which fit with previous theorizing about the domain-specificity (i.e., multidimensionality) of self-concept as discussed earlier. However, in the present study two distinct patterns emerged. First, it was found that for students enrolled in both AP math and English, AP math only, and neither AP math nor English, a significant negative relationship was found between verbal achievement math selfconcept-again, going contrary to expectation. Secondly, it was found that for students enrolled only in AP English, no significant relationship was found, which is in line with Marsh's initial hypothesis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Structural path variation",
+                "sec_num": "3.5.1."
+            },
+            {
+                "text": "Collectively, the above-mentioned results are noteworthy for two reasons. We suspect that for students enrolled in only AP English classes, they probably have correspondingly high verbal self-concepts-they believe in their verbal ability, and have probably experienced high levels of success in English or language arts courses. Simultaneously, the fact that these tenth-graders are enrolled in AP English only may mean that they have already concluded that math is not important for a variety of reasons.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Structural path variation",
+                "sec_num": "3.5.1."
+            },
+            {
+                "text": "For students in the other three groups, where verbal achievement was found to have a significant negative relationship with math selfconcept, this pattern was contrary to expectations. Thus, for students enrolled in AP math and English, AP math, and neither AP math nor AP English, there could be many factors accounting for these contrary findings. For example, it could be that these individuals have less confidence in their overall math ability, and may still be trying to evaluate where their academic strengths or weaknesses lie-in turn, as they do better in English or language arts, this appears to negatively impact their assessment of math ability. Although drawing any conclusions based on present data is certainly premature, we think this pattern of findings is at least sufficient to provide rationale for further study.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Structural path variation",
+                "sec_num": "3.5.1."
+            },
+            {
+                "text": "Our second set of multi-group analyses explored group invariance across covariance relationships-between math and verbal achievement, and between math and verbal self-concept. In his original model, Marsh hypothesized a significant, positive correlation between math and verbal achievement, and no significant relationship between math and verbal self-concept. Our pattern of results matched the hypothesized relationship across the four groups with respect to a significant, positive correlation between math achievement and verbal selfconcept. Thus, math and verbal achievement remain correlated, regardless of AP course enrollment for the present sample of high ability adolescents.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Covariance relationships",
+                "sec_num": "3.5.2."
+            },
+            {
+                "text": "With regard to the covariance relationship between math and verbal self-concept, only one exception was found. For students enrolled in AP English only, there was a significant, negative correlation found between math and verbal self-concept (\u2212 0.23). Paired with the other anomalous finding, at least in comparison with the other groups with respect to the relationship between verbal achievement and math self-concept, we believe the students enrolled in AP English classes only may warrant further study. These students are examined in further detail later.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Covariance relationships",
+                "sec_num": "3.5.2."
+            },
+            {
+                "text": "Lastly, we examined group invariance as related to the factor item loadings with respect to each group. In this case, we found group invariance was not universal in the case of the factor item loadings for the selfconcept measures. More specifically, it was found that factor loadings for the verbal self-concept measure possessed inequality across two groups of students: AP English only students and non-AP math and English students, and between students enrolled in both AP math and English and students not enrolled in either.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Factor item variation",
+                "sec_num": "3.5.3."
+            },
+            {
+                "text": "Math self-concept items were found to be invariant across all groups. Although many reasons may exist to explain the differences found on the verbal self-concept items (see Sass, 2011 for further discussion on potential reasons for measurement invariance), potential explanations may be beyond the scope of the present study. Instead, what is of more interest in the present study is how these differences may be impacting the group differences found in the case of AP English students with respect to the statistical anomalies presented in the previous paragraph. Collectively, we believe that these findings do provide rationale for further study with respect to students enrolled in AP English courses only. We turn our attention to those students and other issues in the final section of the study.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Factor item variation",
+                "sec_num": "3.5.3."
+            },
+            {
+                "text": "Previous research has shown that Marsh's (1986) Internal/External Frame of Reference Model is a valid and reliable way to view academic self-concept among high ability adolescents (Marsh, Plucker, & Stocking, 2001) , and that it remains generalizable across different academic settings (Marsh et al., 2008; M\u00f6ller et al., 2009) . Additional research has shown, however, that Marsh's conception of academic selfconcept may function differently for high ability students depending upon educational context .",
+                "cite_spans": [
+                    {
+                        "start": 33,
+                        "end": 47,
+                        "text": "Marsh's (1986)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 180,
+                        "end": 214,
+                        "text": "(Marsh, Plucker, & Stocking, 2001)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 286,
+                        "end": 306,
+                        "text": "(Marsh et al., 2008;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 307,
+                        "end": 327,
+                        "text": "M\u00f6ller et al., 2009)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "In the present study, we examined how academic self-concept saliency varied as a function of AP course enrollment among a nationally-representative sample of high ability adolescents. With a few notable exceptions, present findings generally supported the overall structure of academic self-concept among students in the present sample. The most noteworthy findings in our opinion pertained to differences found across structural paths, covariance relationships, and subsequent factor structures for students enrolled in AP English courses only.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "As we noted previously, these differences could be accounted for in at least two ways.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "First, differences could be accounted for through assumed influence of contextual factors that may be found across the different AP classrooms. Since we did not examine relationships longitudinally, nor did we conduct any classroom observations these conclusions are currently spurious at best. Yet, as noted previously, the findings presented here do at the very least provide rationale for exploring academic self-concept saliency across AP classrooms in further research. Unfortunately, there remains little existing literature addressed specifically at this question.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "The second reason that could possibly account for these differences is that factorial invariance for verbal self-concept items were found across groups, thus indicating that the items functioned differently based upon AP course enrollment. Given that the primary purpose of the present study was to explore differences across groups and not to provide an exhaustive psychometric analysis, we again suggest that current findings may lead interested researchers down this path. At present, all we can say with certainty is that item invariance may impact other empirical findings-future researchers need to explore these questions in more detail.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "Limitations in the present study are twofold: first, data used for the present study came from archived data first collected in 1990; and second, that restrictions in the original study design prevented a more indepth analysis of possible reasons for the significant findings in the present study.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations, future directions, and conclusion",
+                "sec_num": "5."
+            },
+            {
+                "text": "Despite these limitations, we feel that the present findings do contribute significantly to the existing literature in four primary ways. First, they further contribute empirical support for a widely-accepted model of academic self-concept, and do so among a nationally-representative sample of high ability adolescents. These findings possess good external validity, which is crucial for empirical work with gifted and high ability samples (Mueller & Hart, 2011) . Second, present findings raise some interesting questions about how academic self-concept saliency varies as a function of AP course enrollment among high ability adolescents. As discussed previously, districts are increasingly using AP courses as the primary method of educating high ability and gifted adolescents. Third, present findings also raise some interesting questions about the ways that academic self-concept saliency might function differently for high ability students enrolled in AP English courses only. However, the nature of these findings might be impacted by potential measurement issues introduced with the verbal self-concept items. Last, the present findings are important because they point a direction for future research.",
+                "cite_spans": [
+                    {
+                        "start": 441,
+                        "end": 463,
+                        "text": "(Mueller & Hart, 2011)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations, future directions, and conclusion",
+                "sec_num": "5."
+            },
+            {
+                "text": "Future researchers should more closely examine why and how differences exist for high ability adolescents with respect to their academic self-concept and what factors impact shifts in academic self-concept across different AP classrooms. To this end, we point readers to related literature such as the previously mentioned work by Hertberg-Davis and Callahan and others. Specifically, we suggest that through the use of longitudinal research and classroom observations researchers will better understand how classroom factors impact academic self-concept over time and across different AP settings. Increasingly, answering these questions becomes paramount as educators strive to find the most appropriate methods for educating gifted and high ability populations.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations, future directions, and conclusion",
+                "sec_num": "5."
+            },
+            {
+                "text": "Given the number of paths examined, readers are encouraged to refer toFig. 1for additional clarity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Self-efficacy: The exercise of control",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Arbuckle",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Arbuckle, J. L. (2003). Self-efficacy: The exercise of control. New York: Freeman.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The general/academic self-concept nomological network: A review of construct validation research",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Review of Educational Research",
+                "volume": "54",
+                "issue": "",
+                "pages": "427--456",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1984). The general/academic self-concept nomological network: A review of construct validation research. Review of Educational Research, 54, 427-456.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Structural equation modeling with AMOS: Basic concepts, applications, and programming",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (2001). Structural equation modeling with AMOS: Basic concepts, applications, and programming. Mahwah, NJ, US: Lawrence Erlbaum Associates Publishers.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Special section: Educating the gifted",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Cornell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pelton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Bassin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Landrum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Ramsay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Cooley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": ".",
+                        "middle": [
+                            "."
+                        ],
+                        "last": "Hamrick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "3",
+                "pages": "456--463",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cornell, D., Pelton, G. M., Bassin, L. E., Landrum, M., Ramsay, S. G., Cooley, M. R., ... Hamrick, E. (1990). Special section: Educating the gifted. Journal of Educational Psychology, 82(3), 456-463 Publisher: American Psychological Association.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The Advanced Placement Program: Access to excellence",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Curry",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Macdonald",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Morgan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Secondary Gifted Education",
+                "volume": "11",
+                "issue": "1",
+                "pages": "17--23",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Curry, W., MacDonald, W., & Morgan, R. (1999). The Advanced Placement Program: Ac- cess to excellence. Journal of Secondary Gifted Education, 11(1), 17-23.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Education of the gifted and talented",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Davis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Rimm",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Davis, G. A., & Rimm, S. B. (1989). Education of the gifted and talented. Henderson, NY: Prentice-Hall, Inc.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "A fresh look: Testing the internal/external frame of reference model with frame-specific academic self-concepts",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Dickhauser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Educational Research",
+                "volume": "47",
+                "issue": "3",
+                "pages": "279--290",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dickhauser, O. (2005). A fresh look: Testing the internal/external frame of reference model with frame-specific academic self-concepts. Educational Research, 47(3), 279-290.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Causes, correlates, and the functional role of global self-worth: A lifespan perspective",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Harter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Perceptions of competence and incompetence across the lifespan",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harter, S. (1989). Causes, correlates, and the functional role of global self-worth: A life- span perspective. In J., & R. (Eds.), Perceptions of competence and incompetence across the lifespan. New Haven, CT: Yale University Press.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Effective teaching in advanced placement classrooms",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Henderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Winitzky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kauchak",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Journal of Classroom Interaction",
+                "volume": "31",
+                "issue": "1",
+                "pages": "29--35",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Henderson, J., Winitzky, N., & Kauchak, D. (1996). Effective teaching in advanced place- ment classrooms. Journal of Classroom Interaction, 31(1), 29-35.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "A narrow escape gifted students' perceptions of advanced placement and international baccalaureate programs",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Hertberg-Davis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Callahan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Gifted Child Quarterly",
+                "volume": "52",
+                "issue": "3",
+                "pages": "199--216",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hertberg-Davis, H., & Callahan, C. M. (2008). A narrow escape gifted students' perceptions of advanced placement and international baccalaureate programs. Gifted Child Quarterly, 52(3), 199-216.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Principles and practice of structural equation modeling",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Kline",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kline, R. B. (2005). Principles and practice of structural equation modeling (2nd ed.). New York: The Guilford Press.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "The self-concepts and perceived competencies of gifted and non-gifted students: A meta-analysis",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Lister",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Roberts",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of Research in Special Education Needs",
+                "volume": "11",
+                "issue": "",
+                "pages": "130--140",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lister, K., & Roberts, J. (2011). The self-concepts and perceived competencies of gifted and non-gifted students: A meta-analysis. Journal of Research in Special Education Needs, 11, 130-140.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Academic self-concept and its relationship to achievement in a sample of junior high school students",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Lyon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "53",
+                "issue": "",
+                "pages": "201--211",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lyon, M. A. (1993). Academic self-concept and its relationship to achievement in a sample of junior high school students. Educational and Psychological Measurement, 53, 201-211.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Verbal and math self-concepts: An internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "1",
+                "pages": "129--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concepts: An internal/external frame of refer- ence model. American Educational Research Journal, 23(1), 129-149.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "The-big-fish-little-pond effect on academic self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Journal of Educational Psychology",
+                "volume": "79",
+                "issue": "",
+                "pages": "280--295",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1987). The-big-fish-little-pond effect on academic self-concept. Journal of Educational Psychology, 79, 280-295.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Age and sex effects in multiple dimensions of self-concept: Preadolescence to early adulthood",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Educational Psychology",
+                "volume": "81",
+                "issue": "",
+                "pages": "417--430",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1989). Age and sex effects in multiple dimensions of self-concept: Preado- lescence to early adulthood. Journal of Educational Psychology, 81, 417-430.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal panel analysis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "646--656",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990). Causal ordering of academic self-concept and academic achieve- ment: A multiwave, longitudinal panel analysis. Journal of Educational Psychology, 82, 646-656.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Failure of high-ability high schools to deliver academic benefits commensurate with their students' ability levels",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "American Educational Research Journal",
+                "volume": "28",
+                "issue": "2",
+                "pages": "445--480",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1991). Failure of high-ability high schools to deliver academic benefits commensurate with their students' ability levels. American Educational Research Journal, 28(2), 445-480.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Using the National Longitudinal Study of 1988 to evaluate theoretical models of self-concept: The self-description questionnaire",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Journal of Educational Psychology",
+                "volume": "86",
+                "issue": "3",
+                "pages": "439--456",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1994). Using the National Longitudinal Study of 1988 to evaluate theoret- ical models of self-concept: The self-description questionnaire. Journal of Educational Psychology, 86(3), 439-456.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "A multifaceted academic self-concept: Its hierarchical structure and its relation to academic achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Educational Psychology",
+                "volume": "80",
+                "issue": "",
+                "pages": "366--380",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Byrne, B. M., & Shavelson, R. J. (1988). A multifaceted academic self-con- cept: Its hierarchical structure and its relation to academic achievement. Journal of Educational Psychology, 80, 366-380.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "The effects of gifted and talented programs on academic self-concept: The big fish strikes again",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Chessor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Roche",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "American Educational Research Journal",
+                "volume": "32",
+                "issue": "",
+                "pages": "285--319",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Chessor, D., Craven, R., & Roche, L. (1995). The effects of gifted and talented programs on academic self-concept: The big fish strikes again. American Educational Research Journal, 32, 285-319.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "The Self-Description Questionnaire II and gifted students: Another look at Plucker, Taylor, Callahan, and Tomchin's (1997) 'Mirror",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Plucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Stocking",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "",
+                "issue": "6",
+                "pages": "976--996",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Plucker, J. A., & Stocking, V. B. (2001). The Self-Description Questionnaire II and gifted students: Another look at Plucker, Taylor, Callahan, and Tomchin's (1997) 'Mirror, mirror on the wall'. Educational and Psychological Measurement, 61(6), 976-996.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Academic selfconcept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Koller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Child Development",
+                "volume": "76",
+                "issue": "",
+                "pages": "397--416",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Trautwein, U., L\u00fcdtke, Q., Koller, O., & Baumert, J. (2005). Academic self- concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering. Child Development, 76, 397-416.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Social comparison and big-fish little-pond effects on self-concept and other self-belief constructs: Role of generalized and specific others",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Educational Psychology",
+                "volume": "100",
+                "issue": "3",
+                "pages": "510--524",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Trautwein, U., L\u00fcdtke, O., & K\u00f6ller, O. (2008). Social comparison and big-fish little-pond effects on self-concept and other self-belief constructs: Role of generalized and specific others. Journal of Educational Psychology, 100(3), 510-524.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "The structure and function of academic self-concept in gifted and general education students",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Mccoach",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Siegle",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Roeper Review",
+                "volume": "25",
+                "issue": "",
+                "pages": "61--72",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McCoach, D. B., & Siegle, D. (2002). The structure and function of academic self-concept in gifted and general education students. Roeper Review, 25, 61-72.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Review of Educational Research",
+                "volume": "79",
+                "issue": "",
+                "pages": "1129--1176",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Pohlmann, B., K\u00f6ller, O., & Marsh, H. W. (2009). A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and aca- demic self-concept. Review of Educational Research, 79, 1129-1176.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "The National Education Longitudinal Study of 1988, first follow-up student component data file user's manual",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Mueller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Hart",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "National Center for Educational Statistics",
+                "volume": "4",
+                "issue": "2",
+                "pages": "5--11",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mueller, C. E., & Hart, C. O. (2011). Effective use of secondary data analysis in gifted edu- cation research: Opportunities and challenges. Gifted Children, 4(2), 5-11. National Center for Educational Statistics (1992). The National Education Longitudinal Study of 1988, first follow-up student component data file user's manual. Washington, DC: NCES.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Looking outside and inside: Self-concept development of gifted adolescents. The Council for Exceptional Children",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Plucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Stocking",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "67",
+                "issue": "",
+                "pages": "535--548",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Plucker, J. A., & Stocking, V. B. (2001). Looking outside and inside: Self-concept develop- ment of gifted adolescents. The Council for Exceptional Children, 67(4), 535-548.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "A guidebook for evaluating programs for the gifted and talented. Mansfield Center",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Renzulli",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1975,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Renzulli, J. S. (1975). A guidebook for evaluating programs for the gifted and talented. Mans- field Center, CT: Creative Learning Press.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Gender differences in gifted adolescents' math/verbal self-concepts and math/verbal achievement: Implications for the STEM fields",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Rinn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Mcqueen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Clark",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Rumsey",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal for the Education of the Gifted",
+                "volume": "32",
+                "issue": "",
+                "pages": "34--53",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rinn, A. N., McQueen, K. S., Clark, G., & Rumsey, J. L. (2008). Gender differences in gifted adolescents' math/verbal self-concepts and math/verbal achievement: Implications for the STEM fields. Journal for the Education of the Gifted, 32, 34-53.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Academic and social self-concepts of the academically gifted",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Ross",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Parker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "Exceptional Children",
+                "volume": "47",
+                "issue": "",
+                "pages": "6--10",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ross, A., & Parker, M. (1980). Academic and social self-concepts of the academically gifted. Exceptional Children, 47, 6-10.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Testing measurement invariance and comparing latent factor means within a confirmatory factor analysis framework",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Sass",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of Psychoeducational Assessment",
+                "volume": "36",
+                "issue": "",
+                "pages": "421--442",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0734282911406661"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Sass, D. (2011). Testing measurement invariance and comparing latent factor means within a confirmatory factor analysis framework. Journal of Psychoeducational Assessment, 36, 421-442. http://dx.doi.org/10.1177/0734282911406661.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Self-concept: Validation of construct interpretations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hubner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Stanton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Review of Educational Research",
+                "volume": "46",
+                "issue": "",
+                "pages": "407--441",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shavelson, R. J., Hubner, J. J., & Stanton, G. C. (1976). Self-concept: Validation of construct interpretations. Review of Educational Research, 46, 407-441.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Self-concept of gifted children aged 9 to 13 years old",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Shi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal for the Education of the Gifted",
+                "volume": "31",
+                "issue": "",
+                "pages": "481--499",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shi, J., Li, Y., & Zhang, X. (2008). Self-concept of gifted children aged 9 to 13 years old. Journal for the Education of the Gifted, 31, 481-499.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Self-esteem, academic selfconcept, and achievement: How the learning environment moderates the dynamics of self-concept",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Ludtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Koller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baummert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "90",
+                "issue": "2",
+                "pages": "334--349",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-3514.90.2.334"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Trautwein, U., Ludtke, O., Koller, O., & Baummert, J. (2006). Self-esteem, academic self- concept, and achievement: How the learning environment moderates the dynamics of self-concept. Journal of Personality and Social Psychology, 90(2), 334-349. http:// dx.doi.org/10.1037/0022-3514.90.2.334.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "The relation between self-beliefs and academic achievement: A meta-analytic review",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Valentine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Cooper",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Educational Psychologist",
+                "volume": "39",
+                "issue": "",
+                "pages": "111--133",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Valentine, J. C., DuBois, D. L., & Cooper, H. (2004). The relation between self-beliefs and academic achievement: A meta-analytic review. Educational Psychologist, 39, 111-133.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Assessing the factor structure invariance of self-concept measurement across ethnic and gender groups: Findings from a national sample",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Yin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Fan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "63",
+                "issue": "2",
+                "pages": "296--318",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yin, P., & Fan, X. (2003). Assessing the factor structure invariance of self-concept mea- surement across ethnic and gender groups: Findings from a national sample. Educational and Psychological Measurement, 63(2), 296-318.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Influences of internal and external frames of reference on math and verbal self-concepts for gifted and non-gifted tenth grade students",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "X"
+                        ],
+                        "last": "Archambault",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Qwen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kulikowich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Paper presented at the annual meeting of the America Education Research Association",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Zhang, W., Archambault, F. X., Qwen, S. V., & Kulikowich, J. M. (March, 1997). Influences of internal and external frames of reference on math and verbal self-concepts for gifted and non-gifted tenth grade students. Paper presented at the annual meeting of the America Education Research Association (Chicago, IL) Retrieved from ERIC database. (ED409186).",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Internal/external model: hypothesized relationships among achievement and self-concept variables. MATH = Mathematics; VER = Verbal; ACH = Achievement; SC = Self-Concept.",
+                "uris": null
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "Research questions (RQ), hypothesized relationships among variables (H 0 ), and results for all four groups.",
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td/><td>Group</td><td/><td/><td/></tr><tr><td>RQ</td><td>Relationships (variables)</td><td>H 0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>1</td><td>Math achievement-Math</td><td>+*</td><td>*0.53</td><td>*0.71</td><td>*0.42</td><td>*0.61</td></tr><tr><td/><td>self-concept</td><td/><td/><td/><td/><td/></tr><tr><td>1</td><td>Verbal achievement-Verbal</td><td>+*</td><td>*0.33</td><td>*0.41</td><td>*0.37</td><td>*0.29</td></tr><tr><td/><td>self-concept</td><td/><td/><td/><td/><td/></tr><tr><td>2</td><td>Math achievement-Verbal</td><td>0</td><td>0.04</td><td>-0.09</td><td>-0.07</td><td>-0.05</td></tr><tr><td/><td>self-concept</td><td/><td/><td/><td/><td/></tr><tr><td>2</td><td>Verbal achievement-Math</td><td>0</td><td>*-0.27</td><td>*-0.41</td><td>*-0.08</td><td>*-0.32</td></tr><tr><td/><td>self-concept</td><td/><td/><td/><td/><td/></tr><tr><td>3</td><td>Math achievement-Verbal</td><td>+*</td><td>*0.71</td><td>*0.76</td><td>*0.72</td><td>*0.67</td></tr><tr><td/><td>achievement</td><td/><td/><td/><td/><td/></tr><tr><td>3</td><td>Math self-concept-Verbal</td><td>0</td><td>0.02</td><td>0.08</td><td>*-0.23</td><td>0.06</td></tr><tr><td/><td>self-concept</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"7\">Note: All significant paths are denoted with an (*). Unexpected results are highlighted in</td></tr><tr><td colspan=\"7\">red. Group 1 = AP Math and AP English, Group 2 = AP Math only, Group 3 = AP English</td></tr><tr><td colspan=\"4\">only, and Group 4 = neither AP Math nor AP English.</td><td/><td/><td/></tr></table>"
+            }
+        }
+    }
+}

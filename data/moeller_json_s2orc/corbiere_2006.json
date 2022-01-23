@@ -1,0 +1,2522 @@
+{
+    "paper_id": "corbiere_2006",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:57:17.045232Z"
+    },
+    "title": "Academic self-concept and academic interest measurement: A multi-sample European study",
+    "authors": [
+        {
+            "first": "Marc",
+            "middle": [],
+            "last": "Corbi\u00e8re",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of British Columbia",
+                "location": {
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Franco",
+            "middle": [],
+            "last": "Fraccaroli",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Trento",
+                "location": {
+                    "country": "Italy"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Valentin",
+            "middle": [],
+            "last": "Mbekou",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "McGill University",
+                "location": {
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Jacques",
+            "middle": [],
+            "last": "Perron",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Universit\u00e9 de Montr\u00e9al",
+                "location": {
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Academic self-concept and academic interest are crucial concepts for understanding students' academic achievement. Yet, few questionnaires currently exist that have been used and validated in more than one country. This study aimed at assessing these concepts using an academic self-concept questionnaire (Marsh, 1990) and an academic interest questionnaire (Corbi\u00e8re & Mbekou, 1997) with French and Italian student samples. Confirmatory Factor Analyses enabled us to assess the structure of the two questionnaires with regard to two academic subjects-Math and First Language (French or Italian)-and to determine the theoretical directions between the concepts. Results from Confirmatory Factor Analyses of both French and Italian samples supported a theoretical model in which academic self-concept and academic interest were intercorrelated, yet maintaining their unique characteristics. On the other hand, results from Multi-Sample Confirmatory Factor Analyses (French and Italian samples) endorsed a correlational model between the two concepts. Finally, the results indicated a significant and positive correlation between academic self-concept, academic interest, and academic achievement in both academic subjects.",
+    "pdf_parse": {
+        "paper_id": "corbiere_2006",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Academic self-concept and academic interest are crucial concepts for understanding students' academic achievement. Yet, few questionnaires currently exist that have been used and validated in more than one country. This study aimed at assessing these concepts using an academic self-concept questionnaire (Marsh, 1990) and an academic interest questionnaire (Corbi\u00e8re & Mbekou, 1997) with French and Italian student samples. Confirmatory Factor Analyses enabled us to assess the structure of the two questionnaires with regard to two academic subjects-Math and First Language (French or Italian)-and to determine the theoretical directions between the concepts. Results from Confirmatory Factor Analyses of both French and Italian samples supported a theoretical model in which academic self-concept and academic interest were intercorrelated, yet maintaining their unique characteristics. On the other hand, results from Multi-Sample Confirmatory Factor Analyses (French and Italian samples) endorsed a correlational model between the two concepts. Finally, the results indicated a significant and positive correlation between academic self-concept, academic interest, and academic achievement in both academic subjects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Factors contributing to academic achievement have been studied extensively for many years, with certain concepts emerging as more influent than others such as academic selfconcept and academic interest. In this introduction, a definition of both concepts is provided and the links between academic self-concept, academic interest and academic achievement are also presented. academic self-concept, the skill development theory (Skaalvik & Hagvet, 1990 ), (2) academic self-concept predicts academic achievement, the self-enhancement theory (Shavelson & Bolus, 1982) and, (3) the two concepts affect each other reciprocally, the reciprocal model (Liu & Kaplan, 1992; Marsh & Yeung, 1997) . Results stemming from longitudinally designed studies have primarily supported the reciprocal model, with authors further emphasizing the need to intervene on improving students' academic self-concept in order to help them meet their academic goals (Guay, Marsh, & Boivin, 2003; Marsh & Yeung, 1997) . With respect to academic interest, a meta-analysis conducted by Schiefele and Csikszentmihalyi (1994) has illustrated the significant relationship between academic interest and academic achievement. Based on results from 16 empirically sound studies, Schiefele and Csikszentmihalyi (1994) detected a significant mean correlation coefficient value (r=.31) between the two targeted concepts. The results also suggested that academic interest and academic achievement were linked for all academic subjects (i.e., Mathematics, Science, Physics, Social Science, Literature, etc.) . Furthermore, another study indicates a reciprocal relationship between academic interest and academic achievement (Corbi\u00e8re, 1998) .",
+                "cite_spans": [
+                    {
+                        "start": 427,
+                        "end": 451,
+                        "text": "(Skaalvik & Hagvet, 1990",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 540,
+                        "end": 565,
+                        "text": "(Shavelson & Bolus, 1982)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 645,
+                        "end": 665,
+                        "text": "(Liu & Kaplan, 1992;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 666,
+                        "end": 686,
+                        "text": "Marsh & Yeung, 1997)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 938,
+                        "end": 967,
+                        "text": "(Guay, Marsh, & Boivin, 2003;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 968,
+                        "end": 988,
+                        "text": "Marsh & Yeung, 1997)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1055,
+                        "end": 1092,
+                        "text": "Schiefele and Csikszentmihalyi (1994)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1242,
+                        "end": 1279,
+                        "text": "Schiefele and Csikszentmihalyi (1994)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1501,
+                        "end": 1565,
+                        "text": "Mathematics, Science, Physics, Social Science, Literature, etc.)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1682,
+                        "end": 1698,
+                        "text": "(Corbi\u00e8re, 1998)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In brief, both concepts (i.e., academic self-concept and academic interest) evaluated as distinct or joint academic concepts, predict academic achievement when the specific academic subject is taken into consideration. Furthermore, results to date suggest that these two concepts might be intercorrelated and together might strongly contribute to understanding academic achievement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Except for recent studies conducted in France (Gu\u00e9rin, Marsh, & Famose, 2003) and Germany (Marsh & K\u00f6ller, 2004 ) supporting the theoretical model that distinguishes specific self-concept subject areas such as Math and Verbal self-concepts, there is a paucity of information about students' interests and academic self-concept for European students. Since most validated instruments in education stem from Australia and North America, the investigation of these concepts using validated instruments in Western Europe (e.g., France and Italy) is necessary in order to better understand academic achievement across educational systems. Furthermore, Cokley, Komarraju, King, Cunningham, and Muhammad (2003) mention that it is possible to observe ethnic differences in the measurement of academic selfconcept. In their study, the factor structure of the academic self-concept was different in African Americans when compared to European Americans. The analysis of instruments across languages is also important in order to verify the structural invariance of the questionnaires in different linguistic versions.",
+                "cite_spans": [
+                    {
+                        "start": 46,
+                        "end": 77,
+                        "text": "(Gu\u00e9rin, Marsh, & Famose, 2003)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 90,
+                        "end": 111,
+                        "text": "(Marsh & K\u00f6ller, 2004",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 647,
+                        "end": 703,
+                        "text": "Cokley, Komarraju, King, Cunningham, and Muhammad (2003)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Consequently, the objectives of this study are fourfold: (1) to perform descriptive analyses of measures of academic interest (Corbi\u00e8re & Mbekou, 1997) and academic selfconcept (Marsh, 1990 ) specifically related to Math and First Language (French or Italian); (2) to validate the presence or absence of relationships between Academic interest and Academic self-concept questionnaires with French and Italian students by using Confirmatory Factorial Analysis (CFA); (3) to verify the structural invariance of Academic interest and Academic self-concept questionnaires with both samples by using Multi-Sample Confirmatory Factor Analysis (MCFA); and (4) to study the relationships between Academic interest, Academic self-concept questionnaires, and academic achievement.",
+                "cite_spans": [
+                    {
+                        "start": 126,
+                        "end": 151,
+                        "text": "(Corbi\u00e8re & Mbekou, 1997)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 177,
+                        "end": 189,
+                        "text": "(Marsh, 1990",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The study was conducted with two samples of students respectively enrolled in French and Italian high schools. The student sample from France consisted of 153 boys and 162 girls with an average age of 12.39 years (SD: .87). In terms of educational level, 159 were attending the U.S. equivalent of sixth grade and 156, seventh grade. The student sample from Italy included 450 boys and 543 girls, aged between 18 and 19. In terms of educational level, 247 students were enrolled in a regular high school, 488 were following a technical training, and 258 were attending a secondary school with a professional training.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "In both samples, the same four questionnaires were used to assess academic interest and academic self-concept for Math and First Language, with only the content of First Language being different (French or Italian). As recommended for cross-cultural validations (Vallerand, 1989) , the Academic self-concept questionnaire was translated into French and Italian whereas the Academic interest questionnaire was translated from French to Italian and English by professional translators. The bilingual authors of this article back-translated it and compared the original version of the four questionnaires to back-translations of the English or French translations. Very few modifications to the French/Italian/English translations had to be made since the back-translations were practically identical to the original English or French versions.",
+                "cite_spans": [
+                    {
+                        "start": 262,
+                        "end": 279,
+                        "text": "(Vallerand, 1989)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Translation and procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Data collection was made with students enrolled in one high school from the South of France and one from North Italy. For each classroom (around 20-40 students), two research assistants explained the research project to the students in a similar manner.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Translation and procedure",
+                "sec_num": null
+            },
+            {
+                "text": "The academic interest questionnaire (Corbi\u00e8re & Mbekou, 1997) assesses academic interest terms that are defined by different authors (Eccles, 1983; Schiefele & Csikszentmihalyi, 1994; Viau, 1994) . Rated on a five-point Likert scale (1=completely disagree; 5=completely agree), six items measure three aspects of preferences for specific subject areas (in this case Math and First Language): inherent positive feelings, intrinsic motivation (Schiefele & Csikszentmihalyi, 1994) , and the perceived usefulness and importance of achieving in each targeted academic subject. The items are described in Appendix (in English, French and Italian).",
+                "cite_spans": [
+                    {
+                        "start": 36,
+                        "end": 61,
+                        "text": "(Corbi\u00e8re & Mbekou, 1997)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 133,
+                        "end": 147,
+                        "text": "(Eccles, 1983;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 148,
+                        "end": 183,
+                        "text": "Schiefele & Csikszentmihalyi, 1994;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 184,
+                        "end": 195,
+                        "text": "Viau, 1994)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 441,
+                        "end": 477,
+                        "text": "(Schiefele & Csikszentmihalyi, 1994)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments",
+                "sec_num": null
+            },
+            {
+                "text": "The academic self-concept (Marsh, 1990) questionnaire consists of six items and uses a five-point Likert-type scale (1=completely disagree; 5=completely agree) to assess academic self-concept in each of the targeted school subjects: Math and First Language (French/Italian, see Appendix). For example, one of the items is: \"Compared to others my age I am good at Math\". Initially the questionnaire consisted of a six-point Likert type scale but was adjusted to a five-point Likert-scale for the academic interest questionnaire in order to facilitate the completion of both questionnaires.",
+                "cite_spans": [
+                    {
+                        "start": 26,
+                        "end": 39,
+                        "text": "(Marsh, 1990)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments",
+                "sec_num": null
+            },
+            {
+                "text": "Academic achievement was self-reported by French students with respect to their grades in Math and French. In the French school system, grades range from 0 (the worst grade) to 20 (the best grade). Since the grades were self-reported, the class president was asked to verify the grades mentioned by the students from his/her classroom. The class president was a representative of his/her classroom who had access to the grades of his/her classmates. Occasionally, when there was a disagreement between the self-reported grade and the report of the class president, both grades were reviewed to establish an agreement on the actual mark. Consequently, the self-reported grades of students could then be evaluated as reliable grades.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments",
+                "sec_num": null
+            },
+            {
+                "text": "Statistical analyses involved four steps. First, in order to describe the Academic interest (Corbi\u00e8re & Mbekou, 1997) and Academic self-concept (Marsh, 1990) questionnaires, preliminary descriptive analyses (range, mean, standard deviation, and Cronbach alpha coefficients) were carried out on the French and Italian samples. Second, Confirmatory Factor Analyses with French and Italian samples enabled verification of the factorial structure of each questionnaire according to the following models: (a) distinct academic concepts without intercorrelations, (b) intercorrelation between the two academic concepts, and (c) one single dimension accounting for both academic concepts. Third, by considering the results from the previous CFA, Multi-Sample Confirmatory Factor Analysis (MCFA) was performed to test the invariance across the two samples. Fourth, correlations between all questionnaires from both samples, Italian and French, were examined. Moreover, correlations between the two academic concepts and the academic achievement were calculated for the French sample.",
+                "cite_spans": [
+                    {
+                        "start": 92,
+                        "end": 117,
+                        "text": "(Corbi\u00e8re & Mbekou, 1997)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 144,
+                        "end": 157,
+                        "text": "(Marsh, 1990)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": null
+            },
+            {
+                "text": "MCFA is a method for detecting construct bias across different samples (Keith, Fugate, DeGraff, Diamond, Shadrach, & Stevens, 1995; Keith, Quirk, Schartzer, & Elliott, 1999) . MCFA not only offers several tests from unconstrained to very constrained, but it also offers statistical fit-indices, which provide objective methods for deciding on the presence or absence of differences between groups. In other words, MCFA permits testing of different equivalence levels between samples (in this case, French and Italian samples). Within MCFA, a hierarchical procedure is available in order to establish the equivalence between groups. First, the most critical aspect of factor invariance evaluated across groups is related to factor loadings, particularly, whether the loadings are equal between the groups. Second, another important equivalence is the factors' correlation, because it suggests that the factors or components are interrelated in the same way across groups. Third, the invariance of item error variances is optional because it is possible to observe variations among respondents from different countries. This entire hierarchical procedure was followed in this study.",
+                "cite_spans": [
+                    {
+                        "start": 71,
+                        "end": 131,
+                        "text": "(Keith, Fugate, DeGraff, Diamond, Shadrach, & Stevens, 1995;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 132,
+                        "end": 173,
+                        "text": "Keith, Quirk, Schartzer, & Elliott, 1999)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Confirmatory Factor Analysis (CFA) and Multi-Sample Confirmatory Factor Analysis (MCFA)",
+                "sec_num": null
+            },
+            {
+                "text": "Before conducting MCFA, authors strongly recommend that the test model be validated without any constraints (Bentler, 1995; Kenny, 2000) . This unconstrained model is conceptually equivalent to conducting CFA with one sample. In this direction, the abovementioned three models had been tested with French and Italian samples, with the best fitting model considered most valid and subsequently retained for MCF analyses.",
+                "cite_spans": [
+                    {
+                        "start": 108,
+                        "end": 123,
+                        "text": "(Bentler, 1995;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 124,
+                        "end": 136,
+                        "text": "Kenny, 2000)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Confirmatory Factor Analysis (CFA) and Multi-Sample Confirmatory Factor Analysis (MCFA)",
+                "sec_num": null
+            },
+            {
+                "text": "Using the EQS Software (Bentler, 1995) for the CFA and the MCFA, the evaluation of the models' fit with the empirical data was carried out by taking into account various statistical indices. The adjustment indices such as the Chi square/degrees of freedom ratio, the \"Normed Fit Index\" (NFI), the \"NonNormed Fit Index\" (NNFI), the Comparative Fit Index, robust CFI (calculated starting from the Satorra-Bentler Chi square), the Bollen Incremental Fit Index (IFI), as well as the RMSEA (Root Mean Standard Error of Approximation) were used to measure the fit of the models. With regards to the value criterion of these indices, the Chi square/degrees of freedom ratio must be close to 5 (Byrne, 1989; Hofmann, 1995) , the NFI, NNFI, CFI, IFI, and robust CFI must be higher than .90 and the RMSEA must be close to .05 so that the model has good fit (J\u00f6reskog & S\u00f6rbom, 1993; Mueller, 1996) . With regards to the CFA, the estimation method Maximum Likelihood-Robust (ML-Robust) was utilized in order to evaluate the different abovementioned models. In absence of specific recommendations for MCFA, the same fit-indices and their cut-off values for single group analysis as described above were used -except for the Robust CFI, which is not available because only the ML estimation method was used for MCFAs.",
+                "cite_spans": [
+                    {
+                        "start": 23,
+                        "end": 38,
+                        "text": "(Bentler, 1995)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 686,
+                        "end": 699,
+                        "text": "(Byrne, 1989;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 700,
+                        "end": 714,
+                        "text": "Hofmann, 1995)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 847,
+                        "end": 872,
+                        "text": "(J\u00f6reskog & S\u00f6rbom, 1993;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 873,
+                        "end": 887,
+                        "text": "Mueller, 1996)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Confirmatory Factor Analysis (CFA) and Multi-Sample Confirmatory Factor Analysis (MCFA)",
+                "sec_num": null
+            },
+            {
+                "text": "For the French and Italian samples, descriptive analyses revealed mean scores in Academic interest ranging from 18.07 (SD=6.19) to 24.04 (SD=4.38), and in Academic selfconcept from 18.82 (SD=6.31) to 22.79 (SD=5.35) ( Table 1 ). The internal consistency coefficients for the academic interest and academic self-concept (Math and Italian/French) questionnaires were all satisfactory with alphas from .73 to .89 (Table 1) . Confirmatory factor analyses were carried out on both French and Italian samples, using the following questionnaires: Academic interest and Academic self-concept in Math (12 items), and Academic interest and Academic self-concept in French or Italian (12 items) by testing the three abovementioned models ( Table 2) . Regardless of the specific subject area, the \"Intercorrelation between the two concepts\" model fitted the empirical data and was more satisfactory than the other two models (i.e., the 'distinct concepts without intercorrelations', and the 'one single dimension accounting for both concepts' model). The adjustment indices such as Chi square/df (French sample range: 2.09 to 2.18, Italian sample range: 6.09 to 7.35), the NFI, NNFI, CFI, CFI robust, IFI (range: .91 to .95, both samples) as well as the RMSEA (from .06 to .08) were all satisfactory (Table 2) . Moreover, with only one degree of freedom less (from to 54 to 53), the Chi square value from the \"Intercorrelation between the two concepts\" model was notably lower irrespective of the specific subject area (e.g., French sample Math range: 208.98 to 110.90, Italian sample Math range: 1095.58 to 389.65, Table 2 ). Multi-Sample Confirmatory Factor Analyses (MCFA) were also carried out on the questionnaires using French and Italian samples, by testing the \"Intercorrelation between the two concepts\" model for each subject area, Math and First Language (French/Italian) separately. The results were very satisfactory using the hierarchical procedure for invariance across groups (i.e., factor loadings invariance, factor correlation invariance, and the invariance of item error variances, using equality constraints across groups). Even though the invariance of item error variances was trivial, MCFAs yielded a satisfactory model adjustment suggesting an invariance across French and Italian samples. In this last case, MCFA results presented satisfactory adjustment coefficients ranging from .90 to .92 for the NFI, NNFI, CFI, CFI and IFI indexes (Mueller, 1996; Joresk\u00f6g & S\u00f6rbom, 1993) . The respective values for RMSEA (varying from .06 to .07) and Chi square/df (varying from 5.10 to 6.70) were also satisfactory (Byrne, 1989; Hofmann, 1995) . However, with respect to the Math subject, the Chi square/dl value was borderline. Regarding the correlations (Table 4) between the academic self-concept and the academic interest from both samples, the results showed significant coefficients (p<.01) for both subject areas, Math (French sample: .49 and Italian Sample: .70) and First Language (French: .51 and Italian: .64). Regardless of the academic concept, the coefficients of correlation between Math and First Language (French/Italian) were low or non-significant (from .01 to -.19). With respect to academic achievement (French sample), the coefficients of correlation were higher with the academic self-concept (Math: .62 and French: .66) compared to the academic interest (Math: .27 and French: .36). ",
+                "cite_spans": [
+                    {
+                        "start": 2450,
+                        "end": 2465,
+                        "text": "(Mueller, 1996;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 2466,
+                        "end": 2490,
+                        "text": "Joresk\u00f6g & S\u00f6rbom, 1993)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2620,
+                        "end": 2633,
+                        "text": "(Byrne, 1989;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 2634,
+                        "end": 2648,
+                        "text": "Hofmann, 1995)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 218,
+                        "end": 225,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 410,
+                        "end": 419,
+                        "text": "(Table 1)",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 729,
+                        "end": 737,
+                        "text": "Table 2)",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 1288,
+                        "end": 1297,
+                        "text": "(Table 2)",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 1604,
+                        "end": 1611,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 2761,
+                        "end": 2770,
+                        "text": "(Table 4)",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "The objectives of this study were to describe and to validate the academic self-concept and academic interest questionnaires with two European student samples (French and Italian), and to verify which theoretical model describing the relationship between academic selfconcept and academic interest best fitted the data. Another objective was the evaluation of correlations between academic concepts and academic achievement with one sample (French sample).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Results from the Confirmatory Factor Analyses confirmed that each questionnaire entailed one conceptual dimension, whatever the subject area (Math, French or Italian) and the student sample. Each conceptual dimension was composed of six items and presented satisfactory internal consistency with alpha coefficients ranging from .73 to .89 for both samples. Confirmatory Factor Analyses also enabled us to confirm which theoretical model best fit the data, by describing a correlation between the two concepts varying from .49 to .70. Even though the results revealed fairly high correlation coefficients between the two concepts when using Math and First Language as academic subjects, the academic self-concept and academic interest questionnaires still portrayed distinct characteristics. These results support the theoretical perspective which stipulates that academic self-concept consists of perceptions that arise through one's experience and are reinforced by significant others. Academic interest is more of a directive force, linked to the valence attached to a specific subject area, and is also the result of present and past experiences. In brief, despite certain similitudes between the two academic concepts, each of them holds distinct characteristics and should therefore be considered separately.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Furthermore, Multi-Sample Confirmatory Factor Analyses allowed us to compare results from the French sample with those from the Italian sample in terms of factor loadings, factor correlations, and errors variances. Even though the invariance of errors variances is trivial and can be different according to the studied sample, the results yielded a significant invariance between samples with satisfactory adjustment fit indices. Contrary to Cokley et al.'s study (2003) , all MCFA results revealed a strong and robust factor structure of the academic selfconcept and academic interest questionnaires in both countries, France and Italy.",
+                "cite_spans": [
+                    {
+                        "start": 442,
+                        "end": 470,
+                        "text": "Cokley et al.'s study (2003)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Regarding the correlation between academic achievement and both academic concepts within the French sample, the results showed that the academic self-concept in the same subject area was strongly correlated (from .62 to .66, p<.01), compared to the academic interest in the same subject area (from .27 to .36, p<.01). Furthermore, whatever the academic concept (academic self-concept or academic interest), it is important to consider the academic subject in order to observe a significant correlation with the grade. On the one hand, these results suggest that academic interest seems less significant than academic self-concept to explain academic achievement in a specific subject area. The former is related to the driving force whereas the latter is associated with self-competence. On the other hand, these results support those from Marsh's study (1992) , where the specific academic subject needs to be taken into consideration in order to establish a significant correlation between academic concepts (academic self-concept and academic interest) and academic achievement.",
+                "cite_spans": [
+                    {
+                        "start": 840,
+                        "end": 860,
+                        "text": "Marsh's study (1992)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The main limitation of this study pertains to the difference in age and educational levels between the French and Italian samples. Even though the average age from the French sample was 12 compared to 18-19 for the Italian sample, the results from the Multi-Sample Confirmatory Factor Analyses with French and Italian samples have provided sufficient evidence that the factorial solution was robust regardless of educational level and age.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Overall, the results of this study support the conceptual link between academic selfconcept and academic interest, and also confirm the specificity of each academic concept. Further studies could attempt to replicate these results with students from other cultures and different educational levels. Finally, the next logical step would be to evaluate the predictive validity of the academic self-concept and academic interest questionnaires by adding academic achievement measures within a longitudinal design.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Le concept de soi scolaire et les int\u00e9r\u00eats scolaires sont des concepts importants pour comprendre le rendement scolaire des \u00e9coliers. Cependant, il y a peu de questionnaires disponibles qui ont \u00e9t\u00e9 utilis\u00e9s et valid\u00e9s dans plus d'un pays. La pr\u00e9sente \u00e9tude visait l'\u00e9valuation de ces concepts par l'utilisation du questionnaire du concept de soi scolaire (Marsh, 1990) et le questionnaire des int\u00e9r\u00eats scolaires (Corbi\u00e8re & Mbekou, 1997) Key words: Academic achievement, Academic interest, Academic self-concept, Multi-sample confirmatory factor analysis.",
+                "cite_spans": [
+                    {
+                        "start": 355,
+                        "end": 368,
+                        "text": "(Marsh, 1990)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 412,
+                        "end": 437,
+                        "text": "(Corbi\u00e8re & Mbekou, 1997)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Academic self-concept and academic interest items in English, French, and Italian Math/ English/ Math\u00e9matiques/ Fran\u00e7ais/ Sentence/Phrase/Frase Matematica Italiano Academic self-concept items 1 -Compared to others my age, I am good at... 1 2 3 4 5 1 2 3 4 5 1 -Par rapport aux autres \u00e9l\u00e8ves de ma classe, je suis bon en... 1 -Rispetto ad altri studenti della mia classe, sono bravo in... 2 -I get good marks in... 1 2 3 4 5 1 2 3 4 5 2 -J'obtiens de bonnes notes en 2 -Prendo dei bei voti in... 3 -Work in... classes is easy for me 1 2 3 4 5 1 2 3 4 5 3 -Il me semble facile d'\u00e9tudier en... 3 -Mi risulta facile studiare in... 4 -I'm hopeless when it comes to... 1 2 3 4 5 1 2 3 4 5 4 -Je suis d\u00e9courag\u00e9 en... 4 -Sono scoraggiato in... 5 -I learn things quickly in... 1 2 3 4 5 1 2 3 4 5 5 -J'apprends rapidement les cours de... 5 -Imparo velocemente i corsi di... 6 -I have always done well in... 1 2 3 4 5 1 2 3 4 5 6 -J'ai toujours \u00e9t\u00e9 bon en... 6 -Sono sempre stato bravo in...",
+                "cite_spans": [
+                    {
+                        "start": 53,
+                        "end": 81,
+                        "text": "English, French, and Italian",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Appendix",
+                "sec_num": null
+            },
+            {
+                "text": "1 -I like... courses 1 2 3 4 5 1 2 3 4 5 1 -J'aime les cours de... 1 -Mi piacciono i corsi di... 2 -For my future, it is useful to study... courses 1 2 3 4 5 1 2 3 4 5 2 -Pour mon avenir, il est utile d'\u00e9tudier les cours de... 2 -Per il mio futuro, \u00e8 utile studiare i corsi di... 3 -I enjoy studying... courses 1 2 3 4 5 1 2 3 4 5 3 -J'\u00e9prouve du plaisir \u00e0 \u00e9tudier les cours de... 3 -Provo piacere a studiare i corsi di... 4 -For me it is important to succeed in... 1 2 3 4 5 1 2 3 4 5 4 -Pour moi c'est important de bien r\u00e9ussir les cours de... 4 -Per me \u00e8 importante riuscire bene i corsi di... 5 -I prefer studying... courses 1 2 3 4 5 1 2 3 4 5 5 -Je pr\u00e9f\u00e8re \u00e9tudier les cours de... 5 -Preferisco studiare i corsi di... 6 -Compared to other academic subjects, I spend more time studying for... courses 1 2 3 4 5 1 2 3 4 5 6 -Par rapport aux autres mati\u00e8res, je consacre plus de temps \u00e0 \u00e9tudier les cours de... 6 -Rispetto alle altre materie, dedico pi\u00f9 tempo a studiare i corsi di...",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic interest items",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "EQS, Structural Equations Program Manual",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bentler, P.M. (1995). EQS, Structural Equations Program Manual. Encino, CA: Multivariate Software Inc.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "A primer of LISREL: Basic applications and programming for confirmatory factor analytic models",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B.M. (1989). A primer of LISREL: Basic applications and programming for confirmatory factor analytic models. New York: Springer-Verlag.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Self-concept of ability and perceived evaluation of others: Cause or effect of academic achievement",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Calsyn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kenny",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1977,
+                "venue": "Journal of Educational Psychology",
+                "volume": "69",
+                "issue": "2",
+                "pages": "136--145",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Calsyn, R.J., & Kenny, D.A. (1977). Self-concept of ability and perceived evaluation of others: Cause or effect of academic achievement? Journal of Educational Psychology, 69(2), 136-145.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Ethnic differences in the measurement of academic self-concept in a sample of African American and European American college students",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Cokley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Komarraju",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "King",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Cunningham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Muhammad",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Educational & Psychological Measurement",
+                "volume": "63",
+                "issue": "4",
+                "pages": "707--722",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cokley, K., Komarraju, M., King, A., Cunningham, D., & Muhammad, G. (2003). Ethnic differences in the measurement of academic self-concept in a sample of African American and European American college students. Educational & Psychological Measurement, 63(4), 707-722.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Aspects \u00e9ducationnels, personnels et vocationnels de la r\u00e9ussite scolaire d'\u00e9l\u00e8ves fran\u00e7ais et qu\u00e9b\u00e9cois: perspective synchronique et diachronique (Educational, personal and vocational aspects of the academic success of French and French Canadian students: Synchronic and Diachronic perspectives)",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Corbi\u00e8re",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Corbi\u00e8re, M. (1998). Aspects \u00e9ducationnels, personnels et vocationnels de la r\u00e9ussite scolaire d'\u00e9l\u00e8ves fran\u00e7ais et qu\u00e9b\u00e9cois: perspective synchronique et diachronique (Educational, personal and vocational aspects of the academic success of French and French Canadian students: Synchronic and Diachronic perspectives). University of Montreal, Quebec, Canada: Unpublished Doctoral Thesis.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Academic interest questionnaire. Unpublished document",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Corbi\u00e8re",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Mbekou",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Corbi\u00e8re, M., & Mbekou, V. (1997). Academic interest questionnaire. Unpublished document. Vancouver (BC), Canada: University of British Columbia.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Expectancies, values, and academic behaviors",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Achievement and achievement motives",
+                "volume": "",
+                "issue": "",
+                "pages": "75--146",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. (1983). Expectancies, values, and academic behaviors. In J.T. Spence (Ed.), Achievement and achievement motives (pp. 75-146). San Francisco: Freeman.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Age and gender differences in children's self-and taskperceptions during elementary school",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Harold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Blumenfeld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Child Development",
+                "volume": "21",
+                "issue": "",
+                "pages": "830--847",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J., Wigfield, A., Harold, R., & Blumenfeld, P. (1993). Age and gender differences in children's self-and task- perceptions during elementary school. Child Development, 21, 830-847.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Academic self-concept and academic achievement: Developmental perspectives on their causal ordering",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Boivin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Educational Psychology",
+                "volume": "95",
+                "issue": "",
+                "pages": "124--136",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guay, F., Marsh, H.W., & Boivin, M. (2003). Academic self-concept and academic achievement: Developmental perspectives on their causal ordering. Journal of Educational Psychology, 95, 124-136.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Construct validation of the Self-Description Questionnaire II with a French sample",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Gu\u00e9rin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-P",
+                        "middle": [],
+                        "last": "Famose",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "European Journal of Psychological Assessment",
+                "volume": "19",
+                "issue": "",
+                "pages": "142--150",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gu\u00e9rin, F., Marsh, H.W., & Famose, J.-P. (2003). Construct validation of the Self-Description Questionnaire II with a French sample. European Journal of Psychological Assessment, 19, 142-150.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "LISREL 8: Structural equation modeling with the Simplis command language",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "J\u00f6reskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "S\u00f6rbom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f6reskog, K.G., & S\u00f6rbom, D. (1993). LISREL 8: Structural equation modeling with the Simplis command language. Hillsdale, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Establishing factor validity using variable reduction in confirmatory factor analysis",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Hofmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "55",
+                "issue": "",
+                "pages": "572--582",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hofmann, R. (1995). Establishing factor validity using variable reduction in confirmatory factor analysis. Educational and Psychological Measurement, 55, 572-582.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "A confirmatory factor analysis of scores on a chinese version of an academic selfconcept scale and its variance across groups",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Michael",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "60",
+                "issue": "",
+                "pages": "772--786",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Huang, C., & Michael, W.B. (2000). A confirmatory factor analysis of scores on a chinese version of an academic self- concept scale and its variance across groups. Educational and Psychological Measurement, 60, 772-786.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Construct bias in the Differential Ability Scales? Confirmatory and hierarchical factor structure across three ethnic groups",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Keith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Quirk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Schartzer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Elliott",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "",
+                "volume": "17",
+                "issue": "",
+                "pages": "249--268",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Keith, T.Z., Quirk, K.J., Schartzer, C., & Elliott, C.D. (1999). Construct bias in the Differential Ability Scales? Confirmatory and hierarchical factor structure across three ethnic groups. Journal of Psychoeducational Assessment, 17, 249-268.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Using multi-sample confirmatory factor analysis to test for construct bias: An example using the K-ABC",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Keith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Fugate",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Degraff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Diamond",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Shadrach",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Stevens",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Psychoeducational Assessment",
+                "volume": "13",
+                "issue": "",
+                "pages": "347--364",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Keith, T.Z., Fugate, M.H., Degraff, M., Diamond, C.M., Shadrach, E.A., & Stevens, M.L. (1995). Using multi-sample confirmatory factor analysis to test for construct bias: An example using the K-ABC. Journal of Psychoeducational Assessment, 13, 347-364.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Multiple group models",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kenny",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kenny, D.A. (2000). Multiple group models. Retrieved March 20, 2000 from the World Wide Web: http://nw3.nai.net/~dakenny/mgroups.htm",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Decomposing the reciprocal relationships between academic achievement and general self-esteem",
+                "authors": [
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "24",
+                "issue": "",
+                "pages": "123--148",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Liu, X., & Kaplan, H.B. (1992). Decomposing the reciprocal relationships between academic achievement and general self-esteem. Youth and Society, 24, 123-148.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "The structure of academic self-concept: The Marsh/Shavelson Model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "623--636",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W. (1990). The structure of academic self-concept: The Marsh/Shavelson Model. Journal of Educational Psychology, 82, 623-636.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Content specificity of relations between academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "623--636",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W. (1992). Content specificity of relations between academic achievement and academic self-concept. Journal of Educational Psychology, 82, 623-636.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "The multidimensional structure of academic self-concept: Invariance over gender and age",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "American Educational Research Journal",
+                "volume": "30",
+                "issue": "",
+                "pages": "841--860",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W. (1993). The multidimensional structure of academic self-concept: Invariance over gender and age. American Educational Research Journal, 30, 841-860.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Unification of theoretical models of academic self-concept/achievement relation: Reunification of East and West German school systems after the fall of the Berlin Wall",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "29",
+                "issue": "3",
+                "pages": "264--282",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W., & K\u00f6ller, O. (2004). Unification of theoretical models of academic self-concept/achievement relation: Reunification of East and West German school systems after the fall of the Berlin Wall. Contemporary Educational Psychology, 29(3), 264-282.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Self-concept: Its multifaced, hierarchical structure",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Educational Psychologist",
+                "volume": "20",
+                "issue": "",
+                "pages": "107--125",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W., & Shavelson, R.J. (1985). Self-concept: Its multifaced, hierarchical structure. Educational Psychologist, 20, 107-125.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Causal effects of academic self-concept on academic achievement: Structural equation models of longitudinal data",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Educational Psychology",
+                "volume": "89",
+                "issue": "",
+                "pages": "41--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W., & Yeung, A.S. (1997). Causal effects of academic self-concept on academic achievement: Structural equation models of longitudinal data. Journal of Educational Psychology, 89, 41-54.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "A multifaced academic self-concept: Its hierarchical structure and its relation to academic achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Educational Psychology",
+                "volume": "80",
+                "issue": "",
+                "pages": "366--380",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W., Byrne, B.M., & Shavelson, R. (1988). A multifaced academic self-concept: Its hierarchical structure and its relation to academic achievement. Journal of Educational Psychology, 80, 366-380.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Multidimensional self-concepts: Relations with sex and academic achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Barnes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Journal of Educational Psychology",
+                "volume": "77",
+                "issue": "",
+                "pages": "581--596",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H.W., Smith, I.D., & Barnes, J. (1985). Multidimensional self-concepts: Relations with sex and academic achievement. Journal of Educational Psychology, 77, 581-596.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "The development and construct validation of a Spanish version of an academic self-concept scale for middle school Hispanic students from families of low socio-economic levels",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Menjares",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Michael",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Rueda",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Spanish Journal of Psychology",
+                "volume": "60",
+                "issue": "",
+                "pages": "53--62",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Menjares, P.C., Michael, W.B., & Rueda, R. (2000). The development and construct validation of a Spanish version of an academic self-concept scale for middle school Hispanic students from families of low socio-economic levels. Spanish Journal of Psychology, 60, 53-62.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "The development and preliminary validation of three forms of a self-concept measure emphasizing school-related factors",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Michael",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "38",
+                "issue": "",
+                "pages": "527--535",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Michael, W.B., & Smith, R.A. (1976). The development and preliminary validation of three forms of a self-concept measure emphasizing school-related factors. Educational and Psychological Measurement, 38, 527-535.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Basic principles of structural equation modeling: An introduction to LISREL and EQS",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Mueller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mueller, R.O. (1996). Basic principles of structural equation modeling: An introduction to LISREL and EQS. New York: Springer-Verlag.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "The reliability and construct validity of scores on the six-factor DOSC (Dimensions of Self-Concept) scale for College students",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Paik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Michael",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "60",
+                "issue": "",
+                "pages": "617--627",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Paik, C.H., & Michael, W.B. (2000). The reliability and construct validity of scores on the six-factor DOSC (Dimensions of Self-Concept) scale for College students. Educational and Psychological Measurement, 60, 617-627.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Further psychometric evaluation of the Japanese version of an academic selfconcept scale",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Paik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Michael",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Psychology",
+                "volume": "136",
+                "issue": "",
+                "pages": "298--306",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Paik, C.M., & Michael, W.B. (2002). Further psychometric evaluation of the Japanese version of an academic self- concept scale. Journal of Psychology, 136, 298-306.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Interest, Learning, and Motivation",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schiefele",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Educational Psychologist",
+                "volume": "26",
+                "issue": "",
+                "pages": "299--323",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schiefele, U. (1991). Interest, Learning, and Motivation. Educational Psychologist, 26, 299-323.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Interest and the quality of experience in classrooms",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schiefele",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Csikszentmihalyi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "European Journal of Psychology of Education",
+                "volume": "9",
+                "issue": "",
+                "pages": "251--270",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schiefele, U., & Csikszentmihalyi, M. (1994). Interest and the quality of experience in classrooms. European Journal of Psychology of Education, 9, 251-270.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Self-concept: The interplay of theory and methods",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Bolus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Journal of Educational Psychology",
+                "volume": "74",
+                "issue": "",
+                "pages": "3--17",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shavelson, R.J., & Bolus, R. (1982). Self-concept: The interplay of theory and methods. Journal of Educational Psychology, 74, 3-17.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Self-concept: Validation of construct interpretations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hubner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Stanton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Review of Educational Research",
+                "volume": "46",
+                "issue": "",
+                "pages": "407--441",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shavelson, R.J., & Hubner, J.J., Stanton, G.C. (1976). Self-concept: Validation of construct interpretations. Review of Educational Research, 46, 407-441.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Toward a methodology for the transcultural validation of psychological questionnaires: Implications for research in the French language",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vallerand",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Canadian Psychology",
+                "volume": "30",
+                "issue": "",
+                "pages": "662--680",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vallerand, R.J. (1989). Toward a methodology for the transcultural validation of psychological questionnaires: Implications for research in the French language. Canadian Psychology, 30, 662-680.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "La motivation en contexte scolaire",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Viau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Viau, R. (1994). La motivation en contexte scolaire. Montr\u00e9al, Qu\u00e9bec, Canada: \u00c9ditions du Renouveau P\u00e9dagogique.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "The development and construct validation of a Portuguese version of an academic self-concept scale",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Villar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Michael",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Gribbons",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "55",
+                "issue": "",
+                "pages": "115--123",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Villar, I.A., Michael, W.B., & Gribbons, B. (1995). The development and construct validation of a Portuguese version of an academic self-concept scale. Educational and Psychological Measurement, 55, 115-123.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Children's competence beliefs, achievement values, and general self-esteem. Change across elementary and middle school",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Journal of Early Adolescence",
+                "volume": "14",
+                "issue": "",
+                "pages": "107--138",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., & Eccles, J.S. (1994). Children's competence beliefs, achievement values, and general self-esteem. Change across elementary and middle school. Journal of Early Adolescence, 14, 107-138.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Institute of Health Promotion Research, UBC, Library Processing Centre, 2206 East Mall",
+                "authors": [
+                    {
+                        "first": "Marc",
+                        "middle": [],
+                        "last": "Corbi\u00e8re",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "414",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marc Corbi\u00e8re. Institute of Health Promotion Research, UBC, Library Processing Centre, 2206 East Mall, Room 414, Vancouver, BC, V6T lZ3, Canada; Phone: (604)8229499 Fax: (604)8229210;",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "E-mail: corbiere@interchange.ubc.ca Current theme of research",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "E-mail: corbiere@interchange.ubc.ca Current theme of research:",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Psychiatric rehabilitation. Pain and depression. Determinants of work integration for people with disabilities. Supported employment programs implementation. Homeless people with severe mental illness",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mental illness and the workplace. Healthcare professionals and healthy workplace. Psychiatric rehabilitation. Pain and depression. Determinants of work integration for people with disabilities. Supported employment programs implementation. Homeless people with severe mental illness. Most relevant publications in the field of Psychology of Education:",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Retour \u00e0 l'\u00e9cole de jeunes patients souffrant de troubles mentaux graves: Premier regard sur un projet pilote montr\u00e9alais",
+                "authors": [],
+                "year": null,
+                "venue": "Revue Sant\u00e9 Mentale au Qu\u00e9bec",
+                "volume": "",
+                "issue": "2",
+                "pages": "273--290",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Retour \u00e0 l'\u00e9cole de jeunes patients souffrant de troubles mentaux graves: Premier regard sur un projet pilote mon- tr\u00e9alais. Revue Sant\u00e9 Mentale au Qu\u00e9bec, XXVIII(2), 273-290.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Une approche multidimensionnelle de la pr\u00e9diction de la r\u00e9ussite scolaire. L'Orientation Scolaire et Professionnelle",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Corbi\u00e8re",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "26",
+                "issue": "",
+                "pages": "109--135",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Corbi\u00e8re, M. (1997). Une approche multidimensionnelle de la pr\u00e9diction de la r\u00e9ussite scolaire. L'Orientation Scolaire et Professionnelle, 26(1), 109-135.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "A longitudinal study of vocational maturity and ethnic identity development",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Perron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Vondracek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Skorikov",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Tremblay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Corbi\u00e8re",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Vocational Behavior",
+                "volume": "52",
+                "issue": "",
+                "pages": "409--424",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Perron, J., Vondracek, F.W., Skorikov, V.B., Tremblay, C., Corbi\u00e8re, M. (1998). A longitudinal study of vocational maturity and ethnic identity development. Journal of Vocational Behavior, 52, 409-424.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Equivalence interculturelle de la Mesure d'Identit\u00e9 Ethnique (M.LE.). L'Orientation Scolaire et Professionnelle",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Tremblay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Corbi\u00e8re",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Perron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-C",
+                        "middle": [],
+                        "last": "Coallier",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "29",
+                "issue": "",
+                "pages": "695--710",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tremblay, C., Corbi\u00e8re, M., Perron, J., Coallier, J.-C. (2000). Equivalence interculturelle de la Mesure d'Identit\u00e9 Ethnique (M.LE.). L'Orientation Scolaire et Professionnelle, 29, 695-710.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Identit\u00e9 ethnique \u00e0 l'adolescence: Perspective interculturelle (Ethnic identity in adolescence: Cross cultural perspective). L'Orientation Scolaire et Professionnelle",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Tremblay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Corbi\u00e8re",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Perron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-C",
+                        "middle": [],
+                        "last": "Coallier",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "30",
+                "issue": "",
+                "pages": "555--575",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tremblay, C., Corbi\u00e8re, M., Perron, J., Coallier, J.-C. (2001). Identit\u00e9 ethnique \u00e0 l'adolescence: Perspective intercultu- relle (Ethnic identity in adolescence: Cross cultural perspective). L'Orientation Scolaire et Professionnelle, 30, 555-575.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Current theme of research: Work and organizational socialization process. School-work transition of youth. Work values and career counselling",
+                "authors": [],
+                "year": null,
+                "venue": "M. Dei Ben",
+                "volume": "5",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Franco Fraccaroli. Department of Cognitive and Educational Science, University of Trento-Polo di Rovereto, via M. Dei Ben 5, 38068 Rovereto, TN, Italy; E-mail: franco.fraccaroli@unitn.it; Web site: http://www.discof.unitn.itlindex_def.htm Current theme of research: Work and organizational socialization process. School-work transition of youth. Work values and career counselling. Most relevant publications in the field of Psychology of Education:",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "L'incertitude \u00e0 l'\u00e9gard de l'avenir professionnel: Une recherche longitudinale chez des \u00e9tudiants de doctorat. L'Orientation Scolaire et Professionnelle",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Depolo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Fraccaroli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Guglielmi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Mariani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Sarchielli",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "30",
+                "issue": "",
+                "pages": "49--62",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Depolo, M., Fraccaroli, F., Guglielmi, D., Mariani, M., & Sarchielli, G. (2001). L'incertitude \u00e0 l'\u00e9gard de l'avenir pro- fessionnel: Une recherche longitudinale chez des \u00e9tudiants de doctorat. L'Orientation Scolaire et Professionnelle, 30(1), 49-62.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Une recherche longitudinale sur la transition \u00e9cole-emploi",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Fraccaroli",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Le Travail Humain",
+                "volume": "57",
+                "issue": "2",
+                "pages": "145--162",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fraccaroli, F. (1994). Stabilit\u00e9 et changement des significations du travail. Une recherche longitudinale sur la transition \u00e9cole-emploi. Le Travail Humain, 57(2), 145-162.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "I valori lavorativi tra gli studenti delle scuole superiori: Validazione di uno strumento per l'orientamento professionale",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Perron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Fraccaroli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Pombeni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Daoust",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Bollettino di Psicologia Applicata",
+                "volume": "243",
+                "issue": "",
+                "pages": "31--41",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Perron, J., Fraccaroli, F., Pombeni, M.L., & Daoust, J.P. (2004). I valori lavorativi tra gli studenti delle scuole superiori: Validazione di uno strumento per l'orientamento professionale. Bollettino di Psicologia Applicata, 243, 31-41.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Canada; E-mail: mbeval@douglas.mcgill.ca, www.douglas.ca Current theme of research",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Valentin Mbekou. Department of Psychiatry, Douglas Hospital, McGill University, Canada; E-mail: mbeval@douglas.mcgill.ca, www.douglas.ca Current theme of research:",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Cognitive and executive functions deficits in ADHD. Dialectical behavioral therapy for youth at risk for personality disorders",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cognitive and executive functions deficits in ADHD. Dialectical behavioral therapy for youth at risk for personality disorders. Most relevant publications in the field of Psychology of Education:",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Sensitivity ofTests to Assess Improvement in ADHD Symptomatology",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Grizenko",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Ph",
+                        "middle": [],
+                        "last": "Lageix",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Baron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Ben Amor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Mbekou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Schwartz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Joober",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Canadian Child and Adolescent Psychiatry Review",
+                "volume": "13",
+                "issue": "2",
+                "pages": "36--39",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Grizenko, N., Lageix, Ph., Baron, C., Ben Amor, L., Mbekou, V., Schwartz, G., & Joober, R. (2004). Sensitivity ofTests to Assess Improvement in ADHD Symptomatology. Canadian Child and Adolescent Psychiatry Review, 13(2), 36-39.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Child and parent variables associated with treatment response in narcissistic youths: The role of self-blame and shame",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Guil\u00e9",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Mb\u00e9kou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Lageix",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Canadian Child and Adolescent Psychiatry Review",
+                "volume": "13",
+                "issue": "3",
+                "pages": "80--83",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guil\u00e9, J.M., Mb\u00e9kou, V., & Lageix, P. (2004). Child and parent variables associated with treatment response in narcissistic youths: The role of self-blame and shame. Canadian Child and Adolescent Psychiatry Review, 13(3), 80-83.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Development and validation of the Child-Diagnostic Inventory for Narcissism",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Guil\u00e9",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Mbekou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Bergeron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Fortier",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Adolescent Psychiatry",
+                "volume": "12",
+                "issue": "2",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guil\u00e9, J.M., Mbekou, V., Bergeron, L., & Fortier, H. (2003). Development and validation of the Child-Diagnostic Inventory for Narcissism. European Child and Adolescent Psychiatry, 12(2), 38.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Variables associ\u00e9es au trouble de personnalit\u00e9 narcissique chez l'enfant et l'adolescent: Associated variables to narcissistic personality disorder in children and adolescents",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Guil\u00e9",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Mbekou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Fortier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Cornez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Bergeron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Sayegh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Annales M\u00e9dico-Psychologiques",
+                "volume": "160",
+                "issue": "8",
+                "pages": "550--558",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guil\u00e9, J.M., Mbekou, V., Fortier, H,. Cornez, C. Bergeron, L., & Sayegh, L. (2002). Variables associ\u00e9es au trouble de personnalit\u00e9 narcissique chez l'enfant et l'adolescent: Associated variables to narcissistic personality disorder in children and adolescents. Annales M\u00e9dico-Psychologiques, Revue Psychiatrique, 160(8), 550-558.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "L'influence de l'impulsivit\u00e9 et de l'efficience cognitive sur le rendement acad\u00e9mique. L'Appoint",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Mbekou",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "",
+                "volume": "15",
+                "issue": "",
+                "pages": "3--12",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mbekou, V. (1999). L'influence de l'impulsivit\u00e9 et de l'efficience cognitive sur le rendement acad\u00e9mique. L'Appoint, 15(2), 3-12.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "E-mail: Jacques.perron@umontreal.ca; Web site: www.umontreal",
+                "authors": [],
+                "year": null,
+                "venue": "C.P",
+                "volume": "6128",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jacques Perron. D\u00e9partement de Psychologie Universit\u00e9 de Montr\u00e9al, C.P. 6128, Succursale Centre-Ville Montr\u00e9al, Qu\u00e9bec, H3C 317, Canada; E-mail: Jacques.perron@umontreal.ca; Web site: www.umontreal.ca Current theme of research:",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "School-to-Work Transition. Work Values and Career Development. Psychological Health of School Personnel. Academic and Professional Preparation of Psychology Students. Prediction of Academic Achievement in Community Colleges",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "School-to-Work Transition. Work Values and Career Development. Psychological Health of School Personnel. Academic and Professional Preparation of Psychology Students. Prediction of Academic Achievement in Community Colleges. Most relevant publications in the field of Psychology of Education:",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "Les etudes de premier cycle en psychologie: Orientations du programme et diversit\u00e9 de la client\u00eale",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Cagiotti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Perron",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Revue Ou\u00e9b\u00e9coise de Psychologie",
+                "volume": "25",
+                "issue": "",
+                "pages": "223--237",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cagiotti, I., & Perron, J. (2004). Les etudes de premier cycle en psychologie: Orientations du programme et diversit\u00e9 de la client\u00eale. Revue Ou\u00e9b\u00e9coise de Psychologie, 25, 223-237.",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "Formation aux \u00e9tudes sup\u00e9rieures en psychologie: Comp\u00e9tences en evaluation, en recherche et en intervention",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Perron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Cagiotti",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Revue Qu\u00e9b\u00e9coise de Psychologie",
+                "volume": "25",
+                "issue": "",
+                "pages": "131--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Perron, J., & Cagiotti, I. (2004). Formation aux \u00e9tudes sup\u00e9rieures en psychologie: Comp\u00e9tences en evaluation, en recherche et en intervention. Revue Qu\u00e9b\u00e9coise de Psychologie, 25, 131-149.",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "I valori lavorativi tra gli studenti delle scuole superiori: Validazione di uno strumento per l'orientamento professionale",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Perron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Fraccaroli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Pombeni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-P",
+                        "middle": [],
+                        "last": "Daoust",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Bollettino di Psicologia Applicata",
+                "volume": "243",
+                "issue": "",
+                "pages": "31--41",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Perron, J., Fraccaroli, F., Pombeni, M.L., & Daoust, J.-P. (2004). I valori lavorativi tra gli studenti delle scuole superiori: Validazione di uno strumento per l'orientamento professionale. Bollettino di Psicologia Applicata, 243, 31-41.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "num": null,
+                "text": "Description of the questionnaires according to the samples and conceptual dimensions",
+                "type_str": "table",
+                "content": "<table><tr><td>Samples/dimensions</td><td>Items</td><td>Range</td><td>Mean</td><td>SD</td><td>Alpha</td></tr><tr><td>French sample (N=315)</td><td/><td/><td/><td/><td/></tr><tr><td>Academic interest -Math</td><td>6</td><td>9 to 30</td><td>24.21</td><td>4.49</td><td>.73</td></tr><tr><td>Academic interest -French</td><td>6</td><td>7 to 30</td><td>24.04</td><td>4.38</td><td>.76</td></tr><tr><td>Academic self-concept -Math</td><td>6</td><td>7 to 30</td><td>22.79</td><td>5.35</td><td>.86</td></tr><tr><td>Academic self-concept -French</td><td>6</td><td>7 to 30</td><td>22.03</td><td>5.14</td><td>.85</td></tr><tr><td>Italian sample (N=993)</td><td/><td/><td/><td/><td/></tr><tr><td>Academic interest -Math</td><td>6</td><td>6 to 30</td><td>18.07</td><td>6.19</td><td>.88</td></tr><tr><td>Academic interest -Italian</td><td>6</td><td>6 to 30</td><td>19.85</td><td>5.29</td><td>.83</td></tr><tr><td>Academic self-concept -Math</td><td>6</td><td>6 to 30</td><td>18.82</td><td>6.31</td><td>.89</td></tr><tr><td>Academic self-concept -Italian</td><td>6</td><td>6 to 30</td><td>20.59</td><td>4.95</td><td>.83</td></tr></table>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Confirmatory factor analyses -Goodness-of-fit results for all models(France N=315, Italy N=993)",
+                "type_str": "table",
+                "content": "<table><tr><td>Scales</td><td>Sample</td><td colspan=\"2\">Number of items DF</td><td>\u03c7 2</td><td colspan=\"6\">CFI \u03c7 2 /df NFI NNFI robust IFI RMSEA</td></tr><tr><td>Math</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Academic self-concept and academic</td><td>France</td><td>12</td><td>54</td><td colspan=\"2\">0208.98 03.87</td><td>.82</td><td>.83</td><td>.86</td><td>.86</td><td>.09</td></tr><tr><td>interest are not correlated</td><td>Italy</td><td>12</td><td>54</td><td colspan=\"2\">1095.58 20.29</td><td>.85</td><td>.83</td><td>.86</td><td>.86</td><td>.14</td></tr><tr><td>Academic self-concept and academic</td><td>France</td><td>12</td><td>53</td><td colspan=\"2\">0110.90 02.09</td><td>.91</td><td>.93</td><td>.95</td><td>.95</td><td>.06</td></tr><tr><td>interest are correlated</td><td>Italy</td><td>12</td><td>53</td><td colspan=\"2\">0389.65 07.35</td><td>.95</td><td>.94</td><td>.95</td><td>.95</td><td>.08</td></tr><tr><td>Academic self-concept and academic</td><td>France</td><td>12</td><td>54</td><td colspan=\"2\">0270.17 05.00</td><td>.77</td><td>.76</td><td>.80</td><td>.81</td><td>.11</td></tr><tr><td>interest -One global dimension</td><td>Italy</td><td>12</td><td>54</td><td colspan=\"2\">0914.65 16.94</td><td>.88</td><td>.86</td><td>.88</td><td>.88</td><td>.13</td></tr><tr><td>French/Italian</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Academic self-concept and academic</td><td>France</td><td>12</td><td>54</td><td colspan=\"2\">0219.19 04.06</td><td>.82</td><td>.83</td><td>.86</td><td>.86</td><td>.09</td></tr><tr><td>interest are not correlated</td><td>Italy</td><td>12</td><td>54</td><td colspan=\"2\">0845.36 15.65</td><td>.80</td><td>.77</td><td>.81</td><td>.81</td><td>.12</td></tr><tr><td>Academic self-concept and academic</td><td>France</td><td>12</td><td>53</td><td colspan=\"2\">0115.43 02.18</td><td>.91</td><td>.93</td><td>.95</td><td>.95</td><td>.06</td></tr><tr><td>interest are correlated</td><td>Italy</td><td>12</td><td>53</td><td colspan=\"2\">0322.92 06.09</td><td>.93</td><td>.92</td><td>.94</td><td>.94</td><td>.07</td></tr><tr><td>Academic self-concept and academic</td><td>France</td><td>12</td><td>54</td><td colspan=\"2\">0270.19 05.00</td><td>.78</td><td>.77</td><td>.81</td><td>.82</td><td>.11</td></tr><tr><td>Interest -One global dimension</td><td>Italy</td><td>12</td><td>54</td><td colspan=\"2\">0611.26 11.32</td><td>.86</td><td>.84</td><td>.87</td><td>.87</td><td>.10</td></tr></table>"
+            },
+            "TABREF2": {
+                "num": null,
+                "text": "",
+                "type_str": "table",
+                "content": "<table><tr><td colspan=\"11\">Multi-sample confirmatory factor analyses -Goodness-of-fit results for the retained model</td></tr><tr><td colspan=\"2\">(France N=315 and Italy N=993)</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Model with specific constraints</td><td>Sample</td><td colspan=\"2\">Number of items DF</td><td>\u03c7 2</td><td colspan=\"6\">CFI \u03c7 2 /df NFI NNFI robust IFI RMSEA</td></tr><tr><td>Academic self-concept and</td><td>Math</td><td>24</td><td>116</td><td colspan=\"2\">723.59 6.24</td><td>.92</td><td>.93</td><td>.94</td><td>.94</td><td>.06</td></tr><tr><td>academic interest are correlated</td><td>French/Italian</td><td>24</td><td>116</td><td colspan=\"2\">594.06 5.12</td><td>.91</td><td>.92</td><td>.93</td><td>.93</td><td>.06</td></tr><tr><td>-Same factor loadings</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Academic self-concept and</td><td>Math</td><td>24</td><td>117</td><td colspan=\"2\">760.88 6.50</td><td>.92</td><td>.92</td><td>.93</td><td>.93</td><td>.06</td></tr><tr><td>academic interest are correlated</td><td>French/Italian</td><td>24</td><td>117</td><td colspan=\"2\">600.92 5.14</td><td>.91</td><td>.92</td><td>.93</td><td>.93</td><td>.06</td></tr><tr><td>-Same factor loadings and</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>correlation between factors</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Academic self-concept and</td><td>Math</td><td>24</td><td>129</td><td colspan=\"2\">864.27 6.70</td><td>.91</td><td>.91</td><td>.92</td><td>.92</td><td>.07</td></tr><tr><td>academic interest are correlated</td><td>French/Italian</td><td>24</td><td>129</td><td colspan=\"2\">658.74 5.10</td><td>.90</td><td>.91</td><td>.92</td><td>.92</td><td>.06</td></tr><tr><td>-Same factor loadings,</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>correlation between factors, and</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>same errors measures</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"11\">Note. NFI=Normed Fit Index; NNFI=NonNormed Fit Index; CFI=Comparative Fit Index; IFI=Bollen Incremental Fit</td></tr><tr><td colspan=\"5\">Index; RMSEA=Root Mean Square Error of Approximation.</td><td/><td/><td/><td/><td/></tr></table>"
+            },
+            "TABREF3": {
+                "num": null,
+                "text": "Correlations among the academic concepts within samples",
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td colspan=\"3\">French sample (N=315)</td><td/><td/><td colspan=\"3\">Italian sample (N=993)</td></tr><tr><td/><td>ASC</td><td>ASC</td><td>AI</td><td>AI</td><td colspan=\"2\">Grade Grade</td><td>ASC</td><td>ASC</td><td>AI</td><td>AI</td></tr><tr><td/><td>in</td><td>in</td><td>in</td><td>in</td><td>in</td><td>in</td><td>in</td><td>in</td><td>in</td><td>in</td></tr><tr><td>Scales</td><td colspan=\"6\">French Math French Math French Math</td><td colspan=\"4\">Italian Math Italian Math</td></tr><tr><td>ASC in French/Italian</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>ASC in Math</td><td>-.10**</td><td/><td/><td/><td/><td/><td>-.19**</td><td/><td/></tr><tr><td>AI in French/Italian</td><td colspan=\"2\">-.51** -.19**</td><td/><td/><td/><td/><td colspan=\"2\">-.64** -.14**</td><td/></tr><tr><td>AI in Math</td><td colspan=\"3\">-.15** -.49** -.01**</td><td/><td/><td/><td colspan=\"2\">-.15** -.70**</td><td>-.01</td></tr><tr><td>Grade in French</td><td colspan=\"4\">-.66** -.16** -.36** -.12**</td><td/><td/><td/><td/><td/></tr><tr><td>Grade in Math</td><td colspan=\"5\">-.18** -.62** -.04** -.27** .46**</td><td/><td/><td/><td/></tr><tr><td>Note.</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr></table>"
+            },
+            "TABREF4": {
+                "num": null,
+                "text": "et ce, en consid\u00e9rant des \u00e9chantillons fran\u00e7ais et italiens. Des analyses factorielles confirmatoires nous ont permis d'\u00e9valuer la structure factorielle des deux questionnaires concernant les mati\u00e8res scolaires -Math\u00e9matiques et Premi\u00e8re langue (fran\u00e7ais ou italien) -et de d\u00e9terminer quelles sont les directions th\u00e9oriques entre les concepts. Les r\u00e9sultats des analyses factorielles confirmatoires sur les \u00e9chantillons fran\u00e7ais et italien ont soutenu le mod\u00e8le th\u00e9orique en vertu duquel concept de soi scolaire et les int\u00e9r\u00eats scolaires sont corr\u00e9l\u00e9s et ce, tout en conservant leurs propres caract\u00e9ristiques. Par ailleurs, les r\u00e9sultats d'analyses factorielles confirmatoires \u00e0 \u00e9chantillons multiples (\u00e9chantillons fran\u00e7ais et italien) \u00e9tayaient un mod\u00e8le corr\u00e9lationnel entre les deux concepts. Enfin, les r\u00e9sultats indiquaient une corr\u00e9lation positive et significative entre le concept de soi scolaire, les int\u00e9r\u00eats scolaires et le rendement scolaire pour les deux mati\u00e8res scolaires (Math\u00e9matiques et Premi\u00e8re langue).",
+                "type_str": "table",
+                "content": "<table/>"
+            }
+        }
+    }
+}

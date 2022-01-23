@@ -1,0 +1,3066 @@
+{
+    "paper_id": "helm_2018",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:55:15.485785Z"
+    },
+    "title": "Learning and Instruction",
+    "authors": [
+        {
+            "first": "Friederike",
+            "middle": [],
+            "last": "Helm",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Kiel",
+                "location": {
+                    "addrLine": "Olshausenstra\u00dfe 75",
+                    "postCode": "24118",
+                    "settlement": "Kiel",
+                    "country": "Germany"
+                }
+            },
+            "email": "fhelm@ipl.uni-kiel.de"
+        },
+        {
+            "first": "Hanno",
+            "middle": [],
+            "last": "M\u00fcller-Kalthoff",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Rebecca",
+            "middle": [],
+            "last": "Mukowski",
+            "suffix": "",
+            "affiliation": {},
+            "email": "rebecca.mukowski@charite.de"
+        },
+        {
+            "first": "Jens",
+            "middle": [],
+            "last": "M\u00f6ller",
+            "suffix": "",
+            "affiliation": {},
+            "email": "jmoeller@ipl.uni-kiel.de"
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Research on teacher judgment accuracy is connected with the Internal/External frame of reference model. Social and dimensional comparisons between achievements are central to the formation of students' mathematical and verbal self-concepts. Inferring self-concepts, teachers often ignore dimensional comparisons. Two studies tested whether information about students' achievements in two subjects can help teachers to comprehend students' social and dimensional comparisons, and to judge students' mathematics and German self-concepts more accurately. In Study 1 (N = 35 teachers, N = 578 students), informed mathematics teachers judged mathematics self-concepts more accurately and showed stronger social comparison effects. Neither informed nor uninformed teachers showed contrastive dimensional comparisons. Study 2 (N = 47, N = 746 students) replicated the central results of Study 1 for German teachers. Our results speak against contrastive dimensional comparisons in teachers' self-concept inferences. Yet, information about achievements can improve judgment accuracy through triggering stronger use of social comparison information.",
+    "pdf_parse": {
+        "paper_id": "helm_2018",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Research on teacher judgment accuracy is connected with the Internal/External frame of reference model. Social and dimensional comparisons between achievements are central to the formation of students' mathematical and verbal self-concepts. Inferring self-concepts, teachers often ignore dimensional comparisons. Two studies tested whether information about students' achievements in two subjects can help teachers to comprehend students' social and dimensional comparisons, and to judge students' mathematics and German self-concepts more accurately. In Study 1 (N = 35 teachers, N = 578 students), informed mathematics teachers judged mathematics self-concepts more accurately and showed stronger social comparison effects. Neither informed nor uninformed teachers showed contrastive dimensional comparisons. Study 2 (N = 47, N = 746 students) replicated the central results of Study 1 for German teachers. Our results speak against contrastive dimensional comparisons in teachers' self-concept inferences. Yet, information about achievements can improve judgment accuracy through triggering stronger use of social comparison information.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Positive self-concepts are important for students' social and emotional development (Kagan, Moore, & Bredekamp, 1995) . As academic self-concepts moreover influence motivation and effort in various domains (Eccles, O'Neill, & Wigfield, 2005) , they are seen as a major factor influencing subsequent learning (e.g., Marsh & Craven, 2006; M\u00f6ller, Retelsdorf, K\u00f6ller, & Marsh, 2011; Retelsdorf, K\u00f6ller, & M\u00f6ller, 2014; Valentine, DuBois, & Cooper, 2004) . Promotion of domain-specific academic self-concepts thus is a central research topic in educational psychology, a major objective for effective schooling (Brookover & Lezotte, 1979) and, accordingly, a central task for teachers. If achievement suffers, teachers should be able to identify the correct reason for this decreased achievement, which might be a decrease in self-concept. Based on their correct diagnosis, teachers will then be able to take appropriate measures to support students in developing a more positive self-concept and to subsequently improve their achievement (Spinath, 2005) . Thus, as it constitutes a factor preceding the promotion of students' self-concepts, teachers' ability to correctly judge students' evaluations of their own abilities has also gotten into the focus of research in recent years. It seems to be more difficult for teachers to adequately assess students' academic self-concepts than to assess students' abilities (Kaiser, Retelsdorf, S\u00fcdkamp, & M\u00f6ller, 2013; Spinath, 2005) . Moreover, when estimating students' mathematical and verbal self-concepts, teachers seem to miss one central process that students themselves carry out when forming their self-concepts in these areas: contrastive dimensional comparison. Therefore, the present studies aim at analyzing teachers' judgment accuracy regarding students' mathematical and verbal self-concepts to reveal whether teachers' judgment accuracy is affected by information teachers have about students' achievements in the two areas. It is assumed that informed teachers will use students' achievements more strongly to derive self-concepts from these achievements, leading to stronger hints on social comparisons (Festinger, 1954) , and, centrally, on contrastive dimensional comparisons (M\u00f6ller & Marsh, 2013) in their estimations of students' selfconcepts. Hence, the present studies provide a contribution to research about teacher judgment accuracy, as they assess teachers' judgment accuracy in the estimation of students' mathematical and verbal selfconcepts. Moreover, they pose the question whether judgment accuracy can be increased by providing teachers with the possibility to carry out social and especially dimensional comparisons that students themselves draw when forming their subject-specific self-concepts. On the other hand, the present studies provide relevant findings for dimensional comparison theory (M\u00f6ller & Marsh, 2013) , as they examine whether hints on dimensional comparisons can be found when teachers are asked to assess students' self-concepts, and, whether the effects hinting https://doi.org/10.1016/j.learninstruc.2018.02.002 Received 22 May 2017; Received in revised form 1 February 2018; Accepted 5 February 2018 on dimensional comparisons can be influenced by informing teachers about students' achievements in the two subjects judged. In the next paragraphs, firstly, the state of research on teachers' diagnostic accuracy with regard to students' academic ability self-concepts is depicted, secondly, research on social and dimensional comparisons in the formation of students' self-concepts is outlined, and thirdly, findings on possible social and dimensional comparisons in the formation of teachers' inferences of students' self-concepts are presented.",
+                "cite_spans": [
+                    {
+                        "start": 84,
+                        "end": 117,
+                        "text": "(Kagan, Moore, & Bredekamp, 1995)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 206,
+                        "end": 241,
+                        "text": "(Eccles, O'Neill, & Wigfield, 2005)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 315,
+                        "end": 336,
+                        "text": "Marsh & Craven, 2006;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 337,
+                        "end": 379,
+                        "text": "M\u00f6ller, Retelsdorf, K\u00f6ller, & Marsh, 2011;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 380,
+                        "end": 415,
+                        "text": "Retelsdorf, K\u00f6ller, & M\u00f6ller, 2014;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 416,
+                        "end": 450,
+                        "text": "Valentine, DuBois, & Cooper, 2004)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 607,
+                        "end": 634,
+                        "text": "(Brookover & Lezotte, 1979)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1035,
+                        "end": 1050,
+                        "text": "(Spinath, 2005)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1412,
+                        "end": 1457,
+                        "text": "(Kaiser, Retelsdorf, S\u00fcdkamp, & M\u00f6ller, 2013;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1458,
+                        "end": 1472,
+                        "text": "Spinath, 2005)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 2160,
+                        "end": 2177,
+                        "text": "(Festinger, 1954)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 2235,
+                        "end": 2257,
+                        "text": "(M\u00f6ller & Marsh, 2013)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 2871,
+                        "end": 2893,
+                        "text": "(M\u00f6ller & Marsh, 2013)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "1.1. Teachers' judgment accuracy regarding students' self-concepts Teachers' ability to accurately judge their students with regard to various characteristics is considered an important precondition for the adequate planning and implementation of instruction in school (S\u00fcdkamp, Kaiser, & M\u00f6ller, 2012) . The average judgment accuracy regarding student achievement is good, as the meta-analysis by S\u00fcdkamp et al. (2012) indicates (mean correlation between teacher judgment and student achievement: r = .63). Besides teachers' ability to judge students' achievement accurately, teachers' diagnostic accuracy regarding other student characteristics, like student anxiety, motivation, and self-concept, has been the object of several studies (e.g., Givvin, Stipek, Salmon, & MacGyvers, 2001; Kaiser et al., 2013; Spinath, 2005) . It shows that teachers' ability to judge these aspects generally is lower than their ability to judge students' achievements: For example, Spinath (2005) found teachers' judgments regarding students' learning motivation and school anxiety to be correlated with students' actual motivation and anxiety to a rather low degree (r = .20 and r = .15). Studies examining teacher judgment accuracy concerning students' self-concepts mostly show low to moderate correlations between students' self-concepts and teachers' inferences: Spinath (2005) found a moderate correlation (r = .39) between students' self-concept and teacher judgments of students' self-concepts in primary schools. Similar results were obtained by Marsh, Smith, and Barnes (1984) , for reading (r = .34) and mathematics (r = .29) (see also Marsh, Parker, & Smith, 1983) . Pohlmann, M\u00f6ller, and Streblow (2004) assessed mathematics teachers' inferences of their students' mathematics and German self-concepts. As expected, correspondence between teachers' inferences and students' self-concepts was higher for mathematics (r = .49) than for German (r = .10). Marsh and Craven (1991) found positive moderate to average correlations between primary teachers' inferences and students' self-concepts at two points in time during a school year (for reading at time 1: r = .39, at time 2: r = .50; for mathematics at time 1: r = .47, at time 2: r = .52). Similar, but on average slightly higher correlations were obtained between students' self-concepts and self-concepts inferred by their parents (rs = .46-.60). This finding is cautiously explained by Marsh and Craven (1991) with parents being likely to talk more often about their children's school experiences, achievements and school-related feelings with their children than teachers do with their students. Therefore, parents might take the obtained information into account very strongly when inferring their children's self-concepts. They might also consider their children's feelings and experiences in different subjects, when estimating their children's self-concepts (see Van Zanden et al., 2017) , whereas teachers might base their estimates of students' self-concepts on students' achievements in the subject they teach to a bigger amount.",
+                "cite_spans": [
+                    {
+                        "start": 269,
+                        "end": 302,
+                        "text": "(S\u00fcdkamp, Kaiser, & M\u00f6ller, 2012)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 398,
+                        "end": 419,
+                        "text": "S\u00fcdkamp et al. (2012)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 746,
+                        "end": 788,
+                        "text": "Givvin, Stipek, Salmon, & MacGyvers, 2001;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 789,
+                        "end": 809,
+                        "text": "Kaiser et al., 2013;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 810,
+                        "end": 824,
+                        "text": "Spinath, 2005)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 966,
+                        "end": 980,
+                        "text": "Spinath (2005)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1352,
+                        "end": 1366,
+                        "text": "Spinath (2005)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1539,
+                        "end": 1570,
+                        "text": "Marsh, Smith, and Barnes (1984)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1631,
+                        "end": 1660,
+                        "text": "Marsh, Parker, & Smith, 1983)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 1663,
+                        "end": 1700,
+                        "text": "Pohlmann, M\u00f6ller, and Streblow (2004)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1949,
+                        "end": 1972,
+                        "text": "Marsh and Craven (1991)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 2438,
+                        "end": 2461,
+                        "text": "Marsh and Craven (1991)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 2915,
+                        "end": 2944,
+                        "text": "(see Van Zanden et al., 2017)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Studies examining teachers' diagnostic accuracy while judging different characteristics of students thus attest teachers a lower ability to judge students' academic self-concepts than to judge students' achievements. This difference may partly be caused by the fact that teachers frequently measure students' achievements with relatively objective achievement measures like exams, hence receiving a more or less clear picture of students' strengths and difficulties with regard to ability and achievement. In contrast, it is harder to judge students' selfconcepts accurately. One reason may be that teachers, as proposed by Marsh and Craven (1991) , mainly base their inferences on students' achievement in the regarding domain, because this achievement is the most accessible information for them. In doing so, teachers might fail to consider certain central processes students themselves use while forming their academic self-concepts: For example, teachers might not consider students' achievements in other subjects and domains, and therefore might miss a central process that students themselves carry out when forming their self-concepts: contrastive dimensional comparison. The exact information on which teachers base their judgments on students' self-concepts has not yet been exhaustively explored. The present study aims to contribute to the closure of this research gap.",
+                "cite_spans": [
+                    {
+                        "start": 624,
+                        "end": 647,
+                        "text": "Marsh and Craven (1991)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Within the effect that achievement has on students' subject-specific self-concepts, two very important comparison processes manifest themselves: social (Festinger, 1954) and dimensional comparisons (M\u00f6ller & Marsh, 2013) . Social comparisons comprise a comparison of the student's own achievements in a domain (mathematical or verbal) with other students' achievements in the regarding domain. The effects of social comparisons are expressed in positive achievement-self-concept relationsstudents with better-off grades develop higher selfconcepts within the domain. Dimensional comparisons are comparisons of students' own achievement in a domain (mathematical or verbal) with their own achievement in another domain (verbal or mathematical). Effects of dimensional comparisons are expressed in negative achievement-self-concept relations across domains: A student with better achievement in the mathematical domain will develop a worse self-concept in the verbal domain, compared to a student with equal verbal but worse mathematics achievement. Both effects, those of social and those of dimensional comparisons, are considered in the internal/ external frame of reference model (I/E model; Marsh, 1986) : Social comparisons lead to positive effects of achievements on self-concepts in the corresponding domain, whereas dimensional comparisons lead to negative effects of achievements on self-concepts in the non-corresponding domain. Fig. 1 depicts the meta-analytic findings by M\u00f6ller, Pohlmann, K\u00f6ller, and Marsh (2009) on the relations between achievements and self-concepts in the mathematical and the verbal area across 69 studies from different countries and with different student age groups. It can be noted that the positive effects of social comparisons exceed the negative effects of dimensional comparisons.",
+                "cite_spans": [
+                    {
+                        "start": 152,
+                        "end": 169,
+                        "text": "(Festinger, 1954)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 198,
+                        "end": 220,
+                        "text": "(M\u00f6ller & Marsh, 2013)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1194,
+                        "end": 1206,
+                        "text": "Marsh, 1986)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1483,
+                        "end": 1525,
+                        "text": "M\u00f6ller, Pohlmann, K\u00f6ller, and Marsh (2009)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1438,
+                        "end": 1444,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Determinants of students' academic self-concepts: social and dimensional comparisons",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "Besides the meta-analysis, various path-analytic (e.g., Marsh et al., 2014 Marsh et al., , 2015 Zimmermann, M\u00f6ller, & K\u00f6ller, 2018) , introspective diary studies (M\u00f6ller & Husemann, 2006) and experimental studies (Dickh\u00e4user, Seidler, & K\u00f6lzer, 2005; Helm, M\u00fcller-Kalthoff, Nagy, & M\u00f6ller, 2016; M\u00f6ller & K\u00f6ller, 2001; M\u00fcller-Kalthoff et al., 2017; Strickhouser & Zell, 2015) have replicated the contrastive effect of dimensional comparisons between the verbal area and the mathematical area on self-concepts.",
+                "cite_spans": [
+                    {
+                        "start": 56,
+                        "end": 74,
+                        "text": "Marsh et al., 2014",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 75,
+                        "end": 95,
+                        "text": "Marsh et al., , 2015",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 96,
+                        "end": 131,
+                        "text": "Zimmermann, M\u00f6ller, & K\u00f6ller, 2018)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 162,
+                        "end": 187,
+                        "text": "(M\u00f6ller & Husemann, 2006)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 213,
+                        "end": 250,
+                        "text": "(Dickh\u00e4user, Seidler, & K\u00f6lzer, 2005;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 251,
+                        "end": 295,
+                        "text": "Helm, M\u00fcller-Kalthoff, Nagy, & M\u00f6ller, 2016;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 296,
+                        "end": 318,
+                        "text": "M\u00f6ller & K\u00f6ller, 2001;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 319,
+                        "end": 348,
+                        "text": "M\u00fcller-Kalthoff et al., 2017;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 349,
+                        "end": 375,
+                        "text": "Strickhouser & Zell, 2015)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Determinants of students' academic self-concepts: social and dimensional comparisons",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "The interplay of social and dimensional comparisons can be assumed to be a regular process for students in the formation of their self- concepts in the mathematical and the verbal area. Considering the significance of these two comparison processes for students' self-evaluation, the question arises whether teachers comprehend and consider these processes when inferring their students' self-concepts. For parents, Van Zanden et al. (2017) were able to show hints on social and contrastive dimensional comparisons in their inferences of their children's self-concepts. Considering teachers, to date, two field studies explicitly tested the I/E model for teachers' inferences of students' self-concepts. In a path-analytic study, Marsh et al. (1984) found positive effects of achievement (objective test scores and teacher ratings of students' achievement) in the mathematical and in the verbal area on teacherinferred self-concepts in the corresponding area. Hence, they found effects equaling those of social comparisons students draw themselves. Yet, they also found positive effects of achievement on inferred selfconcept in the non-corresponding area (with the exception of a nonsignificant effect of teacher-judged mathematics achievement on inferred verbal self-concept). Thus, there were no effects hinting on contrastive dimensional comparisons as they had found for students' self-inferred self-concepts, but rather assimilative effects. These effects are considered positive effects of achievement on self-concept in the non-corresponding subject (e.g., M\u00f6ller, Helm, M\u00fcller-Kalthoff, Nagy, & Marsh, 2015) . In the formation of students' self-concepts, assimilative effects are found mostly for dimensional comparisons between subjects from the same domain (especially within the math/science domain; e.g., Schilling, Sparfeldt, & Rost, 2004) . Marsh et al. (1984) conclude that the positive social comparison effect, but not the contrastive dimensional comparison effect is predictive of inferred self-concepts by teachers. In a second path-analytic study, Pohlmann et al. (2004) assessed students' mathematics and verbal (German) self-concepts and inferred self-concepts by the mathematics teacher. They found positive effects of achievement on teachers' judgments of students' self-concepts within the domains. For dimensional comparisons, one positive effect of mathematics achievement (hence, achievement in the subject the teachers taught) on inferred German self-concept showed for teacher ratings. The effect of German achievement on inferred mathematics selfconcept was non-significant. Thus, according to this study as well, teachers generally seem to consider social comparisons when trying to evaluate their students' self-concepts. Dimensional comparisons, if not ignored at all, mostly seem to be carried out in an assimilative manner, that is, teachers derive a better verbal (mathematics) self-concept from a better mathematics (verbal) achievement and do not seem to contrast mathematical and verbal abilities in the estimation of students' selfconcepts like students themselves do.",
+                "cite_spans": [
+                    {
+                        "start": 403,
+                        "end": 440,
+                        "text": "For parents, Van Zanden et al. (2017)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 730,
+                        "end": 749,
+                        "text": "Marsh et al. (1984)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1565,
+                        "end": 1616,
+                        "text": "M\u00f6ller, Helm, M\u00fcller-Kalthoff, Nagy, & Marsh, 2015)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1818,
+                        "end": 1853,
+                        "text": "Schilling, Sparfeldt, & Rost, 2004)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 1856,
+                        "end": 1875,
+                        "text": "Marsh et al. (1984)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 2069,
+                        "end": 2091,
+                        "text": "Pohlmann et al. (2004)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Determinants of teachers' inferences of students' self-concepts",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "Besides the outlined path-analytic studies, three experimental studies tested whether teacher training students consider dimensional comparisons when inferring students' self-concepts. In an experimental study, Dickh\u00e4user (2005) argues that the contrastive effects of dimensional comparisons are absent in teacher-inferred self-concepts because teachers do not have enough information to draw these comparisons. He states that most teachers only teach either mathematics or the native language. Therefore, a majority of the teachers may not be aware of a student's achievements in both mathematics and in the native language subject and hence do not to take the dimensional comparison process into account at all when inferring students' subject-specific self-concepts. Participants (teacher training students) in Dickh\u00e4user's study (2005) were informed about students' achievements in both subjects: They received qualitative school reports including information about a fictitious student's achievements in mathematics and German. While holding verbal achievement stable, teacher-inferred verbal self-concept was higher when the student had been presented as achieving poorly in mathematics than when he/she had been presented as achieving well in mathematics. M\u00fcller-Kalthoff et al. (2017, Studies 2 and 3) were able to replicate these findings using quantitative achievement indicators (grades) compared to qualitative achievement information. Hence, participants in all three experimental studies, informed about fictitious students' achievements in both subjects, seem to have drawn contrastive dimensional comparisons.",
+                "cite_spans": [
+                    {
+                        "start": 211,
+                        "end": 228,
+                        "text": "Dickh\u00e4user (2005)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 814,
+                        "end": 839,
+                        "text": "Dickh\u00e4user's study (2005)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Determinants of teachers' inferences of students' self-concepts",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "To summarize, the two so-far conducted field studies examining social and dimensional comparison effects in teachers' inferences of students' self-concepts found effects hinting on social comparisons, but did not find effects hinting on contrastive dimensional comparisons in teachers' judgments (Marsh et al., 1984; Pohlmann et al., 2004) . In contrast, the three experimental studies explicitly informing participants (teacher training students) about student achievement in both subjects found contrastive dimensional comparison effects for teachers' inferences (Dickh\u00e4user, 2005; M\u00fcller-Kalthoff et al., 2017) . Based on the existing research, it can be concluded that teachers may indeed need to be given information about the regarding achievements for effects hinting on contrastive dimensional comparisons to show. Although teachers in the study by Marsh et al. (1984) were Australian primary school teachers who were likely to teach multiple subjects, neither Marsh et al. (1984) nor Pohlmann et al. (2004) controlled for whether teachers indeed were informed about their students' achievements in both subjects. Therefore, it is still unclear whether teachers are able to consider similar judgment processes (like social and dimensional comparisons) when inferring their students' self-concepts as students themselves do, and how this capacity is related to the knowledge that teachers have about students' achievements. Increasing knowledge might improve teachers' judgment accuracy when judging students' selfconcepts.",
+                "cite_spans": [
+                    {
+                        "start": 296,
+                        "end": 316,
+                        "text": "(Marsh et al., 1984;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 317,
+                        "end": 339,
+                        "text": "Pohlmann et al., 2004)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 565,
+                        "end": 583,
+                        "text": "(Dickh\u00e4user, 2005;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 584,
+                        "end": 613,
+                        "text": "M\u00fcller-Kalthoff et al., 2017)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 857,
+                        "end": 876,
+                        "text": "Marsh et al. (1984)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 969,
+                        "end": 988,
+                        "text": "Marsh et al. (1984)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 993,
+                        "end": 1015,
+                        "text": "Pohlmann et al. (2004)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Determinants of teachers' inferences of students' self-concepts",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "Contrastive dimensional comparisons are a well-documented phenomenon in the formation of students' self-concepts in the mathematical and the verbal domain. These comparisons lead to ability selfconcepts in the two domains that differ to a greater amount than achievements in both domains actually differ. A relevant research question regarding teachers' ability to judge their students' academic self-concepts is whether teachers also show hints on contrastive dimensional comparisons in their inferences of students' self-concepts. Doing so should support their ability to accurately judge their students' self-concepts. A small number of research studies so far were concerned with the question regarding contrastive dimensional comparisons in teachers' inferences of their students' self-concepts. The outlined field studies examining practicing teachers did not find hints on contrastive dimensional comparisons in teachers' self-concept inferences. The experimental studies examining teacher training students and informing participants about students' grades in both subjects found contrastive dimensional comparison effects. Hence, the existing studies on the question of contrastive dimensional comparisons in teachers self-concept inferences provide a heterogeneous picture. The present research addresses the outlined research gap. In two studies, we examine teachers' judgments of their students' self-concepts in mathematics and German, considering the conclusion drawn from the outlined experimental studies that teachers need to be explicitly informed about students' achievements in both domains to have the possibility to carry out contrastive dimensional comparisons themselves while empathizing with their students in the process of judging students' self-concepts. Moreover, information about achievements should enable teachers to consider these achievements more strongly in the estimation of a student's self-concept in the corresponding domain. These research questions concerning the I/E model are connected to research on teacher judgment accuracy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present research",
+                "sec_num": "2."
+            },
+            {
+                "text": "Firstly, teachers' judgment accuracy is analyzed for two groups of teachers: Teachers who are presented with information about students' achievements in both mathematics and German and teachers who are not presented with the regarding achievement information. It is assumed that teachers presented with students' grades are able to estimate students' self-concepts more correctly than teachers not presented with students' grades, as grades present achievement information used in the formation of their subject-specific self-concepts by students themselves.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present research",
+                "sec_num": "2."
+            },
+            {
+                "text": "Hence, the following hypothesis is formulated:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present research",
+                "sec_num": "2."
+            },
+            {
+                "text": "1. Judgment accuracy hypothesis: Teachers presented with information about students' achievements in German and mathematics show a higher judgment accuracy in both subjects compared to teachers not presented with information about students' achievements.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present research",
+                "sec_num": "2."
+            },
+            {
+                "text": "Secondly, the present research analyzes whether social and dimensional comparisons are present in teachers' inferences of students' selfconcepts. Two groups of teachers are compared to each other: Teachers who are presented with information about students' achievements in both mathematics and German and teachers who are not presented with the regarding achievement information. With regard to teachers' usage of social and dimensional comparison information, the following hypotheses are formulated:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present research",
+                "sec_num": "2."
+            },
+            {
+                "text": "2. Social Comparison Hypothesis: Teachers presented with information about students' achievements in mathematics and German show higher positive path-coefficients for the effects of achievements on corresponding self-concepts than teachers without information about students' achievements do.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present research",
+                "sec_num": "2."
+            },
+            {
+                "text": "formation about students' achievements in mathematics and German show higher negative path-coefficients (and thus stronger contrastive dimensional comparison effects) for the effects of achievements on non-corresponding self-concepts than teachers without information about students' achievements do. This hypothesis is based on the results of the outlined experimental studies showing contrastive dimensional comparison effects on inferred self-concepts, when participants had information about students' achievements in both domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dimensional Comparison Hypothesis: Teachers presented with in-",
+                "sec_num": "3."
+            },
+            {
+                "text": "Secondly, teachers' judgment accuracy is analyzed for the two groups of teachers: It is assumed that teachers presented with students' grades can estimate students' self-concepts more correctly than teachers not presented with students' grades, as grades present achievement information used in the formation of their subject-specific self-concepts by students themselves. Hence, the following hypothesis is formulated:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dimensional Comparison Hypothesis: Teachers presented with in-",
+                "sec_num": "3."
+            },
+            {
+                "text": "The hypotheses will be tested for two teacher samples, mathematics teachers (Study 1) and German teachers (Study 2). By examining these two teacher samples, firstly, it can be clarified, whether mathematics and German teachers' as teachers of the main science and the main verbal subject (at German schools) draw social and dimensional comparisons within and between the two subjects, and secondly, it can be tested how robust our findings are across samples of teachers of both subjects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dimensional Comparison Hypothesis: Teachers presented with in-",
+                "sec_num": "3."
+            },
+            {
+                "text": "Study 1 tests the above-formulated assumptions for a sample of mathematics teachers. It therefore adds to the Pohlmann et al. (2004) study, the experimental manipulation of informing the teachers compared to not informing the teachers about students' achievements. This manipulation allows having a group of teachers who reliably is informed about students' achievements, like participants in the experimental studies by Dickh\u00e4user et al. (2005) and M\u00fcller-Kalthoff et al. (2017) were. By this means, inferences about students' self-concepts in the informed teacher group can be compared to inferences in the uninformed teacher group, in which most of the teachers do not have information about students' achievements in both domains. Most of the uninformed teachers thus do not have social comparison information for at least one domain (the domain they do not teach) and do not have dimensional comparison information for both domains (as they cannot compare the achievement in the domain they teach to the achievement in the other domain).",
+                "cite_spans": [
+                    {
+                        "start": 110,
+                        "end": 132,
+                        "text": "Pohlmann et al. (2004)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 421,
+                        "end": 445,
+                        "text": "Dickh\u00e4user et al. (2005)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 450,
+                        "end": 479,
+                        "text": "M\u00fcller-Kalthoff et al. (2017)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 1",
+                "sec_num": "3."
+            },
+            {
+                "text": "The student sample consisted of N = 578 students from 35 classes (grade 7 to 11) in 15 German \"Gymnasiums\" (corresponding to junior high school and high school; academic track with a relatively low rate of students from families with a migration background and with a relatively high rate of students from economically moderately privileged families (e.g., Ditton, 1987 Ditton, , 1992 ). Medium age was 14.21 years (SD = 1.33), 51.50% were female.",
+                "cite_spans": [
+                    {
+                        "start": 357,
+                        "end": 369,
+                        "text": "Ditton, 1987",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 370,
+                        "end": 384,
+                        "text": "Ditton, , 1992",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": "3.1.1."
+            },
+            {
+                "text": "The teacher sample comprised N = 35 mathematics teachers. Medium age was 44.87 years (SD = 11.17), 43.30% were female. Teachers had an average teaching experience of 14.57 years (SD = 10.31) and were teaching the class of students whom they rated in this study for an average of 3.81 semesters (SD = 1.60). No teacher had been teaching the regarding students for less than six months. The teacher group with information about students' achievements (grades) (informed teachers) consisted of n = 16 teachers, n = 19 teachers were in the group without information about achievements (uninformed teachers). Teachers in the informed and in the uninformed group did not differ in age (t(33) = 0.00, ns), in their teaching experience (t (33) = 0.90, ns), and in how long they had already taught the classes concerned (t(33) = 0.08, ns).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": "3.1.1."
+            },
+            {
+                "text": "3.1.2. Variables 3.1.2.1. Predictor variables: students' mathematics and German grades. Students' grades were obtained from the most recent school reports. The most recent school reports dated back one to two months. In German schools, grades range from 1 (\"very good\") to 6 (\"very poor\"). Grades were recoded so that high scores indicated more positive achievement. Teacher-assigned grades for students in Germany are the central source of information about their achievements, as in general, no national standardized tests are administered. School grades moreover show higher correspondences with ability self-concepts than standardized achievement test scores (Marsh et al., 2014; M\u00f6ller et al., 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 663,
+                        "end": 683,
+                        "text": "(Marsh et al., 2014;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 684,
+                        "end": 704,
+                        "text": "M\u00f6ller et al., 2009)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": "3.1.1."
+            },
+            {
+                "text": "3.1.2.2. Criteria variables: students' self-concepts and teacher-inferred student self-concepts. Students' self-concepts were assessed by six established items from often-used self-concept scales (e.g., Helm et al., 2012; M\u00f6ller & K\u00f6ller, 2001 ). Self-concept scales were adequately reliable (Cronbach`s alpha for the math scale = .93; Cronbach`s alpha for the German scale = .87). A sample item read: \"I am good at working on tasks and understanding problems in math [German]\". Students responded to each item on a 6-point scale (from 1 = strongly disagree to 6 = strongly agree). For negatively coded items the scores were reverse-coded, so that higher scores indicated a higher self-concept. As teachers had to evaluate each student of their class, in terms of parsimony, teachers' inferences of students' selfconcepts were assessed through only 2-item scales (e.g. Pohlmann et al., 2004) , (sample item: \"The student thinks of him/herself as being good in mathematics [German]\"). The two scales showed adequate reliability, though, especially in light of the low number of items (Cronbach's alpha for the math scale = .86; Cronbach's alpha for the German scale = .84).",
+                "cite_spans": [
+                    {
+                        "start": 203,
+                        "end": 221,
+                        "text": "Helm et al., 2012;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 222,
+                        "end": 243,
+                        "text": "M\u00f6ller & K\u00f6ller, 2001",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 869,
+                        "end": 891,
+                        "text": "Pohlmann et al., 2004)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": "3.1.1."
+            },
+            {
+                "text": "3.1.2.3. Moderator variable in the teacher model: experimental condition. Multi-group path-analyses were performed, testing I/E model assumptions for the experimental conditions \"informed about grades\" (informed group) and \"not informed about grades\" (uninformed group) separately (see below).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": "3.1.1."
+            },
+            {
+                "text": "The survey took place in regular classes and was administered by a trained research assistant. Participation was voluntary and anonymous and for underage students, parents were asked for informed consent prior to data collection. Classes were allocated randomly (by a random number generator) to the two experimental conditions; teachers were not informed about the two experimental conditions. Teachers in the informed group received information about students' grades in mathematics and German in the last school reports. Students in their questionnaire gave their grades in both subjects before they stated their subject-specific self-concepts. Via overhead projector, students and teachers in both experimental conditions were presented with a list where each student's name was assigned to a code. The code consisted of a student identification number and a class identification number. Students were instructed to write down this code on their questionnaires, teachers were instructed to write down each code. Teachers in the informed group then wrote down the grades they had received. Both teacher groups gave their self-concept inferences for the regarding student. Students and teachers in both experimental conditions were then thanked for their participation and debriefed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": "3.1.3."
+            },
+            {
+                "text": "Judgment accuracy is determined by specifying four multi-group structural equation models (SEM) using the statistic software Mplus 7 (Muth\u00e9n & Muth\u00e9n, 1998 . The student self-concept in German or math, respectively, was regressed on teacher-inferred self-concept in German or math for the informed and uninformed teacher groups.",
+                "cite_spans": [
+                    {
+                        "start": 133,
+                        "end": 155,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 1998",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analyses",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "A detailed description of SEM is presented for example in Hayduk (1987) or J\u00f6reskog and S\u00f6rbom (1993) . The Comparative Fit Index (CFI), the Tucker-Lewis Index (TLI), and the Root Mean Square Error of Approximation (RMSEA) were used for testing the model fit. Following Marsh, Balla, and Hau (1996) and Marsh, Balla, and McDonald (1988) , a sufficient model fit is indicated by CFI-and TLI-values above .90 and RMSEA-values below or equal to .08. The hierarchical structure of the data (students in classes) was accounted for by using an appropriate estimation procedure (in Mplus: type = complex, estimator = MLR). Doing so prevents an overestimation of effects, as the requirement of standard errors' independence is likely violated in the case of hierarchical data (see for example Hox, 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 58,
+                        "end": 71,
+                        "text": "Hayduk (1987)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 75,
+                        "end": 101,
+                        "text": "J\u00f6reskog and S\u00f6rbom (1993)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 270,
+                        "end": 298,
+                        "text": "Marsh, Balla, and Hau (1996)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 303,
+                        "end": 336,
+                        "text": "Marsh, Balla, and McDonald (1988)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 785,
+                        "end": 795,
+                        "text": "Hox, 2002)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analyses",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "To test the question if students' and teachers' assessments show hints on social and dimensional comparisons in the relations between grades and self-concepts in mathematics and German as well, SEM were specified.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analyses",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "Means, standard deviations of the scales for the experimental and the control group as well as correlations between the scales are depicted in Table 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 143,
+                        "end": 150,
+                        "text": "Table 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Descriptives",
+                "sec_num": "3.3.1."
+            },
+            {
+                "text": "As assumed in the I/E model, there is a significantly positive, average correlation between achievements in both subjects (informed group: r = .48, uninformed group: r = .42), meanwhile the correlation between students' self-concepts is remarkably and significantly lower (informed group: r = .06; z = 5.27, p < .01; uninformed group: r = .02; z = 5.27, p < .01). In contrast, the correlation of teachers' inferred self-concepts for the informed (r = .42) and the uninformed group (r = .45) however is of the same height as the correlation between achievements (informed group: z = 0.83, ns; uninformed group: z = 0.46, ns).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Descriptives",
+                "sec_num": "3.3.1."
+            },
+            {
+                "text": "To test whether judgment accuracy differs between the informed and the uniformed teacher group, four latent regression models were specified. The assumptions were tested in a multi-group model where student self-concepts were regressed on inferred self-concepts. Selfconcepts and inferred self-concepts were specified as latent factors, estimated by the items used to assess subject-specific (inferred) selfconcepts. Firstly, a non-restricted regression model was specified, Table 1 Study 1: Means, standard deviations, and correlations for grades and self-concept scales in the experimental (\"informed\") group and in the control (\"not informed\") group. leaving the beta coefficient free to differ between the informed and the uninformed teacher groups (mathematics: \u03b2 informed teachers = .71, \u03b2 uninformed teachers = .67; German: \u03b2 informed teachers = .44, \u03b2 uninformed teachers = .37). Secondly, the beta coefficient was constrained between the informed and the uninformed teacher groups. The unconstrained and the constrained model were then compared via \u03c7 2difference testing with corrected \u03c7 2 -value to determine whether regression coefficients differed between the experimental groups. It showed that there are no differences in regression coefficients between informed and uninformed teachers (mathematics: corrected \u0394\u03c7 2 = 0.255, \u0394 df = 1, ns, German: corrected \u0394\u03c7 2 = 0.001, \u0394 df = 1, ns). 1 Hence, the judgment accuracy hypothesis is not supported.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 475,
+                        "end": 482,
+                        "text": "Table 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "3.3.3. Social and dimensional comparison hypotheses 3.3.3.1. I/E model for students. To test whether students show hints on social and dimensional comparisons in the relations between achievements and self-concepts, in a SEM inferred self-concepts in mathematics and German were regressed on students' grades in both subjects while controlling for students' grades. Self-concepts again were specified as latent factors. The relations between achievements and students' self-concepts and the resulting path coefficients and (latent) correlations are displayed in Fig. 2 . The model shows an adequate fit, as indicated by the CFI value of .941, the TLI value of .923 and the RMSEA value of .080. Moreover, it shows the typical I/E pattern, with the latent correlation between selfconcepts being not significant, in contrast to the positive correlation between achievements. There are significant positive effects of achievement on self-concept within the subjects that speak for social comparisons, and there are significant negative effects of achievement on self-concept in the other subject, speaking for contrastive dimensional comparisons.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 562,
+                        "end": 568,
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "3.3.3.2. I/E model for mathematics teachers. The hypotheses regarding teachers' inferences of students' self-concepts state that positive effects of achievement on the corresponding self-concept and negative effects of achievement on the non-corresponding self-concept should be stronger for teachers presented with students' grades in mathematics and German. Inferred self-concepts were specified as latent factors, estimated by the two items used to assess inferred mathematics and German self-concepts. Firstly, a non-restricted path-model was specified, leaving path-coefficients free to differ between the experimental conditions (Model 1). Model 1 inter alia allows to descriptively evaluate if teachers in the two experimental conditions differ in their inferences of students' self-concepts in the application of the external and internal frame of reference.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "For testing our hypotheses, four additional models were specified. In Model 2, all the path-coefficients were allowed to differ between the two experimental conditions except the path-coefficients representing the effects of mathematics achievement on inferred mathematics selfconcept. In Model 3, all but the path-coefficients representing the effects of German achievement on inferred German self-concept were allowed to differ. In Model 4, all but the path-coefficients representing the effects of mathematics achievement on inferred German self-concept were left free to differ, and in Model 5, all but the path-coefficients representing the effects of German achievement on inferred mathematics self-concept were left free to differ. Our hypotheses were examined via \u03c7 2 -difference testing with corrected \u03c7 2 -value between Model 1 and Model 2 as well as Model 3, respectively, to test Hypothesis 2 (assuming stronger social comparison effects in the experimental group). Via \u03c7 2 -difference testing between Model 1 and Model 4 and Model 5, respectively, the dimensional comparison hypothesis was examined.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "Fit indices displayed in Table 2 show that all models fit the data adequately. Path-coefficients and (latent) correlations for Model 1 are displayed in Fig. 3 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 25,
+                        "end": 32,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 152,
+                        "end": 158,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "For teachers in both groups, strong positive effects of achievements on corresponding inferred self-concepts can be noted. Hence for both Model 2: constrained path-coefficients representing the effects of mathematics achievement on inferred mathematics self-concept; Model 3: constrained path-coefficients representing the effects of German achievement on inferred German self-concept; Model 4: constrained path-coefficients representing the effects of mathematics achievement on inferred German self-concept; Model 5: constrained path-coefficients representing the effects of German achievement on inferred mathematics self-concept.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "1 In judgment accuracy research, commonly the rank correlation between teachers' inferences and students' assessments of the regarding student characteristic is calculated to determine teacher judgment accuracy. Testing the difference between the rank correlations for informed and uninformed teachers led to the same result pattern as found in the reported results.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "teacher groups, positive social comparison effects can be found. For the Social Comparison Hypothesis, testing shows a significant \u03c7 2 -difference between Model 1 and Model 2 (corrected \u0394\u03c7 2 = 15.694, \u0394 df = 1, p < .001). The effect of mathematics achievement on inferred mathematics self-concept thus can be assumed to be stronger in the informed group. The \u03c7 2 -difference between Model 1 and Model 3 is significant as well (corrected \u0394\u03c7 2 = 4.183, \u0394 df = 1, p < .05), therefore also the effect of German achievement on inferred German selfconcept is stronger for the informed teacher group. The Social Comparison Hypothesis thus is confirmed for mathematics teachers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "Testing of the Dimensional Comparison Hypothesis does not show a significant \u03c7 2 -difference between Model 1 and Model 4 (corrected \u0394\u03c7 2 = 0.000, \u0394 df = 1, ns), teachers in the experimental group do not show stronger dimensional comparison effects for the path from mathematics achievement to inferred German self-concept. Comparison of Model 1 and Model 5 neither shows a significant \u03c7 2 -difference (corrected \u0394\u03c7 2 = 2.093, \u0394 df = 1, ns), thus the effect of German achievement on inferred mathematics self-concept also does not differ between the two groups. Hypothesis 3 for mathematics teachers thus is not confirmed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "3.3.2."
+            },
+            {
+                "text": "Study 1 firstly showed that judgment accuracy for mathematics selfconcept in both experimental groups was higher than judgment accuracy for German self-concept. This finding may be explained by the fact that mathematics teachers are likely to be confronted with their students' achievements and self-beliefs in mathematics much more frequently than with their students' achievements and self-beliefs in German as a subject they do not teach (at least this was the case in the teacher sample in our study). Moreover, it may be easier to infer mathematics self-concept from mathematics achievement than to infer German self-concept from German achievement, as mathematics selfconcept is based to a higher degree on mathematics achievement than German self-concept is on German achievement (see the results of the I/ E model for students; M\u00f6ller et al., 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 836,
+                        "end": 856,
+                        "text": "M\u00f6ller et al., 2009)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion of study 1",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "Secondly, our results did not confirm the assumption that teachers informed about grades judge students' self-concepts more accurately. Judgment accuracy in the informed teacher group descriptively was higher than in the uninformed teacher group, but the difference did not reach statistical significance.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion of study 1",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "These results are surprising, as the Social Comparison Hypothesis was confirmed for both subjects: Effects of achievement on corresponding self-concept are stronger for informed teachers and teachers should profit from considering more strongly information about grades in the estimation of students' self-concepts in the corresponding subject. Yet, at least the result that mathematics teachers did not profit from information about grades in the estimation of students' German selfconcepts could be explained by teachers with information about grades in both subjects using this information in the wrong way to infer self-concept in the non-corresponding domain. The Dimensional Comparison Hypothesis, which assumed that informed teachers show stronger effects hinting on contrastive dimensional comparisons than uninformed teachers, could not be confirmed. Rather, informed teachers showed a positive effect of mathematics achievement on inferred German self-concept. Informed teachers thus did not carry out the contrastive dimensional comparison processes their students draw, but seem to have drawn an assimilative comparison, deriving a more positive German self-concept from a more positive mathematics achievement. Thus, the positive effect of mathematics achievement on German self-concept for informed teachers may be a reason for the finding that judgment accuracy regarding students' German self-concept in this teacher group was not higher than for uninformed teachers. On the contrary, information about the German grade was not used at all by informed teachers to infer mathematics self-concept. It may be that mathematics teachers consider achievement in their own subject more important for the derivation of self-concepts in other subjects than they consider achievement in German. As well, it may be that teachers in general consider mathematics to be a central subject and thus mathematics achievement to take an influence on self-concepts in other subjects as well.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion of study 1",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "The results of Study 1 therefore go in line with previous results speaking for the existence of social comparisons in teachers' inferences, but contradict the assumption that teachers draw contrastive dimensional comparisons when inferring students' mathematical and verbal self-concepts. Regarding teacher judgment accuracy, Study 1 shows that for mathematics teachers, judgment accuracy regarding students' self-concepts in their own subject is quite high. Yet, judgment accuracy does not seem to be improved by information about grades. Study 2 will show whether the result pattern found for mathematics teachers is also applicable to German teachers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion of study 1",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "Study 2 presents a test of the robustness of the results found in Study 1 for an even bigger sample of German teachers. It was examined whether German teachers with information about students' achievements in mathematics and German judged students' mathematics and German self-concepts more accurately and showed stronger effects of social and dimensional comparisons than teachers without information about their students' achievements. Bearing in mind the results of Study 1, it is of special interest whether information about achievements improves German teachers' judgment accuracy only in their own subject, as is the case for mathematics teachers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 2",
+                "sec_num": "4."
+            },
+            {
+                "text": "The student and teacher sample of Study 2 did not overlap with that of Study 1. In Study 2, the student sample consisted of N = 746 students Fig. 3 . Study 1: Path model of the relations between grades and inferred self-concepts for mathematics and German, with factor loadings. Coefficients before slash: experimental group, coefficients after slash: control group. *p < .05, **p < .01. from 47 classes (grade 7 to 13; with n = 21 students from 12th and 13th grade) in 17 German \"Gymnasien\". Average age was 13.97 years (SD = 1.19), 55.80% were female.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 141,
+                        "end": 147,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": "4.1.1."
+            },
+            {
+                "text": "The teacher sample comprised N = 47 teachers. Average age was 42.13 years (SD = 10.39), 69.60% were female. Teachers had an average teaching experience of 13.22 years (SD = 9.84) and were teaching the class of students whom they evaluated in this study for an average of 3.87 semesters (SD = 1.63). No teacher had been teaching the regarding students for less than six months. The informed group consisted of n = 24 teachers, n = 23 teachers were in the uninformed group. Again, teachers in the informed and in the uninformed group did not differ in age (t(45) = 0.45, ns), in their teaching experience (t (45) = 1.11, ns), or in how long they had already taught the classes concerned (t(45) = 0.18, ns).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": "4.1.1."
+            },
+            {
+                "text": "The same variables and procedure as in Study 1 were used (students' self-concepts: Cronbach's alpha for the math scale = .92, Cronbach's alpha for the German scale = .85; teachers' inferred self-concepts: Cronbach's alpha for the math scale = .90, Cronbach's alpha for the German scale = .79).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Variables & procedure",
+                "sec_num": "4.1.2."
+            },
+            {
+                "text": "In Table 3 , means, standard deviations of the scales for the experimental and the control group as well as correlations between these variables are presented.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "text": "Table 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Descriptives",
+                "sec_num": "4.2.1."
+            },
+            {
+                "text": "As assumed in the I/E model, there is a significantly positive, average correlation between achievements in both subjects (informed group: r = .43, uninformed group: r = .50), meanwhile the correlation between self-concepts is remarkably and significantly lower (informed group: r = \u2212.02; z = 6.42, p < .01; uninformed group: r = .15; z = 5.47, p < .01). The correlation of teachers' inferred self-concepts for the informed (r = .48) and the uninformed group (r = .42) however is of the same height as the correlation between achievements (informed group: z = 0.77, ns; uninformed group: z = 1.39, ns).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Descriptives",
+                "sec_num": "4.2.1."
+            },
+            {
+                "text": "For German teachers as well as for mathematics teachers, informed (\u03b2 = .59) and uninformed teacher group (\u03b2 = .40) did not differ in judgment accuracy in the estimation of students' mathematics selfconcepts (corrected \u0394\u03c7 2 = 3.348, \u0394 df = 1, n.s.). As well in the judgment of students' German self-concept, teachers in the informed group (r = .35) did not show higher judgment accuracy than teachers in the uninformed group (r = .53; \u0394\u03c7 2 = 2.619, \u0394 df = 1, n.s.). Descriptively, judgment accuracy was lower when teachers were informed about students' grades. 2 Hence, the judgment accuracy hypothesis is not confirmed for German teachers, neither for the estimation of students' mathematics self-concepts, nor for the estimation of German self-concepts. The estimation of German self-concepts seems to be impaired rather than facilitated by the information about students' achievements.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "4.2.2."
+            },
+            {
+                "text": "4.2.3. The social and the dimensional comparison hypotheses 4.2.3.1. I/E model for students. Again, to test whether students in this sample show hints on social and dimensional comparisons, a path model was specified. The relations between achievements and students' self-concepts and the resulting path coefficients and (latent) correlations are displayed in Fig. 4 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 360,
+                        "end": 366,
+                        "text": "Fig. 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "4.2.2."
+            },
+            {
+                "text": "The model shows an adequate fit, as the CFI value of .937, the TLI value of .921 and the RMSEA value of .076 indicate. The relations between self-concepts and achievements show the typical I/E pattern: Table 3 Study 2: Means, standard deviations, and correlations for grades and self-concept scales in the experimental (\"informed\") group and in the control (\"not informed\") group. Notes. *p < .05, **p < .01. Experimental group: values before the slash, control group: values after the slash. 2 Calculating the rank correlations and testing their difference for informed and uninformed teachers led to the same result pattern as found in the reported results.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 202,
+                        "end": 209,
+                        "text": "Table 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "4.2.2."
+            },
+            {
+                "text": "The latent correlation between self-concepts is not significant, the correlation between achievements is significantly positive. Also, significant positive effects of achievement on self-concept within the subjects speak for social comparisons and significant negative effects of achievement on self-concept in the other subject indicate contrastive dimensional comparisons. 4.2.3.2. I/E model for German teachers. The hypotheses regarding teachers' estimations of students' self-concepts again were tested using SEM in form of a multi-group path-model, where inferred self-concepts in mathematics and German were regressed on students' grades in both subjects, meanwhile controlling for students' grades. The same models were computed as in Study 1. Fit indices shown in Table 4 indicate that the specified models fit the data adequately, path-coefficients and (latent) correlations for the non-restricted path-model (Model 1) are displayed in Fig. 5 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 772,
+                        "end": 779,
+                        "text": "Table 4",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 945,
+                        "end": 951,
+                        "text": "Fig. 5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "4.2.2."
+            },
+            {
+                "text": "Testing of the Social Comparison Hypothesis shows a significant \u03c7 2difference between Model 1 and Model 2 (corrected \u0394\u03c7 2 = 5.538, \u0394 df = 1, p < .05). Accordingly, the effect of mathematics achievement on inferred mathematics self-concept can be assumed to be stronger in the informed group. The Social Comparison Hypothesis thus is confirmed for mathematics. The \u03c7 2 -difference between Model 1 and Model 3 is not significant (corrected \u0394\u03c7 2 = 2.786, \u0394 df = 1, ns), the effect of German achievement on inferred German self-concept does not differ between the informed and the uninformed group. The Social Comparison Hypothesis thus is not confirmed for German.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "4.2.2."
+            },
+            {
+                "text": "Testing of the Dimensional Comparison Hypothesis shows no significant \u03c7 2 -difference between Model 1 and Model 4 (corrected \u0394\u03c7 2 = 1.415, \u0394 df = 1, ns), indicating that German teachers in the informed group did not show a stronger dimensional comparison effect of mathematics achievement on inferred German self-concept. Comparison of Model 1 and Model 5 neither shows a significant \u03c7 2difference (corrected \u0394\u03c7 2 = 1.651, \u0394 df = 1, ns), indicating the effect of German achievement on inferred mathematics self-concept to be of the same height for informed and uninformed teachers. Thus, for German teachers, the Dimensional Comparison Hypothesis is also not confirmed. Fig. 4 . Study 2: Path model of the relations between grades and students' self-concepts, with factor loadings. *p < .05, **p < .01. Model 2: constrained path-coefficients representing the effects of mathematics achievement on inferred mathematics self-concept; Model 3: constrained path-coefficients representing the effects of German achievement on inferred German self-concept; Model 4: constrained path-coefficients representing the effects of mathematics achievement on inferred German self-concept; Model 5: constrained path-coefficients representing the effects of German achievement on inferred mathematics self-concept. Fig. 5 . Study 2: Path model of the relations between grades and inferred self-concepts for mathematics and German, with factor loadings. Coefficients before slash: experimental group, coefficients after slash: control group. *p < .05, **p < .01.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 670,
+                        "end": 676,
+                        "text": "Fig. 4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1299,
+                        "end": 1305,
+                        "text": "Fig. 5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Judgment accuracy hypothesis",
+                "sec_num": "4.2.2."
+            },
+            {
+                "text": "In Study 2, again the assumption that informed teachers would show a higher judgment accuracy was not confirmed, neither for mathematics self-concepts nor for German self-concepts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion of study 2",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "As in Study 1, the path-analytic results of Study 2 also showed that students themselves seem to be drawing positive social and negative (contrastive) dimensional comparisons when forming their ability selfconcepts for mathematics and German. For informed teachers, stronger effects hinting on social comparison in the estimation of students' mathematics self-concepts were shown, but not in the estimation of students' German self-concepts. Effects indicating contrastive dimensional comparisons did not show for both teacher groups. In addition, a positive effect of mathematics achievement on inferred German selfconcept could be found for German teachers (as was the case for mathematics teachers in Study 1). Thus, German and mathematics teachers alike, when informed about students' achievements, apparently did not use the information about students' mathematics achievement in a way that helped them to infer students' German selfconcept more accurately.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion of study 2",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "The present studies firstly analyzed teachers' judgment accuracy with regard to students' self-concepts and secondly tested the question whether teachers show social and dimensional comparison effects in accordance with the assumptions of the I/E model when inferring their students' self-concepts in mathematics and German. Existing empirical field research argues against teachers drawing contrastive dimensional comparisons when forming an impression of their students' self-concepts (Marsh et al., 1984; Pohlmann et al., 2004 ). Yet, the existing field studies did not examine whether teachers had information about students' achievements in both subjects they had to give their estimations for. Thus, in the present studies, following the results and the argumentation by Dickh\u00e4user (2005) , we reasoned that teachers need to be informed about students' grades in both subjects to be able to consider them as dimensional comparison information and as well to consider them more strongly as social comparison information. Firstly, teachers informed and not informed about students' grades generally showed a diagnostic accuracy in the estimation of students' self-concepts, which is similar to or slightly higher than in previous studies (Marsh & Craven, 1991; Marsh et al., 1984; Pohlmann et al., 2004) . Testing the assumption that informed teachers would show a higher diagnostic accuracy in estimating students' self-concepts showed that informed teachers were not able to estimate students' mathematics self-concepts more correctly than uninformed teachers, and this was the case for mathematics as well as for German teachers. Descriptively, a higher judgment accuracy showed for informed teachers in the estimation of students' mathematics self-concepts and for mathematics teachers as well in the estimation of students' German self-concepts. Yet, the differences in judgment accuracy did not reach statistical significance. For German teachers, information about students' grades even deteriorated teachers' judgment accuracy regarding students' German self-concepts, although again the difference in judgment accuracy did not reach statistical significance.",
+                "cite_spans": [
+                    {
+                        "start": 487,
+                        "end": 507,
+                        "text": "(Marsh et al., 1984;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 508,
+                        "end": 529,
+                        "text": "Pohlmann et al., 2004",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 777,
+                        "end": 794,
+                        "text": "Dickh\u00e4user (2005)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1242,
+                        "end": 1264,
+                        "text": "(Marsh & Craven, 1991;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1265,
+                        "end": 1284,
+                        "text": "Marsh et al., 1984;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1285,
+                        "end": 1307,
+                        "text": "Pohlmann et al., 2004)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "5."
+            },
+            {
+                "text": "This finding may be attributable to the fact that firstly, for German teachers, effects indicating social comparisons in the estimation of students' German self-concepts do not differ between teachers with and without information about grades. Secondly, and more importantly, German teachers with information about grades seem to have used mathematics achievement to derive German self-concept, in the same way that informed mathematics teachers did. Thus, informed teachers seem to make slight use of dimensional comparison information in the estimation of students' German self-concept, but in an assimilative way: They do not comprehend the contrastive dimensional comparisons their students draw, but derive a positive (negative) German self-concept partly from a positive (negative) mathematics achievement. For German teachers, this assimilative usage of the mathematics grade in combination with an unaltered social comparison effect may have caused the (slight) deterioration of judgment accuracy in the estimation of students' German self-concepts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "5."
+            },
+            {
+                "text": "Our findings regarding the Dimensional Comparison Hypothesis are in line with the finding by Pohlmann et al. (2004) , who showed a positive effect of mathematics achievement on inferred German self-concept. Because only mathematics teachers participated in their study, the authors concluded that mathematics teachers assume mathematics achievement to be diagnostically relevant for verbal self-concept, because mathematics as their subject is of a higher subjective importance for them than German is. In the present study, rather assimilative effects of mathematics achievement on inferred German self-concept could be found for both, mathematics as well as German teachers; Pohlmann et al.'s (2004) explication yet would suggest that for German teachers, rather the effect of German achievement on inferred mathematics self-concept should turn out significant, which was not the case. Pohlmann et al.'s (2004) explication thus cannot be applied fully to our results. It rather might be that mathematics as well as German teachers attribute a higher diagnostic relevance to mathematics achievement than to verbal achievement regarding achievement and self-concept in other academic areas. This presumption should be tested in future studies by asking teachers about their opinions about the diagnostic relevance of different subject-specific achievements for self-concepts in other subjects.",
+                "cite_spans": [
+                    {
+                        "start": 93,
+                        "end": 115,
+                        "text": "Pohlmann et al. (2004)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 677,
+                        "end": 701,
+                        "text": "Pohlmann et al.'s (2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 888,
+                        "end": 912,
+                        "text": "Pohlmann et al.'s (2004)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "5."
+            },
+            {
+                "text": "To summarize, our findings indicate that teacher-inferred self-concepts in mathematics (and for mathematics teachers also in German) will represent students' achievements in mathematics (German) to a bigger amount, when teachers are informed about those achievements. This finding indicates that teachers, as proposed by Marsh and Craven (1991) , in inferring students' self-concepts generally rely heavily on students' achievement in the regarding subject, when provided with the necessary information. In mathematics this seems to be even more the case than in German. Taking achievement in the corresponding subject more strongly into account seems to have the potential to slightly increase teachers' ability to judge students' self-concepts adequately.",
+                "cite_spans": [
+                    {
+                        "start": 321,
+                        "end": 344,
+                        "text": "Marsh and Craven (1991)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "5."
+            },
+            {
+                "text": "Nonetheless, our results do not suggest that teachers in general take non-corresponding achievements into account when inferring students' self-concepts, at least not in a contrastive way. Accordingly, contrastive dimensional comparisons, that are so frequent in the formation of students' self-concepts, do not seem to be carried out by teachers when they estimate their students' self-concepts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "5."
+            },
+            {
+                "text": "Thus, the findings in our field studies and the experimental findings by Dickh\u00e4user (2005) and M\u00fcller-Kalthoff et al. (2017) showing that teachers, when presented with students' grades, draw contrastive dimensional comparisons could not be confirmed. It might be that the experimental studies generated different findings because they examined teacher training students and inferring fictitious students' selfconcepts. The tasks in those studies may have been rather artificial as no other information about the fictitious student was made available except the information about achievements in both subjects. In our studies, teachers were told to estimate their real students' self-concepts. In doing so, they may have been led by consistency strivings (e.g., Festinger, 1954) , which cause people to describe well-known persons as consistently as possible. This way seemingly contradictory information about a person might be avoided to obviate a state of tension resulting from this contradictory information. For teachers, information on diverging subject-specific self-concepts a well-known student possesses could seem contradictory, especially for students doing well in both subjects.",
+                "cite_spans": [
+                    {
+                        "start": 73,
+                        "end": 90,
+                        "text": "Dickh\u00e4user (2005)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 95,
+                        "end": 124,
+                        "text": "M\u00fcller-Kalthoff et al. (2017)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 761,
+                        "end": 777,
+                        "text": "Festinger, 1954)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "5."
+            },
+            {
+                "text": "Yet, parents do not seem to be led by such consistency strivings to the same amount as teachers are, at least these strivings with them do not seem to lead to an ignorance of dimensional comparison processes that students carry out (Van Zanden et al., 2017). For parents, Marsh and Byrne's (1993) assumption may hold that student-other agreement between self-concepts and inferred self-concepts is higher when the other person knows the student in a wide range of contexts. As outlined, Marsh and Craven (1991) as well assume that parents take information obtained in the conversations with their children into account very strongly when inferring their children's self-concepts. This information is likely to contain different self-views for different subjects. In contrast, teachers who only teach one subject in a certain class are not very likely to get to know students' self-views regarding other subjects except their own. This may be the reason why parents actually take contrastive dimensional comparisons into account, while teachers do not, because for example their striving for consistency leads them to derive a good German self-concept from a good mathematics achievement.",
+                "cite_spans": [
+                    {
+                        "start": 487,
+                        "end": 510,
+                        "text": "Marsh and Craven (1991)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "5."
+            },
+            {
+                "text": "For students, beliefs about the interdependence of underlying abilities in the compared subjects play a role for the strength of the contrastive effects of dimensional comparisons (Helm et al., 2016; M\u00f6ller, Streblow, & Pohlmann, 2006) . Accordingly, future studies could assess if teachers hold similar beliefs, but in a way that they assume mathematics and verbal abilities to be positively interdependent. In doing so, they would differ from their students showing contrastive dimensional comparison effects, who assume that verbal and mathematical abilities are independent from each other or correlate negatively. Future research could also assess whether teachers are aware of the assumptions of their students, which according to our results does not seem very likely. If teachers indeed do not know about students' more or less pronounced beliefs in a negative interdependence of mathematical and verbal abilities, it would be interesting to examine if information about these beliefs causes teachers to consider contrastive dimensional comparisons when inferring their students' self-concepts.",
+                "cite_spans": [
+                    {
+                        "start": 180,
+                        "end": 199,
+                        "text": "(Helm et al., 2016;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 200,
+                        "end": 235,
+                        "text": "M\u00f6ller, Streblow, & Pohlmann, 2006)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General discussion",
+                "sec_num": "5."
+            },
+            {
+                "text": "The present studies bring together research on teacher judgment accuracy and research on the I/E model. They thereby provide insights on a factor potentially influencing teacher judgment accuracyinformation on students' achievements, providing the possibility to make (stronger) use of social and dimensional comparison information in the estimation of students' self-conceptsand on the applicability of the I/E model assumptions on teachers' inferences of students' subject-specific self-concepts. Regarding the latter and based on previous research, the present studies analyzed whether teachers in the estimation of students' self-concepts use social and dimensional comparisons when given the necessary information about students' achievements. They therefore added a condition to the question on the applicability of the I/E model on teachers' inferences of students' self-concepts that has not been analyzed in field studies on teachers' usage of social and dimensional comparisons in the estimation of students' self-concepts so far. Our assumptions moreover were tested for mathematics as well as German teachers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths and limitations",
+                "sec_num": "5.1."
+            },
+            {
+                "text": "A possible limitation of the present studies is that teachers were surveyed who either taught mathematics or German. This implies that information about achievement in the regarding teacher's subject probably was not complete new to them, which might have taken an effect on the I/E model patterns. Informed teachers and uninformed teachers might have differed only in the effects of achievement in the subject they were not teaching on inferred self-concepts in both subjects. Yet, in Study 1 it was shown that mathematics teachers with information about grades not only used German achievement more strongly in the estimation of students' German self-concepts, but as well mathematics achievement in the estimation of students' mathematics self-concepts. Nevertheless, similar studies could assess teachers' previous knowledge about students' grades in both subjects. Also, teachers teaching other subjects than mathematics and German could be surveyed to ensure that they do not have information about the grades. In our study, regarding practical implications and as outlined above, we thought it relevant to clarify for a start, how mathematics and German teachers' judgment accuracy can be improved, as they are teachers of the main science and the main verbal subject (at German schools), and whether these teachers draw social and dimensional comparisons within and between the two subjects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths and limitations",
+                "sec_num": "5.1."
+            },
+            {
+                "text": "A further limitation of the present studies may be seen in the fact that the psychological mechanism leading to higher relations between students' achievements and teachers' inferred self-concepts in the informed teacher group cannot be clarified. It was assumed that teachers carry social comparison processes that students perform when they form their self-concepts. Yet, it might be that informed teachers show a higher relation between student achievement and inferred self-concept, because they try to consciously or subconsciously, reaffirm the grades students received by students' assumed self-beliefs. Also, the significant effects of mathematics achievement on inferred self-concept in German in both studies possibly might not result from a dimensional comparison per se, but from a conscious application of the rationale that students achieving well in mathematics should possess a positive general academic self-concept, and thus a positive verbal self-concept as well. In future studies examining teachers' inferences of students' self-perceptions, teachers could be explicitly asked about the information they consider when giving their inferences and about the reasons for considering this exact information.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths and limitations",
+                "sec_num": "5.1."
+            },
+            {
+                "text": "Lastly, our measures of the teachers' inferences of students' selfconcepts with only two items were not equivalent to the measures used to assess students' actual self-concepts, containing six items. This means that teachers gave more general evaluations of students' German and mathematical self-concepts, meanwhile students themselves gave assessments of diverse aspects of their self-concept. Yet, teachers had to give their assessments for every student in their class, and thus, for reasons of parsimony, we decided to present them with a shorter scale than the one that we presented to the students.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths and limitations",
+                "sec_num": "5.1."
+            },
+            {
+                "text": "The most important practical implication of our results is that teachers should be informed about the processes students use to establish their self-concepts. Our results suggest that teachers generally do not assume students to consider their achievement in another subject, especially not in a contrastive way. Accordingly, information about dimensional comparisons, their possible reasons and their possible consequences can support teachers in inferring students' subject-specific self-concepts more accurately, in adequately dealing with students' subjective theories about abilities in the mathematic and the verbal domain as well as in encouraging students in subjects in which they possess a low ability self-concept because of dimensional comparisons. If teachers do not consider dimensional comparisons, they miss a process central to students' self-concept formation. Counter-intuitive subject-specific student self-concepts in many cases may be caused by contrastive dimensional comparisons: For example, a high-ability student with good grades in every subject may still underestimate the own abilities in one area when performing less well in this area than in another (see Plucker & Stocking, 2001 ). On the other hand, dimensional comparisons may enable low-performing students to form relatively high ability self-concepts for the areas in which they intra-individually perform best (see . Teachers, who do not take dimensional comparisons into account even when they are informed about students' grades, fail to judge students' self-concepts as adequately as they could. Judging students' self-concepts more adequately in turn can help teachers adapt their teaching more closely to the motivational requirements of their students in order to create learning conditions as good as possible for each individual student (e.g., Schrader, 2010) . To sum up, the present studies were the first to bring together research on teacher judgment accuracy and research on the I/E model. Although teachers mostly refrain from considering dimensional comparison information when estimating students' self-concepts, teacher judgment accuracy in the teachers' subject was relatively high. This pattern may be caused by the strong effects that social comparison information (i.e. grades) has on students' self-concepts as well as on teachers' inferences of students' self-concepts.",
+                "cite_spans": [
+                    {
+                        "start": 1188,
+                        "end": 1212,
+                        "text": "Plucker & Stocking, 2001",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1842,
+                        "end": 1857,
+                        "text": "Schrader, 2010)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Practical implications",
+                "sec_num": "5.2."
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Changes in school characteristics coincident with changes in student achievement: Executive summary",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Brookover",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Lezotte",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brookover, W. B., & Lezotte, L. W. (1979). Changes in school characteristics coincident with changes in student achievement: Executive summary. Michigan State University: Institute for Research on Teaching.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Teachers' inferences about students' self-concepts -the role of dimensional comparison",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Dickh\u00e4user",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Learning and Instruction",
+                "volume": "15",
+                "issue": "3",
+                "pages": "225--235",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.learninstruc.2005.04.004"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Dickh\u00e4user, O. (2005). Teachers' inferences about students' self-concepts -the role of dimensional comparison. Learning and Instruction, 15(3), 225-235. http://dx.doi.org/ 10.1016/j.learninstruc.2005.04.004.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Kein Mensch kann alles? Effekte dimensionaler Vergleiche auf das F\u00e4higkeitsselbstkonzept [Nobody is perfect? effects of dimensional comparisons on task-specific self-concepts",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Dickh\u00e4user",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Seidler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "K\u00f6lzer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+                "volume": "19",
+                "issue": "",
+                "pages": "97--106",
+                "other_ids": {
+                    "DOI": [
+                        "10.1024/1010-0652.19.12.97"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Dickh\u00e4user, O., Seidler, A., & K\u00f6lzer, M. (2005). Kein Mensch kann alles? Effekte di- mensionaler Vergleiche auf das F\u00e4higkeitsselbstkonzept [Nobody is perfect? effects of dimensional comparisons on task-specific self-concepts]. Zeitschrift f\u00fcr P\u00e4dagogische Psychologie (German Journal of Educational Psychology), 19(1/2), 97-106. http://dx. doi.org/10.1024/1010-0652.19.12.97.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Familie und Schule als Bereiche des kindlichen Lebensraumes. Eine empirische Untersuchung [Family and school as areas of the child's living space",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Ditton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ditton, H. (1987). Familie und Schule als Bereiche des kindlichen Lebensraumes. Eine em- pirische Untersuchung [Family and school as areas of the child's living space. An empirical study]. Frankfurt a.M.: Lang.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Ungleichheit und Mobilit\u00e4t durch Bildung -Theorie und empirische Untersuchung \u00fcber sozialr\u00e4umliche Aspekte von Bildungsentscheidungen [Inequality and mobility because of education -theory and empirical study on social aspects of educational decisions",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Ditton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ditton, H. (1992). Ungleichheit und Mobilit\u00e4t durch Bildung -Theorie und empirische Untersuchung \u00fcber sozialr\u00e4umliche Aspekte von Bildungsentscheidungen [Inequality and mobility because of education -theory and empirical study on social aspects of educational decisions]. Weinheim.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "The search institute series on developmentally attentive community and society. What do children need to Flourish?",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "O'neill",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "3",
+                "issue": "",
+                "pages": "237--249",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/0-387-23823-9_15"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., O'Neill, S. A., & Wigfield, A. (2005). Ability self-perceptions and subjective task values in adolescents and children. In K. A. Moore, & L. H. Lippman (Vol. Eds.), The search institute series on developmentally attentive community and society. What do children need to Flourish? Vol. 3, (pp. 237-249). Springer US. http://dx.doi.org/10. 1007/0-387-23823-9_15.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "A theory of social comparison processes",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Festinger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1954,
+                "venue": "Human Relations",
+                "volume": "7",
+                "issue": "4",
+                "pages": "117--140",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/001872675400700202"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Festinger, L. (1954). A theory of social comparison processes. Human Relations, 7(4), 117-140. http://dx.doi.org/10.1177/001872675400700202.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "In the eyes of the beholder: Students' and teachers' judgments of students' motivation. Teaching and Teacher Education",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Givvin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Stipek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Salmon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Macgyvers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "17",
+                "issue": "",
+                "pages": "60--63",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/S0742-051X(00)00060-3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Givvin, K. B., Stipek, D. J., Salmon, J. M., & MacGyvers, V. L. (2001). In the eyes of the beholder: Students' and teachers' judgments of students' motivation. Teaching and Teacher Education, 17(3), 321-331. http://dx.doi.org/10.1016/S0742-051X(00) 00060-3.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Structural equation modeling with LISREL",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hayduk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hayduk, L. A. (1987). Structural equation modeling with LISREL. Baltimore: Johns Hopkins University Press.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Dimensional comparison theory: Perceived subject similarity impacts on students self-concepts",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Helm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "M\u00fcller-Kalthoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "AERA Open",
+                "volume": "2",
+                "issue": "2",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/2332858416650624"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Helm, F., M\u00fcller-Kalthoff, H., Nagy, N., & M\u00f6ller, J. (2016). Dimensional comparison theory: Perceived subject similarity impacts on students self-concepts. AERA Open, 2(2), http://dx.doi.org/10.1177/2332858416650624.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Entwicklung eines Fragebogens zur Einsch\u00e4tzung \u00fcberfachlicher Sch\u00fclerkompetenzen",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Helm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Heckt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Gienke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "May",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helm, F., Pohlmann, B., Heckt, M., Gienke, F., May, P., & M\u00f6ller, J. (2012). Entwicklung eines Fragebogens zur Einsch\u00e4tzung \u00fcberfachlicher Sch\u00fclerkompetenzen [Development of a questionnaire for the assessment of students' key competencies].",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Multilevel analysis. Techniques and applications",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hox",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hox, J. J. (2002). Multilevel analysis. Techniques and applications. Mahwah, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "LISREL 8: Structural equation modeling with the SIMPLIS command language",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "J\u00f6reskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "S\u00f6rbom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f6reskog, K. G., & S\u00f6rbom, D. (1993). LISREL 8: Structural equation modeling with the SIMPLIS command language. Chicago, IL: Scientific Software International.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Reconsidering children's early learning and development: Toward shared beliefs and vocabulary",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Kagan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Moore",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Bredekamp",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kagan, S. L., Moore, E., & Bredekamp, S. (1995). Reconsidering children's early learning and development: Toward shared beliefs and vocabulary. Washington, DC: National Education Goals Panel.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Achievement and engagement: How student characteristics influence teacher judgments. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kaiser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "S\u00fcdkamp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "28",
+                "issue": "",
+                "pages": "73--84",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.learninstruc.2013.06.001"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaiser, J., Retelsdorf, J., S\u00fcdkamp, A., & M\u00f6ller, J. (2013). Achievement and engagement: How student characteristics influence teacher judgments. Learning and Instruction, 28, 73-84. http://dx.doi.org/10.1016/j.learninstruc.2013.06.001.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Verbal and math self-concepts: An internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "1",
+                "pages": "129--149",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/00028312023001129"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concepts: An internal/external frame of re- ference model. American Educational Research Journal, 23(1), 129-149. http://dx.doi. org/10.3102/00028312023001129.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "The internal/external frame of reference model of selfconcept and achievement relations: Age-cohort and cross-cultural differences",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abduljabbar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J S"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Abdelfattah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nagengast",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "American Educational Research Journal",
+                "volume": "52",
+                "issue": "1",
+                "pages": "168--202",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0002831214549453"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Abduljabbar, A. S., Parker, P. D., Morin, A. J. S., Abdelfattah, F., Nagengast, B., ... Abu-Hilal, M. M. (2015). The internal/external frame of reference model of self- concept and achievement relations: Age-cohort and cross-cultural differences. American Educational Research Journal, 52(1), 168-202. http://dx.doi.org/10.3102/ 0002831214549453.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "An evaluation of incremental fit indices: A clarification of mathematical and empirical properties",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Balla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.-T",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Advanced structural equation modeling: Issues and techniques",
+                "volume": "",
+                "issue": "",
+                "pages": "315--353",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Balla, J. R., & Hau, K.-T. (1996). An evaluation of incremental fit indices: A clarification of mathematical and empirical properties. In G. A. Marcoulides, & R. E. Schumacker (Eds.). Advanced structural equation modeling: Issues and techniques (pp. 315-353). Mahwah NJ: Lawrence Erlbaum Associates Publishers.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Goodness-of-fit indexes in confirmatory factor analysis: The effect of sample size",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Balla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Mcdonald",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Psychological Bulletin",
+                "volume": "103",
+                "issue": "3",
+                "pages": "391--410",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0033-2909.103.3.391"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Balla, J. R., & McDonald, R. P. (1988). Goodness-of-fit indexes in con- firmatory factor analysis: The effect of sample size. Psychological Bulletin, 103(3), 391-410. http://dx.doi.org/10.1037/0033-2909.103.3.391.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Do we see ourselves as others infer: A comparison of self-other agreement on multiple dimensions of self-concept from two continents",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Australian Journal of Psychology",
+                "volume": "45",
+                "issue": "1",
+                "pages": "49--58",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/00049539308259118"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Byrne, B. M. (1993). Do we see ourselves as others infer: A comparison of self-other agreement on multiple dimensions of self-concept from two continents. Australian Journal of Psychology, 45(1), 49-58. http://dx.doi.org/10.1080/ 00049539308259118.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Self-other agreement on multiple dimensions of preadolescent self-concept: Inferences by teachers, mothers, and fathers",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Journal of Educational Psychology",
+                "volume": "83",
+                "issue": "3",
+                "pages": "393--404",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.83.3.393"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Craven, R. G. (1991). Self-other agreement on multiple dimensions of preadolescent self-concept: Inferences by teachers, mothers, and fathers. Journal of Educational Psychology, 83(3), 393-404. http://dx.doi.org/10.1037/0022-0663.83.3. 393.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Reciprocal effects of self-concept and performance from a multidimensional perspective: Beyond seductive pleasure and unidimensional perspectives",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Perspectives on Psychological Science",
+                "volume": "1",
+                "issue": "2",
+                "pages": "133--163",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1745-6916.2006.00010.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Craven, R. G. (2006). Reciprocal effects of self-concept and performance from a multidimensional perspective: Beyond seductive pleasure and unidimensional perspectives. Perspectives on Psychological Science, 1(2), 133-163. http://dx.doi.org/ 10.1111/j.1745-6916.2006.00010.x.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Dimensional comparison theory: An extension of the internal/external frame of reference effect on academic self-concept formation",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kuyper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seaton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "39",
+                "issue": "4",
+                "pages": "326--341",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.cedpsych.2014.08.003"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Kuyper, H., Seaton, M., Parker, P. D., Morin, A. J., M\u00f6ller, J., et al. (2014). Dimensional comparison theory: An extension of the internal/external frame of reference effect on academic self-concept formation. Contemporary Educational Psychology, 39(4), 326-341. http://dx.doi.org/10.1016/j.cedpsych.2014.08.003.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Preadolescent self-concept: its relation to self-concept as inferred by teachers and to academic ability",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "53",
+                "issue": "1",
+                "pages": "60--78",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.2044-8279.1983.tb02536.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Parker, J. W., & Smith, I. D. (1983). Preadolescent self-concept: its relation to self-concept as inferred by teachers and to academic ability. British Journal of Educational Psychology, 53(1), 60-78. http://dx.doi.org/10.1111/j.2044-8279.1983. tb02536.x.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Multidimensional self-concepts: Relationships with inferred self-concepts and academic achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Barnes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Australian Journal of Psychology",
+                "volume": "36",
+                "issue": "3",
+                "pages": "367--386",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/00049538408255318"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Smith, I. D., & Barnes, J. (1984). Multidimensional self-concepts: Relationships with inferred self-concepts and academic achievement. Australian Journal of Psychology, 36(3), 367-386. http://dx.doi.org/10.1080/ 00049538408255318.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Dimensional comparisons and their consequences for self-concept, motivation, and emotion",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Helm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "M\u00fcller-Kalthoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "International Encyclopedia of the Social & Behavioral Sciences",
+                "volume": "26",
+                "issue": "6",
+                "pages": "430--436",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/B978-0-08-097086-8.26092-3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Helm, F., M\u00fcller-Kalthoff, H., Nagy, N., & Marsh, H. W. (2015). Dimensional comparisons and their consequences for self-concept, motivation, and emotion. International Encyclopedia of the Social & Behavioral Sciences, 26(6), 430-436. http:// dx.doi.org/10.1016/B978-0-08-097086-8.26092-3.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Internal comparisons in everyday life",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Husemann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Educational Psychology",
+                "volume": "98",
+                "issue": "2",
+                "pages": "342--353",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.98.2.342"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & Husemann, N. (2006). Internal comparisons in everyday life. Journal of Educational Psychology, 98(2), 342-353. http://dx.doi.org/10.1037/0022-0663.98.2. 342.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Dimensional comparisons: An experimental approach to the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "4",
+                "pages": "826--835",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.93.4.826"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & K\u00f6ller, O. (2001). Dimensional comparisons: An experimental approach to the internal/external frame of reference model. Journal of Educational Psychology, 93(4), 826-835. http://dx.doi.org/10.1037/0022-0663.93.4.826.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Dimensional comparison theory",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Psychological Review",
+                "volume": "120",
+                "issue": "3",
+                "pages": "544--560",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0032459"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & Marsh, H. W. (2013). Dimensional comparison theory. Psychological Review, 120(3), 544-560. http://dx.doi.org/10.1037/a0032459.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Review of Educational Research",
+                "volume": "79",
+                "issue": "3",
+                "pages": "1129--1167",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0034654309337522"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Pohlmann, B., K\u00f6ller, O., & Marsh, H. W. (2009). A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept. Review of Educational Research, 79(3), 1129-1167. http://dx. doi.org/10.3102/0034654309337522.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "The reciprocal internal/ external frame of reference model an integration of models of relations between academic achievement and self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "American Educational Research Journal",
+                "volume": "48",
+                "issue": "6",
+                "pages": "1315--1346",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0002831211419649"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Retelsdorf, J., K\u00f6ller, O., & Marsh, H. W. (2011). The reciprocal internal/ external frame of reference model an integration of models of relations between academic achievement and self-concept. American Educational Research Journal, 48(6), 1315-1346. http://dx.doi.org/10.3102/0002831211419649.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "The belief in a negative interdependence of math and verbal abilities as determinant of academic self-concepts",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Streblow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "British Journal of Educational Psychology. British Journal of Educational Psychology",
+                "volume": "76",
+                "issue": "",
+                "pages": "1--15",
+                "other_ids": {
+                    "DOI": [
+                        "10.1348/000709905x37451"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Streblow, L., & Pohlmann, B. (2006). The belief in a negative interdependence of math and verbal abilities as determinant of academic self-concepts. British Journal of Educational Psychology. British Journal of Educational Psychology, 76, 1-15. http:// dx.doi.org/10.1348/000709905x37451.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "A double-edged sword? On the benefit, detriment, and net effect of dimensional comparison on self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "M\u00fcller-Kalthoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jansen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Schiefer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Helm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Journal of Educational Psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/edu0000171"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00fcller-Kalthoff, H., Jansen, M., Schiefer, I. M., Helm, F., Nagy, N., & M\u00f6ller, J. (2017). A double-edged sword? On the benefit, detriment, and net effect of dimensional com- parison on self-concept. Journal of Educational Psychology. http://dx.doi.org/10. 1037/edu0000171 Advance online publication.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Mplus. Statistical analysis with latent variables. User's guide",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth\u00e9n, L. K., & Muth\u00e9n, B. O. (1998-2015). Mplus. Statistical analysis with latent variables. User's guide (7th ed.). Los Angeles: Muth\u00e9n & Muth\u00e9n.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Looking outside and inside: Self-concept development of gifted adolescents",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Plucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Stocking",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Exceptional Children",
+                "volume": "67",
+                "issue": "4",
+                "pages": "535--548",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/001440290106700407"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Plucker, J. A., & Stocking, V. B. (2001). Looking outside and inside: Self-concept devel- opment of gifted adolescents. Exceptional Children, 67(4), 535-548. http://dx.doi. org/10.1177/001440290106700407.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Zur Fremdeinsch\u00e4tzung von Sch\u00fclerselbstkonzepten durch Lehrer und Mitsch\u00fcler",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Streblow",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Educational Psychology",
+                "volume": "101",
+                "issue": "1",
+                "pages": "248--258",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0013151"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Pohlmann, B., & M\u00f6ller, J. (2009). On the benefit of dimensional comparisons. Journal of Educational Psychology, 101(1), 248-258. http://dx.doi.org/10.1037/a0013151. Pohlmann, B., M\u00f6ller, J., & Streblow, L. (2004). Zur Fremdeinsch\u00e4tzung von Sch\u00fclerselbstkonzepten durch Lehrer und Mitsch\u00fcler [On students' self-concepts in- ferred by teachers and classmates].",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Reading achievement and reading selfconcept -testing the reciprocal effects model. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "",
+                "volume": "29",
+                "issue": "",
+                "pages": "21--30",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.learninstruc.2013.07.004"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Retelsdorf, J., K\u00f6ller, O., & M\u00f6ller, J. (2014). Reading achievement and reading self- concept -testing the reciprocal effects model. Learning and Instruction, 29, 21-30. http://dx.doi.org/10.1016/j.learninstruc.2013.07.004.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Wie generell ist das Modell? Analysen zum Geltungsbereich des",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Schilling",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Sparfeldt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Rost",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Internal/External Frame of Reference\"-Modells",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schilling, S. R., Sparfeldt, J. R., & Rost, D. H. (2004). Wie generell ist das Modell? Analysen zum Geltungsbereich des \"Internal/External Frame of Reference\"-Modells.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Diagnostische Kompetenz von Eltern und Lehrern",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Schrader",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schrader, F. W. (2010). Diagnostische Kompetenz von Eltern und Lehrern [Diagnostic competence of parents and teachers].",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Handw\u00f6rterbuch p\u00e4dagogische Psychologie",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "In D. H. Rost (Ed.). Handw\u00f6rterbuch p\u00e4dagogische Psychologie(4th ed.). Weinheim, Basel: Beltz.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Akkuratheit der Einsch\u00e4tzung von Sch\u00fclermerkmalen durch Lehrer und das Konstrukt der diagnostischen Kompetenz [Accuracy of teacher judgments on student characteristics and the construct of diagnostic competence",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Spinath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+                "volume": "19",
+                "issue": "",
+                "pages": "85--95",
+                "other_ids": {
+                    "DOI": [
+                        "10.1024/1010-0652.19.12.85"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Spinath, B. (2005). Akkuratheit der Einsch\u00e4tzung von Sch\u00fclermerkmalen durch Lehrer und das Konstrukt der diagnostischen Kompetenz [Accuracy of teacher judgments on student characteristics and the construct of diagnostic competence]. Zeitschrift f\u00fcr P\u00e4dagogische Psychologie (German Journal of Educational Psychology), 19(1/2), 85-95. http://dx.doi.org/10.1024/1010-0652.19.12.85.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Self-evaluative effects of dimensional and social comparison",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Strickhouser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Zell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Journal of Experimental Social Psychology",
+                "volume": "59",
+                "issue": "",
+                "pages": "60--66",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.jesp.2015.03.001"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Strickhouser, J. E., & Zell, E. (2015). Self-evaluative effects of dimensional and social comparison. Journal of Experimental Social Psychology, 59, 60-66. http://dx.doi.org/ 10.1016/j.jesp.2015.03.001.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Accuracy of teachers' judgments of students' academic achievement: A meta-analysis",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "S\u00fcdkamp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kaiser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Educational Psychology",
+                "volume": "104",
+                "issue": "3",
+                "pages": "743--762",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0027627"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "S\u00fcdkamp, A., Kaiser, J., & M\u00f6ller, J. (2012). Accuracy of teachers' judgments of students' academic achievement: A meta-analysis. Journal of Educational Psychology, 104(3), 743-762. http://dx.doi.org/10.1037/a0027627.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "The relation between self-beliefs and academic achievement: A meta-analytic review",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Valentine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Cooper",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Educational Psychologist",
+                "volume": "39",
+                "issue": "2",
+                "pages": "111--133",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/s15326985ep3902_3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Valentine, J. C., DuBois, D. L., & Cooper, H. (2004). The relation between self-beliefs and academic achievement: A meta-analytic review. Educational Psychologist, 39(2), 111-133. http://dx.doi.org/10.1207/s15326985ep3902_3.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "How well do parents know their adolescent children? Parent inferences of student self-concepts reflect dimensional comparison processes. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Van Zanden",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seaton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Guo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Duineveld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "",
+                "volume": "47",
+                "issue": "",
+                "pages": "25--32",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.learninstruc.2016.09.002"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Van Zanden, B., Marsh, H. W., Seaton, M., Parker, P. D., Guo, J., & Duineveld, J. J. (2017). How well do parents know their adolescent children? Parent inferences of student self-concepts reflect dimensional comparison processes. Learning and Instruction, 47, 25-32. http://dx.doi.org/10.1016/j.learninstruc.2016.09.002.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "When students doubt their teachers' diagnostic competence: Moderation in the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Zimmermann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Journal of Educational Psychology",
+                "volume": "110",
+                "issue": "1",
+                "pages": "46--57",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/edu0000196"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Zimmermann, F., M\u00f6ller, J., & K\u00f6ller, O. (2018). When students doubt their teachers' diagnostic competence: Moderation in the internal/external frame of reference model. Journal of Educational Psychology, 110(1), 46-57. http://dx.doi.org/10.1037/ edu0000196.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Path-analytic findings in the meta-analysis by M\u00f6ller et al. (2009) across all 69 included studies.",
+                "uris": null
+            },
+            "FIGREF1": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Study 1: Path-model of the relations between grades and students' self-concepts, with factor loadings. *p < .05, **p < .01.",
+                "uris": null
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Study 1: Model fit indices for the specified multi-group path-models.",
+                "type_str": "table",
+                "content": "<table><tr><td/><td>RMSEA</td><td>CFI/TLI</td><td>\u03c7 2 /df</td></tr><tr><td>Model 1</td><td>0.081</td><td>0.959/0.919</td><td>40.188*/14</td></tr><tr><td>Model 2</td><td>0.087</td><td>0.949/0.905</td><td>47.716*/15</td></tr><tr><td>Model 3</td><td>0.083</td><td>0.954/0.914</td><td>44.779*/15</td></tr><tr><td>Model 4</td><td>0.076</td><td>0.961/0.928</td><td>40.005*/15</td></tr><tr><td>Model 5</td><td>0.080</td><td>0.957/0.920</td><td>42.573*/15</td></tr></table>"
+            },
+            "TABREF3": {
+                "num": null,
+                "text": "Study 2: Model fit indices for the specified multi-group path models.",
+                "type_str": "table",
+                "content": "<table><tr><td/><td>RMSEA</td><td>CFI/TLI</td><td>\u03c7 2 /df</td></tr><tr><td>Model 1</td><td>0.071</td><td>0.968/0.936</td><td>36.622*/14</td></tr><tr><td>Model 2</td><td>0.077</td><td>0.960/0.925</td><td>43.714*/15</td></tr><tr><td>Model 3</td><td>0.058</td><td>0.971/0.958</td><td>39.410*/15</td></tr><tr><td>Model 4</td><td>0.070</td><td>0.967/0.938</td><td>38.582*/15</td></tr><tr><td>Model 5</td><td>0.069</td><td>0.968/0.940</td><td>37.730*/15</td></tr></table>"
+            }
+        }
+    }
+}

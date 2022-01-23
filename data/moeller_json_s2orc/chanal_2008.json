@@ -1,0 +1,1993 @@
+{
+    "paper_id": "chanal_2008",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:57:48.491771Z"
+    },
+    "title": "Verbal, mathematics, and physical education self-concepts and achievements: An extension and test of the Internal/External Frame of Reference Model",
+    "authors": [
+        {
+            "first": "Julien",
+            "middle": [
+                "P"
+            ],
+            "last": "Chanal",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Grenoble",
+                "location": {
+                    "country": "France"
+                }
+            },
+            "email": "julien.chanal@fse.ulaval.ca"
+        },
+        {
+            "first": "Philippe",
+            "middle": [
+                "G"
+            ],
+            "last": "Sarrazin",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Grenoble",
+                "location": {
+                    "country": "France"
+                }
+            },
+            "email": "philippe.sarrazin@ujf-grenoble.fr"
+        },
+        {
+            "first": "Fr\u00e9",
+            "middle": [],
+            "last": "D\u00e9",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Ric",
+            "middle": [],
+            "last": "Guay",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Laval University",
+                "location": {
+                    "settlement": "Quebec",
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Julie",
+            "middle": [],
+            "last": "Boich\u00e9",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Grenoble",
+                "location": {
+                    "country": "France"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objectives: The Internal/External Frame of Reference Model (I/E model; e.g., Marsh, 1986) posits that verbal achievement (Ach) produces a lower mathematics self-concept (SC) and that, conversely, mathematics Ach fosters a lower verbal SC after controlling for prior Ach in each domain. The present study extended this model by adding another school subject that has not been previously investigated, namely physical education (PE). The central goal was to verify whether Ach in PE positively or negatively predicts academic SC in the mathematics and verbal domains. Design: Prospective study over one school year. Methods: Participants were 451 French high school students (mean age = 13.5). Ach scores in mathematics, French and PE were gathered at the beginning of the school year. At the end of this one, students completed a questionnaire to assess their SC in the three school subjects. Results: Structural Equation Modelling results revealed, according to the I/E model, negative paths between mathematics Ach and verbal SC, and between verbal Ach and mathematics SC. Results also revealed singular relationship patterns between the two traditional school subjects and PE. A positive path between PE Ach and mathematics SC was observed whereas the path with the verbal SC was non-significant. Conclusion: PE could have benefits to increase SC in other school subject such as mathematics. Broader implications of results for the I/E model are discussed.",
+    "pdf_parse": {
+        "paper_id": "chanal_2008",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Objectives: The Internal/External Frame of Reference Model (I/E model; e.g., Marsh, 1986) posits that verbal achievement (Ach) produces a lower mathematics self-concept (SC) and that, conversely, mathematics Ach fosters a lower verbal SC after controlling for prior Ach in each domain. The present study extended this model by adding another school subject that has not been previously investigated, namely physical education (PE). The central goal was to verify whether Ach in PE positively or negatively predicts academic SC in the mathematics and verbal domains. Design: Prospective study over one school year. Methods: Participants were 451 French high school students (mean age = 13.5). Ach scores in mathematics, French and PE were gathered at the beginning of the school year. At the end of this one, students completed a questionnaire to assess their SC in the three school subjects. Results: Structural Equation Modelling results revealed, according to the I/E model, negative paths between mathematics Ach and verbal SC, and between verbal Ach and mathematics SC. Results also revealed singular relationship patterns between the two traditional school subjects and PE. A positive path between PE Ach and mathematics SC was observed whereas the path with the verbal SC was non-significant. Conclusion: PE could have benefits to increase SC in other school subject such as mathematics. Broader implications of results for the I/E model are discussed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Self-concept theory suggests that the perceptions students have of ability in a given school subject are not an epiphenomenon, but rather an important cognitive state that drives behavior and academic achievement (e.g., Marsh & Hattie, 1996) . In the past decades, researchers have explored the relations between achievement and self-concept in various school subjects (e.g., Byrne, 1986) . Studies have highlighted the paradoxical finding that students' achievements can simultaneously enhance and decrease self-concept. Specifically, self-concept studies generally indicate that mathematics and verbal achievements are strong predictors of corresponding self-concepts in these school subjects, but at the same time, achievement in one school subject negatively predicts self-concept in another subject after controlling for previous achievement in the matching domain. This indicates that selfconcept in a given subject is influenced not only by specific achievement in that subject, but also by achievement in other subjects. These patterns of relations have been investigated under the well-known Internal/External Frame of Reference Model (I/E model, Marsh, 1986) , which has proven quite robust in many different cultures (Marsh & Hau, 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 220,
+                        "end": 241,
+                        "text": "Marsh & Hattie, 1996)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 376,
+                        "end": 388,
+                        "text": "Byrne, 1986)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1156,
+                        "end": 1168,
+                        "text": "Marsh, 1986)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1228,
+                        "end": 1247,
+                        "text": "(Marsh & Hau, 2004)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Up to now, most studies on the I/E model have focused on the verbal and mathematics domains, but, as argued by Marsh, Kong, and Hau (2001) , ''. the theoretical underpinning of the model suggests that this frame of reference should be a function of all different school subjects (although the amount of weight put on each may vary)'' (p. 545). However, could achievement in certain less academic school subjects produce a different picture? For example, could achievement in physical education have positive effects on mathematics and verbal self-concepts, after controlling for achievement, instead of negative effects, as predicted by the I/E model? In fact, a host of studies have shown that physical activity has beneficial effects on students' grades, coursework selection, and academic self-concept (see Marsh & Kleitman, 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 111,
+                        "end": 138,
+                        "text": "Marsh, Kong, and Hau (2001)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 810,
+                        "end": 833,
+                        "text": "Marsh & Kleitman, 2003)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "We therefore focused on answering these questions by assessing achievement and self-concepts in verbal, mathematics, and physical education subjects. In the following sections, we present a more detailed discussion of the I/E model and the empirical findings to date, followed by some studies that focus on the effects of physical activity on academic self-concept and achievement. Finally, we present the specific goals of this study.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "According to the I/E model, students' academic self-concepts are influenced by both internal and external comparisons. External reference refers to a social comparison process by which students compare their self-concept of ability in a particular school subject with the accomplishments of other students in the same school subject. This is based on the assumption that social membership provides a frame of reference, or standard of comparison, which is used by the group members in their self-evaluations (e.g., Chanal, Marsh, Sarrazin, & Bois, 2005) . Internal comparison refers to the process by which students compare their performance in a particular school subject to their performance in another subject, independently of social comparison (e.g., Marsh, Smith, & Barnes, 1985) . The external comparison process predicts that better accomplishments in one domain would lead to higher self-concepts in the matching domain. According to the internal comparison process, however, better accomplishments in one domain should lead to lower self-concepts in the non-matching domain, once the positive effects of matching accomplishment are controlled for. For example, students with average achievement in mathematics would gauge their mathematics self-concept depending on whether their achievement in the verbal domain is below or above average. Below average achievement in the verbal domain would lead students to have slightly above average mathematics selfconcepts, because the internal comparison process would lead them to slightly overestimate their abilities in mathematics. Conversely, above average achievement in the verbal domain would lead students to have slightly below average mathematics self-concepts. Thus, the I/E model hypothesizes: (1) a strong and positive correlation between mathematics achievement and verbal achievement; (2) a positive path between academic achievement and self-concept in the same domain; (3) a weak correlation between verbal and mathematics self-concepts; and (4) a negative path between achievement in one school subject to self-concept in another subject (see Marsh & Hau, 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 515,
+                        "end": 553,
+                        "text": "Chanal, Marsh, Sarrazin, & Bois, 2005)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 756,
+                        "end": 785,
+                        "text": "Marsh, Smith, & Barnes, 1985)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 2113,
+                        "end": 2131,
+                        "text": "Marsh & Hau, 2004)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The I/E model",
+                "sec_num": null
+            },
+            {
+                "text": "Several studies conducted in different countries have supported postulates of the I/E model for the verbal and mathematics domains (e.g., Abu-Hilal & Bahri, 2000; Dai, 2002; Kong, 2000; Lee, Yeung, Low, & Jin, 2000; Marsh, Kong, & Hau, 2001; Skaalvik & Rankin, 1995) . For example, Marsh and Hau (2004) performed a crosscultural study in 26 countries among 55,582 participants, revealing that, despite some disparities among countries, invariance tests supported the generalizability of the model across cultures.",
+                "cite_spans": [
+                    {
+                        "start": 138,
+                        "end": 162,
+                        "text": "Abu-Hilal & Bahri, 2000;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 163,
+                        "end": 173,
+                        "text": "Dai, 2002;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 174,
+                        "end": 185,
+                        "text": "Kong, 2000;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 186,
+                        "end": 215,
+                        "text": "Lee, Yeung, Low, & Jin, 2000;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 216,
+                        "end": 241,
+                        "text": "Marsh, Kong, & Hau, 2001;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 242,
+                        "end": 266,
+                        "text": "Skaalvik & Rankin, 1995)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 282,
+                        "end": 302,
+                        "text": "Marsh and Hau (2004)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The I/E model",
+                "sec_num": null
+            },
+            {
+                "text": "Some studies have attempted to extend the I/E model to other academic subjects. For instance, in a 5-year longitudinal study based on a large representative sample of high school students in Hong Kong, Marsh, Kong, and Hau (2001) tested the I/E model using three school subjects: Chinese, English, and Mathematics. Results showed that Mathematics, English, and Chinese achievements had positive effects on matching self-concept dimensions, but, as expected, these achievements also had negative effects on nonmatching domains. Similarly, Marsh and Yeung (2001) demonstrated that Mathematics, English, and Spanish achievement all had positive effects on matching self-concepts, but negative effects on self-concepts in other dimensions. Sparfeldt, Schilling, Rost, and Thiel (2006) tested the I/E model using Mathematics, Physics, German, and English. Results confirmed that, among the 12 path coefficients between grades and self-concepts, 7 were negative, 4 were not statistically significant, and only 1 coefficient was positive, between grades in mathematics and self-concept in physics.",
+                "cite_spans": [
+                    {
+                        "start": 196,
+                        "end": 229,
+                        "text": "Kong, Marsh, Kong, and Hau (2001)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 538,
+                        "end": 560,
+                        "text": "Marsh and Yeung (2001)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 736,
+                        "end": 780,
+                        "text": "Sparfeldt, Schilling, Rost, and Thiel (2006)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The I/E model",
+                "sec_num": null
+            },
+            {
+                "text": "In sum, although one study demonstrated a positive effect of achievement in one school subject on students' self-concept in a non-matching school subject, negative effects appear to be the most common result found in studies testing the I/E model for school subjects other than Mathematics or Verbal.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The I/E model",
+                "sec_num": null
+            },
+            {
+                "text": "A number of studies have tested the effects of physical activity on a host of educational outcomes. Participation in interscholastic sports, intramural sports, or athletics was associated not only with reduced dropout rates (e.g., Mahoney & Cairns, 1997) and higher grades (e.g., Marsh & Kleitman, 2003) , but also with higher social and academic self-concepts (e.g., Marsh, 1993) . For example, Marsh and Kleitman (2003) showed that the more students participated in physical activity, the higher their grades and self-esteem. Studies have also established a positive relationship between physical fitness and academic achievement. For example, Castelli, Hillman, Buck, and Erwin (2007) showed that physical fitness indices (i.e., aerobic capacity and body mass index) were related to academic achievement in third-and fifth-grade students. More precisely, children who displayed better physical health (as assessed by high aerobic capacity and low body mass index) showed, among others, better performance in mathematics and reading.",
+                "cite_spans": [
+                    {
+                        "start": 231,
+                        "end": 254,
+                        "text": "Mahoney & Cairns, 1997)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "text": "Marsh & Kleitman, 2003)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 368,
+                        "end": 380,
+                        "text": "Marsh, 1993)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 396,
+                        "end": 421,
+                        "text": "Marsh and Kleitman (2003)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 646,
+                        "end": 687,
+                        "text": "Castelli, Hillman, Buck, and Erwin (2007)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Physical activity, academic self-concept, and academic achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Despite these findings, no studies to our knowledge have investigated the effects of achievement in physical education on mathematics and verbal self-concepts. Although various positive effects of physical activity on academic achievement and selfconcept have been found, the results were mostly observed in contexts where physical activity was not a compulsory academic school subject for all students. Therefore, when assessing the effects of achievement in physical education on self-concepts in other school subjects, would we observe negative or positive effects? In fact, students might form their self-concepts in various school subjects using the internal and external comparison processes of the I/E model, for a negative effect of achievement in physical education on mathematics and verbal self-concepts. Alternatively, we could argue that students might use their achievement in physical education to foster their mathematics and verbal self-concepts. Specifically, some models (e.g., Broh, 2002) suggest that physical activity may contribute to academic skills by fostering work ethics, respect for authority, and perseverance. Moreover, the positive effects of physical activity on children's cognitive functioning have been supported in recent meta-analyses (e.g., Etnier & Sibley, 2003) . Thus, better grades in physical education could indicate that students have developed cognitive skills (e.g., problem solving skills, attention process, and decision making) that are beneficial for more academic school subjects. In turn, these skills could foster higher self-concepts, thereby leading to a positive relationship between achievement in physical education and self-concepts in other school subjects. Finally, we could assume that students might be unable to use an internal frame of reference based on their achievement in physical education when it comes to assessing self-concept in more academic school subjects. In fact, physical education differs significantly from other school subjects, principally because achievements in this area reflect physical rather than intellectual skills. Therefore, the internal frame of reference effect might be less likely to occur between achievement in this subject and self-concepts in school subjects that require intellectual skills.",
+                "cite_spans": [
+                    {
+                        "start": 997,
+                        "end": 1008,
+                        "text": "Broh, 2002)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1280,
+                        "end": 1302,
+                        "text": "Etnier & Sibley, 2003)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Physical activity, academic self-concept, and academic achievement",
+                "sec_num": null
+            },
+            {
+                "text": "The central goal of our study was to verify whether achievement in physical education positively or negatively predicts academic self-concepts in the mathematics and verbal domains. The study was conducted in a French high school where physical education was compulsory for all students. We chose two traditional school subjects that have been investigated in previous studies (i.e., mathematics and verbal: in this case, French) in addition to physical education. The model tested is illustrated in Fig. 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 500,
+                        "end": 506,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The present investigation",
+                "sec_num": null
+            },
+            {
+                "text": "In line with previous work (e.g., Marsh & Hau, 2004) , we hypothesized that correlations between achievements in the various domains would be relatively strong, whereas correlations between self-concepts would be fairly weak. Moreover, we predicted that achievements in each traditional school subject (i.e., mathematics and verbal) would positively predict corresponding self-concepts and negatively predict non-corresponding selfconcepts. In addition, we posited that achievement in physical education would positively predict physical education self-concept. We did not make any predictions about the effects of achievement in physical education on mathematics and verbal self-concepts.",
+                "cite_spans": [
+                    {
+                        "start": 34,
+                        "end": 52,
+                        "text": "Marsh & Hau, 2004)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present investigation",
+                "sec_num": null
+            },
+            {
+                "text": "Participants were 451 students (242 boys and 209 girls) attending a high school in France. Average age was 13.5 years (SD \u00bc 1.3). The study took place over one school year. Data were collected at the end of the school year (i.e., before the final report card of the year, in early June 2004). Students who agreed to participate in the study completed a questionnaire to assess their self-concepts in three different school subjects: mathematics, French (i.e., the verbal component) and physical education. Questionnaires were administered in class.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants and procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Mathematics and French self-concepts were measured with five items each (e.g., ''I find mathematics lessons very difficult.'') taken from the French version of the Self-Description Questionnaire II (Guerin, Marsh, & Famose, 2003) . The physical education self-concept",
+                "cite_spans": [
+                    {
+                        "start": 198,
+                        "end": 229,
+                        "text": "(Guerin, Marsh, & Famose, 2003)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures Academic self-concept measures",
+                "sec_num": null
+            },
+            {
+                "text": "Beginning of the year End of the year Students' selfconcepts was measured with six items (e.g., ''In physical education lessons, I am good at most physical activities and sports) slightly adapted from the Sports competence subscale of the French version of the Physical Self-Description Questionnaire (Guerin, Marsh, & Famose, 2004) . For each item in this dimension, we clearly specified to students that we were interested only in their general perceptions of competence in the sports and activities they practiced under the physical education program. Answers on all items were rated on a 6-point Likert type scale ranging from (1) False to (6) True. Cronbach's alpha coefficients for all three measures were excellent (see Table 1 ).",
+                "cite_spans": [
+                    {
+                        "start": 301,
+                        "end": 332,
+                        "text": "(Guerin, Marsh, & Famose, 2004)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 727,
+                        "end": 734,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Students' grades",
+                "sec_num": null
+            },
+            {
+                "text": "For all students who completed the questionnaire, achievement scores on a 20-point scale in the three school subjects at the beginning of the school year (November 2003) were gathered from the official student records. We made this choice because many authors have supported the utility of the prospective design over a cross-sectional design (e.g., Bollen, 1989; Rogosa, 1980) . In France, physical education is a compulsory subject for all high school students (see Wang, Papaioannou, Sarrazin, Jaakola, & Solmon, 2006) . Students practice different sports and physical activities throughout the school year, following a 10-week cycle (i.e., 10 lessons of 2 h). Although health is a concern, student evaluations were predominantly based on their performance. Student achievement in our study is determined by the mean of grades received in the various activities performed during the trimester (from two to four activities). Previous studies have demonstrated the relevance of using grades instead of standardized tests (e.g., Guay, Marsh, & Boivin, 2003) , and that grades are a very good indicator of student achievement (Jussim & Harber, 2005) . Studies carried out in PE in France reported high correlations (rs > 0.70) between students' performance and grades, in a swimming cycle (Trouilloud, Sarrazin, Martinek, & Guillet, 2002) or gymnastics cycles (Boich\u00e9 , Sarrazin, Grouzet, Pelletier, & Chanal, in press ).",
+                "cite_spans": [
+                    {
+                        "start": 350,
+                        "end": 363,
+                        "text": "Bollen, 1989;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 364,
+                        "end": 377,
+                        "text": "Rogosa, 1980)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 468,
+                        "end": 521,
+                        "text": "Wang, Papaioannou, Sarrazin, Jaakola, & Solmon, 2006)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 1029,
+                        "end": 1057,
+                        "text": "Guay, Marsh, & Boivin, 2003)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1125,
+                        "end": 1148,
+                        "text": "(Jussim & Harber, 2005)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1288,
+                        "end": 1337,
+                        "text": "(Trouilloud, Sarrazin, Martinek, & Guillet, 2002)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1359,
+                        "end": 1417,
+                        "text": "(Boich\u00e9 , Sarrazin, Grouzet, Pelletier, & Chanal, in press",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic achievement measures",
+                "sec_num": null
+            },
+            {
+                "text": "We observed less than 2% missing data for the overall dataset. Since many studies underscore the inappropriateness of pairwise and listwise strategies for handling missing data (e.g., Graham & Hofer, 2000) , we used the FIML (Full Information Maximum Likelihood) method, using LISREL (version 8.80), to estimate missing values. In brief, this methodology rebuilds the covariance matrix and sample means estimates.",
+                "cite_spans": [
+                    {
+                        "start": 184,
+                        "end": 205,
+                        "text": "Graham & Hofer, 2000)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Handling of missing data",
+                "sec_num": null
+            },
+            {
+                "text": "We began by assessing a Confirmatory Factor Analysis (CFA) model in order to test the construct validity of the variables included in the model before assessing a Structural Equation Model (SEM). CFA and SEM were conducted with LISREL (version 8.80), using maximum likelihood estimation (for further discussion, see J\u00f6 reskog & S\u00f6 rbom, 1996). To ascertain model fit, we used the root-mean-square error of approximation (RMSEA), the chi-square test statistic, the chi-square/degrees of freedom ratio (c 2 /df), and the Non-normed Fit Index (NNFI). A non-significant chi-square indicates that the model adequately represents sample data. Browne and Cudeck (1993) suggest that RMSEAs less than 0.05 are indicative of a ''close fit'' and that values up to 0.08 represent reasonable errors of approximation. The Chi-Square/Degrees of Freedom (c 2 /df) Ratio is a test of model misfit (c 2 ), compared to the parsimony of the model as indicated by the model's degrees of freedom (df). In general, a c 2 /df ratio of less than 2 indicates a relatively good model fit. The NNFI varies along a 0-1 continuum, where values greater than 0.95 typically correspond to excellent fit to the data.",
+                "cite_spans": [
+                    {
+                        "start": 637,
+                        "end": 661,
+                        "text": "Browne and Cudeck (1993)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis",
+                "sec_num": null
+            },
+            {
+                "text": "The CFA model tested provides adequate data fit:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CFA and SEM",
+                "sec_num": null
+            },
+            {
+                "text": "c 2 (140, N \u00bc 451) \u00bc 273.24, RMSEA \u00bc 0.046, c 2 /df \u00bc 1.75, NNFI \u00bc 0.995. 1 All",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CFA and SEM",
+                "sec_num": null
+            },
+            {
+                "text": "factor loadings are statistically significant and substantial (0.66-0.88, mean \u00bc 0.79). Because the CFA and SEM models are equivalent (i.e., the number of parameter estimates are the same), the goodness of fit is the same. The critical parameter estimates are the path coefficients between previous achievement levels and subsequent self-concepts. SEM results are presented in Fig. 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 377,
+                        "end": 383,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "CFA and SEM",
+                "sec_num": null
+            },
+            {
+                "text": "Results show: (a) strong and positive paths between mathematics and verbal achievement and matching self-concepts Turning to the various relations involving physical education, we observe a positive association between achievement and selfconcept in physical education (b \u00bc 0.50, p < 0.05). Physical education ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Grade effects on self-concepts",
+                "sec_num": null
+            },
+            {
+                "text": "c 2 (141, N \u00bc 451) \u00bc 414.86, Dc 2 \u00bc 141.62, Ddf \u00bc 1, p < 0.001,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Grade effects on self-concepts",
+                "sec_num": null
+            },
+            {
+                "text": "respectively for mathematics and verbal) than the correlation between achievement in mathematics and verbal (r \u00bc 0.69) domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Grade effects on self-concepts",
+                "sec_num": null
+            },
+            {
+                "text": "achievement correlates with mathematics and verbal achievement (r \u00bc 0.19, and r \u00bc 0.15, p < 0.05, respectively), whereas physical education self-concept correlates only slightly with mathematics self-concept (r \u00bc 0.12, p < 0.05), and does not correlate with verbal self-concept (r \u00bc 0.02, p > 0.05). Of the four path coefficients between achievement and self-concept in physical education and achievement and self-concepts in the other two school subjects, only two are significant: the path between verbal achievement and physical education self-concept is negative (b \u00bc \u00c00.18, p < 0.05), while the path between physical education achievement and mathematics self-concept (b \u00bc 0.08, p < 0.05) is positive. 2",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Grade effects on self-concepts",
+                "sec_num": null
+            },
+            {
+                "text": "The main purpose of our study was to test an extension of the Internal/External Frame of Reference Model to physical education. We explored the relationships between students' achievementthrough the grades obtained -and self-concept, in three subjects: mathematics, verbal, and physical education. Specifically, we tested possible negative or positive relations between physical education achievement and students' mathematics and verbal self-concepts. A one school year study involving 451 students was conducted in a French high school. First, the results of the study reproduced those of previous research on the traditional I/E model (e.g., Marsh & Hau, 2004) , corroborating the existence of: (1) a strong relationship between achievements in mathematics and the verbal domain;",
+                "cite_spans": [
+                    {
+                        "start": 645,
+                        "end": 663,
+                        "text": "Marsh & Hau, 2004)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "(2) no relationship between mathematics and verbal selfconcepts; and (3) negative paths between mathematics achievement and verbal self-concept, and inversely, between verbal achievement and mathematics self-concept.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Results also revealed that relationship patterns between the two traditional school subjects and physical education differ appreciably. First, while relationships between traditional academic subject self-concepts and physical education self-concepts appear relatively weak or non-significant (cf. Fig. 1 ), correlations between achievements in mathematics and physical education (r \u00bc 0.19) and between achievements in verbal and physical education (r \u00bc 0.15) are weaker than the correlation between mathematics and verbal achievements (r \u00bc 0.69). In other words, students with high achievement in mathematics also had high achievement in verbal, and to a lesser extent, physical education. These positive relationships between academic results and physical education are in line with previous results (e.g., Marsh & Hau, 2004; Marsh & Kleitman, 2003) , and they emphasize the particularity of achievement in physical education in the school context. In fact, albeit positive, the relationships between achievement in physical education and achievements in academic school subjects are low, perhaps because abilities assessed in physical education (i.e., motor abilities) are not related to abilities assessed in academic school subjects.",
+                "cite_spans": [
+                    {
+                        "start": 809,
+                        "end": 827,
+                        "text": "Marsh & Hau, 2004;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 828,
+                        "end": 851,
+                        "text": "Marsh & Kleitman, 2003)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 298,
+                        "end": 304,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Concerning the relations between verbal and physical education, results show that achievement in physical education is not linked to verbal self-concept, whereas verbal achievement negatively predicts physical education self-concept. The nonsignificant relationship between achievement in physical education and verbal self-concept could be explained by the non-academic status of physical education. In effect, there is a hierarchy among school subjects in which physical education (as well as art, music, and other less academic school subjects), is largely considered by students, parents, and teachers as a less important subject than mathematics or verbal subjects. As a result, achievement in physical education does not seem to be involved in the internal comparison process for verbal self-concept. In other words, students do not gauge their verbal self-concept based on their achievement in physical education. In contrast, there is a negative relationship (\u00c00.18) between verbal achievement and physical education selfconcept, after controlling for physical education achievement. Thus, physical education self-concept appears to be gauged by verbal achievement. This relationship is in line with the predictions made for the I/E model.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Concerning the relationships between mathematics and physical education, results show that achievement in mathematics is not negatively linked to physical education self-concept, whereas a positive link between achievement in physical education and mathematics self-concept is found. Two explanations may be advanced to account for this positive association: (1) transfer of learning skills that are applicable to all subjects; and/or (2) transfer of learning skills that are specific to certain subjects. First, learning in physical education might foster some students' academic skills (e.g., Broh, 2002) , cognitive functioning (e.g., Sibley & Etnier, 2003) , and self-regulation skills (e.g., Milosis & Papaioannou, 2007) that are compatible with learning in more academic school subjects. For example, in an intervention study based on the multidimensional model of goal orientations, Milosis and Papaiaannou (2007) found that students who were taught to use and transfer certain selfregulation skills (i.e., goal setting and self-talk) in physical education classes had better self-concepts in mathematics and verbal domains. However, although these explanations support a positive association between achievement in physical education and other school-subject self-concepts, they do not explain why a beneficial effect on selfconcept was found only for mathematics and not the verbal domain.",
+                "cite_spans": [
+                    {
+                        "start": 595,
+                        "end": 606,
+                        "text": "Broh, 2002)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 638,
+                        "end": 660,
+                        "text": "Sibley & Etnier, 2003)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 697,
+                        "end": 725,
+                        "text": "Milosis & Papaioannou, 2007)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 890,
+                        "end": 920,
+                        "text": "Milosis and Papaiaannou (2007)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Thus, the second explanation, transfer of skills applicable to specific school subjects, might be more compelling. In fact, there appear to be linkages between mathematics performance and spatial ability. Numerous studies have demonstrated correlations between mathematics performance and spatial ability (e.g., Battista, 1990; Kaufmann, 1990; Hegarty & Kozhevnikov, 1999; Sherman, 1979) . Specifically, the better the students' spatial ability, the better they performed in mathematics. From this perspective, experience in spatial activities (e.g., gymnastics) in physical education classes might be an important cause of improved spatial abilities. Therefore, we can speculate that physical education could increase students' spatial abilities, leading to better achievement in mathematics, which would lead in turn to the development of a better mathematics self-concept. This skill transfer might explain why beneficial effects were observed only for mathematics and not the verbal domain. Nevertheless, this reasoning is speculative, and further studies are required to support this notion before any definitive conclusions can be drawn.",
+                "cite_spans": [
+                    {
+                        "start": 312,
+                        "end": 327,
+                        "text": "Battista, 1990;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 328,
+                        "end": 343,
+                        "text": "Kaufmann, 1990;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 344,
+                        "end": 372,
+                        "text": "Hegarty & Kozhevnikov, 1999;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 373,
+                        "end": 387,
+                        "text": "Sherman, 1979)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Some potential limitations to our study have to be pointed out. First, there are limitations in the methodology used. Longitudinal studies with more than two waves of measurement are needed to validate the causal effect between grades and self-concept. Moreover, even if grades are good indicators of achievement, they imperfectly capture student's performance. Finally, the links found between grades and self-concept in physical education have been found to be high and could be very different across countries and cultures where physical education goals are not the same than in the French system. Therefore, replications are needed before generalization of our results.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Our study contributes to the existing literature by presenting an original effect of academic achievement in an unexplored school subject on self-concept in other school subjects. Perhaps because physical education is less academically oriented, negative 2 Considering the weakness of the coefficient path, we tested a new model without this path in order to know if it contributes significantly to our model. Results showed that removing this path from the model provokes a significant decrease in the chi-square test statistics (Dc 2 \u00bc 4.25, Ddf \u00bc 1, p < 0.05), so this path contributes significantly to the global adjustment of the model. relationship patterns between achievement in physical education and self-concepts in other school subjects were not observed in our study, and only a positive link was found. An effect of self-concept enhancement in mathematics was therefore obtained without a negative counterpart for student's academic self-concept in other subjects. This result has not been previously demonstrated for any other school subjects considered in I/E model studies.",
+                "cite_spans": [
+                    {
+                        "start": 255,
+                        "end": 256,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Our results have some implications for educational psychologists and practitioners. As emphasized in previous works (e.g., Valentine, DuBois, & Cooper, 2004) , better self-concept leads to better achievement, even after controlling for prior achievement. Thus, the demonstration of positive effects of achievement obtained in a less academically oriented school subject on student self-concept highlights other potential benefits of such school subjects in the educational system. Extensions of the I/E model to other less academically oriented school subjects (i.e., art, music, and technology) might reinforce this result.",
+                "cite_spans": [
+                    {
+                        "start": 123,
+                        "end": 157,
+                        "text": "Valentine, DuBois, & Cooper, 2004)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "In sum, it appears that physical education has benefits not only to reduce obesity and improve physical and mental health, but also to increase self-concept in mathematics. This study provides further support for the maintenance of physical education in educational systems at a time when the practice is being brought into question.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "J.P.Chanal et al. / Psychology of Sport and Exercise 10 (2009) 61-66",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Self concept: the generalizability of research on the SDQ, Marsh/Shavelson model and I/E frame of reference model to the United Arab Emirates students",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Abu-Hilal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bahri",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Social Behavior & Personality",
+                "volume": "28",
+                "issue": "",
+                "pages": "309--322",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Abu-Hilal, M. M., & Bahri, T. M. (2000). Self concept: the generalizability of research on the SDQ, Marsh/Shavelson model and I/E frame of reference model to the United Arab Emirates students. Social Behavior & Personality, 28, 309-322.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Spatial visualization and gender differences in high school geometry",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Battista",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Research in Mathematics Education",
+                "volume": "21",
+                "issue": "",
+                "pages": "47--60",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Battista, M. T. (1990). Spatial visualization and gender differences in high school geometry. Journal of Research in Mathematics Education, 21, 47-60.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Students' motivational profiles and achievement outcomes in physical education: a self-determination perspective",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Boich\u00e9",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Grouzet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Chanal",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Journal of Educational Psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Boich\u00e9 , J., Grouzet, F. M., Pelletier, L. G., & Chanal, J. Students' motivational profiles and achievement outcomes in physical education: a self-determination perspective. Journal of Educational Psychology, in press.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Structural equations with latent variables",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Bollen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bollen, K. A. (1989). Structural equations with latent variables. New York, NY: John Wiley and Sons.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Linking extracurricular programming to academic achievement: who benefits and why? Sociology of Education",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Broh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "75",
+                "issue": "",
+                "pages": "69--91",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Broh, B. A. (2002). Linking extracurricular programming to academic achievement: who benefits and why? Sociology of Education, 75, 69-91.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Alternative ways of assessing model fit",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Browne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Cudeck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Testing structural equation models",
+                "volume": "",
+                "issue": "",
+                "pages": "136--162",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Browne, M. W., & Cudeck, R. (1993). Alternative ways of assessing model fit. In K. Bollen, & R. Stine (Eds.), Testing structural equation models (pp. 136-162). Newbury Park, CA: Sage Publications.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Self-concept/academic achievement relations: an investigation of dimensionality, stability and causality",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Canadian Journal of Behavioural Science",
+                "volume": "18",
+                "issue": "",
+                "pages": "173--186",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1986). Self-concept/academic achievement relations: an investigation of dimensionality, stability and causality. Canadian Journal of Behavioural Science, 18, 173-186.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Physical fitness and academic achievement in third-and fifth-grade students",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Castelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hillman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Buck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Erwin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Sport and Exercise Psychology",
+                "volume": "29",
+                "issue": "",
+                "pages": "239--252",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Castelli, D. M., Hillman, C. H., Buck, S. M., & Erwin, H. E. (2007). Physical fitness and academic achievement in third-and fifth-grade students. Journal of Sport and Exercise Psychology, 29, 239-252.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Big-Fish-Little-Pond effects on gymnastics self-concept: social comparison processes in a physical setting",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Chanal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Sarrazin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Bois",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Sport and Exercise Psychology",
+                "volume": "27",
+                "issue": "",
+                "pages": "53--70",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chanal, J. P., Marsh, H. W., Sarrazin, P., & Bois, J. (2005). Big-Fish-Little-Pond effects on gymnastics self-concept: social comparison processes in a physical setting. Journal of Sport and Exercise Psychology, 27, 53-70.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Incorporating parent perceptions: a replication and extension study of the internal-external frame of reference model of self-concept development",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Dai",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Adolescent Research",
+                "volume": "17",
+                "issue": "",
+                "pages": "617--645",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dai, D. Y. (2002). Incorporating parent perceptions: a replication and extension study of the internal-external frame of reference model of self-concept development. Journal of Adolescent Research, 17, 617-645.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Multiple imputation in multivariate research",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Graham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Hofer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Modeling longitudinal and multilevel data",
+                "volume": "",
+                "issue": "",
+                "pages": "201--240",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Graham, J. W., & Hofer, S. M. (2000). Multiple imputation in multivariate research. In T. D. Little, K. U. Schnabel, & J. Baumert (Eds.), Modeling longitudinal and multilevel data (pp. 201-240). Mahwah, NJ: Lawrence Erlbaum Associates.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Academic self-concept and academic achievement: a developmental perspective on their causal ordering",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Boivin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Educational Psychology",
+                "volume": "95",
+                "issue": "",
+                "pages": "124--136",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guay, F., Marsh, H. W., & Boivin, M. (2003). Academic self-concept and academic achievement: a developmental perspective on their causal ordering. Journal of Educational Psychology, 95, 124-136.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Construct validation of the Self-Description Questionnaire II with a French sample",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guerin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Famose",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "European Journal of Psychological Assessment",
+                "volume": "19",
+                "issue": "",
+                "pages": "142--150",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guerin, F., Marsh, H. W., & Famose, J. P. (2003). Construct validation of the Self- Description Questionnaire II with a French sample. European Journal of Psychological Assessment, 19, 142-150.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Generalizability of the PSDQ and its relationships to physical fitness: the European French connection",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guerin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Famose",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Sport and Exercise Psychology",
+                "volume": "26",
+                "issue": "",
+                "pages": "19--38",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guerin, F., Marsh, H. W., & Famose, J. P. (2004). Generalizability of the PSDQ and its relationships to physical fitness: the European French connection. Journal of Sport and Exercise Psychology, 26, 19-38.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Types of visuo-spatial representations and mathematics problem solving",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Hegarty",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kozhevnikov",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Educational Psychology",
+                "volume": "91",
+                "issue": "",
+                "pages": "684--689",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hegarty, M., & Kozhevnikov, M. (1999). Types of visuo-spatial representations and mathematics problem solving. Journal of Educational Psychology, 91, 684-689.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Structural equation modeling with the SIMPLIS command language. Chicago: Scientific Software International",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "J\u00f6 Reskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "S\u00f6 Rbom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "8",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f6 reskog, K. G., & S\u00f6 rbom, D. (1996). LISREL 8: Structural equation modeling with the SIMPLIS command language. Chicago: Scientific Software International.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Teacher expectations and self-fulfilling prophecies: knowns and unknowns, resolved and unresolved controversies",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Jussim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harber",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Personality and Social Psychology Review",
+                "volume": "9",
+                "issue": "",
+                "pages": "131--155",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophe- cies: knowns and unknowns, resolved and unresolved controversies. Personality and Social Psychology Review, 9, 131-155.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Imagery effects on problem solving",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Kaufmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Imagery: Current developments",
+                "volume": "",
+                "issue": "",
+                "pages": "169--197",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaufmann, G. (1990). Imagery effects on problem solving. In P. J. Hampson, D. E. Marks, & J. T. Richardson (Eds.), Imagery: Current developments (pp. 169- 197). New York: Routledge.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Chinese students' self-concept: structure, frame of reference, and relation with academic achievement",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Kong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Dissertation Abstracts International Section A: Humanities and Social Sciences",
+                "volume": "61",
+                "issue": "3",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kong, C. (2000). Chinese students' self-concept: structure, frame of reference, and relation with academic achievement. Dissertation Abstracts International Section A: Humanities and Social Sciences, 61(3-A), 880.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Academic self-concept of talented students: factor structure and applicability of the Internal/External Frame of Reference Model",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Low",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Jin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal for the Education of the Gifted",
+                "volume": "23",
+                "issue": "",
+                "pages": "343--367",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, M. F., Yeung, A. S., Low, R., & Jin, P. (2000). Academic self-concept of talented students: factor structure and applicability of the Internal/External Frame of Reference Model. Journal for the Education of the Gifted, 23, 343-367.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Do extracurricular activities protect against early school dropout?",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Mahoney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Cairns",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Developmental Psychology",
+                "volume": "33",
+                "issue": "",
+                "pages": "241--253",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mahoney, J. L., & Cairns, R. B. (1997). Do extracurricular activities protect against early school dropout? Developmental Psychology, 33, 241-253.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Verbal and mathematics self-concepts: an Internal/External Frame of Reference Model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and mathematics self-concepts: an Internal/External Frame of Reference Model. American Educational Research Journal, 23, 129-149.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "The effects of participation in sport during the last 2 years of high-school",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Sociology of Education",
+                "volume": "10",
+                "issue": "",
+                "pages": "18--43",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1993). The effects of participation in sport during the last 2 years of high-school. Sociology of Education, 10, 18-43.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Theoretical perspectives on the structure of selfconcept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hattie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Handbook of self-concept",
+                "volume": "",
+                "issue": "",
+                "pages": "38--90",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hattie, J. (1996). Theoretical perspectives on the structure of self- concept. In B. A. Bracken (Ed.), Handbook of self-concept (pp. 38-90). New York: Wiley.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Explaining paradoxical relations between academic self-concepts and achievements: cross-cultural generalizability of the internal/external frame of reference predications across 26 countries",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Educational Psychology",
+                "volume": "96",
+                "issue": "",
+                "pages": "56--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hau, K. T. (2004). Explaining paradoxical relations between academic self-concepts and achievements: cross-cultural generalizability of the internal/external frame of reference predications across 26 countries. Journal of Educational Psychology, 96, 56-67.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "School athletic participation: mostly gain with little pain",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kleitman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Sport and Exercise Psychology",
+                "volume": "25",
+                "issue": "",
+                "pages": "205--228",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Kleitman, S. (2003). School athletic participation: mostly gain with little pain. Journal of Sport and Exercise Psychology, 25, 205-228.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Extension of the Internal/External Frame of Reference Model of self-concept formation: importance of native and nonnative languages for Chinese students",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Kong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "543--553",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Kong, C., & Hau, K. (2001). Extension of the Internal/External Frame of Reference Model of self-concept formation: importance of native and non- native languages for Chinese students. Journal of Educational Psychology, 93, 543-553.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Multidimensional self-concepts: relationships with age and academic achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Barnes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Journal of Educational Psychology",
+                "volume": "77",
+                "issue": "",
+                "pages": "581--596",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Smith, I. D., & Barnes, J. (1985). Multidimensional self-concepts: relationships with age and academic achievement. Journal of Educational Psychology, 77, 581-596.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "An extension of the Internal/External Frame of Reference Model: a response to",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Multivariate Behavioral Research",
+                "volume": "36",
+                "issue": "",
+                "pages": "389--420",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Yeung, A. S. (2001). An extension of the Internal/External Frame of Reference Model: a response to Bong (1998). Multivariate Behavioral Research, 36, 389-420.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Effects of interdisciplinary teaching on multiple goals, intrinsic motivation, self-concept and school achievement",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Milosis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Papaioannou",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Psychology for physical educators",
+                "volume": "2",
+                "issue": "",
+                "pages": "175--198",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Milosis, D., & Papaioannou, A. (2007). Effects of interdisciplinary teaching on multiple goals, intrinsic motivation, self-concept and school achievement. In J. Liukkonen (Ed.), Psychology for physical educators, Vol. 2 (pp. 175-198). Champaign, IL: Human Kinetics.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "A critique of cross-lagged correlations",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Rogosa",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "Psychological Bulletin",
+                "volume": "88",
+                "issue": "",
+                "pages": "245--258",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rogosa, D. R. (1980). A critique of cross-lagged correlations. Psychological Bulletin, 88, 245-258.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "The relationship between physical activity and cognition in children: a meta-analysis",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Sibley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Etnier",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Pediatric Exercise Science",
+                "volume": "15",
+                "issue": "",
+                "pages": "243--256",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sibley, B. A., & Etnier, J. L. (2003). The relationship between physical activity and cognition in children: a meta-analysis. Pediatric Exercise Science, 15, 243-256.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Predicting mathematics performance in high school girls and boys",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Sherman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "Journal of Educational Psychology",
+                "volume": "71",
+                "issue": "",
+                "pages": "242--249",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sherman, J. A. (1979). Predicting mathematics performance in high school girls and boys. Journal of Educational Psychology, 71, 242-249.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "A test of the Internal/External Frame of Reference Model at different levels of mathematics and verbal self-perception",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "American Educational Research Journal",
+                "volume": "32",
+                "issue": "",
+                "pages": "161--184",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1995). A test of the Internal/External Frame of Reference Model at different levels of mathematics and verbal self-perception. American Educational Research Journal, 32, 161-184.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Block versus randomized format of questionnaires: a confirmatory multigroup analysis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Sparfeldt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Schilling",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Rost",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Thiel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "66",
+                "issue": "",
+                "pages": "961--974",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sparfeldt, J. R., Schilling, S. R., Rost, D. H., & Thiel, A. (2006). Block versus randomized format of questionnaires: a confirmatory multigroup analysis. Educational and Psychological Measurement, 66, 961-974.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "The influence of teacher expectations on students' achievement in physical education classes: Pygmalion revisited",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Trouilloud",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Sarrazin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Martinek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Guillet",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "European Journal of Social Psychology",
+                "volume": "32",
+                "issue": "",
+                "pages": "591--607",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Trouilloud, D. O., Sarrazin, P. G., Martinek, T. J., & Guillet, E. (2002). The influence of teacher expectations on students' achievement in physical education classes: Pygmalion revisited. European Journal of Social Psychology, 32, 591-607.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "The relations between self-beliefs and academic achievement: a systematic review",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Valentine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Cooper",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Educational Psychologist",
+                "volume": "39",
+                "issue": "",
+                "pages": "111--133",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Valentine, J. C., DuBois, D. L., & Cooper, H. (2004). The relations between self-beliefs and academic achievement: a systematic review. Educational Psychologist, 39, 111-133.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "A brief description of physical education and school children's sport involvement in Singapore",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Papaioannou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Sarrazin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Jaakola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Solmon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "International Journal of Sport Psychology",
+                "volume": "4",
+                "issue": "",
+                "pages": "220--226",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wang, J. C., Papaioannou, A. G., Sarrazin, P., Jaakola, T., & Solmon, M. A. (2006). A brief description of physical education and school children's sport involvement in Singapore, Greece, France, Finland, and the United States. International Journal of Sport Psychology, 4, 220-226.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "SEM of the effect of Physical Education (PE) achievement on mathematics and French academic self-concepts and achievements. NS \u00bc Non-significant. Curved lines are correlated residuals between latent constructs.",
+                "uris": null
+            },
+            "FIGREF1": {
+                "num": null,
+                "type_str": "figure",
+                "text": "(b \u00bc 0.83 and b \u00bc 0.76, p < 0.05); (b) substantial correlations between mathematics and verbal achievement (r \u00bc 0.69, p < 0.05), but not for self-concepts (r \u00bc 0.02, p > 0.05); and (c) negative paths between achievement in mathematics and the verbal domain and non-matching self-concepts in the mathematics and verbal domains (b \u00bc \u00c00.37 and b \u00bc \u00c00.23, p < 0.05).",
+                "uris": null
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "Cronbach's alpha coefficients, mean ratings, standard deviations and correlations of variables of the model tested Variables a Note. N \u00bc 451. All correlations are significant at the 0.05 level except those ranging between 0.10 and \u00c00.10. We added some equality constraints in our CFA model to test the differences that might exist in the associations between achievement and self-concept in the various school subjects. Analyses revealed that the correlations between achievement and self-concept for verbal (r \u00bc 0.50) and physical education (r \u00bc 0.48) domains are not statistically different (c 2 (141, N \u00bc 451) \u00bc 274.02, Dc 2 \u00bc 0.78",
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td>M</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>1. French grades</td><td>-</td><td>11.60</td><td>2.72</td><td>-</td><td/><td/><td/><td/><td/></tr><tr><td>2. Math grades</td><td>-</td><td>11.78</td><td>3.42</td><td>0.69</td><td>-</td><td/><td/><td/><td/></tr><tr><td>3. PE grades</td><td>-</td><td>13.58</td><td>2.44</td><td>0.15</td><td>0.19</td><td>-</td><td/><td/><td/></tr><tr><td>4. French self-concept</td><td>0.88</td><td>3.95</td><td>1.32</td><td>0.50</td><td>0.15</td><td>0.01</td><td>-</td><td/><td/></tr><tr><td>5. Maths self-concept</td><td>0.90</td><td>3.93</td><td>1.46</td><td>0.36</td><td>0.69</td><td>0.20</td><td>0.02</td><td>-</td><td/></tr><tr><td>6. PE self-concept</td><td>0.91</td><td>4.41</td><td>1.20</td><td>\u00c00.06</td><td>0.03</td><td>0.48</td><td>0.02</td><td>0.12</td><td>-</td></tr></table>"
+            }
+        }
+    }
+}

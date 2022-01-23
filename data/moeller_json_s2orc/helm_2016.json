@@ -1,0 +1,2106 @@
+{
+    "paper_id": "helm_2016",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:57:27.849079Z"
+    },
+    "title": "Dimensional Comparison Theory: Perceived Subject Similarity Impacts on Students' Self-Concepts",
+    "authors": [
+        {
+            "first": "Friederike",
+            "middle": [],
+            "last": "Helm",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Christian-Albrechts-University of Kiel",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Hanno",
+            "middle": [],
+            "last": "Mueller-Kalthoff",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Christian-Albrechts-University of Kiel",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Nicole",
+            "middle": [],
+            "last": "Nagy",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Christian-Albrechts-University of Kiel",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Jens",
+            "middle": [],
+            "last": "M\u00f6ller",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Christian-Albrechts-University of Kiel",
+                "location": {}
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Dimensional comparison theory (DCT) defines dimensional comparisons as intraindividual comparisons that a person draws between his or her own achievements in two domains or subjects. DCT assumes that dimensional comparisons influence students' academic self-concepts, causing stronger self-concept differences between subjects perceived as dissimilar, such as math and English, than between subjects perceived as more similar, like math and physics. However, there have been no experimental studies testing the causal effect of perceived subject similarity on domain-specific self-concepts. In the present research, three experimental studies analyzed the effects of experimentally induced higher or lower perceived subject similarity on academic self-concept differences: Study 1 (N = 351), with math and German; Study 2a (N = 148), with math and physics; and Study 2b (N = 161), with English and German, show that, in line with expectations, induced lower perceived subject similarity led to stronger self-concept differences than did higher perceived similarity. Some implications of the results for DCT are discussed.",
+    "pdf_parse": {
+        "paper_id": "helm_2016",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Dimensional comparison theory (DCT) defines dimensional comparisons as intraindividual comparisons that a person draws between his or her own achievements in two domains or subjects. DCT assumes that dimensional comparisons influence students' academic self-concepts, causing stronger self-concept differences between subjects perceived as dissimilar, such as math and English, than between subjects perceived as more similar, like math and physics. However, there have been no experimental studies testing the causal effect of perceived subject similarity on domain-specific self-concepts. In the present research, three experimental studies analyzed the effects of experimentally induced higher or lower perceived subject similarity on academic self-concept differences: Study 1 (N = 351), with math and German; Study 2a (N = 148), with math and physics; and Study 2b (N = 161), with English and German, show that, in line with expectations, induced lower perceived subject similarity led to stronger self-concept differences than did higher perceived similarity. Some implications of the results for DCT are discussed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "AcAdemic self-concept is a person's perception of his or her abilities in academic endeavors, formed through experiences with the environment (Shavelson, Hubner, & Stanton, 1976) and based in particular on achievement feedback, such as school grades (Skaalvik & Skaalvik, 2002) . As they influence motivation and effort in various domains (Eccles, O'Neill, & Wigfield, 2005) , students' ability-related selfconcepts are seen as a major determinant of subsequent learning (e.g., Retelsdorf, K\u00f6ller, & M\u00f6ller, 2014; Valentine, DuBois, & Cooper, 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 142,
+                        "end": 178,
+                        "text": "(Shavelson, Hubner, & Stanton, 1976)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 250,
+                        "end": 277,
+                        "text": "(Skaalvik & Skaalvik, 2002)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 339,
+                        "end": 374,
+                        "text": "(Eccles, O'Neill, & Wigfield, 2005)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 478,
+                        "end": 513,
+                        "text": "Retelsdorf, K\u00f6ller, & M\u00f6ller, 2014;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 514,
+                        "end": 548,
+                        "text": "Valentine, DuBois, & Cooper, 2004)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Studies analyzing the structure of academic self-concept have demonstrated that ability self-concepts for different school subjects can be understood to include at least two domains of academic self-concept: a mathematical and a verbal self-concept (Marsh, Byrne, & Shavelson, 1988 ). The present studies are concerned with a potential factor influencing the formation of self-concept structure: the perceived similarity of school subjects.",
+                "cite_spans": [
+                    {
+                        "start": 249,
+                        "end": 281,
+                        "text": "(Marsh, Byrne, & Shavelson, 1988",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Dimensional comparison theory (DCT; M\u00f6ller & Marsh, 2013) assumes that academic subjects can be aligned along a continuum that is derived from the different correlations of subject-specific self-concepts in the model of Marsh et al. (1988) . Self-concepts for subjects that clearly belong either to the mathematical (math, physics, chemistry) or to the verbal domain (the mother tongue, foreign languages) are positioned at the end points of the continuum, as correlations between these subjects typically are very low. Self-concepts for other academic subjects also can be assigned along this continuum (Marsh et al., 1988) . In DCT, subjects whose self-concepts are positioned far from each other on the continuum are called \"dissimilar\" subjects, whereas subjects whose self-concepts are positioned adjacent to each other are \"similar\" subjects. The assumption of a correspondence between self-concept correlations and subject similarity is addressed in a study by Haag and G\u00f6tz (2012) , who showed that mathematical subjects, like math and physics, are indeed described by students as very similar to each other in relation to various subject characteristics. For example, they are described as dealing with highly difficult connected topics that require a high degree of effort. In addition, verbal domain subjects, like English and German, are characterized as very similar to each other. For example, they are described as subjects with an emphasis on an exchange of views on topics that are up-to-date and relevant for daily life. Subjects from the mathematical and the verbal areas, respectively, were, however, characterized by students as very different from each other. The study by Haag and G\u00f6tz therefore supports DCT's assumption that subjects whose self-concept 2 correlations are small are perceived as rather dissimilar and that subjects with high self-concept correlations are perceived as more similar.",
+                "cite_spans": [
+                    {
+                        "start": 36,
+                        "end": 57,
+                        "text": "M\u00f6ller & Marsh, 2013)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 220,
+                        "end": 239,
+                        "text": "Marsh et al. (1988)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 316,
+                        "end": 342,
+                        "text": "(math, physics, chemistry)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 604,
+                        "end": 624,
+                        "text": "(Marsh et al., 1988)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 968,
+                        "end": 988,
+                        "text": "Haag and G\u00f6tz (2012)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In addition, DCT assumes that students overaccentuate the differences in their self-concepts for subjects with low selfconcept correlations, those at the opposing endpoints of the theoretical continuum; this is reflected in a bigger difference between math and verbal self-concepts than is found in the corresponding math and verbal achievement (e.g., Marsh, 1986) . This contrast effect between verbal and math self-concepts is caused by dimensional comparisons (M\u00f6ller & K\u00f6ller, 2001 ): students' intraindividual comparisons of their achievement in one subject with that in other subjects. As a result of dimensional comparisons, students form their ability self-concept in any given subject in relation to their achievement in other subjects. For example, imagine two students with identical grades in math. The contrast effect of dimensional comparisons expresses itself in the phenomenon that a student with a better English grade will develop a lower math self-concept than a student with a lower English grade. This contrastive effect of dimensional comparisons between verbal and mathematical subjects has been shown in various path-analytic (e.g., M\u00f6ller, Pohlmann, K\u00f6ller, & Marsh, 2009; Marsh et al., 2014 Marsh et al., , 2015 and introspective studies (M\u00f6ller & Husemann, 2006) . Furthermore, experimental studies demonstrate the impact of dimensional comparisons on math-related and verbal self-concepts. M\u00f6ller and K\u00f6ller (2001) , for example, set participants to work on tasks related to math ability and then tested how manipulated feedback on their math achievement in these tasks affected verbal selfconcept. Verbal self-concept was rated lower when the feedback on their achievement on the math-related tasks was high, and higher when it was low. Further, Pohlmann and M\u00f6ller (2009;  Study 3) analyzed self-concept differences in the math domain between participants who had been given different levels of performance feedback in the verbal domain, whereas feedback for performance in the math domain was held constant. There were strong differences in math self-concept across the different levels of verbal feedback: Math self-concept was lower after verbal feedback was high. Strickhouser and Zell (2015) found similar effects of feedback on verbal self-concept for math-related tasks.",
+                "cite_spans": [
+                    {
+                        "start": 352,
+                        "end": 364,
+                        "text": "Marsh, 1986)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 463,
+                        "end": 485,
+                        "text": "(M\u00f6ller & K\u00f6ller, 2001",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1157,
+                        "end": 1197,
+                        "text": "M\u00f6ller, Pohlmann, K\u00f6ller, & Marsh, 2009;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1198,
+                        "end": 1216,
+                        "text": "Marsh et al., 2014",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1217,
+                        "end": 1237,
+                        "text": "Marsh et al., , 2015",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1264,
+                        "end": 1289,
+                        "text": "(M\u00f6ller & Husemann, 2006)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1418,
+                        "end": 1442,
+                        "text": "M\u00f6ller and K\u00f6ller (2001)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1775,
+                        "end": 1801,
+                        "text": "Pohlmann and M\u00f6ller (2009;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1802,
+                        "end": 1802,
+                        "text": "",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2198,
+                        "end": 2226,
+                        "text": "Strickhouser and Zell (2015)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "For subject-specific self-concepts that are adjacent on the academic continuum, no contrast effects or assimilative effects of dimensional comparisons are found; that is, selfconcepts correspond more strongly than do achievements (e.g., Schilling, Sparfeldt, & Rost, 2004) . A study by Marsh et al. (2015) offers an illustration of the distinction between between-domain comparisons and within-domain comparisons, showing significant contrast effects for comparisons between subjects that clearly belong either to the verbal or to the mathematical domain (that is, between subjects at the opposite ends of the theoretical academic continuum, what the authors call \"far comparisons\") and significantly smaller contrast or assimilation effects for comparisons between subjects belonging to the same domain (that is, between subjects close to each other on the theoretical academic continuum, or \"near comparisons\"). Likewise, Jansen, Schroeders, L\u00fcdtke, and Marsh (2015) analyzed dimensional comparison effects for five subjects and found contrast effects between math, physics, and chemistry and German, whereas small assimilative effects were found between the three subjects of mathematics, physics, and chemistry.",
+                "cite_spans": [
+                    {
+                        "start": 237,
+                        "end": 272,
+                        "text": "Schilling, Sparfeldt, & Rost, 2004)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 286,
+                        "end": 305,
+                        "text": "Marsh et al. (2015)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 924,
+                        "end": 968,
+                        "text": "Jansen, Schroeders, L\u00fcdtke, and Marsh (2015)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "A central hint about the connection between perceived subject similarity and the effects of dimensional comparisons is afforded in the study conducted by M\u00f6ller, Streblow, and Pohlmann (2006) , who asked students about their subjective ability beliefs-that is, whether math and verbal abilities are domain specific (that is, rather exclusive of each other) or not. Students who believed the underlying abilities to be negatively correlated and thus very dissimilar from each other showed much stronger differences between math and verbal self-concepts (while controlling for math and verbal achievement) than did students who believed in the independence or positive correspondence of math and verbal abilities. When students' beliefs regarding the interdependence of math and verbal abilities were interpreted as an aspect of perceived subject similarity, this study showed that aspects of perceived subject similarity moderated the effects of dimensional comparisons in respect to math and verbal self-concept differences. Accordingly, M\u00f6ller, Helm, M\u00fcller-Kalthoff, Nagy, and Marsh (2015) hypothesize that \"different ability beliefs may predict either contrast or assimilation effects\" (p. 434).",
+                "cite_spans": [
+                    {
+                        "start": 154,
+                        "end": 191,
+                        "text": "M\u00f6ller, Streblow, and Pohlmann (2006)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 1038,
+                        "end": 1091,
+                        "text": "M\u00f6ller, Helm, M\u00fcller-Kalthoff, Nagy, and Marsh (2015)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In summary, there is a growing body of research indicating subject similarity to be related to correspondences between subject-specific self-concepts, which in turn result from dimensional comparisons. However, all of this research is cross-sectional and does not allow for causal assumptions. Accordingly, although a correspondence between subject similarity and self-concept correlations is postulated in DCT, the theory does not describe a causal effect between these variables. More precisely, DCT assumes that subjects for which contrastive effects of dimensional comparisons, and thus stronger self-concept differences, can be found are perceived to be rather dissimilar (like math and English) and that weaker contrastive or assimilative effects of dimensional comparisons, and thus smaller self-concept differences, are found when two subjects are perceived to be more similar (like math and physics). In making this assumption, DCT goes beyond the original internal/external frame-of-reference model (I/E model; Marsh, 1986) , which describes the effects of dimensional comparisons on subject-specific self-concepts without integrating the variables that may moderate the effects of dimensional comparisons. DCT's assumption of a direct correspondence between self-concept correlations and perceived similarity of the related subjects has not been directly tested until now.",
+                "cite_spans": [
+                    {
+                        "start": 1021,
+                        "end": 1033,
+                        "text": "Marsh, 1986)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Therefore, the present work aimed to test the assumption made in DCT, that self-concept differences correspond with 3 the perceived similarity of the school subjects in which performances are compared. It goes still further, however, in experimentally examining the assumption that perceived subject similarity is a causal factor in dimensional comparison effects (cf., M\u00f6ller, Helm, et al., 2015) . To date, no study has experimentally analyzed the influence of perceived subject similarity on the size of self-concept differences. Even , examining the role of similarity beliefs in dimensional comparison, dealt with cross-sectional data, which allow for making only post hoc explanations of the effects of subjective ability beliefs on self-concept differences. Hence, the present study aimed, first, to influence perceived subject similarity and then to analyze the effect of subject similarity on differences between math and verbal self-concepts as the outcome of dimensional comparisons.",
+                "cite_spans": [
+                    {
+                        "start": 370,
+                        "end": 397,
+                        "text": "M\u00f6ller, Helm, et al., 2015)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The present study examines perceived subject similarity as a crucial factor in the process of dimensional comparison between achievements in two school subjects. On the basis of DCT, it is assumed that the similarity of school subjects perceived by a student influences the outcome of the dimensional comparison this student makes: The perception of lower subject similarity leads to bigger differences between subject-specific self-concepts than does the perception of a higher similarity. To analyze the effect of perceived subject similarity on self-concept differences, perceived subject similarity was manipulated experimentally. In Study 1, higher or lower similarity was prompted by instructions to look either for similarities or for dissimilarities between math and German school subjects. Study 2 applied the same paradigm to subjects more adjacent on the academic continuumnamely, math and physics (Study 2a) and German and English (Study 2b), respectively. In all studies, domain-specific selfconcept differences were expected to be stronger for participants primed to focus on dissimilarities between the subjects than for those focusing on similarities between the subjects (thus perceiving the subjects as more similar).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Present Research",
+                "sec_num": null
+            },
+            {
+                "text": "Our first study tests the assumption that perceived similarity of the subjects math and German influences the outcome of dimensional comparisons between subject-specific achievements. Our hypothesis is as follows: A lower similarity perception leads to bigger differences between math and German self-concepts than does a higher similarity perception.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 1",
+                "sec_num": null
+            },
+            {
+                "text": "Sample. Participants were N = 394 students from 19 classes in three selective high schools in Germany. For reasons of treatment integrity, the data of 41 students who named fewer than three similarities or dissimilarities were not included in the analyses. The final sample consisted of N = 351 students (46.5% female; mean age = 14.75, SD = 2.27). Participants were randomly assigned to one of the two conditions of the independent variable: high-similarity perception (n = 174) or low-similarity perception (n = 177).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method",
+                "sec_num": null
+            },
+            {
+                "text": "Independent variable. The two experimental conditions of the independent variable similarity perception (high vs. low) were induced by instructing participants to list as many similarities or dissimilarities between the two subjects math and German as possible. After they were prompted to list subject similarities, participants were expected to perceive the subjects as relatively similar (high-similarity perception); those who were asked to list dissimilarities were expected to perceive the subjects as relatively dissimilar (low-similarity perception). Students' listings were checked afterward and those listings were excluded that did not refer to aspects of the subjects, to the manner of instruction, or to the subjects' teachers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Operationalization of Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Dependent variable. Differences between subjectspecific self-concepts constituted the dependent variable. Subject-specific self-concepts were measured with sixitem scales that were adequately reliable (Cronbach's alpha for the math scale = .89; Cronbach's alpha for the German scale = .87). Five items were adopted from Jopt's (1978) and Jerusalem's (1984) work and one from Helm et al. (2012) . A sample item read, \"I am good at working on tasks and understanding problems in math [German]\". Students responded to each item on a 5-point scale (from 1 = strongly disagree to 5 = strongly agree). For negatively coded items, the scores were reverse coded so that higher scores indicated a higher self-concept. Absolute differences between math and German self-concept were calculated for each student, and the means of these differences were used as the dependent variable (Cronbach's alpha for the scale Absolute Self-Concept Difference = .82).",
+                "cite_spans": [
+                    {
+                        "start": 320,
+                        "end": 333,
+                        "text": "Jopt's (1978)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 338,
+                        "end": 356,
+                        "text": "Jerusalem's (1984)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 375,
+                        "end": 393,
+                        "text": "Helm et al. (2012)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Operationalization of Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Covariate. Differences between students' math and German grades constituted the covariate. Grades from students' most recent school reports were obtained by self-report before the independent variable was realized, and the mean absolute difference between the grades was calculated for the two priming groups. Grades in German schools range from 1 (very good) to 6 (very poor). The most recent school reports dated back approximately 1 month. Grades were recoded so that high scores indicated more positive achievement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Operationalization of Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Manipulation check. As a manipulation check, students rated the similarity of math and German. It was expected that perceived similarity would be influenced by the focus on similarities or dissimilarities in the comparison of the 4 subjects and would turn out smaller for students focusing on dissimilarities than for students focusing on similarities. The phrasing of the item was \"Math and German are . . . 1 = very different to 5 = very similar.\" Materials and Procedure. Testing took place during classes; participation was voluntary and anonymous, and parents also were asked for informed consent prior to data collection. Participating students were told that they were to make different assessments of diverse characteristics of different school subjects and of themselves. The two tasks were conveyed as being unrelated to each other. Participants completed a questionnaire that prompted the priming task and, in the following sections, were asked about self-concepts of ability in the school subjects math and German as well as about the subjects' perceived similarity. Participants were assigned randomly to one of the two independent variable conditions. The randomized allocation to the two groups aimed at ensuring that the groups did not differ systematically in variables potentially affecting on the dependent variable, like gender or ability in the two subjects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Operationalization of Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Realization of the independent variable consisted of the request to compare math and German to each other, in regard either to their similarities (high-similarity group) or to their dissimilarities (low-similarity group). Students were instructed to try to name similarities or dissimilarities between math and German. By way of assistance they were given an example, formulated in the following way for the high-similarity group:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Operationalization of Variables",
+                "sec_num": null
+            },
+            {
+                "text": "A student thinking about the subjects of arts and physical education may find the following similarities between the subjects: Lessons don't take place in the classroom; we don't learn from a textbook; I like the teachers of both subjects; and so on.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Operationalization of Variables",
+                "sec_num": null
+            },
+            {
+                "text": "The phrasing of the example for the low-similarity group was as follows:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Operationalization of Variables",
+                "sec_num": null
+            },
+            {
+                "text": "A student thinking about the subjects of arts and physical education may find the following differences between the subjects: In physical education, we get much exercise, in arts we don't; in physical education we perform in the gym, in arts we work in the arts classroom; I like the teacher of one of the subjects, the other one I don't; and so on.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Operationalization of Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Then students were instructed to note down every similarity (or dissimilarity) of the subjects themselves, the teachers, or the manner of instruction in that subject. After they had noted down their subject-specific self-concepts and indicated their assessment of the perceived similarity of the subjects, participants were thanked for their participation and then debriefed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Operationalization of Variables",
+                "sec_num": null
+            },
+            {
+                "text": "As the study design was experimental, data were analyzed by conducting one-sided t tests for independent samples. Due to the slightly different numbers of missing values, different degrees of freedom resulted.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Treatment Integrity. Over the whole sample, students listed on average M = 6.02 (SD = 1.82) similarities and M = 5.45 (SD = 1.93) dissimilarities. Students' answers comprised, for example, descriptions of typical operations during lessons, like writing or calculating; the underlying abilities needed for the subjects (for example, \"In German, you need creativity; in math, logical thinking\"); or instruction-related aspects (\"In both subjects we work in groups from time to time\"). They also referred to teachers' attributes (\"Our math teacher isn't good at explaining things, yet our German teacher is good at that\"). ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "This study is the first to experimentally demonstrate the effects of perceived subject similarity on self-concept differences. It successfully tested the effect of a comparison of two school subjects-namely, similarities or dissimilarities between math and German-on perceptions of similarity between the two school subjects. Perceived similarity was smaller for the group focusing on the dissimilarities of the subjects, as the manipulation check showed. The effect sizes for the manipulation were small, presumably because similarity perceptions regarding school subjects are formed over time, through enduring experiences in and out of school. For this reason, stronger effects from our short intervention were not expected.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Moreover, and most importantly, perceived subject similarity affected self-concept differences: A lower-similarity perception did indeed lead to a stronger self-concept difference than did a higher-similarity perception. Hence, convictions about the subjects themselves that contribute to the perceived similarity of the subjects seem to play a role in the formation of subject-specific self-concepts. This is in keeping with DCT, where contrastive dimensional comparison effects are expected to be stronger when perceived subject similarity is low.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "An interesting result of this study is that students named more similarities than dissimilarities, although the two compared subjects were expected to be perceived as rather dissimilar (as confirmed by the manipulation check). One possible explanation is that, despite both subjects being rather dissimilar with regard to the skills one needs to be successful, such as calculating or formulating difficult sentences, in the eyes of the students, it was a simpler task to find similarities between them, given that they are both important subjects and both take a larger proportion of teaching lessons per week. These two aspects, importance and teaching time, were frequently mentioned commonalities between both subjects in our Study 1. These commonalities establish the centrality of both subjects in the German curriculum without necessarily engendering perceived similarity with regard to content; this latter is likely to be the more important factor in perceptions of the overall similarity of school subjects, given that the former are primarily circumstantial and do not go to the substantive content per se.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "To sum up, our study is the first to provide experimental evidence that similarity perceptions do indeed affect selfconcept differences between math and German. However, math and German are located at opposed ends of the similarity continuum of academic domains. The question is whether the effect of perceived subject similarity on self-concept differences will also be observed with subject-specific self-concepts closely located on the continuum. If so, we can assume the influence of perceived subject similarity on self-concept differences to be a more general mechanism in dimensional comparison in the academic domain, not only working in relation to the two prototypes of verbal and mathematical subjects. To answer this question of the generality of the mechanism, more-similar subjects were tested in Study 2a (math and physics) and Study 2b (German and English).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The purpose of our second study was to test whether perceived subject similarity also affects self-concept differences between more-similar school subjects. The study aimed to replicate the results of Study 1 by applying the priming paradigm in school subjects that were expected to be seen as rather similar by students. Accordingly, the study was set up to trigger perceived similarities or dissimilarities between math and physics in Study 2a and between German and English in Study 2b. As Marsh et al. (2015) point out, self-concept differences are lower when both compared subjects come from the same academic domain cluster (math/ science or verbal) of the similarity continuum. However, we also assumed that similarity perceptions for subjects from the same domain were malleable and aimed to prove the general role of perceived subject similarity in dimensional comparisons for two subjects that are adjacent on the academic similarity continuum. Thus, our hypothesis again is that a lower perceived similarity between math and physics (Study 2a) or between German and English (Study 2b) leads to greater differences between subject-specific self-concepts than does a higher perceived similarity.",
+                "cite_spans": [
+                    {
+                        "start": 493,
+                        "end": 512,
+                        "text": "Marsh et al. (2015)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 2",
+                "sec_num": null
+            },
+            {
+                "text": "Sample. In the sample addressing math and physics (Study 2a), there were N = 161 students from 18 classes from high schools in Germany. Again, for the purposes of testing by inferential statistics, only students who named three or more similarities/dissimilarities were included (N = 148; mean age = 15.04, SD = 2.00; 53% female). Participants were randomly assigned to one of the two priming conditions: high similarity (n = 80) or low similarity (n = 68).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method",
+                "sec_num": null
+            },
+            {
+                "text": "The sample addressing German and English (Study 2b) comprised N = 173 students from the same high schools; N = 161 were included in inferential data analysis (mean age = 15.24, SD = 2.09; 52.4% female). Again, for reasons of treatment integrity, the data of six students, who named fewer than three similarities or dissimilarities, were not included in the analyses. Students were randomly assigned to the two priming conditions: high similarity (n = 82) or low similarity (n = 79).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method",
+                "sec_num": null
+            },
+            {
+                "text": "Independent variable. Again, similarity perception (high vs. low) constituted the independent variable. As with Study 1, participants were instructed to list either similarities or dissimilarities between the subjects math and physics (Study 2a) or German and English (Study 2b).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Dependent variable. As in Study 1, subject-specific selfconcepts were measured with six-item scales; reliabilities were satisfactory (Cronbach's alpha for math = .86; physics = .87; German = .80; English = .85). Again, higher scores indicated a higher self-concept. Mean absolute differences between math and physics, as well as German and English self-concept, were used as the dependent variables (Cronbach's alpha for the math-physics scale = .85; for the German-English scale = .79).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Covariate. Grades from the last school report were again obtained by self-report before the independent variable was realized; differences of achievement in the subjects were controlled for.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Manipulation check. The manipulation check was done by instructing students to rate the similarity of math and physics or German and English (rating from 1 = very dissimilar to 5 = very similar).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Materials and Procedure. The procedure and materials were set up as per Study 1, differing only in the school subjects compared.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Variables",
+                "sec_num": null
+            },
+            {
+                "text": "Again, data were analyzed by conducting one-sided t tests for independent samples. Due to slightly different missing values, different degrees of freedom resulted.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Treatment integrity. Students listed M = 6.02 (SD = 1.83) similarities and M = 5.84 (SD = 1.85) dissimilarities; this again can be interpreted as indicative of the integrity of the manipulation of the independent variable.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 2a: Math and Physics",
+                "sec_num": null
+            },
+            {
+                "text": "Manipulation check. Analyses of the manipulation check resulted in lower scores in perceived similarity for the dissimilarity group (M = 3.65, SD = 0.94) compared to the similarity group (M = 4.12, SD = 0.84), t(141) = 3.15, p = .001, d = 0.53. The results thus indicate that the priming effectively influenced the perceived similarity of the subjects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 2a: Math and Physics",
+                "sec_num": null
+            },
+            {
+                "text": "Covariate. The difference between math and physics achievement did not differ significantly between the two groups (high-similarity group, M = 0.63, SD = 0.67; lowsimilarity group, M = 0.64, SD = 0.65), t(140) = 0.04, ns, d = 0.02.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 2a: Math and Physics",
+                "sec_num": null
+            },
+            {
+                "text": "Testing of the hypothesis. For math and physics, testing our hypothesis showed stronger differences in subjectspecific self-concepts in the low-similarity group (M = 0.86, SD = 0.72) compared to the high-similarity group (M = 0.66, SD = 0.65), t(146) = 1.78, p < .05, d = 0.30. As expected and in keeping with DCT, similarity perception effectively influenced differences between domain-specific academic selfconcepts. 2",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 2a: Math and Physics",
+                "sec_num": null
+            },
+            {
+                "text": "Treatment integrity. Students (whole sample) listed M = 5.69 (SD = 1.97) similarities and M = 4.97 (SD = 2.04) dissimilarities.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 2b: German and English",
+                "sec_num": null
+            },
+            {
+                "text": "Manipulation check. The manipulation check showed lower scores in perceived similarity for the subjects of the low-similarity group (M = 2.66, SD = 1.08) compared to the high-similarity group (M = 3.20, SD = 1.00), t(159) = 1.76, p < .01, d = 0.49. Perceived similarity of English and German was lower than for math and physics but higher than for the contrasting subjects math and German.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 2b: German and English",
+                "sec_num": null
+            },
+            {
+                "text": "Covariate. Again, a t test showed that the difference between achievements did not differ significantly between the two groups (high-similarity group, M = 0.42, SD = 0.55; low similarity group, M = 0.52, SD = 0.55), t(152) = 1.15, p = .13, d = 0.19.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 2b: German and English",
+                "sec_num": null
+            },
+            {
+                "text": "Testing of the hypothesis. Testing of our hypothesis showed stronger differences in subject-specific self-concepts in the low-similarity group (M = 0.78, SD = 0.68) compared to the high-similarity group (M = 0.61, SD = 0.53), t(159) = 1.760, p < .05, d = 0.28. Hence, for German and English also, perception of similarity effectively influenced differences between academic self-concepts. 3",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study 2b: German and English",
+                "sec_num": null
+            },
+            {
+                "text": "Studies 2a and 2b analyzed the effect of a manipulation of perceived similarity of school subjects generally perceived to be rather similar. First, perceived subject similarity was again, as in Study 1, influenced successfully. Second, and centrally, self-concept differences between math and physics on the one hand, and German and English on the other hand, were stronger where lower subject similarity had been induced. Controlling for students' grades, and given the experimental control of other variables, it can thus be assumed that perceived subject similarity affected differences between academic self-concepts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The present studies triggered perceived similarities or dissimilarities between two school subjects, and thus a higher or lower perceived similarity, prior to students being asked to indicate their domain-specific self-concepts. It was expected that subject similarity would influence the outcome of the dimensional comparison process, namely, that a lower perceived similarity would lead to bigger self-concept differences than would a higher perceived similarity. It was found that perceived subject similarity did have the expected effect on the difference between subject-specific self-concepts. This result is of central importance for the theoretical underpinnings of DCT, since it supports DCT's idea that perceived subject similarity is reflected in differences between students' self-concepts. Moreover, the findings demonstrate support for our hypothesis that perceived subject similarity affects the differences between subject-specific academic self-concepts, and thereby they also go beyond the assumption in DCT of a mere correspondence between subject similarity and self-concept differences.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "This result therefore constitutes an important advance in academic self-concept research, since the preceding correlational studies were not able to systematically vary perceived subject similarity. Our research shows that by varying perceived subject similarity, differences in self-concepts can be influenced, and that subject similarity is not merely a function of similarity of grades achieved in subjects. Moreover, the effect of (dis)similarity perceptions was found both for 7 subjects adjacent or situated nearby on the similarity continuum of academic domains and for subjects located at the two end poles of this continuum; this speaks for the generalizability of the findings.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Interestingly, both perceived subject similarity and selfconcept differences were influenced more strongly for moresimilar subjects than for more-dissimilar subjects, as the effect sizes show. One possible reason for this finding could be that the similarity of math and German is less malleable than the similarity of other school subjects since they are central school subjects that are taught intensively from Grade 1 on. Hence, the similarity perceptions for math and German could be less amenable to influence. Nevertheless, perceived similarity and the dimensional comparisons between these two subjects were influenced by our experimental manipulation in the expected direction.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Thus, the results of the present studies, aside from their significance for DCT, have important implications for selfconcept theory in general also. In all three studies the (dis) similarity manipulation was successful, and changed subject-specific self-concepts, despite the fact that students had already had prolonged experience with these school subjects. According to Markus and Kunda (1986) , general selfdescriptions are relatively stable over time, whereas more domain-specific self-concepts, such as those related to the social or the academic self, are more variable. Our results thus can be interpreted as supportive of models that conceptualize the academic self-concept as situational and malleable.",
+                "cite_spans": [
+                    {
+                        "start": 373,
+                        "end": 396,
+                        "text": "Markus and Kunda (1986)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The strength of the present studies clearly lies in the experimental research design, as it allows for more direct inferences about the effect of perceived subject similarity on the differences between subject-specific self-concepts. In contrast, field studies, such as the study by on the effects of students' beliefs about the interdependence of domain-specific abilities and self-concept differences, can draw only inferences on a correlational basis. The results of our studies show that such similarity beliefs are not only connected to but can be assumed to play a central role in dimensional comparison outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, Educational Implications, and Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "The main result of the present studies therefore is that a student's perception of subject similarity can make a difference in her or his subject-specific self-concepts. On the one hand, students who perceive two subjects as dissimilar show stronger differences between their self-concepts than do students who perceive two subjects as similar. Both perceptions may have particular strengths and shortcomings: The perception of a lower similarity of two subjects can be beneficial, since it increases self-concept differences and subsequently leads to a more differentiated self-concept, with greater accentuation of strengths and weaknesses. As self-complexity research suggests, such differentiated selfconcepts often lead to higher overall well-being (e.g., Koch & Shepperd, 2004) . This finding is consistent with the results of M\u00f6ller and Husemann (2006) , who found that after a negative event or negative feedback in one domain, people often draw dimensional comparisons with a more favorable domain, thereby enhancing their mood by focusing less on the worse-off domain and more on the better-off domain (see also M\u00f6ller & Marsh, 2013) . The perception of low similarity of school subjects may have positive consequences for the intraindividually better-off subject and yet have negative consequences for self-concept in the intraindividually worse-off subject. This is important because self-concepts influence subsequent motivation, course choices, and achievement in the related area (e.g., Eccles et al., 2005; Marsh & K\u00f6ller, 2004; M\u00f6ller, Retelsdorf, K\u00f6ller, & Marsh, 2011; Retelsdorf et al., 2014; Valentine et al., 2004) . Thus, students benefiting from the contrastive effects of dimensional comparisons through enhanced self-concept in their better subject may also benefit in academic achievement and achievement-related variables for this subject as well, while suffering correspondingly in their worse subject. However, studies testing the effects of self-concept on noncorresponding achievement (see studies testing the reciprocal I/E model, e.g., M\u00f6ller et al., 2011; M\u00f6ller, Zimmermann, & K\u00f6ller, 2014) show only very small direct effects of selfconcept on nonmatching achievement. Yet, the effect of selfconcept on motivation and achievement in the corresponding area can pose a problem for students who develop an unrealistically low self-concept of their ability, as this eventually diminishes their motivation and greatly reduces their effort in this subject (e.g., K\u00f6ller, Daniels, Schnabel, & Baumert, 2000) ; students may also prematurely opt to specialize in the other subject. One group of students, among others, for whom this could be the case is gifted children, who also are subject to the effects of dimensional comparisons (Plucker & Stocking, 2001) . As this group of students is likely to achieve well in a broad range of academic matters, devaluation of and reduced effort in a subject where they achieve less well and yet in which they are nevertheless interested would be an unfortunate result of dimensional comparisons.",
+                "cite_spans": [
+                    {
+                        "start": 761,
+                        "end": 783,
+                        "text": "Koch & Shepperd, 2004)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 833,
+                        "end": 859,
+                        "text": "M\u00f6ller and Husemann (2006)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1122,
+                        "end": 1143,
+                        "text": "M\u00f6ller & Marsh, 2013)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1502,
+                        "end": 1522,
+                        "text": "Eccles et al., 2005;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1523,
+                        "end": 1544,
+                        "text": "Marsh & K\u00f6ller, 2004;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1545,
+                        "end": 1587,
+                        "text": "M\u00f6ller, Retelsdorf, K\u00f6ller, & Marsh, 2011;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1588,
+                        "end": 1612,
+                        "text": "Retelsdorf et al., 2014;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1613,
+                        "end": 1636,
+                        "text": "Valentine et al., 2004)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 2070,
+                        "end": 2090,
+                        "text": "M\u00f6ller et al., 2011;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 2091,
+                        "end": 2126,
+                        "text": "M\u00f6ller, Zimmermann, & K\u00f6ller, 2014)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 2494,
+                        "end": 2537,
+                        "text": "K\u00f6ller, Daniels, Schnabel, & Baumert, 2000)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 2762,
+                        "end": 2788,
+                        "text": "(Plucker & Stocking, 2001)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, Educational Implications, and Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "On the other hand, students who perceive subjects as rather similar have smaller differences between their selfconcepts and therefore may have reduced negative consequences for self-concept in their intraindividually worse-off subject, in addition to reduced positive consequences in the intraindividually better-off subject. This could be problematic in terms of making decisions about specializing in a particular direction and in choosing courses.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, Educational Implications, and Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "These considerations are also suggestive of practical educational implications: Any factor related to the perceived similarity or dissimilarity of school subjects can be assumed to influence students' perceptions of their ability in different subjects, and their perceived strengths and weaknesses, with the resultant advantages and disadvantages of contrasting dimensional comparisons that have been outlined above, that is, reduced effort and achievement for the weaker subject, increased effort and achievement for the better-off subject, and a facilitated decision making in terms of academic choices. Factors that influence students' perceived subject similarity may include, for example, teachers' (and parents') perceptions of subject (dis)similarity. Teachers' and parents' attitudes are also in general important influences on students' attitudes (e.g., Eccles Parsons, Adler, & Kaczala, 1982; Shavelson et al., 1976) . Teachers who pronounce dissimilarity beliefs for different subjects may contribute to bigger selfconcept differences in students, whereas similarity beliefs may contribute to smaller self-concept differences. Hence, for students with strong, overaccentuated self-concept differences and a resulting diminished self-concept in their weaker subject, it could be beneficial to show them quite explicitly the similarities between different school subjects-for example, the dependence of achievement in every subject upon interest, effort, and learning strategies. Teachers should also know about the consequences of similarity beliefs and should communicate to students that different academic abilities are not mutually exclusive.",
+                "cite_spans": [
+                    {
+                        "start": 863,
+                        "end": 902,
+                        "text": "Eccles Parsons, Adler, & Kaczala, 1982;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 903,
+                        "end": 926,
+                        "text": "Shavelson et al., 1976)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, Educational Implications, and Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "A limitation of our study is that we tested our hypothesis solely on subjects clearly belonging to either the verbal or the mathematical domain. This gives rise to the question whether our findings are generalizable to subjects not clearly assignable to one of the two domains, such as geography and social sciences.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, Educational Implications, and Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "To sum up, many studies on DCT confirm its basic assumptions and, in particular, support the effects of dimensional comparisons on noncorresponding self-concepts, but there have been only a few studies using experimental methods to shed more light on the dimensional comparison process itself (e.g., M\u00f6ller & K\u00f6ller, 2001; Strickhouser & Zell, 2015) . The present research helps us to understand the role of perceived subject similarity as a factor influencing the effects of dimensional comparison processes.",
+                "cite_spans": [
+                    {
+                        "start": 300,
+                        "end": 322,
+                        "text": "M\u00f6ller & K\u00f6ller, 2001;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 323,
+                        "end": 349,
+                        "text": "Strickhouser & Zell, 2015)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, Educational Implications, and Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "1. An analysis of the data with all students showed no effect of the independent variable on self-concept difference, t(386) = 1.28, ns.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Notes",
+                "sec_num": null
+            },
+            {
+                "text": "2. When students who named fewer than three similarities or dissimilarities were included, the effect of the independent variable on the self-concept difference was also significant, t(157) = 1.82, p < .05.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Notes",
+                "sec_num": null
+            },
+            {
+                "text": "3. When students who named fewer than three similarities or dissimilarities were included, the effect of the independent variable on the self-concept difference was not significant, t(170) = 1.54, ns.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Notes",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "FRIEDERIKE HELM is a research assistant at the Department of Educational Psychology of the University of Kiel. Her research interests are processes in the development of students' self-concepts about academic abilities and non-academic characteristics, with a focus on dimensional comparisons; self-and other-evaluations of students' personal skills; and teachers' diagnostic competence.HANNO MUELLER-KALTHOFF is a PhD student and former research assistant at the Department of Educational Psychology of the University of Kiel. His research interests are processes in the development of students' self-concepts, with a focus on dimensional comparisons, and the existence of dimensional comparisons in other-evaluations of students' self-concepts. NICOLE NAGY is a scientific staff member at the Department of Educational Psychology of the University of Kiel. Her research interests are processes in the development of students' self-concepts about academic abilities and non-academic characteristics, where she focuses on dimensional comparisons as well, and the development of life goals in institutional contexts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Authors",
+                "sec_num": null
+            },
+            {
+                "text": "Psychology of the University of Kiel. His major research interests are self-concept formation in the academic and non-academic area, with a focus on dimensional comparison processes; students' competency development in immersion classes; teachers' diagnostic competence; and the development of professional competencies during teacher training.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "JENS M\u00d6LLER is head of the Department of Educational",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "What do children need to flourish? Conceptualizing and measuring indicators of positive development",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "O'neill",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "237--249",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/0-387-23823-9_15"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., O'Neill, S. A., & Wigfield, A. (2005). Ability self- perceptions and subjective task-values in adolescents and chil- dren. In K. A. Moore & L. H. Lippman (Eds.), What do children need to flourish? Conceptualizing and measuring indicators of positive development (pp. 237-249). New York, NY: Springer. doi:10.1007/0-387-23823-9_15",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Socialization of achievement attitudes and beliefs: parental influences",
+                "authors": [
+                    {
+                        "first": "Eccles",
+                        "middle": [],
+                        "last": "Parsons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Adler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Kaczala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Child Development",
+                "volume": "53",
+                "issue": "",
+                "pages": "310--321",
+                "other_ids": {
+                    "DOI": [
+                        "10.2307/1128973"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles Parsons, J., Adler, T. F., & Kaczala, C. M. (1982). Socialization of achievement attitudes and beliefs: parental influ- ences. Child Development, 53, 310-321. doi:10.2307/1128973",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Mathe ist schwierig und Deutsch aktuell: Vergleichende Studie zur Charakterisierung von Schulf\u00e4chern aus Sch\u00fclersicht [Math is difficult and German up-to-date: Comparative study of characterizations of school subjects from students' points-of-view",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Haag",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "G\u00f6tz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Psychologie in Erziehung und Unterricht",
+                "volume": "59",
+                "issue": "",
+                "pages": "32--46",
+                "other_ids": {
+                    "DOI": [
+                        "10.2378/peu2012.art03d"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Haag, L., & G\u00f6tz, T. (2012). Mathe ist schwierig und Deutsch aktuell: Vergleichende Studie zur Charakterisierung von Schulf\u00e4chern aus Sch\u00fclersicht [Math is difficult and German up-to-date: Comparative study of characterizations of school subjects from students' points-of-view]. Psychologie in Erziehung und Unterricht, 59, 32-46. doi:10.2378/peu2012. art03d",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Entwicklung eines Fragebogens zur Einsch\u00e4tzung \u00fcberfachlicher Sch\u00fclerkompetenzen",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Helm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Heckt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Gienke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "May",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helm, F., Pohlmann, B., Heckt, M., Gienke, F., May, P., & M\u00f6ller, J. (2012). Entwicklung eines Fragebogens zur Einsch\u00e4tzung \u00fcberfachlicher Sch\u00fclerkompetenzen [Development of a ques- tionnaire for the assessment of students' key competencies].",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Contrast and assimilation effects of dimensional comparisons in five subjects: An extension of the I/E model",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jansen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schroeders",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Journal of Educational Psychology. Advance online publication",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/edu0000021"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Jansen, M., Schroeders, U., L\u00fcdtke, O., & Marsh, H. W. (2015). Contrast and assimilation effects of dimensional compari- sons in five subjects: An extension of the I/E model. Journal of Educational Psychology. Advance online publication. doi:10.1037/edu0000021",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Selbstbezogene Kognitionen in schulischen Bezugsgruppen: Eine L\u00e4ngsschnittstudie [Self-related cognitions in reference groups at school: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jerusalem",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jerusalem, M. (1984). Selbstbezogene Kognitionen in schulischen Bezugsgruppen: Eine L\u00e4ngsschnittstudie [Self-related cog- nitions in reference groups at school: A longitudinal study].",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Selbstkonzept und Ursachenerkl\u00e4rung in der Schule [Self-concept and attribution in school",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Jopt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jopt, U. J. (1978). Selbstkonzept und Ursachenerkl\u00e4rung in der Schule [Self-concept and attribution in school]. Bochum, Germany: Kamp.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Is self-complexity linked to better coping? A review of the literature",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Koch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Shepperd",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Personality",
+                "volume": "72",
+                "issue": "",
+                "pages": "727--760",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.0022-3506.2004.00278.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Koch, E. J., & Shepperd, J. A. (2004). Is self-complexity linked to better coping? A review of the literature. Journal of Personality, 72, 727-760. doi:10.1111/j.0022-3506.2004.00278.x",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Kurswahlen von M\u00e4dchen und Jungen im Fach Mathematik: Zur Rolle von fachspezifischem Selbstkonzept und Interesse [Girls' and boys' course choices in mathematics: The role of subject-specific self-concept and interest",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Daniels",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "U"
+                        ],
+                        "last": "Schnabel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Zeitschrift f\u00fcr p\u00e4dagogische Psychologie",
+                "volume": "14",
+                "issue": "",
+                "pages": "26--37",
+                "other_ids": {
+                    "DOI": [
+                        "10.1024//1010-0652.14.1.26"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "K\u00f6ller, O., Daniels, Z., Schnabel, K. U., & Baumert, J. (2000). Kurswahlen von M\u00e4dchen und Jungen im Fach Mathematik: Zur Rolle von fachspezifischem Selbstkonzept und Interesse [Girls' and boys' course choices in mathematics: The role of subject-specific self-concept and interest]. Zeitschrift f\u00fcr p\u00e4dagogische Psychologie, 14, 26-37. doi:10.1024//1010- 0652.14.1.26",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Stability and malleability of the self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Markus",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Kunda",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "51",
+                "issue": "",
+                "pages": "858--866",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-3514.51.4.858"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Markus, H., & Kunda, Z. (1986). Stability and malleability of the self-concept. Journal of Personality and Social Psychology, 51, 858-866. doi:10.1037/0022-3514.51.4.858",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Verbal and math self-concepts: An internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/00028312023001129"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concepts: An internal/exter- nal frame of reference model. American Educational Research Journal, 23, 129-149. doi:10.3102/00028312023001129",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "A multifaceted academic self-concept: Its hierarchical structure and its relation to academic achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Educational Psychology",
+                "volume": "80",
+                "issue": "",
+                "pages": "366--380",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.80.3.366"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Byrne, B. M., & Shavelson, R. J. (1988). A mul- tifaceted academic self-concept: Its hierarchical structure and its relation to academic achievement. Journal of Educational Psychology, 80, 366-380. doi:10.1037/0022-0663.80.3.366",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Unification of theoretical models of academic self-concept/achievement relations: Reunification of east and west German school systems after the fall of the Berlin Wall",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "29",
+                "issue": "",
+                "pages": "264--282",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/S0361-476X(03)00034-1"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & K\u00f6ller, O. (2004). Unification of theoreti- cal models of academic self-concept/achievement relations: Reunification of east and west German school systems after the fall of the Berlin Wall. Contemporary Educational Psychology, 29, 264-282. doi:10.1016/S0361-476X(03)00034-1",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Dimensional comparison theory: An extension of the internal/external frame of reference effect on academic self-concept formation",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kuyper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seaton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J S"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abduljabbar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Kuyper, H., Seaton, M., Parker, P. D., Morin, A. J. S., M\u00f6ller, J., & Abduljabbar, A. S. (2014). Dimensional comparison theory: An extension of the internal/external frame of reference effect on academic self-concept formation.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Dimensional comparison theory: Paradoxical relations between self-beliefs and achievements in multiple domains",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nagengast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abduljabbar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Abdelfattah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jansen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Learning and Instruction",
+                "volume": "35",
+                "issue": "",
+                "pages": "16--32",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.learninstruc.2014.08.005"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., L\u00fcdtke, O., Nagengast, B., Trautwein, U., Abduljabbar, A. S., Abdelfattah, F., & Jansen, M. (2015). Dimensional comparison theory: Paradoxical relations between self-beliefs and achievements in multiple domains. Learning and Instruction, 35, 16-32. doi:10.1016/j.learninstruc.2014.08.005",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Dimensional comparisons and their consequences for self-concept, motivation, and emotion",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Helm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "M\u00fcller-Kalthoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "International Encyclopedia of the Social & Behavioral Sciences",
+                "volume": "26",
+                "issue": "",
+                "pages": "430--436",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/B978-0-08-097086-8.26092-3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Helm, F., M\u00fcller-Kalthoff, H., Nagy, N., & Marsh, H. W. (2015). Dimensional comparisons and their consequences for self-concept, motivation, and emotion. International Ency- clopedia of the Social & Behavioral Sciences, 26, 430-436. doi:10.1016/B978-0-08-097086-8.26092-3",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Internal comparisons in everyday life",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Husemann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Educational Psychology",
+                "volume": "98",
+                "issue": "",
+                "pages": "342--353",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.98.2.342"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & Husemann, N. (2006). Internal comparisons in every- day life. Journal of Educational Psychology, 98, 342-353. doi:10.1037/0022-0663.98.2.342",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Dimensional comparisons: An experimental approach to the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "826--835",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.93.4.826"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & K\u00f6ller, O. (2001a). Dimensional comparisons: An experimental approach to the internal/external frame of refer- ence model. Journal of Educational Psychology, 93, 826-835. doi:10.1037/0022-0663.93.4.826",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Dimensional comparison theory",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Psychological Review",
+                "volume": "120",
+                "issue": "",
+                "pages": "544--560",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0032459"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & Marsh, H. W. (2013). Dimensional comparison theory. Psychological Review, 120, 544-560. doi:10.1037/a0032459",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic selfconcept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Review of Educational Research",
+                "volume": "79",
+                "issue": "",
+                "pages": "1129--1167",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0034654309337522"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Pohlmann, B., K\u00f6ller, O., & Marsh, H. W. (2009). A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self- concept. Review of Educational Research, 79, 1129-1167. doi:10.3102/0034654309337522",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "The reciprocal internal/external frame of reference model: An integration of models of relations between academic achievement and self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "American Educational Research Journal",
+                "volume": "48",
+                "issue": "",
+                "pages": "1315--1346",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0002831211419649"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Retelsdorf, J., K\u00f6ller, O., & Marsh, H. W. (2011). The reciprocal internal/external frame of reference model: An inte- gration of models of relations between academic achievement and self-concept. American Educational Research Journal, 48, 1315-1346. doi:10.3102/0002831211419649",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "The belief in a negative interdependence of math and verbal abilities as determinant of academic self-concepts",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Streblow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "76",
+                "issue": "",
+                "pages": "57--70",
+                "other_ids": {
+                    "DOI": [
+                        "10.1348/000709905X37451"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Streblow, L., & Pohlmann, B. (2006). The belief in a neg- ative interdependence of math and verbal abilities as determi- nant of academic self-concepts. British Journal of Educational Psychology, 76, 57-70. doi:10.1348/000709905X37451",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "The reciprocal internal/external frame of reference model using grades and test scores",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Zimmermann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "84",
+                "issue": "",
+                "pages": "591--611",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/bjep.12047"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Zimmermann, F., & K\u00f6ller, O. (2014). The reciprocal internal/external frame of reference model using grades and test scores. British Journal of Educational Psychology, 84, 591-611. doi:10.1111/bjep.12047",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Looking outside and inside: self-concept development of gifted adolescents. Council for Exceptional Children",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Plucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Stocking",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "67",
+                "issue": "",
+                "pages": "535--548",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/001440290106700407"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Plucker, J. A., & Stocking, V. B. (2001). Looking outside and inside: self-concept development of gifted adoles- cents. Council for Exceptional Children, 67, 535-548. doi:10.1177/001440290106700407",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "On the benefit of dimensional comparisons",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Educational Psychology",
+                "volume": "101",
+                "issue": "",
+                "pages": "248--258",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0013151"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Pohlmann, B., & M\u00f6ller, J. (2009). On the benefit of dimensional comparisons. Journal of Educational Psychology, 101, 248- 258. doi:10.1037/a0013151",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Reading achievement and reading self-concept: Testing the reciprocal effects model. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "",
+                "volume": "29",
+                "issue": "",
+                "pages": "21--30",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Retelsdorf, J., K\u00f6ller, O., & M\u00f6ller, J. (2014). Reading achieve- ment and reading self-concept: Testing the reciprocal effects model. Learning and Instruction, 29, 21-30. doi:10.1016/j. learninstruc.2013.07.004",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Wie generell ist das Modell? Analysen zum Geltungsbereich des \"Internal/External Frame of Reference\" Modells [How general is the model? Analyzing the applicability of the internal/external frame of reference model to more than two school subjects",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Schilling",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Sparfeldt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Rost",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+                "volume": "18",
+                "issue": "",
+                "pages": "221--230",
+                "other_ids": {
+                    "DOI": [
+                        "10.1024/1010-0652.18.34.221"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Schilling, S. R., Sparfeldt, J. R., & Rost, D. H. (2004). Wie generell ist das Modell? Analysen zum Geltungsbereich des \"Internal/External Frame of Reference\" Modells [How general is the model? Analyzing the applicability of the internal/external frame of reference model to more than two school subjects.] Zeitschrift f\u00fcr P\u00e4dagogische Psychologie, 18, 221-230. doi:10.1024/1010-0652.18.34.221",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Self-concept: Validation of construct interpretations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hubner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Stanton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Review of Educational Research",
+                "volume": "46",
+                "issue": "",
+                "pages": "407--441",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/00346543046003407"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Shavelson, R. J., Hubner, J. J., & Stanton, G. C. (1976). Self-concept: Validation of construct interpretations. Review of Educational Research, 46, 407-441. doi:10.3102/00346543046003407",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Internal and external frames of reference for academic self-concept",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Educational Psychologist",
+                "volume": "37",
+                "issue": "",
+                "pages": "233--244",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/S15326985EP3704_3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Skaalvik, S. (2002). Internal and external frames of reference for academic self-concept. Educational Psychologist, 37, 233-244. doi:10.1207/S15326985EP3704_3",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Self-evaluative effects of dimensional and social comparison",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Strickhouser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Zell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Journal of Experimental Psychology",
+                "volume": "59",
+                "issue": "",
+                "pages": "60--66",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.jesp.2015.03.001"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Strickhouser, J. E., & Zell, E. (2015). Self-evaluative effects of dimensional and social comparison. Journal of Experimental Psychology, 59, 60-66. doi:10.1016/j.jesp.2015.03.001",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "The relation between self-beliefs and academic achievement: A metaanalytic review",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Valentine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Cooper",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Educational Psychologist",
+                "volume": "39",
+                "issue": "",
+                "pages": "111--133",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/s15326985ep3902_3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Valentine, J. C., DuBois, D. L., & Cooper, H. (2004). The rela- tion between self-beliefs and academic achievement: A meta- analytic review. Educational Psychologist, 39, 111-133. doi:10.1207/s15326985ep3902_3",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Manipulation Check. The manipulation check showed lower perceived similarity for the low-similarity group (M = 2.29, SD = 0.80) than for the high-similarity group (M = 2.44, SD = 0.97), indicating successful realization of the independent variable, t(345) = 1.63, p < .05, d = 0.17.Covariate.The difference between math and German achievement did not differ significantly between the two priming groups (high-similarity group, M = 0.73, SD = 0.72; low-similarity group, M = 0.72, SD = 0.66), t(349) = 0.05, ns, d = 0.01.Testing of the Hypothesis. The absolute difference between math and German self-concepts was greater in the low-similarity group (M = 1.13, SD = 0.83) than in the high-similarity group (M = 0.95, SD = 0.89), t(349) = 2.12, p < .05, d = 0.23; thus, our hypothesis was confirmed. 1",
+                "uris": null
+            }
+        }
+    }
+}

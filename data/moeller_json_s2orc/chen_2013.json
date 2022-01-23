@@ -1,0 +1,2538 @@
+{
+    "paper_id": "chen_2013",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T18:01:55.653914Z"
+    },
+    "title": "The relationship between academic self-concept and achievement: A multicohort-multioccasion study",
+    "authors": [
+        {
+            "first": "Ssu-Kuang",
+            "middle": [],
+            "last": "Chen",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "National Chiao Tung University",
+                "location": {
+                    "addrLine": "1001 Ta-Hsueh Rd, Hsinchu 300",
+                    "country": "Taiwan, ROC"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Yu-Chen",
+            "middle": [],
+            "last": "Yeh",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "National Chiao Tung University",
+                "location": {
+                    "addrLine": "1001 Ta-Hsueh Rd, Hsinchu 300",
+                    "country": "Taiwan, ROC"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Fang-Ming",
+            "middle": [],
+            "last": "Hwang",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "National Chiayi University",
+                "location": {
+                    "addrLine": "No. 85, Wenlong Village"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Sunny",
+            "middle": [
+                "S J"
+            ],
+            "last": "Lin",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "National Chiao Tung University",
+                "location": {
+                    "addrLine": "1001 Ta-Hsueh Rd, Hsinchu 300",
+                    "country": "Taiwan, ROC"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Marsh and K\u00f6ller (2004) combined the reciprocal-effects model and the internal/external frame-of-reference model into a unified model of relationships between academic self-concept and achievement. However, this model has only been examined with German adolescents. We decided to test this model with two-wave data drawn from a national survey of Taiwanese students. We found that reciprocal effects exist for both math and Chinese for the high-school students. However, the causal relationship of academic self-concepts and achievement for pre-adolescents seems to vary depending on school subject. Moreover, the causal effects from academic achievement decline with age, whereas those from academic self-concepts increase with age, suggesting a developmental trend. The negative cross-domain effect from prior achievement to subsequent academic self-concept is not strong in the unified model.",
+    "pdf_parse": {
+        "paper_id": "chen_2013",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Marsh and K\u00f6ller (2004) combined the reciprocal-effects model and the internal/external frame-of-reference model into a unified model of relationships between academic self-concept and achievement. However, this model has only been examined with German adolescents. We decided to test this model with two-wave data drawn from a national survey of Taiwanese students. We found that reciprocal effects exist for both math and Chinese for the high-school students. However, the causal relationship of academic self-concepts and achievement for pre-adolescents seems to vary depending on school subject. Moreover, the causal effects from academic achievement decline with age, whereas those from academic self-concepts increase with age, suggesting a developmental trend. The negative cross-domain effect from prior achievement to subsequent academic self-concept is not strong in the unified model.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "In educational psychology, academic self-concept is a significant construct that has stimulated extensive research. A positive academic self-concept is beneficial, particularly for motivating individuals to improve their academic performance (Marsh, 2007) . Both the reciprocal-effects model (Marsh, Byrne, & Yeung, 1999) and the internal/external frame of reference (I/E) model (Marsh, 1986) depict the relationship between academic self-concept and achievement. The former model proposes that academic achievement and selfconcept reciprocally influence each other, while the latter model claims that achievement positively affects an individual's academic self-concept in the same domain but negatively affects self-concepts in other domains. Marsh and K\u00f6ller (2004) unified the two models to simultaneously address the causal relationships between academic self-concept and achievement across distinct domains. In the present article, we use \"the unification model\" (Chien, Jen, & Chang, 2008) to describe this model.",
+                "cite_spans": [
+                    {
+                        "start": 242,
+                        "end": 255,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 292,
+                        "end": 321,
+                        "text": "(Marsh, Byrne, & Yeung, 1999)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 379,
+                        "end": 392,
+                        "text": "(Marsh, 1986)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 745,
+                        "end": 768,
+                        "text": "Marsh and K\u00f6ller (2004)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 969,
+                        "end": 996,
+                        "text": "(Chien, Jen, & Chang, 2008)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Research on the reciprocal-effects model and the I/E model has been performed in different countries and in cross-national comparisons (Chiu & Klassen, 2009; Lee, 2009; Marsh & Hau, 2004; Marsh, Hau, & Kong, 2002; Marsh, Kong, & Hau, 2001 ). However, the unification model has only been studied in German adolescents (Marsh & K\u00f6ller, 2004) . Students from East Asian countries have been found to have poorer mathematics self-concepts but higher standardized mathematics test scores compared to those in Western countries (Kung, 2009; Wilkins, 2004) . To provide external validity and to gain insight into the causal relationships of academic selfconcepts and achievement within domains or cross-domains, the present study evaluated the unification model using a research design that combined the advantages of cross-sectional and longitudinal research within the same study (Marsh et al., 1999) . The sample included 5th grade preadolescents and 10th grade adolescents in Taiwan, with data collected in 2 consecutive years for each group.",
+                "cite_spans": [
+                    {
+                        "start": 135,
+                        "end": 157,
+                        "text": "(Chiu & Klassen, 2009;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 158,
+                        "end": 168,
+                        "text": "Lee, 2009;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 169,
+                        "end": 187,
+                        "text": "Marsh & Hau, 2004;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 188,
+                        "end": 213,
+                        "text": "Marsh, Hau, & Kong, 2002;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 214,
+                        "end": 238,
+                        "text": "Marsh, Kong, & Hau, 2001",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 317,
+                        "end": 339,
+                        "text": "(Marsh & K\u00f6ller, 2004)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 521,
+                        "end": 533,
+                        "text": "(Kung, 2009;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 534,
+                        "end": 548,
+                        "text": "Wilkins, 2004)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 874,
+                        "end": 894,
+                        "text": "(Marsh et al., 1999)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "In a classic article concerning the causal ordering of academic achievement and self-concept, Calsyn and Kenny (1977) compared the self-enhancement model and the skill-development model (see also Scheirer & Kraut, 1979; Skaalvik, 1997) . According to the self-enhancement model, academic self-concept is a determinant of academic achievement, and enhancing academic self-concept improves academic performance. In contrast, the skill-development model suggests that academic self-concept is a consequence of achievement, and the best way to enhance academic self-concept is to improve achievement skills. Both the self-enhancement and skill-development models are based on either-or logic (Marsh, 2007) . A compromise between the self-enhancement model and the skill-development model is the reciprocal-effects model: prior academic self-concept affects subsequent achievement and prior achievement affects subsequent academic self-concept. Research studies have provided support for the reciprocal-effects model (Marsh & Yeung, 1997; Marsh et al., 1999) .",
+                "cite_spans": [
+                    {
+                        "start": 94,
+                        "end": 117,
+                        "text": "Calsyn and Kenny (1977)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 196,
+                        "end": 219,
+                        "text": "Scheirer & Kraut, 1979;",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 220,
+                        "end": 235,
+                        "text": "Skaalvik, 1997)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 688,
+                        "end": 701,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1012,
+                        "end": 1033,
+                        "text": "(Marsh & Yeung, 1997;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1034,
+                        "end": 1053,
+                        "text": "Marsh et al., 1999)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Causal ordering of academic achievement and self-concept",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "The causal relationship of academic self-concept and achievement differs with age. According to Marsh (1990b) , the academic selfconcepts of young children are not highly associated with external indicators, such as grades or teachers' ratings. However, as they grow older, children learn their relative strengths and weaknesses such that domain self-concepts become more differentiated and more highly correlated with external indicators. In an evaluation of domain self-concept, Marsh, Craven, and Debus (1998) reported that the reliability, stability, and factor structure of academic self-concept scales improved as children grew older, indicating that academic self-concepts become more firmly established and stable with age. Skaalvik and Hagtvet (1990) also advocated that the relationship between achievement and academic self-concept likely becomes reciprocal when ability perceptions are well developed. Researchers supporting this developmental perspective include Skaalvik (1997) and Chapman and Tunmer (1997) . Chapman, Tunmer, and Prochnow (2000) noted that academic self-concept is developed based on previous experiences with learning; not all young children's academic self-concepts are pre-determinants of subsequent achievement.",
+                "cite_spans": [
+                    {
+                        "start": 96,
+                        "end": 109,
+                        "text": "Marsh (1990b)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 481,
+                        "end": 512,
+                        "text": "Marsh, Craven, and Debus (1998)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 732,
+                        "end": 759,
+                        "text": "Skaalvik and Hagtvet (1990)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 976,
+                        "end": 991,
+                        "text": "Skaalvik (1997)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 996,
+                        "end": 1021,
+                        "text": "Chapman and Tunmer (1997)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1024,
+                        "end": 1060,
+                        "text": "Chapman, Tunmer, and Prochnow (2000)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Causal ordering of academic achievement and self-concept",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "To examine the developmental perspective, Guay, Marsh, and Boivin (2003) conducted a multicohort-multioccasion study based on samples from Grades 2, 3, and 4 and found support for the reciprocal-effects model over different age cohorts. In contrast to previous research (Chapman & Tunmer, 1997; Skaalvik, 1997) , Guay et al. (2003) reported the existence of a link from prior academic self-concept to subsequent achievement for young elementary children. Another study of elementary school students found a reciprocal relationship between academic achievement and self-concept, although the effect of academic achievement on academic selfconcept was stronger than the effect of academic self-concept on academic achievement (Muijs, 1997) . Helmke and van Aken (1995) also supported the reciprocal-effects model when either test scores, school marks, or a mixture of the two were used as achievement indicators for elementary-school students.",
+                "cite_spans": [
+                    {
+                        "start": 42,
+                        "end": 72,
+                        "text": "Guay, Marsh, and Boivin (2003)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 270,
+                        "end": 294,
+                        "text": "(Chapman & Tunmer, 1997;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 295,
+                        "end": 310,
+                        "text": "Skaalvik, 1997)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 313,
+                        "end": 331,
+                        "text": "Guay et al. (2003)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 724,
+                        "end": 737,
+                        "text": "(Muijs, 1997)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 740,
+                        "end": 766,
+                        "text": "Helmke and van Aken (1995)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Causal ordering of academic achievement and self-concept",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "Although there is strong support for the generalizability of reciprocal effects to pre-adolescents and adolescents (Kurtz-Costes & Schneider, 1994; Marsh, 2007; Marsh, Trautwein, L\u00fcdtke, K\u00f6ller, & Bauert, 2005) , Skaalvik and Valas (1999) provided support only for the skill-development model based on three cohorts (Grades 3, 6, and 8). Byrne (1998) found support for the skill-development model among high-school students for both general academic and mathematics achievement and self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 115,
+                        "end": 147,
+                        "text": "(Kurtz-Costes & Schneider, 1994;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 148,
+                        "end": 160,
+                        "text": "Marsh, 2007;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 161,
+                        "end": 210,
+                        "text": "Marsh, Trautwein, L\u00fcdtke, K\u00f6ller, & Bauert, 2005)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 213,
+                        "end": 238,
+                        "text": "Skaalvik and Valas (1999)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 338,
+                        "end": 350,
+                        "text": "Byrne (1998)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Causal ordering of academic achievement and self-concept",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "According to the I/E model, academic self-concept in a particular domain is formed in relation to two comparison processes or frames of reference. One is the external reference in which students compare their self-perceived performances in a particular domain with the perceived performances of other students in the same domain. If they perceive themselves as able compared to other students, then they should have a high academic self-concept in that domain. The other comparison process is an internal reference in which students compare their own performances in one particular domain with their own performances in another domain. For example, students who are more capable in mathematics than in verbal are likely to have higher mathematics self-concepts. The joint operation of these processes, depending on their relative weights, results in the small or nonexistent correlation between mathematics and verbal self-concepts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Internal/external frame of reference (I/E model)",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "The I/E model was extended in many ways. M\u00f6ller and Savyon (2003) included non-academic domains in the model and found that academic achievement negatively influences such non-academic selfconcepts as honesty. Goetz, Frenzel, Hall, and Pekrun (2008) used an extended I/E model to argue that the achievement effect on academic enjoyment in specific domains is mediated by domain self-concept. There is also support for the generalizability of the I/E model where verbal self-concept is for a native language other than English (e.g., Norwegian: Skaalvik & Rankin, 1995; Chinese: Marsh et al., 2001; Yeung & Lee, 1999; German: Brunner, L\u00fcdtke, & Trautwein, 2008) and where academic self-concept is for a domain other than mathematics (Marsh et al., 2001; M\u00f6ller, Streblow, Pohlmann, & K\u00f6ller, 2006) .",
+                "cite_spans": [
+                    {
+                        "start": 41,
+                        "end": 65,
+                        "text": "M\u00f6ller and Savyon (2003)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 210,
+                        "end": 249,
+                        "text": "Goetz, Frenzel, Hall, and Pekrun (2008)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 544,
+                        "end": 568,
+                        "text": "Skaalvik & Rankin, 1995;",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 569,
+                        "end": 597,
+                        "text": "Chinese: Marsh et al., 2001;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 598,
+                        "end": 616,
+                        "text": "Yeung & Lee, 1999;",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 617,
+                        "end": 660,
+                        "text": "German: Brunner, L\u00fcdtke, & Trautwein, 2008)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 732,
+                        "end": 752,
+                        "text": "(Marsh et al., 2001;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 753,
+                        "end": 796,
+                        "text": "M\u00f6ller, Streblow, Pohlmann, & K\u00f6ller, 2006)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Internal/external frame of reference (I/E model)",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "Studies investigating various age groups and employing different measures of achievement have consistently confirmed the I/E model (Marsh, 1990a) . M\u00f6ller, Pohlmann, K\u00f6ller, and Marsh (2009) , who performed a meta-analysis based on 69 data sets from past studies, found considerable support for the I/E model, and the I/E model was found to be valid for different genders. When the generalizability of the I/E model was examined longitudinally, it was found to be stable over time (Marsh et al., 2001) . Experimental studies that manipulated the feedback to an individual's mathematics and verbal performances also supported the existence of internal comparison (M\u00f6ller & Husemann, 2006; M\u00f6ller & K\u00f6ller, 2001; . Marsh and K\u00f6ller (2004) combined the reciprocal-effects model and the I/E model into a unified model that incorporates the strengths of each model. In the past, tests of the I/E model have typically been based on a single wave of data, which focuses on the influences of mathematics and verbal achievement on mathematics and verbal self-concepts, particularly the negative effect of achievement in one domain on self-concept in the other. However, the reciprocal-effects model has typically been studied based on a single academic domain. Even for studies that evaluated causal models for more than one domain, separate analyses were conducted for each domain (Marsh & Yeung, 1997; Shavelson & Bolus, 1982) . Therefore, the potential limitations of each model have been compensated by reconciling the reciprocal-effects model and the I/E model.",
+                "cite_spans": [
+                    {
+                        "start": 131,
+                        "end": 145,
+                        "text": "(Marsh, 1990a)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 148,
+                        "end": 190,
+                        "text": "M\u00f6ller, Pohlmann, K\u00f6ller, and Marsh (2009)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 481,
+                        "end": 501,
+                        "text": "(Marsh et al., 2001)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 662,
+                        "end": 687,
+                        "text": "(M\u00f6ller & Husemann, 2006;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 688,
+                        "end": 710,
+                        "text": "M\u00f6ller & K\u00f6ller, 2001;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 713,
+                        "end": 736,
+                        "text": "Marsh and K\u00f6ller (2004)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1373,
+                        "end": 1394,
+                        "text": "(Marsh & Yeung, 1997;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1395,
+                        "end": 1419,
+                        "text": "Shavelson & Bolus, 1982)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Internal/external frame of reference (I/E model)",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "A test of the unification model presented in Fig. 1 would determine whether the cross-domain effect existed across two time periods (i.e., whether prior achievement in a domain influenced the subsequent academic self-concept in another domain) when controlling for covariance due to correlations of the subsequent academic self-concept with the prior academic self-concept and achievement within the domain. In addition, a test of this model would determine the extent of reciprocal effects while controlling for the correlations among self-concept and achievement between domains in one time period and the influence of the self-concept or achievement in the other domain. According to Marsh and K\u00f6ller (2004) , the influence of prior self-concept in one domain to subsequent achievement in another domain is very weak (close to zero) or negative.",
+                "cite_spans": [
+                    {
+                        "start": 687,
+                        "end": 710,
+                        "text": "Marsh and K\u00f6ller (2004)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 45,
+                        "end": 51,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Unification of the reciprocal-effects model and the I/E model",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "The goal of the present study was to determine whether the unification model applied to a 5th grade preadolescent cohort and 10th grade adolescent cohort of students in Taiwan, and to determine the difference in the causal relationships between academic achievement and academic self-concept for the two cohorts. In Taiwan, the academic self-concepts of 5th grade students and 10th grade students are at different stages of formation. Students in 5th grade experience little academic pressure, while 10th grade students have taken a competitive high school entrance exam and have begun to prepare for a college entrance exam that they will take in two years. Comparing these two groups provided insights into how students develop academic self-concepts at two different stages of schooling and the extent to which academic self-concept and achievement reciprocally influenced each other.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present study",
+                "sec_num": "3."
+            },
+            {
+                "text": "In the research model presented in Fig. 1 , the upper component depicts the original reciprocal-effects model for Chinese, and the lower component depicts the model for mathematics. The reciprocal-effects model is represented by the black lines; the effects of prior mathematics achievement on the Chinese self-concept and prior Chinese achievement on the mathematics self-concept are represented by the gray lines; and the effects of prior self-concepts on achievement in other domains are represented by dashed lines. Although Marsh and K\u00f6ller (2004) proposed a two-wave model, their research employed a five-wave model. The present study adopted the simpler two-wave model (Marsh & K\u00f6ller, 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 529,
+                        "end": 552,
+                        "text": "Marsh and K\u00f6ller (2004)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 676,
+                        "end": 698,
+                        "text": "(Marsh & K\u00f6ller, 2004)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 35,
+                        "end": 41,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The present study",
+                "sec_num": "3."
+            },
+            {
+                "text": "The present study addressed the following specific research questions:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present study",
+                "sec_num": "3."
+            },
+            {
+                "text": "a. Would the unification of the reciprocal-effects and internal/external frame-of-reference models fit the data for 5th grade and 10th grade students in Taiwan? b. Would the causal relationships between academic self-concepts and achievement proposed by the unification model differ for the 5th grade and 10th grade cohorts?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present study",
+                "sec_num": "3."
+            },
+            {
+                "text": "4. Method",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present study",
+                "sec_num": "3."
+            },
+            {
+                "text": "The study employed a multicohort-multioccasion design that combined the advantages of cross-sectional and longitudinal research (Marsh et al., 1999) to investigate the relationship between selfconcept and achievement for Chinese and mathematics in a twowave panel study with two different cohorts. Participants were drawn from respondents of a national survey of adolescents funded by the Republic of China (ROC) National Academy for Educational Research. Regional clusters (northwest, midwest, southwest, and east/islands) were classified using the official Taiwan territorial divisions. The number of participating schools and students in each region were based on the 2006 educational statistics published by the ROC Ministry of Education (n.d.). Participating schools in each region were randomly selected, and one class was randomly selected from each school. The sample consisted of 782 elementary and high school students who were in 5th grade (Cohort 1, n = 380) and 10th grade (Cohort 2, n = 402) in 2007 (Time 1) and in 6th and 11th grade in 2008 (Time 2).",
+                "cite_spans": [
+                    {
+                        "start": 128,
+                        "end": 148,
+                        "text": "(Marsh et al., 1999)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants and procedure",
+                "sec_num": "4.1."
+            },
+            {
+                "text": "We used four indicators (academic self-concepts and achievement for Chinese and mathematics) in the unification model.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": "4.2."
+            },
+            {
+                "text": "Academic-self-concept data were collected using the ASDQ II (Marsh, 1990a) , which consists of subscales that assess students' perception of their achievement in a specific academic area. Chinese versions of the ASDQ II for the domains of Chinese language and mathematics studies were constructed. Each scale consisted of 4 items, and the wording of each item was the same across domains, apart from the words describing the domain (\"Chinese\" or \"mathematics\"). Participants completing the scales were asked to compare their abilities to those of other students in formulating their responses. Responses to items (e.g., \"I get good marks in mathematics,\" or \"Chinese classwork is easy for me\") were based on a 5-point scale ranging from 1 (strongly disagree) to 5 (strongly agree).",
+                "cite_spans": [
+                    {
+                        "start": 60,
+                        "end": 74,
+                        "text": "(Marsh, 1990a)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic self description questionnaire II (ASDQ II)",
+                "sec_num": "4.2.1."
+            },
+            {
+                "text": "Cronbach's alpha coefficients at Time 1 were high for both the Chinese (\u03b1 = .92 for both cohorts) and mathematics self-concept subscales (\u03b1 = .92 in Cohort 1; \u03b1 = .94 in Cohort 2). The alpha coefficients also exhibited high reliability at Time 2 for both the Chinese (\u03b1 = .94 in Cohort 1; \u03b1 = .92 in Cohort 2) and mathematics self-concept subscales (\u03b1 = .94 in Cohort 1; \u03b1 = .95 in Cohort 2).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic self description questionnaire II (ASDQ II)",
+                "sec_num": "4.2.1."
+            },
+            {
+                "text": "Participants' Chinese and mathematics grades (ranging from 1 to 100 according to the system used in Taiwan) were obtained from school administrators and converted to T scores so that the grades relative to each class represented the domain performance of individual students.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Grades",
+                "sec_num": "4.2.2."
+            },
+            {
+                "text": "The adequacy of model was evaluated using LISREL 8.72 (J\u00f6reskog & S\u00f6rbom, 1993) . Three fit indices assessed the overall fit of the model: the root-mean-square error of approximation (RMSEA), the comparative fit index (CFI), and the standardized root-mean-square residual (SRMR). An RMSEA of .08 or less is considered to be a reasonable fit (Browne & Mels, 1990; Steiger, 1989) . CFI values greater than .95 and SRMR values less than .08 were adopted as the criteria for a well-specified model (Hu & Bentler, 1999) .",
+                "cite_spans": [
+                    {
+                        "start": 54,
+                        "end": 79,
+                        "text": "(J\u00f6reskog & S\u00f6rbom, 1993)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 341,
+                        "end": 362,
+                        "text": "(Browne & Mels, 1990;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 363,
+                        "end": 377,
+                        "text": "Steiger, 1989)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 494,
+                        "end": 514,
+                        "text": "(Hu & Bentler, 1999)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analysis",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "Tables 1 and 2 present the factor correlations between the Chinese/ mathematics achievement and Chinese/mathematics self-concepts in Cohorts 1 and 2, respectively. Moderate-to-strong stability coefficients of academic self-concept (underlined) and achievement (boldface) were observed for Cohorts 1 and 2 (see Tables 1 and 2, respectively). Although the stability of the academic self-concepts was higher in Cohort 2 than in Cohort 1, achievement was stable in both cohorts. The cross-lagged correlations between achievement and academic self-concept within the same domain were positive and significant for both Chinese and mathematics in Cohorts 1 and 2 (see Tables 1 and 2) . However, the cross-lagged correlations between mathematics achievement and Chinese self-concept were non-significant in Cohorts 1 and 2. Inconsistent results were found for the cross-lagged correlations between Chinese achievement and mathematics self-concept, which were statistically significant and positive in Cohort 1 but not significant in Cohort 2.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 661,
+                        "end": 676,
+                        "text": "Tables 1 and 2)",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Stability and cross-lagged correlations",
+                "sec_num": "5.1."
+            },
+            {
+                "text": "In summary, the stability of academic self-concepts increased with age, whereas the stability of academic achievement declined with age. Furthermore, positive cross-lagged correlations were found between academic achievement and academic self-concept for the same domain. Although there were inconsistent results for academic self-concept and achievement correlations across domains, the correlations were weak (zero or near-zero) in both cohorts except for the correlation of prior Chinese achievement and subsequent mathematics self-concept in the elementary school sample (r =.31).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Stability and cross-lagged correlations",
+                "sec_num": "5.1."
+            },
+            {
+                "text": "The present study evaluated the unification model proposed by Marsh and K\u00f6ller (2004) , which included measures of academic achievement and self-concept at Times 1 and 2 (see Fig. 1 ). Standardized and unstandardized path coefficients in the model for Cohort 1 are presented in Fig. 2 . The fit indices indicate that the model exhibited a reasonable fit to the data (\u03c7 2 (152, N=380) =426.90, pb .001; RMSEA =.069, CFI=.97, SRMR=.052). Fig. 3 presents the model for Cohort 2, which indicated that the fit indices were within an acceptable range (\u03c7 2 (152, N=402) = 357.67, pb .001; RMSEA=.058, CFI=.99, SRMR=.072). For Cohort 1, the R 2 values for Time 2 Chinese achievement, Chinese self-concept, mathematics achievement, and mathematics self-concept were .53, .36, .51, and .50, respectively. For Cohort 2, the Time 2 latent variables exhibited R 2 values of .32, .53, .29, and .62. In general, median total variances in Time 2 latent variables were explained by the model.",
+                "cite_spans": [
+                    {
+                        "start": 62,
+                        "end": 85,
+                        "text": "Marsh and K\u00f6ller (2004)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 175,
+                        "end": 181,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 278,
+                        "end": 284,
+                        "text": "Fig. 2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 436,
+                        "end": 442,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Testing the unification model",
+                "sec_num": "5.2."
+            },
+            {
+                "text": "The results of the unification model are discussed for the following areas: (a) reciprocal effects, (b) the I/E models, and (c) the crossdomain effects of academic self-concept on subsequent achievement. ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Testing the unification model",
+                "sec_num": "5.2."
+            },
+            {
+                "text": "For Cohort 1, the effect of prior Chinese achievement on subsequent Chinese self-concept was positive (\u03b2 = .23, p b .01), but the effect of prior Chinese self-concept on subsequent Chinese achievement was not significant (see Fig. 2 ). Because a strong stability for Chinese achievement (r = .75, p b .001), the effect of prior Chinese self-concept on Chinese achievement was masked or disappeared when prior Chinese achievement was taken into account. There were statistically significant and positive effects of prior mathematics achievement on subsequent mathematics selfconcept (\u03b2 = .24, p b .01) and of prior mathematics self-concept on subsequent mathematics achievement (\u03b2 = .16, p b .01).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 226,
+                        "end": 232,
+                        "text": "Fig. 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The reciprocal-effects model",
+                "sec_num": "5.2.1."
+            },
+            {
+                "text": "For Cohort 2 (see Fig. 3 ), there was a statistically significant and positive effect of prior Chinese achievement on subsequent Chinese self-concept (\u03b2 =.12, p b .01) and of positive prior Chinese self-concept on subsequent Chinese achievement (\u03b2 =.11, p b .01). The results also revealed that the prior mathematics achievement positively affected subsequent mathematics self-concept (\u03b2 = .09, p b .05) and vice versa (\u03b2 =.23, p b .01).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 18,
+                        "end": 24,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The reciprocal-effects model",
+                "sec_num": "5.2.1."
+            },
+            {
+                "text": "The influence of prior academic achievement on subsequent academic self-concept was stronger than that of prior academic self-concept on subsequent academic achievement for Cohort 1. For Cohort 2, the results were inconsistent. Although the effect of prior mathematics self-concept on subsequent mathematics achievement was stronger than the influence of prior mathematics achievement on subsequent mathematics self-concept, the effect of prior Chinese self-concept on subsequent Chinese achievement was almost identical to the influence of prior Chinese achievement on subsequent Chinese self-concept.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal-effects model",
+                "sec_num": "5.2.1."
+            },
+            {
+                "text": "In summary, consistent with previous research on reciprocal effects, the study results indicated that prior academic achievement influenced subsequent academic self-concept and that prior academic self-concepts affected subsequent academic achievement, although prior Chinese self-concept did not influence subsequent Chinese achievement in the elementary school cohort. In addition, the effects of prior academic achievement on subsequent academic self-concept were stronger than those of prior academic self-concept on subsequent academic achievement in the elementary school students, whereas the opposite effect was found for mathematics in the high school students.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal-effects model",
+                "sec_num": "5.2.1."
+            },
+            {
+                "text": "In Cohort 1, a negative cross-effect of prior achievement on self-concept was only found for mathematics (\u03b2 = \u2212 .17, p b .05), and prior Chinese achievement had no effect on subsequent mathematics self-concept (see Fig. 2) .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 215,
+                        "end": 222,
+                        "text": "Fig. 2)",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The I/E model",
+                "sec_num": "5.2.2."
+            },
+            {
+                "text": "In Cohort 2, the cross-effects of prior achievement on subsequent self-concept in the other domain were not significant for either Chinese or mathematics (see Fig. 3 ). However, the results of a supplementary analysis that considered only the typical I/E model based on two waves of data collection supported the I/E model.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 159,
+                        "end": 165,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The I/E model",
+                "sec_num": "5.2.2."
+            },
+            {
+                "text": "Consistent with Marsh and K\u00f6ller (2004) , the paths from prior Chinese self-concept to subsequent mathematics achievement and those from prior mathematics self-concept to subsequent Chinese achievement exhibited no effect in either cohort (see Figs. 2 and 3 ), indicating that earlier academic self-concepts primarily affected subsequent academic achievement in the same domain but not in other domains.",
+                "cite_spans": [
+                    {
+                        "start": 16,
+                        "end": 39,
+                        "text": "Marsh and K\u00f6ller (2004)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 244,
+                        "end": 257,
+                        "text": "Figs. 2 and 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The effects from academic self-concept to achievement across domains",
+                "sec_num": "5.2.3."
+            },
+            {
+                "text": "A comparison of the unstandardized path coefficients across cohorts (see Figs. 2 and 3) revealed that the effect of prior Chinese achievement on subsequent Chinese self-concept was stronger for Cohort 1 (b = .23) than for Cohort 2 (b = .10). In contrast, the effect of prior Chinese self-concept on subsequent Chinese achievement was weaker for Cohort 1 (b = .02) than Cohort 2 (b = .12). A similar pattern was observed for mathematics. Thus, the effect of academic achievement declined with age, whereas the effect of academic self-concept increased with age. Chapman et al. (2000) reported that negative and positive academic self-concepts better predicted subsequent reading skills compared to the average academic self-concept, and that the predictive power of academic self-concept for subsequent achievement differed across subgroups, of students with different academic selfconcepts. For elementary school students, the study findings indicated that prior Chinese self-concept did not influence subsequent Chinese achievement. A supplemental analysis of the data in the present study further analyzed the causal relationship of Chinese self-concept to Chinese achievement. Fifth grade students with Time 1 Chinese grades in the middle 50% were divided into two groups (the highest 25% and lowest 25% of the subsample) based on their Chinese self-concept ratings at Time 1. A comparison of the two groups at Time 2 found no significant difference in the Chinese grades of the two groups [t(99) = .34, p = .73]. Therefore, for preadolescents in Taiwan, average students who exhibited higher or lower Chinese self-concepts achieved similar grades in Chinese in the following year, supporting the finding that prior self-concept in Chinese did not influence subsequent Chinese achievement.",
+                "cite_spans": [
+                    {
+                        "start": 561,
+                        "end": 582,
+                        "text": "Chapman et al. (2000)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 73,
+                        "end": 87,
+                        "text": "Figs. 2 and 3)",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Comparison across cohorts",
+                "sec_num": "5.3."
+            },
+            {
+                "text": "The present study, which is one of the few cross-cultural research studies on causal relationships between the academic achievement and self-concept for an East Asian student sample, provided important new evidence regarding the generalizability of reciprocal effects in high school students. Marsh et al.'s (2002) study of Hong Kong high school students suggested that academic achievement and self-concept mutually influence each other. However, because their study did not examine younger, elementary school students, investigations that included preadolescents were crucial to provide a more comprehensive understanding of reciprocal effects. The results of the present study found inconclusive evidence of reciprocal effects in older elementary school students because a reciprocal relationship was found for mathematics but not for Chinese. This finding was consistent with the results of Skaalvik and Valas (1999) , who found that the reciprocal effects were weaker for older elementary school and middle school students because students' academic self-concepts were still developing and not yet fully established.",
+                "cite_spans": [
+                    {
+                        "start": 293,
+                        "end": 314,
+                        "text": "Marsh et al.'s (2002)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 895,
+                        "end": 920,
+                        "text": "Skaalvik and Valas (1999)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal-effects model",
+                "sec_num": "6.1."
+            },
+            {
+                "text": "In regard to the difference between the results for mathematics and Chinese in the present study, it is possible that mathematics self-concepts but not Chinese self-concepts are established by preadolescence. Dai (2002) noted that because students consider mathematics achievement to be more important for success than Chinese achievement, they appear to develop a stable mathematics self-concept more quickly than a Chinese self-concept. We believe that the parental influence plays an important role in this process. Parents in Taiwan emphasize mathematics achievement because it is considered valuable for future job seekers. As a result, parents and schools focus more on mathematics learning, and their feedback regarding mathematics performance is more salient for students compared to performance in Chinese. Research has indicated that parents' values and expectations are more influential for children's learning in Confucian Asian countries than in Western countries (Kim & Park, 2006; Wang & Lin, 2005) , and children usually adopt parents' expectations and values due to the desire to maintain harmonious relationships with their parents. These cultural factors might explain why the domain differences in reciprocal effects have been reported less often in Western countries. Further in-depth investigations are needed to confirm differences in reciprocal effects for the mathematics and verbal academic domains.",
+                "cite_spans": [
+                    {
+                        "start": 209,
+                        "end": 219,
+                        "text": "Dai (2002)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 977,
+                        "end": 995,
+                        "text": "(Kim & Park, 2006;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 996,
+                        "end": 1013,
+                        "text": "Wang & Lin, 2005)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal-effects model",
+                "sec_num": "6.1."
+            },
+            {
+                "text": "6.2. The I/E model and the cross-effects leading from academic self-concept For the I/E model incorporated into the unification model, the analysis found that although there was a negative cross-effect of mathematics achievement on subsequent Chinese self-concept in the elementary school sample, academic achievement did not affect academic self-concept in the other academic domain in the high-school sample. These results partially supported the claims of the I/E model. However, negative cross-domain effects for the longitudinal data were found when the effects of other constructs (e.g., the self-concept of the same domain in Time 1) were excluded from the model. This finding suggests that the proposed weak and negative cross-domain effects of prior achievement found for the I/E model were not strong enough to account for the variance of subsequent measures of academic self-concepts shared with more predominantly influential predictors. Future research should replicate this result because findings of the Marsh and K\u00f6ller's (2004) study supported the model integrating the I/E model with the reciprocal effects model. However, future research investigating differences between the Marsh and K\u00f6ller (2004) findings and results of the present study should also examine an additional factor. Marsh and K\u00f6ller's study, which was based on five waves of data collection with brief intervals separating the first four waves that occurred at the end of Grade 6 and the beginning, middle, and end of Grade 7, did not find significant cross-domain path coefficients for achievement between the end of 6th grade and the end of 7th grade. These results suggest that cross-domain effects diminish as the interval between Time 1 and Time 2 increases. The collinearity of the constructs across different waves might also decrease the predictive power of the same construct measured during the later waves. Therefore, future investigations of cross-domain effects should investigate the effect of differences in the time interval between waves.",
+                "cite_spans": [
+                    {
+                        "start": 1019,
+                        "end": 1044,
+                        "text": "Marsh and K\u00f6ller's (2004)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1195,
+                        "end": 1218,
+                        "text": "Marsh and K\u00f6ller (2004)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal-effects model",
+                "sec_num": "6.1."
+            },
+            {
+                "text": "In regard to the causal effects of self-concept across domains, the study results supported Marsh and K\u00f6ller's (2004) prediction. Academic achievement primarily explained the same construct in the previous year, and prior self-concept influenced subsequent achievement only in the same domain.",
+                "cite_spans": [
+                    {
+                        "start": 92,
+                        "end": 117,
+                        "text": "Marsh and K\u00f6ller's (2004)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal-effects model",
+                "sec_num": "6.1."
+            },
+            {
+                "text": "With regard to comparisons of the reciprocal effects within the unification model for the two different age groups, the study results revealed that the causal effects of academic achievement declined with age, whereas the causal effects of self-concept increased with age. As Chapman and Tunmer (1997) noted, children's academic self-concepts are not fully developed and the influence of school grades and teacher ratings emerges over time. As children grow older, their academic self-concepts are less influenced by academic achievement as they become more firmly established and stable.",
+                "cite_spans": [
+                    {
+                        "start": 276,
+                        "end": 301,
+                        "text": "Chapman and Tunmer (1997)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Comparison across cohorts",
+                "sec_num": "6.3."
+            },
+            {
+                "text": "Although Skaalvik and Valas (1999) study of 3rd grade students only supported the skill-development model, Guay et al.'s (2003) methodologically sound investigation provided support for the reciprocal effects model and found no developmental differences for students in Grades 2, 3, and 4, indicating that the effect of academic self-concept was stable for these three age groups. In contrast to Guay et al. (2003) , which only included elementary school students, the present study included groups exhibiting a greater age gap to identify a developmental progression in the causal ordering of achievement and self-concept. Future research should include systematic investigations of students that compare different age groups (e.g., ranging from early elementary school to high school) and employ methodology similar to Guay et al. (2003) and the present study. Moreover, meta-analyses are necessary to provide a more comprehensive understanding of reciprocal effects. Finally, because few studies have evaluated the effects of cultural differences, cross-cultural studies that test the unification model would be worthwhile.",
+                "cite_spans": [
+                    {
+                        "start": 9,
+                        "end": 34,
+                        "text": "Skaalvik and Valas (1999)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 107,
+                        "end": 127,
+                        "text": "Guay et al.'s (2003)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 396,
+                        "end": 414,
+                        "text": "Guay et al. (2003)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 821,
+                        "end": 839,
+                        "text": "Guay et al. (2003)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": "6.4."
+            },
+            {
+                "text": "In summary, the present study made several contributions to academic self-concept research. First, the current investigation is one of the few studies (Marsh et al., 2002) investigating the reciprocal effects of academic achievement and self-concept in an East Asian sample. The study found reciprocal effects for high school students in the academic areas of mathematics and Chinese, indicating that prior academic achievement affected subsequent academic self-concept and that prior academic self-concept influenced academic achievement in adolescents. Mixed results were found for preadolescents. Although reciprocal effects were found for mathematics, study findings supported the skill-developmental model for Chinese, which indicated that the causal relationship between academic self-concept and achievement for preadolescents depended on the academic area. Second, the effect of prior achievement on subsequent self-concept was stronger for preadolescents than for adolescents, whereas the effect of prior self-concept on subsequent achievement was stronger for adolescents than for preadolescents. In other words, the causal effect of academic achievement declined with age, whereas the causal effect of self-concept increased with age, revealing a developmental progression for reciprocal effects. Finally, a more complex longitudinal investigation based on the unification model revealed weaker negative cross-domain effects of prior achievement on subsequent self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 151,
+                        "end": 171,
+                        "text": "(Marsh et al., 2002)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion and implication",
+                "sec_num": "6.5."
+            },
+            {
+                "text": "The findings of the reciprocal-effects model have important implications for educators in classroom settings. Enhancing academic self-concepts will not produce lasting effects on academic achievement unless students are also able to maintain good grades. However, academic achievement based on increasing learning in an academic domain will not persist unless the student's academic self-concept is maintained. Therefore, as Marsh et al. (2005) suggest, academic achievement and self-concept should both be fostered. Approaches to fostering achievement and self-concepts should be sensitive to students' age due to the developmental progression of the causal ordering of achievement and self-concept. Teachers of elementary school students should focus on improving students' academic skills to enhance their academic self-concepts and influence future academic achievement. As students reach adolescence, enhancing students' academic self-concepts by improving achievement might be less feasible because academic self-concepts become more stable and less influenced by prior achievement. Moreover, although students who perform well in one domain are typically considered to have good academic self-concepts in all domains and students who perform poorly in one domain are considered to have poor academic self-concepts in all domains, teachers should not assume that academic self-concepts are equivalent across domains (Marsh & K\u00f6ller, 2004) . The I/E model suggests that students who perform well in mathematics may nevertheless have poorer mathematics self-concepts if they perceive that their verbal ability is greater than that of mathematics. Predicting domain self-concept from ability in the domain tends to be more accurate when ability in the other domain is also considered. Although academic self-concept is not stable for preadolescents, the influence of internal comparisons could persist during the school year. Teachers should be aware of the information based on internal comparisons (Dickh\u00e4user, 2005) and continually assess the extent to which their impression of a student's ability in a given academic area is accurate.",
+                "cite_spans": [
+                    {
+                        "start": 425,
+                        "end": 444,
+                        "text": "Marsh et al. (2005)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1422,
+                        "end": 1444,
+                        "text": "(Marsh & K\u00f6ller, 2004)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 2003,
+                        "end": 2021,
+                        "text": "(Dickh\u00e4user, 2005)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion and implication",
+                "sec_num": "6.5."
+            },
+            {
+                "text": "S.-K. Chen et al. / Learning and Individual Differences 23 (2013) 172-178",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "This research was funded by the ROC National Academy of Educational Research (NAER-95-24-A-2-01-00-2-14) and the ROC National Science Council through three projects: \"The Net and Taiwan Adolescents' Physical and Mental Development\" (NSC 97-2631-S-009-001), \"Internet use and well-being of Taiwan students: Longitudinal analysis and the extension of fact bank\" (NSC-100-2631-S-009-001), and \"Internet Use and Its Socio-cultural Impacts on Taiwan Adolescent Students\" (NSC 97-2631-S-415-003).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgments",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "RAMONA user's guide. Unpublished report",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Browne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Mels",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Browne, M. W., & Mels, G. (1990). RAMONA user's guide. Unpublished report. Department of Psychology, Ohio State University.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The internal/external frame of reference model revisited: Incorporating general cognitive ability and general academic self-concept",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Brunner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Multivariate Behavioral Research",
+                "volume": "43",
+                "issue": "",
+                "pages": "137--172",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brunner, M., L\u00fcdtke, O., & Trautwein, U. (2008). The internal/external frame of reference model revisited: Incorporating general cognitive ability and general academic self-concept. Multivariate Behavioral Research, 43, 137-172.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Testing for causal predominance between academic self-concept and academic achievement: A developmental perspective",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1998). Testing for causal predominance between academic self-concept and academic achievement: A developmental perspective. Paper presented at the annual meeting of the American Educational Research Association, San Diego, CA.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Self-concept of ability and perceived evaluations by others: Cause or effect of academic achievement",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Calsyn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kenny",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1977,
+                "venue": "Journal of Educational Psychology",
+                "volume": "69",
+                "issue": "",
+                "pages": "136--145",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Calsyn, R., & Kenny, D. (1977). Self-concept of ability and perceived evaluations by others: Cause or effect of academic achievement? Journal of Educational Psychology, 69, 136-145.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "A longitudinal study of beginning reading achievement and reading self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Chapman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Tunmer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "67",
+                "issue": "",
+                "pages": "279--291",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chapman, J. W., & Tunmer, W. (1997). A longitudinal study of beginning reading achievement and reading self-concept. British Journal of Educational Psychology, 67, 279-291.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Early reading-related skills and reading performance, reading self-concept, and the development of academic self-concept: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Chapman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Tunmer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Prochnow",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Educational Psychology",
+                "volume": "92",
+                "issue": "",
+                "pages": "703--708",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chapman, J. W., Tunmer, W. E., & Prochnow, J. E. (2000). Early reading-related skills and reading performance, reading self-concept, and the development of academic self-concept: A longitudinal study. Journal of Educational Psychology, 92, 703-708.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Within and between math and science: An examination on Marsh and K\u00f6ller's unification model",
+                "authors": [
+                    {
+                        "first": "C. -L",
+                        "middle": [],
+                        "last": "Chien",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T. -H",
+                        "middle": [],
+                        "last": "Jen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S. -T",
+                        "middle": [],
+                        "last": "Chang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Bulletin of Education Psychology",
+                "volume": "40",
+                "issue": "",
+                "pages": "107--126",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chien, C. -L., Jen, T. -H., & Chang, S. -T. (2008). Within and between math and science: An examination on Marsh and K\u00f6ller's unification model. Bulletin of Education Psychology, 40, 107-126.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Calibration of reading self-concept and reading achievement among 15-year-olds: Cultural differences in 34 countries",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Chiu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Klassen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Learning and Individual Differences",
+                "volume": "19",
+                "issue": "",
+                "pages": "372--386",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chiu, M. M., & Klassen, R. M. (2009). Calibration of reading self-concept and reading achievement among 15-year-olds: Cultural differences in 34 countries. Learning and Individual Differences, 19, 372-386.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Incorporating parent perceptions",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Dai",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Adolescent Research",
+                "volume": "17",
+                "issue": "",
+                "pages": "617--645",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dai, D. Y. (2002). Incorporating parent perceptions. Journal of Adolescent Research, 17, 617-645.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Teachers' inferences about students' self-concepts: The role of dimensional comparison. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Dickh\u00e4user",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "15",
+                "issue": "",
+                "pages": "225--235",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dickh\u00e4user, O. (2005). Teachers' inferences about students' self-concepts: The role of dimensional comparison. Learning and Instruction, 15, 225-235.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Antecedents of academic emotions: Testing the internal/external frame of reference model for academic enjoyment",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Goetz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Frenzel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Hall",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Pekrun",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "33",
+                "issue": "",
+                "pages": "9--33",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Goetz, T., Frenzel, A. C., Hall, N. C., & Pekrun, R. (2008). Antecedents of academic emotions: Testing the internal/external frame of reference model for academic enjoyment. Contemporary Educational Psychology, 33, 9-33.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Academic self-concept and academic achievement: Developmental perspectives on their causal ordering",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Boivin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Educational Psychology",
+                "volume": "95",
+                "issue": "",
+                "pages": "124--136",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guay, F., Marsh, H. W., & Boivin, M. (2003). Academic self-concept and academic achievement: Developmental perspectives on their causal ordering. Journal of Educational Psychology, 95, 124-136.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "The causal ordering of academic achievement and self-concept of ability during elementary school: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A G"
+                        ],
+                        "last": "Van Aken",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Educational Psychology",
+                "volume": "87",
+                "issue": "",
+                "pages": "624--637",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helmke, A., & van Aken, M. A. G. (1995). The causal ordering of academic achievement and self-concept of ability during elementary school: A longitudinal study. Journal of Educational Psychology, 87, 624-637.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Cutoff criteria for fit indices in covariance structure analysis: Conventional versus new alternatives",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Hu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Structural Equation Modeling",
+                "volume": "6",
+                "issue": "",
+                "pages": "1--55",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indices in covariance structure analysis: Conventional versus new alternatives. Structural Equation Modeling, 6, 1-55.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "LISREL8: Structural equation modeling with the command language",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "J\u00f6reskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "S\u00f6rbom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f6reskog, K., & S\u00f6rbom, D. (1993). LISREL8: Structural equation modeling with the command language. Hillsdale, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Indigenous psychological analysis of academic achievement in Korea: The influence of self-efficacy, parents, and culture",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Park",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "International Journal of Psychology",
+                "volume": "41",
+                "issue": "",
+                "pages": "287--291",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kim, U., & Park, Y. S. (2006). Indigenous psychological analysis of academic achievement in Korea: The influence of self-efficacy, parents, and culture. International Journal of Psychology, 41, 287-291.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Perception or confidence? Self-concept, self-efficacy and achievement in mathematics: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "H. -Y",
+                        "middle": [],
+                        "last": "Kung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Policy Futures in Education",
+                "volume": "7",
+                "issue": "",
+                "pages": "387--398",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kung, H. -Y. (2009). Perception or confidence? Self-concept, self-efficacy and achievement in mathematics: A longitudinal study. Policy Futures in Education, 7, 387-398.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Self-concept, attributional beliefs, and school achievement: A longitudinal analysis",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Kurtz-Costes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Schneider",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "19",
+                "issue": "",
+                "pages": "199--216",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kurtz-Costes, B. E., & Schneider (1994). Self-concept, attributional beliefs, and school achievement: A longitudinal analysis. Contemporary Educational Psychology, 19, 199-216.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Universals and specifics of math self-concept, math self-efficacy, and math anxiety across 41 PISA 2003 participating countries",
+                "authors": [
+                    {
+                        "first": "Jihyun",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Learning and Individual Differences",
+                "volume": "19",
+                "issue": "",
+                "pages": "355--365",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, Jihyun (2009). Universals and specifics of math self-concept, math self-efficacy, and math anxiety across 41 PISA 2003 participating countries. Learning and Individual Differences, 19, 355-365.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Verbal and math self-concept: An internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concept: An internal/external frame of reference model. American Educational Research Journal, 23, 129-149.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "A multidimensional, hierarchical self-concept: Theoretical and empirical justifications",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Educational Psychology Review",
+                "volume": "2",
+                "issue": "",
+                "pages": "77--172",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990a). A multidimensional, hierarchical self-concept: Theoretical and empirical justifications. Educational Psychology Review, 2, 77-172.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal path analysis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "646--656",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990b). Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal path analysis. Journal of Educational Psychology, 82, 646-656.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Self-concept theory, measurement and research into practice: The role of self-concept in educational psychology",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (2007). Self-concept theory, measurement and research into practice: The role of self-concept in educational psychology. Leicester, UK: British Psychological Society.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Causal ordering of academic selfconcept and achievement: Reanalysis of a Pioneering study and revised recommendations",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Educational Psychology",
+                "volume": "34",
+                "issue": "",
+                "pages": "155--167",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Byrne, B. M., & Yeung, A. S. (1999). Causal ordering of academic self- concept and achievement: Reanalysis of a Pioneering study and revised recommendations. Journal of Educational Psychology, 34, 155-167.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Structure, stability, and development of young children's self-concepts: A multicohort-multioccasion study",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Debus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Child Development",
+                "volume": "69",
+                "issue": "",
+                "pages": "1030--1053",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Craven, R., & Debus, R. (1998). Structure, stability, and development of young children's self-concepts: A multicohort-multioccasion study. Child Development, 69, 1030-1053.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Explaining paradoxical relations between academic selfconcepts and achievements: Cross-cultural generalizability of the internal/external frame of reference predictions across 26 countries",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K. -T",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Educational Psychology",
+                "volume": "96",
+                "issue": "",
+                "pages": "56--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hau, K. -T. (2004). Explaining paradoxical relations between academic self- concepts and achievements: Cross-cultural generalizability of the internal/external frame of reference predictions across 26 countries. Journal of Educational Psychology, 96, 56-67.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Multilevel causal ordering of academic selfconcept and achievement: Influence of language of instruction (English compared with Chinese) for Hong Kong students",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K. -T",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C. -K",
+                        "middle": [],
+                        "last": "Kong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "American Educational Research Journal",
+                "volume": "39",
+                "issue": "",
+                "pages": "727--763",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Hau, K. -T., & Kong, C. -K. (2002). Multilevel causal ordering of academic self- concept and achievement: Influence of language of instruction (English compared with Chinese) for Hong Kong students. American Educational Research Journal, 39, 727-763.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Unification of theoretical models of academic selfconcept/achievement relations: Reunification of east and west German school systems after the fall of the Berlin Wall",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "29",
+                "issue": "",
+                "pages": "264--282",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & K\u00f6ller, O. (2004). Unification of theoretical models of academic self- concept/achievement relations: Reunification of east and west German school sys- tems after the fall of the Berlin Wall. Contemporary Educational Psychology, 29, 264-282.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Extension of the internal/external frame of reference model of self-concept formation: Importance of native and nonnative languages for Chinese students",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C. -K",
+                        "middle": [],
+                        "last": "Kong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K. -T",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "543--553",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Kong, C. -K., & Hau, K. -T. (2001). Extension of the internal/external frame of reference model of self-concept formation: Importance of native and nonnative languages for Chinese students. Journal of Educational Psychology, 93, 543-553.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Academic selfconcept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Bauert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Child Development",
+                "volume": "76",
+                "issue": "",
+                "pages": "397--416",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Trautwein, U., L\u00fcdtke, O., K\u00f6ller, O., & Bauert, J. (2005). Academic self- concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering. Child Development, 76, 397-416.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Causal effects of academic self-concept on academic achievement: Structural equation model of longitudinal data",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Educational Psychology",
+                "volume": "89",
+                "issue": "",
+                "pages": "41--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Yeung, A. S. (1997). Causal effects of academic self-concept on academic achievement: Structural equation model of longitudinal data. Journal of Educational Psychology, 89, 41-54.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "2007 student numbers by regions",
+                "authors": [],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ministry of Education (n.d). 2007 student numbers by regions. Retrieved February 15, 2007, from http://www.edu.tw/statistics/content.aspx?site_content_sn=8869",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Internal comparisons in everyday life",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Husemann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Educational Psychology",
+                "volume": "98",
+                "issue": "",
+                "pages": "342--353",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & Husemann, N. (2006). Internal comparisons in everyday life. Journal of Educational Psychology, 98, 342-353.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Dimensional comparison: An experimental approach to the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "826--835",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & K\u00f6ller, O. (2001). Dimensional comparison: An experimental approach to the internal/external frame of reference model. Journal of Educational Psychology, 93, 826-835.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Review of Educational Research",
+                "volume": "79",
+                "issue": "",
+                "pages": "1129--1167",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Pohlmann, B., K\u00f6ller, O., & Marsh, H. W. (2009). A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept. Review of Educational Research, 79, 1129-1167.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Not very smart, thus moral: Dimensional comparisons between academic self-concept and honesty",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Savyon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Social Psychology of Education",
+                "volume": "6",
+                "issue": "",
+                "pages": "95--106",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & Savyon, K. (2003). Not very smart, thus moral: Dimensional comparisons between academic self-concept and honesty. Social Psychology of Education, 6, 95-106.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "An extension to the internal/external frame of reference model to two verbal and numerical domains",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Streblow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "European Journal of Educational Psychology",
+                "volume": "21",
+                "issue": "",
+                "pages": "467--487",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Streblow, L., Pohlmann, B., & K\u00f6ller, O. (2006). An extension to the internal/external frame of reference model to two verbal and numerical domains. European Journal of Educational Psychology, 21, 467-487.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Predictors of academic achievement and academic self-concept: A longitudinal perspective",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Muijs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "67",
+                "issue": "",
+                "pages": "263--277",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muijs, R. D. (1997). Predictors of academic achievement and academic self-concept: A longitudinal perspective. British Journal of Educational Psychology, 67, 263-277.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "On the benefit of dimensional comparisons",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Educational Psychology",
+                "volume": "101",
+                "issue": "",
+                "pages": "248--258",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pohlmann, B., & M\u00f6ller, J. (2009). On the benefit of dimensional comparisons. Journal of Educational Psychology, 101, 248-258.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Increasing educational achievement via self-concept change",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Scheirer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Kraut",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "Review of Educational Research",
+                "volume": "49",
+                "issue": "",
+                "pages": "131--150",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Scheirer, M. A., & Kraut, R. E. (1979). Increasing educational achievement via self-concept change. Review of Educational Research, 49, 131-150.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Self-concept: The interplay of theory and methods",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Bolus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Journal of Educational Psychology",
+                "volume": "74",
+                "issue": "",
+                "pages": "3--17",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shavelson, R. J., & Bolus, R. (1982). Self-concept: The interplay of theory and methods. Journal of Educational Psychology, 74, 3-17.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Issues in research on self-concept",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Advances in motivation and achievement",
+                "volume": "",
+                "issue": "",
+                "pages": "51--97",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M. (1997). Issues in research on self-concept. In M. L. Maehr, & P. R. Pintrich (Eds.), Advances in motivation and achievement (pp. 51-97). Greenwich, CT: JAI Press Inc.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Academic achievement and self-concept: An analysis of causal predominance in a developmental perspective",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hagtvet",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "58",
+                "issue": "",
+                "pages": "292--307",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Hagtvet, K. A. (1990). Academic achievement and self-concept: An analysis of causal predominance in a developmental perspective. Journal of Personality and Social Psychology, 58, 292-307.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "A test of the internal/external frame of reference model at different levels of math and verbal self-perception",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "American Educational Research Journal",
+                "volume": "32",
+                "issue": "",
+                "pages": "161--184",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1995). A test of the internal/external frame of reference model at different levels of math and verbal self-perception. American Educational Research Journal, 32, 161-184.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Relations among achievement, self-concept, and motivation in mathematics and language arts: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Valas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "The Journal of Experimental Education",
+                "volume": "67",
+                "issue": "",
+                "pages": "135--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Valas, H. (1999). Relations among achievement, self-concept, and motivation in mathematics and language arts: A longitudinal study. The Journal of Experimental Education, 67, 135-149.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Causal modeling: A supplementary module for SYSTAT and SYGRAPH",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Steiger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Steiger, J. H. (1989). Causal modeling: A supplementary module for SYSTAT and SYGRAPH. Evanston, IL: SYSTAT.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Comparative studies on US and Chinese mathematics learning and the implications for standards-based mathematics teaching reform",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Lin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Educational Researcher",
+                "volume": "34",
+                "issue": "",
+                "pages": "3--13",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wang, J., & Lin, E. (2005). Comparative studies on US and Chinese mathematics learning and the implications for standards-based mathematics teaching reform. Educational Researcher, 34, 3-13.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Mathematics and science self-concept: An international investigation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L M"
+                        ],
+                        "last": "Wilkins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "The Journal of Experimental Education",
+                "volume": "72",
+                "issue": "",
+                "pages": "331--346",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wilkins, J. L. M. (2004). Mathematics and science self-concept: An international investiga- tion. The Journal of Experimental Education, 72, 331-346.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Self-concept of high school students in China: Confirmatory factor analysis of longitudinal data",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "59",
+                "issue": "",
+                "pages": "431--450",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yeung, A. S., & Lee, F. L. (1999). Self-concept of high school students in China: Confirmatory factor analysis of longitudinal data. Educational and Psychological Measurement, 59, 431-450.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Unification of the reciprocal effects model and the internal/external frame of reference model. Note. Black lines represent positive relationships; grey lines represent negative relationships; dashed lines represent close to zero or negative relationships.",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF1": {
+                "text": "Unification of the reciprocal effects model and the internal/external frame of reference model in Cohort 1. Note. Black lines represent positive relationships; grey lines represent negative relationships; dashed lines represent zero relationships. Standardized path coefficients and unstandardized path coefficients (in the parentheses) are presented. Unification of the reciprocal effects model and the internal/external frame of reference model in Cohort 2. Note. Black lines represent positive relationships; dashed lines represent zero relationships. Standardized path coefficients and unstandardized path coefficients (in the parentheses) are presented.",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "Factor correlations between Chinese/mathematics achievement and Chinese/mathematics self-concept in Cohort 1 (N=380). CH .75 \u204e\u204e .26 \u204e\u204e .60 \u204e\u204e .17 \u204e\u204e -6. CS .27 \u204e\u204e .58 \u204e\u204e .07 \u2212.10 .26 \u204e\u204e -7. MH .58 \u204e\u204e .04 .72 \u204e\u204e .44 \u204e\u204e .69 \u204e\u204e .00 -8. MS .31 \u204e\u204e .03 .50 \u204e\u204e .67 \u204e\u204e .25 \u204e\u204e .08 \u204e\u204e\u204e .46 \u204e\u204e -",
+                "content": "<table><tr><td>Cohort 1</td><td colspan=\"2\">1. CH 2. CS 3. MH 4. MS</td><td>5. CH 6. CS</td><td>7. MH 8. MS</td></tr><tr><td>(N = 380)</td><td/><td/><td/></tr><tr><td colspan=\"2\">Time 1 1. CH -</td><td/><td/></tr><tr><td>2. CS</td><td>.35 \u204e\u204e -</td><td/><td/></tr><tr><td colspan=\"2\">3. MH .78 \u204e\u204e .12 \u204e</td><td>-</td><td/></tr><tr><td colspan=\"2\">4. MS .19 \u204e\u204e .04</td><td>.45 \u204e\u204e -</td><td/></tr><tr><td colspan=\"5\">Time 2 5. Note. Time 1, 2007; Time 2, 2008; CH, Chinese achievement; CS, Chinese self-concept;</td></tr><tr><td colspan=\"4\">MH, mathematics achievement; MS, mathematics self-concept.</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Factor correlations between Chinese/mathematics achievement and Chinese/mathematics self-concept in Cohort 2 (N=402).",
+                "content": "<table><tr><td>Cohort 2</td><td>1. CH 2. CS</td><td>3. MH 4. MS</td><td>5. CH 6. CS</td><td>7. MH 8. MS</td></tr><tr><td>(N = 402)</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Time 1 1. CH -</td><td/><td/><td/></tr><tr><td>2. CS</td><td>.36 \u204e\u204e -</td><td/><td/><td/></tr><tr><td>3. MH</td><td colspan=\"2\">.34 \u204e\u204e \u2212.15 \u204e\u204e -</td><td/><td/></tr><tr><td colspan=\"2\">4. MS \u2212.03 \u2212.17 \u204e\u204e</td><td>.53 \u204e\u204e -</td><td/><td/></tr><tr><td>Time 2 5. CH</td><td>.58 \u204e\u204e .29 \u204e\u204e</td><td>.18 \u204e\u204e \u2212.06</td><td>-</td><td/></tr><tr><td>6. CS</td><td/><td/><td/><td/></tr></table>",
+                "type_str": "table"
+            }
+        }
+    }
+}

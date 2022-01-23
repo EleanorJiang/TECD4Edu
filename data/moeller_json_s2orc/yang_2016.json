@@ -1,0 +1,3395 @@
+{
+    "paper_id": "yang_2016",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:58:00.054798Z"
+    },
+    "title": "Testing the Internal and External Frames of Reference for Academic Self-Concept Among Chinese Vocational Students",
+    "authors": [
+        {
+            "first": "Lan",
+            "middle": [],
+            "last": "Yang",
+            "suffix": "",
+            "affiliation": {},
+            "email": "yanglan@ied.edu.hk"
+        },
+        {
+            "first": "A",
+            "middle": [
+                "Katrin"
+            ],
+            "last": "Arens",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Man",
+            "middle": [
+                "Kate"
+            ],
+            "last": "Xu",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Kuen",
+            "middle": [
+                "Fung"
+            ],
+            "last": "Sin",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Based on a sample of Year 1 vocational students (N = 962) in China, the study presented in this chapter aimed to (1) test the generalizability of the classic internal/external (I/E) frame of reference model of academic self-concept (Marsh, 1986) to vocational students and (2) extend the classic I/E model by incorporating recent developments of the twofold multidimensional structure of academic selfconcept (i.e., its domain-specifi c structure and a further separation between competence-affect components within each domain). Structural equation modeling analyses for testing the I/E model show that paths from math and Chinese achievements to corresponding domains of self-concept were positive and signifi cant, whereas cross-paths to nonmatching self-concept domains were negatively significant. A further analysis by separating competence and affect components within math and Chinese self-concepts reveals that paths from math and Chinese achievements to matching affect components were stronger than those to competence components. This interesting fi nding is discussed in light of the Chinese cultural model of learning. Implications of our fi ndings for the I/E model, self-concept research, and practice are also discussed.",
+    "pdf_parse": {
+        "paper_id": "yang_2016",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Based on a sample of Year 1 vocational students (N = 962) in China, the study presented in this chapter aimed to (1) test the generalizability of the classic internal/external (I/E) frame of reference model of academic self-concept (Marsh, 1986) to vocational students and (2) extend the classic I/E model by incorporating recent developments of the twofold multidimensional structure of academic selfconcept (i.e., its domain-specifi c structure and a further separation between competence-affect components within each domain). Structural equation modeling analyses for testing the I/E model show that paths from math and Chinese achievements to corresponding domains of self-concept were positive and signifi cant, whereas cross-paths to nonmatching self-concept domains were negatively significant. A further analysis by separating competence and affect components within math and Chinese self-concepts reveals that paths from math and Chinese achievements to matching affect components were stronger than those to competence components. This interesting fi nding is discussed in light of the Chinese cultural model of learning. Implications of our fi ndings for the I/E model, self-concept research, and practice are also discussed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Self-concept defi ned as a person's perceptions of the self was regarded as a hierarchical and multidimensional construct (Shavelson, Hubner, & Stanton, 1976 ) , in which global self-concept was posited at the apex of a self-concept hierarchy which was then further divided into two facets: academic and nonacademic self-concepts. Historically, academic self-concept, defi ned as students' self-perceptions in school domains, was conceptualized as a unidimensional higher-order construct that encompasses self-concepts related to math and verbal domains (Marsh, 1986 ; Shavelson et al., 1976 ) . Contrary to this assumption, math and verbal self-concepts were found to be very weakly correlated or to even bear no correlation at all, although math and verbal achievements were found to be substantially correlated (Marsh & Craven, 1997 ; Marsh & Shavelson, 1985 ) . This indicates that academic self-concept is a domain-specifi c construct consisting of separate math and verbal self-concept facets. This property of academic self-concept led to the development of the internal/external (I/E) frames of reference model (Marsh, 1986 ; Marsh & Hau, 2004 ; M\u00f6ller, Retelsdorf, K\u00f6ller, & Marsh, 2011 ) . The I/E model offers a theoretical explanation for the strong distinction between math and verbal self-concepts and also explicates the relations between math and verbal self-concept and achievement measures.",
+                "cite_spans": [
+                    {
+                        "start": 122,
+                        "end": 159,
+                        "text": "(Shavelson, Hubner, & Stanton, 1976 )",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 554,
+                        "end": 568,
+                        "text": "(Marsh, 1986 ;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 569,
+                        "end": 593,
+                        "text": "Shavelson et al., 1976 )",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 814,
+                        "end": 837,
+                        "text": "(Marsh & Craven, 1997 ;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 838,
+                        "end": 863,
+                        "text": "Marsh & Shavelson, 1985 )",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1119,
+                        "end": 1133,
+                        "text": "(Marsh, 1986 ;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1134,
+                        "end": 1153,
+                        "text": "Marsh & Hau, 2004 ;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1154,
+                        "end": 1197,
+                        "text": "M\u00f6ller, Retelsdorf, K\u00f6ller, & Marsh, 2011 )",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "According to the I/E model (Marsh, 1986 ) , the formation of academic self-concept in a particular school subject includes an external (social) comparison process as students compare their self-perceived performances in one school subject with the perceived performances of other students in the same school subject. For example, the higher the math achievement one student has in relation to other students, the more likely the student will perceive him/herself to be good at math, leading to a high math academic self-concept. In an additional internal (dimensional) comparison process (Marsh, 1986 ; , students compare their own performances in one school subject with their performances in other school subjects. For instance, an individual student contrasts his/her accomplishments in math with his/her verbal accomplishments. While the external comparison process leads to positive correlations between self-concepts and achievements in matching domains (e.g., math self-concept and math achievement), the internal comparison process results into negative correlations between self-concept and achievement in nonmatching domains of academic self-concept (e.g., math self-concept and verbal achievement). The effects of the two comparison processes balance each other resulting in the low or even negative correlation between math and verbal self-concepts indicating the often-found separation between math and verbal self-concepts (see Fig. 7 .1 ).",
+                "cite_spans": [
+                    {
+                        "start": 27,
+                        "end": 41,
+                        "text": "(Marsh, 1986 )",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 588,
+                        "end": 602,
+                        "text": "(Marsh, 1986 ;",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1442,
+                        "end": 1448,
+                        "text": "Fig. 7",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "Up to date, there is substantial empirical support for the I/E model in both crosssectional and longitudinal settings (K\u00f6ller, Klemmert, M\u00f6ller, & Baumert, 1999 ; Marsh, Byrne, & Shavelson, 1988 ; Marsh & Koller, 2004 ; Marsh, Kong, & Hau, 2001 ; Marsh et al., 2014 ; Marsh, Xu, & Martin, 2012 ; Marsh & Yeung, 1998 ; M\u00f6ller & K\u00f6ller, 2001 ; M\u00f6ller et al., 2011 ) . The I/E model has been found to be generalizable across students' ability levels (M\u00f6ller, Streblow, & Pohlmann, 2009 ; Mui, Yeung, Low, & Jin, 2000 ; Plucker & Stocking, 2001 ), gender (Marsh & Yeung, 1998 ) , age (Marsh, 1986 ; Tay, Licht, & Tate, 1995 ) , self-concept, and achievement measures (Marsh et al., 2001 ; Xu et al., 2013 ) and has also been confi rmed in experimental designs (M\u00f6ller & K\u00f6ller, 2001 ; . Substantive support for the I/E model further comes from an extensive meta-analysis (M\u00f6ller, Pohlmann, K\u00f6ller, & Marsh, 2009 ) based on 69 data sets ( n = 125,308). Controlling for the effect of verbal achievement to verbal self-concept (.49) and math achievement to math self-concept (.61), verbal achievement negatively predicted math selfconcept (\u2212.27), and math achievement negatively predicted verbal self-concept (\u2212.21). This pattern found in M\u00f6ller et al.'s ( 2009 ) meta-analytic study is consistent with the predictions of the I/E model (Marsh, 1986 ) . Marsh and Hau ( 2004 ) provided evidence of the cross-cultural validity of the I/E model for math and reading self-concepts and achievements across 26 cultural diverse countries based on the Programme for International Student Assessment (PISA) study. More recently, Xu et al. ( 2013 ) expanded the I/E model by evaluating it in relation to two verbal domains (Chinese and English) for native Chinese speakers in Hong Kong schools where the language of instruction was either English or Chinese. The results demonstrated the expected patterns of relations between The classic I/E model predictions based on math and verbal domains (Based on Marsh, 1986 ) . Note : The horizontal lines represent substantially positive effects from achievements to matching domains of self-concepts (++). The cross-paths represent statistically less substantial and negative effects from achievements to nonmatching domains of self-concepts (\u2212). C Chinese, M math, ACH achievement, SC self-concept self-concept and achievement based on previous I/E research (Marsh & Hau, 2004 ; when integrating both Chinese (students' native language) and English (students' nonnative language) as verbal domains. Specifi cally, the paths from math achievement to math self-concept (.61) and from Chinese achievement to Chinese self-concept (.33) were substantially positive, whereas the cross-paths from the achievements of math and Chinese to nonmatching domains of academic self-concept were statistically negative (\u2212.34 for Chinese-math; \u2212.22 for math-Chinese). This pattern was similar in the I/E model for math and English (.58 to .59 for horizontal paths and \u2212.27 to \u2212.30 for cross-paths).",
+                "cite_spans": [
+                    {
+                        "start": 118,
+                        "end": 162,
+                        "text": "(K\u00f6ller, Klemmert, M\u00f6ller, & Baumert, 1999 ;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 163,
+                        "end": 196,
+                        "text": "Marsh, Byrne, & Shavelson, 1988 ;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 197,
+                        "end": 219,
+                        "text": "Marsh & Koller, 2004 ;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 220,
+                        "end": 246,
+                        "text": "Marsh, Kong, & Hau, 2001 ;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 247,
+                        "end": 267,
+                        "text": "Marsh et al., 2014 ;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 268,
+                        "end": 295,
+                        "text": "Marsh, Xu, & Martin, 2012 ;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 296,
+                        "end": 317,
+                        "text": "Marsh & Yeung, 1998 ;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 318,
+                        "end": 341,
+                        "text": "M\u00f6ller & K\u00f6ller, 2001 ;",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 342,
+                        "end": 363,
+                        "text": "M\u00f6ller et al., 2011 )",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 447,
+                        "end": 484,
+                        "text": "(M\u00f6ller, Streblow, & Pohlmann, 2009 ;",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 485,
+                        "end": 515,
+                        "text": "Mui, Yeung, Low, & Jin, 2000 ;",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 516,
+                        "end": 540,
+                        "text": "Plucker & Stocking, 2001",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 551,
+                        "end": 573,
+                        "text": "(Marsh & Yeung, 1998 )",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 580,
+                        "end": 594,
+                        "text": "(Marsh, 1986 ;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 595,
+                        "end": 621,
+                        "text": "Tay, Licht, & Tate, 1995 )",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 663,
+                        "end": 684,
+                        "text": "(Marsh et al., 2001 ;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 685,
+                        "end": 702,
+                        "text": "Xu et al., 2013 )",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 756,
+                        "end": 780,
+                        "text": "(M\u00f6ller & K\u00f6ller, 2001 ;",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 867,
+                        "end": 909,
+                        "text": "(M\u00f6ller, Pohlmann, K\u00f6ller, & Marsh, 2009 )",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1232,
+                        "end": 1256,
+                        "text": "M\u00f6ller et al.'s ( 2009 )",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1329,
+                        "end": 1343,
+                        "text": "(Marsh, 1986 )",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1346,
+                        "end": 1368,
+                        "text": "Marsh and Hau ( 2004 )",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1613,
+                        "end": 1631,
+                        "text": "Xu et al. ( 2013 )",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 1987,
+                        "end": 2000,
+                        "text": "Marsh, 1986 )",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 2386,
+                        "end": 2406,
+                        "text": "(Marsh & Hau, 2004 ;",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The I/E Model",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to well-established and widely documented domain specifi city of academic self-concept (Marsh, 1986 ; Marsh & Hau, 2004 ; Seaton, Marsh, Yeung, & Craven, 2011 ; Xu et al., 2013 ) , recent advances in self-concept research extended the structure of academic self-concept to a further distinction between competence and affect components within each domain of academic self-concept. Originally, academic self-concept was supposed to comprise both evaluative and descriptive components (Marsh, 1990b ; Shavelson et al., 1976 ) . This assumption was integrated in the construction of the Self-Description Questionnaire I (SDQ I), a wellvalidated instrument to assess multiple self-concept facets with preadolescent children (Byrne, 1996 ; Marsh, 1990b Marsh, , 2007 . To measure self-concept in academic domains (math, verbal, general school), the SDQ I integrates competence-related items addressing students' self-perceptions of competence (which are more evaluative) and affect-related items addressing students' motivational and affective responses (which are more descriptive). Both sets of items were originally pooled together to create the domain-specifi c academic self-concept scales. However, an increasing body of studies using confi rmatory factor analyses (CFA) with the SDQ I showed that separate constructs were defi ned by the competencerelated and affect-related items of the SDQ I math and verbal scales in a sample of Australian elementary and secondary students (Marsh, Craven, & Debus, 1999 ) and in a sample of French-Canadian students (Marsh & Ayotte, 2003 ) . It should be noted that these studies (Marsh & Ayotte, 2003 ; Marsh et al., 1999 ) only relied on the within-network approach (Byrne, 1984 ) as they examined the internal structure of academic self-concept using confi rmatory factor analyses. Sophisticated selfconcept validation, however, should rely on both the within-network and the between-network approaches (Byrne, 1984 (Byrne, , 1996 . Arens, Yeung, Craven, and Hasselhorn ( 2011 ) enriched previous research on the competence-affect separation of academic self-concept by taking both the within-network approach and the between-network approaches into account. Based on CFA models with a sample of Grades 3 to 6 German students, Arens et al. ( 2011 ) provided further within-network evidence as competence-related and affect-related items were shown to form distinct factors within math and verbal domains. In between-network analyses, the relation between the competence component of academic self-concept and academic achievement was found to be stronger than the relation between the affect component of academic self-concept and academic achievement. Interestingly, this was the case within and across domains as the competence component of math self-concept was more highly related to math achievement, but also to verbal achievement than the affect component of math self-concept. In parallel, the competence component of verbal self-concept displayed higher relations to verbal achievement but also to math achievement than the affect component. Extending these fi ndings to a sample of Grade 8 Saudi students, Abu-Hilal, Abdelfattah, Alshumrani, Abduljabbar, and found that the internal structure of math and science self-concepts was clearer when competence and affective components within the two domains were separated. In addition, math and science competence self-perceptions were found to share higher relations with math and science achievements compared to the affect self-perceptions of the two selfconcept domains, further suggesting the necessity for separating competence and affect components when examining the relations between academic self-concept and external outcomes such as achievement.",
+                "cite_spans": [
+                    {
+                        "start": 99,
+                        "end": 113,
+                        "text": "(Marsh, 1986 ;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 114,
+                        "end": 133,
+                        "text": "Marsh & Hau, 2004 ;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 134,
+                        "end": 172,
+                        "text": "Seaton, Marsh, Yeung, & Craven, 2011 ;",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 173,
+                        "end": 190,
+                        "text": "Xu et al., 2013 )",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 495,
+                        "end": 510,
+                        "text": "(Marsh, 1990b ;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 511,
+                        "end": 535,
+                        "text": "Shavelson et al., 1976 )",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 732,
+                        "end": 746,
+                        "text": "(Byrne, 1996 ;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 747,
+                        "end": 759,
+                        "text": "Marsh, 1990b",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 760,
+                        "end": 773,
+                        "text": "Marsh, , 2007",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1491,
+                        "end": 1522,
+                        "text": "(Marsh, Craven, & Debus, 1999 )",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1567,
+                        "end": 1590,
+                        "text": "(Marsh & Ayotte, 2003 )",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1631,
+                        "end": 1654,
+                        "text": "(Marsh & Ayotte, 2003 ;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1655,
+                        "end": 1675,
+                        "text": "Marsh et al., 1999 )",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1719,
+                        "end": 1733,
+                        "text": "(Byrne, 1984 )",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1957,
+                        "end": 1969,
+                        "text": "(Byrne, 1984",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1970,
+                        "end": 1984,
+                        "text": "(Byrne, , 1996",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1987,
+                        "end": 2032,
+                        "text": "Arens, Yeung, Craven, and Hasselhorn ( 2011 )",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 2281,
+                        "end": 2302,
+                        "text": "Arens et al. ( 2011 )",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Competence-Affect Separation Within Math and Verbal Self-Concepts",
+                "sec_num": null
+            },
+            {
+                "text": "In a recent study conducted by Pinxten, Marsh, De Fraine, Van den Noortgate, and Van Damme ( 2014 ) with a sample of Grades 3-7 Belgian students, selfperceptions of math competence were also found to yield a larger predictive effect on subsequent math achievement than math affect. Compared to math competence, math affect was found to have a larger impact on subsequent effort expenditure. Based on these fi ndings, academic self-concept is assumed to comprise a twofold multidimensional structure meaning that it is multidimensional (1) in terms of its domain specifi city (the distinction between math and verbal self-concepts) and (2) in terms of the differentiation between competence and affect constructs within each domain (e.g., math competence, math affect). This structural feature tends to apply to students of different countries and cultures (e.g., German (Arens et al., 2011 ) , French-Canadian (Marsh & Ayotte, 2003 ) , Australian (Marsh et al., 1999 ) , and Belgian (Pinxten et al., 2014 )), but so far, there is no evidence regarding its applicability to Chinese students.",
+                "cite_spans": [
+                    {
+                        "start": 870,
+                        "end": 891,
+                        "text": "(Arens et al., 2011 )",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 910,
+                        "end": 933,
+                        "text": "(Marsh & Ayotte, 2003 )",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 947,
+                        "end": 968,
+                        "text": "(Marsh et al., 1999 )",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Competence-Affect Separation Within Math and Verbal Self-Concepts",
+                "sec_num": null
+            },
+            {
+                "text": "To generate a better understanding of interrelations of competence and affect components within Chinese students' academic self-concepts and their achievement relations, we take account of the Chinese cultural model of learning. Li ( 2009 , p. 38) highlighted that \"Children grow up in cultures that have different learning beliefs \u2026. Without understanding what the belief system of a learner is, how it emerges, and how it functions in learning, our knowledge of human learning will be defi cient.\" More importantly, these learning beliefs not only have direct impact on learning and learning outcomes but also shape how students perceive their learning abilities and various types of affect involved in their learning processes.",
+                "cite_spans": [
+                    {
+                        "start": 229,
+                        "end": 247,
+                        "text": "Li ( 2009 , p. 38)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Chinese Cultural Model of Learning: Competence and Affect Beliefs Embedding in It",
+                "sec_num": null
+            },
+            {
+                "text": "Based on systematic qualitative approaches to study Chinese students' conceptualization of learning and how Chinese students would describe how an ideal student learns, Li ( 2001 Li ( , 2002 found that fi ve virtues are perceived to be essential in Chinese students' learning processes: (1) the notion of resolve, (2) diligence, (3) endurance of hardship, (4) perseverance, and (5) concentration. Importantly, Chinese learners \"believe that once they have developed the learning virtues, they can apply them to all learning activities and processes\" (Li, 2009 , p. 61) . Li ( 2002 ) conceptualized these learning beliefs of Chinese students as a cultural model of learning, in which they emphasize both \"heart and mind for wanting to learn\" (p. 248). This also echoes to Hau and his colleagues' research on Chinese students' incremental beliefs of personal abilities and the perceived compensatory relation between personal effort and abilities among Chinese learners (Hau & Ho, 2008 ; Hau & Salili, 1996b ) . It is also important to note that based on the cultural learning model developed by Li ( 2002 ) , there are four types of affect that are essential in sustainable learning processes (i.e., passion/thirst for learning, commitment, respect, and humility). In the light of the Chinese cultural model of learning, it would be reasonable to assume that, compared to competence self-perceptions, affect self-perceptions might be similarly or even more highly related to achievement among Chinese students. This would be different to previous fi ndings with students from other countries which demonstrated that self-perceptions of competence in math and verbal domains shared higher relations with matching achievements than the self-perceptions of affect (e.g., Abu-Hilal et al., 2013 ; Arens et al., 2011 ; Pinxten et al., 2014 ) .",
+                "cite_spans": [
+                    {
+                        "start": 169,
+                        "end": 178,
+                        "text": "Li ( 2001",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 179,
+                        "end": 190,
+                        "text": "Li ( , 2002",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 550,
+                        "end": 568,
+                        "text": "(Li, 2009 , p. 61)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 571,
+                        "end": 582,
+                        "text": "Li ( 2002 )",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 968,
+                        "end": 985,
+                        "text": "(Hau & Ho, 2008 ;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 986,
+                        "end": 1007,
+                        "text": "Hau & Salili, 1996b )",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1094,
+                        "end": 1105,
+                        "text": "Li ( 2002 )",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1767,
+                        "end": 1791,
+                        "text": "Abu-Hilal et al., 2013 ;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1792,
+                        "end": 1812,
+                        "text": "Arens et al., 2011 ;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1813,
+                        "end": 1835,
+                        "text": "Pinxten et al., 2014 )",
+                        "ref_id": "BIBREF51"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Chinese Cultural Model of Learning: Competence and Affect Beliefs Embedding in It",
+                "sec_num": null
+            },
+            {
+                "text": "The structure of academic self-concept has been well documented to be domain specifi c rather than unidimensional based on a substantial body of research on the I/E model (see for a meta-analytic review; see also Skaalvik & Skaalvik, 2002 ) . Moving a step further, an increasing body of research on academic self-concept has extended its domain-specifi c structure to a further separation between competence and affect components within domain-specifi c self-concepts (e.g., math competence and math affect: Arens et al., 2011 ; Pinxten et al., 2014 ) . Although the I/E model has been extended to Chinese students (Marsh et al., 2001 ; Xu et al., 2013 ) , the contexts were limited to mainstream education. In addition, support for the distinctiveness between competence and affect components of academic self-concept has mainly originated from students in Western and Arab countries (Abu-Hilal et al., 2013 ; Arens et al., 2011 ; Marsh et al., 1999 ; Pinxten et al., 2014 ) . We thus encounter two research gaps with regard to Chinese students' academic self-concepts: (1) The I/E model has not been tested for vocational students in China which might constitute a different student population. Compared to students in the mainstream education, vocational students are usually from lower academic levels (Zhao & Lu, 2007 ) and are learning primarily for early employment (Cooke, 2005 ; Kuczera & Field, 2010 ) .",
+                "cite_spans": [
+                    {
+                        "start": 213,
+                        "end": 240,
+                        "text": "Skaalvik & Skaalvik, 2002 )",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 509,
+                        "end": 529,
+                        "text": "Arens et al., 2011 ;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 530,
+                        "end": 552,
+                        "text": "Pinxten et al., 2014 )",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 616,
+                        "end": 637,
+                        "text": "(Marsh et al., 2001 ;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 638,
+                        "end": 655,
+                        "text": "Xu et al., 2013 )",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 886,
+                        "end": 911,
+                        "text": "(Abu-Hilal et al., 2013 ;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 912,
+                        "end": 932,
+                        "text": "Arens et al., 2011 ;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 933,
+                        "end": 953,
+                        "text": "Marsh et al., 1999 ;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 954,
+                        "end": 976,
+                        "text": "Pinxten et al., 2014 )",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 1307,
+                        "end": 1325,
+                        "text": "(Zhao & Lu, 2007 )",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 1374,
+                        "end": 1388,
+                        "text": "(Cooke, 2005 ;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1389,
+                        "end": 1412,
+                        "text": "Kuczera & Field, 2010 )",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Present Investigation",
+                "sec_num": null
+            },
+            {
+                "text": "(2) Research on the generalizability of the twofold multidimensional structure of academic self-concept in Eastern countries such as China is largely lacking. We also detect a more general research question, which is not restricted to Chinese students: The competence-affect separation within math and verbal self-concepts has not yet integrated into the I/E model. Based on this, this study aims to test the generalizability of the classic I/E model to Chinese vocational students ( Fig. 7.1 ). Second, we aim to examine whether Chinese vocational students also display separate competence and affect components within domain-specifi c academic self-concept facets and to fi nally extend the classic I/E to the separation between competence and affect components of math and verbal self-concepts ( Fig. 7.2 ) .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 484,
+                        "end": 492,
+                        "text": "Fig. 7.1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 799,
+                        "end": 809,
+                        "text": "Fig. 7.2 )",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The Present Investigation",
+                "sec_num": null
+            },
+            {
+                "text": "The sample of the present study consisted of 962 secondary students from China's vocational education [529 (55 %) male, 420 (43.7 %) female; 13 (1.4 %) with no gender indicated]. Students' age ranged between 14 and 24 years ( M = 16.59, Marsh, 1986 ) . Note : The horizontal lines represent substantially positive effects from achievements to competence and affect components within matching domains of self-concepts (++), respectively. The cross-paths represent statistically less substantial and negative effects from achievements to competence and affect components within nonmatching domains of self-concepts (\u2212). C Chinese, M math, ACH achievement, aff affect self-perception, com competence self-perception SD = 1.17). Ethical approval and consent forms from all stakeholders of the data collection were gained before administration of the survey. Chinese secondary vocational education usually lasts three years. In the fi rst year, math and Chinese are compulsory basic subjects. But in the second and third school years, vocational training courses are students' core courses, while math and Chinese are usually optional subjects. In this study, all students are from the fi rst school year of secondary vocational education.",
+                "cite_spans": [
+                    {
+                        "start": 237,
+                        "end": 250,
+                        "text": "Marsh, 1986 )",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": null
+            },
+            {
+                "text": "The Chinese version of the SDQ I (Watkins, Dong, & Xia, 1995 ) was used in the present study. Whereas the items for measuring math self-concept from the original English SDQ I (Marsh, 1990a ) were retained for the Chinese SDQ I, students' selfconcept related to Chinese as their native language was measured instead of reading self-concept as assessed in the original SDQ I. The Chinese self-concept scale was created by rewording and adapting the items of the reading self-concept scale (e.g., using \"I get good marks in Chinese\" to replace \"I get good marks in reading\"). Each scale (i.e., math and Chinese self-concept scales) consisted of ten items (eight positively worded items and two negatively worded items). The ten items of each scale can be further divided into fi ve (four positive and one negative) competence-related items asking for students' self-perceptions of competence and fi ve affect-related (four positive and one negative) items referring to students' self-perceptions of enjoyment and interest toward Chinese and math, respectively. To answer to these items, students rated on a 5-point Likert-type scale whether the items statements were false (1), mostly false (2), sometimes false, sometimes true (3), mostly true (4), or true (5). The fi rst author administered the survey to the targeted vocational students during regular class time with assistance of local teachers. Students participated in the survey on a voluntary basis. Negatively worded items were reversely coded before all analyses to facilitate the interpretations of results. Students' school grades in math and Chinese were used as indicators for students' achievements in these subjects. The grades were obtained from the school-based test fi les in the fi rst school year. School grades in China usually range from 0 to 100 with 0 depicting the worst and 100 the best grade.",
+                "cite_spans": [
+                    {
+                        "start": 33,
+                        "end": 62,
+                        "text": "(Watkins, Dong, & Xia, 1995 )",
+                        "ref_id": "BIBREF59"
+                    },
+                    {
+                        "start": 176,
+                        "end": 191,
+                        "text": "(Marsh, 1990a )",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "To fulfi ll our research purposes, two steps of statistical analyses were conducted. At the fi rst step, CFA models were conducted to test the internal structure of academic self-concept among vocational students. According to the original assumption of Shavelson et al. ( 1976 ) , Model 1 depicted a general academic self-concept (i.e., no domain specifi city) as all items relating to math and verbal (i.e., Chinese) selfconcepts were assumed to load on a common factor. Model 2 stated a domain-specifi c structure of academic self-concept with two separate factors for math and Chinese self-concepts (based on Marsh et al., 1988 ) . Model 3 additionally assumed the separation between competence and affect components within math and Chinese self-concepts (Arens et al., 2011 ) as the competence-related and affectrelated items of each domain defi ned separate factors (i.e., math competence, math affect, Chinese competence, Chinese affect) . Based on Models 2 and 3, we then tested the classic I/E model at the domain-specifi c level for math and Chinese selfconcepts (i.e., the classic I/E model; Model 4; see also Fig. 7 .3 ) and at the component-specifi c level by separating competence and affect components within math and Chinese self-concepts, respectively (Model 5; see also Fig. 7.4 ). For this For detailed statistics of a full model incorporating the competence-affect separation (See Appendix B (Fig. 7.6 ))",
+                "cite_spans": [
+                    {
+                        "start": 254,
+                        "end": 279,
+                        "text": "Shavelson et al. ( 1976 )",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 613,
+                        "end": 633,
+                        "text": "Marsh et al., 1988 )",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 759,
+                        "end": 780,
+                        "text": "(Arens et al., 2011 )",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1121,
+                        "end": 1127,
+                        "text": "Fig. 7",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1288,
+                        "end": 1296,
+                        "text": "Fig. 7.4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1412,
+                        "end": 1421,
+                        "text": "(Fig. 7.6",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "purpose, we integrated achievement factors in math and Chinese which were defi ned by the single indicators of students' school grades in the respective domains with their uniquenesses set to zero. All analyses were conducted in Mplus Version 7.11 (Muth\u00e9n & Muth\u00e9n, 1998 . The amount of missing values for the total responses to the math and Chinese self-concept scales was small, ranging from 0.5 to 1.6 % (with an average of 0.9 %). Missing values were estimated by the Full Information Maximum Likelihood (FIML) in Mplus (see Enders, 2010 for further details). The robust maximum likelihood estimator (MLR) was applied in all analyses involved in this study. Correlated uniquenesses between parallel-worded items used to measure students' selfconcepts in math and Chinese (e.g., \"I enjoy doing work in math-Chinese\"; \"I am good at math-Chinese\") were included in all analyses (e.g., Marsh et al., 2013 ) . In addition, to consider a possible method artifact related to negatively worded items (Marsh, Scalas, & Nagengast, 2010 ) , all latent models included correlated uniquenesses between the negatively worded items of the two scales. Model fi t was evaluated by the chi-square statistic with its degrees of freedom along with other widely accepted goodness-of-fi t indices, namely, the comparative fi t index (CFI), the Tucker-Lewis index (TLI), the root mean square error of approximation (RMSEA), and the standardized root mean square residual (SRMR). For CFI and TLI, values between .90 and .95 indicate a reasonable fi t and larger than .95 indicate a good fi t (Bentler, 1990 ) . For RMSEA and SRMR, values between .05 and .08 suggest an acceptable fi t (Kline, 2005 ) and values below .05 indicate a good fi t (Hooper, Coughlan, & Mullen, 2008 ) .",
+                "cite_spans": [
+                    {
+                        "start": 248,
+                        "end": 270,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 1998",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 886,
+                        "end": 906,
+                        "text": "Marsh et al., 2013 )",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 996,
+                        "end": 1031,
+                        "text": "(Marsh, Scalas, & Nagengast, 2010 )",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1572,
+                        "end": 1588,
+                        "text": "(Bentler, 1990 )",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1665,
+                        "end": 1677,
+                        "text": "(Kline, 2005",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1722,
+                        "end": 1757,
+                        "text": "(Hooper, Coughlan, & Mullen, 2008 )",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "The descriptive statistics and reliability estimates for the math and Chinese selfconcept scales and the competence and affect components of each domain are presented in Table 7 .1 . The results showed that the internal consistencies of each domain-specifi c academic scale and their competence-related and affect-related subscales were satisfactory and suffi cient for use with Chinese vocational students (Cronbach's alphas ranging from .76 to .90). Table 7 .2 presents the results of the series of the CFA models applied to examine the structure of academic self-concept among Chinese vocational students. The results showed that the one-factor model without considering the domain specifi city of academic self-concept had the poorest fi t to the data (CFI = .523, TLI = .419, RMSEA = .139), compared to Models 2 and 3. The four-factor model (Model 3) separating competence and affect components within verbal and math domains demonstrated the best fi t indices (CFI = .965, TLI = .956, RMSEA = .038) and was superior to the fi t of Model 2 which only stated domain specifi city of academic selfconcept with no further separation between competence and affect components (CFI = .950, TLI = .939, RMSEA = .045). Table 7 .3 depicts the standardized factor correlations resulting from Model 2. Math and Chinese self-concepts were nearly unrelated to each other ( r = .10) demonstrating their distinctiveness. Table 7 .3 includes the standardized factor correlations resulting from Model 3 incorporating the competence-affect separation within math and Chinese self-concepts. The results further supported the domain specifi city of academic self-concept as well as the separation between competence and affect components as the competence components of math and Chinese self-concepts were correlated close to zero ( r = .09). This was also evident for the affect components related to math and Chinese self-concepts ( r = .14). The strong separation between math and Chinese self-concept domains was further supported by the observation of near-zero relations between math affect and Chinese competence self-perceptions ( r = .08) and between math competence and Chinese affect selfperceptions ( r = .06). Additionally, although the competence and affect components within math and Chinese self-concept domains were highly correlated ( r = .96; r = .87, p < .001, respectively), their correlations were not perfect, further demonstrating their separable feature.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 170,
+                        "end": 177,
+                        "text": "Table 7",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 452,
+                        "end": 459,
+                        "text": "Table 7",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1215,
+                        "end": 1222,
+                        "text": "Table 7",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1410,
+                        "end": 1417,
+                        "text": "Table 7",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Model 4 tested the classic I/E model for verbal (Chinese) and math domains, while Model 5 additionally took the competence-affect separation into account. The results showed that Model 5 (see also Fig. 7.4 ) fi tted the data better than Model 4 (Fig. 7. 3 ), lending further support to the competence-affect separation within verbal and math self-concepts. Table 7 .4 presents the standardized paths coeffi cients resulting for two I/E models estimated in the present study. Consistent with previous research (e.g., Xu et al., 2013 ) , math and Chinese achievements were positively and signifi cantly correlated ( r = .59). For Model 4, the results showed that the paths from math and Chinese achievements to matching domains of academic self-concept Model 4 (see also Fig. 7 .3) Model 5 (see also Fig. 7.4 Table 7 .4 Summary of standardized path coeffi cients of the classic I/E model (the self-concepts of math versus Chinese)",
+                "cite_spans": [
+                    {
+                        "start": 516,
+                        "end": 533,
+                        "text": "Xu et al., 2013 )",
+                        "ref_id": "BIBREF60"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 197,
+                        "end": 205,
+                        "text": "Fig. 7.4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 245,
+                        "end": 253,
+                        "text": "(Fig. 7.",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 357,
+                        "end": 364,
+                        "text": "Table 7",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 769,
+                        "end": 775,
+                        "text": "Fig. 7",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 798,
+                        "end": 806,
+                        "text": "Fig. 7.4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 807,
+                        "end": 814,
+                        "text": "Table 7",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The I/E Model of Academic Self-Concept: Math and Chinese",
+                "sec_num": null
+            },
+            {
+                "text": "Note. C Chinese, M math, COM competence self-perception, AFF affect self-perception, SC self-concept *** p < .001, **. p < .01, * p < .05 were positive and signifi cant ( \u03b2 = .457, p < .001 for math, \u03b2 = .377, p < .001 for Chinese), whereas the cross-paths to nonmatching domains of academic selfconcept were signifi cantly negative ( \u03b2 = \u2212.102, p < .05 for the math-Chinese path and \u03b2 = \u2212.151, p < .001 for the Chinese-math path). When extending this classic I/E model by integrating the competence-affect separation (Model 5), we found that the paths leading from math achievement to math competence self-perception ( \u03b2 = .432, p < .001) and affect self-perception ( \u03b2 = .469, p < .001) and from Chinese achievement to Chinese competence self-perception ( \u03b2 = .316, p < .001) and affect selfperception ( \u03b2 = .395, p < .001) were all positive and signifi cant. The cross-paths from math and Chinese achievements to nonmatching competence and affect selfperceptions (e.g., from math achievement to Chinese competence self-perception or from Chinese achievement to math competence self-perception) were all negative and statistically signifi cant, ranging from \u03b2 = \u2212.094, p < .05 to \u03b2 = \u2212.157, p < .001 (see also Fig. 7.4 ) .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1212,
+                        "end": 1222,
+                        "text": "Fig. 7.4 )",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The I/E Model of Academic Self-Concept: Math and Chinese",
+                "sec_num": null
+            },
+            {
+                "text": "The major purposes of the present investigation were (1) to test the classic I/E model with vocational students in China and (2) to test whether Chinese vocational students also differentiate between competence and affect components of domainspecifi c academic self-concepts in order to fi nally expand the classic I/E model by incorporating this competence-affect separation of academic self-concept. With regard to the fi rst aim, the present study found evidence of the validity of the classic I/E model for Chinese vocational students. Previous research on the I/E model has demonstrated a broad generalizability of the I/E model across students of different achievement levels, gender, and age (for comprehensive reviews, see Marsh, 2007 ; M\u00f6ller & Marsh, 2013 ; ; see also Skaalvik & Skaalvik, 2002 ; Tay et al., 1995 ) . Hence, this study expanded evidence of the broad generalizability of the I/E model by supporting it within a sample of Chinese vocational students as a special population of students who are usually perceived as coming from lowachieving backgrounds (Zhao & Lu, 2007 ) and whose learning purposes are mainly for acquiring knowledge and vocational skills as compared to their counterparts in mainstream education.",
+                "cite_spans": [
+                    {
+                        "start": 731,
+                        "end": 744,
+                        "text": "Marsh, 2007 ;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 745,
+                        "end": 767,
+                        "text": "M\u00f6ller & Marsh, 2013 ;",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 779,
+                        "end": 806,
+                        "text": "Skaalvik & Skaalvik, 2002 ;",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 807,
+                        "end": 825,
+                        "text": "Tay et al., 1995 )",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 1077,
+                        "end": 1095,
+                        "text": "(Zhao & Lu, 2007 )",
+                        "ref_id": "BIBREF63"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "An interesting fi nding of the present study addresses the contrast effects originating from using internal frames of reference in dimensional comparisons. Specifi cally, the cross-path coeffi cients between nonmatching achievement and self-concept measures (i.e., from Chinese achievement to math self-concept and from math achievement to Chinese self-concept) were weaker than found in the I/E study conducted by Xu et al. ( 2013 ) with a sample of Chinese students in mainstream education. This result could be explained in light of current developments of dimensional comparison theory seeking to address three key questions, \"why [compare],\"\"[compare] with what,\" or \"with what effect [these comparisons would produce]\" (M\u00f6ller & Marsh, 2013 , p. 544) , and in relation to the role of math and native language (i.e., Chinese) in mainstream and vocational education. For example, given the less salient role of math and Chinese in vocational schools compared to core vocational training courses, vocational students' motivations to make use of dimensional comparisons (i.e., \"why compare\") between the two school subjects may be less important than for mainstream students (for whom math and Chinese are two core school subjects). Similarly, given the less salient role of math and Chinese as school subjects in vocational education compared to mainstream education, it is likely that standard and target domains of academic self-concept involved in vocational students' dimensional comparisons (i.e., \"compare with what\") might not be limited to Chinese and math, but might also include the self-concepts of other core vocational training courses and subjects. Hence, the strength of contrast effects between math and Chinese produced by dimensional comparison processes may differ between vocational students and students from mainstream education (e.g., Xu et al., 2013 ) .",
+                "cite_spans": [
+                    {
+                        "start": 415,
+                        "end": 433,
+                        "text": "Xu et al. ( 2013 )",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 725,
+                        "end": 756,
+                        "text": "(M\u00f6ller & Marsh, 2013 , p. 544)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1861,
+                        "end": 1878,
+                        "text": "Xu et al., 2013 )",
+                        "ref_id": "BIBREF60"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "It is also important to note that the classic I/E model does not consider the separation between competence and affect components within domain-specifi c academic self-concepts, which was, however, demonstrated in previous studies with Western students (Arens et al., 2011 ; Marsh & Ayotte, 2003 ; Pinxten et al., 2014 ) and in this study with Chinese vocational students. The fi nding that Chinese vocational students were also demonstrated to differentiate between competence and affect self-perceptions in math and verbal domains adds to the generalizability of the twofold multidimensional structure of academic self-concept across countries and cultures. This fi nding is particularly remarkable in the context of the cultural model of learning beliefs, as, according to this, Chinese students were expected to differentiate between competence and affect self-perceptions to a lesser extent.",
+                "cite_spans": [
+                    {
+                        "start": 253,
+                        "end": 274,
+                        "text": "(Arens et al., 2011 ;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 275,
+                        "end": 297,
+                        "text": "Marsh & Ayotte, 2003 ;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 298,
+                        "end": 320,
+                        "text": "Pinxten et al., 2014 )",
+                        "ref_id": "BIBREF51"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "With regard to the I/E model extended to the inclusion of competence and affect components, the fi ndings demonstrated higher effects of math and Chinese achievements on the affect components of matching domains of self-concept as compared to the effects of math and Chinese achievements on the competence components of domain-matching self-concepts. This pattern of results provided further evidence of the necessity for the separation between competence and affect components within self-concept domains. In a previous study conducted with German primary and secondary students (Arens et al., 2011 ) , stronger correlations were found between selfperceptions of math and verbal (German) competence and matching domains of achievement than between affect self-perceptions and achievement. Similarly, Abu-Hilal and his colleagues found that Saudi secondary students' math competence self-perception shared a higher relation with math achievement than students' affect self-perception in the math domain (Abu-Hilal et al., 2013 ) . Another study conducted with Grades 3-7 students (Pinxten et al., 2014 ) also showed that the selfperception of math competence had a stronger correlation with math achievement than the self-perceptions of math affect. Thus, the fi ndings of this study showing higher relations of math and Chinese achievements to matching affect self-concepts than to matching self-perceptions of competence were somewhat unexpected. We might be able to explain these fi ndings in the context of the particular sample of Chinese vocational students and the cultural model of learning beliefs (Li, 2002 (Li, , 2009 . The relatively higher relation between affect self-perceptions and achievement might be reasonable in light of the core role of positive affect (e.g., passion/ thirst to learn, perseverance) involved in learning processes, as well as the compensatory relationship between students' positive affect toward learning (e.g., effort, endurance of hardship) and abilities (Hau & Ho, 2008 ; Hau & Salili, 1996a , 1996b Li, 2009 ) . These fi ndings thus enrich the current scope of research on the relations between academic achievement and competence and affect components, which make the present study remarkable.",
+                "cite_spans": [
+                    {
+                        "start": 580,
+                        "end": 601,
+                        "text": "(Arens et al., 2011 )",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1003,
+                        "end": 1028,
+                        "text": "(Abu-Hilal et al., 2013 )",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1080,
+                        "end": 1103,
+                        "text": "(Pinxten et al., 2014 )",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 1607,
+                        "end": 1616,
+                        "text": "(Li, 2002",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1617,
+                        "end": 1628,
+                        "text": "(Li, , 2009",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1997,
+                        "end": 2014,
+                        "text": "(Hau & Ho, 2008 ;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 2015,
+                        "end": 2034,
+                        "text": "Hau & Salili, 1996a",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 2035,
+                        "end": 2042,
+                        "text": ", 1996b",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 2043,
+                        "end": 2053,
+                        "text": "Li, 2009 )",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The fi ndings of this study bear important implications for research on the classic I/E model given that existing literature on its cross-cultural generalizability has been primarily based on responses from mainstream elementary or secondary and higher education students (Marsh & Hau, 2004 ; M\u00f6ller, Zimmermann, & K\u00f6ller, 2014 ) . Extending the I/E model to Chinese vocational students, the present study provided evidence that the joint operation of both external (social) and internal (dimensional) comparison processes in the formation of students' academic self-concept is also applicable to this group of students (Marsh & Hau, 2004 ; . This fi nding contributes to existing literature on the classic I/E model of academic self-concept and to the broad generalizability of the I/E model.",
+                "cite_spans": [
+                    {
+                        "start": 272,
+                        "end": 292,
+                        "text": "(Marsh & Hau, 2004 ;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 293,
+                        "end": 329,
+                        "text": "M\u00f6ller, Zimmermann, & K\u00f6ller, 2014 )",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 620,
+                        "end": 640,
+                        "text": "(Marsh & Hau, 2004 ;",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications",
+                "sec_num": null
+            },
+            {
+                "text": "Besides theoretical contributions, these fi ndings may hold practical implications to self-concept enhancement research. Self-concept enhancement is of great importance given the positive implications of a high level of self-concept for various learning outcomes (Marsh & Craven, 2006 ; Marsh & O'Mara, 2008 ) . Based on the fi ndings of a further distinctiveness between competence and affect components and their strong associations with academic achievement, Chinese students' academic self-concept may benefi t from enhancement interventions targeting to promote both their self-perceptions of competence and affect. Additionally, the differentiable feature of the two self-concept components also allows researchers and practitioners to fl exibly design educational interventions to promote them respectively or jointly. It is also important to note that feedback enhancement approaches which have been found to effectively enhance students' self-concept in previous research in Western countries (e.g., Craven, Marsh, & Burnett, 2003 ; Craven, Marsh, & Debus, 1991 ) and Chinese students (Chan & Lam, 2010 ; Yang & Watkins, 2013 ) can be adapted to enhance students' self-perceptions of both competence and affect in need.",
+                "cite_spans": [
+                    {
+                        "start": 263,
+                        "end": 286,
+                        "text": "(Marsh & Craven, 2006 ;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 287,
+                        "end": 309,
+                        "text": "Marsh & O'Mara, 2008 )",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1009,
+                        "end": 1041,
+                        "text": "Craven, Marsh, & Burnett, 2003 ;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1042,
+                        "end": 1072,
+                        "text": "Craven, Marsh, & Debus, 1991 )",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1094,
+                        "end": 1113,
+                        "text": "(Chan & Lam, 2010 ;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1114,
+                        "end": 1136,
+                        "text": "Yang & Watkins, 2013 )",
+                        "ref_id": "BIBREF61"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications",
+                "sec_num": null
+            },
+            {
+                "text": "Despite its contribution to the generalizability of the classic I/E model and its extension to the competence-affect separation within verbal and math self-concepts in a sample of Chinese vocational students, several limitations of this study should be noted. First, this study is only cross-sectional in nature. For a deeper understanding of the formation of academic self-concept of vocational students, longitudinal studies are needed to test the development of students' capabilities of differentiating between the competence and affect self-concept components within and across academic domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and Directions for Future Research",
+                "sec_num": null
+            },
+            {
+                "text": "With respect to verbal self-concept, consistent with the classic I/E model, only the domain of Chinese (the native language for Chinese vocational students) was considered in the present study. To broaden the current scope of incorporating the competence-affect separation in the I/E model, future studies should also consider nonnative languages (e.g., English for Chinese students). Given that vocational students have core vocational training courses in addition to courses in math, native language, and nonnative languages, vocational students' academic self-concept may further comprise other important domains. As such, it seems to be worthwhile to integrate such self-concepts related to vocational training domains to generate a comprehensive understanding of the generalizability of the I/E model and the twofold multidimensional structure of academic self-concept among the population of Chinese vocational students. Our study was mainly based on a sample of vocational students from mainland China, and comparative data from mainstream students were not included. Future studies should realize a design which includes not only vocational students but also students from other educational forms (e.g., mainstream secondary, higher education) in China and other East Asian countries. Finally, the present study used students' school grades as achievement indicators. In addition to academic achievement, future studies should consider a broader range of outcome criteria, for example, approaches to learning (Kember & Watkins, 2010 ; Watkins & Biggs, 1996 ) , effort expenditure to school subjects (McInerney, Yeung, & McInerney, 2001 ) , and incremental beliefs of abilities (Blackwell, Trzesniewski, & Dweck, 2007 ) to generate a deeper understanding of the relations between Asian students' self-perceptions and learning outcomes.",
+                "cite_spans": [
+                    {
+                        "start": 1517,
+                        "end": 1542,
+                        "text": "(Kember & Watkins, 2010 ;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1543,
+                        "end": 1566,
+                        "text": "Watkins & Biggs, 1996 )",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 1607,
+                        "end": 1645,
+                        "text": "(McInerney, Yeung, & McInerney, 2001 )",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1685,
+                        "end": 1726,
+                        "text": "(Blackwell, Trzesniewski, & Dweck, 2007 )",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and Directions for Future Research",
+                "sec_num": null
+            },
+            {
+                "text": "In the past two decades of self-concept research and theory, academic self-concept has been well documented to be highly associated with academic achievement and other desirable educational outcomes (for comprehensive reviews, see Marsh & Martin, 2011 ; Marsh & Retali, 2010 ) . Hence, to foster and maintain students' positive academic self-concept should be an important goal across different levels and types of education. However, these fi ndings mainly originated from students in mainstream education, and research on academic self-concept of students in vocational education has been limited. The present study extended previous research on academic self-concept to vocational students in Mainland China. The results supported the generalizability of the twofold multidimensional structure of academic self-concept, lending important evidence of generalizability for this recently established characteristic of students' academic self-concept. By testing the classic I/E model among Chinese vocational students, the present study added further evidence of its broad generalizability. Most importantly, the present study extended previous studies on the I/E model to Chinese vocational students by incorporating the competence-affect separation within self-concept domains. The results demonstrated differential effects from math and verbal achievements to the competence and affect components of math and verbal self-concepts, suggesting the signifi cance of integrating the competence-affect separation of academic self-concept to future studies on the I/E model. Future studies are also needed to broaden the results by testing them in longitudinal studies which should also use larger and more diverse samples and integrate a range of outcome variables and self-concept facets.",
+                "cite_spans": [
+                    {
+                        "start": 231,
+                        "end": 253,
+                        "text": "Marsh & Martin, 2011 ;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 254,
+                        "end": 276,
+                        "text": "Marsh & Retali, 2010 )",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "The I/E Model for Academic Self-Concept",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Construct validity of self-concept in TIMSS's student background questionnaire: A test of separation and confl ation of cognitive and affective dimensions of self-concept among Saudi eighth graders",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Abu-Hilal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Abdelfattah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Alshumrani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abduljabbar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "European Journal of Psychology of Education",
+                "volume": "28",
+                "issue": "4",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/s10212-012-0162-1"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Abu-Hilal, M. M., Abdelfattah, F. A., Alshumrani, S. A., Abduljabbar, A. S., & Marsh, H. W. (2013). Construct validity of self-concept in TIMSS's student background questionnaire: A test of separation and confl ation of cognitive and affective dimensions of self-concept among Saudi eighth graders. European Journal of Psychology of Education, 28 (4), 1201-1220. doi: 10.1007/ s10212-012-0162-1",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The twofold multidimensionality of academic self-concept: Domain specifi city and separation between competence and affect components",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Arens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Hasselhorn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of Educational Psychology",
+                "volume": "103",
+                "issue": "4",
+                "pages": "970--981",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Arens, A. K., Yeung, A. S., Craven, R. G., & Hasselhorn, M. (2011). The twofold multidimension- ality of academic self-concept: Domain specifi city and separation between competence and affect components. Journal of Educational Psychology, 103 (4), 970-981.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Comparative fi t indexes in structural models",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Psychological Bulletin",
+                "volume": "107",
+                "issue": "2",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bentler, P. M. (1990). Comparative fi t indexes in structural models. Psychological Bulletin, 107 (2), 238.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Implicit theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Blackwell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Trzesniewski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Child Development",
+                "volume": "78",
+                "issue": "1",
+                "pages": "246--263",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention. Child Development, 78 (1), 246-263.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The general/academic self-concept nomological network: A review of construct validation research",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Review of Educational Research",
+                "volume": "54",
+                "issue": "3",
+                "pages": "427--456",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1984). The general/academic self-concept nomological network: A review of con- struct validation research. Review of Educational Research, 54 (3), 427-456.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Measuring self-concept across the life span: Issues and instrumentation",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1996). Measuring self-concept across the life span: Issues and instrumentation . Washington, DC: American Psychological Association.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Effects of different evaluative feedback on students' selfeffi cacy in learning",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C Y"
+                        ],
+                        "last": "Chan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Lam",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Instructional Science",
+                "volume": "38",
+                "issue": "1",
+                "pages": "37--58",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chan, J. C. Y., & Lam, S. F. (2010). Effects of different evaluative feedback on students' self- effi cacy in learning. Instructional Science, 38 (1), 37-58.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Vocational and enterprise training in China: Policy, practice and prospect",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Cooke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of the Asia Pacifi c Economy",
+                "volume": "10",
+                "issue": "1",
+                "pages": "26--55",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cooke, F. L. (2005). Vocational and enterprise training in China: Policy, practice and prospect. Journal of the Asia Pacifi c Economy, 10 (1), 26-55.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Cracking the self-concept enhancement conundrum: A call and blueprint for the next generation of self-concept enhancement research",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Burnett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "International advances in self research",
+                "volume": "1",
+                "issue": "",
+                "pages": "91--126",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Craven, R. G., Marsh, H. W., & Burnett, P. C. (2003). Cracking the self-concept enhancement conundrum: A call and blueprint for the next generation of self-concept enhancement research. In H. W. Marsh, R. G. Craven, & D. M. McInerney (Eds.), International advances in self research (Vol. 1, pp. 91-126). Greenwich, CT: Information Age.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Effects of internally focused feedback and attributional feedback on enhancement of academic self-concept",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Debus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Journal of Educational Psychology",
+                "volume": "83",
+                "issue": "1",
+                "pages": "17--27",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Craven, R. G., Marsh, H. W., & Debus, R. L. (1991). Effects of internally focused feedback and attributional feedback on enhancement of academic self-concept. Journal of Educational Psychology, 83 (1), 17-27.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Applied missing data analysis",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Enders",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Enders, C. K. (2010). Applied missing data analysis . New York: Guilford Press.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Editorial: Insights from research on Asian students' achievement motivation",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Ho",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "International Journal of Psychology",
+                "volume": "43",
+                "issue": "5",
+                "pages": "865--869",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hau, K. T., & Ho, I. T. (2008). Editorial: Insights from research on Asian students' achievement motivation. International Journal of Psychology, 43 (5), 865-869.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Achievement goals and causal attributions of chinese students",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Salili",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hau, K. T., & Salili, F. (1996a). Achievement goals and causal attributions of chinese students. In S. Lau (Ed.), Growing up the Chinese way: Child and adolescent development . Hong Kong: The Chinese University Press.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Prediction of academic performance among Chinese students: Effort can compensate for lack of ability",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Salili",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Organizational Behavior and Human Decision Processes",
+                "volume": "65",
+                "issue": "2",
+                "pages": "83--94",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hau, K. T., & Salili, F. (1996b). Prediction of academic performance among Chinese students: Effort can compensate for lack of ability. Organizational Behavior and Human Decision Processes, 65 (2), 83-94.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Structural equation modelling: guidelines for determining model fi t",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Hooper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Coughlan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Mullen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Electronic Journal of Business Research Methods",
+                "volume": "6",
+                "issue": "1",
+                "pages": "53--60",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hooper, D., Coughlan, J., & Mullen, M. (2008). Structural equation modelling: guidelines for determining model fi t. Electronic Journal of Business Research Methods, 6 (1), 53-60.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Approaches to learning and teaching by the Chinese",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kember",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Watkins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "169--186",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kember, D., & Watkins, D. (2010). Approaches to learning and teaching by the Chinese. In M. H. Bond (Ed.), The Oxford handbook of Chinese psychology (pp. 169-186). New York: Oxford University Press.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Principles and practice of structural equation modeling",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Kline",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kline, R. B. (2005). Principles and practice of structural equation modeling (2nd ed.). New York: Guilford Press.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Eine l\u00e4ngsschnittliche \u00dcberpr\u00fcfung des Modells des internal/external frame of reference",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Klemmert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+                "volume": "13",
+                "issue": "3",
+                "pages": "128--134",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "K\u00f6ller, O., Klemmert, H., M\u00f6ller, J., & Baumert, J. (1999). Eine l\u00e4ngsschnittliche \u00dcberpr\u00fcfung des Modells des internal/external frame of reference. Zeitschrift f\u00fcr P\u00e4dagogische Psychologie, 13 (3), 128-134.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Learning for jobs: OECD reviews of vocational education and training: options for China",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kuczera",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Field",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kuczera, M., & Field, S. (2010) Learning for jobs: OECD reviews of vocational education and training: options for China . Paris: Organisation for Economic Co-operation and Development (OECD).",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Learning to self-perfect: Chinese beliefs about learning",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Revisiting the Chinese learner",
+                "volume": "",
+                "issue": "",
+                "pages": "35--69",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Li, J. (2009). Learning to self-perfect: Chinese beliefs about learning. In C. K. K. Chan & N. Rao (Eds.), Revisiting the Chinese learner (pp. 35-69). Dordrecht, The Netherlands: Springer.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Chinese conceptualization of learning",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Ethos",
+                "volume": "29",
+                "issue": "2",
+                "pages": "111--137",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Li, J. (2001). Chinese conceptualization of learning. Ethos, 29 (2), 111-137.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "A cultural model of learning -Chinese \"heart and mind for wanting to learn",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Journal of Cross-Cultural Psychology",
+                "volume": "33",
+                "issue": "3",
+                "pages": "248--269",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Li, J. (2002). A cultural model of learning -Chinese \"heart and mind for wanting to learn\". Journal of Cross-Cultural Psychology, 33 (3), 248-269.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Verbal and math self-concepts: An internal external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "1",
+                "pages": "129--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concepts: An internal external frame of reference model. American Educational Research Journal, 23 (1), 129-149.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Self description questionnaire (SDQ) I: A theoretical and empirical basis for the measurement of multiple dimensions of preadolescent self-concept: A test manual and a research monograph",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990a). Self description questionnaire (SDQ) I: A theoretical and empirical basis for the measurement of multiple dimensions of preadolescent self-concept: A test manual and a research monograph . Sydney, Australia: University of Western Sydney.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "The structure of academic self-concept: The Marsh/Shavelson model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "4",
+                "pages": "623--636",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990b). The structure of academic self-concept: The Marsh/Shavelson model. Journal of Educational Psychology, 82 (4), 623-636.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Self-concept theory, measurement and research into practice: The role of self-concept in educational psychology",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (2007). Self-concept theory, measurement and research into practice: The role of self-concept in educational psychology . Leicester, UK: British Psychological Society.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Do multiple dimensions of self-concept become more differentiated with age? The differential distinctiveness hypothesis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Ayotte",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Educational Psychology",
+                "volume": "95",
+                "issue": "4",
+                "pages": "687--706",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Ayotte, V. (2003). Do multiple dimensions of self-concept become more differen- tiated with age? The differential distinctiveness hypothesis. Journal of Educational Psychology, 95 (4), 687-706.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "A multifaceted academic self-concept: Its hierarchical structure and its relation to academic achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Educational Psychology",
+                "volume": "80",
+                "issue": "3",
+                "pages": "366--380",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Byrne, B. M., & Shavelson, R. J. (1988). A multifaceted academic self-concept: Its hierarchical structure and its relation to academic achievement. Journal of Educational Psychology, 80 (3), 366-380.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Academic self-concept: Beyond the dustbowl",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Handbook of classroom assessment: Learning, achievement, and adjustment",
+                "volume": "",
+                "issue": "",
+                "pages": "131--198",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Craven, R. (1997). Academic self-concept: Beyond the dustbowl. In G. Phye (Ed.), Handbook of classroom assessment: Learning, achievement, and adjustment (pp. 131- 198). Orlando, FL: Academic Press.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Reciprocal effects of self-concept and performance from a multidimensional perspective beyond seductive pleasure and unidimensional perspectives",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Perspectives on Psychological Science",
+                "volume": "1",
+                "issue": "2",
+                "pages": "133--163",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Craven, R. G. (2006). Reciprocal effects of self-concept and performance from a multidimensional perspective beyond seductive pleasure and unidimensional perspectives. Perspectives on Psychological Science, 1 (2), 133-163.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Separation of competency and affect components of multiple dimensions of academic self-concept: A developmental perspective",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Debus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Merrill-Palmer Quarterly-Journal of Developmental Psychology",
+                "volume": "45",
+                "issue": "4",
+                "pages": "567--601",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Craven, R., & Debus, R. (1999). Separation of competency and affect components of multiple dimensions of academic self-concept: A developmental perspective. Merrill- Palmer Quarterly-Journal of Developmental Psychology, 45 (4), 567-601.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Explaining paradoxical relations between academic selfconcepts and achievements: Cross-cultural generalizability of the internal/external frame of reference predictions across 26 countries",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Educational Psychology",
+                "volume": "96",
+                "issue": "1",
+                "pages": "56--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hau, K. T. (2004). Explaining paradoxical relations between academic self- concepts and achievements: Cross-cultural generalizability of the internal/external frame of reference predictions across 26 countries. Journal of Educational Psychology, 96 (1), 56-67.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Unifi cation of theoretical models of academic self-concept/ achievement relations: Reunifi cation of east and west German school systems after the fall of the Berlin Wall",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Koller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "29",
+                "issue": "3",
+                "pages": "264--282",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Koller, O. (2004). Unifi cation of theoretical models of academic self-concept/ achievement relations: Reunifi cation of east and west German school systems after the fall of the Berlin Wall. Contemporary Educational Psychology, 29 (3), 264-282.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Extension of the internal/external frame of reference model of self-concept formation: Importance of native and nonnative languages for Chinese students",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Kong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "3",
+                "pages": "543--553",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Kong, C. K., & Hau, K. T. (2001). Extension of the internal/external frame of refer- ence model of self-concept formation: Importance of native and nonnative languages for Chinese students. Journal of Educational Psychology, 93 (3), 543-553.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Reciprocal effects between academic self-concept, selfesteem, achievement, and attainment over seven adolescent years: Unidimensional and multidimensional perspectives of self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Mara",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "34",
+                "issue": "4",
+                "pages": "542--552",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & O'Mara, A. (2008). Reciprocal effects between academic self-concept, self- esteem, achievement, and attainment over seven adolescent years: Unidimensional and multi- dimensional perspectives of self-concept. Personality and Social Psychology Bulletin, 34 (4), 542-552.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Longitudinal tests of competing factor structures for the rosenberg self-esteem scale: Traits, ephemeral artifacts, and stable response styles",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Scalas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nagengast",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Psychological Assessment",
+                "volume": "22",
+                "issue": "2",
+                "pages": "366--381",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Scalas, L. F., & Nagengast, B. (2010). Longitudinal tests of competing factor struc- tures for the rosenberg self-esteem scale: Traits, ephemeral artifacts, and stable response styles. Psychological Assessment, 22 (2), 366-381.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Self-concept: Its multifaceted, hierarchical structure",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Educational Psychologist",
+                "volume": "20",
+                "issue": "3",
+                "pages": "107--123",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Shavelson, R. (1985). Self-concept: Its multifaceted, hierarchical structure. Educational Psychologist, 20 (3), 107-123.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Self-concept: A synergy of theory, method, and application",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Xu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Martin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "APA educational psychology handbook",
+                "volume": "1",
+                "issue": "",
+                "pages": "427--458",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Xu, M., & Martin, A. J. (2012). Self-concept: A synergy of theory, method, and application. In K. R. G. Harris, T. Urdan, C. B. McCormick, G. M. Sinatra, & J. Sweller (Eds.), APA educational psychology handbook (Vol. 1, pp. 427-458). Washington, DC: American Psychological Association.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Longitudinal structural equation models of academic selfconcept and achievement: Gender differences in the development of math and English constructs",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "American Educational Research Journal",
+                "volume": "35",
+                "issue": "4",
+                "pages": "705--738",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Yeung, A. S. (1998). Longitudinal structural equation models of academic self- concept and achievement: Gender differences in the development of math and English con- structs. American Educational Research Journal, 35 (4), 705-738.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Factorial, convergent, and discriminant validity of timss math and science motivation measures: A comparison of arab and anglo-saxon countries",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abduljabbar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Abu-Hilal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J S"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Abdelfattah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Leung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Journal of Educational Psychology",
+                "volume": "105",
+                "issue": "1",
+                "pages": "108--128",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/A0029907"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Abduljabbar, A. S., Abu-Hilal, M. M., Morin, A. J. S., Abdelfattah, F., & Leung, K. C. (2013). Factorial, convergent, and discriminant validity of timss math and science moti- vation measures: A comparison of arab and anglo-saxon countries. Journal of Educational Psychology, 105 (1), 108-128. doi: 10.1037/A0029907",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Academic self-concept and academic achievement: Relations and causal ordering",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Martin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "81",
+                "issue": "1",
+                "pages": "59--77",
+                "other_ids": {
+                    "DOI": [
+                        "10.1348/000709910x503501"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Martin, A. J. (2011). Academic self-concept and academic achievement: Relations and causal ordering. British Journal of Educational Psychology, 81 (1), 59-77. doi: 10.1348/000709910x503501",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Internal/ external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Xu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nagengast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Pekrun",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "International encyclopedia of social and behavioral sciences",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., M\u00f6ller, J., Parker, P., Xu, M. K., Nagengast, B., & Pekrun, R. (2014). Internal/ external frame of reference model. In TBC (Ed.), International encyclopedia of social and behavioral sciences (2 ed.). TBC.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Academic self-concept: The role of positive self-beliefs in educational psychology",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Retali",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "International handbook of psychology in education",
+                "volume": "",
+                "issue": "",
+                "pages": "499--534",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Retali, K. (2010). Academic self-concept: The role of positive self-beliefs in educational psychology. In K. Littleton, C. P. Wood & J. Kleine Staarman (Eds.), International handbook of psychology in education (pp. 499-534). Bingley, UK: Emerald.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Cross-cultural validation of the inventory of school motivation (ISM): Motivation orientations of Navajo and Anglo students",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mcinerney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Mcinerney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Applied Measurement",
+                "volume": "2",
+                "issue": "2",
+                "pages": "135--153",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McInerney, D. M., Yeung, A. S., & McInerney, V. (2001). Cross-cultural validation of the inven- tory of school motivation (ISM): Motivation orientations of Navajo and Anglo students. Journal of Applied Measurement, 2 (2), 135-153.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Dimensional comparisons: An experimental approach to the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "4",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & K\u00f6ller, O. (2001). Dimensional comparisons: An experimental approach to the inter- nal/external frame of reference model. Journal of Educational Psychology, 93 (4), 826.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic selfconcept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Review of Educational Research",
+                "volume": "79",
+                "issue": "3",
+                "pages": "1129--1167",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Pohlmann, B., K\u00f6ller, O., & Marsh, H. W. (2009). A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self- concept. Review of Educational Research, 79 (3), 1129-1167.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "The reciprocal internal/external frame of reference model an integration of models of relations between academic achievement and self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "American Educational Research Journal",
+                "volume": "48",
+                "issue": "6",
+                "pages": "1315--1346",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Retelsdorf, J., K\u00f6ller, O., & Marsh, H. W. (2011). The reciprocal internal/external frame of reference model an integration of models of relations between academic achievement and self-concept. American Educational Research Journal, 48 (6), 1315-1346.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Achievement and self-concept of students with learning disabilities",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Streblow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Social Psychology of Education",
+                "volume": "12",
+                "issue": "1",
+                "pages": "113--122",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Streblow, L., & Pohlmann, B. (2009). Achievement and self-concept of students with learning disabilities. Social Psychology of Education, 12 (1), 113-122.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Dimensional comparison theory",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Psychological Review",
+                "volume": "120",
+                "issue": "3",
+                "pages": "544--560",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/A0032459"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & Marsh, H. W. (2013). Dimensional comparison theory. Psychological Review, 120 (3), 544-560. doi: 10.1037/A0032459",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "The reciprocal internal/external frame of reference model using grades and test scores",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Zimmermann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/bjep.12047"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Zimmermann, F., & K\u00f6ller, O. (2014). The reciprocal internal/external frame of refer- ence model using grades and test scores. British Journal of Educational Psychology , n/a-n/a. doi: 10.1111/bjep.12047",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Academic self-concept of talented students: Factor structure and applicability of the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "L L"
+                        ],
+                        "last": "Mui",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Low",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Jin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal for the Education of the Gifted",
+                "volume": "23",
+                "issue": "3",
+                "pages": "343--367",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mui, F. L. L., Yeung, A. S., Low, R., & Jin, P. T. (2000). Academic self-concept of talented stu- dents: Factor structure and applicability of the internal/external frame of reference model. Journal for the Education of the Gifted, 23 (3), 343-367.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Enjoying mathematics or feeling competent in mathematics? Reciprocal effects on mathematics achievement and perceived math effort expenditure",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Ca",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Pinxten",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "De Fraine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Van Den Noortgate",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Van Damme",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Mplus user's guide",
+                "volume": "84",
+                "issue": "",
+                "pages": "152--174",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth\u00e9n, L., & Muth\u00e9n, B. (1998-2013) Mplus user's guide (7 ed.). Los Angeles, CA. Pinxten, M., Marsh, H. W., De Fraine, B., Van den Noortgate, W., & Van Damme, J. (2014). Enjoying mathematics or feeling competent in mathematics? Reciprocal effects on mathemat- ics achievement and perceived math effort expenditure. British Journal of Educational Psychology, 84 (1), 152-174.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Looking outside and inside: Self-concept development of gifted adolescents",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Plucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Stocking",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Exceptional Children",
+                "volume": "67",
+                "issue": "4",
+                "pages": "535--548",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Plucker, J. A., & Stocking, V. B. (2001). Looking outside and inside: Self-concept development of gifted adolescents. Exceptional Children, 67 (4), 535-548.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "On the benefi t of dimensional comparisons",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Educational Psychology",
+                "volume": "101",
+                "issue": "1",
+                "pages": "248--258",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pohlmann, B., & M\u00f6ller, J. (2009). On the benefi t of dimensional comparisons. Journal of Educational Psychology, 101 (1), 248-258.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "The big fi sh down under: Examining moderators of the 'big-fi sh-little-pond' effect for Australia's high achievers",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seaton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Australian Journal of Education",
+                "volume": "55",
+                "issue": "2",
+                "pages": "93--114",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Seaton, M., Marsh, H. W., Yeung, A. S., & Craven, R. (2011). The big fi sh down under: Examining moderators of the 'big-fi sh-little-pond' effect for Australia's high achievers. Australian Journal of Education, 55 (2), 93-114.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Self-concept: Validation of construct interpretations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hubner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Stanton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Review of Educational Research",
+                "volume": "46",
+                "issue": "3",
+                "pages": "407--441",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shavelson, R. J., Hubner, J. J., & Stanton, G. C. (1976). Self-concept: Validation of construct inter- pretations. Review of Educational Research, 46 (3), 407-441.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Internal and external frames of reference for academic self-concept",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Educational Psychologist",
+                "volume": "37",
+                "issue": "4",
+                "pages": "233--244",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Skaalvik, S. (2002). Internal and external frames of reference for academic self-concept. Educational Psychologist, 37 (4), 233-244.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "The internal/external frame of reference in adolescents' math and verbal self-concepts: A generalization study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Tay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Licht",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Tate",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "20",
+                "issue": "4",
+                "pages": "392--402",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tay, M. P., Licht, B. G., & Tate, R. L. (1995). The internal/external frame of reference in adoles- cents' math and verbal self-concepts: A generalization study. Contemporary Educational Psychology, 20 (4), 392-402.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "The Chinese learner: Cultural, psychological, and contextual infl uences",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Watkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Biggs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Watkins, D., & Biggs, J. (1996). The Chinese learner: Cultural, psychological, and contextual infl uences . Hong Kong: Hong Kong University Press.",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "Towards the validation of a chinese version of the selfdescription questionnaire-1",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Watkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Dong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Xia",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Psychologia",
+                "volume": "38",
+                "issue": "1",
+                "pages": "22--30",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Watkins, D., Dong, Q., & Xia, Y. (1995). Towards the validation of a chinese version of the self- description questionnaire-1. Psychologia, 38 (1), 22-30.",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "The internal/external frame of reference of academic self-concept: Extension to a foreign language and the role of language of instruction",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Xu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Ho",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abduljabbar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Journal of Educational Psychology",
+                "volume": "105",
+                "issue": "2",
+                "pages": "489--503",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Xu, M. K., Marsh, H. W., Hau, K. T., Ho, I. T., Morin, A. J., & Abduljabbar, A. S. (2013). The internal/external frame of reference of academic self-concept: Extension to a foreign language and the role of language of instruction. Journal of Educational Psychology, 105 (2), 489-503.",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "The effectiveness of two treatments to enhance academic selfconcept among low-achieving secondary school students in China",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Yang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Watkins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yang, L., & Watkins, D. A. (2013). The effectiveness of two treatments to enhance academic self- concept among low-achieving secondary school students in China. In Y. Kashima, E. S.",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "International Association for Cross-Cultural Psychology",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "160--166",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kashima, & R. Beatson (Eds.), Steering the cultural dynamics (pp. 160-166). Melbourne, Australia: International Association for Cross-Cultural Psychology.",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "China's TVET teachers and their professionalization",
+                "authors": [
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Zhao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Lu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "International perspectives on teachers and lecturers in technical and vocational education",
+                "volume": "",
+                "issue": "",
+                "pages": "55--75",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Zhao, Z., & Lu, L. (2007). China's TVET teachers and their professionalization. In P. Grollmann & F. Rauner (Eds.), International perspectives on teachers and lecturers in technical and voca- tional education (pp. 55-75). The Netherlands: Springer.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Fig. 7.1 The classic I/E model predictions based on math and verbal domains (Based on Marsh, 1986 ). Note : The horizontal lines represent substantially positive effects from achievements to matching domains of self-concepts (++). The cross-paths represent statistically less substantial and negative effects from achievements to nonmatching domains of self-concepts (\u2212). C Chinese, M math, ACH achievement, SC self-concept",
+                "uris": null
+            },
+            "FIGREF1": {
+                "num": null,
+                "type_str": "figure",
+                "text": "The classic I/E model by incorporating the competence-affect separation within math and verbal self-concepts (Adapted from",
+                "uris": null
+            },
+            "FIGREF2": {
+                "num": null,
+                "type_str": "figure",
+                "text": "The classic I/E model for math and Chinese among Year 1 vocational students. Note. For the sake of clarity, only standardized internal and external path coeffi cients are presented in this fi gure. For detailed statistics of a full model of the classic I/E model for math and Chinese domains (See Appendix A(Fig. 7The classic I/E model by incorporating the competence-affect separation. Note. For the sake of clarity, only standardized internal and external path coeffi cients are presented in this fi gure.",
+                "uris": null
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "Descriptive statistics and reliability estimates for the variables Note. CFI comparative fi t index, TLI Tucker-Lewis index, RMSEA root mean square error of approximation, CI confi dence interval, SRMR standardized root mean squared residual. All models were estimated by the maximum likelihood estimator with robust standard errors (MLR) and inte-",
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td/><td/><td colspan=\"2\">Means</td><td>SD</td><td>\u03b1</td></tr><tr><td colspan=\"4\">Domains of academic self-concept</td><td/><td/></tr><tr><td colspan=\"3\">Math self-concept (MSC)</td><td/><td colspan=\"2\">2.83</td><td>0.97</td><td>.90</td></tr><tr><td colspan=\"4\">Chinese self-concept (CSC)</td><td colspan=\"2\">3.36</td><td>0.83</td><td>.88</td></tr><tr><td colspan=\"4\">Components within each domain</td><td/><td/></tr><tr><td colspan=\"3\">Math affect (MAFF)</td><td/><td colspan=\"2\">2.90</td><td>1.06</td><td>.85</td></tr><tr><td colspan=\"4\">Math competence (MCOM)</td><td colspan=\"2\">2.76</td><td>0.98</td><td>.80</td></tr><tr><td colspan=\"3\">Chinese affect (CAFF)</td><td/><td colspan=\"2\">3.56</td><td>0.93</td><td>.82</td></tr><tr><td colspan=\"4\">Chinese competence (CCOM)</td><td colspan=\"2\">3.16</td><td>0.85</td><td>.76</td></tr><tr><td colspan=\"3\">Academic achievement</td><td/><td/><td/></tr><tr><td colspan=\"2\">Math achievement</td><td/><td/><td colspan=\"2\">64.98</td><td>13.95</td><td>-</td></tr><tr><td colspan=\"3\">Chinese achievement</td><td/><td colspan=\"2\">66.58</td><td>15.61</td><td>-</td></tr><tr><td colspan=\"4\">Note. \u03b1 = coeffi cient alpha reliability</td><td/><td/></tr><tr><td colspan=\"6\">Table 7.2 Goodness-of-fi t indices of CFA and I/E model</td></tr><tr><td/><td/><td/><td/><td/><td>RMSEA</td></tr><tr><td colspan=\"2\">Model \u03c7 2</td><td>df</td><td colspan=\"2\">CFI TLI RMSEA</td><td colspan=\"2\">90 % CI SRMR Model description</td></tr><tr><td>1</td><td colspan=\"3\">3046.93 156 .523 .419 .139</td><td/><td>[.135;</td><td>.184</td><td>CFA: one-factor</td></tr><tr><td/><td/><td/><td/><td/><td>.143]</td><td>model for global</td></tr><tr><td/><td/><td/><td/><td/><td/><td>academic self-concept</td></tr><tr><td/><td/><td/><td/><td/><td/><td>defi ned by math and</td></tr><tr><td/><td/><td/><td/><td/><td/><td>Chinese self-concepts</td></tr><tr><td>2</td><td>457.78</td><td colspan=\"2\">155 .950 .939 .045</td><td/><td>[.040;</td><td>.054</td><td>CFA: two-factor</td></tr><tr><td/><td/><td/><td/><td/><td>.050]</td><td>model for math and</td></tr><tr><td/><td/><td/><td/><td/><td/><td>Chinese self-concept</td></tr><tr><td>3</td><td>359.82</td><td colspan=\"2\">150 .965 .956 .038</td><td/><td>[.033;</td><td>.052</td><td>CFA: four-factor</td></tr><tr><td/><td/><td/><td/><td/><td>.043]</td><td>model. Domain</td></tr><tr><td/><td/><td/><td/><td/><td/><td>specifi city of</td></tr><tr><td/><td/><td/><td/><td/><td/><td>academic self-concept</td></tr><tr><td/><td/><td/><td/><td/><td/><td>and differentiation</td></tr><tr><td/><td/><td/><td/><td/><td/><td>between competence</td></tr><tr><td/><td/><td/><td/><td/><td/><td>and affect components</td></tr><tr><td>4</td><td colspan=\"3\">519.715 191 .952 .942 .042</td><td/><td>[.038;</td><td>.050</td><td>The classical I/E</td></tr><tr><td/><td/><td/><td/><td/><td>.047]</td><td>model (math and</td></tr><tr><td/><td/><td/><td/><td/><td/><td>verbal domains)</td></tr><tr><td>5</td><td colspan=\"3\">408.467 182 .967 .958 .036</td><td/><td>[.031;</td><td>.048</td><td>I/E model (with a</td></tr><tr><td/><td/><td/><td/><td/><td>.041]</td><td>differentiation</td></tr><tr><td/><td/><td/><td/><td/><td/><td>between competence</td></tr><tr><td/><td/><td/><td/><td/><td/><td>and affect components</td></tr><tr><td/><td/><td/><td/><td/><td/><td>within each domain)</td></tr></table>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Standardized factor correlations from Models 2 and 3",
+                "type_str": "table",
+                "content": "<table><tr><td/><td>Math</td><td>Math</td><td/><td/></tr><tr><td/><td>self-concept</td><td>affect</td><td>Math competence</td><td>Chinese affect</td></tr><tr><td>Chinese self-concept</td><td>.098*</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Math competence</td><td>-</td><td>.961***</td><td>-</td><td>-</td></tr><tr><td>Chinese affect</td><td>-</td><td>.140**</td><td>.063</td><td>-</td></tr><tr><td>Chinese competence</td><td>-</td><td>.079</td><td>.094*</td><td>.872***</td></tr><tr><td colspan=\"2\">Note : * p &lt; .05, **p &lt; .01, *** p &lt; .001</td><td/><td/><td/></tr></table>"
+            }
+        }
+    }
+}

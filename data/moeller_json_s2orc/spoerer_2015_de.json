@@ -1,0 +1,1422 @@
+{
+    "paper_id": "spoerer_2015_de",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:56:15.284948Z"
+    },
+    "title": "In der vorliegenden Studie wurden die Zusammenh\u00e4nge zwischen fachlichen Kompetenzen, Sozialklima und Facetten des Selbstkonzepts unter den Bedingungen des inklusiven Lernens in der Primarstufe untersucht. Es wurden N = 1280 Sch\u00fclerinnen und Sch\u00fcler aus 61 Klassen des 2. und 3. Jahrgangs zu ihrem sprachlichen, mathematischen und sozialen Selbstkonzept sowie zum Sozialklima der Klasse befragt. Zudem wurden die Kompetenzen der Kinder im Lesen, Rechtschreiben und in Mathematik mittels standardisierter Schulleistungstests erhoben. Die Auswertung erfolgte mehrebenen-analytisch. Es zeigten sich bedeutsame positive Zusammenh\u00e4nge zwischen den fachlichen Selbstkonzepten und den korrespondierenden Leistungen sowie zwischen dem sozialen Selbstkonzept und dem Sozialklima. Der Vergleich von Sch\u00fclerinnen und Sch\u00fclern einer Klasse, die sich zwar im F\u00f6rderstatus, nicht jedoch in soziodemographischen und leistungsbezogenen Merkmalen unterschieden, ergab keine Unterschiede in den Selbstkonzepten",
+    "authors": [
+        {
+            "first": "Schlagw\u00f6rter",
+            "middle": [
+                ":"
+            ],
+            "last": "Inklusion",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "",
+            "middle": [],
+            "last": "Grundschule",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "",
+            "middle": [],
+            "last": "Kompetenz",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "In the present study, the relations between students' performance, perceived social climate, and self-concept in inclusive learning settings were investigated. Data analyses were based on a sample of N = 1280 primary school students from 61 classes. Students' academic performance was assessed by standardized reading, writing, and arithmetic tests. Social classroom climate and academic and social self-concept were assessed by a questionnaire. Using multilevel analyses, academic achievement turned out to be a significant predictor of the corresponding academic self-concept. Social climate was related to social self-concept. While controlling for socio-demographic aspects and academic achievement, no differences in academic and social self-concepts were found between students with and without special educational needs.",
+    "pdf_parse": {
+        "paper_id": "spoerer_2015_de",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "In the present study, the relations between students' performance, perceived social climate, and self-concept in inclusive learning settings were investigated. Data analyses were based on a sample of N = 1280 primary school students from 61 classes. Students' academic performance was assessed by standardized reading, writing, and arithmetic tests. Social classroom climate and academic and social self-concept were assessed by a questionnaire. Using multilevel analyses, academic achievement turned out to be a significant predictor of the corresponding academic self-concept. Social climate was related to social self-concept. While controlling for socio-demographic aspects and academic achievement, no differences in academic and social self-concepts were found between students with and without special educational needs.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Mit der Unterzeichnung der UN-Behindertenrechtskonvention im Jahr 2009 wird die Qualit\u00e4t schulischer Bildung auch in Deutschland st\u00e4rker aus der Perspektive des inklusiven Lernens betrachtet. Schulische Inklusion bedeutet dabei, dass alle Kinder eine gemeinsame Schule besuchen und in ihrer individuellen akademischen und pers\u00f6nlichen Entwicklung bestm\u00f6glich durch ein multiprofessionelles Team unterst\u00fctzt werden (Prengel, 2013) . Diese positive Entwicklung aller Sch\u00fclerinnen und Sch\u00fcler soll durch einen \"guten\" gemeinsamen Unterricht erreicht werden, der mittels binnendifferenzierender Methoden auf die Verschiedenheit der Kinder eingeht (Preuss-Lausitz, 2014) .",
+                "cite_spans": [
+                    {
+                        "start": 414,
+                        "end": 429,
+                        "text": "(Prengel, 2013)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 643,
+                        "end": 665,
+                        "text": "(Preuss-Lausitz, 2014)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Einleitung",
+                "sec_num": "1"
+            },
+            {
+                "text": "Ob Kinder mit ganz unterschiedlichen Lernvoraussetzungen im gemeinsamen Unterricht wirkungsvoll gef\u00f6rdert werden, wurde bereits in zahlreichen Studien untersucht. Dabei bildete bislang die Frage, wo Sch\u00fclerinnen und Sch\u00fcler mit sonderp\u00e4dagogischem F\u00f6rderbedarf (SPF) optimal in ihren kognitiven Kompetenzen gef\u00f6rdert werden k\u00f6nnen -an F\u00f6rderschulen oder in inklusiven Settings der Regelschule -, einen wichtigen Schwerpunkt nationaler sowie internationaler Studien (Klemm, 2010) . Aktuelle \u00dcberblicksarbeiten zeigen eine gro\u00dfe Bandbreite hinsichtlich der Effektivit\u00e4t inklusiven Unterrichts im Vergleich zum Unterricht in F\u00f6rderschulen (Lindsay, 2007; Ruijs & Peetsma, 2009) . Im Mittel sind die Vorteilseffekte klein, sie sprechen aber daf\u00fcr, dass die kognitive Kompetenzentwicklung der Kinder und Jugendlichen in inklusiven Settings etwas g\u00fcnstiger verl\u00e4uft als in separierenden Settings (Baker, Wang & Walberg, 1994; Myklebust, 2006) .",
+                "cite_spans": [
+                    {
+                        "start": 465,
+                        "end": 478,
+                        "text": "(Klemm, 2010)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 636,
+                        "end": 651,
+                        "text": "(Lindsay, 2007;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 652,
+                        "end": 674,
+                        "text": "Ruijs & Peetsma, 2009)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 890,
+                        "end": 919,
+                        "text": "(Baker, Wang & Walberg, 1994;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 920,
+                        "end": 936,
+                        "text": "Myklebust, 2006)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Einleitung",
+                "sec_num": "1"
+            },
+            {
+                "text": "Dar\u00fcber hinaus stellt sich die Frage, ob Kinder in ihrer lernmotivationalen und sozialen Entwicklung durch inklusiven Unterricht wirkungsvoll unterst\u00fctzt werden (Huber & Wilbert, 2012; Krull, Wilbert & Hennemann, 2014) . Nach derzeitigem Forschungsstand zeigt sich, dass Sch\u00fclerinnen und Sch\u00fcler mit SPF h\u00e4ufiger sozial ausgegrenzt werden (Ellinger & Stein, 2012; Kavale & Vorness, 1996) . Inwiefern sich Sch\u00fclerinnen und Sch\u00fcler mit SPF in das Klassenleben integriert f\u00fchlen, wurde hingegen kaum systematisch untersucht. In der vorliegenden Untersuchung soll daher betrachtet werden, wie sich Sch\u00fclerinnen und Sch\u00fcler inklusiv unterrichteter Klassen selbst einsch\u00e4tzen und in welchem Zusammenhang Facetten des Selbstkonzepts mit akademischen Kompetenzen und dem Sozialklima einer Klasse stehen.",
+                "cite_spans": [
+                    {
+                        "start": 161,
+                        "end": 184,
+                        "text": "(Huber & Wilbert, 2012;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 185,
+                        "end": 218,
+                        "text": "Krull, Wilbert & Hennemann, 2014)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 339,
+                        "end": 363,
+                        "text": "(Ellinger & Stein, 2012;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 364,
+                        "end": 387,
+                        "text": "Kavale & Vorness, 1996)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Einleitung",
+                "sec_num": "1"
+            },
+            {
+                "text": "Unter dem Begriff des Selbstkonzepts werden die Kognitionen einer Person \u00fcber sich selbst zusammengefasst (Moschner & Dickh\u00e4user, 2010) . Marsh und Hattie (1996) zufolge l\u00e4sst sich das Selbstkonzept hierarchisch in verschiedene Inhaltsbereiche gliedern. Im Rahmen der Forschung zum inklusiven Unterricht sind dabei jene Bereiche besonders relevant, die die Selbsteinsch\u00e4tzungen eigener Leistungen (akademisches Selbstkonzept) und sozialer Beziehungen (soziales Selbstkonzept) beinhalten.",
+                "cite_spans": [
+                    {
+                        "start": 106,
+                        "end": 135,
+                        "text": "(Moschner & Dickh\u00e4user, 2010)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 138,
+                        "end": 161,
+                        "text": "Marsh und Hattie (1996)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Theoretischer Hintergrund",
+                "sec_num": "2"
+            },
+            {
+                "text": "Aus theoretischer Perspektive werden Effekte inklusiven Lernens auf das akademische und soziale Selbstkonzept von Sch\u00fclerinnen und Sch\u00fclern vermutet, die mit dem Regelunterricht vergleichbar sind. Bezogen auf das akademische Selbstkonzept wird davon ausgegangen, dass Sch\u00fclerinnen und Sch\u00fcler mit SPF in inklusiven Settings aufgrund der leistungsst\u00e4rkeren Peers eher schwache Auspr\u00e4gungen in dieser Facette des Selbstkonzepts aufweisen (Fischteich-Effekt; Marsh, 2005) . Bez\u00fcglich des sozialen Selbstkonzepts werden gleichfalls eher ung\u00fcnstige Effekte f\u00fcr Kinder mit SPF vermutet, da sie im gemeinsamen Unterricht sozialen Referenzierungsprozessen unterliegen, die zum Erleben von Ausgrenzung f\u00fchren k\u00f6nnen (Swanson & Malone, 1992) .Vergleichen sich Sch\u00fclerinnen und Sch\u00fcler mit SPF mit Peers ihrer Klasse, die sehr gut integriert sind und viel Lehrersympathie erfahren, so w\u00fcrde dies zu schw\u00e4cheren Auspr\u00e4gungen des sozialen Selbstkonzepts f\u00fchren.",
+                "cite_spans": [
+                    {
+                        "start": 456,
+                        "end": 468,
+                        "text": "Marsh, 2005)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 707,
+                        "end": 731,
+                        "text": "(Swanson & Malone, 1992)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Theoretischer Hintergrund",
+                "sec_num": "2"
+            },
+            {
+                "text": "\u00dcberblicksarbeiten, in denen Facetten des Selbstkonzepts von inklusiv lernenden Kindern betrachtet wurden, ergaben deutliche Unterschiede im akademischen Selbstkonzept zwischen Kindern mit und ohne SPF innerhalb einer Klasse (Zeleke, 2004; s.a. Pijl & Frostad, 2010) . Bezogen auf das soziale Selbstkonzept ergeben sich unterdessen inkonsistente Ergebnisse. So berichtet Zeleke (2004) , dass von den 30 Studien, die in die Analysen zum Vergleich von inklusiv lernenden Sch\u00fclerinnen und Sch\u00fclern mit und ohne SPF einbezogen wurden, 21 Studien (70%) keine Unterschiede zwischen den beiden Sch\u00fclergruppen identifizierten. Dar\u00fcber hinaus fanden sechs Studien (20%) niedrigere Auspr\u00e4gungen im sozialen Selbstkonzept f\u00fcr Sch\u00fclerinnen und Sch\u00fcler mit SPF, zwei Studien (7%) berichteten hingegen \u00fcber h\u00f6here Auspr\u00e4gungen. In Anbetracht des h\u00e4ufig dargestellten Ausgrenzungsrisikos bei Kindern mit SPF (Huber & Wilbert, 2012) \u00fcberrascht diese Befundlage.",
+                "cite_spans": [
+                    {
+                        "start": 225,
+                        "end": 239,
+                        "text": "(Zeleke, 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 240,
+                        "end": 266,
+                        "text": "s.a. Pijl & Frostad, 2010)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 371,
+                        "end": 384,
+                        "text": "Zeleke (2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 893,
+                        "end": 916,
+                        "text": "(Huber & Wilbert, 2012)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Theoretischer Hintergrund",
+                "sec_num": "2"
+            },
+            {
+                "text": "Zugleich wurde f\u00fcr inklusives Lernen bislang eher selten untersucht, in welchem Zusammenhang das soziale Selbstkonzept und Merkmale des Sozialklimas stehen. Die wenigen Studien sind dar\u00fcber hinaus nur mit Einschr\u00e4nkungen zu interpretieren. So untersuchten Cambra und Silvestre (2003) die Zusammenh\u00e4nge zwischen sozialem Selbstkonzept und Peer-Akzeptanz an einer kleinen Stichprobe von 97 Sch\u00fclerinnen und Sch\u00fclern aus f\u00fcnf verschiedenen Jahrg\u00e4ngen einer einzigen privaten Schule. Sowohl in der Gruppe der 29 Sch\u00fclerinnen und Sch\u00fcler mit SPF als auch in der Gruppe der 68 Sch\u00fclerinnen und Sch\u00fcler ohne SPF ergaben sich statistisch bedeutsame Zusammenh\u00e4nge zwischen den Auspr\u00e4gungen im sozialen Selbstkonzept und einem sozialen Pr\u00e4ferenzma\u00df (erhoben mittels Soziogramm). Die H\u00f6he der Zusammenh\u00e4nge wurde nicht berichtet. Pijl und Frostad (2010) wiederum fanden in einer Gruppe von 455 inklusiv lernenden Sch\u00fclerinnen und Sch\u00fcler ohne SPF einen statistisch bedeutsamen Zusammenhang von r = .24 zwischen sozialem Selbstkonzept und Peer-Akzeptanz. In der Gruppe der 35 inklusiv lernenden Sch\u00fclerinnen und Sch\u00fcler mit SPF konnte aufgrund der eingeschr\u00e4nkten Stichprobengr\u00f6\u00dfe kein statistisch bedeutsamer Zusammenhang aufgedeckt werden. Die Auspr\u00e4gung des Zusammenhangs war mit r = .21 jedoch vergleichbar.",
+                "cite_spans": [
+                    {
+                        "start": 256,
+                        "end": 283,
+                        "text": "Cambra und Silvestre (2003)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 819,
+                        "end": 842,
+                        "text": "Pijl und Frostad (2010)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Theoretischer Hintergrund",
+                "sec_num": "2"
+            },
+            {
+                "text": "Schlie\u00dflich bleibt zu fragen, inwiefern die Zusammenh\u00e4nge zwischen den unterschiedlichen Facetten des Selbstkonzepts und den Leistungen bzw. dem Sozialklima \u00fcber Klassen hinweg variieren. Besteht Varianz zwischen Schulklassen, so lie\u00dfen sich darauf aufbauend Einflussfaktoren und damit Interventionsans\u00e4tze identifizieren. Huber und Wilbert (2012) sowie Krull et al. (2014) gingen dieser Frage nach und untersuchten jeweils in inklusiv lernenden Klassen Zusammenh\u00e4nge zwischen Indikatoren des Sozialklimas und dem F\u00f6rderstatus bzw. dem Schulleistungsniveau. In allen (ausschlie\u00dflich deskriptiven) Vergleichen ergaben sich starke Schwankungen zwischen den Klassen: W\u00e4hrend bei einigen Klassen soziale Ausgrenzung stark mit F\u00f6rderbedarf und Schulleistung assoziiert war, waren in anderen Klassen diese Zusammenh\u00e4nge weniger stark ausgepr\u00e4gt. Ob sich diese Varianz auch f\u00fcr den Zusammenhang zwischen Sozialklima und sozialem Selbstkonzept zeigt, ist hingegen eine offene Frage. Als Erkl\u00e4rung f\u00fcr diese Varianz w\u00e4re z. B. die soziale Binnenstruktur einer Klasse heranzuziehen: Bestehen innerhalb einer Klasse Kleingruppen, in die sich Sch\u00fclerinnen und Sch\u00fcler integriert f\u00fchlen, so k\u00f6nnen die Einsch\u00e4tzungen zum Sozialklima (\"Wir in der Klasse\") st\u00e4rker vom sozialen Selbstkonzept entkoppelt sein, weil das soziale Selbstkonzept weniger vom gesamten Klassenverband und stattdessen st\u00e4rker von der kleineren Peergroup beeinflusst wird (Koster, Nakken, Pijl & van Houten, 2009) . Bez\u00fcglich des Zusammenhangs zwischen fachspezifischen Leistungen und Selbstkonzept in der Grundschule w\u00e4ren Schwankungen in der H\u00f6he des Zusammenhangs indes aufgrund der unterschiedlichen Formen der Leistungsbewertung zu vermuten: In jenen Klassen, in denen Leistungen in Form von Noten bewertet werden, mag der Zusammenhang aufgrund von Referenzierungsprozessen (\"Wie gut bin ich im Vergleich zu anderen?\") st\u00e4rker ausfallen als in Klassen, in denen schriftliche Informationen zur Lernentwicklung an die Stelle der Noten treten.",
+                "cite_spans": [
+                    {
+                        "start": 354,
+                        "end": 373,
+                        "text": "Krull et al. (2014)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1430,
+                        "end": 1471,
+                        "text": "(Koster, Nakken, Pijl & van Houten, 2009)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Theoretischer Hintergrund",
+                "sec_num": "2"
+            },
+            {
+                "text": "Das Ziel der vorliegenden Untersuchung bestand darin zu ermitteln, inwiefern sich Sch\u00fclerinnen und Sch\u00fcler mit SPF hinsichtlich des Selbstkonzepts von ihren Peers ohne festgestellten SPF unterscheiden. Es wurden Zusammenh\u00e4nge zwischen Facetten des akademischen und sozialen Selbstkonzepts, fachlichen Kompetenzen und Einsch\u00e4tzungen zum Sozialklima unter der Bedingung des inklusiven Lernens betrachtet.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fragestellungen und Hypothesen",
+                "sec_num": "2.1"
+            },
+            {
+                "text": "Mit Bezug auf die Vor\u00fcberlegungen zu Bezugsgruppeneffekten (Marsh, 2005) sowie auf die bisherigen empirischen Befunde wurde angenommen, dass ein positiver Zusammenhang zwischen fachspezifischen Kompetenzen und dem fachspezifischen Selbstkonzept besteht (Hypothese 1). Zudem wurde angenommen, dass ein positiver Zusammenhang zwischen dem subjektiv eingesch\u00e4tzten Sozialklima und dem sozialen Selbstkonzept besteht (Hypothese 2).",
+                "cite_spans": [
+                    {
+                        "start": 59,
+                        "end": 72,
+                        "text": "(Marsh, 2005)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fragestellungen und Hypothesen",
+                "sec_num": "2.1"
+            },
+            {
+                "text": "Bezogen auf die Untersuchungen von Huber und Wilbert (2012) sowie Krull et al. (2014) sollte zudem untersucht werden, ob diese Zusammenh\u00e4nge \u00fcber Klassen hinweg unterschiedlich stark ausgepr\u00e4gt sind. Es wurde angenommen, dass die St\u00e4rke des Zusammenhangs zwischen fachspezifischen Kompetenzen und dem fachspezifischen Selbstkonzept bedeutsam zwischen Klassen variiert (Hypothese 3). Au\u00dferdem wurde vermutet, dass die St\u00e4rke des Zusammenhangs zwischen dem Sozialklima und dem sozialen Selbstkonzept bedeutsam \u00fcber Klassen hinweg variiert (Hypothese 4).",
+                "cite_spans": [
+                    {
+                        "start": 66,
+                        "end": 85,
+                        "text": "Krull et al. (2014)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fragestellungen und Hypothesen",
+                "sec_num": "2.1"
+            },
+            {
+                "text": "Schlie\u00dflich wurde betrachtet, inwiefern der F\u00f6rderstatus eines Kindes mit Auspr\u00e4gungen in den Facetten des Selbstkonzepts zusammenh\u00e4ngt. Auf dem derzeitigen Weg zu einem inklusiven Lernen k\u00f6nnen die Eltern im Rahmen des Brandenburger Pilotprojekts (s. n\u00e4chster Abschnitt) auf die Feststellung eines SPF verzichten. Inwiefern eine dennoch durchgef\u00fchrte Feststellung mit geringeren Auspr\u00e4gungen in den unterschiedlichen Facetten des Selbstkonzepts einhergeht, ist eine offene Frage. Wir gingen davon aus, dass sich Kinder mit und ohne SPF bei vergleichbarer Leistung in ihren Selbstkonzepten unterscheiden, weil Kinder mit SPF ein h\u00f6heres Ausgrenzungsrisiko besitzen (und dies m\u00f6glicherweise einhergeht mit geringeren Auspr\u00e4gungen im Selbstkonzept). Es wurde daher angenommen, dass unter der Kontrolle soziodemographischer und leistungsbezogener Merkmale Sch\u00fclerinnen und Sch\u00fcler mit SPF im Vergleich zu ihren Peers ohne SPF niedrigere Auspr\u00e4gungen im akademischen und sozialen Selbstkonzept aufweisen (Hypothese 5).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fragestellungen und Hypothesen",
+                "sec_num": "2.1"
+            },
+            {
+                "text": "Derzeit wird im Land Brandenburg ein Pilotprojekt zur Umsetzung inklusiver Bildung in der Primarstufe realisiert, an dem sich insgesamt 84 Grundschulen beteiligen. Aus der Gesamtheit dieser Brandenburger Pilotgrundschulen wurde f\u00fcr das Forschungsprojekt \"Lernen und Lehren in der inklusiven Grundschule\" eine nach der Region geschichtete Zufallsstichprobe von 34 Schulen gezogen, aus denen wiederum 30 zweite Klassen, 31 dritte Klassen und 11 FLEX-Klassen (d.h. jahrgangs\u00fcbergreifendes Lernen von Erst-und Zweitkl\u00e4sslern) ausgew\u00e4hlt wurden. Zur Beantwortung der Fragestellungen wurden jene Sch\u00fclerinnen und Sch\u00fcler untersucht, die in jahrgangshomogenen Klassen lernen.1 Diese 61 Klassen bilden somit die Stichprobe der vorliegenden Untersuchung. Was bedeutet es, im oben genannten Forschungsprojekt eine inklusive Grundschule zu sein? Alle untersuchten Grundschulen beteiligen sich am Pilotprojekt \"Inklusive Grundschule\" des Landes Brandenburg, dessen Umsetzung im Schuljahr 2012/13 begann. Diese Schulen nehmen erstens Sch\u00fclerinnen und Sch\u00fcler unabh\u00e4ngig davon auf, ob Schwierigkeiten in den F\u00f6rderschwerpunkten \"Lernen\", \"Emotionale & soziale Entwicklung\" oder \"Sprache\" Lenhard & Schneider, 2006) wurde erhoben, inwiefern Sch\u00fclerinnen und Sch\u00fcler in der Lage sind, Bez\u00fcge zwischen S\u00e4tzen herzustellen und Inferenzen zu bilden. Der Textverst\u00e4ndnistest besteht aus 20 Multiple-Choice-Aufgaben, die in maximal sieben Minuten bearbeitet werden. Die Reliabilit\u00e4t des Tests war ebenfalls sehr gut (Cronbachs \u03b1 = .91). F\u00fcr jeden der beiden Lesetests wurden ein Gesamtwert der richtig bearbeiteten Aufgaben sowie der entsprechende T-Wert ermittelt und anschlie\u00dfend der Mittelwert der T-Werte bestimmt.",
+                "cite_spans": [
+                    {
+                        "start": 1174,
+                        "end": 1200,
+                        "text": "Lenhard & Schneider, 2006)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Stichprobe und Design",
+                "sec_num": "3.1"
+            },
+            {
+                "text": "Rechtschreibkompetenz. Die orthographische Kompetenz der Sch\u00fclerinnen und Sch\u00fcler wurde mit Hilfe der Hamburger Schreibprobe (HSP 1-9, May, 2012) erfasst. Die HSP 1-9 h\u00e4lt f\u00fcr verschiedene Jahrgangsstufen unterschiedliche Sets an W\u00f6rtern und S\u00e4tzen bereit. Die Sch\u00fclerinnen und Sch\u00fcler der 2. Jahrgangsstufe schrieben 15 W\u00f6rter und 3 S\u00e4tze. Die Sch\u00fclerinnen und Sch\u00fcler der 3. Jahrgangsstufe schrieben hingegen 15 W\u00f6rter und 4 S\u00e4tze. Die Auswertung jedes Wortes kann sowohl auf Graphem-als auch auf Wortebene erfolgen. Die so genannten Graphemtreffer sind dabei definiert als die Summe der richtig geschriebenen Grapheme je Wort. Ein Graphem kann aus einem oder mehreren Buchstaben bestehen, sofern diese in orthographischer Hinsicht eine Einheit bilden (May, 2012) . F\u00fcr die vorliegenden Auswertungen wurde die Gesamtzahl der Graphemtreffer bestimmt und jahrgangsspezifische T-Werte ermittelt. Die Reliabilit\u00e4t fiel f\u00fcr beide Jahrgangsstufen gut aus (2. Jahrgangsstufe: Cronbachs \u03b1 = .90, 3. Jahrgangsstufe: Cronbachs \u03b1 = .90).",
+                "cite_spans": [
+                    {
+                        "start": 754,
+                        "end": 765,
+                        "text": "(May, 2012)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Stichprobe und Design",
+                "sec_num": "3.1"
+            },
+            {
+                "text": "Selbstkonzept. Das akademische Selbstkonzept der Sch\u00fclerinnen und Sch\u00fcler wurde fragebogenbasiert im Selbstbericht erfasst. Die Erhebung der Merkmale erfolgte dabei dom\u00e4nenspezifisch. Die eingesetzten Items basierten auf Rauer und Schuck (2003) , die das Selbstkonzept allerdings fach\u00fcbergreifend erfassen. Das Selbstkonzept im Lesen (z. B. \"Beim Lesen verstehe ich viele W\u00f6rter.\"), Rechtschreiben (z. B. \"Ich bin gut im Rechtschreiben.\") und in Mathematik (z. B. \"Ich kann den anderen gut erkl\u00e4ren, wie man rechnet.\") wurde mit jeweils sechs Items auf einer vierstufigen Antwortskala (0 = \"stimmt gar nicht\" bis 3 = \"stimmt genau\") erfasst. Die Reliabilit\u00e4ten der Skalen fielen zufrieden stellend aus (Cronbachs \u03b1Lesen = .76, Cronbachs \u03b1Rechtschreiben = .74, Cronbachs \u03b1Mathematik = .76). Zudem wurde das soziale Selbstkonzept (z. B. \"Meine Mitsch\u00fcler m\u00f6gen mich so, wie ich bin.\") ebenfalls mittels sechs Items auf einer vierstufigen Antwortskala (0 = \"stimmt gar nicht\" bis 3 = \"stimmt genau\") erhoben. Diese Items basieren auf Erhebungen von Lehmann und Lenkheit (2008) . Die Reliabilit\u00e4t der Skala fiel mit Cronbachs \u03b1 = .77 zufrieden stellend aus.",
+                "cite_spans": [
+                    {
+                        "start": 221,
+                        "end": 244,
+                        "text": "Rauer und Schuck (2003)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1058,
+                        "end": 1073,
+                        "text": "Lenkheit (2008)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Stichprobe und Design",
+                "sec_num": "3.1"
+            },
+            {
+                "text": "Einsch\u00e4tzungen zur sozialen Integration und zum Klassenklima gebeten. Mit der Skala Soziale Integration wurde das Ausma\u00df erhoben, in dem ein Kind sich durch andere Kinder der Klasse angenommen f\u00fchlt. Diese Skala bestand aus acht Items (z. B. \"Ich f\u00fchle mich in der Klasse wohl.\"), die eine Auswahl der gleichnamigen Skala von Rauer und Schuck (2003) darstellen. Mit der Skala Klassenklima soll hingegen das Ausma\u00df erfasst werden, in dem die Kinder einer Klasse sozial angemessen miteinander umgehen und ein gutes Verh\u00e4ltnis zueinander haben. Auch diese Skala bestand aus acht Items (z. B. \"Wir helfen uns gegenseitig.\"), die ebenfalls eine Auswahl der gleichnamigen Skala von Rauer und Schuck (2003) darstellen. Beide Skalen konnten vierstufig beantwortet werden (0 = \"stimmt gar nicht\" bis 3 = \"stimmt genau\") und wiesen mindestens zufrieden stellende Reliabilit\u00e4ten auf (Cronbachs \u03b1Integration = .82, Cronbachs \u03b1Klassenklima = .75).",
+                "cite_spans": [
+                    {
+                        "start": 326,
+                        "end": 349,
+                        "text": "Rauer und Schuck (2003)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 676,
+                        "end": 699,
+                        "text": "Rauer und Schuck (2003)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sozialklima. Zur Erfassung des Sozialklimas einer Klasse wurden die Sch\u00fclerinnen und Sch\u00fcler um",
+                "sec_num": null
+            },
+            {
+                "text": "Sonderp\u00e4dagogischer F\u00f6rderbedarf. Um den SPF zu ermitteln, gaben die Klassenlehrerinnen und Klassenlehrer in einem Fragebogen an, welche Sch\u00fclerinnen und Sch\u00fcler einen festgestellten F\u00f6rderdarf (AO-SF) in den Bereichen Lernen, Emotionale & soziale Entwicklung, K\u00f6rperliche & motorische Entwicklung, Sprachliche Entwicklung, H\u00f6ren, Sehen und/ oder Geistige Entwicklung hatten. Hierzu liegen Angaben von 52 der insgesamt 61Klassen vor (s. Tabelle 1). Im Mittel lernte ein Kind mit einem festgestellten SPF in einer Klasse (M = 1.31, SD = 1.62). Die Spannweite fiel hoch aus (Minimum = 0, Maximum = 8).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sozialklima. Zur Erfassung des Sozialklimas einer Klasse wurden die Sch\u00fclerinnen und Sch\u00fcler um",
+                "sec_num": null
+            },
+            {
+                "text": "Die Daten der Sch\u00fclerinnen und Sch\u00fcler wurden an jeweils zwei Testtagen w\u00e4hrend des Unterrichts im Klassenkontext durch externe Testleiter erhoben. Zur Sicherung der Durchf\u00fchrungsobjektivit\u00e4t der Erhebungen wurde zuvor ein Testmanual erstellt, das die Test-bzw. Fragebogeninstruktionen der zuvor genannten Instrumente enthielt. Zudem wurde zur Sicherung der Auswertungsobjektivit\u00e4t ein Manual mit Hinweisen zur Auswertung der Testverfahren erstellt.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Datenerhebung und -auswertung",
+                "sec_num": "3.3"
+            },
+            {
+                "text": "Aufgrund der genesteten Struktur der Daten (Sch\u00fclerinnen und Sch\u00fcler in Klassen) erfolgte die statistische Auswertung mehrebenenanalytisch mittels Mplus 6.0 (Muth\u00e9n & Muth\u00e9n, 1998 -2011 (Cohen, Cohen, West & Aiken, 2003) . In diesen Modellen werden sowohl bezogen auf den Achsenabschnitt als auch den Steigungskoeffizienten einer Level-1-Regression Unterschiede zwischen den Clustern zugelassen. ",
+                "cite_spans": [
+                    {
+                        "start": 157,
+                        "end": 179,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 1998",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 180,
+                        "end": 185,
+                        "text": "-2011",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 186,
+                        "end": 220,
+                        "text": "(Cohen, Cohen, West & Aiken, 2003)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Datenerhebung und -auswertung",
+                "sec_num": "3.3"
+            },
+            {
+                "text": "Tabelle 2 informiert \u00fcber die deskriptiven Kennwerte und die Interkorrelationen der Variablen. Die mittleren Leistungen im Lesen, Rechtschreiben und in Mathematik sind als T-Werte dargestellt und lagen leicht unterhalb der Leistungen, die die Normstichproben zum Ende des Schuljahres erreicht hatten. Die Einsch\u00e4tzungen zum Selbstkonzept und zum Sozialklima fielen positiv aus und lagen durchgehend \u00fcber dem theoretisch erwartbaren Mittelwert von 1.5. Zwischen allen Variablen bestanden zudem statistisch bedeutsame Zusammenh\u00e4nge.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ergebnisse",
+                "sec_num": "4"
+            },
+            {
+                "text": "In der Tabelle Nachfolgende \u03c7\u00b2-sowie t-Tests zeigten, dass beide Gruppen vergleichbar waren hinsichtlich des M\u00e4dchen-und Jungenanteils, \u03c7\u00b2 (1, 119) = 0.01, p = .91, des Herkunftslands (alle Kinder wurden in Deutschland geboren) sowie der Leseleistung, t (118) = 0.56, p = .58. Unter der Kontrolle dieser soziodemographischen und leistungsbezogenen Merkmale unterschieden sich die Lese-Selbstkonzepte der Sch\u00fclerinnen und Sch\u00fcler mit und ohne SPF nicht statistisch bedeutsam voneinander, t (109) = 0.50, p = .62.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 7,
+                        "end": 14,
+                        "text": "Tabelle",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Mehrebenen-Regressionsanalysen",
+                "sec_num": "4.1"
+            },
+            {
+                "text": "Auch in Bezug auf die Rechtschreibleistung konnte das Matching durchgef\u00fchrt werden. Die ausgew\u00e4hlten Sch\u00fclerinnen und Sch\u00fcler ohne SPF waren vergleichbar mit den Sch\u00fclerinnen und Sch\u00fclern mit SPF hinsichtlich der Verteilung der Merkmalsauspr\u00e4gungen im Geschlecht, \u03c7\u00b2 (1, 115) = 0.07, p = .79, im Herkunftsland (alle Kinder wurden in Deutschland geboren) sowie in der Rechtschreibleistung, t (114) = 1.19, p = .24. Unter Kontrolle dieser Merkmale unterschieden sich die Rechtschreib-Selbstkonzepte der Sch\u00fclerinnen und Sch\u00fcler mit und ohne SPF nicht statistisch bedeutsam voneinander, t (107) = 1.23, p = .22.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mehrebenen-Regressionsanalysen",
+                "sec_num": "4.1"
+            },
+            {
+                "text": "Ein \u00e4hnliches Bild ergab sich f\u00fcr das Matching hinsichtlich der mathematischen Kompetenz. Zwischen den Gruppen von Kindern mit und ohne SPF lagen keine Unterschiede hinsichtlich der Verteilung der Geschlechter, \u03c7\u00b2 (1, 118) = 1.22, p = .27, des Herkunftslands (alle Kinder wurden in Deutschland geboren) sowie der Mathematikleistung vor, t (116) = 0.54, p = .59. Unter Kontrolle dieser Merkmale unterschieden sich die Mathematik-Selbstkonzepte der Sch\u00fclerinnen und Sch\u00fcler mit und ohne SPF nicht statistisch bedeutsam voneinander, t (106) = 0.30, p = .76.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mehrebenen-Regressionsanalysen",
+                "sec_num": "4.1"
+            },
+            {
+                "text": "Abschlie\u00dfend wurde gepr\u00fcft, ob Unterschiede zwischen den gebildeten Gruppen hinsichtlich des sozialen Selbstkonzepts bestehen. Weder in den hinsichtlich der Lese-oder Rechtschreibleistung noch in den hinsichtlich der Mathematikleistung gebildeten Gruppen bestanden statistisch bedeutsame Unterschiede zwischen Sch\u00fclerinnen und Sch\u00fclern mit und ohne SPF im sozialen Selbstkonzept, .27 < p < .65. Diese Ergebnisse best\u00e4tigen Befunde fr\u00fcherer Untersuchungen (Cambra & Silvestre, 2003; Pijl & Frostad, 2010; Zeleke, 2004) , wonach auch in inklusiven Lernsettings bedeutsame Zusammenh\u00e4nge bestehen zwischen akademischen Selbstkonzepten und fachlichen Leistungen bzw. zwischen den Selbsteinsch\u00e4tzungen der eigenen sozialen Kompetenz und dem Ausma\u00df, in dem sich Kinder von der Klasse angenommen f\u00fchlen. Unsere Studie geht jedoch in zwei wichtigen Punkten \u00fcber bisherige Ergebnisse hinaus: Aufgrund der Mehrebenenanalysen konnte zum einen die Variabilit\u00e4t der Zusammenh\u00e4nge inferenzstatistisch untersucht werden (vgl. Huber & Wilbert, 2012 (Huber & Wilbert, 2012) . Um die hier vorgestellten Annahmen noch stringenter zu \u00fcberpr\u00fcfen, w\u00e4re es sinnvoll, das Ausma\u00df der sozialen Integration mit unterschiedlichen Verfahren zu erfassen (z. B. auch durch Beobachtungsdaten), um so die Methodenabh\u00e4ngigkeit der Ergebnisse \u00fcberpr\u00fcfen zu k\u00f6nnen.",
+                "cite_spans": [
+                    {
+                        "start": 455,
+                        "end": 481,
+                        "text": "(Cambra & Silvestre, 2003;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 482,
+                        "end": 503,
+                        "text": "Pijl & Frostad, 2010;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 504,
+                        "end": 517,
+                        "text": "Zeleke, 2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1004,
+                        "end": 1031,
+                        "text": "(vgl. Huber & Wilbert, 2012",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1032,
+                        "end": 1055,
+                        "text": "(Huber & Wilbert, 2012)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mehrebenen-Regressionsanalysen",
+                "sec_num": "4.1"
+            },
+            {
+                "text": "Viertens hat sich gezeigt, dass die gr\u00f6\u00dfte Variabilit\u00e4t der untersuchten Merkmale zwischen Klassen hinsichtlich des Klassenklimas besteht. 36% der Varianz in diesem Merkmal gingen zur\u00fcck auf Unterschiede zwischen den Grundschulklassen. Damit stellt sich die Frage, durch welche Merkmale inklusiven Unterrichts wiederum das Klassenklima nachhaltig positiv beeinflusst werden kann. Als Ansatzpunkt hierf\u00fcr bieten sich beispielsweise handlungsnahe Merkmale der Sch\u00fcler-Sch\u00fcler-Interaktionen an. So zeigt die umfangreiche Forschung zum kooperativen Lernen, dass Verbesserungen personaler und sozialer Kompetenzen auf Ma\u00dfnahmen zur\u00fcckf\u00fchrbar sind, die positive Interdependenzen von Sch\u00fclerinnen und Sch\u00fclern beim gemeinsamen Lernen schaffen (Slavin, 1996) . Um ein vollst\u00e4ndigeres Bild der Einflussfaktoren des sozialen Selbstkonzepts zu erhalten, w\u00e4re es zudem erforderlich, weitere individuelle Merkmale, wie z.B. gelingende Emotionsund Motivationskontrolle (Newcomb, Bukowski & Pattee, 1993) , in die Analysen einzubeziehen.",
+                "cite_spans": [
+                    {
+                        "start": 736,
+                        "end": 750,
+                        "text": "(Slavin, 1996)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 955,
+                        "end": 989,
+                        "text": "(Newcomb, Bukowski & Pattee, 1993)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mehrebenen-Regressionsanalysen",
+                "sec_num": "4.1"
+            },
+            {
+                "text": "F\u00fcnftens sollte \u00fcberpr\u00fcft werden, inwieweit die hier gefundenen Zusammenh\u00e4nge auch f\u00fcr spezifische Sch\u00fclergruppen gelten. L\u00e4sst sich der vorliegende Befund, dass Sch\u00fclerinnen und Sch\u00fcler mit und ohne SPF sich bei vergleichbaren soziodemographischen Merkmalen sowie bei vergleichbarer Leistung nicht in ihren akademischen und sozialen Selbstkonzepten unterscheiden, f\u00fcr alle Bereiche sonderp\u00e4dagogischen F\u00f6rderbedarfs replizieren? Denkbar w\u00e4re, dass sich insbesondere Sch\u00fcler mit SPF im Bereich \"Emotionale & soziale Entwicklung\" von ihren Peers ohne SPF hinsichtlich des sozialen Selbstkonzepts unterscheiden, weil mangelnde soziale Integration h\u00e4ufig als Folge mangelnder individueller sozialer Kompetenzen betrachtet wird (Newcomb et al., 1993) . Zur Pr\u00fcfung dieser spezifischen Annahmen muss jedoch eine wesentlich gr\u00f6\u00dfere Anzahl inklusiv lernender Klassen untersucht werden.",
+                "cite_spans": [
+                    {
+                        "start": 724,
+                        "end": 746,
+                        "text": "(Newcomb et al., 1993)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mehrebenen-Regressionsanalysen",
+                "sec_num": "4.1"
+            },
+            {
+                "text": "Vor dem Hintergrund der individuellen F\u00f6rderung der Sch\u00fclerinnen und Sch\u00fcler scheint es notwendig und lohnenswert, die spezifischen Pr\u00e4diktoren nicht nur der fachlichen Kompetenzen, sondern auch der sozialen und personalen Merkmalen zu identifizieren, um im inklusiven Unterricht passgenaue Ma\u00dfnahmen der inneren Differenzierung zu implementieren.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mehrebenen-Regressionsanalysen",
+                "sec_num": "4.1"
+            },
+            {
+                "text": "Zeleke, S. (2004). Self-concepts of students with learning disabilities and their normally achieving peers: A review. European Journal of Special Needs Education, 19, 145-170. Anmerkung: \u03c3 rij = Residualvarianz, y OO = mittlerer Achsenabschnitt, y 1O = mittlerer Steigungskoeffizient, \u03c3 uoj = Varianz in den Achsenabschnitten \u00fcber Klassen hinweg, \u03c3 2 uli = Varianz in den Steigungskoeffizienten \u00fcber Klassen hinweg, SK = Selbstkonzept. Als Pr\u00e4diktor eines fachspezifischen Selbstkonzepts diente die korrespondierende Leistung. Als Pr\u00e4diktoren des sozialen Selbstkonzepts dienten die Variablen Klassenklima und soziale Integration.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mehrebenen-Regressionsanalysen",
+                "sec_num": "4.1"
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "The effects of inclusion on learning",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Baker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Walberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Educational Leadership",
+                "volume": "52",
+                "issue": "",
+                "pages": "33--35",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baker, E. T., Wang, M. C. & Walberg, H. J. (1994). The effects of inclusion on learning.Educational Leadership, 52, 33-35.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Teachers' and pupils' behavior in large and small classes: A systematic observation study of pupils aged 10 and 11 years",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Blatchford",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Bassett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Brown",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Educational Psychology",
+                "volume": "97",
+                "issue": "",
+                "pages": "454--467",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Blatchford, P., Bassett, P. & Brown, P. (2005). Teachers' and pupils' behavior in large and small classes: A systematic observation study of pupils aged 10 and 11 years. Journal of Educational Psychology, 97, 454-467.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Students with special educational needs in the inclusive classroom: Social integration and self-concept",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Cambra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Silvestre",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "European Journal of Special Needs Education",
+                "volume": "18",
+                "issue": "",
+                "pages": "197--208",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cambra, C. & Silvestre, N. (2003). Students with special educational needs in the inclusive classroom: Social integration and self-concept. European Journal of Special Needs Education, 18, 197-208.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Applied multiple regression/ correlation analysis for the behavioral sciences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "West",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Aiken",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cohen, J., Cohen, P., West, L.S. & Aiken, S.G. (2003). Applied multiple regression/ correlation analysis for the behavioral sciences. Mahwah, New Jersey: Earlbaum.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Effekte inklusiver Beschulung: Forschungsstand im F\u00f6rderschwerpunkt emotionale und soziale Entwicklung",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Ellinger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Stein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Empirische Sonderp\u00e4dagogik",
+                "volume": "2",
+                "issue": "",
+                "pages": "85--109",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ellinger, S. & Stein, R. (2012). Effekte inklusiver Beschulung: Forschungsstand im F\u00f6rderschwerpunkt emotionale und soziale Entwicklung. Empirische Sonderp\u00e4dagogik, 2, 85-109.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Vom Optimisten zum Realisten? Zur Entwicklung des F\u00e4higkeitsselbstkonzeptes vom Kindergarten bis zur Klassenstufe 6",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Entwicklung im Kindesalter",
+                "volume": "",
+                "issue": "",
+                "pages": "115--132",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helmke, A. (1998). Vom Optimisten zum Realisten? Zur Entwicklung des F\u00e4higkeitsselbstkonzeptes vom Kindergarten bis zur Klassenstufe 6. In F. E. Weinert (Hrsg.), Entwicklung im Kindesalter (S. 115- 132). Weinheim: Beltz.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Soziale Ausgrenzung von Sch\u00fclern mit sonderp\u00e4dagogischem F\u00f6rderbedarf und niedrigen Schulleistungen im gemeinsamen Unterricht",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Huber",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Wilbert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Empirische Sonderp\u00e4dagogik",
+                "volume": "2",
+                "issue": "",
+                "pages": "147--165",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Huber, C. & Wilbert, J. (2012). Soziale Ausgrenzung von Sch\u00fclern mit sonderp\u00e4dagogischem F\u00f6rderbedarf und niedrigen Schulleistungen im gemeinsamen Unterricht. Empirische Sonderp\u00e4dagogik, 2, 147-165.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Social skills and learning disabilities: A meta-analysis",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kavale",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Forness",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Journal of Learning Disabilities",
+                "volume": "29",
+                "issue": "",
+                "pages": "226--237",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kavale, K. A. & Forness, S. R. (1996). Social skills and learning disabilities: A meta-analysis. Journal of Learning Disabilities, 29, 226-237.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Gemeinsam lernen. Inklusion leben. Status Quo und Herausforderungen inklusiver Bildung in Deutschland",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Klemm",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Bertelsmann Stiftung",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Klemm, K. (2010). Gemeinsam lernen. Inklusion leben. Status Quo und Herausforderungen inklusiver Bildung in Deutschland. Bertelsmann Stiftung.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Being part of the peer group: A literature study focusing on the social dimension of inclusion in education",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Koster",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Nakken",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Pijl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Van Houten",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "International Journal of Inclusive Education",
+                "volume": "13",
+                "issue": "",
+                "pages": "117--140",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Koster, M., Nakken, H., Pijl, S. J. & van Houten, E. (2009). Being part of the peer group: A literature study focusing on the social dimension of inclusion in education. International Journal of Inclusive Education, 13, 117-140.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Soziale Ausgrenzung von Erstkl\u00e4sslerinnen und Erstkl\u00e4sslern mit sonderp\u00e4dagogischem F\u00f6rderbedarf im Gemeinsamen Unterricht",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Krull",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Wilbert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Hennemann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Lehmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Lenkheit",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Element. Erhebung zum Lese-und Mathematikverst\u00e4ndnis. Entwicklungen in den Jahrgangsstufen 4 bis 6 in Berlin: Abschlussbericht \u00fcber die Untersuchungen",
+                "volume": "6",
+                "issue": "",
+                "pages": "59--75",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Krull, J., Wilbert, J. & Hennemann, T. (2014). Soziale Ausgrenzung von Erstkl\u00e4sslerinnen und Erstkl\u00e4sslern mit sonderp\u00e4dagogischem F\u00f6rderbedarf im Gemeinsamen Unterricht. Empirische Sonderp\u00e4dagogik, 6, 59-75. Lehmann, R. H. & Lenkheit, J. (2008). Element. Erhebung zum Lese-und Mathematikverst\u00e4ndnis. Entwicklungen in den Jahrgangsstufen 4 bis 6 in Berlin: Abschlussbericht \u00fcber die Untersuchungen 2003, 2004 und 2005 an Berliner Grundschulen und grundst\u00e4ndigen Gymnasien. Berlin: Humboldt Universit\u00e4t zu Berlin.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Ein Leseverst\u00e4ndnistest f\u00fcr Erst-bis Sechstkl\u00e4ssler",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Lenhard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Schneider",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lenhard, W. & Schneider, W. (2006). Ein Leseverst\u00e4ndnistest f\u00fcr Erst-bis Sechstkl\u00e4ssler. G\u00f6ttingen: Hogrefe.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Educational psychology and the effectiveness of inclusive education/ mainstreaming",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Lindsay",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "77",
+                "issue": "",
+                "pages": "1--24",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lindsay, G. (2007). Educational psychology and the effectiveness of inclusive education/ mainstreaming. British Journal of Educational Psychology, 77, 1-24.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Big-fish-little-pond effect on academic self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+                "volume": "19",
+                "issue": "",
+                "pages": "119--129",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (2005). Big-fish-little-pond effect on academic self-concept. Zeitschrift f\u00fcr P\u00e4dagogische Psychologie, 19, 119-129.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Theoretical perspectives on the structure of self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hattie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. & Hattie, J. (1996).Theoretical perspectives on the structure of self-concept.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Handbook of self-concept: Developmental, social, and clinical considerations",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "39--90",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "In B. A. Bracken (Ed.), Handbook of self-concept: Developmental, social, and clinical considerations (pp. 39-90). New York: John Wiley.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Hamburger Schreib-Probe 1-9",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "May",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Handw\u00f6rterbuch P\u00e4dagogische Psychologie",
+                "volume": "",
+                "issue": "",
+                "pages": "760--767",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "May, P. (2012). Hamburger Schreib-Probe 1-9. G\u00f6ttingen: Hogrefe. Moschner, B. & Dickh\u00e4user, O. (2010). Selbstkonzept. In D. H. Rost (Hrsg.), Handw\u00f6rterbuch P\u00e4dagogische Psychologie (S.760-767). Weinheim: BeltzPVU.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Mplus user's guide: Statistical analysis with latent variables",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth\u00e9n, L.K. & Muth\u00e9n, B.O. (1998-2011). Mplus user's guide: Statistical analysis with latent variables (6th ed.). Los Angeles, CA: Muth\u00e9n & Muth\u00e9n.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Class placement and competence attainment among students with special educational needs",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Myklebust",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "British Journal of Special Education",
+                "volume": "33",
+                "issue": "",
+                "pages": "76--81",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Myklebust, J.D. (2006).Class placement and competence attainment among students with special educational needs.British Journal of Special Education, 33, 76-81.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Children's peer relations: a meta-analytic review of popular, rejected, neglected, controversial, and average sociometric status",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Newcomb",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bukowski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Pattee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Psychological Bulletin",
+                "volume": "113",
+                "issue": "",
+                "pages": "99--128",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Newcomb, A. F., Bukowski, W. M. & Pattee, L. (1993). Children's peer relations: a meta-analytic review of popular, rejected, neglected, controversial, and average sociometric status. Psychological Bulletin, 113, 99-128.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Peer acceptance and self-concept of students with disabilities in regular education",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Pijl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Frostad",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "European Journal of Special Needs Education",
+                "volume": "25",
+                "issue": "",
+                "pages": "93--105",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pijl, S. J. & Frostad, P. (2010).Peer acceptance and self-concept of students with disabilities in regular education.European Journal of Special Needs Education, 25, 93-105.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Wissenschaftliche Begleitungen der Wege zur inklusiven Schulentwicklung in den Bundesl\u00e4ndern",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Prengel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Versuch einer \u00dcbersicht",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Prengel, A. (2013). Inklusive Bildung in der Primarstufe. Frankfurt/M.: Grundschulverband. Preuss- Lausitz, U. (2014). Wissenschaftliche Begleitungen der Wege zur inklusiven Schulentwicklung in den Bundesl\u00e4ndern. Versuch einer \u00dcbersicht. Retrieved July, 23, 2014, from https://www.ewi.tuberlin.de/menue/institutsangehoerige/professorinnen/prof_dr_ulf_preuss- lausitz/.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Fragebogen zur Erfassung emotionaler und sozialer Schulerfahrungen von Grundschulkindern dritter und vierter Klassen",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Rauer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.-D",
+                        "middle": [],
+                        "last": "Schuck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rauer, W. & Schuck, K.-D. (2003). Fragebogen zur Erfassung emotionaler und sozialer Schulerfahrungen von Grundschulkindern dritter und vierter Klassen. G\u00f6ttingen: Hogrefe.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Effects of inclusion on students with and without special educational needs reviewed",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ruijs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "T D"
+                        ],
+                        "last": "Peetsma",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Educational Research Review",
+                "volume": "4",
+                "issue": "",
+                "pages": "67--79",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ruijs, N. M. & Peetsma, T. T. D. (2009).Effects of inclusion on students with and without special educational needs reviewed. Educational Research Review, 4, 67-79.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "W\u00fcrzburger Leise Leseprobe -Revision",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Schneider",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Blanke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Faust",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "K\u00fcspert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schneider, W., Blanke, I., Faust, V. & K\u00fcspert, P. (2011). W\u00fcrzburger Leise Leseprobe -Revision. G\u00f6ttingen: Hogrefe.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Research on cooperative learning and achievement: What we know, what we need to know",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Slavin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "21",
+                "issue": "",
+                "pages": "43--69",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Slavin, R. E. (1996).Research on cooperative learning and achievement: What we know, what we need to know. Contemporary Educational Psychology, 21, 43-69.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Wie entwickeln sich Kinder im inklusiven Unterricht? Zur Anlage der wissenschaftlichen Begleitung des Projekts",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "297--302",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wie entwickeln sich Kinder im inklusiven Unterricht? Zur Anlage der wissenschaftlichen Begleitung des Projekts \"Inklusive Grundschule\". In D. Bl\u00f6mer, M. Lichtblau, A.-K. J\u00fcttner, K. Koch, M. Kr\u00fcger & R. Werning (Hrsg.), Perspektiven auf inklusive Bildung. Gemeinsam anders lehren und lernen (S. 297- 302). Wiesbaden: Springer VS.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Social skills and learning disabilities: A meta-analysis of the literature",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Swanson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Malone",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "School Psychological Review",
+                "volume": "3",
+                "issue": "",
+                "pages": "427--443",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Swanson, H. L. & Malone, S. (1992). Social skills and learning disabilities: A meta-analysis of the literature. School Psychological Review, 3, 427-443.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "num": null,
+                "text": "vorliegen. F\u00fcr diese drei Schwerpunkte kann auf eine Feststellung im Rahmen eines sonderp\u00e4dagogischen Verfahrens (AO-SF) verzichtet werden. Zweitens wurden die Schulen pauschal mit zus\u00e4tzlichen Stunden in H\u00f6he von 3,5 Lehrerwochenstunden je Sch\u00fclerin und Sch\u00fcler f\u00fcr f\u00fcnf Prozent der Gesamtsch\u00fclerzahl ausgestattet. \u00dcber die Verteilung der Stunden und den Einsatz von Sonderp\u00e4dagoginnen und Sonderp\u00e4dagogen entscheidet die Schule autonom. Drittens wird jede Pilotschule durch ein Beraterteam betreut. Die Hauptaufgabe dieser speziell geschulten Lehrerinnen und Lehrer besteht darin, die Lehrerkollegien der Pilotschulen kontinuierlich fortzubilden und bei Fragen beratend zur Seite zu stehen. Eine ausf\u00fchrliche Projektdarstellung findet sich beiSp\u00f6rer et al. (2015).Die Datenerhebung erfolgte zum Ende des Schuljahres 2012/13 im jeweiligen Klassenverband. Zu diesem Messzeitpunkt wurden erstmalig sowohl Leistungsdaten als auch Selbsteinsch\u00e4tzungen der Sch\u00fclerinnen und Sch\u00fcler erhoben. Die Stichprobe umfasste insgesamt 1280 Sch\u00fclerinnen und Sch\u00fcler. Der Altersdurchschnitt lag bei 8.78 Jahren (SD = 0.70). Tabelle 1 informiert \u00fcber die Stichprobenmerkmale getrennt nach zweiter und dritter Jahrgangsstufe. 3.2 Erhebungsinstrumente Mathematische Kompetenz. Zur Erfassung der mathematischen Kompetenz wurden die Subtests Addition und Subtraktion des Heidelberger Rechentest 1-4 (HRT 1-4, Haffner, Baro, Parzer & Resch, 2005) eingesetzt. Die ausgew\u00e4hlten Subtests dieses standardisierten Schultests erfassen mit jeweils 40 Aufgaben basale Rechenoperationen im Zahlenraum bis 1000. F\u00fcr die Bearbeitung eines Subtests haben Sch\u00fclerinnen und Sch\u00fcler zwei Minuten Zeit. Die Reliabilit\u00e4t beider Subtests fiel in der vorliegenden Stichprobe sehr gut aus (Cronbachs \u03b1Addition = .92, Cronbachs \u03b1Subtraktion = .93). Je Subtest wurden ein Gesamtwert der richtig gel\u00f6sten Aufgaben sowie der entsprechende T-Wert ermittelt und der Mittelwert der T-Werte bestimmt. Zur Ermittlung der Lesekompetenz der Sch\u00fclerinnen und Sch\u00fcler wurden sowohl das basale Lesen als auch das Leseverst\u00e4ndnis erhoben. Das basale Lesen, operationalisiert \u00fcber die Lesegeschwindigkeit, wurde mittels der W\u00fcrzburger Leise Leseprobe -Revision (WLLP-R, Schneider, Blanke, Faust & K\u00fcspert, 2011) erhoben. Hierbei sollen innerhalb von f\u00fcnf Minuten m\u00f6glichst viele der insgesamt 140 Aufgaben bearbeitet werden. In jeder Aufgabe sind vier Bilder einem Wort gegen\u00fcbergestellt. Das jeweils zum Wort korrespondierende Bild ist anzustreichen. Die Reliabilit\u00e4t des Tests fiel sehr gut aus (Cronbachs \u03b1 = .98). Mit Hilfe des Subtests \"Textverst\u00e4ndnis\" des Leseverst\u00e4ndnistests f\u00fcr Erst-bis Sechstkl\u00e4ssler (ELFE 1-6,",
+                "type_str": "table",
+                "content": "<table><tr><td>Lesekompetenz</td></tr></table>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "). Dabei wurden in einem ersten Schritt die Intraklassenkorrelationen aller Variablen bestimmt. Diese fielen sowohl f\u00fcr die vier Selbstkonzeptvariablen (.032 < ICC <.043) als auch f\u00fcr die Variablen Lesekompetenz (.065) und Mathematikkompetenz (.053) eher gering aus. F\u00fcr die Variablen Rechtschreibkompetenz (.170) sowie f\u00fcr die beiden Sozialklimavariablen soziale Integration (.134) und Klassenklima (.362) war die Varianz zwischen Klassen deutlich h\u00f6her. Da jedoch bereits sehr geringe Intraklassenkorrelationen zu einer Verzerrung der Ergebnisse von Signifikanztests in Analysen, die hierarchische Datenstrukturen nicht ber\u00fccksichtigen, f\u00fchren, wurden zweitens Random-Coefficient-Regressionsanalysen durchgef\u00fchrt",
+                "type_str": "table",
+                "content": "<table/>"
+            },
+            "TABREF2": {
+                "num": null,
+                "text": "Konkret wurde untersucht, inwiefern sich die Auspr\u00e4gung im fachspezifischen Selbstkonzept durch die fachspezifische Leistung vorhersagen l\u00e4sst und inwiefern die St\u00e4rke dieses Zusammenhangs von Klasse zu Klasse variiert. Bez\u00fcglich des sozialen Selbstkonzepts wurde der Zusammenhang zum Sozialklima untersucht. Alle Pr\u00e4diktoren wurden zentriert (grandmean). Drittens wurde jedem Kind mit SPF ein Kind ohne SPF aus der Klasse zugeordnet. Bei dieser Matching-Prozedur wurden Paare von Kindern bezogen auf demographische Merkmale und die jeweilige fachspezifische Leistung gebildet. Gab es z.B. in einer Klasse ein M\u00e4dchen mit einem SPF, das in Deutschland geboren wurde, so wurde ihm zur Pr\u00fcfung des Unterschieds im Lese-Selbstkonzept ein M\u00e4dchen der Klasse ohne SPF zugeordnet, das ebenfalls in Deutschland geboren wurde und eine vergleichbare Leseleistung aufwies. F\u00fcr die Pr\u00fcfung des Unterschieds im mathematischen Selbstkonzept wurden Kinder verglichen, die \u00e4hnliche mathematische Leistungen erzielten usw. Mittels t-Tests wurden sodann Gruppenunterschiede auf statistische Signifikanz gepr\u00fcft. Auf diese Weise konnte die Auspr\u00e4gung im Selbstkonzept von Kindern mit und ohne SPF unter Kontrolle spezifischer Merkmale betrachtet werden. Das Signifikanzniveau wurde f\u00fcr alle Analysen auf p < .05 festgelegt. Fehlende Werte wurden per Full-Information-Maximum-Likelihood-Verfahren gesch\u00e4tzt.",
+                "type_str": "table",
+                "content": "<table/>"
+            },
+            "TABREF3": {
+                "num": null,
+                "text": "3 werden die Ergebnisse der Random-Coefficient-Regressionsanalysen zusammengefasst. Auf Level 1 wird die Residualvarianz \u00fc berichtet. Auf Level 2 werden jeweils Sch\u00e4tzungen f\u00fcr folgende Parameter dargestellt: y OO (mittlerer Achsenabschnitt), y 1O (mittlerer Steigungskoeffizient), 2 (Varianz in den Achsenabschnitten \u00fcber Klassen hinweg) sowie 2 (Varianz in den Steigungskoeffizienten \u00fcber Klassen hinweg). Bezogen auf die Selbstkonzepte im Lesen, Rechtschreiben und in Mathematik zeigte sich jeweils ein bedeutsamer Zusammenhang zur korrespondierenden fachlichen Leistung \u00fcber alle Klassen hinweg (siehe y 1O in Tabelle 3, Zeile 3). Je positiver die Leistung von Sch\u00fclerinnen und Sch\u00fclern ausfiel, desto positiver war auch ihr Selbstkonzept. Zudem ergaben sich \u00fcber alle Klassen hinweg bedeutsame Zusammenh\u00e4nge zwischen dem sozialen Selbstkonzept und den Einsch\u00e4tzungen der Sch\u00fclerinnen und Sch\u00fcler zum Klassenklima und zur sozialen Integration. Jene Sch\u00fclerinnen und Sch\u00fcler, die das Sozialklima ihrer Klasse positiver einsch\u00e4tzten, schrieben sich auch ein positiveres soziales Selbstkonzept zu. Schlie\u00dflich ergab sich f\u00fcr die akademischen Selbstkonzepte im Lesen, Rechtschreiben und in Mathematik eine jeweils statistisch bedeutsame Varianz in den Steigungskoeffizienten (siehe \u03c3 2 in Tabelle 3, Zeile 5). Das bedeutet, dass die St\u00e4rke des Zusammenhangs zwischen fachspezifischen Kompetenzen und dem fachspezifischen Selbstkonzept \u00fcber Klassen hinweg variierte. Das Ausma\u00df der Varianz fiel dabei gering aus. Die St\u00e4rke des Zusammenhangs zwischen dem Sozialklima und dem sozialen Selbstkonzept variierte nicht \u00fcber Klassen hinweg. 4.2 Unterschiede zwischen Kindern mit und ohne SPF Zur Pr\u00fcfung des Unterschieds im Selbstkonzept Lesen sollte jedem Kind mit SPF ein Kind ohne SPF derselben Klasse zugeordnet werden, das das gleiche Geschlecht und Herkunftsland hatte und eine vergleichbare Auspr\u00e4gung in der Leistung im Lesen aufwies.",
+                "type_str": "table",
+                "content": "<table/>"
+            },
+            "TABREF4": {
+                "num": null,
+                "text": "Selbstkonzept betrachtet. Die Resultate der Studie lassen sich wie folgt zusammenfassen: Ersten hingen die fachspezifischen Kompetenzen der Sch\u00fclerinnen und Sch\u00fcler positiv mit dem jeweiligen fachspezifischen Selbstkonzept zusammen. Die St\u00e4rke der Zusammenh\u00e4nge variierte \u00fcber Klassen hinweg. Zweitens korrelierte das von den Sch\u00fclerinnen und Sch\u00fclern individuell eingesch\u00e4tzte Sozialklima der Klasse positiv mit dem sozialen Selbstkonzept. Die St\u00e4rke des Zusammenhangs zwischen Sozialklima und sozialem Selbstkonzept variierte nicht bedeutsam zwischen Klassen. Drittens unterschieden sich Sch\u00fclerinnen und Sch\u00fcler mit und ohne SPF bei vergleichbaren soziodemographischen Merkmalen sowie bei vergleichbarer Leistung nicht in ihren akademischen und sozialen Selbstkonzepten.",
+                "type_str": "table",
+                "content": "<table><tr><td>5 Diskussion</td></tr><tr><td>Das Ziel dieser Studie bestand darin, Zusammenh\u00e4nge zwischen Facetten des Selbstkonzepts,</td></tr></table>"
+            },
+            "TABREF5": {
+                "num": null,
+                "text": "Annahme, dass Lehrerinnen und Lehrer eine bedeutsame Rolle f\u00fcr die sozialen Interaktionsprozesse und damit f\u00fcr das Sozialklima einer Klasse spielen(Blatchford, Bassett & Brown, 2005), w\u00e4re zu erwarten, dass mit zunehmender Grundschulzeit der Effekt der Lehrkraft auf die Ausgestaltung der Sch\u00fcler-Sch\u00fcler-Interaktionen von Klasse zu Klasse an Variabilit\u00e4t gewinnt und somit die Zusammenh\u00e4nge zwischen sozialem Selbstkonzept und Sozialklima zwischen Klassen st\u00e4rker unterschiedlich ausgepr\u00e4gt w\u00e4ren. Zweitens soll in weiteren Analysen betrachtet werden, welche Variablen die St\u00e4rke der beobachteten Zusammenh\u00e4nge zwischen fachspezifischen Leistungen und Selbstkonzepten beeinflussen. Hierzu k\u00f6nnen Merkmale des Unterrichts (wie z.B. die Form der Leistungsbewertung) als moderierende Drittvariablen modelliert werden.",
+                "type_str": "table",
+                "content": "<table><tr><td>). Entgegen der Erwartung bestand dabei in allen</td></tr><tr><td>untersuchten Klassen ein vergleichbar hoher Zusammenhang zwischen dem sozialen Selbstkonzept</td></tr><tr><td>und dem subjektiv erlebten Sozialklima. Zum anderen wurden Effekte der Zuweisung eines SPF auf</td></tr><tr><td>die Facetten des Selbstkonzepts isoliert von Einfl\u00fcssen der Leistung betrachtet. Solche Analysen sind</td></tr><tr><td>aktuell relevant, weil derzeit Eltern inklusiv lernender Kinder trotz der M\u00f6glichkeit des Verzichts auf</td></tr><tr><td>eine Feststellung sonderp\u00e4dagogischen F\u00f6rderbedarfs die Durchf\u00fchrung eines</td></tr><tr><td>Feststellungsverfahrens h\u00e4ufig noch beantragen, um z. B. Hilfsangebote auf einer gesicherten</td></tr><tr><td>Grundlage nutzen zu k\u00f6nnen. Dass sich Sch\u00fclerinnen und Sch\u00fcler aufgrund des F\u00f6rderstatus' im</td></tr><tr><td>Selbstkonzept unterscheiden, lie\u00df sich unter Kontrolle der Variablen Geschlecht, Herkunftsland und</td></tr><tr><td>Leistung f\u00fcr keine der untersuchten Selbstkonzept-Facetten zeigen.</td></tr><tr><td>Unsere Befunde werfen weitere Forschungsfragen auf. Erstens ist zu pr\u00fcfen, ob sich unsere</td></tr><tr><td>Ergebnisse bei einer Erweiterung des Designs auf zwei Messzeitpunkte replizieren und erg\u00e4nzen</td></tr><tr><td>lassen. Aufgrund fr\u00fcherer Befunde der Grundschulforschung zur Beeinflussung der akademischen</td></tr><tr><td>Selbstkonzepte durch vorangegangene Schulleistungen wurden in der vorliegenden Studie</td></tr><tr><td>fachspezifische Leistungen als Pr\u00e4diktoren der akademischen Selbstkonzepte modelliert (Skill-</td></tr><tr><td>Development-Ansatz, Helmke, 1998). Mit einer weiteren Erhebung kann sodann \u00fcberpr\u00fcft werden,</td></tr><tr><td>ob Zuw\u00e4chse in der Auspr\u00e4gung des Selbstkonzepts durch fr\u00fchere Leistungen beeinflusst werden und</td></tr><tr><td>umgekehrt. Zudem kann analysiert werden, ob die Variabilit\u00e4t der Zusammenh\u00e4nge im weiteren</td></tr><tr><td>Verlauf der Grundschulzeit zunimmt.</td></tr><tr><td>Ausgehend von der</td></tr></table>"
+            }
+        }
+    }
+}

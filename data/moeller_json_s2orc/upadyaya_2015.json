@@ -1,0 +1,3581 @@
+{
+    "paper_id": "upadyaya_2015",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:55:19.066598Z"
+    },
+    "title": "Do teachers' perceptions of children's math and reading related ability and effort predict children's self-concept of ability in math and reading?",
+    "authors": [
+        {
+            "first": "Katja",
+            "middle": [],
+            "last": "Upadyaya",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Michigan",
+                "location": {
+                    "settlement": "Ann Arbor",
+                    "region": "MI",
+                    "country": "USA"
+                }
+            },
+            "email": "katja.upadyaya@helsinki.fi"
+        },
+        {
+            "first": "Jacquelynne",
+            "middle": [],
+            "last": "Eccles",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Michigan",
+                "location": {
+                    "settlement": "Ann Arbor",
+                    "region": "MI",
+                    "country": "USA"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This study investigated to what extent primary school teachers' perceptions of their students' ability and effort predict developmental changes in children's selfconcepts of ability in math and reading after controlling for students' academic performance and general intelligence. Three cohorts (N = 849) of elementary school children and their teachers were followed for four years. Children's selfconcepts and performance ability in math and reading were measured annually during Waves 2-4. Teachers rated the children's ability and effort at each of the four waves. Domain-specific differences and developmental changes could be identified in the associations between teachers' perceptions and children's ability self-concepts. Teachers' ability perceptions predicted children's concurrent and subsequent ability self-concepts in math and reading, whereas teachers' effort perceptions predicted children's math ability self-concept only at Wave 4. Analyses with multi-sample procedure showed that these models were similar for boys and girls and for children in different cohort groups.",
+    "pdf_parse": {
+        "paper_id": "upadyaya_2015",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "This study investigated to what extent primary school teachers' perceptions of their students' ability and effort predict developmental changes in children's selfconcepts of ability in math and reading after controlling for students' academic performance and general intelligence. Three cohorts (N = 849) of elementary school children and their teachers were followed for four years. Children's selfconcepts and performance ability in math and reading were measured annually during Waves 2-4. Teachers rated the children's ability and effort at each of the four waves. Domain-specific differences and developmental changes could be identified in the associations between teachers' perceptions and children's ability self-concepts. Teachers' ability perceptions predicted children's concurrent and subsequent ability self-concepts in math and reading, whereas teachers' effort perceptions predicted children's math ability self-concept only at Wave 4. Analyses with multi-sample procedure showed that these models were similar for boys and girls and for children in different cohort groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Positive self-concept of ability in different domains is related to high academic learning and achievement (Eccles, Wigfield, & Schiefele, 1997) , and thus, is a widely valued educational goal (Marsh, Trautwein, L\u00fcdtke, K\u00f6ller, & Baumert, 2005) . At the beginning of primary school, children typically have high ability selfconcepts in various domains, which proceed to significantly decline over the school years (Aunola, Leskinen, Onatsu-Arvilommi, & Nurmi, 2002; Bouffard, Marcoux, Vezeau, & Bordeleau, 2003) . One possible cause for these declines is children's increased understanding of the evaluative feedback they receive from their teachers (Stipek & Iver, 1989) which is usually based on teachers' perceptions of the causes of children's performance (Graham, 1990) . Teachers may, for example, perceive high-achieving children as having high abilities (Holloway & Hess, 1985) , or believe that children with high academic motivation invest a great amount of effort in their schoolwork (Upadyaya, Viljaranta, Lerkkanen, Poikkeus, & Nurmi, 2012) . Children, in turn, assimilate teachers' perceptions into their self-perceptions, which may further show in their ability self-concepts in different domains (Rosenholtz & Simpson, 1984; Tiedemann, 2000) . However, to the authors' knowledge, no studies exist examining these associations over the primary school years. Consequently, the present longitudinal study investigates the extent to which teachers' ability and effort perceptions predict the ontogeny and development of children's math/reading ability self-concepts from kindergarten through sixth grade. To isolate the predictive role of teachers' perceptions, children's report card marks and standardised scores of general knowledge at the beginning of the study were controlled for in the analyses.",
+                "cite_spans": [
+                    {
+                        "start": 107,
+                        "end": 144,
+                        "text": "(Eccles, Wigfield, & Schiefele, 1997)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 193,
+                        "end": 244,
+                        "text": "(Marsh, Trautwein, L\u00fcdtke, K\u00f6ller, & Baumert, 2005)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 414,
+                        "end": 465,
+                        "text": "(Aunola, Leskinen, Onatsu-Arvilommi, & Nurmi, 2002;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 466,
+                        "end": 511,
+                        "text": "Bouffard, Marcoux, Vezeau, & Bordeleau, 2003)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 650,
+                        "end": 671,
+                        "text": "(Stipek & Iver, 1989)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 760,
+                        "end": 774,
+                        "text": "(Graham, 1990)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 862,
+                        "end": 885,
+                        "text": "(Holloway & Hess, 1985)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 995,
+                        "end": 1053,
+                        "text": "(Upadyaya, Viljaranta, Lerkkanen, Poikkeus, & Nurmi, 2012)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 1212,
+                        "end": 1240,
+                        "text": "(Rosenholtz & Simpson, 1984;",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1241,
+                        "end": 1257,
+                        "text": "Tiedemann, 2000)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Self-concept of ability in math and reading When children enter primary school, they have quite high, positive ability self-concepts in math and reading (Bouffard et al., 2003; Eccles, Wigfield, Harold, & Blumenfeld, 1993) which, however, over the school years, decline and stabilise (Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002) . These changes reflect the development of children's ability to make social comparisons and to integrate performance feedback over time in service of fine tuning one's ability self-concepts (Bouffard, Markovits, Vezeau, Boisvert, & Dumas, 1998) , as well as declines in the children's engagement and performance in different domains (Chapman & Tunmer, 1997; Denissen, Zarrett, & Eccles, 2007; Helmke & van Aken, 1995; Herbert & Stipek, 2005; Marsh, 1990; Valentine, DuBois, & Cooper, 2004) . In addition, during the early elementary school years, children are sensitive to the perceptions and feedback of their teachers (Graham, 1990; Spinath & Spinath, 2005) whose evaluations, depending on their content, are further positively or negatively reflected in children's academic motivation and performance (Natale, Viljaranta, Lerkkanen, Poikkeus, & Nurmi, 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 153,
+                        "end": 176,
+                        "text": "(Bouffard et al., 2003;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 177,
+                        "end": 222,
+                        "text": "Eccles, Wigfield, Harold, & Blumenfeld, 1993)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 284,
+                        "end": 333,
+                        "text": "(Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 525,
+                        "end": 579,
+                        "text": "(Bouffard, Markovits, Vezeau, Boisvert, & Dumas, 1998)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 668,
+                        "end": 692,
+                        "text": "(Chapman & Tunmer, 1997;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 693,
+                        "end": 727,
+                        "text": "Denissen, Zarrett, & Eccles, 2007;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 728,
+                        "end": 752,
+                        "text": "Helmke & van Aken, 1995;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 753,
+                        "end": 776,
+                        "text": "Herbert & Stipek, 2005;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 777,
+                        "end": 789,
+                        "text": "Marsh, 1990;",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 790,
+                        "end": 824,
+                        "text": "Valentine, DuBois, & Cooper, 2004)",
+                        "ref_id": "BIBREF59"
+                    },
+                    {
+                        "start": 955,
+                        "end": 969,
+                        "text": "(Graham, 1990;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 970,
+                        "end": 994,
+                        "text": "Spinath & Spinath, 2005)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 1139,
+                        "end": 1195,
+                        "text": "(Natale, Viljaranta, Lerkkanen, Poikkeus, & Nurmi, 2009)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Boys typically have higher math ability self-concepts than girls, and are more likely than girls to overestimate their math abilities, while girls are more likely to underestimate their math abilities (Skaalvik & Skaalvik, 2004) and report higher self-concept in reading (Wigfield et al., 1997) . It has been suggested that teachers' and parents' gender-stereotypic perceptions of children are partially responsible for these differences (Frome & Eccles, 1998; Herbert & Stipek, 2005; Jacobs & Eccles, 2000) . Girls may also have lower self-concept in some academic domains because they are more sensitive than boys to others' evaluative feedback (Jussim, Eccles, & Madon, 1996) . In the present study, we investigated this further. Based on the previous literature, we expected that children's ability self-concepts would slightly decrease over the primary school years and that boys would show higher self-concept of math ability than girls, whereas girls would show higher self-concept of reading ability than boys. Moreover, we expected that younger children would show higher self-concept of math and reading ability than older children.",
+                "cite_spans": [
+                    {
+                        "start": 201,
+                        "end": 228,
+                        "text": "(Skaalvik & Skaalvik, 2004)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 271,
+                        "end": 294,
+                        "text": "(Wigfield et al., 1997)",
+                        "ref_id": "BIBREF64"
+                    },
+                    {
+                        "start": 438,
+                        "end": 460,
+                        "text": "(Frome & Eccles, 1998;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 461,
+                        "end": 484,
+                        "text": "Herbert & Stipek, 2005;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 485,
+                        "end": 507,
+                        "text": "Jacobs & Eccles, 2000)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 647,
+                        "end": 678,
+                        "text": "(Jussim, Eccles, & Madon, 1996)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Teachers' perceptions concerning their students' achievement have typically been investigated in the framework of the attributional theory of motivation (Weiner, 1985 (Weiner, , 1986 and the expectancy-value model of motivation (Eccles et al., 1983; Wigfield & Eccles, 2000) . According to the attributional theory of motivation internal explanations, such as ability and effort, are especially important in motivating children to do well at school (Weiner, 1994) . Teachers' perceptions of children's ability and effort are similar to each other in that they are both internal qualities of a child (Weiner, 1985 (Weiner, , 1986 . However, they are different in the dimensions of controllability and stability (Weiner, 1985 (Weiner, , 1986 . For example, a child cannot control the amount of his/her 'innate' ability, but can easily control and change the amount of effort he/she puts into tasks (Weiner, 1994) . Moreover, one can employ an entity view of abilities (e.g. perceiving abilities as a fixed trait) or an incremental view of abilities (e.g. perceiving abilities as malleable) (Dweck & Leggett, 1988) . Incremental view of abilities is typically perceived as more beneficial for learning, however, in classrooms where gender stereotypes are low students may feel that they can better demonstrate their high abilities and continue employing and entity view of their abilities (Good, Rattan, & Dweck, 2012) . According to the expectancy-value model of motivation (Eccles et al., 1983; Wigfield & Eccles, 2000) , teachers are significant socialisers whose perceptions impact children's ability self-concepts and academic motivation (Madon et al., 2001 ). Teachers' perceptions are typically communicated to children indirectly through teachers' feedback, emotional responses (Butler, 1994; Georgiou, Christou, Stavrinides, & Panaoura, 2002) and classroom practices (Stipek, Givvin, Salmon, & MacGyvers, 2001 ). For example, when teachers have high expectations for a student, they typically express more praise to him/her and provide the student with more challenging materials, which, in turn, predicts increase in a student's expectations of his/her future competence (Kuklinski & Weinstein, 2001; Pallas, Entwisle, Alexander, & Stluka, 1994; Parsons, Kaczala, & Meece, 1982) . Teachers are often unaware of the subtle cues that communicate their beliefs during teacher-student interaction (Graham, 1984) . For example, a teacher's pity towards a failing student may indicate to the child that he/she lacks the ability to succeed (Georgiou et al., 2002) , which may further show as a decrease in his/her ability self-concept. Moreover, teachers' perceptions are typically more accurate and objective (Jussim & Harber, 2005 ) than parents' perceptions (K\u00e4rkk\u00e4inen & R\u00e4ty, 2010) because children move from one teacher to another every year, whereas parents may share the same perceptual biases with their children over the school years.",
+                "cite_spans": [
+                    {
+                        "start": 153,
+                        "end": 166,
+                        "text": "(Weiner, 1985",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 167,
+                        "end": 182,
+                        "text": "(Weiner, , 1986",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 228,
+                        "end": 249,
+                        "text": "(Eccles et al., 1983;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 250,
+                        "end": 274,
+                        "text": "Wigfield & Eccles, 2000)",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 449,
+                        "end": 463,
+                        "text": "(Weiner, 1994)",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 599,
+                        "end": 612,
+                        "text": "(Weiner, 1985",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 613,
+                        "end": 628,
+                        "text": "(Weiner, , 1986",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 710,
+                        "end": 723,
+                        "text": "(Weiner, 1985",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 724,
+                        "end": 739,
+                        "text": "(Weiner, , 1986",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 896,
+                        "end": 910,
+                        "text": "(Weiner, 1994)",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 1088,
+                        "end": 1111,
+                        "text": "(Dweck & Leggett, 1988)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1386,
+                        "end": 1415,
+                        "text": "(Good, Rattan, & Dweck, 2012)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1472,
+                        "end": 1493,
+                        "text": "(Eccles et al., 1983;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1494,
+                        "end": 1518,
+                        "text": "Wigfield & Eccles, 2000)",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 1640,
+                        "end": 1659,
+                        "text": "(Madon et al., 2001",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1783,
+                        "end": 1797,
+                        "text": "(Butler, 1994;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1798,
+                        "end": 1848,
+                        "text": "Georgiou, Christou, Stavrinides, & Panaoura, 2002)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1873,
+                        "end": 1915,
+                        "text": "(Stipek, Givvin, Salmon, & MacGyvers, 2001",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 2178,
+                        "end": 2207,
+                        "text": "(Kuklinski & Weinstein, 2001;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 2208,
+                        "end": 2252,
+                        "text": "Pallas, Entwisle, Alexander, & Stluka, 1994;",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 2253,
+                        "end": 2285,
+                        "text": "Parsons, Kaczala, & Meece, 1982)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 2400,
+                        "end": 2414,
+                        "text": "(Graham, 1984)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 2540,
+                        "end": 2563,
+                        "text": "(Georgiou et al., 2002)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 2710,
+                        "end": 2732,
+                        "text": "(Jussim & Harber, 2005",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 2761,
+                        "end": 2786,
+                        "text": "(K\u00e4rkk\u00e4inen & R\u00e4ty, 2010)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' perceptions of children's ability and effort",
+                "sec_num": null
+            },
+            {
+                "text": "Teachers' ability and effort perceptions are also closely related to children's academic achievement and motivation. Teachers often perceive high-achieving children as having high abilities (Holloway & Hess, 1985) , and highly motivated children as talented and effortful (Upadyaya et al., 2012) . However, according to some studies, teachers' (Natale et al., 2009) and parents' (Rytk\u00f6nen, Aunola, & Nurmi, 2007) perceptions predict children's motivation more often than children's motivational constructs predict teachers' or parents' perceptions. This may occur because, particularly during the early elementary school years children assimilate teachers' perceptions into their own ability self-concepts (Rosenholtz & Simpson, 1984; Tiedemann, 2000) and teachers' expectations concerning children's future performance and achievement come to be reflected in children's expectations for their own achievement (Herbert & Stipek, 2005; Kuklinski & Weinstein, 2001 ).",
+                "cite_spans": [
+                    {
+                        "start": 190,
+                        "end": 213,
+                        "text": "(Holloway & Hess, 1985)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "text": "(Upadyaya et al., 2012)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 344,
+                        "end": 365,
+                        "text": "(Natale et al., 2009)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 379,
+                        "end": 412,
+                        "text": "(Rytk\u00f6nen, Aunola, & Nurmi, 2007)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 706,
+                        "end": 734,
+                        "text": "(Rosenholtz & Simpson, 1984;",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 735,
+                        "end": 751,
+                        "text": "Tiedemann, 2000)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 910,
+                        "end": 934,
+                        "text": "(Herbert & Stipek, 2005;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 935,
+                        "end": 962,
+                        "text": "Kuklinski & Weinstein, 2001",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' perceptions of children's ability and effort",
+                "sec_num": null
+            },
+            {
+                "text": "Children's gender, age and type of teachers' feedback are also reflected in the associations between teachers' perceptions, feedback and children's ability selfconcepts and outcomes. Boys' success is often attributed to ability and girls' success to effort, especially in math (Madon et al., 1998; Tiedemann, 2002) , and teachers give girls more often than boys feedback related to the intellectual quality of their work (Dweck, Davidson, Nelson, & Enna, 1978) . Similarly, in Western cultures a common belief is that mathematical performance is more strongly linked to natural talent than reading (Dweck, 2008; Stipek, 1984) . Moreover, because older children have a better understanding of the inverse association of ability and effort with outcomes, they are more likely than younger children to understand that high effort does not necessarily indicate high abilities and that success in more difficult tasks require higher ability (Dweck & Leggett, 1988; Nicholls, 1978) . Thus, the present study examined the possible age, gender and subject area differences in the associations between teachers' perceptions, and students' ability self-concepts and performance across time. We expected that teachers' perceptions of ability would predict children's ability self-concepts especially in math, and that teachers' effort perceptions would predict children's ability self-concepts especially towards the end of the primary school. Moreover, children's performance in math and reading were expected to positively predict their ability self-concepts.",
+                "cite_spans": [
+                    {
+                        "start": 277,
+                        "end": 297,
+                        "text": "(Madon et al., 1998;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 298,
+                        "end": 314,
+                        "text": "Tiedemann, 2002)",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 421,
+                        "end": 460,
+                        "text": "(Dweck, Davidson, Nelson, & Enna, 1978)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 598,
+                        "end": 611,
+                        "text": "(Dweck, 2008;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 612,
+                        "end": 625,
+                        "text": "Stipek, 1984)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 936,
+                        "end": 959,
+                        "text": "(Dweck & Leggett, 1988;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 960,
+                        "end": 975,
+                        "text": "Nicholls, 1978)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Teachers' perceptions of children's ability and effort",
+                "sec_num": null
+            },
+            {
+                "text": "This study is a part of the Childhood and Beyond Study, in which three cohorts of children and their teachers were followed over many years starting in 1986 (see also Eccles et al., 1993) . Here we use data from the first four waves of the study, in which children were followed from the kindergarten to sixth grade. The sample consists of 849 children who attended school in Southeastern Michigan and their teachers; in the first wave, 240 were kindergarteners (118 girls, 122 boys), 246 were first graders (126 girls, 120 boys) and 363 were third grades (189 girls, 174 boys). The number of schools varied from 8 to 16 between the Waves, and most attrition was due to the school transitions and children moving out from the school district (77% of the children were present at all measurement times). There were 102 teachers at Wave 1, 81 at Wave 2, 127 at Wave 3 and 125 at Wave 4; the vast majority of teachers were female, white and had elementary school teaching credentials. The majority of the children were from middle-class backgrounds, and 92.3% of the children were European American (2.5% were Asian-American, 1.9% Arab, 1.4% African-American, 1.2% Asian-Indian, .5% Hispanic and .2% were American Indian children).",
+                "cite_spans": [
+                    {
+                        "start": 167,
+                        "end": 187,
+                        "text": "Eccles et al., 1993)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants and procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Children completed a questionnaire concerning their ability self-concepts three times (Waves 2-4) during the spring term. The questionnaires were administered to the children by a trained research assistant. Using a seven-point Likert scale (1 = not at all good and 7 = very good) children answered to a set of five questions with separate illustrations in math and reading (i.e. 'How good at math are you?'; and 'How good would you be at learning something new in reading?') (see also Eccles et al., 1993) . Two mean scores were calculated for children's ability self-concepts. The Cronbach's alpha reliabilities were .76, .79 and .70 for math, and .81, .84 and .86 for reading. The basic developmental shifts in the values in this sample have been reported elsewhere (Jacobs et al., 2002) . These measures are highly established and used in several international studies, for example, PISA (OECD Programme for International Student Assessment, 2011).",
+                "cite_spans": [
+                    {
+                        "start": 486,
+                        "end": 506,
+                        "text": "Eccles et al., 1993)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 769,
+                        "end": 790,
+                        "text": "(Jacobs et al., 2002)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Self-concept of ability in math and reading",
+                "sec_num": null
+            },
+            {
+                "text": "Information concerning children's performance in math and reading was obtained from school reports at the end of each school year (Waves 2-4). The grading methods varied across schools. Therefore, a coding system was devised in order to equate different grading methods. Grades were coded on a scale of 1-16 where 1 represented an F\u2212 and 16 an A+. The math grades for Waves 2-4 ranged between 5 and 15 (M = 10.68, SD = 2.04), 3 and 15 (M = 11.43, SD = 2.17) and 6 and 15 (M = 11.66, SD = 1.81), respectively. Similarly, the grades for reading performance ranged between 4 and 15 (M = 11.09, SD = 1.96), 6 and 15 (M = 11.77, SD = 2.14) and 5 and 15 (M = 11.82, SD = 1.79).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Performance in math and reading",
+                "sec_num": null
+            },
+            {
+                "text": "The Slosson Intelligence Test (SIT) (Slosson, 1963) was administered to the children by a trained research assistant (Wave 1). The SIT measures children's general knowledge and it serves as an objective indicator of young children's general verbal intelligence (Crofoot & Bennett, 1980; Stewart & Jones, 1976 ).",
+                "cite_spans": [
+                    {
+                        "start": 36,
+                        "end": 51,
+                        "text": "(Slosson, 1963)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 261,
+                        "end": 286,
+                        "text": "(Crofoot & Bennett, 1980;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 287,
+                        "end": 308,
+                        "text": "Stewart & Jones, 1976",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "General intelligence",
+                "sec_num": null
+            },
+            {
+                "text": "Gender: 1 = female, 2 = male; Cohort status: 1 = kindergarteners, 2 = first graders and 3 = third graders (Wave 1).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Demographics",
+                "sec_num": null
+            },
+            {
+                "text": "Teachers filled in a questionnaire once during each spring term of the study (Waves 1-4) concerning each of their students' innate ability and effort in math and reading. Teachers were asked to rate how much they believed individual children had innate ability in math and reading, and how much effort they put into their tasks (i.e. 'Compared to other children, how much innate ability or talent this child have in each of the following?' and 'Compared to other children, how hard does this child try in each activity area listed below?' with the alternatives of math and reading). Teachers answered to the questions using a seven-point Likert scale (1 = very little/ not at all hard and 7 = a lot/very hard).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ability and effort perceptions",
+                "sec_num": null
+            },
+            {
+                "text": "The preliminary cross-lagged path models suggested that that teachers' perceptions and children's math/reading performance predicted children's' ability self-concepts more often than vice versa. However, these preliminary models showed a relatively poor fit, and thus, to better capture (1) the development of children's math/reading ability self-concepts and (2) the strongest associations between children's ability self-concepts and teachers' perceptions, the research questions were analysed using latent growth curve models (LGMs; Duncan et al., 1997) with time-varying covariates. The analyses were carried out in four steps. First, to investigate the extent to which children's ability self-concepts would change across time, LGMs were carried out separately for children's math/reading ability self-concepts. The observed values of the composite scores for children's self-concepts at Wave 2, Wave 3 and Wave 4 were specified as a growth model. In these models, the mean level of the selfconcepts (intercept), their average growth (slope) and individual variation across these scores were estimated. Intercept was specified by setting the loadings of the three observed values of the self-concepts to 1, and slope was specified by setting the loadings of the three observed values of the self-concepts to 0, 1 and 2, assuming a linear growth with equal spacing of assessments over time. The residual variances of the observed variables were allowed to be freely estimated.",
+                "cite_spans": [
+                    {
+                        "start": 536,
+                        "end": 556,
+                        "text": "Duncan et al., 1997)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analysis strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Second, to investigate the extent to which teachers' ability and effort perceptions at each wave would contribute to the development of children's math/reading ability self-concepts; teachers' perceptions were added to the models as time-varying covariates. Similarly, children's math/reading performance report card marks were added to the models as time-varying covariates. Two models were constructed separately for children's ability self-concepts in math and reading. Time-varying effects were specified by adding a path from teachers' ability and effort perceptions and from children's math/reading performance at each wave to the observed value of selfconcept at the same wave. In addition, cross-paths from previous years' teachers' perceptions and from children's performance at Wave 2 and Wave 3 to children's subsequent ability self-concepts were included for the Wave 3 and Wave 4. All the endogenous variables were allowed to covary. Moreover, because the teachers were rating the same students each year, teachers' perceptions for the same children were allowed to correlate with each other over time. Similarly, children's math/reading performance variables were allowed to correlate over time. A basic model of the study is presented in Figure 1 . To further examine the nesting of children in different classrooms taught by different teachers, cross-sectional multi-level models were also carried out. The results of the cross-sectional multi-level models were similar to the ones presented here (see also Upadyaya & Eccles, in press b) . However, because the teachers changed every year it was not possible to carry out these analyses longitudinally, which was the focus of the present study.",
+                "cite_spans": [
+                    {
+                        "start": 1523,
+                        "end": 1553,
+                        "text": "Upadyaya & Eccles, in press b)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1253,
+                        "end": 1261,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analysis strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Third, to investigate the extent to which children's gender, general intelligence and cohort status, as well as teachers' initial ability and effort perceptions (Wave 1) would predict the level (intercept) and changes (slope) in children's self-concepts of ability, these predictors were included in the models as covariates. Moreover, the impact of these variables on teachers' perceptions and children's math/reading performance (Wave 2) was controlled.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analysis strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Fourth, to investigate whether teachers' ability and effort perceptions would predict children's ability self-concepts differently according to gender or cohort status of the children, multi-group (J\u00f6reskog & S\u00f6rbom, 1993) LGM analyses were carried out. In these analyses, the data were divided into two (e.g. boys and girls) or three (e.g. children in 1st, 2nd and 3rd cohort) samples. The final LGMs with time-varying covariates were carried out assuming that all the paths would be equal for the different subgroups. All the analyses were carried out using the Mplus statistical package (Version 6.11; Muth\u00e9n & Muth\u00e9n, 1998 -2013 . Using the missing data method with the MRL estimator (Muth\u00e9n & Muth\u00e9n, 1998 -2013 , we were able to use all observations available in the data-set. The goodness of fit of the estimated models was evaluated using five indicators: \u03c7 2 test, Comparative Fit Index (CFI), Tucker-Lewis Index (TLI), Root Mean Square Error of Approximation (RMSEA) and Standardised Root Mean Square Residual (SRMR).",
+                "cite_spans": [
+                    {
+                        "start": 197,
+                        "end": 222,
+                        "text": "(J\u00f6reskog & S\u00f6rbom, 1993)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 590,
+                        "end": 604,
+                        "text": "(Version 6.11;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 605,
+                        "end": 626,
+                        "text": "Muth\u00e9n & Muth\u00e9n, 1998",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 627,
+                        "end": 632,
+                        "text": "-2013",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 688,
+                        "end": 710,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 1998",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 711,
+                        "end": 716,
+                        "text": "-2013",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analysis strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Changes in children's self-concepts of math and reading ability First, LGMs were constructed separately for children's math/reading ability selfconcepts to investigate the mean level, average change and inter-individual variation across these mean components in children's self-concepts. Both the models were constructed across three measurement points, and intercept and slope components were specified for them. The model for children's self-concept of math ability fit the data well (\u03c7 2 (1, N = 1136) = .111, p = .74, CFI = 1.00, TLI = 1.01, RMSEA = .00, SRMR = .00). In addition, both the mean and variation were statistically significant for the intercept (M = 7.56, p < .001, Var = .53, p < .001) and slope (M = \u2212.24, p < .01, Var = .12, p < .01), indicating significant individual differences both in the initial status and developmental trend. The model for children's self-concept of reading ability fit the data well (\u03c7 2 (1, N = 1136) = 1.61, p = .20, CFI = .99, TLI = .99, RMSEA = .02, SRMR = .01). In addition, both the mean and variation were statistically significant for the intercept (M = 7.24, p < .001, Var = .33, p < .001) and slope (M = \u2212.33, p < .001, Var = .21, p < .001), indicating that there were significant individual differences both in the initial status and developmental trend of children's self-concept of reading ability. The results for children's ability self-concepts suggested that both children's self-concept of ability in math and reading declined during the elementary school years.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Next, teachers' perceptions and children's performance were included in the models as time-varying covariates. Moreover, children's gender, general intelligence, cohort status and teachers' perceptions at Wave 1 were added as covariates in the LGMs. The means and standard deviations of teachers' ability and effort perceptions are presented in Table 1 . The results showed that there was a slight decrease in teachers' perceptions of ability and effort in math and reading across time (i.e. as the children got older) ( Table 1) . The correlations between all the variables are presented in the Table 2 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 345,
+                        "end": 352,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 521,
+                        "end": 529,
+                        "text": "Table 1)",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 596,
+                        "end": 603,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Antecedents of children's self-concept of ability in math and reading",
+                "sec_num": null
+            },
+            {
+                "text": "Testing of the models was started by estimating all the paths from the timevarying covariates to the observed values of children's self-concepts, as well as the paths from the control variables to growth components and Wave 2 perceptions and performance. To identify the final models, all the statistically non-significant paths were set to zero.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Antecedents of children's self-concept of ability in math and reading",
+                "sec_num": null
+            },
+            {
+                "text": "The results showed, first, that boys and younger children had higher initial level of math self-concepts than boys and children in older cohorts (Table 3) . Similarly, younger children had higher initial self-concept of reading ability than older children. Moreover, compared to boys, the linear slope for girls' self-concept of reading ability was less negative.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 145,
+                        "end": 154,
+                        "text": "(Table 3)",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Antecedents of intercept and slope constructs and Wave 2 variables",
+                "sec_num": null
+            },
+            {
+                "text": "Moreover, children's high general intelligence and teachers' initial ability perceptions (Wave 1) positively predicted subsequent teachers' ability perceptions and children's performance in math and reading (Wave 2). Teachers' initial effort perceptions (Wave 1) predicted children's performance in reading but not in math (Wave 2). Teachers' initial ability and effort perceptions (Wave 1) also predicted teachers' subsequent effort perceptions (Wave 2). Girls and older children and children with high general knowledge also showed higher math and reading performance than boys, younger children and children with a lower level of general knowledge at Wave 1. However, further analyses showed that the results for girls' higher math performance were due to a suppression effect and high correlation between teachers' initial ability perceptions and children's gender.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Antecedents of intercept and slope constructs and Wave 2 variables",
+                "sec_num": null
+            },
+            {
+                "text": "Teachers' perceptions and children's self-concept of math ability The final model for teachers' perceptions and children's self-concept of math ability fit the data well (Table 4) . As predicted, teachers' ability perceptions positively predicted children's concurrent self-concepts of math ability across the school years (Waves 2-4; Table 3 ). In addition, the previous level of teachers' ability perception (Wave 3) predicted an increase of children's subsequent self-concept of math ability at Wave 4. Teachers' concurrent effort perceptions predicted children's self-concepts of math ability at Wave 4. Moreover, when children's math performance was high (Waves 2-3), children's concurrent and subsequent self-concepts of math ability were also high.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 170,
+                        "end": 179,
+                        "text": "(Table 4)",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 335,
+                        "end": 342,
+                        "text": "Table 3",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Antecedents of intercept and slope constructs and Wave 2 variables",
+                "sec_num": null
+            },
+            {
+                "text": "Teachers' perceptions and children's self-concept of reading ability The final model for teachers' perceptions and children's self-concept of reading ability fit the data well (Table 4 ). The results showed that when teachers believed that children had innate ability in reading (Waves 2-4), children's concurrent selfconcept of reading ability was also high (Table 3 ). In addition, the previous level of teachers' ability perceptions (Wave 2 and Wave 3) predicted an increase of children's subsequent self-concept of reading ability. No statistically significant time-invariant predictions were found from teachers' effort perceptions or children's performance in reading to children's self-concept of reading ability at any Wave. 1-year prior teachers' ability perceptions .14** .10* 2-year prior teachers' ability perceptions 0 + .14** Concurrent teachers' effort perceptions .11** 0 + 1-year prior teachers' effort perceptions 0 + 0 + 2-year prior teachers' effort perceptions 0 + 0 + Concurrent math/reading performance 0 + 0 + 1-year prior math/reading performance .11* 0 + 2-year prior math/reading performance .10** 0 + Note: + Fixed to zero. ***p < .001; **p < .01; *p < .05. Gender and cohort differences In order to examine whether teachers' perceptions of children's ability or effort, children's general intelligence and math/reading performance would predict children's math/reading ability self-concepts similarly among boys and girls and among children in different cohorts; all analyses were carried out using the multi-sample procedure (J\u00f6reskog & S\u00f6rbom, 1993) . In these analyses, the data were divided into two (e.g. boys and girls) or three (e.g. children in 1st, 2nd and 3rd cohort) samples.",
+                "cite_spans": [
+                    {
+                        "start": 1555,
+                        "end": 1580,
+                        "text": "(J\u00f6reskog & S\u00f6rbom, 1993)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 176,
+                        "end": 184,
+                        "text": "(Table 4",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 359,
+                        "end": 367,
+                        "text": "(Table 3",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Antecedents of intercept and slope constructs and Wave 2 variables",
+                "sec_num": null
+            },
+            {
+                "text": "LGMs with time-varying covariates were carried out assuming that all the paths would be equal for the different subgroups. If the fit of the model was good and no significant modification indices were found, the model was assumed to fit the subgroups equally. These analyses showed that all the models fit equally all the groups' data. Thus, we found no evidence that the general model differs for either boys and girls or children from the three different cohorts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Antecedents of intercept and slope constructs and Wave 2 variables",
+                "sec_num": null
+            },
+            {
+                "text": "The present study examined the extent to which teachers' perceptions of children's ability and effort contribute to the ontogeny and development in children's ability self-concepts in math and reading. As expected, teachers' ratings of each of their students' innate abilities positively predicted children's concurrent and subsequent ability self-concepts in math and reading and across the school years. In contrast, low teacher ratings of students' math/reading abilities predicted declines in children's ability self-concepts. Similar results has been reported in kindergarten (Upadyaya et al., 2012) , however, our results add to the previous findings by showing that teachers' ability perceptions contribute also to the development of children's ability self-concepts longitudinally over the primary school years. It is possible that when teachers perceive children as having high abilities, they praise children for their personal traits which might increase children's feelings of self-worth and predict positively their self-concept of ability (see also Covington, 1984; Kamins & Dweck, 1999) . Teachers' ability perceptions may also enforce children's expectations concerning their future competence which may be incorporated into higher ability self-concepts (Eccles et al., 1983) . Moreover, these results suggested that primary school classrooms may have relatively low gender stereotypic atmosphere where children feel they can perform up to their potential, have high ability selfconcepts and high sense of belonging even when teachers would be employing entity views of intelligence (see also Good et al., 2012) . Teachers' concurrent effort perceptions, in turn, positively predicted children's Wave 4 ability self-concept in math, controlling for prior ability self-concepts and performance. These results may reflect the developmental changes in children's cognitive capacities and understanding the concepts of academic abilities and effort (Aunola et al., 2002; Bouffard et al., 1998) : At the beginning of their primary school, children usually believe that high effort equals to high abilities, however, later on they begin to understand that it takes more effort to do well if one has less abilities (Nicholls, 1978) , which in our study showed as a lack of associations between teachers' effort perceptions and children's ability self-concepts. However, towards the end of the primary school children already know that both abilities and effort are required for academic success (Nicholls, 1978) , which may explain the Wave 4 association between teachers' effort perceptions and children's self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 581,
+                        "end": 604,
+                        "text": "(Upadyaya et al., 2012)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 1063,
+                        "end": 1079,
+                        "text": "Covington, 1984;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1080,
+                        "end": 1101,
+                        "text": "Kamins & Dweck, 1999)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1270,
+                        "end": 1291,
+                        "text": "(Eccles et al., 1983)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1609,
+                        "end": 1627,
+                        "text": "Good et al., 2012)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1961,
+                        "end": 1982,
+                        "text": "(Aunola et al., 2002;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1983,
+                        "end": 2005,
+                        "text": "Bouffard et al., 1998)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 2224,
+                        "end": 2240,
+                        "text": "(Nicholls, 1978)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 2504,
+                        "end": 2520,
+                        "text": "(Nicholls, 1978)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "These results may also be explained by cultural views of effort and ability as key determinants in different subject areas. For example, success in math is generally thought to be more due to aptitude or abilities than effort (Stipek, 1984) , and it might be easily reinforced both by ability and effort perceptions of the teacher. Success in reading, especially at the beginning of primary school, may require more hard work as beginning readers have to put a lot of effort in their tasks to acquire the needed skills. Therefore, children may feel that as they have to work hard in literacy they might not have the related abilities (Dweck & Leggett, 1988; Eccles et al., 1983) . However, when teachers have confidence in children's abilities in reading, children can easily maintain a positive self-concept of reading ability. Moreover, the goals of education in the primary grades typically focus on meeting basic benchmarks in math and reading; not reaching these benchmarks at specific grade levels is perceived as having academic problems. It is typically expected that all children can reach these levels, and thus more attention is put on the role of abilities than effort which may partly explain these results.",
+                "cite_spans": [
+                    {
+                        "start": 226,
+                        "end": 240,
+                        "text": "(Stipek, 1984)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 634,
+                        "end": 657,
+                        "text": "(Dweck & Leggett, 1988;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 658,
+                        "end": 678,
+                        "text": "Eccles et al., 1983)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Moreover, as the teachers' ability perceptions predicted children's ability selfconcepts even when their current and prior performance and general intelligence was controlled for, it is possible that teachers' perceptions of children's math/reading abilities partly operate in a manner consistent with classic teacher expectancy effects (Jussim & Harber, 2005) . In line with the expectancy-value model, these results suggested that teachers are important socialisers whose beliefs are often shown in children's expectations and academic motivation (Wigfield & Eccles, 2000) . However, differences exist according to the content of teachers' beliefs, and our results showed that teachers' perceptions of children's high effort in math/reading did not operate according to classic expectancy effects. It is possible that these differences in expectancy effects are explained by other factors, such as cultural views of effort and ability in various domains and children's age and developmental stage. As expected, during the elementary school years math performance played an important role in forming children's ability self-concepts. Similar findings have been reported previously (e.g. Marsh, 1990; Marsh et al., 2005) . However, as children's ability self-concepts become more stable, specific performance information may have less impact on change over time. The results for children's ability self-concepts in reading suggested that teachers' perceptions of children's reading abilities had a stronger effect on children's ability self-concept than their actual grades. This may be due the fact that teachers' ability perceptions may increase children's feelings of self-worth (see also Covington, 1984; Kamins & Dweck, 1999) , and suggest that in some cases, teachers' perceptions of children's reading abilities may measure children's reading ability self-concepts better than their actual grades.",
+                "cite_spans": [
+                    {
+                        "start": 337,
+                        "end": 360,
+                        "text": "(Jussim & Harber, 2005)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 549,
+                        "end": 574,
+                        "text": "(Wigfield & Eccles, 2000)",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 1188,
+                        "end": 1200,
+                        "text": "Marsh, 1990;",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1201,
+                        "end": 1220,
+                        "text": "Marsh et al., 2005)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 1692,
+                        "end": 1708,
+                        "text": "Covington, 1984;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1709,
+                        "end": 1730,
+                        "text": "Kamins & Dweck, 1999)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The role of gender, cohort status and general intelligence As predicted, boys and younger children had higher level of self-concept of math ability than girls and older children. In addition, boys' self-concept in reading decreased more than girls' self-concept. Similar results have been reported previously (Aunola et al., 2002; Bouffard et al., 2003; Herbert & Stipek, 2005; Skaalvik & Skaalvik, 2004) . Girls also outperformed boys in reading which may reflect girls valuing reading higher than boys (Wigfield et al., 1997) . However, more importantly the results for the multi-group analysis suggested that boys and girls and children at different ages are equally sensitive to teachers' evaluations (see also Leflot, Onghena, & Colpin, 2010) , as opposed to girls being more sensitive (Jussim et al., 1996) .",
+                "cite_spans": [
+                    {
+                        "start": 309,
+                        "end": 330,
+                        "text": "(Aunola et al., 2002;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 331,
+                        "end": 353,
+                        "text": "Bouffard et al., 2003;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 354,
+                        "end": 377,
+                        "text": "Herbert & Stipek, 2005;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 378,
+                        "end": 404,
+                        "text": "Skaalvik & Skaalvik, 2004)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 504,
+                        "end": 527,
+                        "text": "(Wigfield et al., 1997)",
+                        "ref_id": "BIBREF64"
+                    },
+                    {
+                        "start": 715,
+                        "end": 747,
+                        "text": "Leflot, Onghena, & Colpin, 2010)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 791,
+                        "end": 812,
+                        "text": "(Jussim et al., 1996)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Finally, though even the teachers changed every year during the study, their perceptions concerning children's innate abilities and effort were relatively highly correlated, suggesting that different teachers perceive similarly how individual children perform over the elementary school years.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Several limitations should be taken into consideration when generalising the findings of the present study. First, it is possible that teachers' perceptions predicted children's self-concepts of ability simply because they are accurate (Jussim & Harber, 2005) . Second, other variables that were not studied here may have contributed to the results of the present study. For example, previous studies have shown that general social classroom climate moderates the ways teachers' expectations and perceptions are communicated to children, and may have a different impact on children's self-concept according to the classroom type (see also Patrick, Anderman, Ryan, Edelin, & Midgley, 2001) . Moreover, children's own perceptions of their abilities and effort might have contributed to their ability self-concepts (Nicholls, 1978) . Third, children's maturity might have played a role in their responses to the selfconcept questionnaire as well as in teachers' perceptions (Rosenholtz & Simpson, 1984) , and some teachers might have perceived more mature children as having higher abilities. Fourth, teachers contributed both to the data concerning their perceptions and children's grades, which might have impacted the variation of these variables. However, when the teacher-level variation was controlled for in the additional cross-sectional analyses, the results remained similar to those reported here. Fifth, most of the children of the present study came from a middle-class white background, thus the results can be generalised only to this group. Similar work needs to be done on other ethnic/racial and social class groups and other cultures.",
+                "cite_spans": [
+                    {
+                        "start": 236,
+                        "end": 259,
+                        "text": "(Jussim & Harber, 2005)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 639,
+                        "end": 688,
+                        "text": "Patrick, Anderman, Ryan, Edelin, & Midgley, 2001)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 812,
+                        "end": 828,
+                        "text": "(Nicholls, 1978)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 971,
+                        "end": 999,
+                        "text": "(Rosenholtz & Simpson, 1984)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations",
+                "sec_num": null
+            },
+            {
+                "text": "Taken together, the results of the present study showed that developmental and domain-specific differences could be identified in the associations between teachers' ability and effort perceptions and children's math/reading ability self-concepts. Especially, teachers' ability perceptions contributed to the development of children's math/reading ability self-concepts, and these results suggest that teachers' confidence in children's innate abilities can help children maintain positive math and reading ability self-concepts. However, when the children grow older they better understand that both abilities and effort are required for academic success, also teachers' perceptions of effort help in promoting children's ability self-concepts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": null
+            },
+            {
+                "text": "Thus, the results of the present study suggest that teachers should balance between the feedback of individual children's innate ability and effort in math and reading, and give their students both the feeling of competency and diligence (Craven, Marsh, & Debus, 1991) , as well as a mastery orientation and incremental views of abilities (Kamins & Dweck, 1999) . Teachers should be aware of the developmental changes that occur in children's understanding of academic abilities and effort (see also Nicholls, 1978) and give children age-appropriate feedback concerning their innate talents and hard work which would the best support children's academic motivation and learning. Especially when the children get older, teachers can give their students more confidence by helping them to focus on the process of learning and by helping their students to maintain a growth mind-set of their abilities (Dweck, 2007) . Moreover, it is likely that children perceive the importance of innate ability versus effort differently across domains, and thus are likely to react differently to teachers' perceptions of their abilities and efforts in various subjects. Children are also likely to respond differently depending on whether they are doing well or doing poorly, and whether they are responding to teachers', parents' or peers perceptions. Finally, it is also possible that differences exist in the ways teachers' ability and effort perceptions predict the various aspects of children's academic motivation (e.g. ability self-concept, interest in different domains). For example, some studies have shown that teachers' perceptions of effort predict children's math interest more often than teachers' perceptions of ability (Upadyaya & Eccles, in press a). Future studies are needed to study these associations further.",
+                "cite_spans": [
+                    {
+                        "start": 238,
+                        "end": 268,
+                        "text": "(Craven, Marsh, & Debus, 1991)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 339,
+                        "end": 361,
+                        "text": "(Kamins & Dweck, 1999)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 500,
+                        "end": 515,
+                        "text": "Nicholls, 1978)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 899,
+                        "end": 912,
+                        "text": "(Dweck, 2007)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1720,
+                        "end": 1739,
+                        "text": "(Upadyaya & Eccles,",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": null
+            },
+            {
+                "text": "Educational Psychology",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Three methods for studying developmental change: A case of reading skills and self-concept",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Aunola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Leskinen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Onatsu-Arvilommi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-E",
+                        "middle": [],
+                        "last": "Nurmi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "72",
+                "issue": "",
+                "pages": "343--364",
+                "other_ids": {
+                    "DOI": [
+                        "10.1348/000709905X51608"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Aunola, K., Leskinen, E., Onatsu-Arvilommi, T., & Nurmi, J.-E. (2002). Three methods for studying developmental change: A case of reading skills and self-concept. British Journal of Educational Psychology, 72, 343-364. doi:10.1348/000709905X51608",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Changes in self-perceptions of competence and intrinsic motivation among elementary schoolchildren",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Bouffard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.-F",
+                        "middle": [],
+                        "last": "Marcoux",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Vezeau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Bordeleau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "73",
+                "issue": "",
+                "pages": "171--186",
+                "other_ids": {
+                    "DOI": [
+                        "10.1348/00070990360626921"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Bouffard, T., Marcoux, M.-F., Vezeau, C., & Bordeleau, L. (2003). Changes in self-percep- tions of competence and intrinsic motivation among elementary schoolchildren. British Journal of Educational Psychology, 73, 171-186. doi:10.1348/00070990360626921",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "The relation between accuracy of self-perception and cognitive development",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Bouffard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Markovits",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Vezeau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Boisvert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Dumas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "68",
+                "issue": "",
+                "pages": "321--330",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.2044-8279.1998.tb01294.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Bouffard, T., Markovits, H., Vezeau, C., Boisvert, M., & Dumas, C. (1998). The relation between accuracy of self-perception and cognitive development. British Journal of Educational Psychology, 68, 321-330. doi:10.1111/j.2044-8279.1998.tb01294.x",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Teacher communications and student interpretations: Effects of teacher responses to failing students on attributional inferences in two age groups",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Butler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "64",
+                "issue": "",
+                "pages": "277--294",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.2044-8279.1994.tb01102.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Butler, R. (1994). Teacher communications and student interpretations: Effects of teacher responses to failing students on attributional inferences in two age groups. British Journal of Educational Psychology, 64, 277-294. doi:10.1111/j.2044-8279.1994.tb01102.x",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "A longitudinal study of beginning reading achievement and reading self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Chapman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Tunmer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "67",
+                "issue": "",
+                "pages": "279--291",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.92.4.703"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Chapman, J. W., & Tunmer, W. E. (1997). A longitudinal study of beginning reading achievement and reading self-concept. British Journal of Educational Psychology, 67, 279-291. doi:10.1037/0022-0663.92.4.703",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "The self-worth theory of achievement motivation: Findings and implications",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Covington",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "The Elementary School Journal",
+                "volume": "85",
+                "issue": "",
+                "pages": "5--20",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Covington, M. V. (1984). The self-worth theory of achievement motivation: Findings and implications. The Elementary School Journal, 85, 5-20.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Effects of internally focused feedback and attributional feedback on enhancement of academic self-concept",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Debus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Journal of Educational Psychology",
+                "volume": "83",
+                "issue": "",
+                "pages": "17--27",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.83.1.17"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Craven, R. G., Marsh, H. W., & Debus, R. L. (1991). Effects of internally focused feedback and attributional feedback on enhancement of academic self-concept. Journal of Educa- tional Psychology, 83, 17-27. doi:10.1037/0022-0663.83.1.17",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "A comparison of three screening tests and the WISC-R in special educational evaluations",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Crofoot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Bennett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "Psychology in the Schools",
+                "volume": "17",
+                "issue": "",
+                "pages": "474--478",
+                "other_ids": {
+                    "DOI": [
+                        "10.1002/1520-6807(198010)17:4<474:AID-PITS2310170410>3.0.CO;2-O"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Crofoot, M. J., & Bennett, T. S. (1980). A comparison of three screening tests and the WISC-R in special educational evaluations. Psychology in the Schools, 17, 474-478. doi:10.1002/1520-6807(198010)17:4<474:AID-PITS2310170410>3.0.CO;2-O",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "I like to do it, I'm able, and I know I am: Longitudinal couplings between domain-specific achievement, self-concept, and interest",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J A"
+                        ],
+                        "last": "Denissen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Zarrett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Child Development",
+                "volume": "78",
+                "issue": "",
+                "pages": "430--447",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1467-8624.2007.01007.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Denissen, J. J. A., Zarrett, N. R., & Eccles, J. S. (2007). I like to do it, I'm able, and I know I am: Longitudinal couplings between domain-specific achievement, self-concept, and interest. Child Development, 78, 430-447. doi:10.1111/j.1467-8624.2007.01007.x",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Latent variable modeling of longitudinal and multilevel substance use data",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Duncan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Duncan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Alpert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Hops",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Stoolmiller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Multivariate Behavioral Research",
+                "volume": "32",
+                "issue": "",
+                "pages": "275--318",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/s15327906mbr3203_3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Duncan, T. E., Duncan, S. C., Alpert, A., Hops, H., Stoolmiller, M., & Muth\u00e9n, B. (1997). Latent variable modeling of longitudinal and multilevel substance use data. Multivariate Behavioral Research, 32, 275-318. doi:10.1207/s15327906mbr3203_3",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "The perils and promises of praise",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Educational Leadership",
+                "volume": "65",
+                "issue": "",
+                "pages": "34--39",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dweck, C. S. (2007). The perils and promises of praise. Educational Leadership, 65, 34-39.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Mindsets and math/science achievement",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Report for the Carnegie Corporation of New York-Institute for Advanced Study Commission on Mathematics and Science Education",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dweck, C. S. (2008). Mindsets and math/science achievement. Report for the Carnegie Cor- poration of New York-Institute for Advanced Study Commission on Mathematics and Science Education. Retrieved from http://opportunityequation.org/",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Sex differences in learned helplessness: II. The contingencies of evaluative feedback in the classroom and III. An experimental analysis",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Davidson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Enna",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "Developmental Psychology",
+                "volume": "14",
+                "issue": "",
+                "pages": "268--276",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0012-1649.14.3.268"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Dweck, C. S., Davidson, W., Nelson, S., & Enna, B. (1978). Sex differences in learned helplessness: II. The contingencies of evaluative feedback in the classroom and III. An experimental analysis. Developmental Psychology, 14, 268-276. doi:10.1037/ 0012-1649.14.3.268",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "A social-cognitive approach to motivation and personality",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Leggett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Psychological Review",
+                "volume": "95",
+                "issue": "",
+                "pages": "256--273",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0033-295X.95.2.256"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and per- sonality. Psychological Review, 95, 256-273. doi:10.1037/0033-295X.95.2.256",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Expectancies, values, and academic behaviors",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Adler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Futterman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Goff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kaczala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Meece",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Achievement and academic motives",
+                "volume": "",
+                "issue": "",
+                "pages": "75--146",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Adler, T. F., Futterman, R., Goff, S. B., Kaczala, C. M., Meece, J., & Midgley, C. (1983). Expectancies, values, and academic behaviors. In T. J. Spence (Ed.), Achieve- ment and academic motives (pp. 75-146). New York, NY: Freeman.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Age and gender differences in children's self-and task perceptions during elementary school",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Blumenfeld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Child Development",
+                "volume": "64",
+                "issue": "",
+                "pages": "830--847",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1467-8624.1993.tb02946.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Wigfield, A., Harold, R. D., & Blumenfeld, P. (1993). Age and gender differ- ences in children's self-and task perceptions during elementary school. Child Develop- ment, 64, 830-847. doi:10.1111/j.1467-8624.1993.tb02946.x",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Motivation to succeed",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schiefele",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Handbook of child psychology",
+                "volume": "3",
+                "issue": "",
+                "pages": "1017--1095",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., Wigfield, A., & Schiefele, U. (1997). Motivation to succeed. In W. Damon & N. Eisenberg (Eds.), Handbook of child psychology (Vol. 3, pp. 1017-1095). New York, NY: Wiley.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Parents' influence on children's achievement-related perceptions",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Frome",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "74",
+                "issue": "",
+                "pages": "435--452",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-3514.74.2.435"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Frome, P., & Eccles, J. S. (1998). Parents' influence on children's achievement-related per- ceptions. Journal of Personality and Social Psychology, 74, 435-452. doi:10.1037/0022- 3514.74.2.435",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Teacher attributions of student failure and teacher behavior toward the failing student",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Georgiou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Christou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Stavrinides",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Panaoura",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Psychology in the Schools",
+                "volume": "39",
+                "issue": "",
+                "pages": "583--595",
+                "other_ids": {
+                    "DOI": [
+                        "10.1002/pits.10049"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Georgiou, S., Christou, C., Stavrinides, P., & Panaoura, G. (2002). Teacher attributions of student failure and teacher behavior toward the failing student. Psychology in the Schools, 39, 583-595. doi:10.1002/pits.10049",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Why do women opt out? Sense of belonging and women's representation in mathematics",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Good",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Rattan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "102",
+                "issue": "",
+                "pages": "700--717",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0026659"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Good, C., Rattan, A., & Dweck, C. S. (2012). Why do women opt out? Sense of belonging and women's representation in mathematics. Journal of Personality and Social Psychology, 102, 700-717. doi:10.1037/a0026659",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Teachers feelings and student thoughts: An attributional approach to affect in the classroom",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Graham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "The Elementary School Journal",
+                "volume": "85",
+                "issue": "",
+                "pages": "90--104",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Graham, S. (1984). Teachers feelings and student thoughts: An attributional approach to affect in the classroom. The Elementary School Journal, 85, 90-104.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Attribution theory: Applications to achievement, mental health, and interpersonal conflict",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Graham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "17--36",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Graham, S. (1990). Communicating low ability in the classroom: Bad things good teachers sometimes do. In S. Graham & V. S. Folkes (Eds.), Attribution theory: Applications to achievement, mental health, and interpersonal conflict. Applied Social Psychology (pp. 17-36). Hillsdale, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "The causal ordering of academic achievement and self-concept of ability during elementary school: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A G"
+                        ],
+                        "last": "Van Aken",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal of Educational Psychology",
+                "volume": "87",
+                "issue": "",
+                "pages": "624--637",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.87.4.624"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Helmke, A., & van Aken, M. A. G. (1995). The causal ordering of academic achievement and self-concept of ability during elementary school: A longitudinal study. Journal of Educational Psychology, 87, 624-637. doi:10.1037/0022-0663.87.4.624",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "The emergence of gender differences in children's perceptions of their academic competence",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Herbert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Stipek",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Applied Developmental Psychology",
+                "volume": "26",
+                "issue": "",
+                "pages": "276--295",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.appdev.2005.02.007"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Herbert, J., & Stipek, D. (2005). The emergence of gender differences in children's percep- tions of their academic competence. Journal of Applied Developmental Psychology, 26, 276-295. doi:10.1016/j.appdev.2005.02.007",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Mothers' and teachers' attributions about children's mathematics performance",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Holloway",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Hess",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Parental belief systems: The psychological consequences for children",
+                "volume": "",
+                "issue": "",
+                "pages": "177--199",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Holloway, S. D., & Hess, R. D. (1985). Mothers' and teachers' attributions about children's mathematics performance. In I. E. Sigel (Ed.), Parental belief systems: The psychological consequences for children (pp. 177-199). Hillsdale, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Parents, task values, and real-life achievement-related choices",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Intrinsic and extrinsic motivation",
+                "volume": "",
+                "issue": "",
+                "pages": "405--439",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jacobs, J. E., & Eccles, J. S. (2000). Parents, task values, and real-life achievement-related choices. In C. Samsone & J. M. Harackiewicz (Eds.), Intrinsic and extrinsic motivation (pp. 405-439). San Diego, CA: Academic Press.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Changes in children's self-competence and values: Gender and domain differences across grades one through twelve",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lanza",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Osgood",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Child Development",
+                "volume": "73",
+                "issue": "",
+                "pages": "509--527",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/1467-8624.00421"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Jacobs, J. E., Lanza, S., Osgood, D. W., Eccles, J. S., & Wigfield, A. (2002). Changes in children's self-competence and values: Gender and domain differences across grades one through twelve. Child Development, 73, 509-527. doi:10.1111/1467-8624.00421",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "LISREL 8: Structural equation modeling with the SIMPLIS command language",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "J\u00f6reskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "S\u00f6rbom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f6reskog, K. G., & S\u00f6rbom, D. (1993). LISREL 8: Structural equation modeling with the SIMPLIS command language. Hillsdale, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Social perception, social stereotypes, and teacher expectations: Accuracy and the quest for the powerful self-fulfilling prophecy",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Jussim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Madon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Advances in Experimental Social Psychology",
+                "volume": "28",
+                "issue": "",
+                "pages": "281--388",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/S0065-2601(08)60240-3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Jussim, L., Eccles, J., & Madon, S. (1996). Social perception, social stereotypes, and teacher expectations: Accuracy and the quest for the powerful self-fulfilling prophecy. Advances in Experimental Social Psychology, 28, 281-388. doi:10.1016/S0065-2601(08)60240-3",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Jussim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harber",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Personality and Social Psychology Review",
+                "volume": "9",
+                "issue": "",
+                "pages": "131--155",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/s15327957pspr0902_3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Jussim, L., & Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies: Knowns and unknowns, resolved and unresolved controversies. Personality and Social Psychology Review, 9, 131-155. doi:10.1207/s15327957pspr0902_3",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Person versus process praise and criticism: Implications for contingent self-worth and coping",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Kamins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Dweck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Developmental Psychology",
+                "volume": "35",
+                "issue": "",
+                "pages": "835--847",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0012-1649.35.3.835"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Kamins, M. L., & Dweck, C. S. (1999). Person versus process praise and criticism: Implica- tions for contingent self-worth and coping. Developmental Psychology, 35, 835-847. doi:10.1037/0012-1649.35.3.835",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Parents' and teachers' views of the child's academic potential",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "K\u00e4rkk\u00e4inen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "R\u00e4ty",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Educational Studies",
+                "volume": "36",
+                "issue": "",
+                "pages": "229--232",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/03055690903162424"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "K\u00e4rkk\u00e4inen, R., & R\u00e4ty, H. (2010). Parents' and teachers' views of the child's academic potential. Educational Studies, 36, 229-232. doi:10.1080/03055690903162424",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Classroom and developmental differences in a path model of teacher expectancy effects",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Kuklinski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Weinstein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Child Development",
+                "volume": "72",
+                "issue": "",
+                "pages": "1554--1578",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/1467-8624.00365"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Kuklinski, M. R., & Weinstein, R. S. (2001). Classroom and developmental differences in a path model of teacher expectancy effects. Child Development, 72, 1554-1578. doi:10.1111/1467-8624.00365",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Teacher-child interactions: Relations with children's self-concept in second grade",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Leflot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Onghena",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Colpin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Infant and Child Development",
+                "volume": "19",
+                "issue": "",
+                "pages": "385--405",
+                "other_ids": {
+                    "DOI": [
+                        "10.1002/icd.672"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Leflot, G., Onghena, P., & Colpin, H. (2010). Teacher-child interactions: Relations with chil- dren's self-concept in second grade. Infant and Child Development, 19, 385-405. doi:10.1002/icd.672",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "The accuracy and power of sex, social class, and ethnic stereotypes: A naturalistic study in person perception",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Madon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Jussim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Keiper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Palumbo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "24",
+                "issue": "",
+                "pages": "1304--1318",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/01461672982412005"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Madon, S., Jussim, L., Keiper, S., Eccles, J., Smith, A., & Palumbo, P. (1998). The accuracy and power of sex, social class, and ethnic stereotypes: A naturalistic study in person per- ception. Personality and Social Psychology Bulletin, 24, 1304-1318. doi:10.1177/ 01461672982412005",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Am I as you see me or do you see me as I am? Self-fulfilling prophecies and self-verification",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Madon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Jussim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Russell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Palumbo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Walkiewicz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "27",
+                "issue": "",
+                "pages": "1214--1224",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0146167201279013"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Madon, S., Smith, A., Jussim, L., Russell, D. W., Eccles, J., Palumbo, P., & Walkiewicz, M. (2001). Am I as you see me or do you see me as I am? Self-fulfilling prophecies and self-verification. Personality and Social Psychology Bulletin, 27, 1214-1224. doi:10.1177/0146167201279013",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal panel analysis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "646--656",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.82.4.646"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990). Causal ordering of academic self-concept and academic achievement: A multiwave, longitudinal panel analysis. Journal of Educational Psychology, 82, 646- 656. doi:10.1037/0022-0663.82.4.646",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Academic selfconcept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Child Development",
+                "volume": "76",
+                "issue": "",
+                "pages": "397--416",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1467-8624.2005.00853.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Trautwein, U., L\u00fcdtke, O., K\u00f6ller, O., & Baumert, J. (2005). Academic self- concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering. Child Development, 76, 397-416. doi:10.1111/j.1467-8624.2005.00853.x",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Mplus. User's guide",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth\u00e9n, L., & Muth\u00e9n, B. O. (1998-2013). Mplus. User's guide. Los Angeles, CA: Author.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Crosslagged associations between kindergarten teachers' causal attributions and children's task motivation and performance in reading",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Natale",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Viljaranta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.-K",
+                        "middle": [],
+                        "last": "Lerkkanen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.-M",
+                        "middle": [],
+                        "last": "Poikkeus",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-E",
+                        "middle": [],
+                        "last": "Nurmi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Educational Psychology",
+                "volume": "29",
+                "issue": "",
+                "pages": "603--619",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/01443410903165912"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Natale, K., Viljaranta, J., Lerkkanen, M.-K., Poikkeus, A.-M., & Nurmi, J.-E. (2009). Cross- lagged associations between kindergarten teachers' causal attributions and children's task motivation and performance in reading. Educational Psychology, 29, 603-619. doi:10.1080/01443410903165912",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "The development of the concepts of effort and ability, perception of academic attainment, and the understanding that difficult tasks require more ability",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Nicholls",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "Child Development",
+                "volume": "49",
+                "issue": "",
+                "pages": "800--814",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nicholls, J. G. (1978). The development of the concepts of effort and ability, perception of academic attainment, and the understanding that difficult tasks require more ability. Child Development, 49, 800-814.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Ability-group effects: Instructional, social, or institutional? Sociology of Education",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pallas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Entwisle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Alexander",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Stluka",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "",
+                "volume": "67",
+                "issue": "",
+                "pages": "27--46",
+                "other_ids": {
+                    "DOI": [
+                        "10.2307/2112748"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Pallas, A. M., Entwisle, D. R., Alexander, K. L., & Stluka, M. F. (1994). Ability-group effects: Instructional, social, or institutional? Sociology of Education, 67, 27-46. doi:10.2307/2112748",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Socialization of achievement attitudes and beliefs: Classroom influences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Parsons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kaczala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Meece",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Child Development",
+                "volume": "53",
+                "issue": "",
+                "pages": "322--339",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Parsons, J. S., Kaczala, C. M., & Meece, J. L. (1982). Socialization of achievement attitudes and beliefs: Classroom influences. Child Development, 53, 322-339.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Teachers' communication of goal orientations in four fifth-grade classrooms",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Patrick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Anderman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Edelin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Midgley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "The Elementary School Journal",
+                "volume": "102",
+                "issue": "",
+                "pages": "35--58",
+                "other_ids": {
+                    "DOI": [
+                        "10.1086/499692"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Patrick, H., Anderman, L. H., Ryan, A. M., Edelin, K. C., & Midgley, C. (2001). Teachers' communication of goal orientations in four fifth-grade classrooms. The Elementary School Journal, 102, 35-58. doi:10.1086/499692",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "The formation of ability conceptions: Developmental trend or social construction?",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rosenholtz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Simpson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Review of Educational Research",
+                "volume": "54",
+                "issue": "",
+                "pages": "31--63",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/00346543054001031"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenholtz, S. J., & Simpson, C. (1984). The formation of ability conceptions: Developmen- tal trend or social construction? Review of Educational Research, 54, 31-63. doi:10.3102/00346543054001031",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Do parents' causal attributions predict the accuracy and bias in their children's self-concept of maths ability? A longitudinal study",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Rytk\u00f6nen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Aunola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Nurmi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Educational Psychology",
+                "volume": "27",
+                "issue": "",
+                "pages": "771--788",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/01443410701309316"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Rytk\u00f6nen, K., Aunola, K., & Nurmi, J. E. (2007). Do parents' causal attributions predict the accuracy and bias in their children's self-concept of maths ability? A longitudinal study. Educational Psychology, 27, 771-788. doi:10.1080/01443410701309316",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Gender differences in math and verbal self-concept, performance expectations, and motivation",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Sex Roles",
+                "volume": "50",
+                "issue": "",
+                "pages": "241--252",
+                "other_ids": {
+                    "DOI": [
+                        "10.1023/B:SERS.0000015555.40976.e6"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, S., & Skaalvik, E. M. (2004). Gender differences in math and verbal self-concept, performance expectations, and motivation. Sex Roles, 50, 241-252. doi:10.1023/B: SERS.0000015555.40976.e6",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Slosson Intelligence Test for children and adults",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Slosson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1963,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Slosson, R. L. (1963). Slosson Intelligence Test for children and adults. New York, NY: Slosson Educational Publications.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Development of self-perceived ability in elementary school: The role of parents' perceptions, teacher evaluations, and intelligence",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Spinath",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Spinath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Cognitive Development",
+                "volume": "20",
+                "issue": "",
+                "pages": "190--204",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.cogdev.2005.01.001"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Spinath, B., & Spinath, F. M. (2005). Development of self-perceived ability in elementary school: The role of parents' perceptions, teacher evaluations, and intelligence. Cognitive Development, 20, 190-204. doi:10.1016/j.cogdev.2005.01.001",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Validity of the Slosson Intelligence Test: A ten-year review",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Stewart",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Jones",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Psychology in the Schools",
+                "volume": "13",
+                "issue": "",
+                "pages": "372--380",
+                "other_ids": {
+                    "DOI": [
+                        "10.1002/1520-6807(197610)13:4<372:AID-PITS2310130402>3.0.CO;2-C"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Stewart, K. D., & Jones, E. C. (1976). Validity of the Slosson Intelligence Test: A ten-year review. Psychology in the Schools, 13, 372-380. doi:10.1002/1520-6807(197610) 13:4<372:AID-PITS2310130402>3.0.CO;2-C",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Sex differences in children's attributions for success and failure on math and spelling tests",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Stipek",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Sex Roles",
+                "volume": "11",
+                "issue": "",
+                "pages": "969--981",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.83.3.361"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Stipek, D. J. (1984). Sex differences in children's attributions for success and failure on math and spelling tests. Sex Roles, 11, 969-981. doi:10.1037/0022-0663.83.3.361",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Teachers' beliefs and practices related to mathematics instruction. Teaching and Teacher Education",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Stipek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Givvin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Salmon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Macgyvers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "17",
+                "issue": "",
+                "pages": "213--226",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/S0742-051X(00)00052-4"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Stipek, D. J., Givvin, K. B., Salmon, J. M., & MacGyvers, V. L. (2001). Teachers' beliefs and practices related to mathematics instruction. Teaching and Teacher Education, 17, 213-226. doi:10.1016/S0742-051X(00)00052-4",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Developmental change in children's assessment of intellectual competence",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Stipek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Iver",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Child Development",
+                "volume": "60",
+                "issue": "",
+                "pages": "521--538",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stipek, D. J., & Iver, D. (1989). Developmental change in children's assessment of intellec- tual competence. Child Development, 60, 521-538.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Parents' gender stereotypes and teachers' beliefs as predictors of children's concept of their mathematical ability in elementary school",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Tiedemann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Journal of Educational Psychology",
+                "volume": "92",
+                "issue": "",
+                "pages": "144--151",
+                "other_ids": {
+                    "DOI": [
+                        "10.1023/A:1020518104346"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Tiedemann, J. (2000). Parents' gender stereotypes and teachers' beliefs as predictors of chil- dren's concept of their mathematical ability in elementary school. Journal of Educational Psychology, 92, 144-151. doi:10.1023/A:1020518104346",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Teachers' gender stereotypes as determinants of teacher perceptions in elementary school mathematics",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Tiedemann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Educational Studies in Mathematics",
+                "volume": "50",
+                "issue": "",
+                "pages": "49--62",
+                "other_ids": {
+                    "DOI": [
+                        "10.1023/A:1020518104346"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Tiedemann, J. (2002). Teachers' gender stereotypes as determinants of teacher perceptions in elementary school mathematics. Educational Studies in Mathematics, 50, 49-62. doi:10.1023/A:1020518104346",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "How teachers' perceptions predict children's math interest from kindergarten to sixth grade?",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Upadyaya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Merrill-Palmer Quarterly",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Upadyaya, K., & Eccles, J. S. (in press a). How teachers' perceptions predict children's math interest from kindergarten to sixth grade? Merrill-Palmer Quarterly.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "press b). Teachers' perceptions, children's ability self-concepts, and gender differences. Gender and Aspirations and Attainment across the Life Course",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Upadyaya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Upadyaya, K., & Eccles, J. S. (in press b). Teachers' perceptions, children's ability self-con- cepts, and gender differences. Gender and Aspirations and Attainment across the Life Course.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Cross-lagged relations between preschool teachers' causal attributions and children's interest value and performance in math",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Upadyaya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Viljaranta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.-K",
+                        "middle": [],
+                        "last": "Lerkkanen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.-M",
+                        "middle": [],
+                        "last": "Poikkeus",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-E",
+                        "middle": [],
+                        "last": "Nurmi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Social Psychology of Education: An International Journal",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/s11218-011-9171-1"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Upadyaya, K., Viljaranta, J., Lerkkanen, M.-K., Poikkeus, A.-M., & Nurmi, J.-E. (2012). Cross-lagged relations between preschool teachers' causal attributions and children's interest value and performance in math. Social Psychology of Education: An Interna- tional Journal, 15. doi:10.1007/s11218-011-9171-1",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "The relation between self-beliefs and academic achievement: A meta-analytic review",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Valentine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Cooper",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Educational Psychologist",
+                "volume": "39",
+                "issue": "",
+                "pages": "111--133",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/s15326985ep3902_3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Valentine, J. C., DuBois, D. L., & Cooper, H. (2004). The relation between self-beliefs and academic achievement: A meta-analytic review. Educational Psychologist, 39, 111-133. doi:10.1207/s15326985ep3902_3",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "An attributional theory of achievement motivation and emotion",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Weiner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Psychological Review",
+                "volume": "92",
+                "issue": "",
+                "pages": "548--573",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0033-295X.92.4.548"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Weiner, B. (1985). An attributional theory of achievement motivation and emotion. Psycho- logical Review, 92, 548-573. doi:10.1037/0033-295X.92.4.548",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "An attributional theory of motivation and emotion",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Weiner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Weiner, B. (1986). An attributional theory of motivation and emotion. New York, NY: Springer-Verlag.",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "Integrating social and personal theories of achievement striving",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Weiner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Review of Educational Research",
+                "volume": "64",
+                "issue": "",
+                "pages": "557--573",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/00346543064004557"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Weiner, B. (1994). Integrating social and personal theories of achievement striving. Review of Educational Research, 64, 557-573. doi:10.3102/00346543064004557",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "Expectancy-value theory of achievement motivation",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "25",
+                "issue": "",
+                "pages": "68--81",
+                "other_ids": {
+                    "DOI": [
+                        "10.1006/ceps.1999.1015"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., & Eccles, J. S. (2000). Expectancy-value theory of achievement motivation. Contemporary Educational Psychology, 25, 68-81. doi:10.1006/ceps.1999.1015",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "Change in children's competence beliefs and subjective task values across the elementary school years: A 3-year study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yoon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J A"
+                        ],
+                        "last": "Arbreton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Freedman-Doan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Blumenfeld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Journal of Educational Psychology",
+                "volume": "89",
+                "issue": "",
+                "pages": "451--469",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.89.3.451"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., Eccles, J. S., Yoon, K. S., Harold, R. D., Arbreton, A. J. A., Freedman-Doan, C., & Blumenfeld, P. C. (1997). Change in children's competence beliefs and subjective task values across the elementary school years: A 3-year study. Journal of Educational Psychology, 89, 451-469. doi:10.1037/0022-0663.89.3.451",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "A basic model of the study.",
+                "uris": null
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "Means and standard deviations of teachers' ability and effort perceptions at Waves 1-4.",
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td colspan=\"2\">Math</td><td/><td/><td/><td/><td colspan=\"2\">Reading</td><td/><td/></tr><tr><td colspan=\"2\">1st cohort</td><td colspan=\"2\">2nd cohort</td><td colspan=\"2\">3rd cohort</td><td colspan=\"2\">1st cohort</td><td colspan=\"2\">2nd cohort</td><td colspan=\"2\">3rd cohort</td></tr><tr><td>M</td><td>SD</td><td>M</td><td>SD</td><td>M</td><td>SD</td><td>M</td><td>SD</td><td>M</td><td>SD</td><td>M</td><td>SD</td></tr><tr><td>Ability</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"12\">Wave 1 5.24 1.52 5.35 1.40 5.28 1.31 5.14 1.52 5.51 1.25 5.33 1.33</td></tr><tr><td colspan=\"12\">Wave 2 5.23 1.24 5.20 1.31 4.97 1.30 5.25 1.37 5.26 1.40 5.03 1.33</td></tr><tr><td colspan=\"12\">Wave 3 5.00 1.48 5.15 1.35 4.96 1.37 5.06 1.59 5.18 1.40 5.09 1.39</td></tr><tr><td colspan=\"12\">Wave 4 4.97 1.31 4.91 1.39 5.02 1.34 5.03 1.42 4.89 1.49 5.03 1.38</td></tr><tr><td>Effort</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"12\">Wave 1 5.35 1.62 5.52 1.33 5.43 1.38 5.31 1.63 5.68 1.19 5.23 1.40</td></tr><tr><td colspan=\"12\">Wave 2 5.36 1.43 5.38 1.49 5.31 1.42 5.52 1.41 5.50 1.40 5.10 1.40</td></tr><tr><td colspan=\"12\">Wave 3 5.17 1.49 5.36 1.46 5.14 1.54 5.13 1.45 5.35 1.38 5.23 1.54</td></tr><tr><td colspan=\"12\">Wave 4 5.31 1.49 4.90 1.52 5.13 1.54 5.13 1.42 4.89 1.49 4.93 1.53</td></tr></table>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Pearson correlation coefficients between all the variables used in the present study.",
+                "type_str": "table",
+                "content": "<table/>"
+            },
+            "TABREF3": {
+                "num": null,
+                "text": "Results for the models with children's math and reading ability self-concepts, teachers' perceptions, children's performance in math and reading, and predicting covariates.",
+                "type_str": "table",
+                "content": "<table><tr><td>Math</td><td>Reading</td></tr><tr><td>b</td><td>b</td></tr></table>"
+            },
+            "TABREF4": {
+                "num": null,
+                "text": "(Continued).",
+                "type_str": "table",
+                "content": "<table><tr><td>Math</td><td>Reading</td></tr><tr><td>b</td><td>b</td></tr></table>"
+            },
+            "TABREF5": {
+                "num": null,
+                "text": "Goodness-of-fit summary for the tested models of teachers' perceptions and children's math and reading ability self-concepts.",
+                "type_str": "table",
+                "content": "<table><tr><td>Model</td><td>N</td><td>\u03c7 2</td><td>df</td><td>p</td><td>CFI</td><td>TLI</td><td>RMSEA</td><td>SRMR</td></tr><tr><td>Math</td><td>1174</td><td>132.69</td><td>50</td><td>.00</td><td>.95</td><td>.92</td><td>.04</td><td>.04</td></tr><tr><td>Reading</td><td>1174</td><td>145.74</td><td>52</td><td>.00</td><td>.94</td><td>.91</td><td>.04</td><td>.04</td></tr></table>"
+            }
+        }
+    }
+}

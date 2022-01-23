@@ -1,0 +1,2289 @@
+{
+    "paper_id": "guo_2017",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:56:48.511061Z"
+    },
+    "title": "Extending expectancy-value theory predictions of achievement and aspirations in science: Dimensional comparison processes and expectancy-by-value interactions",
+    "authors": [
+        {
+            "first": "Jiesi",
+            "middle": [],
+            "last": "Guo",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Australian Catholic University",
+                "location": {
+                    "country": "Australia"
+                }
+            },
+            "email": "jiesiguo@gmail.com"
+        },
+        {
+            "first": "Herbert",
+            "middle": [
+                "W"
+            ],
+            "last": "Marsh",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Australian Catholic University",
+                "location": {
+                    "country": "Australia"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Philip",
+            "middle": [
+                "D"
+            ],
+            "last": "Parker",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Australian Catholic University",
+                "location": {
+                    "country": "Australia"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Alexandre",
+            "middle": [
+                "J S"
+            ],
+            "last": "Morin",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Australian Catholic University",
+                "location": {
+                    "country": "Australia"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Theresa",
+            "middle": [],
+            "last": "Dicke",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Australian Catholic University",
+                "location": {
+                    "country": "Australia"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Based on TIMSS data (18,047 Grade 8 students from the four OECD countries that collected data for multiple science domains), this study integrated dimensional comparison theory and expectancy-value theory and tested predictions about how self-concept and value are related to achievement and coursework aspirations across four science domains (physics, chemistry, earth science, and biology). First, strong support for social comparisons suggested that high achievement in a particular domain enhance students' motivation in the same domain, which in turn predicted domain-specific aspirations. Particularly, self-concept significantly interacted with value to predict aspirations. Second, in the processes underlying the formation of self-concept and intrinsic value, students tended to engage in negative dimensional comparisons between contrasting domains (physics vs. biology) but positive dimensional comparisons between assimilating domains (physics vs. chemistry). Similar dimensional comparison processes were evident for the effects of self-concept and intrinsic value on aspirations. The results generalized well across all countries.",
+    "pdf_parse": {
+        "paper_id": "guo_2017",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Based on TIMSS data (18,047 Grade 8 students from the four OECD countries that collected data for multiple science domains), this study integrated dimensional comparison theory and expectancy-value theory and tested predictions about how self-concept and value are related to achievement and coursework aspirations across four science domains (physics, chemistry, earth science, and biology). First, strong support for social comparisons suggested that high achievement in a particular domain enhance students' motivation in the same domain, which in turn predicted domain-specific aspirations. Particularly, self-concept significantly interacted with value to predict aspirations. Second, in the processes underlying the formation of self-concept and intrinsic value, students tended to engage in negative dimensional comparisons between contrasting domains (physics vs. biology) but positive dimensional comparisons between assimilating domains (physics vs. chemistry). Similar dimensional comparison processes were evident for the effects of self-concept and intrinsic value on aspirations. The results generalized well across all countries.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The issue of talented and capable students opting out of the STEM (i.e., science, technology, engineering, and mathematics) pipeline has been a topic of enduring interest in the science education community. Given that dropping out of science coursework at high school makes it very difficult to undertake STEM college majors and careers, growing attention in research on science motivation has focused on disentangling the relationship between students' motivational beliefs and achievement in science on one hand, and high-school science course taking, aspirations, and persistence on the other (e.g., Nagy et al., 2008; Parker et al., 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 603,
+                        "end": 621,
+                        "text": "Nagy et al., 2008;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 622,
+                        "end": 642,
+                        "text": "Parker et al., 2012)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "These studies have demonstrated that motivation beliefs (e.g., academic self-concept and value beliefs) represent important determinants of achievement-related decisions in STEM subjects, net of individual's actual ability and achievement (Wang & Degol, 2013) . However, much of this research has focused on motivational beliefs in general science, whereas science choices and aspirations are often measured in specific science domains. Indeed, the process of subject selection is inherently comparative. For example, let us consider the decision to major in physics at college. Students will be most likely to select this major only if they hold high confidence in their ability to do well in the course required by this major and place high value on majoring in physics by comparing the physics major to other majors including other science domains (see Eccles, 2009) . Such intraindividual dimensional comparisons have been found to be useful for predicting academic choices. Nevertheless, existing research has focused almost exclusively on the dimensional comparison processes between math and verbal domains (e.g., Parker et al., 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 239,
+                        "end": 259,
+                        "text": "(Wang & Degol, 2013)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 856,
+                        "end": 869,
+                        "text": "Eccles, 2009)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1121,
+                        "end": 1141,
+                        "text": "Parker et al., 2012)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The aim of this study was to overcome the shortcomings of prior research, by testing the relations between academic achievement, motivational beliefs, and coursework aspirations taking into account several different science disciplines. In pursuing this overarching aim, we integrated and extended two major theoretical models of academic motivation (i.e., dimensional comparison theory [DCT] , M\u20ac oller & Marsh, 2013; expectancy-value theory [EVT] , Eccles, 2009 ) in relation to four major science domains (physics, chemistry, biology, and earth science). First, contrasting achievement and motivation, we tested how students' subject-specific selfconcept and intrinsic and utility values in science were shaped by dimensional comparisons. Second, extending theoretical developments based on DCT, we explored how such dimensional comparison processes predicted coursework aspirations across different science domains. Third, extending recent developments based on EVT, we tested how academic self-concept interacted with value beliefs in predicting aspirations.",
+                "cite_spans": [
+                    {
+                        "start": 387,
+                        "end": 392,
+                        "text": "[DCT]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 443,
+                        "end": 448,
+                        "text": "[EVT]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 451,
+                        "end": 463,
+                        "text": "Eccles, 2009",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The present study drew on eight-grade students from the Trends in International Mathematics and Science Study (TIMSS 2007) . TIMSS has been a major basis of international comparisons of countries in terms of educational motivation and achievement in the four major science domains. Thus, it presents an unprecedented opportunity for researchers to investigate students' motivational pathways to different STEM-related fields. This study was among the first to take advantage of the TIMSS data to address this substantive issue. In order to test the cross-national generalizability of our results, we rely on a convenience sample of all OECD countries who chose to conduct separate motivation assessments in physics, chemistry, biology and earth science, including the Czech Republic, Hungary, Slovenia, and Sweden (Olson, Martin, & Mullis, 2008) . We note that the current approach, aiming to identify pan-human generalizations rather than country-specific idiosyncratic effects, is well-aligned with the approach typically taken in the study of similar educational phenomenon (e.g., the Internal-External frames of reference [I/E] model, the Big-Fish Little-Pond effect) using large international data sets (Marsh et al., 2014 , Marsh, L\u00fcdtke, Nagengast, Trautwein, & Abduljabbar, 2015 .",
+                "cite_spans": [
+                    {
+                        "start": 110,
+                        "end": 122,
+                        "text": "(TIMSS 2007)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 814,
+                        "end": 845,
+                        "text": "(Olson, Martin, & Mullis, 2008)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1208,
+                        "end": 1227,
+                        "text": "(Marsh et al., 2014",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1228,
+                        "end": 1286,
+                        "text": ", Marsh, L\u00fcdtke, Nagengast, Trautwein, & Abduljabbar, 2015",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Focusing on motivational beliefs in general science or a single subject domain would result in a very limited perspective in explaining achievement-related behavior choices in STEM and may even be counterproductive in understanding coursework selection and aspirations in particular science disciplines (Eccles, 2009) . By evaluating the influence of the intraindividual dimensional comparisons in relation to self-concept and value within science domains, this investigation may shed some light on how achievement and motivational beliefs might affect the decision students make to remain in or leave from the pathway toward different STEM-related fields.",
+                "cite_spans": [
+                    {
+                        "start": 303,
+                        "end": 317,
+                        "text": "(Eccles, 2009)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Academic self-concept, the self-evaluation of a student's ability in a given domain, has been assumed to be a multifaceted, hierarchical construct including a number of self-perceptions in different academic domains (Marsh, 2007) . In order to evaluate their strengths and weaknesses, students compare and contrast their own performances across different school disciplines (M\u20ac oller & Marsh, 2013) . The I/E model were originally developed to explain the apparently paradoxical relations among domain-specific selfconcepts and achievement: near zero-correlations between math and verbal self-concepts despite math and verbal achievement being moderately to strongly correlated (Marsh, 2007) . The I/E model posits that students form their verbal and math selfconcepts as a function of two underlying processes: social and dimensional comparison. Using an external frame of reference, students conduct social comparisons by comparing their selfperceived performance in a subject domain with that of their peers in the same school or classroom. For instance, if students have higher math achievement than do their classmates, their math selfconcept is also likely to be higher. Thus, the social comparison processes lead to a positive prediction from achievement and selfconcept within a subject domain. Employing a dimensional frame of reference, students conduct dimensional comparisons by comparing their performances in one particular subject domain against their performance in other subject domains. However, the dimensional comparison processes are ipsative, so that high levels of math ability should lead to lower verbal self-concept once the positive effect of verbal ability is controlled for.",
+                "cite_spans": [
+                    {
+                        "start": 216,
+                        "end": 229,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 374,
+                        "end": 398,
+                        "text": "(M\u20ac oller & Marsh, 2013)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 678,
+                        "end": 691,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dimensional comparison processes",
+                "sec_num": "1."
+            },
+            {
+                "text": "Recently, the I/E model has been extended into DCT (M\u20ac oller & Marsh, 2013) by incorporating a wider variety of subject domains. DCT postulates that academic self-concepts are formed by different dimensional comparisons. On the one hand, contrasting dimensional comparison processes predict that good performance in one domain leads to lower self-concept in other domains (i.e., contrast effects). On the other hand, assimilating dimensional comparison processes are characterized by good performance in one domain leading to higher self-concept in other domains (i.e., assimilation effects). Whether students engage in contrasting or assimilating dimensional comparisons is related to their beliefs as to whether two abilities are negatively or positively correlated (M\u20ac oller, Helm, M\u00fcller-Kalthoff, Nagy, & Marsh, 2015) . One of the critical assumptions of DCT is that perceived subject similarity corresponds to the verbal-mathematical continuum of core academic selfconcept domains (M\u20ac oller & Marsh, 2013) . This assumption has been well supported in both empirical and experimental studies. For example, Haag and G\u20ac otz (2012) demonstrated that subjects (far from each other on the continuum, e.g., math vs. German) with low self-concept correlations were perceived as rather dissimilar and that subjects (close to each other, e.g., math vs. physics) with high self-concept correlations are perceived as more similar. A recent empirical study (Helm, Mueller-Kalthoff, Nagy, & Moller, 2016) also confirmed this assumption and addressed that contrast effects were stronger when students focus on differences between two subject domains than when they focused on similarities. Thus, according to the verbal-mathematical continuum of academic selfconcept, assimilation effects are assumed to occur between \"near\" domains, whereas contrast effects are assumed to occur between \"far\" domains.",
+                "cite_spans": [
+                    {
+                        "start": 768,
+                        "end": 822,
+                        "text": "(M\u20ac oller, Helm, M\u00fcller-Kalthoff, Nagy, & Marsh, 2015)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 987,
+                        "end": 1011,
+                        "text": "(M\u20ac oller & Marsh, 2013)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1111,
+                        "end": 1133,
+                        "text": "Haag and G\u20ac otz (2012)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1450,
+                        "end": 1496,
+                        "text": "(Helm, Mueller-Kalthoff, Nagy, & Moller, 2016)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dimensional comparison processes",
+                "sec_num": "1."
+            },
+            {
+                "text": "In relation to science domains, physics and chemistry are assumed to be located closer to the math domain, whereas biology is assumed to be located in the middle of the continuum. More recently, Jansen, Schroeders, and L\u00fcdtke (2014) contrasted achievement and self-concept in physics, chemistry, and biology and found that associations of self-concept with achievement and grades were substantial in the same domains. For cross-subject relations, they revealed slightly negative contrast effects between biology and physics but assimilation effects between chemistry and physics (for similar results, also see Jansen, Schroeders, L\u00fcdtke, & Marsh, 2015) . However, these two previous studies focus on German high school students, and the findings have yet to be replicated with other populations across different science curricula. Moreover, these studies have not included earth science and thus miss out on the opportunity to gain insight into dimensional comparison processes between four major science disciplines.",
+                "cite_spans": [
+                    {
+                        "start": 610,
+                        "end": 652,
+                        "text": "Jansen, Schroeders, L\u00fcdtke, & Marsh, 2015)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dimensional comparison processes",
+                "sec_num": "1."
+            },
+            {
+                "text": "More recently, based on DCT, the Generalized I/E (GI/E) Model (M\u20ac oller et al., 2015) has been developed by connecting dimensional comparison processes to broader cognitive, affective, and motivational consequences. Dimensional comparisons are assumed to serve as a critical source of information as to students' strength and weakness across different domains. These self-evaluations would help students to distinguish domains in which they can specialize, and for which they could develop particular interests, emotions, and preferences. Thus, dimensional comparisons are underlying mechanisms for the process of self-differentiation to serve motivational needs (M\u20ac oller et al., 2015). In this regard, the GI/E model assumption has been tested with respect to emotions (Goetz, Frenzel, Hall, & Pekrun, 2008) , intrinsic and utility values (Nagy et al., 2008; Schurtz, Pfost, Nagengast, & Artelt, 2014) , and perceptions of the learning environment (Arens & M\u20ac oller, 2016) . For example, Schurtz et al. (2014) found negative contrast effects from grades to intrinsic value between math and English, following the typical I/E pattern. However, the negative impact of dimensional comparisons on intrinsic value was totally mediated by selfconcepts (also see Nagy et al., 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 62,
+                        "end": 85,
+                        "text": "(M\u20ac oller et al., 2015)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 771,
+                        "end": 809,
+                        "text": "(Goetz, Frenzel, Hall, & Pekrun, 2008)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 841,
+                        "end": 860,
+                        "text": "(Nagy et al., 2008;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 861,
+                        "end": 903,
+                        "text": "Schurtz, Pfost, Nagengast, & Artelt, 2014)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 950,
+                        "end": 974,
+                        "text": "(Arens & M\u20ac oller, 2016)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 990,
+                        "end": 1011,
+                        "text": "Schurtz et al. (2014)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1258,
+                        "end": 1276,
+                        "text": "Nagy et al., 2008)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dimensional comparison processes",
+                "sec_num": "1."
+            },
+            {
+                "text": "However, these studies mainly drew on math and verbal domains. Arens and M\u20ac oller (2016) argued that the scope of subject domains and outcome variables that are subject to dimension comparison processes should be even broader. There is to our knowledge no study examining the potential operation of dimensional comparisons in the formation of students' values in \"near\" domains on the continuum, such as between science subdisciplines.",
+                "cite_spans": [
+                    {
+                        "start": 63,
+                        "end": 88,
+                        "text": "Arens and M\u20ac oller (2016)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dimensional comparison processes",
+                "sec_num": "1."
+            },
+            {
+                "text": "Dimensional comparison processes posited in DCT and the GI/E model have been integrated into modern EVT, which has been widely used to explain students' academic choice behaviors (Eccles, 2009) . EVT posits that a relative intraindividual's hierarchy of competence beliefs (e.g., academic self-concept) and task value are influenced as a function of previous achievement across subject domains (Eccles, 2009) . More importantly, these relative motivational beliefs are postulated to play important roles to link between achievement and behavioral choices and aspirations in EVT. All such behaviors are also assumed to be associated with costs, as one choice often eliminates other options (an ipsative process), and thus trigger dimensional comparison of achievement and motivation (Eccles, 2009) . Put simply, individual differences in relative self-concept and task value attached to a domain compared to other domains influence course enrollment (Nagy et al., 2008) . In this regard, the individual hierarchy of self-concept and value across domains are not only the consequences of dimensional comparisons but also the antecedents of behavioral choices.",
+                "cite_spans": [
+                    {
+                        "start": 179,
+                        "end": 193,
+                        "text": "(Eccles, 2009)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 394,
+                        "end": 408,
+                        "text": "(Eccles, 2009)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 782,
+                        "end": 796,
+                        "text": "(Eccles, 2009)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 949,
+                        "end": 968,
+                        "text": "(Nagy et al., 2008)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Integrating dimensional comparison into EVT",
+                "sec_num": "2."
+            },
+            {
+                "text": "In this study, we focus on two of these components: intrinsic and utility values. Intrinsic value, referring to the extent to which the person gains enjoyment from performing an activity, has been found to be a stronger predictor of academic engagement, effort exertion, and coursework aspirations (e.g., , Guo, Marsh, Morin, Parker, & Kaur, 2015 Guo et al., 2016) . Utility value refers to how useful a task is for facilitating an individual's long-range goals and helping an individual obtain long-range external rewards. It has been found to more closed to educational and career aspirations, particularly during the post-high school transition (Wigfield, Tonks, & Klauda, 2016) .",
+                "cite_spans": [
+                    {
+                        "start": 305,
+                        "end": 346,
+                        "text": ", Guo, Marsh, Morin, Parker, & Kaur, 2015",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 347,
+                        "end": 364,
+                        "text": "Guo et al., 2016)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 648,
+                        "end": 681,
+                        "text": "(Wigfield, Tonks, & Klauda, 2016)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Integrating dimensional comparison into EVT",
+                "sec_num": "2."
+            },
+            {
+                "text": "Although the notion of dimensional comparison processes has been well integrated into EVT, relatively little empirical work has applied such processes to predict achievement-related choices. Nagy et al. (2008; Parker et al., 2012) presented one of the few exceptions and provided an excellent example of these processes. By comparing their performance in math and English, high school students who had better performance in math tended to become more confident and interested in math but less in English. Subsequently, the positive motivation in math led these students to choose an advanced math course but opt out of an advanced English course. Again, these studies only focus on math and verbal domains, which leaves open the question as to whether students engage in assimilating dimension comparisons between similar domains (e.g., physics and chemistry) during the decision-making process. Thus, this study integrates EVT with new insights from DCT and draws on multiple, similar (science) domains to explore how dimensional comparison processes predict coursework aspirations.",
+                "cite_spans": [
+                    {
+                        "start": 191,
+                        "end": 209,
+                        "text": "Nagy et al. (2008;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 210,
+                        "end": 230,
+                        "text": "Parker et al., 2012)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Integrating dimensional comparison into EVT",
+                "sec_num": "2."
+            },
+            {
+                "text": "In addition to having the first-order effects, competence beliefs and value beliefs are assumed to interact with each other in influencing achievement-related behaviors and choices in early EVT (Atkinson, 1957) . The expectancy-by-value interaction suggests that if students do not have confidence in their abilities to succeed in a task, then even high value beliefs will not be sufficient to motivate students to pursue the task. However, this multiplicative relation, which was the central assumption of classic EVT, has not been widely studied in modern EVT. Nagengast et al. (2011) attributed this to weak statistical methodology in testing interaction effects and addressed that the expectancy-by-value interaction should be returned \"to its rightful place at the heart of EVT\" (p. 1064).",
+                "cite_spans": [
+                    {
+                        "start": 194,
+                        "end": 210,
+                        "text": "(Atkinson, 1957)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 563,
+                        "end": 586,
+                        "text": "Nagengast et al. (2011)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Interaction between self-concept and task values",
+                "sec_num": "3."
+            },
+            {
+                "text": "Recently empirical studies have successfully reintroduced examination of interaction effects between expectancy and value in predicting educational outcomes based on the newer approaches (e.g., the unconstrained approach; Nagengast et al., 2011) . For example, found that the interactions between high school math self-concept and values significantly predicted math course selection, matriculation results, subsequent STEM major choices and entry into university. However, most of this research only considered a single domain (e.g., science), and the researchers did not test the domain specificity of the patterns of results across different science domains. As a consequence, their research did not explore the ipsative dimensional comparison processes; a matter that has been subsequently addressed with the extension to DCT and its integration into EVT.",
+                "cite_spans": [
+                    {
+                        "start": 222,
+                        "end": 245,
+                        "text": "Nagengast et al., 2011)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Interaction between self-concept and task values",
+                "sec_num": "3."
+            },
+            {
+                "text": "Drawing on DCT and EVT, the present investigation aims to examine the distinctiveness of relationships between domainspecific achievement, motivational beliefs (self-concept, intrinsic value, and utility value), and coursework aspirations across four major science subjects (physics, chemistry, earth science, and biology). Importantly, we explore the roles of expectancy-by-value interactions with dimensional comparison processes in predicting aspirations. Hence, the present study is unique in that it takes multiple science disciplines into account and integrates DCT and EVT to provide a greater understanding of the motivational dynamics leading students to making academic choices within STEMrelated fields. More specifically, self-concept, intrinsic value, and utility value along with achievements and aspirations in the four science domains are simultaneously included in the hypothesized model where all achievements are linked to the domain-specific motivational beliefs that in turn predict coursework aspirations (See Fig. 1 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1032,
+                        "end": 1038,
+                        "text": "Fig. 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The present investigation",
+                "sec_num": "4."
+            },
+            {
+                "text": "a. We predict matching paths from each of the four achievement domains to self-concept, intrinsic value, and utility value in the same domain to be significantly positive. b. For physics, chemistry, and biology, according to the verbalmath continuum of self-concept (Marsh, 2007) , we hypothesize non-matching paths (cross-paths) relating to \"far\" domains (e.g., physics achievement predicts biology self-concept) to be negative (contrast effects), whereas we hypothesize these crosspaths relating to \"near\" domains (e.g., physics achievement predicts chemistry self-concept) to be positive (assimilation effects).",
+                "cite_spans": [
+                    {
+                        "start": 266,
+                        "end": 279,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hypothesis 1: Relations between achievement and motivational beliefs",
+                "sec_num": "4.1.1."
+            },
+            {
+                "text": "However, earth science has not been positioned in this continuum. According to TIMSS, earth science is concerned with the study of earth and its place in the solar system and the universe, covering the fields of geology, astronomy, meteorology, hydrology and oceanography (Olson et al., 2008) . For the four targeted countries, earth science is taught as a separate natural science subject along with biology, chemistry, and physics in Czech Republic and Hungary; although earth science is not taught separately, it is mainly represented in physics and chemistry and only included as a small part of the social sciences subject of geography in Slovenia and Sweden (Olson et al., 2008, see Table 1 ). Thus, we expect that earth science is more closely related to the mathematical side than the verbal side of the verbal-mathematical continuum. More precisely, we hypothesize that earth science is located in the middle of physics/chemistry and biology on the continuum, given that topics covered in the teaching and learning of earth science are largely intertwined with some concepts also covered in biology, physics, and chemistry. However, given the absence of empirical evidence for this, we still leave cross-paths involving earth science as a research question to be explored.",
+                "cite_spans": [
+                    {
+                        "start": 272,
+                        "end": 292,
+                        "text": "(Olson et al., 2008)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 664,
+                        "end": 688,
+                        "text": "(Olson et al., 2008, see",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 689,
+                        "end": 696,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Hypothesis 1: Relations between achievement and motivational beliefs",
+                "sec_num": "4.1.1."
+            },
+            {
+                "text": "a. We predict matching paths to be significantly positive from selfconcept, intrinsic value, and utility value in each domain to coursework aspirations in the same domain, even after controlling for achievement. Based on previous research, in predicting coursework aspirations, we hypothesize matching path coefficients for intrinsic value to be stronger than those for utility value and self-concept.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hypothesis 2: Relations between motivational beliefs and coursework aspirations",
+                "sec_num": "4.1.2."
+            },
+            {
+                "text": "b. We hypothesize cross-paths relating to \"far\" domain (e.g., biology self-concept predicts physics aspirations) to be negative, whereas these cross-paths relating to \"near domain\" (e.g., physics self-concept predicts chemistry aspirations) to be positive. Again, we leave the pattern of the predictions in relation to earth science as a research question. c. Consistent with the recent re-introduction of expectancy-byvalue interactions into EVT, we predict that latent interactions between self-concept and values (intrinsic value and utility value) predict aspirations beyond the first-order (\"main\") effects of these latent constructs.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Hypothesis 2: Relations between motivational beliefs and coursework aspirations",
+                "sec_num": "4.1.2."
+            },
+            {
+                "text": "Cross-cultural comparisons provide researchers with a heuristic basis to test the external validity and generalizability of their measures, theories, and models. Typically, there are two main approaches to cross-cultural comparisons: the etic and emic perspectives. The etic perspective refers to the cultural universals with an emphasis on cross-cultural similarities of theoretical predictions and replicability of results, whereas the emic perspective refers to phenomena specific to a particular culture with an emphasis the uniqueness of an individual case in its own terms. Marsh, Martin, and Hau (2006) addressed that one of the ongoing challenges in cross-cultural research in education is to untangle the potentially confounding effects of differences in participants representing different cultural groups and the appropriateness of psychological measure in different cultural settings. To the extent that a strong theoretical model generalizes well to heterogeneous samples drawn from a diverse set of countries, there is strong support for the external validity and the robustness of the interpretations based on the theory.",
+                "cite_spans": [
+                    {
+                        "start": 580,
+                        "end": 609,
+                        "text": "Marsh, Martin, and Hau (2006)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Research question: Generalizability of results",
+                "sec_num": "4.1.3."
+            },
+            {
+                "text": "Indeed, there is a strong basis for the etic approach based on M\u20ac oller, Pohlmann, K\u20ac oller, and Marsh (2009) meta-analysis that found no significant differences across countries in support for the DCT predictions in relation to verbal and math self-concept. More Fig. 1 . Hypothesized model. Note. Self-concept, intrinsic value, and utility value along with achievements and aspirations in the four science domains are simultaneously included in the hypothesized model. The model depicted is a \"full-forward\" structural equation model that is saturated, in the sense that the four achievements are allowed to predicted domain-specific motivational beliefs and all motivational beliefs along with the achievements are allowed to predict the four coursework aspirations.",
+                "cite_spans": [
+                    {
+                        "start": 97,
+                        "end": 109,
+                        "text": "Marsh (2009)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 264,
+                        "end": 270,
+                        "text": "Fig. 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Research question: Generalizability of results",
+                "sec_num": "4.1.3."
+            },
+            {
+                "text": "recently, Marsh et al. (2015) provided a more critical evaluation of the cross-cultural generalizability of the I/E patterns. Their findings showed the strong support for the generalizability of the DCT predictions in relation to math and general science across 12 nations based on TIMSS2007 data. In this regard, one purpose of our study was to expand the scope of tests of the generalizability of the DCT predictions beyond previous studies that have been the primary basis of cross-cultural tests of the universality of support for DCT predictions.",
+                "cite_spans": [
+                    {
+                        "start": 10,
+                        "end": 29,
+                        "text": "Marsh et al. (2015)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Research question: Generalizability of results",
+                "sec_num": "4.1.3."
+            },
+            {
+                "text": "Therefore, we leave as an open research question whether the hypothesized associations will generalize across the four OECD countries. Given that students were exposed in substantially different cultural and educational contexts across countries (see Table 1 ), it would provide a strong test of the external validity of our findings.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 251,
+                        "end": 258,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Research question: Generalizability of results",
+                "sec_num": "4.1.3."
+            },
+            {
+                "text": "Although standardized tests in four science domain-specific subjects (Physics, Chemistry, Earth Science, and Biology) are administered to eighth-grade students in all participating countries, TIMSS surveys in relation to the four subjects were only administered in countries teaching some or all of these subjects separately, rather than as a single, general subject (Olson et al., 2008) . In TIMSS 2007 data, Czech Republic, Hungary, Slovenia, and Sweden are the only OECD countries in which students completed surveys in relation to these four science domains (Olson et al., 2008) . Therefore, in the present study, the target population comprised eighth-grade students who participated in TIMSS 2007 from the four OECD countries described above. In total, we considered data from 18,047 students (51% boys) in 1025 classes and 598 schools (see Appendix A).",
+                "cite_spans": [
+                    {
+                        "start": 367,
+                        "end": 387,
+                        "text": "(Olson et al., 2008)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 562,
+                        "end": 582,
+                        "text": "(Olson et al., 2008)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": "5.1."
+            },
+            {
+                "text": "The measures of expectancy-value constructs were selected from the student-background questionnaire administered in TIMSS2007. All motivation items were coded on a four-Likert scale. For the present purposes, responses were reverse-scored, so that higher values represented more favorable responses and thus, higher levels of motivation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Motivational factors",
+                "sec_num": "5.2.1."
+            },
+            {
+                "text": "A scale of students' Self-confidence in Learning Science that assesses how students think about their ability in specific domains was used to measure academic self-concept in TIMSS studies (Marsh et al., 2013, see Table 2 ). The students' Positive Affect Toward Science scale was applied to assess the affect experienced by students when participating in domain-related activities, in line with the notion of intrinsic value in the EVT. Likewise, the Students' Valuing Science scale was similar to utility value in the modern EVT, which assesses how well achievement in specific domains relates to current and future goals. These three latent constructs demonstrated satisfactory reliability across the four countries (see Appendix A).",
+                "cite_spans": [
+                    {
+                        "start": 189,
+                        "end": 213,
+                        "text": "(Marsh et al., 2013, see",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 214,
+                        "end": 221,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Motivational factors",
+                "sec_num": "5.2.1."
+            },
+            {
+                "text": "Participants' academic abilities of science are assessed though a range of questions in the four science subdomains. Two question formats were used in the TIMSS assessment e multiple-choice and written-response questions that involved a mixture of knowing, applying, and reasoning process (Olson et al., 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 289,
+                        "end": 309,
+                        "text": "(Olson et al., 2008)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic achievement",
+                "sec_num": "5.2.2."
+            },
+            {
+                "text": "As there was only one item measuring students' achievementrelated decisions in the TIMSS2007, following Marsh et al. (2013) , this single item was used students' coursework aspirations in each subject area (\"I would like to do more in Biology/Physics/Earth science/Chemistry in school.\"). The response scale ranged from 1, indicating that the participants \"disagree a lot\" to 4, indicating \"agree a lot\".",
+                "cite_spans": [
+                    {
+                        "start": 104,
+                        "end": 123,
+                        "text": "Marsh et al. (2013)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Coursework aspirations",
+                "sec_num": "5.2.3."
+            },
+            {
+                "text": "In the present study, multi-group confirmatory factor analyses (CFAs) and structural equation models (SEMs) were conducted with Mplus 7.11 using the robust maximum likelihood estimator. The unconstrained approach (Nagengast et al., 2011 ) was utilized to model the latent interactions between self-concept and task value in predicting coursework aspirations. The classroom clustering and weighting variables were used to control for the clustering sample (see Appendix B and C). We used full information maximum likelihood (FIML) estimation to handle a relatively small amount of missing data on the remaining items (6.3%e18.2% in Sweden and less than 2% for other countries).",
+                "cite_spans": [
+                    {
+                        "start": 213,
+                        "end": 236,
+                        "text": "(Nagengast et al., 2011",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analysis",
+                "sec_num": "5.3."
+            },
+            {
+                "text": "Preliminary analyses described in details Appendix D demonstrated: (a) there was good support for the factor structures underlying the multiple domains of self-concept, intrinsic value, and utility value; (b) rigorous tests of factorial invariance showed that factor loadings, variances and covariances for motivational beliefs, achievement, and aspirations were invariant over the four OECD countries (Models MG1eMG4, see Table 3 ), and (c) there was good support for the convergent and discriminant validity of motivation beliefs in relation to achievement and aspirations, particularly for self-concept and intrinsic value, to a lesser extent, but also for utility value.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 423,
+                        "end": 430,
+                        "text": "Table 3",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Preliminary analyses",
+                "sec_num": "5.4."
+            },
+            {
+                "text": "6.1. Tests of predictions relating achievement to motivation beliefs: Hypothesis 1 6.1.1. Matching paths In this SEM model, we included one set of 16 (4 \u00c2 4; 1 matching path \u00fe 3 non-matching paths for each domain) paths from achievement in each science domain to each of the four selfconcepts with two additional sets of 16 paths from achievement to each of the four intrinsic values and each of the four utility values (Models MG5eMG7, see Table 1 ). Of particular importance were the substantial path coefficients between paths from achievement to motivation constructs in matching domains compared to those in non-matching domains. To clarify these critical path coefficients, we computed summary statistics for matching paths, nonmatching paths, and their difference (see Appendix E). As seen in Fig. 2 based on Model MG7b where factor loadings and factor variances and covariances, and path coefficients were invariant across countries (see subsequent discussion), the matching paths from achievement to matching self-concept (Mean [M] \u00bc 0.19, SE \u00bc 0.01) and intrinsic value (M \u00bc 0.14, SE \u00bc 0.01) factors were positive across the four science disciplines. However, the matching paths for utility value were relatively small (M \u00bc 0.05, SE \u00bc 0.01).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 441,
+                        "end": 448,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 800,
+                        "end": 806,
+                        "text": "Fig. 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": "6."
+            },
+            {
+                "text": "The means across the 12 remaining non-matching path coefficients from achievement in each domain to non-matching motivational beliefs were substantially smaller than the corre- ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Non-matching paths",
+                "sec_num": "6.1.2."
+            },
+            {
+                "text": "DM \u00bc 0.07, SE \u00bc 0.01).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Non-matching paths",
+                "sec_num": "6.1.2."
+            },
+            {
+                "text": "More specifically, consistent with predictions from Hypothesis 1b, cross-paths between physics and biology were negative, whereas those between physics and chemistry were positive. We also found that cross-paths between chemistry and biology were slightly positive but significantly weaker than those between physics and chemistry (see Appendix E). Cross-paths between earth science and the other science domains were slightly positive or non-significant. It should be noted these patterns of results were only evident in relation to self-concept and intrinsic value.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Non-matching paths",
+                "sec_num": "6.1.2."
+            },
+            {
+                "text": "Following Nagy et al. (2008) , we evaluated whether effects of achievements on task and intrinsic value could be explained by self-concept. In the mediation model (MG10) achievements in the four science domains predicted self-concepts, which in turn predicted intrinsic and utility values. In this model, the four domainspecific self-concepts and values along with achievements were also allowed to predict coursework aspirations. However, it is important to emphasize that the goodness of fit of this mediation model (MG10) is necessarily the same as the original nonmediation model (MG7b), as are the total (direct \u00fe indirect) effects of achievement; that is some of the effects interpreted as direct effects in MG7b are now are now interpreted as mediated effects in MG10, but the total effects are the same. The results revealed that all 32 direct paths from the four science achievements to each of the intrinsic and utility values were relatively small (from \u00c00.05 to 0.05; M \u00bc 0.01) in the mediation model. Subsequently, we evaluated a nested model where these 32 direct paths were constrained to be 0. There was a negligible decrease in model fit (DCFI \u00bc 0.002, DTLI \u00bc 0.001, DRMSEA \u00bc 0.001) when compared to the fully mediated model. Consistent with previous research these results can be interpreted to mean that the statistically significant total effects of achievements on intrinsic and task value are largely mediated by self-concept. Although the cross-sectional nature of our data dictate caution in the interpretation of the mediation model, the total effects in the mediation model (MG10) are the same as the direct effects in the original non-mediation model (MG7b). In this sense, the interpretations of total effects in the mediation model are the same as those of the direct effects in We began with an evaluation of models without latent interactions. Consistent with predictions from Hypothesis 2a, matching paths from self-concept, intrinsic value and utility value in each domain to coursework aspirations, were substantially positive, controlling for achievement (see Fig. 2 ). The mean across the four matching path coefficients for intrinsic value (M \u00bc 0.67, SE \u00bc 0.01) was substantially larger than that for self-concept (M \u00bc 0.10, SE \u00bc 0.01) and utility value (M \u00bc 0.06, SE \u00bc 0.01).",
+                "cite_spans": [
+                    {
+                        "start": 10,
+                        "end": 28,
+                        "text": "Nagy et al. (2008)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 2095,
+                        "end": 2101,
+                        "text": "Fig. 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Mediating role of self-concept",
+                "sec_num": "6.1.3."
+            },
+            {
+                "text": "Non-matching paths (cross-path) from motivational beliefs to aspirations smaller than the corresponding matching paths (selfconcept: DM \u00bc 0.09, SE \u00bc 0.02; intrinsic value: DM \u00bc 0.66, SE \u00bc 0.01; utility value: DM \u00bc 0.05, SE \u00bc 0.01). In line with predictions from Hypothesis 2b, cross-paths between physics and biology were significantly negative. Again, the pattern of results was found for self-concept and intrinsic value but not utility value. However, the majority of cross-paths involving self-concept, intrinsic value, and utility value were non-significant or slightly positive.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Non-matching paths",
+                "sec_num": "6.2.2."
+            },
+            {
+                "text": "We added two sets of domain-specific latent product variables to the Model MG7b: one based on product indicators for the selfconcept and intrinsic value (MG8aeMG8b), and one based on those for self-concept and utility value (MG9aeMG9b). It should be noted that all path coefficients in the model with interactions are similar to those without interactions (see Appendix E). The mean of matching paths involving self-concept-by-intrinsic value and selfconcept-by-utility value interactions were significantly positive (M \u00bc 0.12, SE \u00bc 0.01; M \u00bc 0.09, SE \u00bc 0.01, respectively). Given that the sizes of matching interaction path coefficients for different domains were similar, a simple-slopes plot was constructed, based on the mean of matching interaction path coefficients (see Fig. 3 ). Tests of the simple slopes indicated that the slope for the effect of self-concept on aspirations for intrinsic and utility values of \u00c01 SD below the mean (M \u00bc \u00c00.02, SE \u00bc 0.02, p \u00bc 0.211; M \u00bc \u00c00.01, SE \u00bc 0.01, p \u00bc 0.346, respectively) was non-significant. However, Note. PC \u00bc path coefficients; SC \u00bc self-concept; IV \u00bc intrinsic value; UV \u00bc utility value; ASP \u00bc coursework aspirations; SCxIV \u00bc the product term of self-concept by intrinsic value interaction; SCxUV \u00bc the product term of self-concept by utility value interaction; FL \u00bc factor loading; FV \u00bc factor variances; CV \u00bc factor covariances. Fig. 2 . Structural path model of the relations between achievement, motivational beliefs (self-concept, intrinsic value, utility value), and coursework aspirations across the four science domains. Note. The path coefficients reported in the figure are based on the hypothesized model excluding the self-concept-by-value interactions (Model MG7b), where selfconcept, intrinsic value, and utility value along with achievements and aspirations in the four science domains are simultaneously included. It should be noted that all path coefficients in the model with interactions are similar to those without interactions (see Appendix E). Only statistically significant regression paths (p < 0.05) are presented. Negative, significant paths are shaded in gray.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 777,
+                        "end": 783,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1387,
+                        "end": 1393,
+                        "text": "Fig. 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Latent interactions",
+                "sec_num": "6.2.3."
+            },
+            {
+                "text": "the slopes at average intrinsic and utility values became statistically significant (M \u00bc 0.10, SE \u00bc 0.01, p < 0.001; M \u00bc 0.08, SE \u00bc 0.01, p < 0.001, respectively), which was smaller than those for intrinsic and utility values of \u00fe1 SD above the mean (M \u00bc 0.22, SE \u00bc 0.02, p < 0.001; M \u00bc 0.17, SE \u00bc 0.02, p < 0.001, respectively). Fig. 3 clearly shows the interactive relations of domain-specific self-concept and task value in predicting coursework aspirations: high self-concept only contributes to high aspirations when intrinsic and utility values are moderately elevated. However, when either utility value or intrinsic value are low, the contribution of self-concept in the prediction of aspirations is absent, which implies that high selfconcept cannot compensate for low value (and vice versa). Supplemental analyses suggest that both types of domain-specific interactions (self-concept-by-intrinsic value and self-concept-byutility value) make similar contributions to the prediction of aspirations when both product variables are considered simultaneously (see Appendix G).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 330,
+                        "end": 336,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Latent interactions",
+                "sec_num": "6.2.3."
+            },
+            {
+                "text": "In order to test the generalizability of our results, we estimated a series of multiple-group SEMs testing whether path coefficients were invariant across the four countries (Models MG5eMG9b, see Table 3 ). We conducted pair comparisons for the models where the same measurement invariance was imposed (i.e., factor loadings, factor variances, and factor covariances) and the only difference was whether or not structural coefficients were freely estimated (e.g., MG7a vs. MG7b). Although the imposition of the additional constraints on structural coefficients resulted in some decreases in model fit, these decreases were negligible, and all models provided a satisfactory level of fit to the data. To more directly compare the similarity of country-specific path coefficients, we also calculated a profile similarity index (PSI). The PSI is an estimate of the correlations between path coefficients obtained from different countries. For all path coefficients based on Model 7a, the PSI indicated the very high level of similarity across the four countries (range from 0.861 to 0.957, see Appendix H for country-specific path coefficients). Thus, there was strong support for the invariance of path coefficients over the four countries.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 196,
+                        "end": 203,
+                        "text": "Table 3",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Tests of predictive relations over countries",
+                "sec_num": "6.3."
+            },
+            {
+                "text": "In this study we adopted a multidimensional perspective on self-concept and intrinsic and utility values in science domains, and examined associations among achievement, motivational beliefs and coursework aspirations. Our findings suggest that outcomes in any one domain depend not only on accomplishments, self-concept beliefs, and value perceptions in that domain, but also on how these constructs compare to those in other, contrasting domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "7."
+            },
+            {
+                "text": "Our findings supported DCT to confirm that students receive information from two main sources to form their self-concept: (a) they engage in social comparison with others as a way to judge their own abilities as evident by strong domain-specific relations between achievement and motivational beliefs; (b) students systematically evaluate their abilities by comparing difference subject domains (dimensional comparison processes). More importantly, our findings supported the crucial assumption of DCT that student tend to make both assimilating or contrasting dimensional comparisons, which is related to perceived subject similarity. Specifically, students are likely to engage in contrasting dimensional comparison between physics and biology which are separated by the greatest distance on the continuum of academic self-concepts (relative to other science domains). However, most previous support for such contrasting comparison is based on studies of math and verbal domains that are at opposite ends of the academic selfconcept continuum. Simultaneously, students are likely to engage in assimilating dimensional comparison between physics and chemistry. This indicates that students apparently perceive physics and chemistry to be similar and complementary subjects, such that skills acquired in one subject will help success in the other subject, and achievement feedback in one subject may provide an additional source of positive information to help evaluate abilities in the other subject.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The relations between achievement and motivational beliefs",
+                "sec_num": "7.1."
+            },
+            {
+                "text": "The assimilating dimensional comparisons are also evident between chemistry and biology, but they are significantly smaller than those between physics and chemistry. This result is in line with the verbal-math continuum, suggesting that chemistry and physics would be perceived as more similar to each other than chemistry and biology. However, these assimilation effects are not Fig. 3 . Simple-slopes depicting the effects of latent interactions (self-concept by intrinsic value and self-concept by utility value) on coursework aspirations. Note. IV \u00bc intrinsic value; UV \u00bc utility value. contradictory to the contrasting dimensional comparisons between physics and biology. Students who have high ability in chemistry tend to have high self-concept in both physics and biology, while highly able students in biology tend to have low self-concept in physics (and vice versa) given the same ability in chemistry.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 380,
+                        "end": 386,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The relations between achievement and motivational beliefs",
+                "sec_num": "7.1."
+            },
+            {
+                "text": "With respect to earth science, the contrasting dimensional comparison processes apparently were not triggered in relation to other science domains. Instead, students are likely to engage in assimilating dimensional comparisons between earth science and other science domains in similar size. This indicated that students perceive earth science to be relatively similar to other science domains, implying that earth science would be located between physics/chemistry and biology in the verbal-math continuum. Note that this study is among the first to incorporate earth science and explore perceived similarity in relation to other domains. Thus, the results provide new theoretical and substantive insights into I/E model and DCT.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The relations between achievement and motivational beliefs",
+                "sec_num": "7.1."
+            },
+            {
+                "text": "By integrating DCT into EVT, the results suggested that the two main sources involving achievement/ability comparison also significantly influence the development of students' intrinsic value. This finding suggests that when students perceive school subjects to be similar (e.g., physics and biology), intrinsic motivation in one is likely to generalize to the other, whereas when they perceive those subjects to be distinct (physics vs. biology), liking of one subject domain tends to wane if students have high achievement in the other domain. However, the pattern of results for utility value was somewhat weaker than that for intrinsic value. A theoretical reason may be that utility value is more related to an individual's personal and collective identities, whereas intrinsic value is more related to performance-based experiences. The formation of utility value may rely on other sources, such as cultural and parent subjective norms (Wigfield, Tonks, & Klauda, 2016) . Put simply, parents who value math are likely to communicate these beliefs to children as a way for children to understand that math is important and useful, which can influence students' own valuing of math. Another reason might be that students are not able to distinguish utility value in different science subjects at Grade 9, as evident by the low degree of domain specificity of utility value (see Appendix D). The domain specificity of the construct is one of the bases underlying dimensional comparison mechanisms. The pattern of relations between the motivational factors and achievement is largely a function of the domain-specific nature of this factor. Previous research has suggested that a lower degree of domain specificity for the motivational constructs is associated with weaker support for the I/E model (Marsh et al., 2013) .",
+                "cite_spans": [
+                    {
+                        "start": 942,
+                        "end": 975,
+                        "text": "(Wigfield, Tonks, & Klauda, 2016)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1801,
+                        "end": 1821,
+                        "text": "(Marsh et al., 2013)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The relations between achievement and motivational beliefs",
+                "sec_num": "7.1."
+            },
+            {
+                "text": "The follow-up analyses indicated that the influence of dimensional comparison on the development of students' task values was largely mediated by self-concept. This result reinforces the central role of self-concept in terms of DCT, but the cross-sectional nature of our data dictate caution in the interpretation of the results. Hence, pursuit of this issue is a potentially important direction for further research based on longitudinal data where stronger tests of the causal ordering implicit in the mediation model are possible.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The relations between achievement and motivational beliefs",
+                "sec_num": "7.1."
+            },
+            {
+                "text": "Consistent with a prior prediction, this study found that selfconcept and intrinsic and utility values are positively associated with coursework aspirations in the same domain. Importantly, this study is among the first to test latent expectancy-by-value interactions for multiple science domains within the same model. There is strong evidence of the high domain specificity of interactive relations in predicting coursework aspirations. The interactive roles of self-concept and value suggest that students with both high science self-concept and task value are more likely to aspire to engage in science. However, students with high self-concept are unlikely to desire to pursue science in the future, if they ascribe a low level of intrinsic value to science. Similarly, students who value math are also unlikely to desire to enter a scientific career, if their science self-concept remains low. Therefore, this study provides strong support for the theoretical claim that self-concept and value interact in predicting achievement-related outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The relations between motivational beliefs and aspirations",
+                "sec_num": "7.2."
+            },
+            {
+                "text": "This study extends prior research by integrating EVT and DCT and exploring predictions from motivational beliefs to educational aspirations. Contrasting dimensional comparison between physics and biology is evident for self-concept and intrinsic value. This means that for example, students who have high self-concept and interest in physics but even higher self-concept and interest in biology are likely to have lower aspirations in physics compared to students who have the same level of self-concept and interest in physics but lower self-concept and interest in biology. Thus, aspirations in one science domain depend not only on abilities, selfconcept, and intrinsic value in that domain, but also on relative abilities and motivation in other science domains. These findings shed further light on the important roles played by dimensional comparison processes in shaping academic pathways to different STEM fields, and underline the importance of differentiating motivational beliefs across science domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dimensional comparison processes involving self-concept and value",
+                "sec_num": "7.2.1."
+            },
+            {
+                "text": "However, it should be noted that all cross-paths (dimensional comparisons) between achievement, motivational beliefs and coursework aspirations were relatively weak, particularly for the assimilation effects. These results are consistent with recent selfconcept research on science domains (Jansen et al., 2014) . This may be because the four science subjects considered here are all relatively similar, compared to the more obviously contrasted academic continuum, ranging from relatively pure verbal subjects to relatively pure mathematical subjects (Marsh, 2007) . Nevertheless, mathematics and verbal skills are posited as the endpoints of the academic continuum were not considered in this study.",
+                "cite_spans": [
+                    {
+                        "start": 290,
+                        "end": 311,
+                        "text": "(Jansen et al., 2014)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 552,
+                        "end": 565,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dimensional comparison processes involving self-concept and value",
+                "sec_num": "7.2.1."
+            },
+            {
+                "text": "How science subjects are taught in a given learning environment varies as a function of the country, state or school system, and this is particularly true for earth science. Based on TIMSS data, the present study evaluated the only four available participating OECD countries that assessed students' motivational beliefs in the four science domains. Despite substantial variations in the sociocultural and educational background (see Table 1 ), the pattern of results is invariant across the four countries, supporting the external validity of our findings. Particularly, the cross-cultural support for the generalizability of DCT predictions reflects a broader tendency of students to engage in both assimilating and contrasting dimensional comparisons to develop their self-concept, task values, and aspirations in science. Our results indicate that even students who excel at science, particularly in physics, might have high selfconcept and values in both physics and chemistry; however, they might have an average or below average self-concept and values in biology, which may seem paradoxical in relation to their good achievement (better compared to other students but not compared to their own performance in other science domains). This indication is inconsistent with teachers' perception of formation of students' motivation. Previous studies have shown that teachers tend to believe that students who are capable in one academic domain tend to be seen as having high self-concept and values in all domains, while students who are not capable in one area are seen as having low self-concept and values in all domains (Marsh, 2007) .",
+                "cite_spans": [
+                    {
+                        "start": 1628,
+                        "end": 1641,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 434,
+                        "end": 441,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Generalizability of the results",
+                "sec_num": "7.3."
+            },
+            {
+                "text": "Thus, the generalized pattern has fundamental implications about the way teachers give feedback to students in different academic domains (see further discussion below). However, it should be noted that generalizability over only four countries is not sufficient to provide strong support for cross-cultural generalizability. But it sheds light on the generalized motivational mechanism by the integration of EVT and DCT and offers a good starting point for further research.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Generalizability of the results",
+                "sec_num": "7.3."
+            },
+            {
+                "text": "With respect to instructional practices, the high domain specificity of self-concept and intrinsic value suggests that interventions targeting general academic, or even a general science self-concept and intrinsic value, may not be beneficial in promoting students' motivation in STEM areas. Rather, interventions targeting a specific academic self-concept domain, with the integration of selfenhancement (self-concept enhances ability) and skill development (ability improves self-concept) strategies, have been shown to be much more effective than those solely targeting a global or skill-based self-concept (Marsh, 2007) . Interventions designed to increase students' perceptions of the relevance of academic subjects to their lives through teachers and parents have been found to be effective in triggering students' interest and to promote academic performance in STEM topics (Harackiewicz, Rozek, Hulleman, & Hyde, 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 610,
+                        "end": 623,
+                        "text": "(Marsh, 2007)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 881,
+                        "end": 926,
+                        "text": "(Harackiewicz, Rozek, Hulleman, & Hyde, 2012)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for instructional practices",
+                "sec_num": "7.4."
+            },
+            {
+                "text": "Furthermore, we recommend that teachers should be aware not only of the dimensional comparison processes underlying the formation of students' self-concept and intrinsic value, but also of the comparison processes leading students to different levels of coursework engagement and aspirations. Particularly the contrasting comparisons between physics and biology may help to explain the gender imbalance in STEM careers with girls' underrepresentation in physics-related careers but slightly overrepresentation in biology-related careers (Wang & Degol, 2013) . Understanding such comparison processes would also help teachers provide effective feedback to students. In particular, attributional feedback, goal feedback, and contingent praise, as forms of constructive feedback, have been identified as effective methods of boosting self-concept (O'Mara, Marsh, Craven, & Debus, 2006) . Thus, our findings would help educational policymakers and practitioners to improve retention in STEM classes through high school and could be particularly beneficial in supporting girls to pursue physics-related careers.",
+                "cite_spans": [
+                    {
+                        "start": 537,
+                        "end": 557,
+                        "text": "(Wang & Degol, 2013)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 853,
+                        "end": 882,
+                        "text": "Marsh, Craven, & Debus, 2006)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for instructional practices",
+                "sec_num": "7.4."
+            },
+            {
+                "text": "In addition, the distinctiveness of the interactive relations between self-concept and value beliefs across science domains, suggests that interventions targeting the promotion of aspirations to STEM majors should seek to enhance both domain-specific selfconcept and task value. This suggests that multicomponent interventions (Gl\u20ac aser-Zikuda, Fub, Laukenmann, Metz, & Randler, 2005 ) might be more effective in promoting students' motivation than those based on self-concept and value interventions considered separately.",
+                "cite_spans": [
+                    {
+                        "start": 327,
+                        "end": 383,
+                        "text": "(Gl\u20ac aser-Zikuda, Fub, Laukenmann, Metz, & Randler, 2005",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for instructional practices",
+                "sec_num": "7.4."
+            },
+            {
+                "text": "Several limitations to this study, and some caveats, must be noted. First, in the present cross-sectional study, the issue of the temporal or causal ordering among achievement, motivational beliefs and aspirations could not be addressed on the basis of a single measurement point. Thus, a longitudinal replication would enable us to draw stronger conclusions about the directional influences of self-concept and value and the importance of their interactions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and directions for future research",
+                "sec_num": "7.5."
+            },
+            {
+                "text": "Second, as our study is limited to the four OECD countries where science is taught as separate subjects, it is also important to replicate the results in settings where students are taught science as an interdisciplinary, unified subject. Relatedly, the strengths of DCT and EVT predictions in science is likely to vary as a function of age, as the further students go in school the more differentiated the coursework is likely to be. This is particularly the case as students move into higher education. Thus, research across different international samples covering multiple age groups, school subjects and schooling systems would be useful, to clarify the generalizability of our findings. Third, our findings support the assumption that students make assimilating or contrasting dimensional comparisons are related to how they perceive similarity of two or more domains These results are also consistent with the experimental studies suggesting that lower perceived subject similarity would lead to stronger selfconcept differences than did higher perceived similarity (Helm et al., 2016) . However, such experimental study focusing on the effect of perceived subject similarity and dimensional comparisons on task value has been sparse. It, therefore, would be another avenue for future research.",
+                "cite_spans": [
+                    {
+                        "start": 1073,
+                        "end": 1092,
+                        "text": "(Helm et al., 2016)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and directions for future research",
+                "sec_num": "7.5."
+            },
+            {
+                "text": "Finally, given that the present investigation only focuses on two out of four major value components and single-item coursework aspirations, future research should consider psychometrically stronger, multi-item measures of the four value components and coursework aspirations.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and directions for future research",
+                "sec_num": "7.5."
+            },
+            {
+                "text": "Author note",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and directions for future research",
+                "sec_num": "7.5."
+            },
+            {
+                "text": "J.Guo et al. / Learning and Instruction 49 (2017) 81e91",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "This research was funded in part by grants from the Australian Research Council awarded to Herbert W. Marsh, Alexandre J. S. Morin and Philip D. Parker (DP130102713) and to Philip D. Parker (DE140100080).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "acknowledgement",
+                "sec_num": null
+            },
+            {
+                "text": "Supplementary data related to this article can be found at http:// dx.doi.org/10.1016/j.learninstruc.2016.12.007.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Appendix A. Supplementary data",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Dimensional comparisons in students' perceptions of the learning environment",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Arens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Learning and Instruction",
+                "volume": "42",
+                "issue": "",
+                "pages": "22--30",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Arens, A. K., & M\u20ac oller, J. (2016). Dimensional comparisons in students' perceptions of the learning environment. Learning and Instruction, 42, 22e30.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Motivational determinants of risk-taking behavior",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Atkinson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1957,
+                "venue": "Psychological Review",
+                "volume": "64",
+                "issue": "",
+                "pages": "359--372",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Atkinson, J. W. (1957). Motivational determinants of risk-taking behavior. Psycho- logical Review, 64, 359e372.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Who am I and what am I going to do with my life? Personal and collective identities as motivators of action",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S. ; M"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Fu\u00df",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Laukenmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Metz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Randler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "78e89. Gl\u20ac aser-Zikuda",
+                "volume": "44",
+                "issue": "",
+                "pages": "481--495",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S. (2009). Who am I and what am I going to do with my life? Personal and collective identities as motivators of action. Educational Psychologist, 44, 78e89. Gl\u20ac aser-Zikuda, M., Fu\u00df, S., Laukenmann, M., Metz, K., & Randler, C. (2005). Pro- moting students' emotions and achievementdinstructional design and evalu- ation of the ECOLE-approach. Learning and Instruction, 15, 481e495.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Antecedents of academic emotions: Testing the internal/external frame of reference model for academic enjoyment",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Goetz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Frenzel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Hall",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Pekrun",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "33",
+                "issue": "1",
+                "pages": "9--33",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Goetz, T., Frenzel, A. C., Hall, N. C., & Pekrun, R. (2008). Antecedents of academic emotions: Testing the internal/external frame of reference model for academic enjoyment. Contemporary Educational Psychology, 33(1), 9e33.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Achievement, motivation, and educational choices: A longitudinal study of expectancy and value using a multiplicative perspective",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Guo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J S"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Developmental Psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "1163--1176",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guo, J., Parker, P. D., Marsh, H. W., & Morin, A. J. S. (2015). Achievement, motivation, and educational choices: A longitudinal study of expectancy and value using a multiplicative perspective. Developmental Psychology, 51, 1163e1176.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Probing the unique contributions of selfconcept, task values, and their interactions using multiple value facets and multiple academic outcomes",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Guo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nagengast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kelava",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Gaspard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Brandt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "AERA Open",
+                "volume": "2",
+                "issue": "1",
+                "pages": "1--20",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., \u2026 Trautwein, U. (2016). Probing the unique contributions of self- concept, task values, and their interactions using multiple value facets and multiple academic outcomes. AERA Open, 2(1), 1e20.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Directionality of the associations of high school expectancy-value, aspirations, and attainment: a longitudinal study",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Guo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J S"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Kaur",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "American Educational Research Journal",
+                "volume": "52",
+                "issue": "2",
+                "pages": "371--402",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guo, J., Marsh, H. W., Morin, A. J. S., Parker, P. D., & Kaur, G. (2015). Directionality of the associations of high school expectancy-value, aspirations, and attainment: a longitudinal study. American Educational Research Journal, 52(2), 371e402.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Mathe ist schwierig und Deutsch aktuell: Vergleichende Studie zur Charakterisierung von Schulf\u20ac achern aus Sch\u00fclersicht",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Haag",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "G\u20ac Otz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Psychologie in Erziehung und Unterricht",
+                "volume": "59",
+                "issue": "",
+                "pages": "32--46",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Haag, L., & G\u20ac otz, T. (2012). Mathe ist schwierig und Deutsch aktuell: Vergleichende Studie zur Charakterisierung von Schulf\u20ac achern aus Sch\u00fclersicht [[Math is difficult and German up-to-date: Comparative study of characterizations of school subjects from students' points-of-view]]. Psychologie in Erziehung und Unterricht, 59, 32e46.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Helping parents to motivate adolescents in mathematics and science: An experimental test of a utility-value intervention",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Harackiewicz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Rozek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Hulleman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Hyde",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Psychological Science",
+                "volume": "23",
+                "issue": "",
+                "pages": "899--906",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harackiewicz, J. M., Rozek, C. S., Hulleman, C. S., & Hyde, J. S. (2012). Helping parents to motivate adolescents in mathematics and science: An experimental test of a utility-value intervention. Psychological Science, 23, 899e906.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Dimensional comparison theory: Perceived Subject similarity impacts on students self-concepts",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Helm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Mueller-Kalthoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Moller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "AERA Open",
+                "volume": "2",
+                "issue": "2",
+                "pages": "1--9",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Helm, F., Mueller-Kalthoff, H., Nagy, N., & Moller, J. (2016). Dimensional comparison theory: Perceived Subject similarity impacts on students self-concepts. AERA Open, 2(2), 1e9.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Academic self-concept in science: Multidimensionality, relations to achievement measures, and gender differences",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jansen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schroeders",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Learning and Individual Differences",
+                "volume": "30",
+                "issue": "",
+                "pages": "11--21",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jansen, M., Schroeders, U., & L\u00fcdtke, O. (2014). Academic self-concept in science: Multidimensionality, relations to achievement measures, and gender differ- ences. Learning and Individual Differences, 30, 11e21.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Contrast and assimilation effects of dimensional comparisons in five subjects: An extension of the I/ E model",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jansen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schroeders",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Journal of Educational Psychology",
+                "volume": "107",
+                "issue": "4",
+                "pages": "1086--1101",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jansen, M., Schroeders, U., L\u00fcdtke, O., & Marsh, H. W. (2015). Contrast and assimi- lation effects of dimensional comparisons in five subjects: An extension of the I/ E model. Journal of Educational Psychology, 107(4), 1086e1101.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Self-concept theory, measurement and research into practice: The role of self-concept in educational psychology",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (2007). Self-concept theory, measurement and research into practice: The role of self-concept in educational psychology. Leicester, UK: British Psychological Society.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Factorial, convergent, and discriminant validity of TIMSS math and science motivation measures: A comparison of Arab and Anglo-Saxon countries",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abduljabbar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Abu-Hilal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J S"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Abdelfattah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Leung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Journal of Educational Psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "108--128",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Abduljabbar, A. S., Abu-Hilal, M. M., Morin, A. J. S., Abdelfattah, F., Leung, K. C., et al. (2013). Factorial, convergent, and discriminant validity of TIMSS math and science motivation measures: A comparison of Arab and Anglo-Saxon countries. Journal of Educational Psychology, 105, 108e128.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Dimensional Comparison Theory: Paradoxical relations between self-beliefs and achievements in multiple domains. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nagengast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abduljabbar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "",
+                "volume": "35",
+                "issue": "",
+                "pages": "16--32",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., L\u00fcdtke, O., Nagengast, B., Trautwein, U., & Abduljabbar, A. S. (2015). Dimensional Comparison Theory: Paradoxical relations between self-beliefs and achievements in multiple domains. Learning and Instruction, 35, 16e32.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "A multiple method perspective on self-concept research in educational psychology: A construct validity approach",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Martin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.-T",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "441--456",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Martin, A. J., & Hau, K.-T. (2006). A multiple method perspective on self-concept research in educational psychology: A construct validity approach. In M. Eid, & E. Diener (Eds.), Handbook of multi-method measurement in psy- chology (pp. 441e456). Washington, DC: APA.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "The Big-Fish-Little-Pond effect in mathematics: A crosscultural comparison of U.S. and Saudi Arabian TIMSS responses",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abduljabbar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J S"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Abdelfattah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nagengast",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Journal of Cross-Cultural Psychology",
+                "volume": "45",
+                "issue": "5",
+                "pages": "777--804",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Abduljabbar, A. S., Parker, P. D., Morin, A. J. S., Abdelfattah, F. A., & Nagengast, B. (2014). The Big-Fish-Little-Pond effect in mathematics: A cross- cultural comparison of U.S. and Saudi Arabian TIMSS responses. Journal of Cross- Cultural Psychology, 45(5), 777e804.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Dimensional comparisons and their consequences for self-concept, motivation, and emotion. International Encyclopedia of the Social & Behavioral Sciences, 26, 430e436. M\u20ac oller",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Helm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "M\u00fcller-Kalthoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Psychological Review",
+                "volume": "120",
+                "issue": "",
+                "pages": "544--560",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., Helm, F., M\u00fcller-Kalthoff, H., Nagy, N., & Marsh, H. W. (2015). Dimensional comparisons and their consequences for self-concept, motivation, and emotion. International Encyclopedia of the Social & Behavioral Sciences, 26, 430e436. M\u20ac oller, J., & Marsh, H. W. (2013). Dimensional comparison theory. Psychological Review, 120, 544e560.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Review of Educational Research",
+                "volume": "79",
+                "issue": "",
+                "pages": "1129--1167",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., Pohlmann, B., K\u20ac oller, O., & Marsh, H. W. (2009). A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept. Review of Educational Research, 79, 1129e1167.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Who took the \"x\" out of expectancy-value theory? A psychological mystery, a substantive-methodological synergy, and a cross-national generalization",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nagengast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Scalas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Xu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.-T",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Psychological Science",
+                "volume": "22",
+                "issue": "",
+                "pages": "1058--1066",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nagengast, B., Marsh, H. W., Scalas, L. F., Xu, M. K., Hau, K.-T., & Trautwein, U. (2011). Who took the \"x\" out of expectancy-value theory? A psychological mystery, a substantive-methodological synergy, and a cross-national generalization. Psy- chological Science, 22, 1058e1066.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Gendered high school course selection as a precursor of gendered careers: The mediating role of self-concept and intrinsic value",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Garrett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Cortina",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Gender and occupational outcomes: Longitudinal assessments of individual, social, and cultural influences",
+                "volume": "",
+                "issue": "",
+                "pages": "115--143",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nagy, G., Garrett, J., Trautwein, U., Cortina, K., Baumert, J., & Eccles, J. S. (2008). Gendered high school course selection as a precursor of gendered careers: The mediating role of self-concept and intrinsic value. In H. M. G. Watt, & J. S. Eccles (Eds.), Gender and occupational outcomes: Longitudinal assessments of individual, social, and cultural influences (pp. 115e143). Washington, DC, US: APA.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "TIMSS 2007 technical report",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Olson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Martin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "V S"
+                        ],
+                        "last": "Mullis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Olson, J. F., Martin, M. O., & Mullis, I. V. S. (2008). TIMSS 2007 technical report. Chestnut Hill, MA: TIMSS & PIRLS.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Do self-concept interventions make a difference? A synergistic blend of construct validation and meta-analysis",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "O'mara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Debus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Educational Psychologist",
+                "volume": "41",
+                "issue": "3",
+                "pages": "181--206",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "O'Mara, A. J., Marsh, H. W., Craven, R. G., & Debus, R. L. (2006). Do self-concept interventions make a difference? A synergistic blend of construct validation and meta-analysis. Educational Psychologist, 41(3), 181e206.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Achievement, agency, gender, and socioeconomic background as predictors of postschool choices: A multicontext study",
+                "authors": [],
+                "year": null,
+                "venue": "Developmental Psychology",
+                "volume": "48",
+                "issue": "",
+                "pages": "1629--1642",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Achievement, agency, gender, and socioeconomic background as predictors of postschool choices: A multicontext study. Developmental Psychology, 48, 1629e1642.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Impact of social and dimensional comparisons on student's mathematical and English subjectinterest at the beginning of secondary school. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Schurtz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Pfost",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nagengast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Artelt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "",
+                "volume": "34",
+                "issue": "",
+                "pages": "32--41",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schurtz, I. M., Pfost, M., Nagengast, B., & Artelt, C. (2014). Impact of social and dimensional comparisons on student's mathematical and English subject- interest at the beginning of secondary school. Learning and Instruction, 34, 32e41.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Motivational pathways to STEM career choices: Using expectancy-value perspective to understand individual and gender differences in STEM fields",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Degol",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Developmental Review",
+                "volume": "",
+                "issue": "",
+                "pages": "304--340",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wang, M. T., & Degol, J. (2013). Motivational pathways to STEM career choices: Using expectancy-value perspective to understand individual and gender dif- ferences in STEM fields. Developmental Review, 33, 304e340.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Handbook of motivation at school (pp. 55e74)",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Tonks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Klauda",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wigfield, A., Tonks, S., & Klauda, S. L. (2016). Expectancy-value theory. In K. R. Wentzel, & D. B. Miele (Eds.), Handbook of motivation at school (pp. 55e74). New York: Routledge.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "num": null,
+                "text": "Country characteristics and science curriculum for the four targeted countries.",
+                "type_str": "table",
+                "content": "<table><tr><td colspan=\"2\">Country characteristics</td><td/><td/><td/><td/></tr><tr><td/><td>HDI</td><td>GNI per Capita</td><td>Public Expenditure on Education</td><td>Net Enrollment Ratio in Education</td><td>Life Expectancy at Birth</td></tr><tr><td/><td/><td/><td>(% of GDP)</td><td>(secondary)</td><td>(Year)</td></tr><tr><td>Czech</td><td>0.891</td><td>12,790</td><td>4</td><td>95</td><td>77</td></tr><tr><td>Republic</td><td/><td/><td/><td/><td/></tr><tr><td>Hungary</td><td>0.874</td><td>10,870</td><td>5</td><td>90</td><td>73</td></tr><tr><td>Slovenia</td><td>0.917</td><td>18,660</td><td>6</td><td>91</td><td>78</td></tr><tr><td>Sweden</td><td>0.956</td><td>43,530</td><td>7</td><td>99</td><td>81</td></tr><tr><td colspan=\"2\">Science Curriculum</td><td/><td/><td/><td/></tr><tr><td/><td>National Science</td><td>Science Curriculum Structure</td><td>One curriculum for</td><td>National or Regional</td><td>Instruction for Earth</td></tr><tr><td/><td>Curriculum</td><td>(Grade)</td><td>All students</td><td>Assessments</td><td>Science in</td></tr><tr><td/><td/><td/><td/><td/><td>Lower Secondary Grade</td></tr><tr><td>Czech</td><td>Yes</td><td>6e9</td><td>Yes</td><td>NO</td><td>separate subject</td></tr><tr><td>Republic</td><td/><td/><td/><td/><td/></tr><tr><td>Hungary</td><td>Yes</td><td>5e6, 7e8</td><td>Yes</td><td>Yes</td><td>separate subject</td></tr><tr><td>Slovenia</td><td>Yes</td><td>7e9</td><td>Yes a</td><td>NO</td><td>mainly in physics</td></tr><tr><td>Sweden</td><td>Yes</td><td>6e9</td><td>Yes</td><td>Yes</td><td>mainly in physics and</td></tr><tr><td/><td/><td/><td/><td/><td>chemistry</td></tr></table>"
+            },
+            "TABREF2": {
+                "num": null,
+                "text": "A priori factor structure relating the TIMSS motivation items to latent factors. These results are based on Model MG4. Factor loadings were constrained to be equal across the four countries. The wording of the items was rigorously parallel for the corresponding science domain-specific scales. P \u00bc physics; C \u00bc chemistry; E \u00bc earth science; B \u00bc biology; SCP \u00bc self-concept (positive); SCN \u00bc self-concept negative; IVP \u00bc intrinsic value (positive); IVN \u00bc intrinsic value (negative); UVP \u00bc utility value (positive).",
+                "type_str": "table",
+                "content": "<table><tr><td>Items</td><td>Item wording</td></tr></table>"
+            },
+            "TABREF3": {
+                "num": null,
+                "text": "Model fit statistics for the multi-group CFA and SEM models used in the present study.",
+                "type_str": "table",
+                "content": "<table><tr><td>Model</td><td>Description</td><td>c 2</td><td>df</td><td>CFI</td><td>TLI</td><td>RMSEA</td></tr><tr><td>CFA</td><td/><td/><td/><td/><td/><td/></tr><tr><td>MG1</td><td>SC \u00fe IV \u00fe UV \u00fe ACH \u00fe ASP, Correlated Uniqueness \u00fe configural</td><td>18,038</td><td>3912</td><td>0.964</td><td>0.951</td><td>0.028</td></tr><tr><td>MG2</td><td>MG1 \u00fe FL invariance</td><td>19,416</td><td>4008</td><td>0.961</td><td>0.948</td><td>0.029</td></tr><tr><td>MG3</td><td>MG2 \u00fe FV invariance</td><td>20,138</td><td>4068</td><td>0.959</td><td>0.947</td><td>0.030</td></tr><tr><td>MG4</td><td>MG3 \u00fe CV invariance</td><td>23,961</td><td>4638</td><td>0.951</td><td>0.944</td><td>0.030</td></tr><tr><td>SEM</td><td/><td/><td/><td/><td/><td/></tr><tr><td>MG5a</td><td>MG2 \u00fe freely estimate PC</td><td>19,416</td><td>4008</td><td>0.961</td><td>0.948</td><td>0.029</td></tr><tr><td>MG5b</td><td>MG2 \u00fe PC invariance</td><td>21,088</td><td>4344</td><td>0.958</td><td>0.948</td><td>0.029</td></tr><tr><td>MG6a</td><td>MG3 \u00fe freely estimate PC</td><td>20,146</td><td>4068</td><td>0.959</td><td>0.947</td><td>0.030</td></tr><tr><td>MG6b</td><td>MG3 \u00fe PC invariance</td><td>21,790</td><td>4404</td><td>0.956</td><td>0.947</td><td>0.030</td></tr><tr><td>MG7a</td><td>MG4 \u00fe freely estimate PC</td><td>22,327</td><td>4302</td><td>0.954</td><td>0.944</td><td>0.030</td></tr><tr><td>MG7b</td><td>MG4 \u00fe PC invariance</td><td>23,961</td><td>4638</td><td>0.951</td><td>0.944</td><td>0.030</td></tr><tr><td>MG8a</td><td>MG6b \u00fe freely estimate FL, FV, CV, PC relating to SCxIV</td><td>29,880</td><td>6934</td><td>0.945</td><td>0.936</td><td>0.027</td></tr><tr><td>MG8b</td><td>MG6b \u00fe FL, FV, CV, PC invariance relating to SCxIV</td><td>31,512</td><td>7228</td><td>0.942</td><td>0.936</td><td>0.027</td></tr><tr><td>MG9a</td><td>MG6b \u00fe freely estimate FL, FV, CV, PC relating to SCxUV</td><td>25,644</td><td>7740</td><td>0.955</td><td>0.947</td><td>0.023</td></tr><tr><td>MG9b</td><td>MG6b \u00fe FL, FV, CV, PC invariance relating to SCxUV</td><td>28,647</td><td>8184</td><td>0.948</td><td>0.942</td><td>0.024</td></tr><tr><td>MG10</td><td>Mediation model</td><td>23,961</td><td>4638</td><td>0.951</td><td>0.944</td><td>0.030</td></tr></table>"
+            }
+        }
+    }
+}

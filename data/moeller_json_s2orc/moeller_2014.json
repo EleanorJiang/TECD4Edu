@@ -1,0 +1,2876 @@
+{
+    "paper_id": "moeller_2014",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:56:34.409911Z"
+    },
+    "title": "The reciprocal internal/external frame of reference model using grades and test scores",
+    "authors": [
+        {
+            "first": "Jens",
+            "middle": [],
+            "last": "M\u20ac Oller",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Kiel",
+                "location": {
+                    "country": "Germany"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Friederike",
+            "middle": [],
+            "last": "Zimmermann",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Kiel",
+                "location": {
+                    "country": "Germany"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Olaf",
+            "middle": [],
+            "last": "K\u20ac Oller",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Kiel",
+                "location": {
+                    "country": "Germany"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Jens",
+            "middle": [],
+            "last": "M\u20ac",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Background. The reciprocal I/E model (RI/EM) combines the internal/external frame of reference model (I/EM) with the reciprocal effects model (REM). The RI/EM extends the I/EM longitudinally and the REM across domains. The model predicts that, within domains, mathematics and verbal achievement (VACH) and academic self-concept have positive effects on subsequent mathematics and VACH and academic self-concept within domains but have negative effects across domains. Aims. The main purpose is to validate the RI/EM and extend it using objective achievement indicators and grades. Sample. Two waves of data collection from grade 5 to grade 9 with N = 1,045 secondary school students were used. Methods. Test scores, grades, and self-concept data were obtained. The main analyses were conducted using hierarchical linear modelling. Results. The positive longitudinal effects of grades and test scores on subsequent grades, test scores and academic self-concept within domains and the negative effects of grades and test scores on subsequent academic self-concept across domains supported the RI/EM. The effects of academic self-concept on subsequent grades and test scores across domains were near zero when prior achievement indicators were controlled for. Overall, the results using school grades as achievement measures were replicated using standardized achievement test scores. Conclusions. The results serve to highlight the importance of the combination of common theories, which are mostly investigated individually, to enhance our understanding of the complexity of within-and across-domain relations between academic self-concepts and achievement using grades as well as test scores.",
+    "pdf_parse": {
+        "paper_id": "moeller_2014",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Background. The reciprocal I/E model (RI/EM) combines the internal/external frame of reference model (I/EM) with the reciprocal effects model (REM). The RI/EM extends the I/EM longitudinally and the REM across domains. The model predicts that, within domains, mathematics and verbal achievement (VACH) and academic self-concept have positive effects on subsequent mathematics and VACH and academic self-concept within domains but have negative effects across domains. Aims. The main purpose is to validate the RI/EM and extend it using objective achievement indicators and grades. Sample. Two waves of data collection from grade 5 to grade 9 with N = 1,045 secondary school students were used. Methods. Test scores, grades, and self-concept data were obtained. The main analyses were conducted using hierarchical linear modelling. Results. The positive longitudinal effects of grades and test scores on subsequent grades, test scores and academic self-concept within domains and the negative effects of grades and test scores on subsequent academic self-concept across domains supported the RI/EM. The effects of academic self-concept on subsequent grades and test scores across domains were near zero when prior achievement indicators were controlled for. Overall, the results using school grades as achievement measures were replicated using standardized achievement test scores. Conclusions. The results serve to highlight the importance of the combination of common theories, which are mostly investigated individually, to enhance our understanding of the complexity of within-and across-domain relations between academic self-concepts and achievement using grades as well as test scores.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Three models deal with the nature of the relationship between academic self-concept and achievement: the reciprocal effects model (REM; Marsh & Craven, 2006; Valentine, DuBois, & Cooper, 2004) , the internal/external frame of reference model (I/EM; Marsh, 1986; M\u20ac oller, Pohlmann, K\u20ac oller, & Marsh, 2009) , and the integration of both models in the reciprocal internal/external frame of reference model (RI/EM; M\u20ac oller, Retelsdorf, K\u20ac oller, & Marsh, 2011) . The REM suggests that domain-specific academic self-concept and achievement are reciprocally related, with prior academic self-concept positively influencing subsequent achievement, and prior achievement positively influencing subsequent academic self-concept. The I/EM suggests that mathematics achievement (MACH) and verbal achievement (VACH) have positive effects on self-concepts in the same domain, but that achievement has negative effects on non-corresponding self-concepts (e.g., from MACH to verbal self-concept [VSC] ). Finally, the RI/EM combines the two models, examines longitudinal data on achievement and academic self-concept in both domains, and in addition to the two established models, makes it possible to analyse the effects of self-concept on subsequent achievement in noncorresponding domains.",
+                "cite_spans": [
+                    {
+                        "start": 136,
+                        "end": 157,
+                        "text": "Marsh & Craven, 2006;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 158,
+                        "end": 192,
+                        "text": "Valentine, DuBois, & Cooper, 2004)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 249,
+                        "end": 261,
+                        "text": "Marsh, 1986;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 262,
+                        "end": 306,
+                        "text": "M\u20ac oller, Pohlmann, K\u20ac oller, & Marsh, 2009)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 423,
+                        "end": 459,
+                        "text": "Retelsdorf, K\u20ac oller, & Marsh, 2011)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 983,
+                        "end": 988,
+                        "text": "[VSC]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "As M\u20ac oller et al. (2011) showed, the new RI/EM extends the REM across domains, and it extends the I/EM longitudinally. These authors found that achievements assessed by school grades had negative longitudinal effects on self-concepts in non-corresponding domains thereby extending I/EM and REM predictions. The effects of self-concepts on subsequent achievements in non-corresponding domains were slightly negative. The main purpose of the present paper is to analyse the integration of I/EM and REM into the RI/EM when standardized achievement test scores are used as achievement measures as an important limitation of research on the RI/EM lies in the sole use of teacher-assigned grades as achievement indicators (M\u20ac oller et al., 2011) . Therefore, the present study tries to validate the RI/EM while extending it by also using standardized test scores as achievement indicators. This is particularly important as there is evidence that the type of achievement measure has moderating effects on the relationship between achievement and academic self-concept (see below).",
+                "cite_spans": [
+                    {
+                        "start": 3,
+                        "end": 25,
+                        "text": "M\u20ac oller et al. (2011)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 717,
+                        "end": 740,
+                        "text": "(M\u20ac oller et al., 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In the following paragraphs, we briefly summarize research on the three models using grades and objective test scores as moderators. Other important moderators of the relations between achievements and self-concepts within the RI/EM referred to include general cognitive ability, domain-specific interests, migration background, sex, and school type attended. Prior research has shown these as somewhat influential.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The REM ( Figure 1a ) firstly postulates stability for both academic self-concept and within-domain achievement, and a positive relationship between them over time. Secondly, it postulates that subsequent achievement is affected by prior self-concept, and that subsequent self-concept is affected by prior achievement. The question as to which construct causally dominates the other is related to two different theoretical approaches, the self-enhancement and skill-development hypotheses (Calsyn & Kenny, 1977) . The self-enhancement hypothesis postulates that self-concept affects achievement via academic choice behaviour, higher motivation, effort, and investment (Marsh & Yeung, 1997) . The skill-development hypothesis suggests that achievement affects academic self-concept mostly explained by social comparison processes (e.g., M\u20ac oller & Pohlmann, 2010; M\u20ac oller et al., 2009) . Students tend to socially compare their achievement in a domain with the achievement of their classmates. As a consequence, students with an above-average achievement develop a high academic self-concept, whereas students with a below-average achievement develop a low academic self-concept. The theoretical integration of both hypotheses is the REM (Marsh, 1990; Marsh & Craven, 2006; Retelsdorf, K\u20ac oller, & M\u20ac oller, 2014) . The empirical research reveals evidence in favour of both the self-enhancement and the skill-development hypothesis. Nevertheless, in their meta-analysis of the self-enhancement hypothesis, Valentine et al. (2004) concluded that there was support for moderate to weak positive paths (0.11) from self-beliefs to later academic achievement within domains even when initial levels of achievement were controlled for. With respect to the skill-development hypothesis, in their meta-analysis of 69 studies, M\u20ac oller et al. (2009) found strong positive paths from achievement to the corresponding academic self-concept (math: Grades .75, tests: .57; verbal: Grades: .68, tests: .47 without controlling for prior academic self-concept).",
+                "cite_spans": [
+                    {
+                        "start": 489,
+                        "end": 511,
+                        "text": "(Calsyn & Kenny, 1977)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 668,
+                        "end": 689,
+                        "text": "(Marsh & Yeung, 1997)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 836,
+                        "end": 862,
+                        "text": "M\u20ac oller & Pohlmann, 2010;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 863,
+                        "end": 885,
+                        "text": "M\u20ac oller et al., 2009)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 1238,
+                        "end": 1251,
+                        "text": "(Marsh, 1990;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1252,
+                        "end": 1273,
+                        "text": "Marsh & Craven, 2006;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1274,
+                        "end": 1313,
+                        "text": "Retelsdorf, K\u20ac oller, & M\u20ac oller, 2014)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 1506,
+                        "end": 1529,
+                        "text": "Valentine et al. (2004)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 1818,
+                        "end": 1840,
+                        "text": "M\u20ac oller et al. (2009)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 10,
+                        "end": 19,
+                        "text": "Figure 1a",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The reciprocal effects model",
+                "sec_num": null
+            },
+            {
+                "text": "The internal/external frame of reference model The I/EM (Figure 1b ) extends the relationship between academic self-concept and achievement to more than one domain. The I/EM firstly postulates positive paths from mathematics and VACH to the corresponding self-concepts (the same social comparison process using an external frame of reference as posited in the REM). Secondly, it postulates that achievement in one domain negatively affects self-concept in the non-corresponding domain: Students compare their achievements within an internal frame of reference, for example, in verbal domains with their achievements, for example, in mathematics domains. A student who is better in verbal than in mathematics tasks therefore contrasts his/her better VSC with his/her worse mathematics self-concept (MSC). In addition to social comparisons, these so-called dimensional comparisons (M\u20ac oller & K\u20ac oller, 2001a) have an impact on academic self-concept. M\u20ac oller and Marsh (2013) focused on these intra-individual comparisons in their dimensional comparison theory. Based on dimensional comparisons between one's own achievement in mathematics and in verbal domains, low MACH seems to lead to an increase in VSC. Together social and dimensional comparison processes lead to the moderate or near-zero correlations often observed between MSCs and VSCs (M\u20ac oller et al., 2009) . Empirical support for the validity of the I/EM comes from introspective (M\u20ac oller & Husemann, 2006) , experimental (M\u20ac oller, 2005; M\u20ac oller & K\u20ac oller, 2001a; , and field studies (Marsh & Hau, 2004; M\u20ac oller & K\u20ac oller, 2001b; Skaalvik & Rankin, 1992) . The meta-analysis of 69 I/E studies (M\u20ac oller et al., 2009) showed generalized support for the assumptions of the I/EM: MACH and VACH were highly correlated (.67), MSC and VSC were nearly uncorrelated (.10); paths from achievement to academic self-concept in the corresponding domain were substantial and positive (.61 for mathematics, .49 for verbal), and paths from achievement in one domain to academic self-concept in the other domain were substantial and negative (MACH to VSC: \u00c0.21; VACH to MSC: \u00c0.27). There were some substantial differences in these relations with achievements measured by teacher-assigned grades or by objective test scores (see below).",
+                "cite_spans": [
+                    {
+                        "start": 879,
+                        "end": 907,
+                        "text": "(M\u20ac oller & K\u20ac oller, 2001a)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1345,
+                        "end": 1368,
+                        "text": "(M\u20ac oller et al., 2009)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1443,
+                        "end": 1470,
+                        "text": "(M\u20ac oller & Husemann, 2006)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 1486,
+                        "end": 1502,
+                        "text": "(M\u20ac oller, 2005;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1503,
+                        "end": 1530,
+                        "text": "M\u20ac oller & K\u20ac oller, 2001a;",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1551,
+                        "end": 1570,
+                        "text": "(Marsh & Hau, 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1571,
+                        "end": 1598,
+                        "text": "M\u20ac oller & K\u20ac oller, 2001b;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1599,
+                        "end": 1623,
+                        "text": "Skaalvik & Rankin, 1992)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 1662,
+                        "end": 1685,
+                        "text": "(M\u20ac oller et al., 2009)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 56,
+                        "end": 66,
+                        "text": "(Figure 1b",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The reciprocal effects model",
+                "sec_num": null
+            },
+            {
+                "text": "The RI/EM (Figure 1c ) is the theoretical integration of the REM and the I/EM which was validated in two recent publications (M\u20ac oller et al., 2011; Niepel, Brunner, & Preckel, 2014) . As Marsh and K\u20ac oller (2004) have pointed out, combining the two models highlights the strengths of each model that are limitations of the other model. The REM proposes that academic self-concept has an effect on achievement and that achievement has an effect on academic self-concept, ignoring cross-domain effects. The I/EM only addresses the effects of achievement on academic self-concept, ignoring the effects of academic self-concept on achievement. The combination of the two models extends the I/EM by analysing the longitudinal effects of achievement on self-concept and of self-concept on achievement. It also extends the REM by analysing the reciprocal relationship between achievement and self-concept across domains. Overcoming the potential limitations of the REM and the I/ EM are the foci of the RI/EM. M\u20ac oller et al. (2011) found support for both the REM and the I/EM, even when prior achievement and self-concept indicators were controlled for. Using three waves of data collection from grade 5 to grade 8 with N = 1,508 students, analyses supported the REM, revealing that grades and academic self-concept had positive longitudinal effects on both subsequent grades and academic self-concept within domains. The I/EM found support as well; grades had negative effects on the subsequent academic self-concept across domains. The combination of the longitudinal measures of all four constructs made it possible to additionally test for the supposed small negative effect of prior academic self-concept in one domain on subsequent achievement in another domain. M\u20ac oller et al. (2011) as well as Niepel et al. (2014) found that academic self-concept only had small negative effects on subsequent grades across domains. This is in line with other studies testing for the longitudinal effects of academic self-concept on achievement in non-corresponding domains which have also reported either no significant effects (K\u20ac oller, Klemmert, M\u20ac oller, & Baumert, 1999; Marsh & Yeung, 1998; M\u20ac oller & K\u20ac oller, 2001b) or small negative effects (Marsh & K\u20ac oller, 2004) . None of these studies used objective test scores as achievement indicators.",
+                "cite_spans": [
+                    {
+                        "start": 125,
+                        "end": 148,
+                        "text": "(M\u20ac oller et al., 2011;",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 149,
+                        "end": 182,
+                        "text": "Niepel, Brunner, & Preckel, 2014)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 188,
+                        "end": 213,
+                        "text": "Marsh and K\u20ac oller (2004)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1004,
+                        "end": 1026,
+                        "text": "M\u20ac oller et al. (2011)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1798,
+                        "end": 1818,
+                        "text": "Niepel et al. (2014)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 2117,
+                        "end": 2164,
+                        "text": "(K\u20ac oller, Klemmert, M\u20ac oller, & Baumert, 1999;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 2165,
+                        "end": 2185,
+                        "text": "Marsh & Yeung, 1998;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 2186,
+                        "end": 2213,
+                        "text": "M\u20ac oller & K\u20ac oller, 2001b)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 2240,
+                        "end": 2264,
+                        "text": "(Marsh & K\u20ac oller, 2004)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 10,
+                        "end": 20,
+                        "text": "(Figure 1c",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The reciprocal internal/external frame of reference model",
+                "sec_num": null
+            },
+            {
+                "text": "Test scores and grades as achievement indicators and their relation to self-concept Teacher-assigned grades and standardized test results are the most important sources of feedback with regard to students' achievement. Both achievement indicators are interrelated but not congruent and both have far-reaching consequences for instructional practice, for the evaluation of students' performances, and individual students' academic careers and self-concepts. Nevertheless, there is some variance left between both achievement indicators. With regard to the RI/EM, a major difference between grades and test scores is their relation to self-concept. The relations are stronger when achievement is based on high-stakes school grades rather than low-stakes standardized tests (Hansford & Hattie, 1982; Marsh & Yeung, 1998; Skaalvik & Skaalvik, 2002) as low-stakes tests have no direct implications for students' present or future educational goals (Trautwein, L\u20ac udtke, Marsh, K\u20ac oller, & Baumert, 2006) . This is in line with the assumptions of both hypotheses underlying the REM, the self-enhancement hypothesis and the skill-development hypothesis. The self-enhancement hypothesis postulates that self-concept affects achievement via academic choice behaviour, higher motivation, effort, and investment (Marsh & Yeung, 1997) which is more important for high-stake grades than for low-stake test situations. Students have no opportunity and little incentive to study for low-stakes standardized tests. As Valentine et al. (2004) argue, it is to assume that self-concepts have a stronger impact on achievement aspects strongly related to motivation, such as teacher-assigned grades (Wylie, 1979) . However, in their meta-analysis, they found almost no differences between the effects of self-concepts on test scores and the effects of self-concepts on grades. Both were relatively small (between .08 and .10). The skill-development hypothesis suggests that students' social comparisons are responsible for the achievement influencing academic self-concept effect (e.g., M\u20ac oller & Pohlmann, 2010; M\u20ac oller et al., 2009) . The meta-analysis of studies on the I/EM (M\u20ac oller et al., 2009) revealed different patterns for different achievement indicators: whereas the I/EM fits both achievement measures, paths from achievement to self-concepts were stronger for grades than for test scores.",
+                "cite_spans": [
+                    {
+                        "start": 771,
+                        "end": 796,
+                        "text": "(Hansford & Hattie, 1982;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 797,
+                        "end": 817,
+                        "text": "Marsh & Yeung, 1998;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 818,
+                        "end": 844,
+                        "text": "Skaalvik & Skaalvik, 2002)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 943,
+                        "end": 998,
+                        "text": "(Trautwein, L\u20ac udtke, Marsh, K\u20ac oller, & Baumert, 2006)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1301,
+                        "end": 1322,
+                        "text": "(Marsh & Yeung, 1997)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1502,
+                        "end": 1525,
+                        "text": "Valentine et al. (2004)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 1678,
+                        "end": 1691,
+                        "text": "(Wylie, 1979)",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 2066,
+                        "end": 2092,
+                        "text": "M\u20ac oller & Pohlmann, 2010;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 2093,
+                        "end": 2115,
+                        "text": "M\u20ac oller et al., 2009)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 2159,
+                        "end": 2182,
+                        "text": "(M\u20ac oller et al., 2009)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal internal/external frame of reference model",
+                "sec_num": null
+            },
+            {
+                "text": "Interestingly, although we have some evidence that REM and IEM show some differences when calculated for grades and test scores, a remarkable limitation is that until now research on the RI/EM only focuses on grades as achievement indicators. Not a single study shows that the model is valid for objective test scores as well. Therefore, the question whether in the RI/EM the longitudinal relations between the four constructs are different when either using test scores or grades as achievement indicators remains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal internal/external frame of reference model",
+                "sec_num": null
+            },
+            {
+                "text": "In summary, findings indicate that for teacher-assigned grades correlations between both domains are lower than for test scores, and their correlations with the corresponding self-concepts are also higher than for test scores. The central question of this study is whether all three models, the REM, the I/EM, and their combination in the RI/EM, work with test scores as well as with grades as achievement indicators.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal internal/external frame of reference model",
+                "sec_num": null
+            },
+            {
+                "text": "Potential moderators of the relations between achievement and self-concept Besides grades and test scores, there may be other moderators of the links between self-concept and achievement: Valentine et al. (2004) dealt with cognitive ability as a moderator of relations between self-concept and achievement as limited cognitive ability may increase the importance of positive self-beliefs for subsequent achievement (for effects of cognitive ability on the I/EM see Chen, Hwang, Yeh, & Lin, 2011) . However, as with Hansford and Hattie (1982) , there was no moderating influence in their meta-analysis. Neither Hansford and Hattie (1982) nor Valentine et al. (2004 Valentine et al. ( ) or M\u20ac oller et al. (2009 found any gender differences in the relations between achievement and self-beliefs although theoretically, numerous personal characteristics such as sex stereotypes and school environment factors such as teachers' gender-related patterns of interaction with students (Eccles, 1983) might have differential effects on boys and girls. As Skaalvik and Rankin (1990) point out, girls may find it less important to do well in mathematics, whereas boys may attach less importance to VACH. As yet, however, there is little evidence that gender affects the patterns proposed by the RI/EM (Marsh, 1990; M\u20ac oller et al., 2009 Skaalvik & Rankin, 1990; Valentine et al., 2004) . In our particular sample, we analysed additional moderating effects of migration background and school type attended. Finally, students' domain-specific interest may serve as a potential moderator as interest may affect the perception of achievement: Students with higher interest in math than in verbal affairs may have stronger paths from math than from VACH on subsequent self-concepts although in Marsh, K\u20ac oller, Trautwein, L\u20ac udtke, and Baumert (2005) prior math interest had only a small effect on subsequent math self-concept. Pohlmann and M\u20ac oller (2006) in an experimental study on the I/EM revealed only small effects of social and dimensional comparisons on task-specific interest.",
+                "cite_spans": [
+                    {
+                        "start": 188,
+                        "end": 211,
+                        "text": "Valentine et al. (2004)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 465,
+                        "end": 495,
+                        "text": "Chen, Hwang, Yeh, & Lin, 2011)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 515,
+                        "end": 541,
+                        "text": "Hansford and Hattie (1982)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 610,
+                        "end": 636,
+                        "text": "Hansford and Hattie (1982)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 641,
+                        "end": 663,
+                        "text": "Valentine et al. (2004",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 664,
+                        "end": 709,
+                        "text": "Valentine et al. ( ) or M\u20ac oller et al. (2009",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 977,
+                        "end": 991,
+                        "text": "(Eccles, 1983)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1046,
+                        "end": 1072,
+                        "text": "Skaalvik and Rankin (1990)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 1290,
+                        "end": 1303,
+                        "text": "(Marsh, 1990;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1304,
+                        "end": 1325,
+                        "text": "M\u20ac oller et al., 2009",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 1326,
+                        "end": 1350,
+                        "text": "Skaalvik & Rankin, 1990;",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 1351,
+                        "end": 1374,
+                        "text": "Valentine et al., 2004)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 1778,
+                        "end": 1834,
+                        "text": "Marsh, K\u20ac oller, Trautwein, L\u20ac udtke, and Baumert (2005)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1912,
+                        "end": 1940,
+                        "text": "Pohlmann and M\u20ac oller (2006)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal internal/external frame of reference model",
+                "sec_num": null
+            },
+            {
+                "text": "The predictions of this study were derived from the three models and the empirical findings on differences between studies using test scores or grades:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present investigation",
+                "sec_num": null
+            },
+            {
+                "text": "Hypothesis 1: Math and verbal test scores are more strongly correlated than math and verbal grades.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present investigation",
+                "sec_num": null
+            },
+            {
+                "text": "Hypothesis 2: Within the domains, math and verbal grades are more strongly related to math and VSCs than test scores are.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present investigation",
+                "sec_num": null
+            },
+            {
+                "text": "Hypothesis 3: We expect to find support for the REM (3a), the I/EM (3b), and the RI/EM (3c) using standardized tests and teacher-assigned grades as achievement indicators.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The present investigation",
+                "sec_num": null
+            },
+            {
+                "text": "Participants of the present longitudinal study were N = 1,045 secondary school students (50% female) in 55 classes from urban schools in Germany. These students were a subsample of the larger project EIKA (development and implementation of a school-to-work transition concept for schools serving disadvantaged communities), which addressed competence development among adolescents in schools with particular need for support. This project originally focused on the investigation of conditions and determinants of competencies among students from disadvantaged communities. The sample was drawn to represent an urban area that evidently performed poorly in international large-scale student assessments. It was characterized by a relatively high percentage of students from low-income families and a high percentage of students with an immigrant background. In this article, the investigated students of the subsample were fifth-graders from the first measurement point who were followed up to grade 9. They came from families characterized by a low socioeconomic status (as indicated by the Highest International Socio-Economic Index of Occupational Status [HISEI] of the mother and father from the parents' reports: M = 39, SD = 14 on a scale from 16 to 90 with higher scores indicating greater socioeconomic status; Ganzeboom & Treiman, 1996) . Fifty percentage of the sample comprised students with an immigration background according to country of birth as reported by the parents (or by the children when the parents' reports were not available): That is, at least one of the parents or the child was not born in Germany. After elementary school, in grade 5, German students are assigned to different types of secondary school based on their abilities and prior achievement (academic track Gymnasium or non-academic tracks). The majority of our sample (71%) attended non-academic track schools.",
+                "cite_spans": [
+                    {
+                        "start": 1318,
+                        "end": 1344,
+                        "text": "Ganzeboom & Treiman, 1996)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": null
+            },
+            {
+                "text": "Most of the study variables were collected from one cohort in grade 5 (T1) and again 4 years later in grade 9 (T2); school grades were collected from students' report cards in grades 6 and 9.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample",
+                "sec_num": null
+            },
+            {
+                "text": "Achievement in mathematics (MACH) and in the verbal domain (VACH) was assessed by means of students' school grades in mathematics and German and by means of performance scores in standardized mathematics and verbal tests. The German grading system includes grades from outstanding (1) to fail (6). To facilitate the interpretation of results, school grades were reverse coded so that higher scores reflected better outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "The students' performance was measured comprehensively with items from standardized tests that had been developed in the context of large-scale educational studies. The tests were compiled to meet curricular validity as well as represent students' literacy for both domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "With regard to VACH, students were asked to read several texts (non-fictional and literary texts in both grades, respectively; for example, a tale about Juan the donkey in the fifth grade or newspaper job advertisements in the ninth grade) and to answer questions regarding each text; this required retrieving information from the texts and focused on the skill of forming a broad and general understanding of the texts. With regard to mathematics, students were asked to work on curricular validated tasks which covered school mathematics contents typical for their class levels, for example, arithmetic, geometry, algebra, and statistics (e.g., basic measuring tasks in the fifth grade or percentage calculation in the ninth grade). To estimate performance scores in accordance with the item response theory, weighted likelihood estimates (WLE) were computed using the software ConQuest (Wu, Adams, & Wilson, 1998 ",
+                "cite_spans": [
+                    {
+                        "start": 889,
+                        "end": 915,
+                        "text": "(Wu, Adams, & Wilson, 1998",
+                        "ref_id": "BIBREF56"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "We assessed specific academic self-concept with respect to the domain of mathematics (MSC) and the verbal domain (VSC) as the general belief of doing well or poorly in the corresponding domains. Mathematics and VSCs were measured by means of three identical items on 4-point scales from agree (1) to disagree (4), with higher scores representing a higher self-concept. The items selected from previously developed scales (Jerusalem, 1984; Jopt, 1978) were as follows: 'Although I do my best, mathematics [German] is more difficult for me than for many of my classmates', 'Nobody can be good in every subject. I am just not talented in mathematics (German)', and 'I am not particularly good in mathematics (German)'. The reliabilities (Cronbach's alpha) of the domainspecific self-concepts were good: .81 (MSC T1), .88 (MSC T2), .78 (VSC T1), and .84 (VSC T2).",
+                "cite_spans": [
+                    {
+                        "start": 421,
+                        "end": 438,
+                        "text": "(Jerusalem, 1984;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 439,
+                        "end": 450,
+                        "text": "Jopt, 1978)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Self-concept",
+                "sec_num": null
+            },
+            {
+                "text": "First, students' sex (male/female) was included as one potential moderating variable. Second, immigration background (no immigration/immigration background) was covered as being born abroad (the child or at least one of the parents as reported by the parents or the child when parents' reports were not available). Third, the school type attended was included (non-academic/academic track). Fourth, general cognitive ability, which was assessed using the four subscales Series, Classification, Matrices, and Topology of the Culture Fair Intelligence Test (CFT 20, German adaptation, Wei\u00df, 1997) , was investigated as a potential moderator; the test assesses the general mental capacity and consists of 46 items to be coded as right or wrong. Cronbach's alpha was acceptable: .79 (CFT T1). Fifth, domain-specific interest in the school subject German and, sixth, in mathematics was assessed with five items each on 4-point scales from disagree (1) to agree (4), for example 'I would even give up some of my spare time to learn new topics in German/mathematics' (cf. K\u20ac oller, Schnabel, & Baumert, 2001) ; the reliabilities (Cronbach's alpha) were acceptable: .73 (interest in German T1) and .72 (interest in mathematics T1).",
+                "cite_spans": [
+                    {
+                        "start": 583,
+                        "end": 594,
+                        "text": "Wei\u00df, 1997)",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 1065,
+                        "end": 1101,
+                        "text": "K\u20ac oller, Schnabel, & Baumert, 2001)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Potential moderating variables",
+                "sec_num": null
+            },
+            {
+                "text": "The main analyses were conducted using Mplus version 7.11 and 6.1 (Muth en & Muth en, 2010, 2013) using the maximum likelihood procedure with non-normality robust standard errors. Standard errors were also adjusted for the nested data of students within classes (Mplus option: Type = complex). Ignoring this nesting might lead to incorrect standard errors and, thus, to biased significance tests (e.g., Hox, 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 403,
+                        "end": 413,
+                        "text": "Hox, 2002)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Missing data is a common problem in longitudinal studies and may produce seriously biased parameter estimates (Graham, 2009) . In our study, on average 25% of the model variables (self-concept variables, test scores, school grades, sex, immigration background, and school type) were missing per variable. Thus, missing values were addressed using multiple imputation (using m = 10 data sets) enlarged by relevant auxiliary variables such as HISEI, general cognitive abilities, global self-esteem, domain-specific interests, and domain-specific perceptions of teachers' frames of reference and diagnostic competency.",
+                "cite_spans": [
+                    {
+                        "start": 110,
+                        "end": 124,
+                        "text": "(Graham, 2009)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Structural equation modelling was used to analyse the three models; thereby, all self-concept constructs were specified as latent variables. To minimize biases in coefficients, correlated uniqueness with the matching latent variables was incorporated over time, as recommended for longitudinal data (Marsh & Hau, 1996) . Thus, residual terms of the same indicators of the latent variables were allowed to correlate over repeated measurement. Furthermore, correlations between exogenous variables at T1 and between disturbances of variables at T2 were completely modelled.",
+                "cite_spans": [
+                    {
+                        "start": 299,
+                        "end": 318,
+                        "text": "(Marsh & Hau, 1996)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analyses",
+                "sec_num": null
+            },
+            {
+                "text": "We tested for the measurement invariance of the self-concept measures over time to ensure that the meaning of the latent factors was the same at T1 (in grade 5) and T2 (in grade 9). In accordance with Little, Preacher, Selig, and Card (2007) , metric and scalar measurement invariance of latent variables are of critical importance in longitudinal designs. Invariance on the higher level is indicated by minimal changes in model fit indices (e.g., the chi-square statistic) when comparing the less restrictive model (e.g., factor loadings estimated freely) with the more restrictive model (e.g., factor loadings constrained to be equal over time), respectively. When using the robust maximum likelihood estimator and multiple imputations, correction factors are not available in Mplus to conduct a chi-square difference test for measurement invariance. Moreover, the use of a chi-square test for measurement invariance is questionable due to its sensitivity to sample size and violation to the normality assumption. As an alternative rule of thumb, changes in CFI < .01 and in RMSEA < .015 have been recommended for assuming invariance between a target model and a baseline model (Chen, 2007; Cheung & Rensvold, 2002) . In the present study, these criteria were clearly met (DCFI = .002 and .003 and DRMSEA = .003 and .001). Specifically, the goodness-of-fit indices for the models with ascending restrictiveness were as follows. The baseline modelassuming configural invariance with items allocated to specific factors but with loadings estimated freelyfit the data well, v 2 (42) = 317.893; CFI = .947; TLI = .916; RMSEA = .079; and SRMR = .039. The next restrictive modelassuming metric measurement invariance with factor loadings constrained to be equal over timefit the data equally well, v 2 (46) = 327.520; CFI = .945; TLI = .923; RMSEA = .076; and SRMR = .041. The more restrictive modelassuming scalar measurement invariance with the addition of item intercepts constrained to be equal over timefit the data equally well, v 2 (50) = 351.696; CFI = .942; TLI = .923; RMSEA = .075; and SRMR = .041. Based on the guidelines for model comparisons presented above, the requirement of metric and scalar invariance over time was supported for the self-concept factors. Factor loadings and item intercepts of the latent self-concept variables were thus held constant over time in all of the structural equation models analysed.",
+                "cite_spans": [
+                    {
+                        "start": 201,
+                        "end": 241,
+                        "text": "Little, Preacher, Selig, and Card (2007)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 1180,
+                        "end": 1192,
+                        "text": "(Chen, 2007;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1193,
+                        "end": 1217,
+                        "text": "Cheung & Rensvold, 2002)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Lastly, the RI/EM was tested for moderation. For this purpose, multigroup analyses were conducted, each with two groups for students' sex (male/female), students' immigration status (no immigration/immigration background), and the school type attended (non-academic/academic track). To test for moderation of coefficients in the models by general cognitive ability and domain-specific interests, multigroup analyses were conducted for groups of the sample that differed in these variables (<M -1 SD; >M + 1 SD), respectively. As correction factors are not available for conducting proper log-likelihood difference tests for nested model comparison when using multiple imputation and robust maximum likelihood estimation, single paths and correlations were tested for significant group differences by equality constraints using the Wald test (Mplus command: Model Test; Muth en & Muth en, 1998-2012). All of the aforementioned specifications for the structural equation models analysed were maintained in the moderation analyses.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Descriptive statistics and correlations between the study variables can be seen in Table 1 . Correlations between mathematics and VACH were higher for test scores (T1: .71; T2: .57) than for teacher-assigned grades (T1: .43; T2: .51), T1: Z = 10.37, p < .001, T2: Z = 2.04, p < .05, supporting Hypothesis 1. Within domains, correlations with self-concepts were higher for grades (math: .55, verbal: .35) than for test scores (math: .25, verbal: .23) at T2: Math: Z = 10.35, p < .001, verbal: Z = 3.60, p < .001; however, correlations with self-concepts were not significantly higher for grades (math: .32, verbal: .22) than for test scores (math: .28, verbal: .30,) at T1: Z = 1.27, p = .206, verbal: Z = \u00c01.82, p = .069), thus, only partly supporting Hypothesis 2. Correlations between self-concepts were low (T1: .26; T2: .10).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 83,
+                        "end": 90,
+                        "text": "Table 1",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "In the following section, we will firstly present the results for the REM, secondly for the I/EM, thirdly for the combined RI/EM; all these analyses were conducted using both school grades and test scores as achievement measures. Figure 2 . Results of the reciprocal effects model with respect to a) mathematics achievement (MACH) and b) verbal achievement (VACH) using grades (before the slashes) and test scores (after the slashes). MSC, mathematics self-concept; VSC, verbal self-concept. Standardized path coefficients; dashed lines represent non-significant paths with respect to both achievement measures. Bold coefficients indicate significant differences in the coefficients between grades and test scores. *p \u2264 .05; **p < .01; ***p \u2264 .001.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 230,
+                        "end": 238,
+                        "text": "Figure 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "The reciprocal effects model Mathematics achievement Using grades as achievement measure, the REM (Figure 2a ) fit the data well, v 2 (17) = 135.99, CFI = .96, TLI = .94, RMSEA = .08, SRMR = .03, AIC = 21,660.25, BIC = 21,793.94, as did the REM using scores from standardized tests as achievement measure, v 2 (17) = 128.44, CFI = .98, TLI = .96, RMSEA = .08, SRMR = .03, AIC = 21,715.79, BIC = 21,849.49, supporting Hypothesis 3a for math. The stabilities of the MSC and particularly of MACH were substantial. The stability of test scores was significantly higher than the stability of grades. Controlling for the prior effects and with respect to both grades and test scores as achievement measures, the path from achievement to self-concept was significant (and stronger for grades than for test scores). Whereas this supports the skill-development hypothesis, there is somewhat weaker support for the self-enhancement hypothesis.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 98,
+                        "end": 108,
+                        "text": "(Figure 2a",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The reciprocal I/E model 601",
+                "sec_num": null
+            },
+            {
+                "text": "Using grades as achievement measure, the REM (Figure 2b ) fit the data well, v 2 (17) = 111.11, CFI = .97, TLI = .95, RMSEA = .07, SRMR = .03, AIC = 20,287.46, BIC = 20,421.16, as did the REM using performance scores as achievement measure, v 2 (17) = 137.17, CFI = .97, TLI = .95, RMSEA = .08, SRMR = .04, AIC = 21,050.24, BIC = 21,183.94, supporting Hypothesis 3a for German. VSC and VACH were very stable. The stability of test scores again was significantly higher than the stability of grades. Controlling for the prior effects and with respect to both grades and test scores as achievement measures, the path from achievement to self-concept was significant (and stronger for grades than for test scores). Again, there is only weak support for the self-enhancement hypothesis: The VSC failed to significantly predict VACH, using either grades or test scores.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 45,
+                        "end": 55,
+                        "text": "(Figure 2b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Verbal achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Across both domains, the stability of achievement is much higher than the stability of the academic self-concept. The effects of achievement on self-concept seem much stronger than the effects of self-concept on achievement. The altogether significant effects of achievement on self-concept seem much stronger when using school grades than performance score, also supporting Hypothesis 2. The longitudinal effects of achievement on academic self-concept are striking considering the large interval between T1 and T2 (about 4 years) and the fact that prior self-concept was controlled for. The internal/external frame of reference model The longitudinal I/EM ( Figure 3 ) using grades as achievement measures fit the data particularly well, v 2 (16) = 76.12, CFI = .98, TLI = .97, RMSEA = .06, SRMR = .02, AIC = 19, 537.57, BIC = 19, 676.22 , as did the I/EM using performance scores as achievement measures, v 2 (16) = 93.65, CFI = .97, TLI = .96, RMSEA = .07, SRMR = .03, AIC = 20,173.87, BIC = 20,312.52, supporting Hypothesis 3b. Whereas disturbances of MSC and VSC at T2 were weakly correlated, MACH and VACH at T1 were strongly correlated (and much more so for test scores than for grades). Moreover, the longitudinal paths from achievement to self-concept within the same domain were strong and positive. Most importantly, the cross paths from achievement in one domain to self-concept in the other domain were negative and statistically significant with a similar effect size for both grades and test scores. In summary, these results provide strong support for the I/EM, which is fairly consistent whether school grades or performance scores are used as achievement measures. ",
+                "cite_spans": [
+                    {
+                        "start": 805,
+                        "end": 814,
+                        "text": "AIC = 19,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 815,
+                        "end": 822,
+                        "text": "537.57,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 823,
+                        "end": 832,
+                        "text": "BIC = 19,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 833,
+                        "end": 839,
+                        "text": "676.22",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 660,
+                        "end": 668,
+                        "text": "Figure 3",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Verbal achievement",
+                "sec_num": null
+            },
+            {
+                "text": "The reciprocal internal/external frame of reference model Goodness-of-fit indices indicated an adequate fit of the RI/EM (Figure 4) to the data when grades were used as achievement measures, v 2 (84) = 554.74, CFI = .93, TLI = .91, RMSEA = .07, SRMR = .04, AIC = 41,269.25, BIC = 41,605.97, as well as when performance scores were used as achievement measures, v 2 (84) = 532.45, CFI = .94, TLI = .92, RMSEA = .07, SRMR = .04, AIC = 41,830.21, BIC = 42,166.93, supporting Hypothesis 3c. With respect to the RI/EM, we were particularly interested in whether the results of the REM would be robust when both the mathematical and verbal domains were considered simultaneously and whether the results of the I/EM could be generalized when prior self-concept was controlled for. Moreover, we inspected the RI/EM with regard to potential differences in the achievement measures used.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 121,
+                        "end": 131,
+                        "text": "(Figure 4)",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The reciprocal I/E model 603",
+                "sec_num": null
+            },
+            {
+                "text": "It was possible to generalize the findings of the REM across domains when both the mathematical domain and verbal domain were considered in the same model. Again, there was strong support for the skill-development hypothesis with achievement predicting self-concept in the same domain. The paths were consistent, even somewhat larger than when both domains were considered separately (cf. Figure 2 ). However, as in the REM with respect to separate domains, the paths from self-concept to within-domain achievement were hardly significant: Only the effect from MSC to subsequent MACH using test scores was marginally significant over the period of 4 years.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 389,
+                        "end": 397,
+                        "text": "Figure 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The reciprocal I/E model 603",
+                "sec_num": null
+            },
+            {
+                "text": "The findings of the RI/EM showed that the I/EM was fairly robust when controlling for prior self-concept. Despite the moderate stabilities of the self-concept over 4 years, the paths from achievement at T1 to cross-domain self-concept at T2 were all negative and of similar effect size for test scores and grades and mostly significant. Only the negative cross-domain path from mathematics test scores to the VSC was non-significant. Other features of the I/EM were also replicated, such as correlations between achievement measures at T1, which were strong, whereas correlations between self-concepts at T2 were much lower. Self-concept had near-zero cross-domain effects on the non-corresponding achievement measures which were all statistically non-significant both for test scores and grades.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal I/E model 603",
+                "sec_num": null
+            },
+            {
+                "text": "Additionally, achievement in one domain was found to have beneficial effects on achievement in the other domain (modelled but not depicted in Figure 4 ). VACH at T1 had a positive effect on MACH at T2 using grades (b = .12, p < .01) and using test scores (b = .18, p < .001). Similarly, MACH at T1 had a positive effect on VACH at T2 using grades (b = .17, p < .001) and using test scores (b = .13, p < .05). Altogether, results do not suggest different effects whether school grades or performance scores are used to test the RI/EM. The results were consistent with respect to both measures of achievement.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 142,
+                        "end": 150,
+                        "text": "Figure 4",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The reciprocal I/E model 603",
+                "sec_num": null
+            },
+            {
+                "text": "Moderation analyses for the reciprocal internal/external frame of reference model The moderation analyses for students' sex revealed that the mathematics grade had a greater influence on the subsequent MSC (Wald chi-square [1] = 4.711, p = .030) among girls (b = .39, p = .001) than boys (b = .22, p < .001). Moreover, correlations of the domain-specific self-concepts at the second measurement point were significant for boys (in the RI/EM with grades: r = .35, p < .001, with test scores as achievement measures: r = .31, p < .001), but not for girls (in the RI/EM with grades: r = .06, p = .337, with test scores as achievement measures: r = .06, p = .371). There was only one significant difference in the RI/EM with respect to students' immigration background (Wald chi-square [1] = 4.272, p = .039): When using test scores as achievement measures, MACH and self-concept at the second measurement point were correlated among students with an immigration background (r = .26, p = .001), but not among students without an immigration background (r = .09, p = .205). More interestingly, several paths of the RI/EM with grades as achievement measures differed significantly between the attended school types. Both, mathematics grades (Wald chi-square [1] = 5.327, p = .021) and German grades (Wald chi-square [1] = 5.150, p = .023) were less stable in vocational track schools (math grade: b = .37, p < .001, German grade: b = .43, p < .001) compared with academic track schools (math grade: b = .53, p < .001, German grade: b = .51, p < .001). Moreover, the subject grades had smaller influences on the respective subsequent domain-specific self-concepts (in mathematics: Wald chi-square [1] = 8.607, p = .003, in verbal domain: Wald chi-square [1] = 4.084, p = .043) in vocational track schools (mathematics: b = .23, p < .001, verbal domain: b = .20, p < .001) than in academic track schools (mathematics: b = .46, p < .001, verbal domain: b = .34, p < .001). When using grades or test scores as achievement measures, there were no differences in the paths or correlations of the RI/EM with regard to students' general cognitive ability or their domain-specific interests in mathematics and German. There was thus no evidence for a moderation of the RI/EM by students' general cognitive ability and their domain-specific interests in German and mathematics, and merely negligible evidence for moderation by students' immigration background and sex. Nevertheless, some of the paths in the RI/EM with grades as achievement measures were moderated by the school type attended.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The reciprocal I/E model 603",
+                "sec_num": null
+            },
+            {
+                "text": "The present study was conducted to investigate whether three of the central models describing the relationship between academic self-concept and achievement are valid when objective test scores as well as teacher-assigned grades were used as achievement indicators. The investigation dealt with the RI/EM as an integration of the REM and the I/EM.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Consistent with the skill-development hypothesis of the REM, prior achievement had significant effects on subsequent academic self-concept in both the verbal and the mathematics domain over 4 years. Support for the self-enhancement hypothesis was weak: prior academic self-concept only had small and mostly non-significant effects on subsequent achievement within the verbal or the mathematics domain, which were even smaller than the average effect of .11 which Valentine et al. (2004) revealed in their meta-analyses. The lack of a stronger effect of academic self-concept on subsequent achievement may be due to the long time period of 4 years between T1 and T2. Following Valentine et al. (2004) , it is conceivable that long delays cause effect sizes to become smaller because such long time lapses allow other influences to impinge on the relationship between self-concept and later achievement indicators. In their metaanalysis, there is only one study with a time delay of 48 monthssimilar to our studywith a small effect size of .13.",
+                "cite_spans": [
+                    {
+                        "start": 463,
+                        "end": 486,
+                        "text": "Valentine et al. (2004)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 676,
+                        "end": 699,
+                        "text": "Valentine et al. (2004)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The basic assumptions of the REM and the I/EM seem to be supported even when the RI/EM overcomes the specific limitations of these models. Paths for the REM within domains remain stable when another domain is integrated into the model, and the I/EM works longitudinally. Only few previous I/EM studies have implemented a longitudinal design. Their findings are consistent with the results of the present investigation in supporting the assumptions of the RI/EM (M\u20ac oller et al., 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 461,
+                        "end": 484,
+                        "text": "(M\u20ac oller et al., 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Within all three models, paths from achievements to corresponding self-concepts were positive and significant for both achievement measures although they mostly were stronger for grades than for test scores. This result corresponds to the assumption that grades are more tangible and important for students' self-beliefs and therefore impact self-concepts more strongly than objective test scores.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Dimensional comparisons seem to negatively affect mathematics and verbal academic self-concept across domains, independent of the type of achievement measure. One finding of central importance to the RI/EM is that the paths leading from VACH to MSC and from MACH to VSC were negative even when controlling for prior academic self-concept and achievement scores. Our analyses clearly support the main predictions of the RI/EM for both achievement indicators.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In the present investigation, we used teacher-assigned grades and standardized test results as achievement indicators. This differentiation is of relevance in studies on the relationship between self-concept and achievement as grades should have a stronger relationship to the corresponding academic self-concept than test scores, whereas mathematics and verbal test scores seem to have a higher correlation with each other than teacher-assigned grades in mathematics and verbal domains. As the present study and the meta-analysis of M\u20ac oller et al. 2009have shown, there are two main differences between the two ways of measuring achievement: the different correlations between mathematics and VACH and the different effects of prior achievements on subsequent corresponding self-concepts. Both correlations between mathematics and VACH are positive and significant, but the correlation was much higher for test scores than for teacher-assigned grades. This result corresponds with the results of former studies, inside and outside of self-concept research (Marsh & Hau, 2004) . Both effects from prior achievements to subsequent corresponding self-concepts are also positive but stronger for grades than for test scores. This result supports the assumption that students know their relative standing within their class and carry out social comparisons of their own grade with the grades of their classmates. Students make their grade instead of their test score the basis of their self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 1058,
+                        "end": 1077,
+                        "text": "(Marsh & Hau, 2004)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "It seems that teacher-assigned grades are much more domain-specific than objective achievement tests. In their meta-analyses on teacher judgment accuracy, S\u20ac udkamp, Kaiser, and M\u20ac oller (2012) argue that the high correlations between math and verbal test scores may strongly depend on student characteristics such as intelligence and achievement motivation, which are more or less domain-unspecific and therefore affect math as well as VACHs correspondingly. Teacher-assigned grades may also depend on domain-specific student characteristics such as interest and teacher characteristics such as professional expertise and teachers' individual judgment accuracy and may therefore differ more strongly between subjects or between teachers than objective test scores.",
+                "cite_spans": [
+                    {
+                        "start": 166,
+                        "end": 193,
+                        "text": "Kaiser, and M\u20ac oller (2012)",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The results of our structural equation analyses indicate that most of the relationships described in the REM, the I/EM, and the RI/EM are not restricted to a particular achievement measure, school track, student's sex, or whether students have an immigration background or not. The average correlation between mathematics and VACH was strongly positive and much higher than the correlation between mathematics and VSC.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In contrast to the results of K\u20ac oller (2004) and M\u20ac oller et al. (2011) , in our study, prior academic self-concept in one domain did not have significant negative cross-domain effects on achievement in the contrasting domain. In the Marsh and K\u20ac oller (2004) study, these negative effects were small but significant; in the M\u20ac oller et al. (2011) study, some of the negative effects were statistically significant. In the present study, the effects failed to reach significance and were near zero, for both teacher-assigned grades and standardized test scores. As the effects of self-concepts on corresponding achievements were also small, it is no surprise that the non-corresponding effects were near zero. This might be due to the long time lag in this study.",
+                "cite_spans": [
+                    {
+                        "start": 30,
+                        "end": 49,
+                        "text": "K\u20ac oller (2004) and",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 50,
+                        "end": 72,
+                        "text": "M\u20ac oller et al. (2011)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 235,
+                        "end": 260,
+                        "text": "Marsh and K\u20ac oller (2004)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations, and educational implications",
+                "sec_num": null
+            },
+            {
+                "text": "Altogether, academic self-concept obviously does not affect subsequent achievement in the non-corresponding domain very strongly. The reverse effect of achievement in one domain on self-concept in the contrasting domain is much stronger. We thus found evidence for dimensional comparisons between achievements, but not between self-concepts. Further research is needed to test the hypotheses whether these effects are near zero or negative and examine whether the original formulation in M\u20ac oller et al. (2011) that included negative effects should be replaced by a moderate formulation which suggests near-zero effects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations, and educational implications",
+                "sec_num": null
+            },
+            {
+                "text": "The dominance of the effects of achievement on academic self-concept over the effects of academic self-concept on achievement is important for teachers. They must be aware that enhancing students' achievement in a domain affects their self-concept in the same domain positively. This is particularly true for teacher-assigned grades in the REM. The effects on corresponding self-concepts were stronger than the effects of test scores. Teachers should be aware of their grading practices and the consequences on students' self-concepts and motivation. 'Grading on the curve' leads to better grades and higher students' self-concepts for those students who are members of a low-achieving class or school (big fishes in a little pond), but leads to relatively low grades in classes and schools with a high academic level (Trautwein et al., 2006) . It could be helpful for teachers to include data from standardized testing into their grading practice.",
+                "cite_spans": [
+                    {
+                        "start": 818,
+                        "end": 842,
+                        "text": "(Trautwein et al., 2006)",
+                        "ref_id": "BIBREF53"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations, and educational implications",
+                "sec_num": null
+            },
+            {
+                "text": "Teachers should also be aware that achievement in a domain has negative consequences for non-corresponding academic self-concept. This effect was similar for grades and for test scores as the meta-analytical data and the present data showed. Dimensional comparisons as comparisons between achievements in math and verbal affairs seem to be rather independent from the kind of achievement indicators and work for both grades and test scores.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations, and educational implications",
+                "sec_num": null
+            },
+            {
+                "text": "One central question of the present study was whether self-concepts would have negative effects on subsequent achievements. The result is that teachers need not fear that enhancing students' self-concept in one domain negatively affects achievement in the non-corresponding domain. The effects of enhancing academic self-concept on subsequent achievement are small and positive, and seem to remain within the domain. Both effects are rather independent from the kind of achievement measure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations, and educational implications",
+                "sec_num": null
+            },
+            {
+                "text": "As our data revealed stronger support for the skill-development hypotheses than for the self-enhancement hypotheses, teachers should be aware that improving students' achievement is good in itself but also an adequate step to enhance students' self-concepts. Adequate instruction and functional classroom management strategies, as well as teacher enthusiasm, were shown to be central for facilitating students' achievement (Klusmann, Kunter, Trautwein, L\u20ac udtke, & Baumert, 2008; Kunter et al., 2013) . Simply enhancing students' self-concept in a domain on the other hand might not be enough to enhance students' achievement. Self-concept enhancement strategies should be accompanied by instructional features in the classroom which facilitate students' achievement. However, it is reasonable to point out that self-concept is a desirable end in itself, and thus, some attention to self-enhancement is justified as well.",
+                "cite_spans": [
+                    {
+                        "start": 423,
+                        "end": 479,
+                        "text": "(Klusmann, Kunter, Trautwein, L\u20ac udtke, & Baumert, 2008;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 480,
+                        "end": 500,
+                        "text": "Kunter et al., 2013)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations, and educational implications",
+                "sec_num": null
+            },
+            {
+                "text": "Overall, the results seem to be quite generalizable as we found only a few and small moderating effects. Relations between achievements and self-concepts were similarly valid for boys and girls, for students with high and students with low cognitive ability and interests, for migrants and non-migrants. School type attended as a moderator revealed interesting results as grades in the vocational track were less stable in both subjects. It might be interpreted as a consequence of these less reliable grades that grades in the vocational track had less influence on corresponding domain-specific self-concepts compared with the academic track. However, it is beyond the scope of the present study to detect why the grades in vocational tracks are less stable.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations, and educational implications",
+                "sec_num": null
+            },
+            {
+                "text": "Another potential limitation is the fact that the study focused on the relationships between achievement and self-concept in German and mathematics. The findings may not be generalizable regarding other countries and in particular other school subjects (but see Niepel et al., 2014) . In addition, our study dealt with mostly data from students on non-academic tracks. Therefore, although the conclusions should be primarily drawn for this group, there is some evidence that grades in both subjects more strongly affect self-concepts on the academic track than on the vocational track. As there is no such difference regarding the impact of test scores, it may be that grades are more important to students for self-evaluations who have higher educational aspirations.",
+                "cite_spans": [
+                    {
+                        "start": 262,
+                        "end": 282,
+                        "text": "Niepel et al., 2014)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations, and educational implications",
+                "sec_num": null
+            },
+            {
+                "text": "Theoretically, RI/EM integrates the two main models of relations between ASC and achievement. Such combining strategies may help clarify the relationship between achievement and academic self-concept. In our view, the most important result is that it matters how scholastic achievement is measured: Relations between verbal and math achievements, on the one hand, and within-domain relations between achievements and self-concepts, on the other hand, are quite different for test scores compared with teacher-assigned grades: test scores are more highly correlated than grades, whereas grades have higher within-domain correlations with self-concepts than test scores although based on a design flaw grades were collected 1 year after the self-concepts and achievement test scores. As grades are relatively stable over one school year, relations between grades and self-concepts may be underestimated to a certain degree in our study. This should be taken into account in the interpretation of our results.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations, and educational implications",
+                "sec_num": null
+            },
+            {
+                "text": "Researchers should be aware of differences between both achievement indicators: whenever possible, both indicators should be taken into account. If only one of them is available, its particular strengths and limitations should be taken into account. Compared with test scores, teacher-assigned grades are stronger predictors of students' motivational variables, but lack in their objectivity. On the other hand, test scores are more highly correlated with other objective data sources such as intelligence scores and are less biased by lack of teachers' accuracy in judgment (Kaiser, Retelsdorf, S\u20ac udkamp, & M\u20ac oller, 2013; S\u20ac udkamp et al., 2012) . In spite of these differences, we were able to demonstrate the validity of the REM, the I/EM, and the RI/EM.",
+                "cite_spans": [
+                    {
+                        "start": 575,
+                        "end": 624,
+                        "text": "(Kaiser, Retelsdorf, S\u20ac udkamp, & M\u20ac oller, 2013;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 625,
+                        "end": 648,
+                        "text": "S\u20ac udkamp et al., 2012)",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Strengths, limitations, and educational implications",
+                "sec_num": null
+            },
+            {
+                "text": "The reciprocal I/E model 595",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The reciprocal I/E model 597",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "VGRA, grade in the verbal domain; MGRA, mathematics grade; VTEST, verbal test performance",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "VGRA, grade in the verbal domain; MGRA, mathematics grade; VTEST, verbal test performance;",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Test scores standardized with respect to T1: differences interpretable as change over time. Correlations with self-concept variables as latent factors",
+                "authors": [],
+                "year": null,
+                "venue": "MTEST, mathematics test performance",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "MTEST, mathematics test performance. Grades on a 6-point scale from outstanding (6) to fail (1). Test scores standardized with respect to T1: differences interpretable as change over time. Correlations with self-concept variables as latent factors.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Self-concept of ability and perceived evaluations by others: Cause or effect of academic achievement?",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Calsyn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kenny",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1977,
+                "venue": "Journal of Educational Psychology",
+                "volume": "69",
+                "issue": "",
+                "pages": "136--145",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.69.2.136"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Calsyn, R., & Kenny, D. (1977). Self-concept of ability and perceived evaluations by others: Cause or effect of academic achievement? Journal of Educational Psychology, 69, 136-145. doi:10.1037/0022-0663.69.2.136",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Sensitivity of goodness of fit indexes to lack of measurement invariance",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Chen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Structural Equation Modeling",
+                "volume": "14",
+                "issue": "",
+                "pages": "464--504",
+                "other_ids": {
+                    "DOI": [
+                        "10.1080/10705510701301834"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Chen, F. F. (2007). Sensitivity of goodness of fit indexes to lack of measurement invariance. Structural Equation Modeling, 14, 464-504. doi:10.1080/10705510701301834",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Cognitive ability, academic achievement and academic self-concept: Extending the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "S.-K",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F.-M",
+                        "middle": [],
+                        "last": "Hwang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y.-C",
+                        "middle": [],
+                        "last": "Yeh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "S J"
+                        ],
+                        "last": "Lin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "308--326",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.2044-8279.2011.02027.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Chen, S.-K., Hwang, F.-M., Yeh, Y.-C., & Lin, S. S. J. (2011). Cognitive ability, academic achievement and academic self-concept: Extending the internal/external frame of reference model. British Journal of Educational Psychology, 82, 308-326. doi:10.1111/j.2044-8279.2011.02027.x",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Evaluating goodness-of-fit indexes for testing measurement invariance",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Cheung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Rensvold",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Structural Equation Modeling",
+                "volume": "9",
+                "issue": "",
+                "pages": "233--255",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/S15328007SEM0902_5"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Cheung, G. W., & Rensvold, R. B. (2002). Evaluating goodness-of-fit indexes for testing measurement invariance. Structural Equation Modeling, 9, 233-255. doi:10.1207/S15328007SEM0902_5",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Courses for gifted young writers",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Gifted Education International",
+                "volume": "2",
+                "issue": "1",
+                "pages": "49--51",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/026142948300200113"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. D. (1983). Courses for gifted young writers. Gifted Education International, 2(1), 49-51. doi:10.1177/026142948300200113",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Internationally comparable measures of occu-pational status for the 1988 international standard classification of occupations",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "B G"
+                        ],
+                        "last": "Ganzeboom",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Treiman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Social Science Research",
+                "volume": "25",
+                "issue": "",
+                "pages": "201--239",
+                "other_ids": {
+                    "DOI": [
+                        "10.1006/ssre.1996.0010"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Ganzeboom, H. B. G., & Treiman, D. J. (1996). Internationally comparable measures of occu-pational status for the 1988 international standard classification of occupations. Social Science Research, 25, 201-239. doi:10.1006/ssre.1996.0010",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Missing data analysis: Making it work in the real world",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Graham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Annual Review of Psychology",
+                "volume": "60",
+                "issue": "",
+                "pages": "549--576",
+                "other_ids": {
+                    "DOI": [
+                        "10.1146/annurev.psych.58.110405.085530"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Graham, J. W. (2009). Missing data analysis: Making it work in the real world. Annual Review of Psychology, 60, 549-576. doi:10.1146/annurev.psych.58.110405.085530",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "The relationship between self and achievement/performance measures",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Hansford",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hattie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Review of Educational Research",
+                "volume": "52",
+                "issue": "",
+                "pages": "123--142",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/00346543052001123"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Hansford, B. C., & Hattie, J. A. (1982). The relationship between self and achievement/performance measures. Review of Educational Research, 52, 123-142. doi:10.3102/00346543052001123",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Multilevel analysis: Techniques and applications",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hox",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hox, J. J. (2002). Multilevel analysis: Techniques and applications. Mahwah, NJ: Lawrence Erlbaum Associates.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Selbstbezogene Kognitionen in schulischen Bezugsgruppen. Eine L \u20ac angsschnittstudie [Self-related cognitions in school reference groups: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jerusalem",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jerusalem, M. (1984). Selbstbezogene Kognitionen in schulischen Bezugsgruppen. Eine L \u20ac angsschnittstudie [Self-related cognitions in school reference groups: A longitudinal study]. Berlin: Free University Press.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Selbstkonzept und Ursachenerkl \u20ac arung in der Schule",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Jopt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1978,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jopt, U. J. (1978). Selbstkonzept und Ursachenerkl \u20ac arung in der Schule [Self-concept and attribution at school]. Bochum: Kamp.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Achievement and engagement: How student characteristics influence teacher judgments. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kaiser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "S\u20ac Udkamp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "28",
+                "issue": "",
+                "pages": "73--84",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.learninstruc.2013.06.001"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaiser, J., Retelsdorf, J., S\u20ac udkamp, A., & M\u20ac oller, J. (2013). Achievement and engagement: How student characteristics influence teacher judgments. Learning and Instruction, 28, 73-84. doi:10.1016/j.learninstruc.2013.06.001",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Eine l\u20ac angsschnittliche \u20ac Uberpr\u20ac ufung des Modells des Internal/External Frame of Reference",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Klusmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kunter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u20ac Udtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Klemmert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Applied Psychology: An International Review",
+                "volume": "57",
+                "issue": "",
+                "pages": "127--151",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1464-0597.2008.00358"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Klusmann, U., Kunter, M., Trautwein, U., L\u20ac udtke, O., & Baumert, J. (2008). Engagement and emotional exhaustion in teachers: Does the school context make a difference? Applied Psychology: An International Review, 57, 127-151. doi:10.1111/j.1464-0597.2008.00358.x K\u20ac oller, O., Klemmert, H., M\u20ac oller, J., & Baumert, J. (1999). Eine l\u20ac angsschnittliche \u20ac Uberpr\u20ac ufung des Modells des Internal/External Frame of Reference [Achievement feedback and academic self-concepts: A longitudinal test of the internal/external frame of reference model].",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Does interest matter? The relationship between academic interest and achievement in mathematics",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Schnabel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal for Research in Mathematics Education",
+                "volume": "32",
+                "issue": "",
+                "pages": "448--470",
+                "other_ids": {
+                    "DOI": [
+                        "10.2307/749801"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "K\u20ac oller, O., Schnabel, K., & Baumert, J. (2001). Does interest matter? The relationship between academic interest and achievement in mathematics. Journal for Research in Mathematics Education, 32, 448-470. doi:10.2307/749801",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Professional competence of teachers: Effects on instructional quality and student development",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kunter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Klusmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Richter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Voss",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hachfeld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Journal of Educational Psychology",
+                "volume": "105",
+                "issue": "",
+                "pages": "805--820",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0032583"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Kunter, M., Klusmann, U., Baumert, J., Richter, D., Voss, T., & Hachfeld, A. (2013). Professional competence of teachers: Effects on instructional quality and student development. Journal of Educational Psychology, 105, 805-820. doi:10.1037/a0032583",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "New developments in latent variable panel analyses of longitudinal data",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Little",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Preacher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Selig",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Card",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "International Journal of Behavioral Development",
+                "volume": "31",
+                "issue": "",
+                "pages": "357--365",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0165025407077757"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Little, T. D., Preacher, K. J., Selig, J. P., & Card, N. A. (2007). New developments in latent variable panel analyses of longitudinal data. International Journal of Behavioral Development, 31, 357-365. doi:10.1177/0165025407077757",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Verbal and math self-concepts: An internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/00028312023001129"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concepts: An internal/external frame of reference model. American Educational Research Journal, 23, 129-149. doi:10.3102/00028312023001129",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "A multidimensional, hierarchical model of self-concept: Theoretical and empirical justification",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Educational Psychology Review",
+                "volume": "2",
+                "issue": "",
+                "pages": "77--172",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/BF01322177"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990). A multidimensional, hierarchical model of self-concept: Theoretical and empirical justification. Educational Psychology Review, 2, 77-172. doi:10.1007/BF01322177",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Explaining paradoxical relations between academic self-concepts and achievements: Cross-cultural generalizability of the Internal/External frame of reference predictions across 26 countries",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Perspectives on Psychological Science",
+                "volume": "1",
+                "issue": "",
+                "pages": "56--67",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1745-6916.2006.00010"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Craven, R. G. (2006). Reciprocal effects of self-concept and performance from a multidimensional perspective: Beyond seductive pleasure and unidimensional perspectives. Perspectives on Psychological Science, 1, 133-163. doi:10.1111/j.1745-6916.2006.00010.x Marsh, H. W., & Hau, K.-T. (2004). Explaining paradoxical relations between academic self-concepts and achievements: Cross-cultural generalizability of the Internal/External frame of reference predictions across 26 countries. Journal of Educational Psychology, 96, 56-67. doi:10.1037/ 0022-0663.96.1.56",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "The reciprocal I/E model 609",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "The reciprocal I/E model 609",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Unification of theoretical models of academic self-concept/ achievement relations: Reunification of East and West German schools after the fall of the Berlin Wall",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "29",
+                "issue": "",
+                "pages": "264--282",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/S0361-476X(03)00034-1"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & K\u20ac oller, O. (2004). Unification of theoretical models of academic self-concept/ achievement relations: Reunification of East and West German schools after the fall of the Berlin Wall. Contemporary Educational Psychology, 29, 264-282. doi:10.1016/S0361-476X(03)00034-1",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Academic self-concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Child Development",
+                "volume": "76",
+                "issue": "2",
+                "pages": "397--416",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1467-8624.2005.00853.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., K\u00f6ller, O., Trautwein, U., L\u00fcdtke, O., & Baumert, J. (2005). Academic self-concept, interest, grades, and standardized test scores: Reciprocal effects models of causal ordering. Child Development, 76(2), 397-416. doi:10.1111/j.1467-8624.2005.00853.x.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Coursework selection: Relations to academic self-concept and achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "American Educational Research Journal",
+                "volume": "34",
+                "issue": "",
+                "pages": "691--720",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Yeung, A. S. (1997). Coursework selection: Relations to academic self-concept and achievement. American Educational Research Journal, 34, 691-720. doi:10.3102/ 00028312034004691",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Longitudinal structural equation models of academic self-concept and achievement: Gender differences in the development of math and English constructs",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "American Educational Research Journal",
+                "volume": "35",
+                "issue": "",
+                "pages": "705--738",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Yeung, A. S. (1998). Longitudinal structural equation models of academic self-concept and achievement: Gender differences in the development of math and English constructs. American Educational Research Journal, 35, 705-738. doi:10.3102/ 00028312035004705",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Paradoxical effects of praise and criticism: Social, dimensional and temporal comparisons",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "75",
+                "issue": "",
+                "pages": "275--295",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J. (2005). Paradoxical effects of praise and criticism: Social, dimensional and temporal comparisons. British Journal of Educational Psychology, 75, 275-295. doi:10.1348/ 000709904X24744",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Internal comparisons in everyday life",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Husemann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Educational Psychology",
+                "volume": "98",
+                "issue": "",
+                "pages": "342--353",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.98.2.342"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., & Husemann, N. (2006). Internal comparisons in everyday life. Journal of Educational Psychology, 98, 342-353. doi:10.1037/0022-0663.98.2.342",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Dimensional comparisons: An experimental approach to the Internal/External frame of reference model",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Journal of Educational Psychology",
+                "volume": "93",
+                "issue": "",
+                "pages": "826--835",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.93.4.826"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., & K\u20ac oller, O. (2001a). Dimensional comparisons: An experimental approach to the Internal/External frame of reference model. Journal of Educational Psychology, 93, 826-835. doi:10.1037/0022-0663.93.4.826",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Frame of reference effects following the announcement of exam results",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "26",
+                "issue": "",
+                "pages": "277--287",
+                "other_ids": {
+                    "DOI": [
+                        "10.1006/ceps.2000.1055"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., & K\u20ac oller, O. (2001b). Frame of reference effects following the announcement of exam results. Contemporary Educational Psychology, 26, 277-287. doi:10.1006/ceps.2000.1055",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Dimensional comparison theory",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Psychological Review",
+                "volume": "120",
+                "issue": "",
+                "pages": "544--560",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0032459"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., & Marsh, H. W. (2013). Dimensional comparison theory. Psychological Review, 120, 544-560. doi:10.1037/a0032459",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Achievement differences and self-concept differences: Stronger associations for above or below average students?",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "80",
+                "issue": "",
+                "pages": "435--450",
+                "other_ids": {
+                    "DOI": [
+                        "10.1348/000709909X485234"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., & Pohlmann, B. (2010). Achievement differences and self-concept differences: Stronger associations for above or below average students? British Journal of Educational Psychology, 80, 435-450. doi:10.1348/000709909X485234",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "A meta-analytic path analysis of the Internal/External frame of reference model of academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Review of Educational Research",
+                "volume": "79",
+                "issue": "",
+                "pages": "1129--1167",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., Pohlmann, B., K\u20ac oller, O., & Marsh, H. W. (2009). A meta-analytic path analysis of the Internal/External frame of reference model of academic achievement and academic self-concept. Review of Educational Research, 79, 1129-1167. doi:10.3102/ 0034654309337522",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "The reciprocal I/E model: An integration of models of relations between academic achievement and self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "American Educational Research Journal",
+                "volume": "48",
+                "issue": "",
+                "pages": "1315--1346",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0002831211419649"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., Retelsdorf, J., K\u20ac oller, O., & Marsh, H. W. (2011). The reciprocal I/E model: An integration of models of relations between academic achievement and self-concept. American Educational Research Journal, 48, 1315-1346. doi:10.3102/0002831211419649",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Mplus user's guide",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Muth En",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Muth En",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth en, L. K., & Muth en, B. O. (1998-2012). Mplus user's guide (7th ed.). Los Angeles, CA: Muth en & Muth en.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Muth en & Muth en",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Los Angeles, CA: Muth en & Muth en.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Muth en & Muth en",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Los Angeles, CA: Muth en & Muth en.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "The longitudinal interplay of students' academic self-concepts and achievements within and across domains: Replicating and extending the reciprocal internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Niepel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Brunner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Preckel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Journal of Educational Psychology",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0036307"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Niepel, C., Brunner, M., & Preckel, F. (2014). The longitudinal interplay of students' academic self-concepts and achievements within and across domains: Replicating and extending the reciprocal internal/external frame of reference model. Journal of Educational Psychology, doi:10.1037/a0036307",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Vergleichseffekte auf kognitive, affektive und motivationale Variablen: Eine experimentelle \u20ac Uberpr\u20ac ufung (Comparison effects on cognitive, affective, and motivational variables: An experimental approach). Zeitschrift f \u20ac ur Entwicklungspsychologie und P\u20ac adagogische Psychologie",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "38",
+                "issue": "",
+                "pages": "79--87",
+                "other_ids": {
+                    "DOI": [
+                        "10.1026/0049-8637.38.2.79"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Pohlmann, B., & M\u20ac oller, J. (2006). Vergleichseffekte auf kognitive, affektive und motivationale Variablen: Eine experimentelle \u20ac Uberpr\u20ac ufung (Comparison effects on cognitive, affective, and motivational variables: An experimental approach). Zeitschrift f \u20ac ur Entwicklungspsychologie und P\u20ac adagogische Psychologie, 38, 79-87. doi:10.1026/0049-8637.38.2.79",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "On the benefits of dimensional comparisons",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Educational Psychology",
+                "volume": "101",
+                "issue": "",
+                "pages": "248--258",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0013151"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Pohlmann, B., & M\u20ac oller, J. (2009). On the benefits of dimensional comparisons. Journal of Educational Psychology, 101, 248-258. doi:10.1037/a0013151",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Reading achievement and reading self-concept -testing the reciprocal effects model. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "",
+                "volume": "29",
+                "issue": "",
+                "pages": "21--30",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.learninstruc.2013.07.004"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Retelsdorf, J., K\u20ac oller, O., & M\u20ac oller, J. (2014). Reading achievement and reading self-concept -testing the reciprocal effects model. Learning and Instruction, 29, 21-30. doi:10.1016/j.learninstruc. 2013.07.004",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Math, verbal, and general academic self-concept: The internal/external frame of reference model and gender differences in self-concept structure",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "546--554",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.82.3.546"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1990). Math, verbal, and general academic self-concept: The internal/external frame of reference model and gender differences in self-concept structure. Journal of Educational Psychology, 82, 546-554. doi:10.1037/0022-0663.82.3.546",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Math and verbal achievement and self-concepts: Testing the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of Early Adolescence",
+                "volume": "12",
+                "issue": "",
+                "pages": "267--279",
+                "other_ids": {
+                    "DOI": [
+                        "10.1177/0272431692012003003"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1992). Math and verbal achievement and self-concepts: Testing the internal/external frame of reference model. Journal of Early Adolescence, 12, 267-279. doi:10.1177/0272431692012003003",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Internal and external frames of reference for academic self-concept",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Educational Psychologist",
+                "volume": "37",
+                "issue": "",
+                "pages": "233--244",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/S15326985EP3704_3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E., & Skaalvik, S. (2002). Internal and external frames of reference for academic self-concept. Educational Psychologist, 37, 233-244. doi:10.1207/S15326985EP3704_3",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Accuracy of teachers' judgments of students' academic achievement: A meta-analysis",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "S\u20ac Udkamp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kaiser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Educational Psychology",
+                "volume": "104",
+                "issue": "",
+                "pages": "743--762",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "S\u20ac udkamp, A., Kaiser, J., & M\u20ac oller, J. (2012). Accuracy of teachers' judgments of students' academic achievement: A meta-analysis. Journal of Educational Psychology, 104, 743-762. doi:10.1037/ a0027627",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Tracking, grading and student motivation: Using group composition and status to predict self-concept and interest in ninth grade mathematics",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Educational Psychology",
+                "volume": "98",
+                "issue": "",
+                "pages": "788--806",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Trautwein, U., L\u00fcdtke, O., Marsh, H. W., K\u00f6ller, O., & Baumert, J. (2006). Tracking, grading and student motivation: Using group composition and status to predict self-concept and interest in ninth grade mathematics. Journal of Educational Psychology, 98, 788-806. doi:10.1037/ 0022-0663.98.4.788",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "The relation between self-beliefs and academic achievement: A meta-analytic review",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Valentine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dubois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Cooper",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Educational Psychologist",
+                "volume": "39",
+                "issue": "",
+                "pages": "111--133",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/s15326985ep3902_3"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Valentine, J. C., DuBois, D. L., & Cooper, H. (2004). The relation between self-beliefs and academic achievement: A meta-analytic review. Educational Psychologist, 39, 111-133. doi:10.1207/s15326985ep3902_3",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "CFT 20. G\u20ac ottingen: Hogrefe",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Wei\u00df",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wei\u00df, H. (1997). CFT 20. G\u20ac ottingen: Hogrefe.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "ConQuest: Generalized item response modeling software",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Wu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Adams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Wilson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wu, M. L., Adams, R. J., & Wilson, M. (1998). ConQuest: Generalized item response modeling software [Computer software]. Melbourne: Australian Council for Educational Research.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "The self-concept: Theory and research on selected topics",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Wylie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "",
+                "volume": "2",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wylie, R. C. (1979). The self-concept: Theory and research on selected topics, Vol. 2. Lincoln: University of Nebraska Press.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Predictions of a) the reciprocal effects model, b) the I/E model, and c) the reciprocal I/E model. ASC, academic self-concept; ACH, achievement; MSC, mathematics self-concept; MACH, mathematics achievement; VSC, verbal self-concept; VACH, verbal achievement.",
+                "uris": null
+            },
+            "FIGREF2": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Results of the I/E model using grades (before the slashes) and test scores (after the slashes) as measures of mathematics achievement (MACH) and verbal achievement (VACH). MSC, mathematics self-concept; VSC, verbal self-concept. Standardized path coefficients. Bold coefficients indicate significant differences in the coefficients between grades and test scores. *p < .05; **p \u2264 .01; ***p \u2264 .001.",
+                "uris": null
+            },
+            "FIGREF3": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Results of the RI/E model using grades (before the slashes) and test scores (after the slashes) as measures of mathematics achievement (MACH) and verbal achievement (VACH). MSC, mathematics self-concept; VSC, verbal self-concept. Standardized path coefficients; dashed lines represent nonsignificant paths with respect to both achievement measures. Bold coefficients indicate significant differences in the coefficients between grades and test scores. *p < .05; **p < .01; ***p \u2264 .001; + p \u2264 .068; ++ p = .107.",
+                "uris": null
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "). WLE reliabilities were sufficient for both VACH (.82 [T1] and .77 [T2]) and MACH (.89 [T1] and .85 [T2]).",
+                "type_str": "table",
+                "content": "<table/>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Means, standard deviations, and correlations between the study variables",
+                "type_str": "table",
+                "content": "<table><tr><td>MTEST</td><td>T1</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>VTEST</td><td>T2</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>VTEST</td><td>T1</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>MGRA</td><td>T2</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>MGRA</td><td>T1</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>VGRA</td><td>T2</td><td/><td/><td/><td/><td/><td/><td>.44***</td></tr><tr><td>VGRA</td><td>T1</td><td/><td/><td/><td/><td/><td>.58***</td><td>.43***</td></tr><tr><td>MSC</td><td>T2</td><td/><td/><td/><td/><td>.08</td><td>.19***</td><td>.33***</td></tr><tr><td>MSC</td><td>T1</td><td/><td/><td/><td>.23***</td><td>.21***</td><td>.21***</td><td>.32***</td><td>.22***</td></tr><tr><td>VSC</td><td>T2</td><td/><td/><td>.08</td><td>.10*</td><td>.34***</td><td>.35***</td><td>.09*</td><td>.10</td></tr><tr><td>VSC</td><td>T1</td><td/><td>.39***</td><td>.26***</td><td>\u00c0.05</td><td>.22***</td><td>.15**</td><td>.11*</td><td>\u00c0.01</td></tr><tr><td/><td>S D</td><td>0.93</td><td>0.84</td><td>0.95</td><td>0.98</td><td>0.84</td><td>0.86</td><td>0.96</td><td>1.05</td></tr><tr><td/><td>M</td><td>2.81</td><td>2.89</td><td>2.87</td><td>2.69</td><td>3.87</td><td>3.76</td><td>3.82</td><td>3.64</td></tr><tr><td/><td/><td>VSC T1</td><td>VSC T2</td><td>MSC T1</td><td>MSC T2</td><td>VGRA T1</td><td>VGRA T2</td><td>MGRA T1</td><td>MGRA T2</td></tr></table>"
+            }
+        }
+    }
+}

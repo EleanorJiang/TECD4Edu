@@ -1,0 +1,2464 @@
+{
+    "paper_id": "schurtz_2014",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:57:39.815625Z"
+    },
+    "title": "Impact of social and dimensional comparisons on student's mathematical and English subject-interest at the beginning of secondary school",
+    "authors": [
+        {
+            "first": "Irene",
+            "middle": [
+                "M"
+            ],
+            "last": "Schurtz",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Bamberg",
+                "location": {
+                    "addrLine": "Markusplatz 3",
+                    "postCode": "96045",
+                    "country": "Germany"
+                }
+            },
+            "email": "irene.schurtz@uni-bamberg.de"
+        },
+        {
+            "first": "Maximilian",
+            "middle": [],
+            "last": "Pfost",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Bamberg",
+                "location": {
+                    "addrLine": "Markusplatz 3",
+                    "postCode": "96045",
+                    "country": "Germany"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Benjamin",
+            "middle": [],
+            "last": "Nagengast",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of T\u00fcbingen",
+                "location": {
+                    "country": "Germany"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Cordula",
+            "middle": [],
+            "last": "Artelt",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Bamberg",
+                "location": {
+                    "addrLine": "Markusplatz 3",
+                    "postCode": "96045",
+                    "country": "Germany"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Recent studies have analyzed social and dimensional comparisons simultaneously in order to consider their impact on students' academic self-concept (e.g., Chiu, 2012). Thereby, social comparisons refer to comparisons with the achievement level of students' classmates, whereas dimensional comparisons comprise comparisons between students' individual achievements across different domains. This paper analyzes whether both achievement comparisons influence students' subject-interest in mathematics and English (as a first foreign language). The analyses are based on N \u00bc 1390 German fifth and sixth grade students who participated in the BiKS-8-14 longitudinal study. Using multi-level analyses, results indicate that students' competences influence their mathematical and English subject-interests, demonstrating the typical pattern of social and dimensional comparisons. Further, analyses reveal mediation effects by subject-specific grades and self-concepts. These findings also apply for the development of students' subject-interest from grade 5 to grade 6. Results are discussed with respect to their implications concerning theories of achievement comparisons and interest development.",
+    "pdf_parse": {
+        "paper_id": "schurtz_2014",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Recent studies have analyzed social and dimensional comparisons simultaneously in order to consider their impact on students' academic self-concept (e.g., Chiu, 2012). Thereby, social comparisons refer to comparisons with the achievement level of students' classmates, whereas dimensional comparisons comprise comparisons between students' individual achievements across different domains. This paper analyzes whether both achievement comparisons influence students' subject-interest in mathematics and English (as a first foreign language). The analyses are based on N \u00bc 1390 German fifth and sixth grade students who participated in the BiKS-8-14 longitudinal study. Using multi-level analyses, results indicate that students' competences influence their mathematical and English subject-interests, demonstrating the typical pattern of social and dimensional comparisons. Further, analyses reveal mediation effects by subject-specific grades and self-concepts. These findings also apply for the development of students' subject-interest from grade 5 to grade 6. Results are discussed with respect to their implications concerning theories of achievement comparisons and interest development.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Students' interest in school related topics has been proven to be a key factor in explaining students' extracurricular activities as well as their academic choices (K\u20ac oller, Daniels, & Baumert, April 2000; Krapp, 2002b) . Moreover, learning activities that are influenced by a person's interest have a higher probability of resulting in deeplevel learning processes than learning activities with no relationship to a person's interests (Krapp, 2002b) . However, a common finding indicates that students' academic interests decline during the school course (e.g., Dotterer, McHale, & Crouter, 2009) . Therefore, it is important to know which variables influence the development of students' academic interests. Theoretical as well as empirical research emphasized that students' own competences are important predictors of their interests. To evaluate their ability within one domain, persons not only refer to their own domainspecific achievements, but they also compare their individual achievements with others as well as with their own achievements in other domains (c.f. Marsh, 1986; M\u20ac oller & Marsh, 2013) . There are only a few studies which have analyzed these various ways in which students' interests are affected by their competences and the degree to which students' grades and self-concepts play a role in that relation. To identify these various influences, the present paper analyzes the impact of students' competences, grades and selfconcepts on their subject-interests in mathematics and English (as a first foreign language in school (FL)), at the beginning of secondary school.",
+                "cite_spans": [
+                    {
+                        "start": 175,
+                        "end": 206,
+                        "text": "Daniels, & Baumert, April 2000;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 207,
+                        "end": 220,
+                        "text": "Krapp, 2002b)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 437,
+                        "end": 451,
+                        "text": "(Krapp, 2002b)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 564,
+                        "end": 598,
+                        "text": "Dotterer, McHale, & Crouter, 2009)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1076,
+                        "end": 1088,
+                        "text": "Marsh, 1986;",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 1089,
+                        "end": 1112,
+                        "text": "M\u20ac oller & Marsh, 2013)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "To conceptualize students' interest, we refer to the Person-Object-Conception of Interest by Krapp (2002a) . According to this theoretical framework, an interest represents a particular relationship between a person and an object of interest. The person's relationship to an object of interest is characterized by emotionaland value-related aspects: The interest-related actions and contents have a subjective significance for the person, and he or she likes to spend time on them. Because of the high personal value of an interest, a person's interests are a central part of his or her identity (Krapp, 2000 (Krapp, , 2002a . Based on the theoretical assumption that a person likes being engaged in interest-related activities, it is supposed that persons develop an interest especially in topics for which they regard themselves as being competent. Analyzing the impact of students' competences on their interests within a domain, research findings indicated a positive impact of students' competences on their interests (e.g., Baumert, Schnabel, & Lehrke, 1998; Deci & Ryan, 2000; La Guardia & Ryan, 2002) , which is likely to be mediated by students' evaluation of their domainspecific abilities, i.e. self-concepts (e.g., Baumert et al., 1998; Denissen, Zarrett, & Eccles, 2007; . Moreover, interests can be categorized into situational and individual interests. Situational interests represent current engagements being created by a particular situation, whereas individual interests comprise a person's dispositional structure. Before developing a stable individual interest, persons experience a situational interest which depends on the degree of interest of a particular situation. If a current engagement in a particular situation persists, persons will likely develop an interest as a dispositional structure (Hidi & Renninger, 2006; Krapp, 2002b; Schiefele, 2009) . The concept of students' subject-interests to which this paper refers comprises not only students' interests in terms of the topic of the school subject but rather in terms of the '( \u2026 ) whole arrangement of teaching, learning and acting in the field of a certain school subject' (Krapp, 2002b , pp. 387, referring to Hoffmann, 2002 . Thus, students' interests in mathematics and English (FL) represent a combination of individual interests in the topic of the school subject and the interestingness of situational aspects that are related to the particular instructions of these topics (Hoffmann, 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 93,
+                        "end": 106,
+                        "text": "Krapp (2002a)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 596,
+                        "end": 608,
+                        "text": "(Krapp, 2000",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 609,
+                        "end": 624,
+                        "text": "(Krapp, , 2002a",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1030,
+                        "end": 1064,
+                        "text": "Baumert, Schnabel, & Lehrke, 1998;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1065,
+                        "end": 1083,
+                        "text": "Deci & Ryan, 2000;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1084,
+                        "end": 1108,
+                        "text": "La Guardia & Ryan, 2002)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1227,
+                        "end": 1248,
+                        "text": "Baumert et al., 1998;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1249,
+                        "end": 1283,
+                        "text": "Denissen, Zarrett, & Eccles, 2007;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1821,
+                        "end": 1845,
+                        "text": "(Hidi & Renninger, 2006;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1846,
+                        "end": 1859,
+                        "text": "Krapp, 2002b;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1860,
+                        "end": 1876,
+                        "text": "Schiefele, 2009)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 2159,
+                        "end": 2172,
+                        "text": "(Krapp, 2002b",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 2173,
+                        "end": 2211,
+                        "text": ", pp. 387, referring to Hoffmann, 2002",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2466,
+                        "end": 2482,
+                        "text": "(Hoffmann, 2002)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subject-interest in mathematics and English (FL)",
+                "sec_num": "1.1."
+            },
+            {
+                "text": "A common finding of studies that analyze the development of students' academic interests is that students enter the school system with comparatively high academic interests. However, on average, these interests decline during the school course (e.g., Dotterer et al., 2009; Hidi, 2000; Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002) . A possible explanation for this finding is the process of interest differentiation. According to this thesis, young children show a universal interest for nearly all things, whereas adolescent students start to develop interests in particular domains (c.f. Daniels, 2008; Todt & Schreiber, 1998) . The interest for other, non-matching domains, however, should decrease, since the perpetuation of a particular interest requires an ongoing engagement with the interest-related activities. It is assumed that dimensional achievement comparisons are the underlying mechanisms for the process of self-differentiation (Daniels, 2008) . Accordingly, students compare their individual achievement within a particular domain with their own achievement in other domains. These dimensional comparisons were mainly researched within the internal/external frame of reference model (I/E-model, Marsh, 1986 ) that focusses on the formation of students' self-concepts. Research findings indicated that although students' academic achievement within a particular domain (school grades or competence measures) positively affects their corresponding self-concepts, it negatively affects students' self-concepts in other, non-matching domains (M\u20ac oller, Pohlmann, K\u20ac oller, & Marsh, 2009; M\u20ac oller, Retelsdorf, K\u20ac oller, & Marsh, 2011) . Since dimensional comparisons serve as a source of information about students' abilities and weaknesses, they should help students to recognize domains in which they can specialize, and for which they could develop particular preferences and interests (Chiu, 2012; M\u20ac oller & Marsh, 2013; M\u20ac oller et al., 2009) . Based on these assumptions, K\u20ac oller et al. (April 2000) examined the influence of dimensional comparisons on students' subject-interests in mathematics and English (FL), taking students' grades and self-concepts into account. Analyzing German students attending higher academic track schools from grade 10 to grade 12, the results indicated that students' grades impacted on their subject-interests following the typical I/E-model pattern. However, the negative effects of students' grades on their subject-interests in the respective other domain were totally mediated by students' self-concepts. Similarly, Pohlmann (2005) found a mediation effect of dimensional comparisons on student subject-interest via student self-concept when analyzing German students from grade 7 to grade 10. However, these studies only focus on internal, dimensional comparisons and their impact on students' subject-interests. Beyond dimensional comparisons, the theoretical assumptions of the I/E-Model comprise social comparisons with a student's reference group. Accordingly, students evaluate their abilities within a particular domain by not only referring to their own achievement within several domains but also by referring to the achievement level of others. The impact of social comparisons with students' scholastic reference group on their self-concept was mainly researched within the big-fish-little-pond-effect model (BFLPE; Marsh et al., 2008) . The main research finding indicates that students within high achieving schools or classes develop a lower self-concept compared to equally achieving students who compare their individual achievement with a low achieving reference group (e.g., Dijkstra, Kuyper, van der Werf, Buunk, & van der Zee, 2008; Marsh & Hau, 2003; Nagengast & Marsh, 2012) . With regard to students' subject-interests, it can be assumed that high achieving classes indicate to an average achieving student that he or she is not as competent as the others within that particular domain. Such a context is expected to decrease the chance that an average achieving student will show an interest within that domain (c.f. Trautwein, L\u00fcdtke, Marsh, K\u20ac oller, & Baumert, 2006) . Previous research has been conducted with regard to the mathematical subject-interest, focusing on students in both late junior and senior years. Corresponding studies emphasized a negative impact of average school achievement on student subjectinterest in mathematics, which is mediated by their mathematical self-concept (K\u20ac oller, 2004; Trautwein et al., 2006) . Moreover, a cross-sectional study by Trautwein et al. (2006) showed a partial mediation of the impact of class achievement on students' subject-interests via students' grades and self-concepts. These findings are in line with previous studies showing that students' grades seem to be the more salient achievement indicator than students' competences (e.g., M\u20ac oller et al., 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 251,
+                        "end": 273,
+                        "text": "Dotterer et al., 2009;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 274,
+                        "end": 285,
+                        "text": "Hidi, 2000;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 286,
+                        "end": 334,
+                        "text": "Jacobs, Lanza, Osgood, Eccles, & Wigfield, 2002)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 594,
+                        "end": 608,
+                        "text": "Daniels, 2008;",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 609,
+                        "end": 632,
+                        "text": "Todt & Schreiber, 1998)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 949,
+                        "end": 964,
+                        "text": "(Daniels, 2008)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1217,
+                        "end": 1228,
+                        "text": "Marsh, 1986",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 1560,
+                        "end": 1605,
+                        "text": "(M\u20ac oller, Pohlmann, K\u20ac oller, & Marsh, 2009;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1606,
+                        "end": 1652,
+                        "text": "M\u20ac oller, Retelsdorf, K\u20ac oller, & Marsh, 2011)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1907,
+                        "end": 1919,
+                        "text": "(Chiu, 2012;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1920,
+                        "end": 1943,
+                        "text": "M\u20ac oller & Marsh, 2013;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1944,
+                        "end": 1966,
+                        "text": "M\u20ac oller et al., 2009)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 2013,
+                        "end": 2025,
+                        "text": "(April 2000)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 2579,
+                        "end": 2594,
+                        "text": "Pohlmann (2005)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 3390,
+                        "end": 3409,
+                        "text": "Marsh et al., 2008)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 3656,
+                        "end": 3715,
+                        "text": "Dijkstra, Kuyper, van der Werf, Buunk, & van der Zee, 2008;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 3716,
+                        "end": 3734,
+                        "text": "Marsh & Hau, 2003;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 3735,
+                        "end": 3759,
+                        "text": "Nagengast & Marsh, 2012)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 4104,
+                        "end": 4156,
+                        "text": "Trautwein, L\u00fcdtke, Marsh, K\u20ac oller, & Baumert, 2006)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 4482,
+                        "end": 4498,
+                        "text": "(K\u20ac oller, 2004;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 4499,
+                        "end": 4522,
+                        "text": "Trautwein et al., 2006)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 4562,
+                        "end": 4585,
+                        "text": "Trautwein et al. (2006)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 4882,
+                        "end": 4904,
+                        "text": "M\u20ac oller et al., 2009)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Development of students' subject-interest e the role of achievement comparisons",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "Recent studies analyzing the impact of achievement comparisons on students' self-concepts extended the operationalization of the I/E-Model. Although the original theoretical approach includes the effects of social comparisons with students' reference group as external comparisons, empirical studies analyzing the I/E-Model generally do not account for the impact of aggregated school or class achievement on students' self-concepts (Chiu, 2012) . Thus, to analyze the impact of internal, dimensional as well as external, social comparisons with students' scholastic reference group, recent studies analyzed the impact of both achievement comparisons on students' self-concepts simultaneously. In the crosssectional study of Chiu (2012) , the combined model was tested for eighth Graders' self-concepts in mathematics and science using data from the TIMSS 2003 study. Parker, Marsh, L\u00fcdtke, and Trautwein (2013) analyzed students' self-concepts in mathematics and English (FL) in German upper secondary school. The findings of both studies indicated that social and dimensional comparisons influence students' self-concepts independently of each other. Thus, both achievement comparisons seem to serve different sets of information upon which students can form their self-concepts.",
+                "cite_spans": [
+                    {
+                        "start": 433,
+                        "end": 445,
+                        "text": "(Chiu, 2012)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 725,
+                        "end": 736,
+                        "text": "Chiu (2012)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 868,
+                        "end": 911,
+                        "text": "Parker, Marsh, L\u00fcdtke, and Trautwein (2013)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Social and dimensional comparisons e a combined model",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "In conclusion, research has shown that dimensional as well as social comparisons affect students' subject-interests. Furthermore, this effect seems to be mediated by students' subject-specific selfconcepts. Moreover, research on social comparisons revealed a mediation of the impact of class achievement on self-concept and subject-interest via students' grades. However, similar to the empirical tradition of the I/E model and the BFLPE, the impact of social and dimensional comparisons on student interest has been solely analyzed independently from each other. In addition, social comparisons were only studied with regard to their impact on students' mathematical subject-interests. Moreover, the impact of both achievement comparisons has been analyzed solely with regard to students in late stages of secondary school.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Social and dimensional comparisons e a combined model",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "This paper aims to analyze to what extent the development of student subject-interest in mathematics and English (FL) can be explained by social and dimensional comparisons at the beginning of secondary school. Concerning social comparisons, we consider students' classmates as the relevant reference group (c.f. Trautwein et al., 2006) . With regard to previous findings, we assume that the impact of both achievement comparisons on students' subjectinterests is mediated by students' grades as well as subjectspecific self-concepts.",
+                "cite_spans": [
+                    {
+                        "start": 313,
+                        "end": 336,
+                        "text": "Trautwein et al., 2006)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aims of the study",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "We look at students at the beginning of secondary school for three reasons. First, at this stage of their education, German students changed their scholastic reference group for the first time since the beginning of formal education. At the end of grade 4, German students in most federal states move from primary to secondary school. Thus, at the beginning of secondary school, students are grouped into new classes. This new setting should stimulate social comparisons (Hattie, 1992) . Second, the students' peer group becomes more important during adolescence. Accordingly, social comparisons with the other class members should increase in its importance regarding students' subject-interests (c.f. Hattie, 1992) . Third, it is assumed that the process of interest differentiation takes place especially during adolescence (Daniels, 2008) . Thus, the beginning of secondary school is expected to be of particular importance for the analysis of dimensional comparisons as well.",
+                "cite_spans": [
+                    {
+                        "start": 471,
+                        "end": 485,
+                        "text": "(Hattie, 1992)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 703,
+                        "end": 716,
+                        "text": "Hattie, 1992)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 827,
+                        "end": 842,
+                        "text": "(Daniels, 2008)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aims of the study",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "Our research questions are as follows:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aims of the study",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "1) Do students' competences impact on their subject-interests in mathematics and English at the beginning of secondary school following the typical pattern of social and dimensional comparisons?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aims of the study",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "To be able to observe mediating effects of students' grades and self-concepts, we firstly analyze the total impact of students' competences on their subject-interests. In reference to previous studies (e.g., Trautwein et al., 2006) , we expect a significant negative effect of average class achievement on students' subjectinterests for both the mathematical and English domains (Hypothesis 1a). Concerning dimensional comparisons, we assume that students' achievements positively impact on their subjectinterests within the mathematical and English domains. However, these influences should be negative in the respective other domain (e.g., K\u20ac oller et al., April 2000) (Hypothesis 1b).",
+                "cite_spans": [
+                    {
+                        "start": 208,
+                        "end": 231,
+                        "text": "Trautwein et al., 2006)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aims of the study",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "2) Do the patterns of social and dimensional comparisons remain stable when modeled simultaneously?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aims of the study",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "Referring to previous studies that analyzed the impact of social and dimensional comparisons on students' self-concepts simultaneously (e.g., Chiu, 2012) , we expect that the effects of both achievement comparisons on students' subject-interests can be shown when modeled jointly (Hypothesis 2).",
+                "cite_spans": [
+                    {
+                        "start": 142,
+                        "end": 153,
+                        "text": "Chiu, 2012)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aims of the study",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "3) Do students' grades and self-concepts in mathematics and English mediate the impact of students' competences on their subject-interests in mathematics and English?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aims of the study",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "The third research question aims to analyze the mediating processes that underlie the impact of students' competences on their subject-interests. Thereby, we assume that students' grades mediate the effect of students' competences on their subjectinterests, since grades represent more salient information about students' school achievements (e.g., Trautwein et al., 2006) . Moreover, prior findings indicated that the impact of social as well as dimensional comparisons on students' subject-interests is mediated by their subject-specific self-concepts (e.g., K\u20ac oller et al., April 2000; Trautwein et al., 2006) . Accordingly, we analyze students' self-concepts as a second mediator, leading to the following concluding model: students' competences are assumed to directly influence their grades, which in turn should have a direct impact on students' self-concepts. Students' self-concepts, in turn, should have a direct influence on students' subject-interests (Hypothesis 3). Thus, students' grades are assumed to affect their self-concept following the typical pattern of dimensional comparisons. However, students' subject-interests are assumed to be impacted by student's corresponding self-concepts only. Similarly, the negative influence of aggregated class achievement on students' subjectinterests should be completely mediated via students' corresponding self-concepts. 4) Do students' grades and self-concepts in mathematics and English mediate the impact of students' competences on the development of students' mathematical and English subjectinterests from grade 5 to grade 6?",
+                "cite_spans": [
+                    {
+                        "start": 349,
+                        "end": 372,
+                        "text": "Trautwein et al., 2006)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 561,
+                        "end": 589,
+                        "text": "K\u20ac oller et al., April 2000;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 590,
+                        "end": 613,
+                        "text": "Trautwein et al., 2006)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aims of the study",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "The last research questions aims to analyze whether the assumed impact of achievement comparisons on students' subjectinterests as well as the expected mediation processes also apply for students' interest development from grade 5 to grade 6. We assume that the development of students' subject-interests in mathematics and English (FL) is influenced by the same mechanisms as described in the concluding model of the third research question (Hypothesis 4).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aims of the study",
+                "sec_num": "1.4."
+            },
+            {
+                "text": "Data collection took place within the German BiKS project. BiKS is a DFG-founded interdisciplinary research project that runs two longitudinal studies on educational processes, competence development and selection decisions in preschool-and school age children. The secondary school sample of the BiKS-8-14 longitudinal study consisted of N \u00bc 1799 students (47.8% males) in grade 5 who took part in both a questionnaire and competence assessment. Schools were selected from the southern and middle part of Germany. In grade 6, 96.0% (N \u00bc 1727) of the students were reassessed. Students' parents had to give active informed consent, which led to a slight overrepresentation in the sample in terms of students with better grades and without an immigration background. The subsample used in the present study consisted of students who did not leave the study before grade 6. We excluded all students whose first foreign language was not English (N \u00bc 199) . We also excluded classes containing the data of 4 or fewer students (N \u00bc 131) as this is the minimal number of students needed to compute a conclusive class achievement (c.f. Marsh & Hau, 2003) . Finally, we excluded students with missing values on all variables of the models (N \u00bc 7) because these cases also lacked many values on the auxiliary variables of the imputation model. As a result, the data of N \u00bc 1390 students (48.6% males) remained from the secondary school sample and were then used for the following analyses. Students were nested in 106 classes with an average of 13.1 students per class. In grade 5, the students' average age was 11.5 years (SD \u00bc .5) and 14.2% (N \u00bc 175) of the students lived in households with migration backgrounds. Furthermore, 56.7% (N \u00bc 788) of the students attended higher academic track schools (Gymnasium), 20.1% (N \u00bc 279) attended middle track schools (Realschule) and 23.2% (N \u00bc 323) attended lower academic track schools (Hauptschule).",
+                "cite_spans": [
+                    {
+                        "start": 942,
+                        "end": 951,
+                        "text": "(N \u00bc 199)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1129,
+                        "end": 1147,
+                        "text": "Marsh & Hau, 2003)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data source and participants",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "All test materials were administered during regular school lessons by trained research assistants. To assess students' mathematical and English competences, the test material was constructed following common criteria of test constructions. All test items were selected based on item analyses of a separate administered pilot study.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "In the second half of grade 5, mathematical competence was assessed by a sample of 22 arithmetical, 8 geometrical and 14 word problems presented as multiple-choice and open-ended questions. The piloted items consisted of partly revised tasks from the working group of Harald Marx (Marx & Opitz-Karig, 2005) and from the German project 'PALMA' (Pekrun, G\u20ac otz, Zirngibl, vom Hofe, & Blum, 2003) . The assessment time of students' mathematical competence was limited to 27 min, with the score of mathematical competence being generated by computing the sum of correctly solved items. The reliability of the test and the average characteristics of the item analyses were satisfying (Cronbach's a \u00bc .89; M Item-Difficulty \u00bc .50; Min Item-Difficulty \u00bc .13; Max Item-Difficulty \u00bc .90). Moreover, the test adequately differed between students of lower and higher academic track schools. Students of lower/middle academic track schools (M \u00bc 17.32; SD \u00bc 7.05; Min \u00bc 3; Max \u00bc 37) achieved lower scores on average compared to students of higher academic track schools (M \u00bc 25.82; SD \u00bc 6.85; Min \u00bc 4; Max \u00bc 41). This difference was significant (F(1, 1298) \u00bc 482.80; p < .05), and there were no bottom or ceiling effects.",
+                "cite_spans": [
+                    {
+                        "start": 280,
+                        "end": 306,
+                        "text": "(Marx & Opitz-Karig, 2005)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 343,
+                        "end": 393,
+                        "text": "(Pekrun, G\u20ac otz, Zirngibl, vom Hofe, & Blum, 2003)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mathematical competence",
+                "sec_num": "2.2.1."
+            },
+            {
+                "text": "Students' English competence was measured by using a stumbling-words reading test in the second half of grade 5. The concept of this test was developed by Metze (2003) to concisely indicate reading skills of primary school students. The test was adapted to foreign languages such as English by a group of researchers of the University Siegen as well as the German study 'KESS 7' (Bos, Bonsen, Gr\u20ac ohlich, Guill, & Scharenberg, 2009) . The stumbling-words reading test consisted of 35 short sentences, each of which included one extraneous word. This stumbling-word disrupted the grammatical correctness of the sentence, and students had to correct the sentences by crossing out the stumblingwords. One example is the item: 'I'm a name good reader.' In this instance, 'name' represents the stumbling-word and has to be crossed out (c.f. Neuenhaus, 2011 for the full test). This requires students to correctly read and understand the words. Moreover, it calls on the ability to understand the meaning of the sentences by comparatively processing both the words and the grammatical structure of the sentences (Metze, 2003) . With a forced 4 min time limit, the test had a strong speed component. The score was generated by computing the sum of correctly solved items. Due to the fact that this measure is a speed-test, Cronbach's Alpha as well as characteristics of the item analyses cannot be interpreted meaningfully and are therefore not provided. The used competence test was adequate to differ between students of lower/middle and higher academic track schools. Accordingly, students' of lower/ middle academic track schools (M \u00bc 14.74; SD \u00bc 6.87; Min \u00bc 0; Max \u00bc 35) scored lower on average than students of higher academic track schools (M \u00bc 23.81; SD \u00bc 6.47; Min \u00bc 1; Max \u00bc 35). This difference was significant (F(1, 1298) \u00bc 598.35; p < .05), and there were no bottom or ceiling effects.",
+                "cite_spans": [
+                    {
+                        "start": 155,
+                        "end": 167,
+                        "text": "Metze (2003)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 379,
+                        "end": 432,
+                        "text": "(Bos, Bonsen, Gr\u20ac ohlich, Guill, & Scharenberg, 2009)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1106,
+                        "end": 1119,
+                        "text": "(Metze, 2003)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "English competence",
+                "sec_num": "2.2.2."
+            },
+            {
+                "text": "Students' grades in mathematics and English for the first term of grade 6 were collected by asking their teachers to report the grades. In Germany, grades range from 1 \u00bc very good to 6 \u00bc unsatisfactory. For a better interpretation of the results, students' grades were recoded. Accordingly, higher values indicate better grades and vice versa.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Grades in mathematics/English",
+                "sec_num": "2.2.3."
+            },
+            {
+                "text": "Students' subject-interest in mathematics and English were measured within a student questionnaire at the end of grade 5 and grade 6. Each student was asked to indicate on a 5 point scale (from 1\"not at all\" to 5 \"very much\") the degree to which (1) he or she looks forward to having a lesson in mathematics/English; (2) he or she would like to have more lessons in mathematics/English than he or she has right now; (3) whether it is important to him or her to know a great deal about mathematics/English; (4) whether it is important for him or her to remember the information in mathematics/English. The first two items assessed the emotional aspect of the construct of interest. The other two items measured the value aspect of the interest construct. The items were adapted from the German study 'BIJU' (Baumert, Gruehn, Heyn, K\u20ac oller, & Schnabel, 1997) . The scales of students' subject-interest in mathematics and English were generated by computing the average of the answered items. For both subjects, the reliability of the scale was satisfying in grade 5 (Mathematics: Cronbach's a \u00bc .84; English: Cronbach's a \u00bc .84) and in grade 6 (Mathematics: Cronbach's a \u00bc .86; English: Cronbach's a \u00bc .86).",
+                "cite_spans": [
+                    {
+                        "start": 806,
+                        "end": 857,
+                        "text": "(Baumert, Gruehn, Heyn, K\u20ac oller, & Schnabel, 1997)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subject-interests in mathematics/English",
+                "sec_num": "2.2.4."
+            },
+            {
+                "text": "Finally, students' self-concepts in mathematics and English were measured with the student questionnaire in the latter term of grade 6. Three items were used to assess how competent students felt themselves to be in the context of the mathematical and English lessons (Mathematics/English lessons are easy for me.; I quickly learn new things in mathematics/English.; I am good at mathematics/English.). These items are typically used to cover the cognitiveevaluative aspect of students' self-concepts (e.g., M\u20ac oller & Pohlmann, 2010). The items could be answered in five categories: 1 \u00bc not at all, 2 \u00bc just a little, 3 \u00bc a fair amount, 4 \u00bc much, and 5 \u00bc very much. The scales of students' self-concepts in mathematics and English were computed by taking the mean score of answered items, with the reliability of both scales being satisfying (Mathematics: Cronbach's a \u00bc .91; English: Cronbach's a \u00bc .87 ).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Self-concepts in mathematics/English",
+                "sec_num": "2.2.5."
+            },
+            {
+                "text": "To analyze the mentioned research questions, multi-level models were computed using the type \u00bc two-level option in Mplus 6.11 (Muth en & Muth en, 1998e2010). The model fit of all path analyses was evaluated referring to three goodness-of-fit indices: the root mean square error of approximation (RMSEA), the chi square test, and the comparative fit index (CFI) (Hooper, Coughlan, & Mullen, 2008) . The percentage of missing data in the variables used varied between 6.5% (both mathematical and English competence) and 12.4% (subject-interest in both mathematics and English). To handle the missing data, missing values were multiple imputed by computing 5 datasets using SPSS 19. The imputation model consisted of a wide range of background variables, such as students' age, sex, socioeconomic and migration background, as well as information about the measures used, from both the previous and subsequent assessment wave. In order to present standardized effects, the average scores of all relevant variables within each imputed dataset were set to zero and their variances were set to one. The impact of class achievement on the outcome variables has been estimated using the reflective aggregation procedure of Mplus (Muth en & Muth en, 1998e2010). Therefore, the impact of achievement on the outcome variable was modeled on Level 1 (b L1 ) and Level 2 (b L2 ). Afterward, the impact of aggregated achievement on the outcome variable (b context ) was computed by subtracting the Level 1 effect from the Level 2 effect ",
+                "cite_spans": [
+                    {
+                        "start": 361,
+                        "end": 395,
+                        "text": "(Hooper, Coughlan, & Mullen, 2008)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Descriptive statistics and correlations of the unstandardized variables are shown in Tables 1 and 2. With regard to the correlations of both students' achievement measures and self-concepts, results were as expected with the findings indicating positive relations between students' achievements in mathematics and English (FL) (Competences: r \u00bc .56, p < .05; grades: r \u00bc .41, p < .05); students' self-concepts were not significantly correlated to each other (r \u00bc .05, p < .05; see Table 2 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 85,
+                        "end": 100,
+                        "text": "Tables 1 and 2.",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 481,
+                        "end": 488,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Descriptive statistics",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "Also, students' subject-interests in mathematics and English were positively correlated with each other, but at a lower level compared to the achievement measures (r \u00bc .24, p < .05).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Descriptive statistics",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "3.2. Do students' competences impact on their subject-interests in mathematics and English at the beginning of secondary school following the typical pattern of social and dimensional comparisons?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Descriptive statistics",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "Our first research question concerned the impact of social and dimensional comparisons on students' subject-interest being modeled separately. With regard to social comparisons in the mathematical domain, the findings indicated a significant negative effect of class achievement in grade 5 on a student's mathematical subject-interest in grade 6 (b \u00bc \u00c0.389, p < .05; see Fig. 1a ). Students' individual competences in grade 5 positively affected their subjectinterests in mathematics in grade 6.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 371,
+                        "end": 378,
+                        "text": "Fig. 1a",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Descriptive statistics",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "With regard to the verbal domain, students' individual English competences in grade 5 also positively affected students' subjectinterests in grade 6. As depicted in Fig. 1b , class achievement in grade 5 also negatively affected student subject-interest in English in grade 6 (b \u00bc \u00c0.149, p < .05).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 165,
+                        "end": 172,
+                        "text": "Fig. 1b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Descriptive statistics",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "Within both domains, our results confirmed our assumption concerning the negative impact of social comparisons on students' subject-interests. However, the standardized coefficients indicated a higher effect of class achievement on students' subject-interests in the mathematical domain than in the verbal domain. Concerning the impact of dimensional comparisons, the results showed a typical I/E model pattern (see Fig. 2 ). Within both domains, students' competences in grade 5 positively impacted on student subject-interest in grade 6. But across the verbal and mathematical domain, students' competences had a negative impact on their subject-interests. Accordingly, students' English competences negatively affected their mathematical subject-interests (b \u00bc \u00c0.252, p < .05), while students' mathematical competences negatively affected their English subject-interest (b \u00bc \u00c0.087, p < .05). These findings confirm our assumption that students' subject-interests are influenced by dimensional achievement comparisons. However, the standardized coefficients indicated a higher contrasting effect on students' subject-interests in mathematics compared to students' English subject-interests.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 416,
+                        "end": 422,
+                        "text": "Fig. 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Descriptive statistics",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "Considering the impact of social and dimensional comparisons simultaneously, the effects slightly changed, especially with regard to the verbal domain (see Fig. 3 ). Students' mathematical achievement positively affected their subject-interest in mathematics. As expected, students' individual English competence negatively impacted their mathematical subject-interest (b \u00bc \u00c0.173, p < .05). Furthermore, class achievement had a negative and significant impact on students' subject-interest in mathematics (b \u00bc \u00c0.439, p < .05).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 156,
+                        "end": 162,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Do the patterns of social and dimensional comparisons remain stable when modeled simultaneously?",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "Concerning students' interest in the verbal domain, the negative impact of students' mathematical competence on their subjectinterest in English (b \u00bc \u00c0.059, p \u00bc .133) did not reach the significance level. However, the impact of class achievement on students' subject-interest in English was negative and significant (b \u00bc \u00c0.164, p < .05). Accordingly, our assumptions were partially supported. In English, only the negative impact of social comparisons with class achievement on students' subject-interest remained significant.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Do the patterns of social and dimensional comparisons remain stable when modeled simultaneously?",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "English mediate the impact of students' competences on their subject-interests in mathematics and English?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Do students' grades and self-concepts in mathematics and",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "The third research question was analyzed including students' grades and subject-specific self-concepts in the combined model. That way, we tested the following model: students' competences were assumed to impact their grades, which in turn should directly influence their self-concepts and, via this mediation, their subjectinterests. No other direct effects were estimated. A model with these restrictions did not fit the data (Chi 2 \u00bc 151.336, df \u00bc 12, p < .05; RMSEA \u00bc .091; CFI \u00bc .962), due to the fact that students' English competence directly affected their self-concepts in mathematics and English, and students' mathematical competence directly impacted on their self-concepts in mathematics, as well as subject-interest in English. After removing the corresponding constraints and setting insignificant parameters to zero, the model fit the data (Chi 2 \u00bc 19.619, df \u00bc 11, p > .05; RMSEA \u00bc .024; CFI \u00bc .998). As Fig. 4 illustrates, students' self-concepts were affected by their grades following the typical pattern of dimensional comparisons: high grades in English had a positive impact on students' self-concepts in English, but a negative impact on their self-concepts in mathematics (b \u00bc \u00c0.156, p < .05). The same held true for the mathematical domain. Thus, students' grades in mathematics positively influenced their mathematical selfconcept, but negatively impacted their English self-concepts (b \u00bc \u00c0.151, p < .05).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 921,
+                        "end": 927,
+                        "text": "Fig. 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Do students' grades and self-concepts in mathematics and",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "Moreover, students' self-concepts positively impacted on their subject-interest within the mathematical (b \u00bc .573, p < .05) and English (b \u00bc .651, p < .05) domain. Thus, within both domains, students' grades did not directly affect their subject-interest, but influenced their subject-interest mediated by their self-concepts in mathematics and English. Moreover, across both domains, students' self-concepts had no significant impact on their subjectinterests. Only students' mathematical competence showed an additional direct effect on their subject-interest in English, which was negative (b \u00bc \u00c0.081, p < .05).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Do students' grades and self-concepts in mathematics and",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "With regard to the impact of social comparisons on students' subject-interests in English, only the negative impact of class achievement on students' grades in English was significant (b \u00bc \u00c0.298, p < .05). Students' self-concepts (b \u00bc \u00c0.035, p \u00bc .596) and subject-interests in English (b \u00bc .003, p \u00bc .959) were not directly affected by class achievement. Accordingly, class achievement impacted students' subject-interests in English via students' grades and self-concepts in English. However, concerning students' mathematical subject-interests, our results emphasized no exclusive mediation by students' self-concepts. Accordingly, class achievement had a negative influence on students' grades (b \u00bc \u00c0.540, p < .05), self-concepts (b \u00bc \u00c0.433, p < .05) and subjectinterests in mathematics (b \u00bc \u00c0.149, p < .05).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Do students' grades and self-concepts in mathematics and",
+                "sec_num": "3.4."
+            },
+            {
+                "text": "Math competence G5 Fig. 3 . Impact of social and dimensional comparisons on students' subject-interests in mathematics and English (saturated model, standardized path coefficients). All statistics are average results over 5 imputed datasets (N \u00bc 1390). G \u00bc Grade;",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 19,
+                        "end": 25,
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "English competence G5",
+                "sec_num": null
+            },
+            {
+                "text": "Aggr. \u00bc aggregated. *p < .05. Fig. 4 . Impact of social and dimensional comparisons on student's subject-interest in mathematics and English accounting for the impact of students' grades and self-concepts (standardized path coefficients). All statistics are average results over 5 imputed datasets (N \u00bc 1390). G \u00bc Grade; Aggr. \u00bc aggregated. *p < .05. Fig. 5 . Impact of social and dimensional comparisons on student's subject-interest in mathematics and English accounting for the impact of students' grades and self-concepts and students' mathematical and English subject-interest in grade 5 (standardized path coefficients). All other variables in the model were freely correlated with students' mathematical and English subject-interest in grade 5. All statistics are average results over 5 imputed datasets (N \u00bc 1390). G \u00bc Grade; Aggr. \u00bc aggregated. *p < .05.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 30,
+                        "end": 36,
+                        "text": "Fig. 4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 351,
+                        "end": 357,
+                        "text": "Fig. 5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "English competence G5",
+                "sec_num": null
+            },
+            {
+                "text": "3.5. Do students' grades and self-concepts in mathematics and English mediate the impact of students' competences on the development of students' mathematical and English subjectinterests from grade 5 to grade 6?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "English competence G5",
+                "sec_num": null
+            },
+            {
+                "text": "To analyze our last research question, students' subject-interests in mathematics and English in grade 5 were included in the model of Fig. 4 . Thereby, students' subject-interests in grade 5 were regressed on students' subject-interests in grade 6 within the mathematical and verbal domains. All other variables in the model were freely correlated with students' mathematical and English subject-interests in grade 5. Moreover, we set the same restrictions as in the model of Fig. 4 , and again we set insignificant correlations to zero. A corresponding model fits the data (Chi 2 \u00bc 93.386, df \u00bc 30, p < .05; RMSEA \u00bc .039; CFI \u00bc .986). Thereby, the pattern of the impact of social and dimensional comparisons on students' subjectinterests in grade 6, which was mediated by their grades and selfconcepts, remained stable accounting for students' subjectinterests in grade 5 (see Fig. 5 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 135,
+                        "end": 141,
+                        "text": "Fig. 4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 477,
+                        "end": 483,
+                        "text": "Fig. 4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 879,
+                        "end": 885,
+                        "text": "Fig. 5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "English competence G5",
+                "sec_num": null
+            },
+            {
+                "text": "Accordingly, the impact of dimensional comparisons on the development of students' subject-interests was mediated by students' self-concepts in both the mathematical and verbal domains. With regard to social comparisons, class achievement directly affected students' grades in mathematics (b \u00bc \u00c0.517, p < .05) and English (b \u00bc \u00c0.315, p < .05). However, only within the mathematical domain there was an additional direct effect of class achievement on students' self-concepts (b \u00bc \u00c0.429, p < .05) and subject-interest (b \u00bc \u00c0.147, p < .05).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "English competence G5",
+                "sec_num": null
+            },
+            {
+                "text": "This paper aimed to analyze the impact of social and dimensional comparisons on students' subject-interests in mathematics and English (FL) at the beginning of secondary school. The first research question intended to show the direct effect of students' competences on their subject-interests in mathematics and English considering the effects of the I/E-Model and the BFLPE separately. Our findings showed the typical patterns of social and dimensional comparisons and, thus, confirmed Hypothesis 1a and 1b. Beyond previous studies, our findings showed that class achievement negatively impacts on students' subject-interests not only in mathematics but also in English (FL). However, compared to students' mathematical subject-interests, the standardized effects also indicated a lower importance of the scholastic reference group for students' subject-interests in English. A possible explanation could be that mathematical competences are primarily learned and experienced by students within the school context. Although students' English competences are also primarily taught in school, English is more present during students' extracurricular time, i.e. concerning the world-wide-web, English commercials or songs. Accordingly, experiences outside the school context are likely to be more important for students' subject-interests in English than in mathematics, which might lead to a reduced importance of the scholastic reference group. With regard to the second research question, both achievement comparisons and their impact on students' subject-interests were modeled simultaneously. Supporting Hypothesis 2, the effects remained stable when analyzing social and dimensional achievement comparisons simultaneously. Only the negative effect of mathematical competence on subject-interest in English was no longer significant. Concerning the third research question, our results emphasized a mediation of the effects of both achievement comparisons by students' grades and self-concepts. For both domains, an indirect effect of class achievement could be observed, indicating that class achievement influenced students' individual grades, which in turn impacted on their self-concepts and subject-interests (Hypothesis 3). However, contrary to our third hypothesis, aggregated achievement maintained a direct negative influence on students' mathematical subject-interests after considering the influence of students' self-concepts into account. It is possible that the direct effect of social comparisons on students' subject-interests in mathematics is only observable at the beginning of secondary school, when students are grouped within a new class context. The new reference group could lead to very strong and, therefore, direct effects of social comparisons on students' subject-interests. Moreover, the direct effect from students' mathematical competences on their subject-interests in English remained observable. This could be a methodological artifact that occurred because of the partly unreliable measurement of our constructs. Finally, within the fourth research question, the last model was analyzed with regard to the development of students' subject-interests. Confirming the respective hypothesis, findings showed that the presented pattern of effects could also be found when looking at the development of students' subject-interests in mathematics and English (FL) from grade 5 to grade 6.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of the presented findings",
+                "sec_num": "4.1."
+            },
+            {
+                "text": "In sum, our results not only emphasize that students' competences are an important predictor of their subject-interests at the beginning of secondary school, but they also indicate that competences affect students' subject-interests along three different pathways. First, students' individual achievements have a direct impact on their subject-interests in one domain; second, there are unique effects of class achievement on students' subject-interests within this domain; third, students' subject-interests are additionally affected by their individual achievements within another non-matching domain. Moreover, confirming previous studies, our findings showed that student grades and self-concepts are important mediators. Thereby, students mainly use their grades to perform achievement comparisons (c.f. M\u20ac oller et al., 2009) . Those achievement comparisons, in turn, primarily impact students' selfconcepts. Thus, students' subject-interests are mostly impacted by their domain-specific self-concepts. In accordance with prior findings (e.g., Trautwein et al., 2006) , our results showed that student grades are negatively dependent on the average class achievement in the corresponding domain. Furthermore, school grades are used by students for self-differentiation processes regarding dimensional comparisons. Since teachers assign grades in the context of the entire class, these dimensional comparisons are partially moderated by the average achievement of the class. Thus, our findings not only indicate unique effects of both achievement comparisons on students' subject-interests but also emphasize that they are related to each other. However, it should be mentioned that student achievement is not only an important predictor of the development of students' subject-interests. Referring to the Person-Object Conception of Interests, interested persons tend to enlarge their knowledge about the object of interest and improve related competences (Krapp, 2000 (Krapp, , 2002b . Thus, it is assumed and was shown empirically that students' achievement is also an important outcome of an individual interest (e.g. Denissen et al., 2007; .",
+                "cite_spans": [
+                    {
+                        "start": 803,
+                        "end": 831,
+                        "text": "(c.f. M\u20ac oller et al., 2009)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1050,
+                        "end": 1073,
+                        "text": "Trautwein et al., 2006)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1962,
+                        "end": 1974,
+                        "text": "(Krapp, 2000",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1975,
+                        "end": 1990,
+                        "text": "(Krapp, , 2002b",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 2127,
+                        "end": 2149,
+                        "text": "Denissen et al., 2007;",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of the presented findings",
+                "sec_num": "4.1."
+            },
+            {
+                "text": "The first limitation is related to the measurement of achievement comparisons. It should be emphasized that we did not ask the students with whom and with which personal importance students perform dimensional or social comparisons. Thus, we can only assume that the observed effects can be traced back to students' achievement comparisons. This restriction has to be considered when interpreting our results. However, the presented models comply with previous studies analyzing the I/E model and BFLPE. Only a few studies extended the common operationalization by directly asking the students about the performance of achievement comparisons (e.g., M\u20ac oller & Marsh, 2013; Skaalvik & Rankin, 1995) .",
+                "cite_spans": [
+                    {
+                        "start": 650,
+                        "end": 673,
+                        "text": "M\u20ac oller & Marsh, 2013;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 674,
+                        "end": 698,
+                        "text": "Skaalvik & Rankin, 1995)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations of the study",
+                "sec_num": "4.2."
+            },
+            {
+                "text": "A second limitation concerns the measurement of students' English competences. The used competence test focused on the assessment of students' receptive competences. However, their productive abilities, for instance their oral language use, were not captured. This could be an additional explanation for the lower effects of students' competences on their subject-interests in the English domain compared to the mathematical domain.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations of the study",
+                "sec_num": "4.2."
+            },
+            {
+                "text": "A third limitation concerns our last research question. Although we were able to analyze the influence of students' competences, grades and self-concepts on the development of students' subjectinterests from grade 5 to grade 6, we were not able to additionally take the impact of the development of students' competences, grades and self-concepts on the development of students' subjectinterests into account. However, it was possible to empirically reconstruct the assumed temporal order that underlies the influential mechanisms.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations of the study",
+                "sec_num": "4.2."
+            },
+            {
+                "text": "Finally, within the presented analyses, the differential impact of the school track the students were attending was not taken into account. Since German students are grouped within different school tracks according to their school performance after four years of primary education, students with a high school performance are more likely to attend higher academic track schools, whereas lower performing students are more likely to attend middle or lower academic track schools. Accordingly, the observed impact of the achievement level of the classes could be traced back to the initial sorting into the various school tracks. However, we were not able to take the school track into account due to the fact that a corresponding multi-group comparison model did not converge with the data. As an explanation, we assume that the number of parameters in the last model is too high compared to the low number of middle and lower academic track schools participating in our study.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations of the study",
+                "sec_num": "4.2."
+            },
+            {
+                "text": "Despite these limitations, our results indicate that the impact of dimensional comparisons on students' subject-interests at the beginning of secondary school is mediated by students' selfconcepts in both the mathematical and English domains. Social comparisons, however, seem to have a differential impact within these domains. Analyzing social and dimensional comparisons as well as both mediators in a single model allowed us to depict the various ways in which the development of students' subjectinterests in mathematics and English (FL) are affected by their competences, grades and self-concepts. Due to the fact that the effects of social and dimensional comparisons seem to be independent of each other, our results support the assumption that both achievement comparisons serve as different sources of information for students to evaluate their competence. Accordingly, social comparisons with the scholastic reference group can be expected to be mainly based on the notion of realistic self-evaluation, whereas dimensional comparisons seem to be based on self-differentiation and identity developmental processes (c.f. Chiu, 2012; M\u20ac oller & Marsh, 2013) . Since both achievement comparisons have a negative impact on students' subject-specific self-concepts and, thus, corresponding subject-interests, students' social and dimensional achievement comparisons seem to serve as a possible explanation for the common finding of declining academic interests during the school course. In order to understand whether the importance of achievement comparisons, as well as the mediation by students' self-concepts, changes across school years, future research should analyze students' differential interest development from early to late stages of secondary school. Concerning the practical implications of our study, our findings underline the importance of supporting students' self-concepts to increase their interests for the school-subjects mathematics and English (FL). Moreover, the instructional practice of the teacher is an important influential factor, since our conception of students' subject-interests comprises individual as well as situational aspects. According to the Person-Object Conception of Interest, instructional practices which support students' need of competence experience, autonomy and social integration can be expected to create an instructional context in which the development of students' subject-interests is well supported. In conclusion, students' academic achievement comparisons are complex and multifaceted. The analysis of students' achievement comparisons seems to be a good approach to capture the various ways how students' competences impact on their subject-interests.",
+                "cite_spans": [
+                    {
+                        "start": 1130,
+                        "end": 1141,
+                        "text": "Chiu, 2012;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1142,
+                        "end": 1165,
+                        "text": "M\u20ac oller & Marsh, 2013)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion and further research questions",
+                "sec_num": "4.3."
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "This research was supported by Grant AR 301/9-1 and AR 301/9-2 from the German Research Foundation (DFG).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgments",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Bildungsverl\u20ac aufe und psychosoziale Entwicklung im Jugendalter (BIJU) Dokumentation: Band 1, Skalen L\u20ac angsschnitt I, Welle 1-4 [Educational processes and psycho-social development during adolescence (BIJU) documentation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gruehn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Heyn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.-U",
+                        "middle": [],
+                        "last": "Schnabel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "1",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baumert, J., Gruehn, S., Heyn, S., K\u20ac oller, O., & Schnabel, K.-U. (1997). Bildungsverl\u20ac aufe und psychosoziale Entwicklung im Jugendalter (BIJU) Dokumentation: Band 1, Skalen L\u20ac angsschnitt I, Welle 1-4 [Educational processes and psycho-social devel- opment during adolescence (BIJU) documentation: Vol. 1]. Berlin: Max-Plank- Institut f\u00fcr Bildungsforschung.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Learning math in school: does interest really matter",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Schnabel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Lehrke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baumert, J., Schnabel, K., & Lehrke, M. (1998). Learning math in school: does interest really matter? In L. Hoffman, A. Krapp, K. A. Renninger, & J. Baumert (Eds.), Interest and learning (pp. 327e336) Kiel: IPN.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "KESS 7: Skalenhandbuch zur Dokumentation der Erhebungsinstrumente",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Bos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bonsen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Gr\u20ac Ohlich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Guill",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Scharenberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bos, W., Bonsen, M., Gr\u20ac ohlich, C., Guill, K., & Scharenberg, K. (2009). KESS 7: Ska- lenhandbuch zur Dokumentation der Erhebungsinstrumente [KESS 7: Documen- tation of the scales]. M\u00fcnster: Waxmann.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "The internal/external frame of reference model, big-fish-littlepond effect, and combined model for mathematics and science",
+                "authors": [
+                    {
+                        "first": "M.-S",
+                        "middle": [],
+                        "last": "Chiu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Educational Psychology",
+                "volume": "104",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0025734"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Chiu, M.-S. (2012). The internal/external frame of reference model, big-fish-little- pond effect, and combined model for mathematics and science. Journal of Educational Psychology, 104, 87e107. http://dx.doi.org/10.1037/a0025734.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Entwicklung schulischer Interessen im Jugendalter",
+                "authors": [
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Daniels",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Daniels, Z. (2008). Entwicklung schulischer Interessen im Jugendalter [Development of academic interests during adolescence]. M\u00fcnster: Waxmann.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "The \"What\" and \"Why\" of goal pursuits: human needs and the self-determination of behavior",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Deci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Psychological Inquiry",
+                "volume": "11",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/S15327965PLI1104_01"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Deci, E. L., & Ryan, R. M. (2000). The \"What\" and \"Why\" of goal pursuits: human needs and the self-determination of behavior. Psychological Inquiry, 11, 227e268. http://dx.doi.org/10.1207/S15327965PLI1104_01.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "I like to do it, I'm able, and I know I am: longitudinal couplings between domain-specific achievement, selfconcept, and interest",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J A"
+                        ],
+                        "last": "Denissen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Zarrett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Child Development",
+                "volume": "78",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/j.1467-8624.2007.01007.x"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Denissen, J. J. A., Zarrett, N. R., & Eccles, J. S. (2007). I like to do it, I'm able, and I know I am: longitudinal couplings between domain-specific achievement, self- concept, and interest. Child Development, 78, 430e447. http://dx.doi.org/ 10.1111/j.1467-8624.2007.01007.x.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Social comparison in the classroom: a review",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Dijkstra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kuyper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Van Der Werf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Buunk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Van Der Zee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Review of Educational Research",
+                "volume": "78",
+                "issue": "",
+                "pages": "828--879",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0034654308321210"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Dijkstra, P., Kuyper, H., van der Werf, G., Buunk, A. P., & van der Zee, Y. G. (2008). Social comparison in the classroom: a review. Review of Educational Research, 78, 828e879. http://dx.doi.org/10.3102/0034654308321210.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "The development and correlates of academic interest from childhood through adolescence",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Dotterer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mchale",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Crouter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Educational Psychology",
+                "volume": "101",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0013987"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Dotterer, A. M., McHale, S. M., & Crouter, A. C. (2009). The development and cor- relates of academic interest from childhood through adolescence. Journal of Educational Psychology, 101, 509e519. http://dx.doi.org/10.1037/a0013987.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Motivational beliefs, values, and goals",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Annual Review Psychology",
+                "volume": "53",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1146/annurev.psych.53.100901.135153"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Eccles, J. S., & Wigfield, A. (2002). Motivational beliefs, values, and goals. Annual Review Psychology, 53, 109e132. http://dx.doi.org/10.1146/annurev.psych .53.100901.135153.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hattie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hattie, J. (1992). Self-concept. Hillsdale, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Intrinsic and extrinsic motivation: The search for optimal motivation and performance (pp. 309e340)",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Hidi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hidi, S. (2000). An interest researcher's perspective: the effects of extrinsic and intrinsic factors on motivation. In C. Sansone, & J. M. Harackiewicz (Eds.), Intrinsic and extrinsic motivation: The search for optimal motivation and perfor- mance (pp. 309e340). San Diego: AP.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "The four-phase model of interest development",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Hidi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Renninger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Educational Psychologist",
+                "volume": "41",
+                "issue": "2",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1207/s15326985ep4102_4"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Hidi, S., & Renninger, K. A. (2006). The four-phase model of interest development. Educational Psychologist, 41(2), 111e127. http://dx.doi.org/10.1207/",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Promoting girls' interest and achievement in physics classes for beginners",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Hoffmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Learning and Instruction",
+                "volume": "12",
+                "issue": "01",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/S0959-4752(01)00010-X"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Hoffmann, L. (2002). Promoting girls' interest and achievement in physics classes for beginners. Learning and Instruction, 12, 447e465. http://dx.doi.org/10.1016/ S0959-4752(01)00010-X.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Structural equation modeling: guidelines for determining model fit",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Hooper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Coughlan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Mullen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Electronic Journal of Business Research Methods",
+                "volume": "6",
+                "issue": "1",
+                "pages": "53--60",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hooper, D., Coughlan, J., & Mullen, M. R. (2008). Structural equation modeling: guidelines for determining model fit. Electronic Journal of Business Research Methods, 6(1), 53e60.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Changes in children's self-competence and values: gender and domain differences across grades one through twelve",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lanza",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Osgood",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wigfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Child Development",
+                "volume": "73",
+                "issue": "2",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/1467-8624.00421"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Jacobs, J. E., Lanza, S., Osgood, D. W., Eccles, J. S., & Wigfield, A. (2002). Changes in children's self-competence and values: gender and domain differences across grades one through twelve. Child Development, 73(2), 509e527. http:// dx.doi.org/10.1111/1467-8624.00421.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Konsequenzen von Leistungsgruppierungen [Consequences of homogenous groups with regard to school performance",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "K\u20ac oller, O. (2004). Konsequenzen von Leistungsgruppierungen [Consequences of ho- mogenous groups with regard to school performance]. M\u00fcnster: Waxmann.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Frames of reference and course selection: Multiple frames of reference, academic interests, and coursework selection in upper secondary schools in Germany",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Daniels",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "K\u20ac oller, O., Daniels, Z., & Baumert, J. (April 2000). Frames of reference and course selection: Multiple frames of reference, academic interests, and coursework selection in upper secondary schools in Germany. Paper presented at the Annual Meeting of the American Educational Research Association, New Orleans.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Zum Zusammenspiel von schulischer Leistung, Selbstkonzept und Interesse in der gymnasialen Oberstufe [On the interplay of academic achievement, self-concept, and",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "K\u20ac oller, O., Trautwein, U., L\u00fcdtke, O., & Baumert, J. (2006). Zum Zusammenspiel von schulischer Leistung, Selbstkonzept und Interesse in der gymnasialen Oberstufe [On the interplay of academic achievement, self-concept, and interest in upper secondary schools].",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Interest and human development during adolescence: an educational-psychological approach",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Zeitschrift",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Krapp",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Motivational psychology of human development (pp. 109e128)",
+                "volume": "20",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Zeitschrift f\u00fcr P\u20ac adagogische Psychologie, 20, 27e39. Krapp, A. (2000). Interest and human development during adolescence: an educational-psychological approach. In J. Heckhausen (Ed.), Motivational psy- chology of human development (pp. 109e128). Amsterdam: Elsevier.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "An educational-psychological theory of interest and its relation to self-determination theory",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Krapp",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Krapp, A. (2002a). An educational-psychological theory of interest and its relation to self-determination theory. In E. L. Deci, & R. M. Ryan (Eds.), The handbook of self-determination research (pp. 405e427). Rochester: University of Rochester Press.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Structural and dynamic aspects of interest development: theoretical considerations from an ontogenetic perspective",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Krapp",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Learning and Instruction",
+                "volume": "12",
+                "issue": "",
+                "pages": "383--409",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Krapp, A. (2002b). Structural and dynamic aspects of interest development: theo- retical considerations from an ontogenetic perspective. Learning and Instruction, 12, 383e409.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "What adolescents need",
+                "authors": [
+                    {
+                        "first": "La",
+                        "middle": [],
+                        "last": "Guardia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Academic motivation of adolescents (pp. 193e219)",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "La Guardia, J. G., & Ryan, R. M. (2002). What adolescents need. In F. Pajares, & T. Urdan (Eds.), Academic motivation of adolescents (pp. 193e219). Greenwich, CN: IAP.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Verbal and math self-concepts: an internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/00028312023001129"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concepts: an internal/external frame of reference model. American Educational Research Journal, 23, 129e149. http:// dx.doi.org/10.3102/00028312023001129.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Big-fish-little-pond effect on academic selfconcept: a cross-cultural (26-country) test of the negative effects of academically selective schools",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "American Psychologist",
+                "volume": "58",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0003-066X.58.5.364"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hau, K. T. (2003). Big-fish-little-pond effect on academic self- concept: a cross-cultural (26-country) test of the negative effects of academi- cally selective schools. American Psychologist, 58, 364e376. http://dx.doi.org/ 10.1037/0003-066X.58.5.364.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "The big-fish-little-pond-effect stands up to critical scrutiny: implications for theory, methodology, and future research",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seaton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "O'mara",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Educational Psychology Review",
+                "volume": "20",
+                "issue": "",
+                "pages": "319--350",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/s10648-008-9075-6"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Seaton, M., Trautwein, U., L\u00fcdtke, O., Hau, K. T., O'Mara, A. J., et al. (2008). The big-fish-little-pond-effect stands up to critical scrutiny: implica- tions for theory, methodology, and future research. Educational Psychology Re- view, 20, 319e350. http://dx.doi.org/10.1007/s10648-008-9075-6.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Deutscher Mathematiktest f\u00fcr 5. Klassen (DEMAT 5\u00fe) [German test of mathematics for grade 5",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Marx",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Opitz-Karig",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marx, H., & Opitz-Karig, U. (2005). Deutscher Mathematiktest f\u00fcr 5. Klassen (DEMAT 5\u00fe) [German test of mathematics for grade 5]. Unver\u20ac offentlicht: Universit\u20ac at Leipzig.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Der Stolperw\u20ac orter-Lesetest",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Metze",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Metze, W. (2003). Der Stolperw\u20ac orter-Lesetest. Retrieved 29.10.2012, from http:// www.wilfriedmetze.de/html/stolper.html.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Achievement differences and self-concept differences: stronger associations for above or below average students?",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W. ; J"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "120",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1348/000709909X485234"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., & Marsh, H. W. (2013). Dimensional comparison theory. Psychological Review, 120, 544e560. http://dx.doi.org/10.1037/a0032459. M\u20ac oller, J., & Pohlmann, B. (2010). Achievement differences and self-concept dif- ferences: stronger associations for above or below average students? British Journal of Educational Psychology, 80, 435e450. http://dx.doi.org/10.1348/ 000709909X485234.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Review of Educational Research",
+                "volume": "79",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0034654309337522"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., Pohlmann, B., K\u20ac oller, O., & Marsh, H. W. (2009). A meta-analytic path analysis of the internal/external frame of reference model of academic achievement and academic self-concept. Review of Educational Research, 79, 1129e1167. http://dx.doi.org/10.3102/0034654309337522.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "The reciprocal internal/ external frame of reference model: an integration of models of relations between academic achievement and self-concept",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "American Educational Research Journal",
+                "volume": "48",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.3102/0002831211419649"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u20ac oller, J., Retelsdorf, J., K\u20ac oller, O., & Marsh, H. W. (2011). The reciprocal internal/ external frame of reference model: an integration of models of relations be- tween academic achievement and self-concept. American Educational Research Journal, 48, 1315e1346. http://dx.doi.org/10.3102/0002831211419649.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Mplus user's guide",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Muth En",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Muth En",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth en, L. K., & Muth en, B. (1998e2010). Mplus user's guide (6th ed.). Los Angeles, CA: Muth en & Muth en.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Big fish in little ponds aspire more: mediation and cross-cultural generalizability of school-average ability effects on selfconcept and career aspirations in science",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nagengast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Educational Psychology",
+                "volume": "104",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/a0027697"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Nagengast, B., & Marsh, H. W. (2012). Big fish in little ponds aspire more: mediation and cross-cultural generalizability of school-average ability effects on self- concept and career aspirations in science. Journal of Educational Psychology, 104, 1033e1053. http://dx.doi.org/10.1037/a0027697.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Metakognition und Leistung: Eine L\u20ac angsschnittuntersuchung in den Bereichen Lesen und Englisch bei Sch\u00fclerinnen und Sch\u00fclern der f\u00fcnften und sechsten Jahrgangsstufe",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Neuenhaus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Neuenhaus, N. (2011). Metakognition und Leistung: Eine L\u20ac angsschnittuntersuchung in den Bereichen Lesen und Englisch bei Sch\u00fclerinnen und Sch\u00fclern der f\u00fcnften und sechsten Jahrgangsstufe [Metacognition and achievement]. Bamberg: Opus.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Differential school contextual effects of math and English: Integrating the big-fish-little-pond effect and the internal/external frame of reference. Learning and Instruction",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "23",
+                "issue": "",
+                "pages": "78--89",
+                "other_ids": {
+                    "DOI": [
+                        "10.1016/j.learninstruc.2012.07.001"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Parker, P. D., Marsh, H. W., L\u00fcdtke, O., & Trautwein, U. (2013). Differential school contextual effects of math and English: Integrating the big-fish-little-pond ef- fect and the internal/external frame of reference. Learning and Instruction, 23, 78e89. http://dx.doi.org/10.1016/j.learninstruc.2012.07.001.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Konsequenzen dimensionaler Vergleiche",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pohlmann, B. (2005). Konsequenzen dimensionaler Vergleiche [Consequences of dimensional comparisons]. M\u00fcnster: Waxmann.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "On the effects of motivation on reading performance growth in secondary school",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Retelsdorf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Oller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Learning and Instruction",
+                "volume": "21",
+                "issue": "",
+                "pages": "550--559",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Retelsdorf, J., K\u20ac oller, O., & M\u20ac oller, J. (2011). On the effects of motivation on reading performance growth in secondary school. Learning and Instruction, 21, 550e559.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Handbook of motivation at school (pp. 197e222)",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schiefele",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schiefele, U. (2009). Situational and individual interest. In K. R. Wentzel, & A. Wigfield (Eds.), Handbook of motivation at school (pp. 197e222). New York: Taylor and Francis.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Dimensions of math and verbal self-concept and the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "The self in European and north American culture: Development and processes (pp. 219e238)",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1995). Dimensions of math and verbal self-concept and the internal/external frame of reference model. In A. Oosterwegel, & R. A. Wicklung (Eds.), The self in European and north American culture: Devel- opment and processes (pp. 219e238). Dordrecht: Kluwer Academic Publishers.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Development of interests",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Todt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Schreiber",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Interest and learning: Proceedings of the Seeon conference on interest and gender (pp. 25e40). Kiel: Institute for Science Education at the University of Kiel (IPN)",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Todt, E., & Schreiber, S. (1998). Development of interests. In L. Hoffmann, A. Krapp, K. A. Renninger, & J. Baumert (Eds.), Interest and learning: Proceedings of the Seeon conference on interest and gender (pp. 25e40). Kiel: Institute for Science Education at the University of Kiel (IPN).",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Tracking, grading, and student motivation: using group composition and status to predict self-concept and interest in ninth grade mathematics",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u20ac Oller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Educational Psychology",
+                "volume": "98",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1037/0022-0663.98.4.788"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Trautwein, U., L\u00fcdtke, O., Marsh, H. W., K\u20ac oller, O., & Baumert, J. (2006). Tracking, grading, and student motivation: using group composition and status to predict self-concept and interest in ninth grade mathematics. Journal of Educational Psychology, 98, 788e806. http://dx.doi.org/10.1037/0022-0663.98.4.788.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "(b context \u00bc b L2 \u00c0 b L1 ) using the model constraint option. The resulting context effect represents the Level 2 effect of achievement on the outcome variable controlling for Level 1 differences (c.f. Nagengast & Marsh, 2012).",
+                "uris": null
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "Descriptive statistics.",
+                "type_str": "table",
+                "content": "<table><tr><td>Secondary school</td><td>M</td><td>SD</td><td>Min</td><td>Max</td><td>ICC</td></tr><tr><td>Mathematical competence G5</td><td>22.11</td><td>8.02</td><td>0</td><td>44</td><td>.504</td></tr><tr><td>English competence G5</td><td>19.84</td><td>7.98</td><td>0</td><td>35</td><td>.451</td></tr><tr><td>Grade mathematics G6</td><td>4.06</td><td>1.00</td><td>1</td><td>6</td><td>.045</td></tr><tr><td>Grade English G6</td><td>4.09</td><td>.98</td><td>1</td><td>6</td><td>.052</td></tr><tr><td>Self-concept mathematics G6</td><td>3.28</td><td>1.09</td><td>1</td><td>5</td><td>.030</td></tr><tr><td>Self-concept English G6</td><td>3.60</td><td>.97</td><td>1</td><td>5</td><td>.040</td></tr><tr><td>Subject-interest mathematics G6</td><td>2.86</td><td>1.05</td><td>1</td><td>5</td><td>.102</td></tr><tr><td>Subject-interest English G6</td><td>3.33</td><td>1.06</td><td>1</td><td>5</td><td>.053</td></tr></table>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Bivariate correlations.",
+                "type_str": "table",
+                "content": "<table><tr><td>Measures</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>1. Mathematical competence G5</td><td>e</td><td/><td/><td/><td/><td/><td/></tr><tr><td>2. English competence G5</td><td colspan=\"2\">.56* e</td><td/><td/><td/><td/><td/></tr><tr><td>3. Grade mathematics G6</td><td>.42*</td><td colspan=\"2\">.16* e</td><td/><td/><td/><td/></tr><tr><td>4. Grade English G6</td><td>.29*</td><td>.31*</td><td/><td>.41* e</td><td/><td/><td/></tr><tr><td>5. Self-concept mathematics G6</td><td colspan=\"2\">.25* \u00c0.09*</td><td/><td colspan=\"2\">.44* .04 e</td><td/><td/></tr><tr><td>6. Self-concept English G6</td><td>.10*</td><td>.22*</td><td/><td colspan=\"3\">.04 .46* .05 e</td><td/></tr><tr><td>7. Subject-interest mathematics G6</td><td colspan=\"2\">.06* \u00c0.14*</td><td/><td colspan=\"4\">.22* .04 .61* .02 e</td></tr><tr><td>8. Subject-interest English G6</td><td>\u00c0.004</td><td colspan=\"6\">.10* \u00c0.02 .29* .04 .66* .24*</td></tr><tr><td colspan=\"8\">Notes. All statistics are average results over 5 imputed datasets (N \u00bc 1390).</td></tr><tr><td>G \u00bc Grade.</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>*p &lt; .05.</td><td/><td/><td/><td/><td/><td/><td/></tr></table>"
+            }
+        }
+    }
+}

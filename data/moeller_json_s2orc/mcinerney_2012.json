@@ -1,0 +1,2523 @@
+{
+    "paper_id": "mcinerney_2012",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:57:00.672040Z"
+    },
+    "title": "Academic Self-Concept and Learning Strategies: Direction of Effect on Student Academic Achievement",
+    "authors": [
+        {
+            "first": "Dennis",
+            "middle": [
+                "M"
+            ],
+            "last": "Mcinerney",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "The Hong Kong Institute of Education",
+                "location": {
+                    "settlement": "Tai Po"
+                }
+            },
+            "email": "dennismm@ied.edu.hk"
+        },
+        {
+            "first": "Rebecca",
+            "middle": [],
+            "last": "Wing-Yi Cheng",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "The Hong Kong Institute of Education",
+                "location": {
+                    "settlement": "Tai Po"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Magdalena",
+            "middle": [],
+            "last": "Mo",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Ching",
+            "middle": [],
+            "last": "Mok",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "The Hong Kong Institute of Education",
+                "location": {
+                    "settlement": "Tai Po"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Amy",
+            "middle": [],
+            "last": "Kwok",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Hap",
+            "middle": [],
+            "last": "Lam",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "The Hong Kong Institute of Education",
+                "location": {
+                    "settlement": "Tai Po"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This study examined the prediction of academic self-concept (English and Mathematics) and learning strategies (deep and surface), and their direction of effect, on academic achievement (English and Mathematics) of 8,354 students from 16 secondary schools in Hong Kong. Two competing models were tested to ascertain the direction of effect: Model A posited the effect of academic self-concept on learning strategies, whereas Model B posited the effect of learning strategies on academic self-concept. Structural equation modeling indicated that the data fit both models adequately, although Model B was found to have more applied heuristic value for practitioners than Model A because intervention is easier for learning strategies than self-concept. Further investigation also supported the reciprocal relationship between academic self-concept and academic achievement. The findings suggest that academic selfconcept, learning strategies, and academic achievement have reciprocal relationships with each other. Keywords academic self-concept, learning strategies, academic achievement, direction of effect Identification of strategies to enhance student academic achievement has continued to be a prominent concern internationally over the past decades. Research reveals that students usually worry about their academic achievement and educational future, and",
+    "pdf_parse": {
+        "paper_id": "mcinerney_2012",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "This study examined the prediction of academic self-concept (English and Mathematics) and learning strategies (deep and surface), and their direction of effect, on academic achievement (English and Mathematics) of 8,354 students from 16 secondary schools in Hong Kong. Two competing models were tested to ascertain the direction of effect: Model A posited the effect of academic self-concept on learning strategies, whereas Model B posited the effect of learning strategies on academic self-concept. Structural equation modeling indicated that the data fit both models adequately, although Model B was found to have more applied heuristic value for practitioners than Model A because intervention is easier for learning strategies than self-concept. Further investigation also supported the reciprocal relationship between academic self-concept and academic achievement. The findings suggest that academic selfconcept, learning strategies, and academic achievement have reciprocal relationships with each other. Keywords academic self-concept, learning strategies, academic achievement, direction of effect Identification of strategies to enhance student academic achievement has continued to be a prominent concern internationally over the past decades. Research reveals that students usually worry about their academic achievement and educational future, and",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "anxiety comes from problems in learning and school demands, which include time management for study, fear of failure in examinations, and poor grades (Christie & MacMullin, 1998; Hui, 2001; Kong, Westwood, & Yuen, 2006) . In response to the need to attain academic excellence, the purpose of this study was to investigate the relationships between academic self-concept and learning strategies, and their predictions with respect to academic achievement. There is ample international research evidence that students' academic achievement is positively affected by their high selfconcept and effective learning strategies. These positive factors are important variables that enhance effective learning, facilitating the realization of full human potential (Pintrich, Marx, & Boyle, 1993) .",
+                "cite_spans": [
+                    {
+                        "start": 150,
+                        "end": 178,
+                        "text": "(Christie & MacMullin, 1998;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 179,
+                        "end": 189,
+                        "text": "Hui, 2001;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 190,
+                        "end": 219,
+                        "text": "Kong, Westwood, & Yuen, 2006)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 755,
+                        "end": 786,
+                        "text": "(Pintrich, Marx, & Boyle, 1993)",
+                        "ref_id": "BIBREF38"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Self-concept is the way in which people perceive their strengths, weaknesses, abilities, attitudes, and values. It is one of the most important psychological constructs in the behavioral sciences . According to Willims (2003) , selfconcept serves as an important factor that influences economic success, and long-term health and well-being. The desire to feel positively about oneself and the benefits of this feeling on choice, planning, persistence, and subsequent accomplishments are also well documented through research (Marsh, Craven, & McInerney, 2003 McInerney, Marsh, & Craven, 2008) . Although research evidence suggests the importance of a positive self-concept to achievement, many educational policy statements also emphasize self-concept enhancement as a central goal of education, and emphasize self-concept as an important mediating factor that facilitates the attainment of other desirable learning, psychological, and behavioral outcomes (Craven, Marsh, & Burnett, 2003; Marsh, Koller, & Baumert, 2001) .",
+                "cite_spans": [
+                    {
+                        "start": 211,
+                        "end": 225,
+                        "text": "Willims (2003)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 525,
+                        "end": 558,
+                        "text": "(Marsh, Craven, & McInerney, 2003",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 559,
+                        "end": 592,
+                        "text": "McInerney, Marsh, & Craven, 2008)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 956,
+                        "end": 988,
+                        "text": "(Craven, Marsh, & Burnett, 2003;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 989,
+                        "end": 1020,
+                        "text": "Marsh, Koller, & Baumert, 2001)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic Self-Concept and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Self-concept is a domain-specific construct according to the multidimensional, hierarchical model of self-concept (Marsh, 1990; Shavelson, Hubner, & Stanton, 1976) . In this model, global self-concept is at the apex of the hierarchy and it is divided into academic and nonacademic components. The academic component is divided into self-concepts specific to school subjects, including English and Mathematics, whereas the nonacademic component is divided into physical, social, and emotional components. It is suggested that specific components of self-concept should have more predictive power on outcomes in specific domains than a single, global component of self-concept. Research in education indicates that academic achievement is more correlated with academic self-concept than global self-concept, and that achievement in specific domains should be correlated with the corresponding specific domains of selfconcept Seaton, Marsh, & Craven, 2010) . Following this line of thought, in this study, particular attention has been given to how students perceive their abilities in English and Mathematics, and how the two variables predicted achievement in English and Mathematics, respectively. English and Mathematics were chosen as the target subjects for two reasons. First, these two subjects were usually the focus of investigation in previous studies, and the English/Mathematics self-concept scales have been well established with good reliability and validity (Byrne, 1988; Marsh, 1992; Marsh & O'Neill, 1984) . Second, English and Mathematics are major subjects in Hong Kong and mastery of these two subjects usually requires the use of different learning strategies. Although self-concept is found to predict positive achievement outcomes, recent research has shown the reciprocal relationship between academic self-concept and academic achievement (Guay, Marsh, & Boivin, 2003; .",
+                "cite_spans": [
+                    {
+                        "start": 114,
+                        "end": 127,
+                        "text": "(Marsh, 1990;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 128,
+                        "end": 163,
+                        "text": "Shavelson, Hubner, & Stanton, 1976)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 923,
+                        "end": 953,
+                        "text": "Seaton, Marsh, & Craven, 2010)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 1471,
+                        "end": 1484,
+                        "text": "(Byrne, 1988;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1485,
+                        "end": 1497,
+                        "text": "Marsh, 1992;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1498,
+                        "end": 1520,
+                        "text": "Marsh & O'Neill, 1984)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1862,
+                        "end": 1891,
+                        "text": "(Guay, Marsh, & Boivin, 2003;",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Academic Self-Concept and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "Theorists believe that self-concept is formed through social interaction and social comparison (O'Mara, Marsh, Craven, & Debus, 2006) . Social frames of reference indicate to us what our capacities and qualities are under particular circumstances. For example, on an objective criterion, some individuals may be quite good at Mathematics, yet when they use others who are superior at Mathematics as a frame of reference they may develop a relatively negative Mathematics self-concept (e.g., see Marsh & Craven, 1997; Marsh, Walker, & Debus, 1991) . This is sometimes referred to as an external frame of reference. Furthermore, according to Marsh, we tend to compare our self-perceived skills in one area (such as Mathematics) with our selfperceived skills in another (such as English) and use this internal, relativistic impression as a second basis for arriving at our self-concept in particular areas (Dickh\u00e4user, Reuter, & Hilling, 2005; Marsh & Hau, 2004; Skaalvik & Skaalvik, 2002) . This is sometimes referred to as an internal frame of reference. Hence, individuals who are good at Mathematics and English may, nevertheless, have a more negative selfconcept in Mathematics if they perceive that they are better at English and vice versa. Marsh (Marsh & Craven, 1997; see also M\u00f6ller, Streblow, Pohlmann, & Koller, 2006; Skaalvik & Skaalvik, 2002) has called the combined effect the internal-external frame-of-reference effect. This effect seems to be universal among students from a wide range of cultures (Marsh & Hau, 2004) . For purposes of this study, we will examine the internal/external frame-of-reference effect.",
+                "cite_spans": [
+                    {
+                        "start": 95,
+                        "end": 133,
+                        "text": "(O'Mara, Marsh, Craven, & Debus, 2006)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 495,
+                        "end": 516,
+                        "text": "Marsh & Craven, 1997;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 517,
+                        "end": 546,
+                        "text": "Marsh, Walker, & Debus, 1991)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 903,
+                        "end": 940,
+                        "text": "(Dickh\u00e4user, Reuter, & Hilling, 2005;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 941,
+                        "end": 959,
+                        "text": "Marsh & Hau, 2004;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 960,
+                        "end": 986,
+                        "text": "Skaalvik & Skaalvik, 2002)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1251,
+                        "end": 1273,
+                        "text": "(Marsh & Craven, 1997;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1274,
+                        "end": 1326,
+                        "text": "see also M\u00f6ller, Streblow, Pohlmann, & Koller, 2006;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1327,
+                        "end": 1353,
+                        "text": "Skaalvik & Skaalvik, 2002)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1513,
+                        "end": 1532,
+                        "text": "(Marsh & Hau, 2004)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Internal/External Frame-of-Reference Effect",
+                "sec_num": null
+            },
+            {
+                "text": "Apart from academic self-concept, effective learning strategies also play a critical part in students' academic achievement. Research has shown that the learning strategies a student adopts for learning an academic task influence the quality of learning outcomes achieved (Covington, 2000; Watkins, McInerney, Akande, & Lee, 2003; Watkins, McInerney, Lee, Akande, & Regmi, 2002) . Learning strategies describe the ways in which students engage in the learning tasks. Using Biggs's (1987) framework, there are two types of strategies that students may adopt: deep and surface (Kember, Biggs, & Leung, 2004; Kember & Watkins, 2010) . Students who adopt deep strategies engage actively in learning the study materials. They try to understand the key concepts and the underlying meaning of the materials, and relate new learning with previous relevant knowledge and personal experiences. They are interested in the tasks and would like to achieve thorough mastery of the knowledge. Alternatively, students who adopt surface strategies pay attention to bare essentials through rote learning, without devoting effort to reach understanding. They do not attempt to organize the learning materials or relate them to personal experiences. Their goal of studying is simply to fulfill situational demands such as getting the assignments done and the courses passed. In general, deep learning strategies enable students to organize new information, relate ideas, and monitor their understanding of learning materials and, therefore, perform better on academic tasks. For students who only aim to pass, surface strategies may allow them to survive in the tests and examinations with minimal effort, but low-quality learning may result with subsequent detriments to future academic achievement.",
+                "cite_spans": [
+                    {
+                        "start": 272,
+                        "end": 289,
+                        "text": "(Covington, 2000;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 290,
+                        "end": 330,
+                        "text": "Watkins, McInerney, Akande, & Lee, 2003;",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 331,
+                        "end": 378,
+                        "text": "Watkins, McInerney, Lee, Akande, & Regmi, 2002)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 473,
+                        "end": 487,
+                        "text": "Biggs's (1987)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 575,
+                        "end": 605,
+                        "text": "(Kember, Biggs, & Leung, 2004;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 606,
+                        "end": 629,
+                        "text": "Kember & Watkins, 2010)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Learning Strategies and Academic Achievement",
+                "sec_num": null
+            },
+            {
+                "text": "The education system in Hong Kong is highly achievement segregated (Lo et al., 1997) where students study in competitive environments and they focus highly on academic excellence. Given the importance to excel in academic achievement in Hong Kong, investigation on the means to achieve academically is very important. In the Hong Kong school context, therefore, the relationships between academic selfconcept and learning strategies need to be explored, and their direct and indirect effects on students' achievement also need to be clarified. From one perspective, students who have higher self-concept are more likely to engage in academic tasks, regulate their learning, and engage in effective learning strategies to enhance academic achievement. From another perspective, students who are deep learners are more likely to have enhanced self-concepts thereby enhancing academic achievement. To this end, the present study aims to examine the relative effects of academic selfconcept and learning strategies as well as the direction of effect in predicting academic achievement of Hong Kong secondary school students. Understanding their direction of effect on achievement is important theoretically and practically. From the theoretical perspective, it enriches our literature on the conceptual relationships among the variables that predict achievement; and from the practical perspective, it provides important insights for educators on the instructional approaches to enhance student achievement.",
+                "cite_spans": [
+                    {
+                        "start": 67,
+                        "end": 84,
+                        "text": "(Lo et al., 1997)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Present Investigation",
+                "sec_num": null
+            },
+            {
+                "text": "This study utilizes academic self-concept scales drawn from the Academic Self Description Questionnaire (ASDQ; Marsh, 1992) and the deep and surface learning strategies scales drawn from the Learning Process Questionnaire (LPQ; Biggs, 1987) . As indicated above, academic self-concept and learning strategies are implicated in the enhanced achievement of students. What is not clear is whether these act independently and directly to enhance achievement, or whether there are meditational roles at play; and in this latter case, whether the prediction of academic self-concept on achievement is mediated through learning strategies, or conversely, whether the prediction of learning strategies on achievement is mediated through academic self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 111,
+                        "end": 123,
+                        "text": "Marsh, 1992)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 228,
+                        "end": 240,
+                        "text": "Biggs, 1987)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Present Investigation",
+                "sec_num": null
+            },
+            {
+                "text": "Both theoretical positions are tenable, and both can be argued on theoretical and empirical grounds. The major focus of this article is to examine two competing models to ascertain the likely direction of effect (see MacCallum, Wegener, Uchino, & Fabrigar, 1993) . Model A proposes that academic self-concept (English and Mathematics) has direct and indirect effects on academic achievement (English and Mathematics) mediated through learning strategies (deep and surface). Model B proposes that learning strategies have direct and indirect effects on academic achievement mediated through academic self-concept. Figure 1 depicts the proposed relationships among variables in Models A and B. Although not the major focus of this study, we also examined the reciprocal relationship between academic self-concept and academic achievement based on the framework of the internal/external frame-of-reference model. Figure 2 illustrates the model that depicts the prediction of academic achievement on academic self-concept.",
+                "cite_spans": [
+                    {
+                        "start": 217,
+                        "end": 262,
+                        "text": "MacCallum, Wegener, Uchino, & Fabrigar, 1993)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 613,
+                        "end": 621,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 910,
+                        "end": 918,
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Present Investigation",
+                "sec_num": null
+            },
+            {
+                "text": "The data of this study were drawn from a project titled, \"Optimizing the Potential of Hong Kong Students: Harnessing the Interaction Between Psychological Variables and Student Achievement.\" Table 1 presents the demographic information of participants. Participants were 8,354 students (4,358 boys; 3,702 girls; and 294 unreported) with a mean age of 13.56; 31.7% of them were in Secondary 1 (Year 7), 33.7% in Secondary 2 (Year 8), and 34.6% in Secondary 3 (Year 9). Students were drawn from 16 secondary schools in 228 classes across Hong Kong. Class size ranged from 21 to 45. The sample was representative of secondary school students in terms of geographical location (including schools in Hong Kong Island, Kowloon, and New Territories where the former two regions are considered as more urbanized than the latter region), types of school (including government schools, aided schools, and schools with direct subsidy scheme), and academic standards (schools are streamed into three bands representing different levels of achievement).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 191,
+                        "end": 198,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Method Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Students were invited to complete a paper-and-pencil survey on academic selfconcept and learning strategies. Both instruments were administered in Chinese after careful attention was given to translation through the appropriate and recommended procedures. The English version of the survey items was translated to Chinese by a trained research assistant and then back translated to English by another trained research assistant. The two English versions of the items were cross-checked by the authors to make sure the items were consistent in meanings. Students were given the option of completing the survey in Chinese or English. In all, 10 students chose to complete the survey in English. Apart from the survey, students were also required to complete a standardized achievement test on English and Mathematics. Each achievement test took 30 minutes to complete. Students completed the English achievement test in English at all schools. Students had the choice of completing the Mathematics achievement test in Chinese or English. Ten students chose to complete the achievement test in English.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "The survey and standardized achievement tests were group administered by the teachers in classrooms on normal school days. It was within the discretion of individual schools to administer the survey and achievement tests on the same day or different days, but all the schools were required to complete the whole set of tasks according to the schedule set by the research team. To ensure accuracy in data entry, all the student responses were scanned by scanning machine for subsequent data analysis. Informed consent was obtained from all the participating schools, parents, and students. All the parties were given sufficient information of the project, including the purpose of the research and the tasks students were required to complete. Students were assured that all information provided by them would be kept confidential and would be used for research purposes only. No ethical problems were raised by any parties during the study.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Academic self-concept. To operationalize English and Mathematics self-concept, items were chosen from the ASDQ (Marsh, 1992) which measures how students perceive their academic capabilities. English self-concept was measured with five items. Sample items include \"I am good at English\" and \"I learn things easily in English.\" Mathematics self-concept was measured with another five items. Sample items include \"I am good at Mathematics\" and \"I learn things quickly in Mathematics.\" All the items were scored on a 4-point Likert-type scale ranging from 1 (strongly disagree) to 4 (strongly agree). A higher score indicated a higher self-concept. Previous research has demonstrated the strong psychometric properties of the scales, including high internal reliability, equivalent factorial validity across ability, and convergent and discriminant validity as measured by their correlations with external criteria and selfother agreement (Byrne, 1988; Marsh, 1992; Marsh & O'Neill, 1984) . The Cronbach's alpha of English and Mathematics self-concept scales in the current sample were .94 and .96, respectively, indicating high internal reliabilities.",
+                "cite_spans": [
+                    {
+                        "start": 111,
+                        "end": 124,
+                        "text": "(Marsh, 1992)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 935,
+                        "end": 948,
+                        "text": "(Byrne, 1988;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 949,
+                        "end": 961,
+                        "text": "Marsh, 1992;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 962,
+                        "end": 984,
+                        "text": "Marsh & O'Neill, 1984)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Learning strategies. To operationalize learning strategies, items were chosen from the LPQ (Biggs, 1987) . Two scales were chosen from LPQ (i.e., deep and surface learning strategies). Deep learning strategies represent comprehensive understanding of learning materials through organization of new information, extensive reading, discussion, reflection, and application. They were measured with five items. Sample items include \"When I study, I always think of related things to help my understanding\" and \"I always think of how to apply my knowledge into my daily life.\" Surface learning strategies refer to rote learning or memorization without in-depth involvement with the task. They were measured with five items. Sample items include \"I find that the best way to learn many subjects is to memorize them by heart\" and \"I think it is better to focus on learning facts and details about a topic rather than try to understand all about it.\" All the items were scored on a 4-point Likert-type scale ranging from 1 (strongly disagree) to 4 (strongly agree). A higher score indicated a higher endorsement of the learning strategies. Previous research has provided validation of the scales, supporting the two-factor (i.e., deep and surface) solution as the most parsimonious (Kember & Leung, 1998; Wong, Lin, & Watkins, 1996) . The Cronbach's alpha of the scales of deep and surface learning strategies in the current sample were .83 and .65, respectively, indicating good and satisfactory internal reliabilities. The surface learning strategies scale has traditionally low reliability (e.g., \u03b1 ranged from .51 to .55 in Biggs, 1987, and was .51 in Chan, Lai, Leung, & Moore, 2005) . The reliability of .65 found in the current sample is comparable with previous research (Kember et al., 2004) . According to Hair, Anderson, Tatham, and Black (1998) , internal reliability with .65 is considered acceptable.",
+                "cite_spans": [
+                    {
+                        "start": 91,
+                        "end": 104,
+                        "text": "(Biggs, 1987)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1274,
+                        "end": 1296,
+                        "text": "(Kember & Leung, 1998;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1297,
+                        "end": 1324,
+                        "text": "Wong, Lin, & Watkins, 1996)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1620,
+                        "end": 1636,
+                        "text": "Biggs, 1987, and",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1637,
+                        "end": 1667,
+                        "text": "was .51 in Chan, Lai, Leung, &",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1668,
+                        "end": 1680,
+                        "text": "Moore, 2005)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1771,
+                        "end": 1792,
+                        "text": "(Kember et al., 2004)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1808,
+                        "end": 1848,
+                        "text": "Hair, Anderson, Tatham, and Black (1998)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Academic achievement. Standardized achievement tests were used to assess students' academic achievement in English and Mathematics. The English achievement of students was assessed by the English Language Ability Calibrated (ELAC) Scale developed by A. Y. P. Lee (2009) . This achievement test was administered in English. The scale has been calibrated using Rasch measurement model with a sample of more than 15,000 students between Primary 1 and Secondary 3 in Hong Kong (Bond & Fox, 2007; Wright & Masters, 1982) . The Mathematics achievement of students was assessed by the Mathematics Vertical Scale developed by Lau, Mok, and Yan (2009) .",
+                "cite_spans": [
+                    {
+                        "start": 259,
+                        "end": 269,
+                        "text": "Lee (2009)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 473,
+                        "end": 491,
+                        "text": "(Bond & Fox, 2007;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 492,
+                        "end": 515,
+                        "text": "Wright & Masters, 1982)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 618,
+                        "end": 642,
+                        "text": "Lau, Mok, and Yan (2009)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "The scale is also calibrated using Rasch measurement method (Bond & Fox, 2007; Wright & Masters, 1982) and validated with a representative sample size of more than 9,300 students (more than 5,700 primary students and more than 3,600 secondary students) between Primary 2 and Secondary 4 in Hong Kong. The Mathematics achievement test was administered in either Chinese or English depending on school choice. The vast majority chose the Chinese version.",
+                "cite_spans": [
+                    {
+                        "start": 60,
+                        "end": 78,
+                        "text": "(Bond & Fox, 2007;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 79,
+                        "end": 102,
+                        "text": "Wright & Masters, 1982)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "The present study offers an evidence-based model to disentangle the direction of effect of academic self-concept and learning strategies in predicting the academic achievement of Hong Kong secondary school students. The direction of effect was investigated by comparing two competing models (Models A and B) delineating the possible relationships between academic self-concept and learning strategies. The analysis of these proposed models followed a two-step procedure. First, confirmatory factor analysis (CFA) was used to evaluate factor structures to confirm the construct validity of the scales. Second, the factor analysis model was generalized to structural equation models (SEMs) by incorporating a linear structural equation to assess the effects of independent (exogenous) latent variables to dependent (endogenous) latent variables (Bentler, 1983; Bollen, 1989 ; S. Lee, 2007) . The factor structures of the academic self-concept and learning strategies scales and the hypothesized relationships between students' academic achievement, academic self-concept, and learning strategies were examined using Mplus 6.12 (Muth\u00e9n & Muth\u00e9n, 1998 -2011 based on full information maximum likelihood (FIML) estimation. Conventional indices were used to evaluate model fit: \u03c7 2 goodness-of-fit test, root mean square error of approximation (RMSEA), comparative fit index (CFI), and standardized root mean square residual (SRMR). Furthermore, Akaike information criterion (AIC) and Bayesian information criterion (BIC) were used to help compare models (Loehlin, 2004) . Small values on AIC and BIC suggest better models in terms of model fit and parsimony. In addition, AIC difference (\u0394AIC or \u0394 i ), a measure of a less plausible fitted model relative to the best model, was calculated to examine whether the models were essentially equivalent with each other. Simply put, \u0394 i equals to AIC i minus AIC best model , where AIC i is the AIC value of model i and AIC best model is the AIC value of the best model. As a rule of thumb, \u0394 i lying between 0 and 2 suggests substantial evidence to support the equivalency of the models, values between 3 and 7 indicate that the less plausible fitted model has considerably less support, and values higher than 10 indicate that this model is very unlikely (Burnham & Anderson, 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 843,
+                        "end": 858,
+                        "text": "(Bentler, 1983;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 859,
+                        "end": 871,
+                        "text": "Bollen, 1989",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 877,
+                        "end": 887,
+                        "text": "Lee, 2007)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1125,
+                        "end": 1147,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 1998",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1148,
+                        "end": 1153,
+                        "text": "-2011",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1549,
+                        "end": 1564,
+                        "text": "(Loehlin, 2004)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 2295,
+                        "end": 2321,
+                        "text": "(Burnham & Anderson, 2002)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "CFA was conducted to examine the construct validity of the psychological scales. CFA was conducted based on a full measurement model comprising four interrelated latent variables representing the two academic self-concepts (i.e., English and Mathematics) and the two learning strategies (i.e., deep and surface), where an a priori factor structure was posited and uniqueness terms associated with different items were uncorrelated. The CFA results indicated an adequate fit to the data, which generally supported the proposed factor structure, \u03c7 2 (164, N = 8354) = 7,550.677; p < .001; RMSEA = .075; CFI = .931; SRMR = .063. Table 2 presents the factor loadings of all items in academic self-concept and learning strategies scales. The results supported the construct validity of academic self-concept and learning strategies scales for use with the current sample. Table 3 presents the means, standard deviations (SD), and bivariate correlations of academic self-concept (English and Mathematics), learning strategies (deep and surface), .50 Surf 4",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 626,
+                        "end": 633,
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 867,
+                        "end": 874,
+                        "text": "Table 3",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "CFA",
+                "sec_num": null
+            },
+            {
+                "text": ".43 Surf 5",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Descriptive Statistics and Bivariate Correlations",
+                "sec_num": null
+            },
+            {
+                "text": ".65",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Descriptive Statistics and Bivariate Correlations",
+                "sec_num": null
+            },
+            {
+                "text": "Note: CFA = confirmatory factor analysis; EngSC = English self-concept; MathSC = Mathematics self-concept; Deep = deep learning strategies; Surf = surface learning strategies. All coefficients were completely standardized and were statistically significant (p < .05).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Descriptive Statistics and Bivariate Correlations",
+                "sec_num": null
+            },
+            {
+                "text": "and academic achievement (English and Mathematics). English self-concept was positively correlated with English achievement (r = .28, p < .01) and to a weaker extent, Mathematics achievement (r = .12, p < .01); whereas Mathematics self-concept was positively correlated only with Mathematics achievement (r = .32, p < .01). These results support the domain specificity of self-concept in which self-concept is more strongly correlated to achievement in related than in unrelated domains. Despite the positive correlation between deep and surface learning strategies (r = .24, p < .01), their correlations with academic self-concept and achievement were in contrast. Deep learning strategies were positively correlated with English self-concept (r = .26, p < .01) and Mathematics self-concept (r = .23, p < .01). By contrast, surface learning strategies were negatively correlated with English achievement (r = \u2212.11, p < .01) and Mathematics achievement (r = \u2212.16, p < .01).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Descriptive Statistics and Bivariate Correlations",
+                "sec_num": null
+            },
+            {
+                "text": "SEM was used to examine the relationships among academic self-concept, learning strategies, and academic achievement. We proposed two models (Models A and B) to study the direction of effect. Model A proposed the effect of academic self-concept on learning strategies, whereas Model B proposed the effect of learning strategies on academic self-concept. Results suggested that the data fit both models adequately. Model B over Model A. Despite this, the significant relationships among variables shown in both models support the reciprocal relationship between academic selfconcept and learning strategies in predicting academic achievement. As shown in Figure 3 , we found a similar pattern in the relationships between academic self-concept and learning strategies in predicting academic achievement. In both models, academic self-concept was positively associated with academic achievement in the related subjects, meaning that English self-concept was positively associated with English achievement and Mathematics self-concept was positively associated with Mathematics achievement. In addition, English self-concept was also positively associated with Mathematics achievement. Deep learning strategies were positively associated with English and Mathematics self-concepts, but were not significantly associated with academic achievement in either subject. Surface learning strategies were negatively associated with academic achievement in English and Mathematics.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 654,
+                        "end": 662,
+                        "text": "Figure 3",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "SEM: Model A Versus Model B",
+                "sec_num": null
+            },
+            {
+                "text": "In Model A, English self-concept positively predicted achievement in both subjects directly (\u03b2 = .31, p < .001 for English achievement; \u03b2 = .14, p < .001 for Mathematics achievement) as well as indirectly through the mediation of surface learning strategies (\u03b2 = \u2212.01, p < .05 for English achievement; \u03b2 = \u2212.01, p < .05 for Mathematics achievement). The negative path coefficients from surface learning strategies to achievement in both subjects (\u03b2 = \u2212.17, p < .001 for English achievement; \u03b2 = \u2212.22, p < .001 for Mathematics achievement) indicated that the use of surface learning strategies were associated with low academic achievement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SEM: Model A Versus Model B",
+                "sec_num": null
+            },
+            {
+                "text": "Mathematics self-concept had a direct positive effect on Mathematics achievement (\u03b2 = .33, p < .001) but no significant direct effect on English achievement (\u03b2 = \u2212.01, p = .40), or any indirect effects on achievement in either subject through the mediation of learning strategies (\u03b2 = .001, p = .77 for English achievement; \u03b2 = \u2212.01, p = .06 for Mathematics achievement). All the direct and indirect effects of academic self-concept on academic achievement are presented in Table 5 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 474,
+                        "end": 481,
+                        "text": "Table 5",
+                        "ref_id": "TABREF6"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "SEM: Model A Versus Model B",
+                "sec_num": null
+            },
+            {
+                "text": "In Model B, the positive prediction of deep learning strategies on English achievement was fully mediated by English self-concept (\u03b2 = .09, p < .001), whereas their positive effect on Mathematics achievement was fully mediated by English and Mathematics self-concepts (\u03b2 = .12, p < .001). Surface learning strategies negatively predicted English achievement directly (\u03b2 = \u2212.17, p < .001) as well as indirectly through the mediation of English self-concept (\u03b2 = \u2212.01, p < .05). Surface learning strategies also negatively predicted Mathematics achievement directly (\u03b2 = \u2212.22, p < .001) as Note: AIC = Akaike information criterion; BIC = Bayesian information criterion; RMSEA = root mean square error of approximation; CFI = comparative fit index; SRMR = standardized root mean square residual.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SEM: Model A Versus Model B",
+                "sec_num": null
+            },
+            {
+                "text": "well as indirectly through the mediation of English and Mathematics self-concepts (\u03b2 = \u2212.02, p < .001). All the direct and indirect effects of learning strategies on academic achievement are presented in Table 6 . Despite the marginal superiority of Model B over Model A, the results of SEM suggested that the data fit both models adequately, supporting the reciprocal relationship between academic self-concept and learning strategies in predicting academic achievement.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 204,
+                        "end": 211,
+                        "text": "Table 6",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "SEM: Model A Versus Model B",
+                "sec_num": null
+            },
+            {
+                "text": "In Models A and B, we tested the effects of academic self-concept on academic achievement. We further examined the reciprocal relationship between these two variables, based on the framework of an internal/external frame-of-reference model. Figure 4 illustrates the model and the results from SEM suggested a marginal fit to the data, \u03c7 2 (50, N = 8354) = 3,838.349; p < .001; RMSEA = .099; CFI = .955; SRMR = .023. On one hand, the results showed that English achievement positively predicted English self-concept (\u03b2 = .29, p < .001), but negatively predicted Mathematics self-concept (\u03b2 = \u2212.14, p < .001). On the other hand, Mathematics achievement positively predicted Mathematics self-concept (\u03b2 = .38, p < .001), but did not significantly predict English self-concept (\u03b2 = .02, p = .08). These results provide support for the internal/external frame-of-reference effect (see Marsh & Hau, 2004) . Mathematics self-concepts (for Mathematics achievement). This finding suggests that enhancing students' use of deep learning strategies may increase their selfconcepts leading to improved academic performance. Of course the adequate data fit of Models A and B suggests that the effects are reciprocal. Results of Model A demonstrated that having high English or Mathematics self-concepts was associated with students having increased use of deep learning strategies. Second, it is also clear from the results of Model B that students who utilized surface learning strategies had reduced English and Mathematics achievement and this effect was partially mediated by self-concept. Although the mediated effects were weaker than the direct effects, results suggest that emphasizing surface learning will predict diminished self-concepts and diminished academic achievement.",
+                "cite_spans": [
+                    {
+                        "start": 880,
+                        "end": 898,
+                        "text": "Marsh & Hau, 2004)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 241,
+                        "end": 249,
+                        "text": "Figure 4",
+                        "ref_id": "FIGREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Further Investigation: Internal/External Frame-of-Reference Effect",
+                "sec_num": null
+            },
+            {
+                "text": "Further investigation on the internal frame-of-reference effect supports the reciprocal relationship between academic self-concept and academic achievement. Specifically, English achievement had a positive effect on English self-concept but a negative effect on Mathematics self-concept, whereas Mathematics achievement had a positive effect on Mathematics self-concept but no effect on English self-concept.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Further Investigation: Internal/External Frame-of-Reference Effect",
+                "sec_num": null
+            },
+            {
+                "text": "These results with a Hong Kong secondary school sample replicate what has been found in a number of studies with regard to the relationships between learning strategies and achievement, and self-concept and achievement. The novel element is that the findings are replicated within a Chinese-speaking community that puts strong emphasis on academic excellence. The Hong Kong education system is regarded as one of the most highly achievement-segregated systems in the world (Lo et al., 1997) in which students need to compete with each other to get admission to prestigious high schools. ",
+                "cite_spans": [
+                    {
+                        "start": 473,
+                        "end": 490,
+                        "text": "(Lo et al., 1997)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Further Investigation: Internal/External Frame-of-Reference Effect",
+                "sec_num": null
+            },
+            {
+                "text": "This study provides important implications for educational policies and practices to enhance student academic achievement. First, students should be encouraged to adopt deep learning strategies. In everyday classroom teaching, teachers can incorporate meaningful organizers such as flowcharts, diagrams, or tables to help students relate information, and to provide authentic examples for students to apply learning materials to daily life. Instead of teaching students surface tactics such as rote learning, teachers can introduce to students some meaningful metacognitive skills, including note taking and self-questioning, to achieve a thorough understanding of materials. Assessments given to students should also involve a high level of information processing. For example, students should be asked to write critiques that require analysis and reflection, rather than simply recall factual information. All these suggestions for facilitating deep learning are just speculative, and future research is needed to verify their effectiveness.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Practical Implications",
+                "sec_num": null
+            },
+            {
+                "text": "Second, educators should try to enhance students' academic self-concept, targeting the specific domain that is related to the intended achievement outcome. This is evidenced by the support for the domain specificity of self-concept in this study in which the correlation between self-concept and academic achievement is higher for related subjects than nonrelated ones. As suggested by Marsh and Craven (2006) , it is more effective for teachers to encourage students' positive self-concept as part of their normal classroom practices than implement separate self-concept interventions that are isolated from the setting where learning occurs. Craven et al. (2003) propose some proactive strategies for teachers to enhance students' self-concept. They include delivery of constructive feedback and judicious praise, provision of support to encourage students to make appropriate attributions for success and failure, and reinforcement for positive self-talk. Despite the reciprocal relationship between self-concept and academic achievement, it is equally important for teachers to work on skill development apart from self-enhancement, such that students' ability or achievement can be raised. It is believed that teachers should try to improve simultaneously academic selfconcept and academic achievement of their students so as to produce positive changes in both constructs (Guay et al., 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 386,
+                        "end": 409,
+                        "text": "Marsh and Craven (2006)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 644,
+                        "end": 664,
+                        "text": "Craven et al. (2003)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1378,
+                        "end": 1397,
+                        "text": "(Guay et al., 2003)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Practical Implications",
+                "sec_num": null
+            },
+            {
+                "text": "A limitation of this study is that our findings are based on a single wave of data that is contemporaneous which makes causal inference unclear. Although our findings support the applied heuristic value of Model B as it is more practical at the school level to implement programs to enhance learning strategies than to enhance selfconcept, the reciprocal directions between self-concept and learning strategies in predicting academic achievement need further investigation with longitudinal data that allows causal modeling from the developmental perspective. Another possibility is to employ an experimental design that manipulates academic self-concept and learning strategies. Yet, these two variables are hard to control in experimental settings.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and Future Directions",
+                "sec_num": null
+            },
+            {
+                "text": "In summary, this study demonstrates the comparative heuristic value of competing models showing the likely reciprocal effect of self-concept and learning strategies in predicting achievement. Furthermore, it supports the reciprocal relationship between self-concept and achievement. Our findings deliver a clear message regarding the essential importance of considering self-concept and learning strategies in concert to enhance student academic achievement, and at the same time raising student achievement to boost self-concept. Academic self-concept, learning strategies, and academic achievement are three key components for student success that must be seen as interactive. A focus on all three in classrooms is likely to lead to enhanced school outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Limitations and Future Directions",
+                "sec_num": null
+            },
+            {
+                "text": "by Pro Quest on July 25, 2012 joa.sagepub.com Downloaded from",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "This study investigated the direction of effect between academic self-concept and learning strategies on academic achievement. Results of Model B provide us with a number of interesting and important pieces of information to enhance students' academic achievement. First, it appears that students who were deep learners had enhanced academic achievement in English and Mathematics. This effect was fully mediated by English self-concept (for English achievement) and by English and ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Declaration of Conflicting Interests",
+                "sec_num": null
+            },
+            {
+                "text": "The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This research was funded by the General Research Fund 2009-2012 (Grant Number/Project Number: 842509) of the Research Grants Council of the Hong Kong University Grant Committee.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Funding",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Some contributions to efficient statistics in structural models: Specification and estimation of moment structures",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Psychometrika",
+                "volume": "48",
+                "issue": "",
+                "pages": "493--517",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bentler, P. M. (1983). Some contributions to efficient statistics in structural models: Specifica- tion and estimation of moment structures. Psychometrika, 48, 493-517.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The Learning Process Questionnaire (LPQ): Manual",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Biggs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Biggs, J. B. (1987). The Learning Process Questionnaire (LPQ): Manual. Hawthorn, Victoria, Australia: Australian Council for Educational Research.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Structural equations with latent variables",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Bollen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bollen, K. (1989). Structural equations with latent variables. New York, NY: Wiley.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Applying the Rasch model: Fundamental measurement in the human sciences",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Bond",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Fox",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bond, T. G., & Fox, C. M. (2007). Applying the Rasch model: Fundamental measurement in the human sciences (2nd ed.). Mahwah, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Model selection and multimodel inference: A practical information-theoretic approach",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Burnham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Anderson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Burnham, K. P., & Anderson, D. R. (2002). Model selection and multimodel inference: A prac- tical information-theoretic approach (2nd ed.). New York, NY: Springer-Verlag.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "The Self Description Questionnaire III: Testing for equivalent factorial validity across ability",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "48",
+                "issue": "",
+                "pages": "397--406",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1988). The Self Description Questionnaire III: Testing for equivalent factorial validity across ability. Educational and Psychological Measurement, 48, 397-406.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Students' goal orientations, study strategies and achievement: A closer look in Hong Kong Chinese cultural context",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Chan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Lai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Leung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Moore",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Asia-Pacific Education Researcher",
+                "volume": "14",
+                "issue": "",
+                "pages": "1--26",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chan, K. W., Lai, P. Y., Leung, M. T., & Moore, P. J. (2005). Students' goal orientations, study strategies and achievement: A closer look in Hong Kong Chinese cultural context. Asia-Pacific Education Researcher, 14, 1-26.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "What do children worry about?",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Christie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Macmullin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Australian Journal of Guidance and Counselling",
+                "volume": "8",
+                "issue": "",
+                "pages": "9--24",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Christie, E., & MacMullin, C. (1998). What do children worry about? Australian Journal of Guidance and Counselling, 8, 9-24.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Goal theory, motivation and school achievement: An integrative review",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Covington",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Annual Review of Psychology",
+                "volume": "51",
+                "issue": "",
+                "pages": "171--200",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Covington, M. V. (2000). Goal theory, motivation and school achievement: An integrative review. Annual Review of Psychology, 51, 171-200.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Cracking the self-concept enhancement conundrum: A call and blueprint for the next generation of self-concept enhancement research",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Burnett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "International advances in self research",
+                "volume": "1",
+                "issue": "",
+                "pages": "91--126",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Craven, R. G., Marsh, H. W., & Burnett, P. C. (2003). Cracking the self-concept enhance- ment conundrum: A call and blueprint for the next generation of self-concept enhancement research. In H. W. Marsh, R. G. Craven, & D. M. McInerney (Eds.), International advances in self research (Vol. 1, pp. 91-126). Greenwich, CT: Information Age.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Coursework selection: A frame of reference approach using structural equation modeling",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Dickh\u00e4user",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Reuter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Hilling",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "75",
+                "issue": "",
+                "pages": "673--688",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dickh\u00e4user, O., Reuter, M., & Hilling, C. (2005). Coursework selection: A frame of reference approach using structural equation modeling. British Journal of Educational Psychology, 75, 673-688.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Academic self-concept and academic achievement: Developmental perspectives on their causal ordering",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Boivin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Educational Psychology",
+                "volume": "95",
+                "issue": "",
+                "pages": "124--136",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guay, F., Marsh, H. W., & Boivin, M. (2003). Academic self-concept and academic achieve- ment: Developmental perspectives on their causal ordering. Journal of Educational Psy- chology, 95, 124-136.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Multivariate data analysis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Tatham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Black",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hair, J. H., Anderson, R. E., Tatham, R. L., & Black, W. C. (1998). Multivariate data analysis (5th ed.). Upper Saddle River, NJ: Prentice Hall.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Hong Kong students' and teachers' beliefs on students' concerns and their causal explanation",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "K P"
+                        ],
+                        "last": "Hui",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Educational Research",
+                "volume": "43",
+                "issue": "",
+                "pages": "279--294",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hui, E. K. P. (2001). Hong Kong students' and teachers' beliefs on students' concerns and their causal explanation. Educational Research, 43, 279-294.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Examining the multidimensionality of approaches to learning through the development of a revised version of the Learning Process Questionnaire",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kember",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Biggs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "Y P"
+                        ],
+                        "last": "Leung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "74",
+                "issue": "",
+                "pages": "261--279",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kember, D., Biggs, J., & Leung, D. Y. P. (2004). Examining the multidimensionality of approaches to learning through the development of a revised version of the Learning Pro- cess Questionnaire. British Journal of Educational Psychology, 74, 261-279.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "The dimensionality of approaches to learning: An investigation with confirmatory factor analysis on the structure of the SPQ and LPQ",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kember",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "Y P"
+                        ],
+                        "last": "Leung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "British Journal of Educational Psychology",
+                "volume": "68",
+                "issue": "",
+                "pages": "395--407",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kember, D., & Leung, D. Y. P. (1998). The dimensionality of approaches to learning: An inves- tigation with confirmatory factor analysis on the structure of the SPQ and LPQ. British Journal of Educational Psychology, 68, 395-407.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Approaches to learning and teaching by the Chinese",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kember",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Watkins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "169--185",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kember, D., & Watkins, D. (2010). Approaches to learning and teaching by the Chinese. In M. H. Bond (Ed.), The Oxford handbook of Chinese psychology (pp. 169-185). New York, NY: Oxford University Press.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "School-related worries of adolescents in Hong Kong: A single school study",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S Y"
+                        ],
+                        "last": "Kong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Westwood",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Yuen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Hong Kong Special Education Forum",
+                "volume": "8",
+                "issue": "",
+                "pages": "21--41",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kong, L. S. Y., Westwood, P., & Yuen, M. T. (2006). School-related worries of adolescents in Hong Kong: A single school study. Hong Kong Special Education Forum, 8, 21-41.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "An assessment scale for measuring primary and secondary Mathematics achievement",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "C H"
+                        ],
+                        "last": "Lau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M C"
+                        ],
+                        "last": "Mok",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Yan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lau, D. C. H., Mok, M. M. C., & Yan, Z. (2009, November). An assessment scale for mea- suring primary and secondary Mathematics achievement. Paper presented at the Inter- national Conference on Primary Education 2009, The Hong Kong Institute of Education, Hong Kong.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "The English Language Ability Calibrated (ELAC) Scale",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "Y P"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, A. Y. P. (2009, October). The English Language Ability Calibrated (ELAC) Scale. Paper presented to DSEJ, Macao Government, Macao.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Structural equation modeling: A Bayesian approach",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee, S. (2007). Structural equation modeling: A Bayesian approach. New York, NY: Wiley.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "A survey of the effectiveness of Hong Kong secondary school systems",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "N K"
+                        ],
+                        "last": "Lo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Tsang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Chung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Cheng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M M"
+                        ],
+                        "last": "Sze",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S C"
+                        ],
+                        "last": "Ho",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Ho",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lo, L. N. K., Tsang, W. K., Chung, Y. P., Cheng, Y. C., Sze, P. M. M., Ho, E. S. C., & Ho, M. K. (1997). A survey of the effectiveness of Hong Kong secondary school systems. Hong Kong: Chinese University of Hong Kong.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Latent variable models: An introduction to factor, path, and structural equation analysis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Loehlin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Loehlin, J. C. (2004). Latent variable models: An introduction to factor, path, and structural equation analysis (4th ed.). Mahwah, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "The problem of equivalent models in applications of covariance structure analysis",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Maccallum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Wegener",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Uchino",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Fabrigar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Psychological Bulletin",
+                "volume": "114",
+                "issue": "",
+                "pages": "185--199",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "MacCallum, R. C., Wegener, D. T., Uchino, B., & Fabrigar, L. R. (1993). The problem of equivalent models in applications of covariance structure analysis. Psychological Bulletin, 114, 185-199.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "A multidimensional, hierarchical model of self-concept: Theoretical and empirical justification",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Educational Psychology Review",
+                "volume": "2",
+                "issue": "",
+                "pages": "77--172",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990). A multidimensional, hierarchical model of self-concept: Theoretical and empirical justification. Educational Psychology Review, 2, 77-172.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Self Description Questionnaire (SDQ) III: A theoretical and empirical basis for the measurement of multiple dimensions of late adolescent self-concept: A test manual and a research monograph",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "New South Wales",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1992). Self Description Questionnaire (SDQ) III: A theoretical and empirical basis for the measurement of multiple dimensions of late adolescent self-concept: A test manual and a research monograph. New South Wales, Australia: University of Western Sydney, Faculty of Education.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Academic self-concept: Beyond the dustbowl",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Handbook of classroom assessment: Learning, achievement, and adjustment",
+                "volume": "",
+                "issue": "",
+                "pages": "131--198",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Craven, R. G. (1997). Academic self-concept: Beyond the dustbowl. In G. Phye (Ed.), Handbook of classroom assessment: Learning, achievement, and adjustment (pp. 131-198). Orlando, FL: Academic Press.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Reciprocal effects of self-concept and performance from a multidimensional perspective: Beyond seductive pleasure and unidimensional perspectives",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Perspectives on Psychological Science",
+                "volume": "1",
+                "issue": "",
+                "pages": "133--163",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Craven, R. G. (2006). Reciprocal effects of self-concept and performance from a multidimensional perspective: Beyond seductive pleasure and unidimensional perspec- tives. Perspectives on Psychological Science, 1, 133-163.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "International advances in self research: Speaking to the future",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mcinerney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "International advances in self research",
+                "volume": "1",
+                "issue": "",
+                "pages": "3--14",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Craven, R. G., & McInerney, D. M. (2003). International advances in self research: Speaking to the future. In H. W. Marsh, R. G. Craven, & D. M. McInerney (Eds.), International advances in self research (Vol. 1, pp. 3-14). Greenwich, CT: Information Age.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Introduction",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mcinerney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "International advances in self research",
+                "volume": "2",
+                "issue": "",
+                "pages": "3--13",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Craven, R. G., & McInerney, D. M. (2005). Introduction. In H. W. Marsh, R. G. Craven, & D. M. McInerney (Eds.), International advances in self research (Vol. 2, pp. 3-13). Greenwich, CT: Information Age.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Explaining paradoxical relations between academic selfconcepts and achievements: Cross-cultural generalizability of the internal-external frame of reference predictions across 26 countries",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Educational Psychology",
+                "volume": "96",
+                "issue": "",
+                "pages": "56--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hau, K. T. (2004). Explaining paradoxical relations between academic self- concepts and achievements: Cross-cultural generalizability of the internal-external frame of reference predictions across 26 countries. Journal of Educational Psychology, 96, 56-67.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Reunification of East and West German school systems: Longitudinal multilevel modeling study of the big-fish-little-pond effect on academic self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Koller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "American Educational Research Journal",
+                "volume": "38",
+                "issue": "",
+                "pages": "321--350",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Koller, O., & Baumert, J. (2001). Reunification of East and West German school systems: Longitudinal multilevel modeling study of the big-fish-little-pond effect on aca- demic self-concept. American Educational Research Journal, 38, 321-350.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Self Description Questionnaire III: The construct validity of multidimensional self-concept ratings by late adolescents",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Neill",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Journal of Educational Measurement",
+                "volume": "21",
+                "issue": "",
+                "pages": "153--174",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & O'Neill, R. (1984). Self Description Questionnaire III: The construct validity of multidimensional self-concept ratings by late adolescents. Journal of Educational Mea- surement, 21, 153-174.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Subject specific components of academic selfconcept and self-efficacy",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Walker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Debus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "16",
+                "issue": "",
+                "pages": "331--345",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Walker, R., & Debus, R. (1991). Subject specific components of academic self- concept and self-efficacy. Contemporary Educational Psychology, 16, 331-345.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Self-processes, learning, and enabling human potential",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mcinerney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Advances in self research",
+                "volume": "3",
+                "issue": "",
+                "pages": "3--11",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McInerney, D. M., Marsh, H. W., & Craven, R. G. (2008). Self-processes, learning, and enabling human potential. In H. W. Marsh, R. G. Craven, & D. M. McInerney (Eds.), Advances in self research (Vol. 3, pp. 3-11). Charlotte, NC: Information Age.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "An extension to the internal/external frame of reference model to two verbal and numerical domains",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Streblow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Pohlmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Koller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "European Journal of Psychology of Education",
+                "volume": "21",
+                "issue": "",
+                "pages": "467--487",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., Streblow, L., Pohlmann, B., & Koller, O. (2006). An extension to the internal/external frame of reference model to two verbal and numerical domains. European Journal of Psy- chology of Education, 21, 467-487.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Do self-concept interventions make a difference? A synergistic blend of construct validation and meta-analysis",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "O'mara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Debus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Educational Psychologist",
+                "volume": "41",
+                "issue": "",
+                "pages": "181--206",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "O'Mara, A. J., Marsh, H. W., Craven, R. G., & Debus, R. L. (2006). Do self-concept inter- ventions make a difference? A synergistic blend of construct validation and meta-analysis. Educational Psychologist, 41, 181-206.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Beyond cold conceptual change: The role of motivational beliefs and classroom contextual factors in the process of conceptual change",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pintrich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marx",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Boyle",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Review of Educational Research",
+                "volume": "63",
+                "issue": "",
+                "pages": "167--199",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pintrich, P. R., Marx, R. W., & Boyle, R. A. (1993). Beyond cold conceptual change: The role of motivational beliefs and classroom contextual factors in the process of conceptual change. Review of Educational Research, 63, 167-199.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Big-fish-little-pond effect: Generalizability and moderation-Two sides of the same coin",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seaton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "American Educational Research Journal",
+                "volume": "47",
+                "issue": "",
+                "pages": "390--433",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Seaton, M., Marsh, H. W., & Craven, R. G. (2010). Big-fish-little-pond effect: Generalizability and moderation-Two sides of the same coin. American Educational Research Journal, 47, 390-433.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Self-concept: Validation of construct interpretations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shavelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hubner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Stanton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1976,
+                "venue": "Review of Educational Research",
+                "volume": "46",
+                "issue": "",
+                "pages": "407--441",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shavelson, R. J., Hubner, J. J., & Stanton, G. C. (1976). Self-concept: Validation of construct interpretations. Review of Educational Research, 46, 407-441.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Internal and external frames of reference for academic self-concept",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Educational Psychologist",
+                "volume": "37",
+                "issue": "",
+                "pages": "233--244",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Skaalvik, S. (2002). Internal and external frames of reference for academic self-concept. Educational Psychologist, 37, 233-244.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "An investigation of ethnic differences in the motivation and strategies for learning of students in desegregated South African schools",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Watkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mcinerney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Akande",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Cross-Cultural Psychology",
+                "volume": "34",
+                "issue": "",
+                "pages": "189--194",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Watkins, D., McInerney, D. M., Akande, A., & Lee, C. (2003). An investigation of ethnic differ- ences in the motivation and strategies for learning of students in desegregated South African schools. Journal of Cross-Cultural Psychology, 34, 189-194.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Motivation and learning strategies: A cross-cultural perspective",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Watkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mcinerney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Akande",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Regmi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Research on sociocultural influences on motivation and learning",
+                "volume": "2",
+                "issue": "",
+                "pages": "329--343",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Watkins, D., McInerney, D. M., Lee, C., Akande, A., & Regmi, M. (2002). Motivation and learning strategies: A cross-cultural perspective. In D. M. McInerney & S. Van Etten (Eds.), Research on sociocultural influences on motivation and learning (Vol. 2, pp. 329-343). Greenwich, CT: Information Age.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Student engagement at school: A sense of belonging and participation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Willims",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Willims, J. D. (2003). Student engagement at school: A sense of belonging and participation. Paris, France: OECD.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Cross-cultural validation of models of approaches to learning: An application of confirmatory factor analysis",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Wong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Lin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Watkins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Educational Psychology",
+                "volume": "16",
+                "issue": "",
+                "pages": "317--327",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wong, N. Y., Lin, W. Y., & Watkins, D. (1996). Cross-cultural validation of models of approaches to learning: An application of confirmatory factor analysis. Educational Psy- chology, 16, 317-327.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Rating scale analysis",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Wright",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Masters",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wright, B. D., & Masters, G. N. (1982). Rating scale analysis. Chicago, IL: MESA Press.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Hypothesized models delineating the effect of academic self-concept on learning strategies (Model A) and the effect of learning strategies on academic self-concept (Model B) Note: Deep = deep learning strategies; EngSC = English self-concept; EngACH = English achievement; MathSC = Mathematics self-concept; MathACH = Mathematics achievement; Surface = surface learning strategies.",
+                "uris": null
+            },
+            "FIGREF1": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Hypothesized model delineating the effect of academic achievement on academic self-concept Note: EngACH = English achievement; EngSC = English self-concept; MathACH = Mathematics achievement; MathSC = Mathematics self-concept.",
+                "uris": null
+            },
+            "FIGREF2": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Results of testing hypothesized Models A and B with completely standardized parameter estimates Note: Deep = deep learning strategies; EngSC = English self-concept; EngACH = English achievement; MathSC = Mathematics self-concept; MathACH = Mathematics achievement; Surface = surface learning strategies. *p < .05. **p < .01. ***p < .001.",
+                "uris": null
+            },
+            "FIGREF4": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Standardized parameter estimates of academic achievement predicting academic self-concept Note: EngACH = English achievement; EngSC = English self-concept; MathACH = Mathematics achievement; MathSC = Mathematics self-concept. ***p < .001.",
+                "uris": null
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "Demographic Information of Participants",
+                "type_str": "table",
+                "content": "<table><tr><td>N = 8,354</td></tr></table>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Factor Loadings of the Academic Self-Concept and Learning Strategies Items Based on Full Measurement CFA",
+                "type_str": "table",
+                "content": "<table><tr><td/><td>Item</td><td>EngSC</td><td>MathSC</td><td>Deep</td><td>Surf</td></tr><tr><td>EngSC</td><td>Eng 1</td><td>.90</td><td/><td/></tr><tr><td/><td>Eng 2</td><td>.91</td><td/><td/></tr><tr><td/><td>Eng 3</td><td>.90</td><td/><td/></tr><tr><td/><td>Eng 4</td><td>.86</td><td/><td/></tr><tr><td/><td>Eng 5</td><td>.81</td><td/><td/></tr><tr><td>MathSC</td><td>Math 1</td><td/><td>.91</td><td/></tr><tr><td/><td>Math 2</td><td/><td>.95</td><td/></tr><tr><td/><td>Math 3</td><td/><td>.94</td><td/></tr><tr><td/><td>Math 4</td><td/><td>.89</td><td/></tr><tr><td/><td>Math 5</td><td/><td>.86</td><td/></tr><tr><td>Deep</td><td>Deep 1</td><td/><td/><td>.74</td></tr><tr><td/><td>Deep 2</td><td/><td/><td>.70</td></tr><tr><td/><td>Deep 3</td><td/><td/><td>.79</td></tr><tr><td/><td>Deep 4</td><td/><td/><td>.67</td></tr><tr><td/><td>Deep 5</td><td/><td/><td>.61</td></tr><tr><td>Surf</td><td>Surf 1</td><td/><td/><td/><td>.54</td></tr><tr><td/><td>Surf 2</td><td/><td/><td/><td>.52</td></tr><tr><td/><td>Surf 3</td><td/><td/><td/></tr></table>"
+            },
+            "TABREF2": {
+                "num": null,
+                "text": "presents the fit indices of both models. By comparing the values of AIC and BIC between the two models, Model B had lower values of both indices, with \u0394AIC (or \u0394",
+                "type_str": "table",
+                "content": "<table/>"
+            },
+            "TABREF3": {
+                "num": null,
+                "text": "Descriptive Statistics and Bivariate Correlations of Self-Concept (English and Mathematics), Learning Strategies (Deep and Surface), and Academic Achievement (English and",
+                "type_str": "table",
+                "content": "<table><tr><td colspan=\"2\">Mathematics)</td><td/><td/><td/><td/><td/><td/></tr><tr><td/><td>Variable</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>1</td><td>EngSC</td><td>-</td><td/><td/><td/><td/><td/></tr><tr><td>2</td><td>MathSC</td><td>.01</td><td>-</td><td/><td/><td/><td/></tr><tr><td>3</td><td>Deep</td><td>.26**</td><td>.23**</td><td>-</td><td/><td/><td/></tr><tr><td>4</td><td>Surf</td><td>.05**</td><td>.02</td><td>.24**</td><td>-</td><td/><td/></tr><tr><td>5</td><td>EngACH</td><td>.28**</td><td>\u2212.01</td><td>.05**</td><td>\u2212.11**</td><td>-</td><td/></tr><tr><td>6</td><td>MathACH</td><td>.12**</td><td>.32**</td><td>.06**</td><td>\u2212.16**</td><td>.34**</td><td>-</td></tr><tr><td/><td>M</td><td>2.23</td><td>2.48</td><td>2.89</td><td>2.52</td><td>0</td><td>0</td></tr><tr><td/><td>SD</td><td>0.79</td><td>0.87</td><td>0.54</td><td>0.55</td><td>1</td><td>1</td></tr></table>"
+            },
+            "TABREF4": {
+                "num": null,
+                "text": "Fit Indices of Each Model",
+                "type_str": "table",
+                "content": "<table><tr><td>Model</td><td>AIC</td><td>BIC</td><td>\u03c7 2</td><td>df</td><td>p</td><td>RMSEA</td><td>CFI</td><td>SRMR</td></tr><tr><td>A</td><td>330,501.43</td><td>331,049.46</td><td>8,151.75</td><td>197</td><td>&lt;.001</td><td>.070</td><td>.927</td><td>.068</td></tr><tr><td>B</td><td>330,233.32</td><td>330,781.36</td><td>7,883.64</td><td>197</td><td>&lt;.001</td><td>.068</td><td>.930</td><td>.062</td></tr></table>"
+            },
+            "TABREF6": {
+                "num": null,
+                "text": "Effects of Academic Self-Concept on Academic Achievement Mediated Through < .05. **p < .01. ***p < .001.",
+                "type_str": "table",
+                "content": "<table><tr><td>Learning Strategies (Model A)</td><td/></tr><tr><td/><td>Standardized coefficients</td></tr><tr><td>Effects from EngSC to EngACH</td><td/></tr><tr><td>(a) EngSC \u2192 EngACH</td><td>.306***</td></tr><tr><td>(b1) EngSC \u2192 Surf \u2192EngACH</td><td>\u2212.006*</td></tr><tr><td>(b2) EngSC \u2192 Deep \u2192 EngACH</td><td>.002</td></tr><tr><td>(b) Total indirect effects</td><td>\u2212.003</td></tr><tr><td>(c) Total effects</td><td>.303***</td></tr><tr><td>Effects from MathSC to EngACH</td><td/></tr><tr><td>(a) MathSC \u2192 EngACH</td><td>\u2212.010</td></tr><tr><td>(b1) MathSC \u2192 Surf \u2192 EngACH</td><td>\u2212.003</td></tr><tr><td>(b2) MathSC \u2192 Deep \u2192 EngACH</td><td>.002</td></tr><tr><td>(b) Total indirect effects</td><td>\u2212.001</td></tr><tr><td>(c) Total effects</td><td>\u2212.011</td></tr><tr><td>Effects from EngSC to MathACH</td><td/></tr><tr><td>(a) EngSC \u2192 MathACH</td><td>.136***</td></tr><tr><td>(b1) EngSC \u2192 Surf \u2192 MathACH</td><td>\u2212.008*</td></tr><tr><td>(b2) EngSC \u2192 Deep \u2192 MathACH</td><td>\u2212.005</td></tr><tr><td>(b) Total indirect effects</td><td>\u2212.012*</td></tr><tr><td>(c) Total effects</td><td>.124***</td></tr><tr><td>Effects from MathSC to MathACH</td><td/></tr><tr><td>(a) MathSC \u2192 MathACH</td><td>.333***</td></tr><tr><td>(b1) MathSC \u2192 Surf \u2192 MathACH</td><td>\u2212.004</td></tr><tr><td>(b2) MathSC \u2192 Deep \u2192 MathACH</td><td>\u2212.004</td></tr><tr><td>(b) Total indirect effects</td><td>\u2212.008</td></tr><tr><td>(c) Total effects</td><td>.325***</td></tr><tr><td colspan=\"2\">Note: EngSC = English self-concept; EngACH = English achievement; Surf = surface learning strategies;</td></tr><tr><td colspan=\"2\">Deep = deep learning strategies; MathSC = Mathematics self-concept; MathACH = Mathematics</td></tr><tr><td colspan=\"2\">achievement. Row (a) indicates direct effects. Rows (b1) and (b2) indicate specific indirect effects. Row</td></tr><tr><td>(b) indicates the total indirect effects. Row (c) indicates the total effects.</td><td/></tr><tr><td>*p</td><td/></tr></table>"
+            }
+        }
+    }
+}

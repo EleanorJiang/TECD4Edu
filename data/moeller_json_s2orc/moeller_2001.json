@@ -1,0 +1,1493 @@
+{
+    "paper_id": "moeller_2001",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:56:39.909339Z"
+    },
+    "title": "Frame of Reference Effects Following the Announcement of Exam Results",
+    "authors": [
+        {
+            "first": "Jens",
+            "middle": [],
+            "last": "M\u00f6ller",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Bielefeld",
+                "location": {
+                    "settlement": "Bielefeld",
+                    "country": "Germany"
+                }
+            },
+            "email": "jens.moeller@uni-bielefeld.de.277"
+        },
+        {
+            "first": "Olaf",
+            "middle": [],
+            "last": "K\u00f6ller",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The internal/external frame of reference (I/E) model by Marsh (e.g., 1990a) assumes two central information sources for the constitution of domain-specific academic self-concepts: (1) social comparisons (external frame of reference), in which students compare their own achievements with those of their classmates; and (2) intraindividual comparisons (internal frame of reference), in which students compare their own achievements in one subject with their achievements in other subjects. In path analyses, it has been found that the latter type of comparison leads to negative paths from achievement indicators in subject A to self-concept measures in subject B. To investigate the actual impact of achievement feedback and of the frames of reference on changes in self-concept variables, we analyzed math and German self-concepts immediately following the announcement of exam results in each subject. Participants were 258 7th-to 9th-graders. Path analyses using structural equation modeling supported the validity of the I/E model with respect to the impact of simultaneously given current exam results. In particular, German achievement had a negative impact on subsequent math self-concept.",
+    "pdf_parse": {
+        "paper_id": "moeller_2001",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The internal/external frame of reference (I/E) model by Marsh (e.g., 1990a) assumes two central information sources for the constitution of domain-specific academic self-concepts: (1) social comparisons (external frame of reference), in which students compare their own achievements with those of their classmates; and (2) intraindividual comparisons (internal frame of reference), in which students compare their own achievements in one subject with their achievements in other subjects. In path analyses, it has been found that the latter type of comparison leads to negative paths from achievement indicators in subject A to self-concept measures in subject B. To investigate the actual impact of achievement feedback and of the frames of reference on changes in self-concept variables, we analyzed math and German self-concepts immediately following the announcement of exam results in each subject. Participants were 258 7th-to 9th-graders. Path analyses using structural equation modeling supported the validity of the I/E model with respect to the impact of simultaneously given current exam results. In particular, German achievement had a negative impact on subsequent math self-concept.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "To establish a domain-specific self-concept of ability, students have to integrate achievement-related information from various sources. According to Marsh (1986 Marsh ( , 1990a they compare their levels of academic ability using two different, but connected, frames of reference. Within the external frame of reference, students compare their own ability and achievement to the perceived abilities and achievements of a reference group, usually their classmates. In making external comparisons, students compare self-perceptions of their own ability, e.g., in math and in German (as a native language), with the perceived abilities of their classmates, and this external reference serves as a basis for their math and verbal self-concepts. For example, if their math achievement is lower than their classmates' achievement, then their math self-concept will be lower, too. Because achievements in school subjects are typically positively correlated, these external (social) comparisons lead to the expectation that domain-specific self-concepts are positively correlated as well.",
+                "cite_spans": [
+                    {
+                        "start": 150,
+                        "end": 161,
+                        "text": "Marsh (1986",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 162,
+                        "end": 177,
+                        "text": "Marsh ( , 1990a",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The existence of an internal frame of reference helps to explain why typically there are only very low correlations between different academic selfconcepts and why academic self-concepts are domain-specific. According to this frame of reference, students evaluate their achievements in any particular subject in relation to their achievements in other subjects. This internal comparison is the second basis for the formation of a self-concept in each subject. According to Marsh, Walker, and Debus (1991) , better verbal skills lead to a better verbal self-concept based on external comparisons with classmates' achievements in verbal domains, but to a poorer math self-concept based on internal comparisons with one's poorer achievements in math. The relative weight of both comparison processes explains the moderate or nearly zero correlations between math and verbal self-concepts found in a variety of studies with different methodologies carried out in several countries (Bong, 1998; Faber, 1992; K\u00f6ller, Klemmert, M\u00f6ller, & Baumert, 1999; Marsh, 1986 Marsh, , 1990b Marsh et al., 1991; Marsh & Yeung, 1998; Skaalvik & Rankin, 1992 Tay, Licht, & Tate, 1995; Williams & Montgomery, 1995;  for an exception see Skaalvik & Rankin, 1990) .",
+                "cite_spans": [
+                    {
+                        "start": 473,
+                        "end": 504,
+                        "text": "Marsh, Walker, and Debus (1991)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 977,
+                        "end": 989,
+                        "text": "(Bong, 1998;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 990,
+                        "end": 1002,
+                        "text": "Faber, 1992;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1003,
+                        "end": 1045,
+                        "text": "K\u00f6ller, Klemmert, M\u00f6ller, & Baumert, 1999;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1046,
+                        "end": 1057,
+                        "text": "Marsh, 1986",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1058,
+                        "end": 1072,
+                        "text": "Marsh, , 1990b",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1073,
+                        "end": 1092,
+                        "text": "Marsh et al., 1991;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1093,
+                        "end": 1113,
+                        "text": "Marsh & Yeung, 1998;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1114,
+                        "end": 1137,
+                        "text": "Skaalvik & Rankin, 1992",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1138,
+                        "end": 1163,
+                        "text": "Tay, Licht, & Tate, 1995;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1164,
+                        "end": 1192,
+                        "text": "Williams & Montgomery, 1995;",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1193,
+                        "end": 1193,
+                        "text": "",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1215,
+                        "end": 1239,
+                        "text": "Skaalvik & Rankin, 1990)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The effects of combined internal and external (I/E) comparisons can be illustrated by the students' reactions when receiving achievement feedback (see Marsh, 1990b, p. 108) . A student may accurately perceive him-or herself as above-average in math and German, compared to his or her peers (external), but as being better in math than in German (internal). The external comparison leads to a high self-concept in both subjects, but the internal comparison may moderate the impact of the positive social comparison on the students' self-concept. The internal comparison results in a higher selfconcept in math (above-average with regard to both external and internal frames of reference) and reduces the self-concept in German (below-average with regard to an internal frame of reference). If the internal comparison dominates, this student may have an average or even a below-average selfconcept in German.",
+                "cite_spans": [
+                    {
+                        "start": 151,
+                        "end": 172,
+                        "text": "Marsh, 1990b, p. 108)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The external comparison process should lead to a positive correlation between verbal and math self-concepts, since verbal and math achievements are correlated substantially. The internal comparison process should lead to a negative correlation between the two self-concepts, since the difference between math and verbal skills contributes to a higher self-concept in one area and a lower self-concept in the other. Marsh (1990a) argues that the relative strength of each frame of reference explains the low correlations between verbal and math self-concepts that have been observed in empirical research. The internal comparison leads to verbal/math self-concept correlations that are substantially lower than the correlations between verbal and math achievement levels.",
+                "cite_spans": [
+                    {
+                        "start": 415,
+                        "end": 428,
+                        "text": "Marsh (1990a)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "As another consequence, the I/E model predicts in path-analyses negative effects of achievement in one subject on self-concept in the other one: ''For example, a high math self-concept will be more likely when math skills are good (the external comparison) and when math skills are better than verbal skills (the internal comparison)'' (Marsh, 1986; p. 134) .",
+                "cite_spans": [
+                    {
+                        "start": 336,
+                        "end": 349,
+                        "text": "(Marsh, 1986;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 350,
+                        "end": 357,
+                        "text": "p. 134)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The I/E model proposes many testable hypotheses that are supported by some empirical studies summarized in Marsh (1990a) . Across all studies, the correlation between math and verbal self-concept was close to zero for a variety of populations, including nonstudents, with the exception of the youngest students (1st-and 2nd-graders).",
+                "cite_spans": [
+                    {
+                        "start": 107,
+                        "end": 120,
+                        "text": "Marsh (1990a)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Studies that involve self-concept measures and achievement measures, including objective test scores, teacher ratings, and school performance, showed substantial and higher correlations between verbal and math achievements than between verbal and math self-concepts. In path analyses, the coefficients representing the math achievement/verbal self-concept path as well as the verbal achievement/math self-concept path were mostly negative and statistically significant, thus providing strong support for the predictions derived from the I/E model (K\u00f6ller et al., 1999; Marsh, 1986 Marsh, , 1990b Marsh et al., 1991) .",
+                "cite_spans": [
+                    {
+                        "start": 547,
+                        "end": 568,
+                        "text": "(K\u00f6ller et al., 1999;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 569,
+                        "end": 580,
+                        "text": "Marsh, 1986",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 581,
+                        "end": 595,
+                        "text": "Marsh, , 1990b",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 596,
+                        "end": 615,
+                        "text": "Marsh et al., 1991)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Empirical support for the I/E model is usually based on correlational data. Some authors (e.g., Bong, 1998; Marsh, 1986) have called for longitudinal designs to test the I/E model more directly. There are also very few experimental or field-experimental studies on the I/E model (see M\u00f6ller, 2000; M\u00f6ller & K\u00f6ller, 1998, for exceptions) .",
+                "cite_spans": [
+                    {
+                        "start": 96,
+                        "end": 107,
+                        "text": "Bong, 1998;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 108,
+                        "end": 120,
+                        "text": "Marsh, 1986)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 284,
+                        "end": 297,
+                        "text": "M\u00f6ller, 2000;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 298,
+                        "end": 336,
+                        "text": "M\u00f6ller & K\u00f6ller, 1998, for exceptions)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The present investigation explores the effect of alternative frames of reference on academic self-concepts following the announcement of achievement feedback in a field-experimental setting. Research investigating the antecedents of social comparisons (e.g., Festinger, 1954) suggests that comparisons typically occur under conditions in which relevant comparison information is easily available. Opportunities for social comparisons are thus always given after students have received their exam results in one subject. According to the internal frame of reference effect, one might expect that the simultaneous provision of achievement feedback in two domains would particularly foster comparison across different domains (internal frame of reference). This is typically the case in reports on final grades at the end of a school year, when students are given grades in all subjects taught. Alternatively, opportunities for an internal comparison are given when students receive simultaneous achievement feedback in at least two subjects. Therefore, the purpose of this study is to test the I/E model in an academic situation in which students receive simultaneous achievement feedback in two different subjects. On the basis of the I/E model, the main prediction is that exam results will have strong positive effects on the corresponding self-concepts within a domain and weaker, but significant, negative effects on the selfconcept across domains.",
+                "cite_spans": [
+                    {
+                        "start": 259,
+                        "end": 275,
+                        "text": "Festinger, 1954)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Data were collected in autumn 1998 in two steps. We contacted math and German teachers from several schools regarding participation in our investigation. In order to adequately test our predictions, we needed data from students who had math and German exams in the same week. The second condition was that students should receive the results of both exams on the same day in order to create a psychological situation in which internal and external comparison processes (across and within the subjects of math and German) are likely. Thus, the teachers had to coordinate their time schedules and plan their classroom activities according to our procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants and Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "In the first step, before taking the two exams, students had to fill out a short questionnaire concerning their math and German self-concepts as well as their final grades in the previous school year, their grades in the last math and German exams, and some demographic variables such as age and gender. In the second step, a different questionnaire was administered on the day the exam results were announced. This second questionnaire assessed the students' exam grades and their resulting math and German self-concepts. As is common procedure in German classrooms, teachers made the distribution of the grades public. Knowing this distribution facilitates students' social comparisons with the classmates.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants and Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "We received complete data from 258 (50% female) 7th-to 9th-grade students at schools in the northern part of Germany. Participants were between 12 and 17 years of age (M \u03ed 14.1; SD \u03ed 1.1). They were assured that their teachers would not receive any information about their answers and that participation was voluntary. The questionnaires were self-coded by the students in such a way that they could recognize their codes after the announcement of the exam results. Thus, anonymity was guaranteed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants and Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Five measurement points are considered here: T0 (final grade at the end of the previous school year), T1 (exam grade in the middle of the school year), T2 (math and German selfconcept immediately before written examinations in both subjects), T3 (exam grades), and T4 (math and German self-concept immediately after teachers announced the results of both examinations).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "We defined the domain-specific academic self-concept as the general belief of doing well or poorly in the corresponding domain. For each school subject, the self-concept variable was measured with a four-item scale (see Jerusalem, 1984; M\u00f6ller & K\u00f6ller, 1995) that was adequately reliable (German self-concept at T2 and T4: \u03b1 \u03ed .82; math self-concept at T2: \u03b1 \u03ed .87 and at T4: \u03b1 \u03ed .85). As advised by Skaalvik and Valas (1999) , no motivational or emotional items were included because such items form different factors in some investigations (e.g., Skaalvik & Rankin, 1996) . The four items were ''I would prefer math if it weren't so hard''; ''Nobody's perfect, but I'm just not good at math''; ''With some of the topics in math that I don't understand, I know from the start that I just won't get them''; and ''Even if I do my best in math, I do not perform very well.'' The wording of the items for the two subjects was strictly parallel except for the specific school subject (i.e., math or German). Students responded to each item on a 4-point (agree-disagree) response format. Previous studies have provided evidence for the validity and reliability of the scale (e.g., M\u00f6ller & K\u00f6ller, 1995) . In M\u00f6ller and K\u00f6ller's study, all correlation coefficients of the domain-specific self-concept scales with actual grades in different subjects (German, mathematics, history, and physics) were above .60 and internal consistencies (Cronbach's \u03b1) were above .75.",
+                "cite_spans": [
+                    {
+                        "start": 220,
+                        "end": 236,
+                        "text": "Jerusalem, 1984;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 237,
+                        "end": 259,
+                        "text": "M\u00f6ller & K\u00f6ller, 1995)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 401,
+                        "end": 426,
+                        "text": "Skaalvik and Valas (1999)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 550,
+                        "end": 574,
+                        "text": "Skaalvik & Rankin, 1996)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1177,
+                        "end": 1199,
+                        "text": "M\u00f6ller & K\u00f6ller, 1995)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Data analyses were conducted by means of structural equation modeling (SEM). A detailed presentation of SEM is beyond the scope of the present investigation, but is available elsewhere (e.g., Hayduck, 1987; J\u00f6reskog & S\u00f6rbom, 1993) . Following Hu and Bentler (1999) ; Marsh, Balla, and Hau (1996) ; and Marsh, Balla, and McDonald (1988) , we emphasize the Tucker-Lewis index (TLI) and the root-mean-square error of approximation (RMSEA) to evaluate goodness of fit, but we also present the \u03c7 2 statistic divided by the degrees of freedom. According to recommendations made by the authors mentioned above, a sufficient model fit is indicated by TLI values above .90 (some authors recommend .95), RMSEA values below .08, and a \u03c7 2 /df ratio below 3. Although tests of statistical significance and indices of fit help to evaluate the fit of a model, there is ultimately some degree of subjective and professional judgment in the selection of the ''best'' model. J\u00f6reskog (1979; see also Marsh & Hau, 1996) emphasized that if the same measurements are used on multiple occasions, as is typical in longitudinal research, the corresponding uniquenesses will tend to be correlated and, in order to get accurate estimates of relations among the constructs, correlations among uniquenesses must be included in the model. In our study, however, the inclusion of correlated uniquenesses had no substantial effect on the pattern of remaining parameter estimates.",
+                "cite_spans": [
+                    {
+                        "start": 192,
+                        "end": 206,
+                        "text": "Hayduck, 1987;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 207,
+                        "end": 231,
+                        "text": "J\u00f6reskog & S\u00f6rbom, 1993)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 244,
+                        "end": 265,
+                        "text": "Hu and Bentler (1999)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 268,
+                        "end": 296,
+                        "text": "Marsh, Balla, and Hau (1996)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 299,
+                        "end": 336,
+                        "text": "and Marsh, Balla, and McDonald (1988)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 959,
+                        "end": 974,
+                        "text": "J\u00f6reskog (1979;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 975,
+                        "end": 1002,
+                        "text": "see also Marsh & Hau, 1996)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "In order to facilitate analyses and interpretation, the self-concept items were aggregated to form two item parcels that served as the measured variables in all analyses. Hence, each item parcel consisted of two randomly combined items. This use of item parcels reduces the number of measured variables, results in more reliable and valid indicators, and decreases the effects of idiosyncrasies associated with individual items (see Marsh, 1992; Marsh & O'Niell, 1984) .",
+                "cite_spans": [
+                    {
+                        "start": 433,
+                        "end": 445,
+                        "text": "Marsh, 1992;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 446,
+                        "end": 468,
+                        "text": "Marsh & O'Niell, 1984)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "In longitudinal research, invariant measurement models over time are a necessary prerequisite for the interpretation of change in latent variables. We thus hold the factor loadings of the two self-concept indicators within one domain invariant over time. In the case of grades, however, multiple indicators were not available. Table 1 shows the correlations among all variables from time 0 to time 4. Grades, which in German schools range between 1 \u03ed very good and 6 \u03ed Note. T0 MG and T0 GG \u03ed final math and German grade at the end of the previous school year; T1 MG and T1 GG \u03ed exam grade in the middle of the school year in math and German; T2 MSC and T2 GSC \u03ed math and German self-concept before written exams; T3 MG and T3 GG \u03ed exam grades in math and German; T4 MSC and T4 GSC \u03ed math and German self-concept after the announcement of the exams. Grades were reverse-coded; correlations above .10 or below",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 327,
+                        "end": 334,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "\u03ea.10 are significant ( p \u03fd .05), (two-tailed). The diagonal contains means and standard deviations (in parentheses) of the variables. poor, were reverse-coded so that positive correlations between grade and self-concept within a domain were to be expected.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "All correlations between math and German grades were positive, whereas the coefficients between the math and German self-concept variables tended to be zero or slightly negative. The same was true for the relation between grades and self-concepts: positive correlations within one domain and small but mostly negative coefficients across domains. Finally, the correlation coefficients of the self-concept measures over time (r \u03ed .78 for math and r \u03ed .67 for German) indicate a relatively high stability of the constructs, but suggest that some change has occurred, probably as a consequence of receiving the exam results. This explanation is explored in the following LISREL analyses (see Fig. 1 ). Measurement models as well as correlated uniquenesses and correlated residuals are omitted. All fit statistics considered here indicate a sufficient degree of fit (\u03c7 2 /df \u03ed 1.92, RMSEA \u03ed .06, TLI \u03ed .96). Due to the necessary assumption of invariance of the measurement models for the self-concept constructs over time, the unstandardized factor loadings (1.00 and .74) for the two indicators of math self-concept were the same at T2 and T4. This was also true for German (factor loadings of 1.00 and .60 at T2 and T4). Correlations among residuals were only significant for the second indicator of the in German self-concept (r \u03ed .30, p \u03fd .05). To achieve a reasonable degree of fit, the residuals of the grades in German and mathematics at T3 were allowed to correlate (r \u03ed .21, p \u03fd .05). All paths that   FIG. 1. Path diagram (standardized LISREL solution) showing the coefficients relating self-concept and grades in mathematics and German (as mother tongue) collected at time points 0-4.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 689,
+                        "end": 695,
+                        "text": "Fig. 1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1500,
+                        "end": 1558,
+                        "text": "that   FIG. 1. Path diagram (standardized LISREL solution)",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "were estimated are presented in Fig. 1. 1 Explained variances of the dependent variables in Fig. 1 are for T1 Math grade, R 2 \u03ed .35; for T1 German grade, R 2 \u03ed .29; for T2 Math self-concept, R 2 \u03ed .43; for T2 German self-concept, R 2 \u03ed .37; for T3 Math grade, R 2 \u03ed .30, for T3 German grade, R 2 \u03ed .26; for T4 Math self-concept, R 2 \u03ed .71; and for T4 German self-concept, R 2 \u03ed .59.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 32,
+                        "end": 41,
+                        "text": "Fig. 1. 1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 92,
+                        "end": 98,
+                        "text": "Fig. 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Of particular importance is whether the results support the I/E model. In math, T0 ''final grades'' as well as T1 grades had positive effects on math self-concept at T2. More importantly, math grades at T0 and T1 had negative effects on German self-concept at T2. Although the direct effect of T0 ''final grades'' in math on the T2 self-concept in German (\u03ea.10) was not significant, the total effect was reliable (\u03ea.18, p \u03fd .01).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "In German, T0 final grades as well as T1 grades positively influenced German self-concept at T2. In support of the I/E model, we found a significant negative effect of the T0 German ''final grade'' on math self-concept at T2. However, there was no significant negative effect of T1 German grade on later self-concept in math.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Also of theoretical importance are the effects of self-concept variables on subsequent T3 achievement after controlling for the effects of prior achievement. At least in German, the effect of self-concept on subsequent grades (.13) is significant after controlling for final grades in the previous school year and grades in the last written exam. The corresponding coefficient in mathematics (.09; p \u03fd .07) is only slightly smaller, but failed to reach significance when a two-tailed \u03b1 level of .05 was used. Overall, these findings contribute to the growing body of research indicating that there are effects of prior academic self-concept on subsequent achievement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "What happened following the announcement of both exam results? The change that occurred in our self-concept variables (SC T4 after controlling for SC T2) also provides some support for the I/E model. T3 grades had positive effects on the change in self-concept within the domain. In contrast, the effects were small and negative across subject domains. Although the path coefficients were quite similar for both subjects (\u03ea.11 vs. \u03ea.08), only the effect of German grades on math self-concept change was reliable ( p \u03fd .05 vs p \u03fd .09).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The results of the present investigation provide an important replication and extension of theoretical predictions derived from the I/E model. The pattern of results supports the I/E model for T0 and T1 achievement and T2 self-concepts (with the exception of the cross-domain path from T1 German grade to T2 math self-concept) as well as for T2 self-concept and T3 achievement, replicating results of previous studies (e.g., Marsh, 1986; Skaalvik & Rankin, 1992) . Although there have been some replications of the I/E model, there have not been many studies which explicitly deal with current and simultaneous academic achievement feedback in two domains and its effects on change in domain-specific academic self-concepts. In the present investigation, opportunities for both internal and external comparisons in two domains were provided by giving students simultaneous achievement feedback. The effects were, in part, congruent with the I/E model. In particular, the negative coefficients from the actual German exam grade (T3) to the crossdomain math self-concept (T4) together with the positive effects of actual exam grades on corresponding self-concepts, supported the predictions of the I/E model in a longitudinal study. Interestingly, Skaalvik and Valas (1999) also found evidence for the negative impact of verbal achievement on subsequent math self-concept when they analyzed data from the same age group. As in our study, math achievement was not found to affect subsequent verbal self-concept. This difference may arise because scholastic achievement determines students' math self-concepts to a higher degree compared to students' verbal self-concepts. Verbal self-concepts have developed, at least partly, before students enter school and may later be fed by more sources (e.g., feedback from parents and peers) than are math self-concepts. However, this result is in line with the majority of published studies as an inspection of all studies of the I/E model shows. Overall, effects of verbal achievement on math self-concept are stronger than effects of math achievement on verbal self-concept. Regarding the relatively small magnitude of the negative relations in our study, it should be underlined that in our longitudinal study the effects of T3 grades on T4 self-concepts are controlled for T2 self-concepts. The effects of T0 grades on T2 self-concepts are as high as reported in some other studies (e.g., Skaalvik & Rankin, 1990) .",
+                "cite_spans": [
+                    {
+                        "start": 425,
+                        "end": 437,
+                        "text": "Marsh, 1986;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 438,
+                        "end": 462,
+                        "text": "Skaalvik & Rankin, 1992)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1246,
+                        "end": 1271,
+                        "text": "Skaalvik and Valas (1999)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 2431,
+                        "end": 2455,
+                        "text": "Skaalvik & Rankin, 1990)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Students received additional permanent achievement feedback in regular classes between T1 (middle of the school year) and T3 (examination feedback). Although we controlled for the impact of this permanent achievement feedback by integrating the T2 self-concept measures in our analysis, it should be noted that the relations between T3 grades and T4 self-concepts may be influenced not only by the current exam grades, but by continual achievement feedback. To control for such processes, as well as for a deeper theoretical understanding of the psychological processes underlying the I/E model, it may be useful to carry out experimental studies. In M\u00f6ller (2000) , participants who had worked on two different types of tasks received manipulated achievement feedback with reference to internal and external comparisons. Results showed the relevance of internal comparison information. Subjects scored their own ability and contentment with their result in the first type of task more positively (negatively) when they had received a better (worse) result than in the second task.",
+                "cite_spans": [
+                    {
+                        "start": 651,
+                        "end": 664,
+                        "text": "M\u00f6ller (2000)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The present investigation is one of the few studies providing empirical evidence that beyond final grades at the end of a school year, current achievement feedback given simultaneously in two domains could indeed serve as the basis for the processes underlying the I/E model-the counter-balancing of internal and external frames of reference.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "An additional LISREL run, suggested by one anonymous reviewer, was conducted to test whether there were significant effects of prior self-concept in one domain on later grades in the other domain. However, both path coefficients, that is, the one from German self-concept at T2 to math grade at T3 and the one from math self-concept at T2 to German grade at T3, were estimated to be zero.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Tests of the internal/external frames of reference model with subject-specific academic self-efficacy and frame-specific academic self-concepts",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Educational Psychology",
+                "volume": "90",
+                "issue": "",
+                "pages": "102--110",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bong, M. (1998). Tests of the internal/external frames of reference model with subject-specific academic self-efficacy and frame-specific academic self-concepts. Journal of Educational Psychology, 90, 102-110.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Bereichsspezifische Beziehungen zwischen leistungsthematischen Selbstkonzepten und Schulleistungen",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Faber",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "On the relationship between self-concept with regard to spelling and mathematics and related academic variables",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Faber, G. (1992). Bereichsspezifische Beziehungen zwischen leistungsthematischen Selbst- konzepten und Schulleistungen. [On the relationship between self-concept with regard to spelling and mathematics and related academic variables].",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "A theory of social comparison processes",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Festinger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1954,
+                "venue": "Human Relations",
+                "volume": "7",
+                "issue": "",
+                "pages": "117--140",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Festinger, L. (1954). A theory of social comparison processes. Human Relations, 7, 117-140.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Structural equation modeling with LISREL",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hayduck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hayduck, L. A. (1987). Structural equation modeling with LISREL. Baltimore, MD: The John Hopkins Univ. Press.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bentler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Structural Equation Modeling",
+                "volume": "6",
+                "issue": "",
+                "pages": "1--55",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling, 6, 1-55.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Selbstbezogene Kognitionen in schulischen Bezugsgruppen: Eine L\u00e4ngsschnittstudie [Self-evaluative cognitions in academic reference groups: A longitudinal study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jerusalem",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jerusalem, M. (1984). Selbstbezogene Kognitionen in schulischen Bezugsgruppen: Eine L\u00e4ngsschnittstudie [Self-evaluative cognitions in academic reference groups: A longitudi- nal study].",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Statistical estimation of structural models in longitudinal investigations",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "J\u00f6reskog",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "Longitudinal research in the study of behavior and development",
+                "volume": "",
+                "issue": "",
+                "pages": "303--351",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f6reskog, K. G. (1979). Statistical estimation of structural models in longitudinal investiga- tions. In J. R. Nesselroade & P. B. Baltes (Eds.), Longitudinal research in the study of behavior and development (pp. 303-351). New York: Academic Press.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "LISREL 8: User's reference guide",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "J\u00f6reskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "S\u00f6rbom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "J\u00f6reskog, K. G., & S\u00f6rbom, D. (1993). LISREL 8: User's reference guide. Chicago, IL: Scien- tific Software International, Inc.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Leistungsbeurteilungen und F\u00e4higkeitsselbstkonzepte: Eine l\u00e4ngsschnittliche \u00dc berpr\u00fcfung des Internal/External Frame of Reference Modells [Achievement feedback and academic self-concepts: A longitudinal test of the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Klemmert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Zeitschrift f\u00fcr P\u00e4dagogische Psychologie",
+                "volume": "13",
+                "issue": "",
+                "pages": "128--134",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "K\u00f6ller, O., Klemmert, H., M\u00f6ller, J., & Baumert, J. (1999). Leistungsbeurteilungen und F\u00e4hig- keitsselbstkonzepte: Eine l\u00e4ngsschnittliche \u00dc berpr\u00fcfung des Internal/External Frame of Reference Modells [Achievement feedback and academic self-concepts: A longitudinal test of the internal/external frame of reference model]. Zeitschrift f\u00fcr P\u00e4dagogische Psy- chologie, 13, 128-134.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Verbal and math self-concepts: An internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concepts: An internal/external frame of reference model. American Educational Research Journal, 23, 129-149.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "A multidimensional, hierarchical model of self-concept: Theoretical and empirical justification",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Educational Psychology Review",
+                "volume": "2",
+                "issue": "",
+                "pages": "77--172",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990a). A multidimensional, hierarchical model of self-concept: Theoretical and empirical justification. Educational Psychology Review, 2, 77-172.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Influences of internal and external frames of reference on the formation of math and English self-concepts",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "107--116",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990b). Influences of internal and external frames of reference on the formation of math and English self-concepts. Journal of Educational Psychology, 82, 107-116.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Self-Description Questionnaire (SDQ) II: A theoretical and empirical basis for the measurement of multiple dimensions of adolescent self-concept: A test manual and a research monograph",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1992). Self-Description Questionnaire (SDQ) II: A theoretical and empirical basis for the measurement of multiple dimensions of adolescent self-concept: A test man- ual and a research monograph. Sydney, Australia: University of Western Sydney.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "An evaluation of incremental fit indices: A clarification of mathematical and empirical processes",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Balla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Balla, J. R., & Hau, K. T. (1996). An evaluation of incremental fit indices: A clarification of mathematical and empirical processes. In G. A. Marcoulides & R. E.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Advanced structural equation modeling techniques",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Schumacker",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "315--353",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schumacker (Ed.), Advanced structural equation modeling techniques (pp. 315-353).",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Goodness of fit indexes in confirmatory factor analysis: The effect of sample size",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Balla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Mcdonald",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Psychological Bulletin",
+                "volume": "103",
+                "issue": "",
+                "pages": "391--410",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Balla, J. R., & McDonald, R. P. (1988). Goodness of fit indexes in confirmatory factor analysis: The effect of sample size. Psychological Bulletin, 103, 391-410.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Assessing goodness of fit: Is parsimony always desirable",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.-T",
+                        "middle": [],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Journal of Experimental Education",
+                "volume": "64",
+                "issue": "",
+                "pages": "364--390",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hau, K.-T. (1996). Assessing goodness of fit: Is parsimony always desirable? Journal of Experimental Education, 64, 364-390.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Self-Description Questionnaire III (SDQ III): The construct validity of multidimensional self-concept ratings by late adolescents",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Niell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Journal of Educational Measurement",
+                "volume": "21",
+                "issue": "",
+                "pages": "153--174",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & O'Niell, H. (1984). Self-Description Questionnaire III (SDQ III): The con- struct validity of multidimensional self-concept ratings by late adolescents. Journal of Educational Measurement, 21, 153-174.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Subject-specific components of academic self-concept and self-efficacy",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Walker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Debus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "16",
+                "issue": "",
+                "pages": "331--345",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Walker, R., & Debus, R. (1991). Subject-specific components of academic self-concept and self-efficacy. Contemporary Educational Psychology, 16, 331-345.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Longitudinal structural equation models of academic self-concept and achievement: Gender differences in the development of math and English constructs",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "American Educational Research Journal",
+                "volume": "35",
+                "issue": "",
+                "pages": "705--738",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Yeung, A. S. (1998). Longitudinal structural equation models of academic self-concept and achievement: Gender differences in the development of math and En- glish constructs. American Educational Research Journal, 35, 705-738.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Effekte dimensionaler und sozialer Vergleiche auf F\u00e4higkeits einsch\u00e4tzungen und die Zufriedenheit mit der Leistung [The impact of dimensional and social comparisons on ability scores",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J. (2000). Effekte dimensionaler und sozialer Vergleiche auf F\u00e4higkeits einsch\u00e4t- zungen und die Zufriedenheit mit der Leistung [The impact of dimensional and social comparisons on ability scores and achievement contentment].",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Kausalattributionen von Schulleistungen: Reaktive und nichtreaktive Befragung",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & K\u00f6ller, O. (1995). Kausalattributionen von Schulleistungen: Reaktive und nicht- reaktive Befragung. [Causal attributions of academic achievement: Reactive and non- reactive instructions].",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Dimensionale und soziale Vergleiche nach schulischen Leistungen [Dimensional and social comparisons of academic achievements",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "30",
+                "issue": "",
+                "pages": "118--127",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & K\u00f6ller, O. (1998). Dimensionale und soziale Vergleiche nach schulischen Leis- tungen [Dimensional and social comparisons of academic achievements]. Zeitschrift f\u00fcr Entwicklungspsychologie und P\u00e4dagogische Psychologie, 30, 118-127.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Math, verbal, and general academic self-concept: The internal/external frame of reference model and gender differences in self-concept structure",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Journal of Educational Psychology",
+                "volume": "82",
+                "issue": "",
+                "pages": "546--554",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1990). Math, verbal, and general academic self-concept: The internal/external frame of reference model and gender differences in self-concept structure. Journal of Educational Psychology, 82, 546-554.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Math and verbal achievement and self-concepts: Testing the internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Journal of Early Adolescence",
+                "volume": "12",
+                "issue": "",
+                "pages": "267--279",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1992). Math and verbal achievement and self-concepts: Testing the internal/external frame of reference model. Journal of Early Adolescence, 12, 267-279.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "A test of the internal/external frame of reference model at different levels of math and verbal self-perception",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "American Educational Research Journal",
+                "volume": "32",
+                "issue": "",
+                "pages": "161--184",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1995). A test of the internal/external frame of reference model at different levels of math and verbal self-perception. American Educational Re- search Journal, 32, 161-184.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Studies of academic self-concept using a Norwegian modification of the SDQ. Paper presented at the XXVI International Congress of Psychology",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rankin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Rankin, R. J. (1996, August). Studies of academic self-concept using a Norwegian modification of the SDQ. Paper presented at the XXVI International Congress of Psychology, Montreal, Canada.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Achievement and self-concept in mathematics and verbal arts: A study of relations",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Valas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Skaalvik, E. M., & Valas, H. (1999, April). Achievement and self-concept in mathematics and verbal arts: A study of relations. Poster presented at the annual meeting of the American Educational Research Association, Montreal, Canada.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "The internal/external frame of reference in adolescents' math and verbal self-concepts: A generalization study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Tay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Licht",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Tate",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "20",
+                "issue": "",
+                "pages": "392--402",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tay, M. P., Licht, B. G., & Tate, R. L. (1995). The internal/external frame of reference in adolescents' math and verbal self-concepts: A generalization study. Contemporary Edu- cational Psychology, 20, 392-402.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Using frame of reference theory to understand the self-concept of academically able students",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Williams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Montgomery",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Journal for the Education of the Gifted",
+                "volume": "18",
+                "issue": "",
+                "pages": "400--409",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Williams, J. E., & Montgomery, D. (1995). Using frame of reference theory to understand the self-concept of academically able students. Journal for the Education of the Gifted, 18, 400-409.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "num": null,
+                "text": "Correlations among Grades and Self-Concept Measures in German and Math at Five Time Points",
+                "type_str": "table",
+                "content": "<table><tr><td>T4 GSC</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>14.90 (3.3)</td></tr><tr><td>T4 MSC</td><td/><td/><td/><td/><td/><td/><td/><td/><td>14.76 (3.8)</td><td>\u03ea.03</td></tr><tr><td>T3 GG</td><td/><td/><td/><td/><td/><td/><td/><td>2.68 (1.08)</td><td>\u03ea.06</td><td>.46</td></tr><tr><td>T3 MG</td><td/><td/><td/><td/><td/><td/><td>2.63 (1.10)</td><td>.29</td><td>.48</td><td>\u03ea.01</td></tr><tr><td>T2 GSC</td><td/><td/><td/><td/><td/><td>14.56 (3.4)</td><td>\u03ea.04</td><td>.35</td><td>\u03ea.09</td><td>.67</td></tr><tr><td>T2 MSC</td><td/><td/><td/><td/><td>14.62 (3.9)</td><td>\u03ea.03</td><td>.38</td><td>\u03ea.04</td><td>.78</td><td>\u03ea.03</td></tr><tr><td>T1 GG</td><td/><td/><td/><td>2.88 (1.05)</td><td>\u03ea.03</td><td>.43</td><td>.20</td><td>.44</td><td>\u03ea.04</td><td>.35</td></tr><tr><td>T1 MG</td><td/><td/><td>2.84 (1.13)</td><td>.10</td><td>.49</td><td>\u03ea.12</td><td>.48</td><td>.12</td><td>.47</td><td>\u03ea.06</td></tr><tr><td>T0 GG</td><td/><td>2.76 (.88)</td><td>.11</td><td>.56</td><td>\u03ea.02</td><td>.51</td><td>.28</td><td>.47</td><td>\u03ea.02</td><td>.44</td></tr><tr><td>T0 MG</td><td>2.77 (.97)</td><td>.31</td><td>.59</td><td>.17</td><td>.55</td><td>.01</td><td>.52</td><td>.16</td><td>.53</td><td>.01</td></tr><tr><td/><td>T0 MG</td><td>T0 GG</td><td>T1 MG</td><td>T1 GG</td><td>T2 MSC</td><td>T2 GSC</td><td>T3 MG</td><td>T3 GG</td><td>T4 MSC</td><td>T4 GSC</td></tr></table>"
+            }
+        }
+    }
+}

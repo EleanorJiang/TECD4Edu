@@ -1,0 +1,3599 @@
+{
+    "paper_id": "wouters_2013",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:55:20.820791Z"
+    },
+    "title": "Early adolescents' academic self-concept formation: Do classmates or friends matter most?",
+    "authors": [
+        {
+            "first": "Sofie",
+            "middle": [],
+            "last": "Wouters",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Katholieke Universiteit Leuven",
+                "location": {
+                    "country": "Belgium"
+                }
+            },
+            "email": "sofie.wouters@ppw.kuleuven.be"
+        },
+        {
+            "first": "Hilde",
+            "middle": [],
+            "last": "Colpin",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Katholieke Universiteit Leuven",
+                "location": {
+                    "country": "Belgium"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Jan",
+            "middle": [],
+            "last": "Van Damme",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Education and Training Research Group",
+                "institution": "",
+                "location": {
+                    "settlement": "Leuven",
+                    "region": "KU",
+                    "country": "Belgium"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Steven",
+            "middle": [],
+            "last": "De Laet",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Katholieke Universiteit Leuven",
+                "location": {
+                    "country": "Belgium"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Karine",
+            "middle": [],
+            "last": "Verschueren",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Katholieke Universiteit Leuven",
+                "location": {
+                    "country": "Belgium"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The big-fish-little-pond effect model explains individual differences in equally achieving students' academic selfconcept by the achievement level of their reference group. Taking into account the multitude of reference groups in students' everyday school life, this study investigates which reference frame (i.e., classmates or friends) matters most for students' academic self-concept. Our sample comprised 2987 students (50% boys) from Grade 6 in 112 elementary schools (174 classes). Three dimensions of academic self-concept (i.e., global academic, math, and language self-concept) were considered. Using multilevel modeling, we found the predicted negative effects of class-average and friend-average achievement on all three academic self-concept dimensions. When comparing the effect of both group-average achievement variables, we found that friend-average achievement always had a smaller negative effect than class-average achievement. Overall, these results suggest that, when evaluating their academic competencies, students do not primarily rely on the most local comparison source, but on the most informative one.",
+    "pdf_parse": {
+        "paper_id": "wouters_2013",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The big-fish-little-pond effect model explains individual differences in equally achieving students' academic selfconcept by the achievement level of their reference group. Taking into account the multitude of reference groups in students' everyday school life, this study investigates which reference frame (i.e., classmates or friends) matters most for students' academic self-concept. Our sample comprised 2987 students (50% boys) from Grade 6 in 112 elementary schools (174 classes). Three dimensions of academic self-concept (i.e., global academic, math, and language self-concept) were considered. Using multilevel modeling, we found the predicted negative effects of class-average and friend-average achievement on all three academic self-concept dimensions. When comparing the effect of both group-average achievement variables, we found that friend-average achievement always had a smaller negative effect than class-average achievement. Overall, these results suggest that, when evaluating their academic competencies, students do not primarily rely on the most local comparison source, but on the most informative one.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "BFLPE on their math self-concept, which may suggest that for these individuals the assimilation process was stronger.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Despite the abundant evidence for the BFLPE model, some topics have not been extensively studied. First, previous BFLPE research has mainly focused on students' school or class as a frame of reference (e.g., L\u00fcdtke et al., 2005; Preckel & Br\u00fcll, 2010; Seaton et al., 2010; Thijs, Verkuyten, & Helmond, 2010) . However, students' everyday school life consists of multiple potentially salient reference groups including their friends or educational track (e.g., Dijkstra et al., 2008; Pomerantz, Ruble, Frey, & Greulich, 1995; Wouters, Colpin, Germeijs, & Verschueren, 2009) . In particular, as children move to early adolescence, their friends tend to become a central social context shaping their development (Rubin, Bukowski, & Parker, 2006) . This raises the question of whether students use the achievement levels of their friends as an additional comparison standard. Second, in a school context these different kinds of reference frames are all accessible to students at the same time (Marsh, Trautwein, L\u00fcdtke, & K\u00f6ller, 2008; Wouters et al., 2009) . To date, however, the relative importance of simultaneously occurring reference groups has hardly been studied. In particular, no previous research has examined the relative effect of classmates and friends on students' academic self-concept. The current study intends to fill this gap.",
+                "cite_spans": [
+                    {
+                        "start": 208,
+                        "end": 228,
+                        "text": "L\u00fcdtke et al., 2005;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 229,
+                        "end": 251,
+                        "text": "Preckel & Br\u00fcll, 2010;",
+                        "ref_id": "BIBREF59"
+                    },
+                    {
+                        "start": 252,
+                        "end": 272,
+                        "text": "Seaton et al., 2010;",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 273,
+                        "end": 307,
+                        "text": "Thijs, Verkuyten, & Helmond, 2010)",
+                        "ref_id": "BIBREF70"
+                    },
+                    {
+                        "start": 460,
+                        "end": 482,
+                        "text": "Dijkstra et al., 2008;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 483,
+                        "end": 524,
+                        "text": "Pomerantz, Ruble, Frey, & Greulich, 1995;",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 525,
+                        "end": 572,
+                        "text": "Wouters, Colpin, Germeijs, & Verschueren, 2009)",
+                        "ref_id": "BIBREF72"
+                    },
+                    {
+                        "start": 709,
+                        "end": 742,
+                        "text": "(Rubin, Bukowski, & Parker, 2006)",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 990,
+                        "end": 1032,
+                        "text": "(Marsh, Trautwein, L\u00fcdtke, & K\u00f6ller, 2008;",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 1033,
+                        "end": 1054,
+                        "text": "Wouters et al., 2009)",
+                        "ref_id": "BIBREF72"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Previous research has shown that friends affect children's school adjustment and that this impact intensifies when children move into (early) adolescence (e.g., Altermatt, 2012; Altermatt & Broady, 2009; Berndt, 1999; Cambron, Acitelli, & Steinberg, 2010; Cook, Deng, & Morgano, 2007; Lubbers, Kuyper, & van der Werf, 2009; Rubin et al., 2006) . Furthermore, peer socialization research has already shown that friends' achievement levels may positively predict adolescents' own achievement levels (e.g., Altermatt & Pomerantz, 2003; Berndt & Keefe, 1995; Cook et al., 2007; Ryan, 2001 ). Effects of friends' achievement levels on adolescents' academic self-concept, however, have hardly been investigated (Hendriks, Kuyper, Lubbers, and Van der Werf, 2011) . Hence, the question of whether friends' achievement also triggers a BFLPE on academic self-concept remains largely unaddressed. This is interesting considering that effects of friends' achievement may be different depending on the outcome under consideration. Social comparison theories in particular suggest that the effect of high achieving friends may be negative for one's self-evaluation, although it has shown to be positive for one's achievement (Altermatt & Pomerantz, 2005) . Altermatt and Pomerantz (2005) performed the only study that investigated classroom friends as an implicit frame of reference for students' self-evaluative beliefs. In line with social comparison theory, they showed that classroom friends' average achievement (operationalized in terms of grades) negatively predicted the self-evaluative beliefs of low achieving children, but positively affected those of high achieving children (although the latter effect was only marginally significant).",
+                "cite_spans": [
+                    {
+                        "start": 161,
+                        "end": 177,
+                        "text": "Altermatt, 2012;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 178,
+                        "end": 203,
+                        "text": "Altermatt & Broady, 2009;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 204,
+                        "end": 217,
+                        "text": "Berndt, 1999;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 218,
+                        "end": 255,
+                        "text": "Cambron, Acitelli, & Steinberg, 2010;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 256,
+                        "end": 284,
+                        "text": "Cook, Deng, & Morgano, 2007;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 285,
+                        "end": 323,
+                        "text": "Lubbers, Kuyper, & van der Werf, 2009;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 324,
+                        "end": 343,
+                        "text": "Rubin et al., 2006)",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 504,
+                        "end": 532,
+                        "text": "Altermatt & Pomerantz, 2003;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 533,
+                        "end": 554,
+                        "text": "Berndt & Keefe, 1995;",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 555,
+                        "end": 573,
+                        "text": "Cook et al., 2007;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 574,
+                        "end": 584,
+                        "text": "Ryan, 2001",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 705,
+                        "end": 756,
+                        "text": "(Hendriks, Kuyper, Lubbers, and Van der Werf, 2011)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 1212,
+                        "end": 1241,
+                        "text": "(Altermatt & Pomerantz, 2005)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1244,
+                        "end": 1274,
+                        "text": "Altermatt and Pomerantz (2005)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Friends as frames of reference",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "In the current study, we aimed to contribute to ongoing BFLPE research by examining simultaneous effects of classmates and friends on three dimensions of elementary school students' academic selfconcept (i.e., global academic self-concept, math self-concept and language self-concept). In doing this, we extended the study of Altermatt and Pomerantz (2005) in three important ways. First, we focused specifically on predicting academic self-concept instead of a more global evaluation of self. As the BFLPE model specifically aims to explain academic self-concept formation, this extension is necessary to further test and refine the model. Second, we measured (individual and classroom) achievement through standardized achievement tests instead of through grades. This facilitates comparing achievement levels across classrooms and schools . Finally, we did not only examine the effect of classroom friends' achievement on academic self-concept, but also examine its predictive value above and beyond the effect of classmates' achievement level. This will yield a better understanding of the unique importance of classroom friends' achievement.",
+                "cite_spans": [
+                    {
+                        "start": 326,
+                        "end": 356,
+                        "text": "Altermatt and Pomerantz (2005)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study aims",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "In general and based on previous BFLPE findings (e.g., Marsh, Seaton, et al., 2008) , we hypothesized a negative effect of both class-and (classroom) friend-average achievement. However, regarding the predictive strength of both reference frames, we proposed two alternative hypotheses. First, friend-average achievement may have a stronger effect on students' academic self-concept than the average achievement level of the whole classroom ('friend dominance hypothesis'). This hypothesis is consistent with the local dominance effect model (Zell & Alicke, 2010) . Zell and Alicke (2010) suggested that individuals tend to rely on the most local comparison source for self-evaluation when multiple comparison standards are present. In the current study, friends are a more local source of information than classmates, which would imply a stronger effect of friend-average achievement on students' academic self-concept as compared with class-average achievement. This hypothesis is also in line the Self-Evaluation Maintenance (SEM) model in which students are assumed to feel more threatened when the one outperforming them is closer to them (Guay, Boivin, & Hodges, 1999; Tesser, 1988 Tesser, , 1991 .",
+                "cite_spans": [
+                    {
+                        "start": 55,
+                        "end": 83,
+                        "text": "Marsh, Seaton, et al., 2008)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 542,
+                        "end": 563,
+                        "text": "(Zell & Alicke, 2010)",
+                        "ref_id": "BIBREF74"
+                    },
+                    {
+                        "start": 566,
+                        "end": 588,
+                        "text": "Zell and Alicke (2010)",
+                        "ref_id": "BIBREF74"
+                    },
+                    {
+                        "start": 1144,
+                        "end": 1174,
+                        "text": "(Guay, Boivin, & Hodges, 1999;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1175,
+                        "end": 1187,
+                        "text": "Tesser, 1988",
+                        "ref_id": "BIBREF68"
+                    },
+                    {
+                        "start": 1188,
+                        "end": 1202,
+                        "text": "Tesser, , 1991",
+                        "ref_id": "BIBREF69"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study aims",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "Alternatively, class-average achievement may have a stronger effect on students' academic self-concept than the friend-average achievement ('classroom dominance hypothesis'). Previous research demonstrated that when individuals feel part of a group or when they are focused on emotional bonding (i.e., focused on social identity), they show stronger assimilation effects towards their comparison targets (Kemmelmeier & Oyserman, 2001 ). Hence, friends may evoke larger assimilation effects than classmates. Furthermore, friends may also induce smaller contrast effects than classmates, because students choose their friends and they tend, in general, to avoid choosing friends whose achievement level strongly differs from their own achievement level (e.g., Hamm, 2000; Huguet et al., 2009) . These larger assimilation effects and/or smaller contrast effects would then result in a smaller net BFLPE for friends as compared to classmates.",
+                "cite_spans": [
+                    {
+                        "start": 404,
+                        "end": 433,
+                        "text": "(Kemmelmeier & Oyserman, 2001",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 758,
+                        "end": 769,
+                        "text": "Hamm, 2000;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 770,
+                        "end": 790,
+                        "text": "Huguet et al., 2009)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study aims",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "Additionally, we aimed to investigate these hypotheses controlling for effects of gender and individual achievement. Specifically, we predicted girls to have a lower global academic and math self-concept, but a higher language self-concept than boys (e.g., De Fraine, Van Damme, & Onghena, 2007; Leflot, Onghena, & Colpin, 2010; Marsh, 1989a Marsh, , 1989b Nagy et al., 2010) . Additionally, we expected to find a positive relationship between individual academic achievement and academic self-concept (see Craven, 2005 and Martin, 2011 for overviews).",
+                "cite_spans": [
+                    {
+                        "start": 257,
+                        "end": 295,
+                        "text": "De Fraine, Van Damme, & Onghena, 2007;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 296,
+                        "end": 328,
+                        "text": "Leflot, Onghena, & Colpin, 2010;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 329,
+                        "end": 341,
+                        "text": "Marsh, 1989a",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 342,
+                        "end": 356,
+                        "text": "Marsh, , 1989b",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 357,
+                        "end": 375,
+                        "text": "Nagy et al., 2010)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 507,
+                        "end": 523,
+                        "text": "Craven, 2005 and",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 524,
+                        "end": 536,
+                        "text": "Martin, 2011",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study aims",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "The data used in the present study were collected within a large national study in Europe. Students were recruited from a nationally representative random sample of 122 elementary schools (174 classes with an average of 17 students per class). The sample used in the current study comprised 2987 students (50% boys) in Grade 6 (i.e., the final year of elementary school; mean age = 12.1 years, SD = 5 months, school year 2008-2009). In general, students take lessons in groups/ classes that stay the same throughout the school year with one teacher for all main school subjects. Additionally, classes are heterogeneously grouped (i.e., students are not streamed or tracked according to their ability level).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "Descriptive data were available for most students regarding their mothers' highest educational level (84% valid data) and their parents' ethnic-cultural background (82% valid data). About 46% of the mothers had a degree at postsecondary level, 35% had a high school degree and 19% did not complete high school education. Regarding students' ethnic-cultural background, we may conclude that most of the students in our subsample (88%) had Western European parents. Additionally, 4% of the students had Turkish or Moroccan parents and 8% had parents born in other countries or with a mixed ethnic background.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "All measures were administered in group to the students in their classroom by an in-house school member during the spring term. To identify students' friends in the classroom, sociometric nominations were used. Based on students' responses, their self-nominated friends were identified with the maximum number of nominations equaling the students' class size minus one (students could not nominate themselves). Both reciprocal and non-reciprocal friends were included because we assumed that all students identified by the student as friends may affect his or her academic self-concept, regardless of reciprocity. On average, friend groups contained eight students in the current study.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "To assess students' academic self-concept multidimensionally, we focused on global academic, math, and language self-concept. These constructs were measured with three subscales from a Dutch adaptation of Marsh's (1992) Self Description Questionnaire I (SDQ-I; Simons & Fisette, 2001 ). Sample items were \"I am good at all school subjects\" (academic self-concept; five items; Cronbach's \u03b1 = .81), \"I learn things quickly in languages (Dutch)\" (language self-concept; six items; Cronbach's \u03b1 = .87), and \"Work in mathematics is easy for me\" (math self-concept; six items; Cronbach's \u03b1 = .90). All self-concept subscales were scored on a 5-point Likert-type rating scale ranging from 1 (false) to 5 (true). The SDQ-I has shown good convergent and divergent validity and the three abovementioned subscales have shown sufficient internal consistency in previous studies (Cronbach's \u03b1 ranged from .84 to .89; Marsh, Barnes, Cairns, & Tidman, 1984; Marsh & McDonald-Holmes, 1990) .",
+                "cite_spans": [
+                    {
+                        "start": 205,
+                        "end": 219,
+                        "text": "Marsh's (1992)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 261,
+                        "end": 283,
+                        "text": "Simons & Fisette, 2001",
+                        "ref_id": "BIBREF64"
+                    },
+                    {
+                        "start": 904,
+                        "end": 942,
+                        "text": "Marsh, Barnes, Cairns, & Tidman, 1984;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 943,
+                        "end": 973,
+                        "text": "Marsh & McDonald-Holmes, 1990)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "Academic achievement in math and languages was measured through standardized tests. To measure language achievement, an adapted version of a reading comprehension test was used (Cortois, Van Droogenbroeck, Verachtert, & Van Damme, 2010; Staphorsius & Krom, 1998) , which has shown good reliability and construct validity (Evers, Braak, Frima, & Vliet-Mulder, 2009 . Additionally, math achievement was measured through a standardized math test assessing multiple domains in mathematics (e.g., mental arithmetic, math problems, geometry, and fractions; Cortois et al., 2010) . Students were assigned either an easier or a more difficult version of the language and math achievement tests in Grade 6, according to their performance on the respective standardized achievement tests in Grade 5. Item Response Theory (IRT) was used to compare the results from these different tests across students. In a prior calibration study, common items across several test versions were used as anchors to equate the tests (Kolen & Brennan, 2004) . Using the IRT models, raw test scores from both test versions were then converted into scale scores with a common metric. For the data on reading comprehension a two-parameter IRT model (Birnbaum, 1968 ) was used, while for the mathematics data a three-parameter IRT model (Birnbaum, 1968) . To obtain a global measure of academic achievementparallel with our global academic self-concept subscalethe language and math IRT achievement scores were averaged. Furthermore, to create measures of class-average and friend-average achievement, all individual achievement scores were averaged for each class and each group of self-nominated friends.",
+                "cite_spans": [
+                    {
+                        "start": 177,
+                        "end": 236,
+                        "text": "(Cortois, Van Droogenbroeck, Verachtert, & Van Damme, 2010;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 237,
+                        "end": 262,
+                        "text": "Staphorsius & Krom, 1998)",
+                        "ref_id": "BIBREF66"
+                    },
+                    {
+                        "start": 321,
+                        "end": 363,
+                        "text": "(Evers, Braak, Frima, & Vliet-Mulder, 2009",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 551,
+                        "end": 572,
+                        "text": "Cortois et al., 2010)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1006,
+                        "end": 1029,
+                        "text": "(Kolen & Brennan, 2004)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1218,
+                        "end": 1233,
+                        "text": "(Birnbaum, 1968",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1305,
+                        "end": 1321,
+                        "text": "(Birnbaum, 1968)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "In line with L\u00fcdtke et al. (2008) and Marsh et al. (2009) , a latentmanifest contextual model was used to test our hypotheses. This refers to a multilevel model in which we not only control for clustering of students into classes, but also for measurement error, thus integrating multilevel and structural equation modeling.",
+                "cite_spans": [
+                    {
+                        "start": 13,
+                        "end": 33,
+                        "text": "L\u00fcdtke et al. (2008)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 38,
+                        "end": 57,
+                        "text": "Marsh et al. (2009)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "To account for possible dependency effects among students clustered in the same class, two-level models were estimated with students (Level 1) nested within classes (Level 2). The class level explained a significant amount of the total variance for all three self-concept dimensions (intraclass correlations ranged between .02 and .09 and design effects ranged between 1.32 and 2.44). Therefore, we decided to control for clustering of students in classes (Heck & Thomas, 2009; Muth\u00e9n & Satorra, 1995; Peugh, 2010) . In our study, we did not control for clustering of students in schools because of the large overlap between clustering in schools and classes with 50% of the schools only having one class in Grade 6 and correlations between class-and school-average achievement variables ranging from .87 to .89. As intraclass correlations were similar for the class and school level and sampling error was much lower at the class level, we chose specifically to control for the class level.",
+                "cite_spans": [
+                    {
+                        "start": 456,
+                        "end": 477,
+                        "text": "(Heck & Thomas, 2009;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 478,
+                        "end": 501,
+                        "text": "Muth\u00e9n & Satorra, 1995;",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 502,
+                        "end": 514,
+                        "text": "Peugh, 2010)",
+                        "ref_id": "BIBREF57"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "As suggested by Enders and Tofighi (2007) , all variables were grandmean centered (i.e., gender) or standardized across the sample mean (i.e., academic self-concept parcels and individual achievement). Group-average achievement variables were not re-standardized after being calculated. Effect sizes (ES) were calculated for significant effects using the formula mentioned by Seaton et al. (2011) (i.e., ES = 2 \u00d7 B \u00d7 SD predictor / SD criterion ), which is equivalent to Cohen's d (Cohen, 1988) .",
+                "cite_spans": [
+                    {
+                        "start": 16,
+                        "end": 41,
+                        "text": "Enders and Tofighi (2007)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 481,
+                        "end": 494,
+                        "text": "(Cohen, 1988)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "To account for measurement error, latent variable analyses were used for all three dimensions of academic self-concept (i.e., all constructs with multiple indicators); each dimension was represented by three randomly selected parcels of items. We chose to use item parcels instead of items because parceling has some advantages relative to the use of individual items in more complicated analyses (e.g., reduction in sampling error, more stable solution; Alhija & Wisenbaker, 2006; Little, Cunningham, Shahar, & Widaman, 2002) . For ease of interpretation, the factor loadings of our latent constructs were made equal across Levels 1 and 2 (Marsh et al., 2009) . We did not control for measurement error in achievement, as we only had one indicator for each achievement test. We illustrated the full latent-manifest multilevel model for academic self-concept in Fig. 1 . Because the sampling ratio in our study was very high (94%) and we should therefore have reliable class-average achievement scores, we did not control for sampling error.",
+                "cite_spans": [
+                    {
+                        "start": 455,
+                        "end": 481,
+                        "text": "Alhija & Wisenbaker, 2006;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 482,
+                        "end": 526,
+                        "text": "Little, Cunningham, Shahar, & Widaman, 2002)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 640,
+                        "end": 660,
+                        "text": "(Marsh et al., 2009)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 862,
+                        "end": 868,
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Analyses were performed with Mplus Version 6.1 (Muth\u00e9n & Muth\u00e9n, 1998b) . Although Full Information Maximum Likelihood (FIML) is used in Mplus by default, 20 cases (0.7%) with missing data on at least one of our predictors were deleted before the multilevel latent analyses to make the sample sizes equal across all main models. This resulted in a final sample of 2967 students for the main analyses. Finally, the robust maximum likelihood (MLR) estimator in Mplus was used, providing standard errors and a chi-square (when applicable) robust to non-normality and non-independence (Muth\u00e9n & Muth\u00e9n, 1998a) . Models were compared using the scaled chi square difference tests based on the scaled loglikelihood values (Muthen & Muthen, 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 47,
+                        "end": 71,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 1998b)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 581,
+                        "end": 605,
+                        "text": "(Muth\u00e9n & Muth\u00e9n, 1998a)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 715,
+                        "end": 738,
+                        "text": "(Muthen & Muthen, 2012)",
+                        "ref_id": "BIBREF54"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data analyses",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Pearson correlations were in the expected direction (Table 1) . Medium to large positive correlations were found between selfconcept and achievement scores across domains (cf. Cohen, 1988 ). Significant negative correlations were found between language selfconcept, on the one hand, and all class-average and two friend-average achievement variables, on the other. Furthermore, the different dimensions of self-concept were significantly and positively interrelated, except for a non-significant association between math and language self-concept. Additionally, the achievement scores were moderately to highly interrelated. Finally, although boys had a higher academic and math self-concept and scored higher on individual and friend-average math and academic achievement than girls, they had a lower language self-concept and scored lower on individual and friend-average language achievement.",
+                "cite_spans": [
+                    {
+                        "start": 176,
+                        "end": 187,
+                        "text": "Cohen, 1988",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 52,
+                        "end": 61,
+                        "text": "(Table 1)",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Correlations",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "In the baseline models, the control variables gender and individual achievement were added to the unconditional models for global academic, language and math self-concept. Based on deviance difference tests and for reasons of model parsimony (Snijders, 2005) , we only allowed the effect of gender on academic self-concept to vary across classes in these baseline models (see Model 1 in Tables 2, 3 , and 4). All baseline models showed a significant improvement in fit compared with their unconditional counterparts (\u0394\u03c7 2 academic (4) = 873.84, p b .0001; \u0394\u03c7 2 math (4) = 821.70, p b .0001; \u0394\u03c7 2 language (4) = 231.01, p b .0001). Additionally, these baseline models showed that boys had a significantly lower language self-concept than girls, and a significantly higher academic and math self-concepteven when controlling for individual achievement (ES ranged between .18 and \u2212 .31). Nonetheless, results yielded significant random effects of gender on academic self-concept at the class level, which means that not all classrooms showed significant gender differences and that some classrooms even showed reverse gender differences. Finally, these models illustrated that individual academic achievement was positively related to academic self-concept in each domain (ES ranged between .36 and .98).",
+                "cite_spans": [
+                    {
+                        "start": 242,
+                        "end": 258,
+                        "text": "(Snijders, 2005)",
+                        "ref_id": "BIBREF65"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 376,
+                        "end": 398,
+                        "text": "Model 1 in Tables 2, 3",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Building the baseline models",
+                "sec_num": "3.2.1."
+            },
+            {
+                "text": "Next, we only added friend-average achievement to the three baseline models. Based on deviance difference tests and for reasons of model parsimony, we continued with models without extra random effects (Model 2 in Tables 2, 3, and 4). We also tested for significant interactions between friend-average achievement variables and the control variables, but because all these interactions (across the three self-concept dimensions) were non-significant, they were dropped in all further analyses. All models with friend-average achievement showed a significant improvement in fit compared with the baseline models (\u0394\u03c7 2 academic (1) = 19.76, p b .0001; \u0394\u03c7 2 math (1) = 10.06, p b .01; \u0394\u03c7 2 language (1) = 7.05, p b .01). The results showed that friend-average achievement had a negative effect on students' academic, math, and language self-concept (when controlling for gender and individual achievement) (ES ranged between \u2212.11 and \u2212.17). The effects already present in the baseline models remained similar.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Separate effect of friend-average achievement",
+                "sec_num": "3.2.2."
+            },
+            {
+                "text": "In a third step, we only added class-average achievement to the three baseline models. By default, variables at Level 2 cannot be random at Level 2 (Peugh, 2010) , therefore no random effects were added for Tables 2, 3 , and 4). We also tested for significant interactions between class-average achievement and the control variables, but because all these interactions were not significant, they were dropped in all further analyses. All models including class-average achievement showed a significant improvement in fit compared with the baseline models (\u0394\u03c7 2 academic (1) = 60.60, p b .0001; \u0394\u03c7 2 math (1) = 28.71, p b .0001; \u0394\u03c7 2 language (1) = 19.10, p b .0001). The findings revealed that class-average achievement separately also had a negative effect on students' academic, math, and language self-concept (when controlling for gender and individual achievement) (ES ranged between \u2212.25 and \u2212.32). The effects of the control variables remained similar.",
+                "cite_spans": [
+                    {
+                        "start": 148,
+                        "end": 161,
+                        "text": "(Peugh, 2010)",
+                        "ref_id": "BIBREF57"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 207,
+                        "end": 218,
+                        "text": "Tables 2, 3",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Separate effect of class-average achievement",
+                "sec_num": "3.2.3."
+            },
+            {
+                "text": "In a fourth step, we considered both group-average achievement variables simultaneously to study their relative impact (see Model 4 in  Tables 2, 3 , and 4). In line with previous models, we did not add extra random effects. All models with both group-average predictors showed a significant improvement in fit compared with the baseline models (\u0394\u03c7 2 academic (2) = 55.89, p b .0001; \u0394\u03c7 2 math (2) = 28.75, p b .0001; \u0394\u03c7 2 language (2) = 20.40, p b .0001). When simultaneously modeled, we found that class-average achievement still was significantly and negatively related to all dimensions of academic selfconcept (ES ranged between \u2212.24 and \u2212.33), whereas friend-average achievement was no longer significantly related to any dimension of academic self-concept.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 124,
+                        "end": 147,
+                        "text": "Model 4 in  Tables 2, 3",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Combined effect of friend-and class-average achievement",
+                "sec_num": "3.2.4."
+            },
+            {
+                "text": "Because we specifically studied classroom friends, friends were also included in the class-average achievement score. As a consequence, friend-and class-average achievement share variance, which may underestimate the effect of friend-average achievement when both predictors are examined simultaneously. Although both predictors were not extremely highly correlated (rs ranged between .73 and .74), we decided to repeat the analyses for the combined effect of both group-average predictors with all friend scores and the scores of the students themselves removed from the class-average to obtain more independent scores for friend-and class-average achievement. This approach resulted in smaller intercorrelations between friend-and class-average achievement, ranging between .30 and .34, with sufficient overlap between both class-average achievement operationalizations (rs ranged between .76 and .79). When we studied the combined effect of these more independent group-average predictors, we found significant negative effects of both friend-average (ES ranged between \u2212 .10 and \u2212 .13) and class-average achievement (ES ranged between \u2212 .18 and \u2212 .24) on academic self-concept (see Table 5 ). Yet, the effect of friend-average achievement was still smaller than the effect of class-average achievement.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1186,
+                        "end": 1193,
+                        "text": "Table 5",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Additional analyses on the combined effect of friend-and classaverage achievement",
+                "sec_num": "3.2.5."
+            },
+            {
+                "text": "Additionally, these results need to be interpreted with caution because there were two main disadvantages: (1) class-average achievement was no longer considered to be a Level 2 predictor/characteristic because it varied within a classroom, and (2) the class-average scores became less reliable because they were based on scores from fewer classmates.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Additional analyses on the combined effect of friend-and classaverage achievement",
+                "sec_num": "3.2.5."
+            },
+            {
+                "text": "The results of the current study support the hypothesized separate negative effects of both class-and friend-average achievement. Our findings thereby provide strong evidence for the BFLPE: Not only did we replicate the negative effect of class-average achievement for all three dimensions of academic self-concept, as found in several previous BFLPE studies (e.g., L\u00fcdtke et al., 2005; Preckel & Br\u00fcll, 2010; Thijs et al., 2010) , we also found that if students' friends perform relatively high, these students will have a lower academic self-concept, and vice versa. The current results thereby reinforce the claim that, at least in early adolescence, friends constitute an important frame of reference in the school context (Guay et al., 1999; Huguet, Dumas, Monteil, & Genestoux, 2001; Mussweiler & R\u00fcter, 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 366,
+                        "end": 386,
+                        "text": "L\u00fcdtke et al., 2005;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 387,
+                        "end": 409,
+                        "text": "Preckel & Br\u00fcll, 2010;",
+                        "ref_id": "BIBREF59"
+                    },
+                    {
+                        "start": 410,
+                        "end": 429,
+                        "text": "Thijs et al., 2010)",
+                        "ref_id": "BIBREF70"
+                    },
+                    {
+                        "start": 727,
+                        "end": 746,
+                        "text": "(Guay et al., 1999;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 747,
+                        "end": 789,
+                        "text": "Huguet, Dumas, Monteil, & Genestoux, 2001;",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 790,
+                        "end": 815,
+                        "text": "Mussweiler & R\u00fcter, 2003)",
+                        "ref_id": "BIBREF51"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "These results are partly in line with the findings reported by Altermatt and Pomerantz (2005) : We also found a negative effect of friend-average achievement on academic self-concept, but this effect was not limited to the low achieving students. Several differences in the designs of both studies may explain this divergence in findings: Altermatt and Pomerantz (2005) used limited friend nominations (allowing students to nominate up to three classmates maximum) instead of free nominations, possibly leading to underidentification of friendships (Furman, 1996) . Additionally, they used grades instead of standardized achievement tests. Finally, they focused on global selfevaluation and researchers have found that the BFLPE applies only to academic self-concept and not to global self-evaluation (Marsh & Craven, 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 63,
+                        "end": 93,
+                        "text": "Altermatt and Pomerantz (2005)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 339,
+                        "end": 369,
+                        "text": "Altermatt and Pomerantz (2005)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 549,
+                        "end": 563,
+                        "text": "(Furman, 1996)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 801,
+                        "end": 823,
+                        "text": "(Marsh & Craven, 2002)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "When comparing the effects of class-average achievement versus friend-average achievement on each of the three dimensions of academic self-concept, we found that the negative effect of friend-average achievement was always smaller than the negative effect of classaverage achievement and sometimes even non-significant. Considering that the BFLPE is supposed to be the combined effect of two underlying social comparison effects (i.e., contrast and assimilation), the nonsignificant or smaller net effect of friend-average achievement may imply, on the one hand, that friends induce smaller contrast effects than classmates. Because performances may be more similar between friends than between classmates (Hamm, 2000; Huguet et al., 2009) , it is possible that contrast effects were smaller for friends than classmates. However, this explanation is not very plausible considering that correlations between individual achievement and friend-average achievement were not higher than those between individual achievement and class-average achievement. A second, more likely explanation is that friends evoke larger assimilation effects than classmates because the emotional bond is stronger between friends. As mentioned before, previous research in social psychology showed that when individuals are focused on emotional bonding, they show stronger assimilation effects towards their comparison targets (Kemmelmeier & Oyserman, 2001) .",
+                "cite_spans": [
+                    {
+                        "start": 706,
+                        "end": 718,
+                        "text": "(Hamm, 2000;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 719,
+                        "end": 739,
+                        "text": "Huguet et al., 2009)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 1402,
+                        "end": 1432,
+                        "text": "(Kemmelmeier & Oyserman, 2001)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "Notably, our findings are not in line with predictions from the local dominance effect model (Zell & Alicke, 2010) . The local dominance model assumes that individuals tend to rely on the most local comparison source for self-evaluation (i.e., friends instead of classmates) when multiple comparison standards are present. Our findings suggest, however, that in weighing the available comparison sources, students evaluate both their locality and their informational value. Accordingly, when thinking about themselves in general, students may choose the most local social comparison source (i.e., their friends) because this source is also the most valuable in the global self-esteem area. However, when thinking about themselves academically, they tend to rely on a less local, but more informative source (i.e., their classmates). This may be particularly likely in educational systems where most information on academic achievement is provided at the class level (e.g., the class mean or median is mentioned on students' report card).",
+                "cite_spans": [
+                    {
+                        "start": 93,
+                        "end": 114,
+                        "text": "(Zell & Alicke, 2010)",
+                        "ref_id": "BIBREF74"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "The present study also provides some additional findings. First, the results were robust across the three domains of academic selfconcept, suggesting that similar social comparison processes are at work, regardless of domain-specificity. Second, the results from the latent-manifest contextual model demonstrated the expected effects of gender and individual achievement on academic selfconcept. In line with previous research, we found that boys had a higher academic and math self-concept, but a lower language selfconcept than girls in the final grade of elementary school even when controlling for achievement, although the significant random effects suggest that these effects may be less robust than is generally assumed (e.g., De Fraine et al., 2007; Marsh, 1989a Marsh, , 1989b Nagy et al., 2010) . Third, as expected from prior studies (Marsh & Craven, 2005; Marsh & Martin, 2011) , strong evidence was found for a positive relationship between individual academic achievement and academic self-concept. The current findings confirm the BFLPE on academic self-concept in late elementary school, suggesting that social comparison processes are indeed operating in students' friend groups and in their classrooms. Because these processes may result in both increases and decreases in students' academic self-concept (depending on whether the groupaverage ability is high or low) and because academic self-concept predicts many other educational outcomes (e.g., academic achievement, intrinsic motivation, and effort; Bong & Skaalvik, 2003; Marsh & Hau, 2003; Wouters et al., 2011) , educators and school practitioners should be more aware of these social comparison processes and their effects on students (Dijkstra et al., 2008) . As a result teachers and school guidance counselors would be able to buffer some of the negative social comparison effects by discussing and framing these effects with atrisk students (e.g., relatively low performing students in a high achieving class). Additionally, the current study suggests that negative effects of being in a higher achieving group can be counteracted by raising social identification and emotional bonding in the classroom. As such, they may inspire future research on the limits and scope of the BFLPE and encourage researchers to continue the search for possible moderators. Finally, more awareness may result in a faster identification of specific educational circumstances which put students at risk for developing a lower academic self-concept, such as moving from a lower to a higher performing class (e.g., entering specialized gifted programs; Marsh, Tracey, & Craven, 2006; Wouters et al., 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 734,
+                        "end": 757,
+                        "text": "De Fraine et al., 2007;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 758,
+                        "end": 770,
+                        "text": "Marsh, 1989a",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 771,
+                        "end": 785,
+                        "text": "Marsh, , 1989b",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 786,
+                        "end": 804,
+                        "text": "Nagy et al., 2010)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 845,
+                        "end": 867,
+                        "text": "(Marsh & Craven, 2005;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 868,
+                        "end": 889,
+                        "text": "Marsh & Martin, 2011)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1524,
+                        "end": 1546,
+                        "text": "Bong & Skaalvik, 2003;",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1547,
+                        "end": 1565,
+                        "text": "Marsh & Hau, 2003;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1566,
+                        "end": 1587,
+                        "text": "Wouters et al., 2011)",
+                        "ref_id": "BIBREF73"
+                    },
+                    {
+                        "start": 1713,
+                        "end": 1736,
+                        "text": "(Dijkstra et al., 2008)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 2614,
+                        "end": 2644,
+                        "text": "Marsh, Tracey, & Craven, 2006;",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 2645,
+                        "end": 2666,
+                        "text": "Wouters et al., 2009)",
+                        "ref_id": "BIBREF72"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "Some limitations of the present study lead to interesting avenues for future research. First, data in this study were cross-sectional. Therefore, we cannot firmly conclude that group-average achievement variables play an antecedent role in the development of students' academic selfconcept. Longitudinal research may further clarify these relations. Second, social comparison processes were hypothesized but not observed; only their supposed net effect on academic self-concept was observed. Although increasing evidence shows that social comparison processes operate behind the BFLPE (Huguet et al., 2009; Marsh, Seaton et al., 2008) , future research would benefit from making these social comparison processes more visibleespecially with regard to the effect of multiple frames of reference. This could be done, for instance, through qualitative interviews digging into how students experience their academic context or through experimental research directly manipulating these social comparison processes (Cheng & Lam, 2007; Marsh, Seaton, et al., 2008) . Third, although we had several reasons to specifically consider classroom friends, future research may also investigate the effect of friends in general (i.e., including friends from outside the classroom). Fourth, it would be interesting to replicate the current study with a sample of high school students. Adolescents tend to spend more time with their friends, which may further increase the likelihood of mutual influences. Possibly, this may yield larger or different friend-average achievement effects (Steinberg & Morris, 2001; V\u00e9ronneau, Vitaro, Brendgen, Dishion, & Tremblay, 2010) .",
+                "cite_spans": [
+                    {
+                        "start": 585,
+                        "end": 606,
+                        "text": "(Huguet et al., 2009;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 607,
+                        "end": 634,
+                        "text": "Marsh, Seaton et al., 2008)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 1009,
+                        "end": 1028,
+                        "text": "(Cheng & Lam, 2007;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1029,
+                        "end": 1057,
+                        "text": "Marsh, Seaton, et al., 2008)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 1569,
+                        "end": 1595,
+                        "text": "(Steinberg & Morris, 2001;",
+                        "ref_id": "BIBREF67"
+                    },
+                    {
+                        "start": 1596,
+                        "end": 1651,
+                        "text": "V\u00e9ronneau, Vitaro, Brendgen, Dishion, & Tremblay, 2010)",
+                        "ref_id": "BIBREF71"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": "4."
+            },
+            {
+                "text": "Despite any limitations, our study extends prior (BFLPE) research by studying the effect of class-average and friend-average achievement simultaneously. We found that the negative effect of friend-average achievement was always smaller than the negative effect of classaverage achievement. These findings suggest that students do not primarily rely on the most local comparison source (i.e., their friends) when evaluating their academic competencies, but that they tend to rely on the most informative one (i.e., their classmates). Overall, our findings underscore the need for more research on the simultaneous effects of multiple frames of reference as present in students' everyday school life.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": "5."
+            },
+            {
+                "text": "S.Wouters et al. / Learning and Individual Differences 27 (2013) 193-200",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "A Monte Carlo study investigating the impact of item parceling strategies on parameter estimates and their standard errors in CFA",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Alhija",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Wisenbaker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Structural Equation Modeling",
+                "volume": "13",
+                "issue": "",
+                "pages": "204--228",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Alhija, F. N., & Wisenbaker, J. (2006). A Monte Carlo study investigating the impact of item parceling strategies on parameter estimates and their standard errors in CFA. Structural Equation Modeling, 13, 204-228.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Friends' influence on school adjustment: Uncovering the processes of peer influence",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Altermatt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Peer relationships and adjustment at school",
+                "volume": "",
+                "issue": "",
+                "pages": "109--134",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Altermatt, E. R. (2012). Friends' influence on school adjustment: Uncovering the process- es of peer influence. In A.M. Ryan, & G. W. Ladd (Eds.), Peer relationships and adjust- ment at school (pp. 109-134). Charlotte, NC: Information Age Publishing.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Coping with achievement-related failure an examination of conversations between friends",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Altermatt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Broady",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Merrill-Palmer Quarterly-Journal of Developmental Psychology",
+                "volume": "55",
+                "issue": "",
+                "pages": "454--487",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Altermatt, E. R., & Broady, E. F. (2009). Coping with achievement-related failure an exam- ination of conversations between friends. Merrill-Palmer Quarterly-Journal of Develop- mental Psychology, 55, 454-487.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "The development of competence-related and motivational beliefs: An investigation of similarity and influence among friends",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Altermatt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pomerantz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Educational Psychology",
+                "volume": "95",
+                "issue": "",
+                "pages": "111--123",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Altermatt, E. R., & Pomerantz, E. M. (2003). The development of competence-related and motivational beliefs: An investigation of similarity and influence among friends. Journal of Educational Psychology, 95, 111-123.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The implications of having high-achieving versus low-achieving friends: A longitudinal analysis",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Altermatt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pomerantz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Social Development",
+                "volume": "14",
+                "issue": "",
+                "pages": "61--81",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Altermatt, E. R., & Pomerantz, E. M. (2005). The implications of having high-achieving ver- sus low-achieving friends: A longitudinal analysis. Social Development, 14, 61-81.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Friends' influence on students' adjustment to school",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Berndt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Educational Psychologist",
+                "volume": "34",
+                "issue": "",
+                "pages": "15--28",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Berndt, T. J. (1999). Friends' influence on students' adjustment to school. Educational Psychologist, 34, 15-28.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Friends influence on adolescents' adjustment to school",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Berndt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Keefe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Child Development",
+                "volume": "66",
+                "issue": "",
+                "pages": "1312--1329",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Berndt, T. J., & Keefe, K. (1995). Friends influence on adolescents' adjustment to school. Child Development, 66, 1312-1329.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Some latent trait models and their use in inferring an examinee's ability",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Birnbaum",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1968,
+                "venue": "Statistical theories of mental test scores",
+                "volume": "",
+                "issue": "",
+                "pages": "397--479",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Birnbaum, A. (1968). Some latent trait models and their use in inferring an examinee's ability. In F. M. Lord, & M. R. Novick (Eds.), Statistical theories of mental test scores (pp. 397-479). Reading, MA: Addison-Wesley.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Academic self-concept and self-efficacy: How different are they really?",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Skaalvik",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Educational Psychology Review",
+                "volume": "15",
+                "issue": "",
+                "pages": "1--40",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bong, M., & Skaalvik, E. M. (2003). Academic self-concept and self-efficacy: How different are they really? Educational Psychology Review, 15, 1-40.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "When friends make you blue: The role of friendship contingent self-esteem in predicting self-esteem and depressive symptoms",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Cambron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Acitelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Steinberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "36",
+                "issue": "",
+                "pages": "384--397",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cambron, M. J., Acitelli, L. K., & Steinberg, L. (2010). When friends make you blue: The role of friendship contingent self-esteem in predicting self-esteem and depressive symp- toms. Personality and Social Psychology Bulletin, 36, 384-397.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Self-construal and social comparison effects",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Cheng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lam",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "The British Journal of Educational Psychology",
+                "volume": "77",
+                "issue": "",
+                "pages": "197--211",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cheng, R. W., & Lam, S. (2007). Self-construal and social comparison effects. The British Journal of Educational Psychology, 77, 197-211.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Statistical power analysis for the behavioral sciences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.)New York: Academic Press.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Friendship influences during early adolescence: The special role of friends' grade point average",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Cook",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Deng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Morgano",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Journal of Research on Adolescence",
+                "volume": "17",
+                "issue": "",
+                "pages": "325--356",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cook, T. D., Deng, Y., & Morgano, E. (2007). Friendship influences during early adoles- cence: The special role of friends' grade point average. Journal of Research on Adolescence, 17, 325-356.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Longitudinaal onderzoek in het basisonderwijs. Toetsen zesde leerjaar",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Cortois",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Van Droogenbroeck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Verachtert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Van Damme",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Steunpunt 'Studie-en Schoolloopbanen' (SSL)",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cortois, L., Van Droogenbroeck, I., Verachtert, P., & Van Damme, J. (2010). Longitudinaal onderzoek in het basisonderwijs. Toetsen zesde leerjaar [Longitudinal research in elemen- tary education. Achievement tests in sixth grade]. school year 2008-2009. Leuven: Steunpunt 'Studie-en Schoolloopbanen' (SSL).",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "A longitudinal analysis of gender differences in academic self-concept and language achievement: A multivariate multilevel latent growth approach",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "De Fraine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Van Damme",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Onghena",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "32",
+                "issue": "",
+                "pages": "132--150",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "De Fraine, B., Van Damme, J., & Onghena, P. (2007). A longitudinal analysis of gender dif- ferences in academic self-concept and language achievement: A multivariate multi- level latent growth approach. Contemporary Educational Psychology, 32, 132-150.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Social comparison in the classroom: A review",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Dijkstra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kuyper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Van Der Werf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Buunk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Van Der Zee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Review of Educational Research",
+                "volume": "78",
+                "issue": "",
+                "pages": "828--879",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dijkstra, P., Kuyper, H., van der Werf, G., Buunk, A. P., & van der Zee, Y. G. (2008). Social comparison in the classroom: A review. Review of Educational Research, 78, 828-879.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Centering predictor variables in cross-sectional multilevel models: A new look at an old issue",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Enders",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Tofighi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Psychological Methods",
+                "volume": "12",
+                "issue": "",
+                "pages": "121--138",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Enders, C. K., & Tofighi, D. (2007). Centering predictor variables in cross-sectional multi- level models: A new look at an old issue. Psychological Methods, 12, 121-138.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Commissie Testaangelegenheden Nederland (COTAN) Documentatie",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Evers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "S L"
+                        ],
+                        "last": "Braak",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Frima",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Vliet-Mulder",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Van",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Evers, A., Braak, M. S. L., Frima, R. M., & Vliet-Mulder, J. C. van (2009-2011). Commissie Testaangelegenheden Nederland (COTAN) Documentatie [Dutch Commission of Test Affairs Documentation]. Amsterdam: Boom Test Uitgevers.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Discovering statistics using SPSS",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Field",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Field, A. (2005). Discovering statistics using SPSS (2nd edn ) London: Sage.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "The measurement of friendship perceptions: Conceptual and methodological issues",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Furman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "The company they keep: Friendship in childhood and adolescence",
+                "volume": "",
+                "issue": "",
+                "pages": "41--65",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Furman, W. (1996). The measurement of friendship perceptions: Conceptual and meth- odological issues. In W. M. Bukowkski, A. F. Newcomb, & W. W. Hartup (Eds.), The company they keep: Friendship in childhood and adolescence (pp. 41-65). New York: Cambridge University Press.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Social comparison processes and academic achievement: The dependence of the development of self-evaluations on friends' performance",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Guay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Boivin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "V E"
+                        ],
+                        "last": "Hodges",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Journal of Educational Psychology",
+                "volume": "91",
+                "issue": "",
+                "pages": "564--568",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guay, F., Boivin, M., & Hodges, E. V. E. (1999). Social comparison processes and academic achievement: The dependence of the development of self-evaluations on friends' performance. Journal of Educational Psychology, 91, 564-568.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Do birds of a feather flock together? The variable bases for African American, Asian American, and European American adolescents' selection of similar friends",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Hamm",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Developmental Psychology",
+                "volume": "36",
+                "issue": "",
+                "pages": "209--219",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hamm, J. V. (2000). Do birds of a feather flock together? The variable bases for African American, Asian American, and European American adolescents' selection of similar friends. Developmental Psychology, 36, 209-219.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "An introduction to multilevel modeling techniques",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Heck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Thomas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Heck, R. H., & Thomas, S. L. (2009). An introduction to multilevel modeling techniques (2nd ed.)New York: Routledge.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Personality as a moderator of context effects on academic achievement",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A J"
+                        ],
+                        "last": "Hendriks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kuyper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Lubbers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P C"
+                        ],
+                        "last": "Van Der Werf",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Journal of School Psychology",
+                "volume": "49",
+                "issue": "",
+                "pages": "217--248",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hendriks, A. A. J., Kuyper, H., Lubbers, M. J., & Van der Werf, M. P. C. (2011). Personality as a moderator of context effects on academic achievement. Journal of School Psychology, 49, 217-248.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Clarifying the role of social comparison in the Big-Fish-Little-Pond Effect (BFLPE): An integrative study",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Huguet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Dumas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Regner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Wheeler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Suls",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "97",
+                "issue": "",
+                "pages": "156--170",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Huguet, P., Dumas, F., Marsh, H., Regner, I., Wheeler, L., Suls, J., et al. (2009). Clarifying the role of social comparison in the Big-Fish-Little-Pond Effect (BFLPE): An integrative study. Journal of Personality and Social Psychology, 97, 156-170.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Social comparison choices in the classroom: Further evidence for students' upward comparison tendency and its beneficial impact on performance",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Huguet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Dumas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Monteil",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Genestoux",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "European Journal of Social Psychology",
+                "volume": "31",
+                "issue": "",
+                "pages": "557--578",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Huguet, P., Dumas, F., Monteil, J. M., & Genestoux, N. (2001). Social comparison choices in the classroom: Further evidence for students' upward comparison tendency and its beneficial impact on performance. European Journal of Social Psychology, 31, 557-578.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Personality traits moderate the Big-Fish-Little-Pond Effect of academic self-concept",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Jonkmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Becker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Learning and Individual Differences",
+                "volume": "22",
+                "issue": "",
+                "pages": "736--746",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jonkmann, K., Becker, M., Marsh, H. W., L\u00fcdtke, O., & Trautwein, U. (2012). Personality traits moderate the Big-Fish-Little-Pond Effect of academic self-concept. Learning and Individual Differences, 22, 736-746.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "The ups and downs of thinking about a successful other: Self-construals and the consequences of social comparisons",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kemmelmeier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Oyserman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "European Journal of Social Psychology",
+                "volume": "31",
+                "issue": "",
+                "pages": "311--320",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kemmelmeier, M., & Oyserman, D. (2001). The ups and downs of thinking about a suc- cessful other: Self-construals and the consequences of social comparisons. European Journal of Social Psychology, 31, 311-320.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Test equating, scaling, and linking: methods and practices",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Kolen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Brennan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kolen, M. J., & Brennan, R. L. (2004). Test equating, scaling, and linking: methods and prac- tices (Second ed.)New York: Springer.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Teacher-child interactions. Relations with children's self-concept in second grade",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Leflot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Onghena",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Colpin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Infant and Child Development",
+                "volume": "19",
+                "issue": "",
+                "pages": "385--405",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Leflot, G., Onghena, P., & Colpin, H. (2010). Teacher-child interactions. Relations with children's self-concept in second grade. Infant and Child Development, 19, 385-405.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "To parcel or not to parcel: Exploring the question, weighing the merits",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Little",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Cunningham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Shahar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Widaman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Structural Equation Modeling",
+                "volume": "9",
+                "issue": "",
+                "pages": "151--173",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Little, T. D., Cunningham, W. A., Shahar, G., & Widaman, K. F. (2002). To parcel or not to parcel: Exploring the question, weighing the merits. Structural Equation Modeling, 9, 151-173.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Social comparison with friends versus non-friends",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Lubbers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kuyper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P C"
+                        ],
+                        "last": "Van Der Werf",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "European Journal of Social Psychology",
+                "volume": "39",
+                "issue": "1",
+                "pages": "52--68",
+                "other_ids": {
+                    "DOI": [
+                        "10.1002/ejsp.475"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Lubbers, M. J., Kuyper, H., & van der Werf, M. P. C. (2009). Social comparison with friends versus non-friends. European Journal of Social Psychology, 39(1), 52-68, http://dx.doi.org/10.1002/ejsp.475.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Teacher frame of reference and the big-fish-little-pond effect",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Contemporary Educational Psychology",
+                "volume": "30",
+                "issue": "",
+                "pages": "263--285",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "L\u00fcdtke, O., K\u00f6ller, O., Marsh, H. W., & Trautwein, U. (2005). Teacher frame of reference and the big-fish-little-pond effect. Contemporary Educational Psychology, 30, 263-285.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "The multilevel latent covariate model: A new, more reliable approach to group-level effects in contextual studies",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Robitzsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Asparouhov",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Psychological Methods",
+                "volume": "13",
+                "issue": "",
+                "pages": "203--229",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "L\u00fcdtke, O., Marsh, H. W., Robitzsch, A., Trautwein, U., Asparouhov, T., & Muth\u00e9n, B. (2008). The multilevel latent covariate model: A new, more reliable approach to group-level effects in contextual studies. Psychological Methods, 13, 203-229.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Self-concept -The application of a frame of reference model to explain paradoxical results",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Australian Journal of Education",
+                "volume": "28",
+                "issue": "",
+                "pages": "165--181",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1984). Self-concept -The application of a frame of reference model to ex- plain paradoxical results. Australian Journal of Education, 28, 165-181.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Age and sex effects in multiple dimensions of self-concept: Preadolescence to early adulthood",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Educational Psychology",
+                "volume": "81",
+                "issue": "",
+                "pages": "417--430",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1989a). Age and sex effects in multiple dimensions of self-concept: Pread- olescence to early adulthood. Journal of Educational Psychology, 81, 417-430.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Sex differences in the development of verbal and mathematical constructs: The high school and beyond study",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "American Educational Research Journal",
+                "volume": "26",
+                "issue": "",
+                "pages": "191--225",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1989b). Sex differences in the development of verbal and mathematical constructs: The high school and beyond study. American Educational Research Journal, 26, 191-225.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Self Description Questionnaire (SDQ) I: A theoretical and empirical basis for the measurement of multiple dimensions of preadolescent selfconcept. An interim test manual and research monograph",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "New South Wales",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1992). Self Description Questionnaire (SDQ) I: A theoretical and empirical basis for the measurement of multiple dimensions of preadolescent selfconcept. An inter- im test manual and research monograph. Macarthur, New South Wales, Australia: University of Western Sydney, Faculty of Education.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Self-description questionnaire -Age and sex effects in the structure and level of self-concept for preadolescent children",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Barnes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Cairns",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Tidman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Journal of Educational Psychology",
+                "volume": "76",
+                "issue": "",
+                "pages": "940--956",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Barnes, J., Cairns, L., & Tidman, M. (1984). Self-description questionnaire - Age and sex effects in the structure and level of self-concept for preadolescent chil- dren. Journal of Educational Psychology, 76, 940-956.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "The pivotal role of frames of reference in academic self-concept formation: The big fish little pond effect",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "2",
+                "issue": "",
+                "pages": "83--124",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Craven, R. (2002). The pivotal role of frames of reference in academic self-concept formation: The big fish little pond effect. In F. Pajares, & T. Urdan (Eds.), Academic motivation of adolescents. , Vol. 2. (pp. 83-124). Greenwich, CT: IAP.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "A reciprocal effects model of the causal ordering of self-concept and achievement",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "New support for the benefits of enhancing self-concept. International advances in self research",
+                "volume": "2",
+                "issue": "",
+                "pages": "17--51",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Craven, R. G. (2005). A reciprocal effects model of the causal ordering of self-concept and achievement. In H. W. Marsh, R. G. Craven, & D.M. McInerny (Eds.), New support for the benefits of enhancing self-concept. International advances in self research, Vol. 2. (pp. 17-51). Greenwich, CT: IAP.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Big-fish-little-pond effect on academic self-concept -A cross-cultural (26-country) test of the negative effects of academically selective schools",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "The American Psychologist",
+                "volume": "58",
+                "issue": "",
+                "pages": "364--376",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Hau, K. T. (2003). Big-fish-little-pond effect on academic self-concept -A cross-cultural (26-country) test of the negative effects of academically selective schools. The American Psychologist, 58, 364-376.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Reunification of East and West German school systems: Longitudinal multilevel modeling study of the big-fish-little-pond effect on academic self-concept",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "American Educational Research Journal",
+                "volume": "38",
+                "issue": "",
+                "pages": "321--350",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., K\u00f6ller, O., & Baumert, J. (2001). Reunification of East and West German school systems: Longitudinal multilevel modeling study of the big-fish-little-pond effect on academic self-concept. American Educational Research Journal, 38, 321-350.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Doubly-latent models of school contextual effects: Integrating multilevel and structural equation approaches to control measurement and sampling error",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Robitzsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Asparouhov",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., L\u00fcdtke, O., Robitzsch, A., Trautwein, U., Asparouhov, T., Muth\u00e9n, B., et al. (2009). Doubly-latent models of school contextual effects: Integrating multilevel and structural equation approaches to control measurement and sampling error.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Academic self-concept and academic achievement: Relations and causal ordering",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Martin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "The British Journal of Educational Psychology",
+                "volume": "81",
+                "issue": "",
+                "pages": "59--77",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Martin, A. J. (2011). Academic self-concept and academic achievement: Relations and causal ordering. The British Journal of Educational Psychology, 81, 59-77.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Multidimensional self-concepts -Construct-validation of responses by children",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "W M"
+                        ],
+                        "last": "Mcdonald-Holmes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "American Educational Research Journal",
+                "volume": "27",
+                "issue": "",
+                "pages": "89--117",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & McDonald-Holmes, I. W. M. (1990). Multidimensional self-concepts - Construct-validation of responses by children. American Educational Research Journal, 27, 89-117.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "The big-fish-little-pond-effect stands up to critical scrutiny: Implications for theory, methodology, and future research",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seaton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "O'mara",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Educational Psychology Review",
+                "volume": "20",
+                "issue": "",
+                "pages": "319--350",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Seaton, M., Trautwein, U., L\u00fcdtke, O., Hau, K. T., O'Mara, A. J., et al. (2008). The big-fish-little-pond-effect stands up to critical scrutiny: Implications for theory, methodology, and future research. Educational Psychology Review, 20, 319-350.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Multidimensional self-concept structure for preadolescents with mild intellectual disabilities. A hybrid multigroup-MIMC approach to factorial invariance and latent mean differences",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Tracey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "66",
+                "issue": "",
+                "pages": "795--818",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Tracey, D. K., & Craven, R. G. (2006). Multidimensional self-concept struc- ture for preadolescents with mild intellectual disabilities. A hybrid multigroup-MIMC approach to factorial invariance and latent mean differences. Educational and Psychological Measurement, 66, 795-818.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "The big-fish-little-pond effect: Persistent negative effects of selective high schools on self-concept after graduation",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "American Educational Research Journal",
+                "volume": "44",
+                "issue": "",
+                "pages": "631--669",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Trautwein, U., L\u00fcdtke, O., Baumert, J., & K\u00f6ller, O. (2007). The big-fish-little-pond effect: Persistent negative effects of selective high schools on self-concept after graduation. American Educational Research Journal, 44, 631-669.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Social comparison and big-fish-little-pond effects on self-concept and other self-belief constructs: Role of generalized and specific others",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Educational Psychology",
+                "volume": "100",
+                "issue": "",
+                "pages": "510--524",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Trautwein, U., L\u00fcdtke, O., & K\u00f6ller, O. (2008). Social comparison and big-fish-little-pond effects on self-concept and other self-belief constructs: Role of generalized and specific others. Journal of Educational Psychology, 100, 510-524.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "What friends are for! The use of routine standards in social comparison",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Mussweiler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "R\u00fcter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "85",
+                "issue": "",
+                "pages": "467--481",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mussweiler, T., & R\u00fcter, K. (2003). What friends are for! The use of routine standards in social comparison. Journal of Personality and Social Psychology, 85, 467-481.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Mplus user's guide",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth\u00e9n, L. K., & Muth\u00e9n, B. O. (1998a). Mplus user's guide (5th ed.). Los Angeles, CA: Muth\u00e9n & Muth\u00e9n.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Difference testing using the loglikelihood",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Muthen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Muthen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muthen, L. K., & Muthen, B. O. (2012). Difference testing using the loglikelihood. http:// www.statmodel.com/chidiff.shtml (Retrieved July 31, 2012, from)",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Complex sample data in structural equation modeling",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Muth\u00e9n",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Satorra",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Sociological Methodology",
+                "volume": "25",
+                "issue": "",
+                "pages": "267--316",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Muth\u00e9n, B. O., & Satorra, A. (1995). Complex sample data in structural equation modeling. Sociological Methodology, 25, 267-316.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "The development of students' mathematics self-concept in relation to gender: Different countries, different trajectories",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Nagy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M G"
+                        ],
+                        "last": "Watt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Eccles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Trautwein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "L\u00fcdtke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Journal of Research on Adolescence",
+                "volume": "20",
+                "issue": "",
+                "pages": "482--506",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nagy, G., Watt, H. M. G., Eccles, J. S., Trautwein, U., L\u00fcdtke, O., & Baumert, J. (2010). The development of students' mathematics self-concept in relation to gender: Different countries, different trajectories? Journal of Research on Adolescence, 20, 482-506.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "A practical guide to multilevel modeling",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Peugh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Journal of School Psychology",
+                "volume": "48",
+                "issue": "",
+                "pages": "85--112",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Peugh, J. L. (2010). A practical guide to multilevel modeling. Journal of School Psychology, 48, 85-112.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Meeting goals and confronting conflict: Children's changing perceptions of social comparison",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pomerantz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Ruble",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Frey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Greulich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Child Development",
+                "volume": "66",
+                "issue": "",
+                "pages": "723--738",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pomerantz, E. M., Ruble, D. N., Frey, K. S., & Greulich, F. (1995). Meeting goals and confronting conflict: Children's changing perceptions of social comparison. Child Development, 66, 723-738.",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "The benefit of being a big fish in a big pond: Contrast and assimilation effects on academic self-concept",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Preckel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Br\u00fcll",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Learning and Individual Differences",
+                "volume": "20",
+                "issue": "",
+                "pages": "522--531",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Preckel, F., & Br\u00fcll, M. (2010). The benefit of being a big fish in a big pond: Contrast and assimilation effects on academic self-concept. Learning and Individual Differences, 20, 522-531.",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "Peer interactions, relationships, and groups",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Rubin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bukowski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Social, emotional, and personality development",
+                "volume": "3",
+                "issue": "",
+                "pages": "571--645",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rubin, K. H., Bukowski, W. M., & Parker, J. G. (2006). Peer interactions, relationships, and groups. In W. Damon, R. M. Lerner, & N. Eisenberg (Eds.), Handbook of child psychol- ogy (6th ed.)Social, emotional, and personality development, Vol. 3. (pp. 571-645). New York: Wiley.",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "The peer group as a context for the development of young adolescent motivation and achievement",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Child Development",
+                "volume": "72",
+                "issue": "",
+                "pages": "1135--1150",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ryan, A.M. (2001). The peer group as a context for the development of young adolescent motivation and achievement. Child Development, 72, 1135-1150.",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "Big-fish-little-pond effect: Generalizability and moderation -Two sides of the same coin",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seaton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "American Educational Research Journal",
+                "volume": "47",
+                "issue": "",
+                "pages": "390--433",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Seaton, M., Marsh, H. W., & Craven, R. G. (2010). Big-fish-little-pond effect: Generalizabil- ity and moderation -Two sides of the same coin. American Educational Research Jour- nal, 47, 390-433.",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "The big fish down under: Examining moderators of the 'big-fish-little-pond' effect for Australia's high achievers",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seaton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Craven",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Australian Journal of Education",
+                "volume": "55",
+                "issue": "",
+                "pages": "93--114",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Seaton, M., Marsh, H. W., Yeung, A. S., & Craven, R. (2011). The big fish down under: Ex- amining moderators of the 'big-fish-little-pond' effect for Australia's high achievers. Australian Journal of Education, 55, 93-114.",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "Het zelfconcept bij kinderen uitgaande van een multidimensioneel hi\u00ebrarchisch model",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Simons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Fisette",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Jaarboek",
+                "volume": "",
+                "issue": "",
+                "pages": "79--98",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Simons, J., & Fisette, P. (2001). Het zelfconcept bij kinderen uitgaande van een multidimensioneel hi\u00ebrarchisch model [Self-concept of children based on a multidimensional hierarchical model]. In In J. Simons (Ed.), Actuele themata uit de psychomotorische therapie. Jaarboek. (pp. 79-98). Leuven, Belgium: Acco.",
+                "links": null
+            },
+            "BIBREF65": {
+                "ref_id": "b65",
+                "title": "Fixed and random effects",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "A B"
+                        ],
+                        "last": "Snijders",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Encyclopedia of statistics in behavioral sciences",
+                "volume": "2",
+                "issue": "",
+                "pages": "664--665",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Snijders, T. A.B. (2005). Fixed and random effects. In B.S. Everitt, & D. C. Howell (Eds.), Encyclopedia of statistics in behavioral sciences, Vol. 2. (pp. 664-665)Chicester: Wiley.",
+                "links": null
+            },
+            "BIBREF66": {
+                "ref_id": "b66",
+                "title": "Toetsen Begrijpend Lezen: Handleiding, opgavenboekjes en formulieren",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Staphorsius",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Krom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Staphorsius, G., & Krom, R. (1998). Toetsen Begrijpend Lezen: Handleiding, opgavenboekjes en formulieren. Arnem, Netherlands: CITO.",
+                "links": null
+            },
+            "BIBREF67": {
+                "ref_id": "b67",
+                "title": "Adolescent development",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Steinberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Morris",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Annual Review of Psychology",
+                "volume": "52",
+                "issue": "",
+                "pages": "83--110",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Steinberg, L., & Morris, A. S. (2001). Adolescent development. Annual Review of Psychology, 52, 83-110.",
+                "links": null
+            },
+            "BIBREF68": {
+                "ref_id": "b68",
+                "title": "Toward a self-evaluation maintenance model of social behavior",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Tesser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Advances in experimental social psychology",
+                "volume": "21",
+                "issue": "",
+                "pages": "181--227",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tesser, A. (1988). Toward a self-evaluation maintenance model of social behavior. In L. Berkowitz (Ed.), Advances in experimental social psychology. , Vol. 21. (pp. 181-227). New York: Academic Press.",
+                "links": null
+            },
+            "BIBREF69": {
+                "ref_id": "b69",
+                "title": "Emotion in social comparison and reflection processes",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Tesser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Social comparison processes: Contemporary theory and research",
+                "volume": "",
+                "issue": "",
+                "pages": "117--145",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tesser, A. (1991). Emotion in social comparison and reflection processes. In J. M. Suls, & R. L. Miller (Eds.), Social comparison processes: Contemporary theory and research (pp. 117-145). Hillsdale, NJ: Erlbaum.",
+                "links": null
+            },
+            "BIBREF70": {
+                "ref_id": "b70",
+                "title": "A further examination of the big-fish-little-pond effect: Perceived position in class, class size, and gender comparisons",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Thijs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Verkuyten",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Helmond",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Sociology of Education",
+                "volume": "83",
+                "issue": "",
+                "pages": "333--345",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Thijs, J., Verkuyten, M., & Helmond, P. (2010). A further examination of the big-fish-little-pond effect: Perceived position in class, class size, and gender com- parisons. Sociology of Education, 83, 333-345.",
+                "links": null
+            },
+            "BIBREF71": {
+                "ref_id": "b71",
+                "title": "Transactional analysis of the reciprocal links between peer experiences and academic achievement from middle childhood to early adolescence",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "V\u00e9ronneau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Vitaro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Brendgen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Dishion",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Tremblay",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Developmental Psychology",
+                "volume": "46",
+                "issue": "",
+                "pages": "773--790",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "V\u00e9ronneau, M. H., Vitaro, F., Brendgen, M., Dishion, T. J., & Tremblay, R. E. (2010). Transactional analysis of the reciprocal links between peer experiences and aca- demic achievement from middle childhood to early adolescence. Developmental Psychology, 46, 773-790.",
+                "links": null
+            },
+            "BIBREF72": {
+                "ref_id": "b72",
+                "title": "Understanding the effect of being a big fish in a little pond on academic self-concept",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Wouters",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Colpin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Germeijs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Verschueren",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Netherlands Journal of Psychology",
+                "volume": "65",
+                "issue": "",
+                "pages": "89--101",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wouters, S., Colpin, H., Germeijs, V., & Verschueren, K. (2009). Understanding the effect of being a big fish in a little pond on academic self-concept. Netherlands Journal of Psy- chology, 65, 89-101.",
+                "links": null
+            },
+            "BIBREF73": {
+                "ref_id": "b73",
+                "title": "Academic self-concept in high school: Predictors and effects on adjustment in higher education",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Wouters",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Germeijs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Colpin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Verschueren",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Scandinavian Journal of Psychology",
+                "volume": "52",
+                "issue": "",
+                "pages": "586--594",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wouters, S., Germeijs, V., Colpin, H., & Verschueren, K. (2011). Academic self-concept in high school: Predictors and effects on adjustment in higher education. Scandinavian Journal of Psychology, 52, 586-594.",
+                "links": null
+            },
+            "BIBREF74": {
+                "ref_id": "b74",
+                "title": "The local dominance effect in self-evaluation: Evidence and explanations",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Zell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Alicke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Personality and Social Psychology Review",
+                "volume": "14",
+                "issue": "",
+                "pages": "368--384",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Zell, E., & Alicke, M.D. (2010). The local dominance effect in self-evaluation: Evidence and explanations. Personality and Social Psychology Review, 14, 368-384.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "text": "Full latent-manifest multilevel model of academic self-concept (ASC).",
+                "uris": null
+            },
+            "TABREF0": {
+                "num": null,
+                "text": "Intercorrelations for all variables.",
+                "type_str": "table",
+                "content": "<table><tr><td>V a r i a b l e</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>1 0</td><td>1 1</td><td>1 2</td><td>1 3</td></tr><tr><td>1. Gender</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>2. Academic self-concept</td><td>.09 \u204e\u204e</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>3. Math self-concept</td><td>.18 \u204e\u204e</td><td>.53 \u204e\u204e</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>4. Language self-concept</td><td>\u2212.18 \u204e\u204e</td><td>.35 \u204e\u204e</td><td>.03</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>5. Individual academic achievement</td><td>.08 \u204e\u204e</td><td>.49 \u204e\u204e</td><td>.38 \u204e\u204e</td><td>.08 \u204e\u204e</td><td>-</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>6. Friend-average academic achievement</td><td>.10 \u204e\u204e</td><td>.05 \u204e\u204e</td><td>.05 \u204e\u204e</td><td>\u2212.06 \u204e\u204e</td><td>.30 \u204e\u204e</td><td>-</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>7. Class-average academic achievement</td><td>.03</td><td>.06 \u204e\u204e</td><td>.07 \u204e\u204e</td><td>\u2212.06 \u204e\u204e</td><td>.41 \u204e\u204e</td><td>.74 \u204e\u204e</td><td>-</td><td/><td/><td/><td/><td/><td/></tr><tr><td>8. Individual math achievement</td><td>.18 \u204e\u204e</td><td>.49 \u204e\u204e</td><td>.49 \u204e\u204e</td><td>\u2212.03</td><td>.91 \u204e\u204e</td><td>.28 \u204e\u204e</td><td>.38 \u204e\u204e</td><td>-</td><td/><td/><td/><td/><td/></tr><tr><td>9. Friend-average math achievement</td><td>.21 \u204e\u204e</td><td>.05 \u204e\u204e</td><td>.08 \u204e\u204e</td><td>\u2212.07 \u204e\u204e</td><td>.27 \u204e\u204e</td><td>.92 \u204e\u204e</td><td>.68 \u204e\u204e</td><td>.30 \u204e\u204e</td><td>-</td><td/><td/><td/><td/></tr><tr><td>10. Class-average math achievement</td><td>.03</td><td>.06 \u204e\u204e</td><td>.09 \u204e\u204e</td><td>\u2212.05 \u204e\u204e</td><td>.38 \u204e\u204e</td><td>.70 \u204e\u204e</td><td>.93 \u204e\u204e</td><td>.41 \u204e\u204e</td><td>.73 \u204e\u204e</td><td>-</td><td/><td/><td/></tr><tr><td>11. Individual language achievement</td><td>\u2212.04 \u204e</td><td>.41 \u204e\u204e</td><td>.19 \u204e\u204e</td><td>.17 \u204e\u204e</td><td>.90 \u204e\u204e</td><td>.25 \u204e\u204e</td><td>.36 \u204e\u204e</td><td>.63 \u204e\u204e</td><td>.18 \u204e\u204e</td><td>.27 \u204e\u204e</td><td>-</td><td/><td/></tr><tr><td>12. Friend-average language achievement</td><td>\u2212.04 \u204e</td><td>.03</td><td>.01</td><td>\u2212.04</td><td>.27 \u204e\u204e</td><td>.90 \u204e\u204e</td><td>.67 \u204e\u204e</td><td>.20 \u204e\u204e</td><td>.65 \u204e\u204e</td><td>.52 \u204e\u204e</td><td>.28 \u204e\u204e</td><td>-</td><td/></tr><tr><td>13. Class-average language achievement</td><td>.02</td><td>.05 \u204e\u204e</td><td>.04 \u204e</td><td>\u2212.06 \u204e\u204e</td><td>.37 \u204e\u204e</td><td>.67 \u204e\u204e</td><td>.91 \u204e\u204e</td><td>.29 \u204e\u204e</td><td>.50 \u204e\u204e</td><td>.69 \u204e\u204e</td><td>.39 \u204e\u204e</td><td>.73 \u204e\u204e</td><td>-</td></tr><tr><td>N</td><td>2985</td><td>2978</td><td>2980</td><td>2985</td><td>2987</td><td>2969</td><td>2987</td><td>2987</td><td>2969</td><td>2987</td><td>2987</td><td>2969</td><td>2987</td></tr></table>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "Multilevel models for academic self-concept (n = 2967).",
+                "type_str": "table",
+                "content": "<table><tr><td/><td>Model with control</td><td/><td>Model with friends</td><td/><td colspan=\"2\">Model with classmates</td><td colspan=\"2\">Model with friends and</td></tr><tr><td/><td>variables (Model 1)</td><td/><td>(Model 2)</td><td/><td>(Model 3)</td><td/><td>classmates (Model 4)</td><td/></tr><tr><td/><td>Estimates</td><td>SE</td><td>Estimates</td><td>SE</td><td>Estimates</td><td>SE</td><td>Estimates</td><td>SE</td></tr><tr><td>Fixed effects</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Gender</td><td>0.11 \u204e</td><td>.03</td><td>0.13 \u204e\u204e</td><td>.04</td><td>0.11 \u204e</td><td>.03</td><td>0.11 \u204e</td><td>.03</td></tr><tr><td>Individual achievement</td><td>0.49 \u204e\u204e</td><td>.02</td><td>0.50 \u204e\u204e</td><td>.02</td><td>0.52 \u204e\u204e</td><td>.02</td><td>0.52 \u204e\u204e</td><td>.02</td></tr><tr><td>Friend-average achievement</td><td>-</td><td>-</td><td>\u22120.15 \u204e\u204e</td><td>.04</td><td>-</td><td>-</td><td>0.01</td><td>.04</td></tr><tr><td>Class-average achievement</td><td>-</td><td>-</td><td>-</td><td>-</td><td>\u22120.39 \u204e\u204e</td><td>.06</td><td>\u22120.40 \u204e\u204e</td><td>.07</td></tr><tr><td>Random effects</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Level 2 intercept</td><td>0.05 \u204e\u204e</td><td>.01</td><td>0.03 \u204e\u204e</td><td>.01</td><td>0.03 \u204e\u204e</td><td>.01</td><td>0.03 \u204e\u204e</td><td>.01</td></tr><tr><td>Level 2 gender</td><td>0.05 \u204e</td><td>.02</td><td>0.06 \u204e</td><td>.02</td><td>0.06 \u204e</td><td>.02</td><td>0.05 \u204e</td><td>.02</td></tr><tr><td>Level 1 intercept</td><td>0.42 \u204e\u204e</td><td>.02</td><td>0.42 \u204e\u204e</td><td>.02</td><td>0.42 \u204e\u204e</td><td>.02</td><td>0.42 \u204e\u204e</td><td>.02</td></tr><tr><td>Loglikelihood</td><td>\u221210544.09</td><td/><td>\u221210534.12</td><td/><td>\u221210514.06</td><td/><td>\u221210514.05</td><td/></tr><tr><td>Parameters</td><td>17</td><td/><td>18</td><td/><td>18</td><td/><td>19</td><td/></tr><tr><td colspan=\"2\">Note. Factor loadings are not shown to save space.</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>\u204e p b .01.</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>\u204e\u204e p b .001.</td><td/><td/><td/><td/><td/><td/><td/><td/></tr></table>"
+            },
+            "TABREF2": {
+                "num": null,
+                "text": "Multilevel models for language self-concept (n = 2967).",
+                "type_str": "table",
+                "content": "<table><tr><td/><td>Model with control</td><td/><td>Model with friends</td><td/><td colspan=\"2\">Model with classmates</td><td colspan=\"2\">Model with friends and</td></tr><tr><td/><td>variables (Model 1)</td><td/><td>(Model 2)</td><td/><td>(Model 3)</td><td/><td>classmates (Model 4)</td><td/></tr><tr><td/><td>Estimates</td><td>SE</td><td>Estimates</td><td>SE</td><td>Estimates</td><td>SE</td><td>Estimates</td><td>SE</td></tr><tr><td>Fixed effects</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Gender</td><td>\u22120.31 \u204e\u204e\u204e</td><td>.04</td><td>\u22120.31 \u204e\u204e\u204e</td><td>.04</td><td>\u22120.30 \u204e\u204e\u204e</td><td>.04</td><td>\u22120.30 \u204e\u204e\u204e</td><td>.04</td></tr><tr><td>Individual achievement</td><td>0.18 \u204e\u204e\u204e</td><td>.02</td><td>0.19 \u204e\u204e\u204e</td><td>.02</td><td>0.20 \u204e\u204e\u204e</td><td>.02</td><td>0.20 \u204e\u204e\u204e</td><td>.02</td></tr><tr><td>Friend-average achievement</td><td>-</td><td>-</td><td>\u22120.11 \u204e\u204e</td><td>.04</td><td>-</td><td>-</td><td>\u22120.02</td><td>.05</td></tr><tr><td>Class-average achievement</td><td>-</td><td>-</td><td>-</td><td>-</td><td>\u22120.33 \u204e\u204e\u204e</td><td>.07</td><td>\u22120.31 \u204e\u204e\u204e</td><td>.08</td></tr><tr><td>Random effects</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Level 2 intercept</td><td>0.09 \u204e\u204e\u204e</td><td>.01</td><td>0.08 \u204e\u204e\u204e</td><td>.01</td><td>0.07 \u204e\u204e\u204e</td><td>.01</td><td>0.07 \u204e\u204e\u204e</td><td>.01</td></tr><tr><td>Level 2 gender</td><td>0.04 \u204e</td><td>.02</td><td>0.05 \u204e</td><td>.02</td><td>0.04 \u204e</td><td>.02</td><td>0.04 \u204e</td><td>.02</td></tr><tr><td>Level 1 intercept</td><td>0.61 \u204e\u204e\u204e</td><td>.02</td><td>0.61 \u204e\u204e\u204e</td><td>.02</td><td>0.61 \u204e\u204e\u204e</td><td>.02</td><td>0.61 \u204e\u204e\u204e</td><td>.02</td></tr><tr><td>Loglikelihood</td><td>\u22129336.34</td><td/><td>\u22129331.94</td><td/><td>\u22129324.76</td><td/><td>\u22129324.65</td><td/></tr><tr><td>Parameters</td><td>17</td><td/><td>18</td><td/><td>18</td><td/><td>19</td><td/></tr></table>"
+            },
+            "TABREF3": {
+                "num": null,
+                "text": "Additional multilevel models with friends and classmates (with classmates excluding friends and self) (n = 2846). Factor loadings are not shown to save space.",
+                "type_str": "table",
+                "content": "<table><tr><td/><td>Academic</td><td>Language</td><td>Math</td><td/></tr><tr><td/><td>self-concept</td><td>self-concept</td><td>self-concept</td><td/></tr><tr><td/><td colspan=\"4\">Estimates SE Estimates SE Estimates SE</td></tr><tr><td>Fixed effects</td><td/><td/><td/><td/></tr><tr><td>Gender</td><td>0.11 \u204e\u204e</td><td colspan=\"2\">.04 \u22120.31 \u204e\u204e\u204e .04 0.17 \u204e\u204e\u204e</td><td>.04</td></tr><tr><td>Individual achievement</td><td>0.50 \u204e\u204e\u204e</td><td>.02 0.18 \u204e\u204e\u204e</td><td>.02 0.48 \u204e\u204e\u204e</td><td>.02</td></tr><tr><td colspan=\"2\">Friend-average achievement \u22120.12 \u204e\u204e</td><td>.04 \u22120.11 \u204e\u204e</td><td>.04 \u22120.09 \u204e</td><td>.04</td></tr><tr><td>Class-average achievement</td><td colspan=\"4\">\u22120.25 \u204e\u204e\u204e .03 \u22120.21 \u204e\u204e\u204e .04 \u22120.19 \u204e\u204e\u204e .04</td></tr><tr><td>Random effects</td><td/><td/><td/><td/></tr><tr><td>Level 2 intercept</td><td>0.03 \u204e\u204e\u204e</td><td>.01 0.07 \u204e\u204e\u204e</td><td>.01 0.04 \u204e\u204e\u204e</td><td>.01</td></tr><tr><td>Level 2 gender</td><td>0.06 \u204e\u204e</td><td>.02 0.05 \u204e</td><td>.02 0.07 \u204e</td><td>.03</td></tr><tr><td>Level 1 intercept</td><td>0.41 \u204e\u204e\u204e</td><td>.02 0.61 \u204e\u204e\u204e</td><td>.02 0.54 \u204e\u204e\u204e</td><td>.02</td></tr><tr><td>Loglikelihood</td><td>\u221210109.32</td><td>\u22128951.22</td><td>\u22127856.11</td><td/></tr><tr><td>Parameters</td><td>19</td><td>19</td><td>19</td><td/></tr><tr><td>Note.</td><td/><td/><td/><td/></tr></table>"
+            },
+            "TABREF4": {
+                "num": null,
+                "text": "Multilevel models for math self-concept (n = 2967).",
+                "type_str": "table",
+                "content": "<table><tr><td/><td>Model with control</td><td/><td>Model with friends</td><td/><td colspan=\"2\">Model with classmates</td><td colspan=\"2\">Model with friends and</td></tr><tr><td/><td>variables (Model 1)</td><td/><td>(Model 2)</td><td/><td>(Model 3)</td><td/><td>classmates (Model 4)</td><td/></tr><tr><td/><td>Estimates</td><td>SE</td><td>Estimates</td><td>SE</td><td>Estimates</td><td>SE</td><td>Estimates</td><td>SE</td></tr><tr><td>Fixed effects</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Gender</td><td>0.18 \u204e\u204e\u204e</td><td>.04</td><td>0.20 \u204e\u204e\u204e</td><td>.04</td><td>0.17 \u204e\u204e\u204e</td><td>.04</td><td>0.17 \u204e\u204e\u204e</td><td>.04</td></tr><tr><td>Individual achievement</td><td>0.47 \u204e\u204e\u204e</td><td>.02</td><td>0.47 \u204e\u204e\u204e</td><td>.02</td><td>0.49 \u204e\u204e\u204e</td><td>.02</td><td>0.49 \u204e\u204e\u204e</td><td>.02</td></tr><tr><td>Friend-average achievement</td><td>-</td><td>-</td><td>\u22120.10 \u204e\u204e</td><td>.04</td><td>-</td><td>-</td><td>0.00</td><td>.04</td></tr><tr><td>Class-average achievement</td><td>-</td><td>-</td><td>-</td><td>-</td><td>\u22120.30 \u204e\u204e\u204e</td><td>.06</td><td>\u22120.30 \u204e\u204e\u204e</td><td>.07</td></tr><tr><td>Random effects</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Level 2 intercept</td><td>0.06 \u204e\u204e\u204e</td><td>.01</td><td>0.05 \u204e\u204e\u204e</td><td>.01</td><td>0.04 \u204e\u204e\u204e</td><td>.01</td><td>0.04 \u204e\u204e\u204e</td><td>.01</td></tr><tr><td>Level 2 gender</td><td>0.07 \u204e</td><td>.03</td><td>0.07 \u204e\u204e</td><td>.03</td><td>0.07 \u204e\u204e</td><td>.03</td><td>0.07 \u204e\u204e</td><td>.03</td></tr><tr><td>Level 1 intercept</td><td>0.54 \u204e\u204e\u204e</td><td>.02</td><td>0.54 \u204e\u204e\u204e</td><td>.02</td><td>0.54 \u204e\u204e\u204e</td><td>.02</td><td>0.54 \u204e\u204e\u204e</td><td>.02</td></tr><tr><td>Loglikelihood</td><td>\u22128179.16</td><td/><td>\u22128174.14</td><td/><td>\u22128164.83</td><td/><td>\u22128164.83</td><td/></tr><tr><td>Parameters</td><td>17</td><td/><td>18</td><td/><td>18</td><td/><td>19</td><td/></tr><tr><td colspan=\"2\">Note. Factor loadings are not shown to save space.</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>\u204e p b .05.</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>\u204e\u204e p b .01.</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>\u204e\u204e\u204e p b .001.</td><td/><td/><td/><td/><td/><td/><td/><td/></tr></table>"
+            }
+        }
+    }
+}

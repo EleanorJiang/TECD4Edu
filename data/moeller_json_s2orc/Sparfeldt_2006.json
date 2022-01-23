@@ -1,0 +1,1961 @@
+{
+    "paper_id": "Sparfeldt_2006",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2021-08-22T17:58:01.831519Z"
+    },
+    "title": "Blocked Versus Randomized Format of Questionnaires A Confirmatory Multigroup Analysis",
+    "authors": [
+        {
+            "first": "J\u00f6rn",
+            "middle": [
+                "R"
+            ],
+            "last": "Sparfeldt",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Philipps-Universit\u00e4t Marburg",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Susanne",
+            "middle": [
+                "R"
+            ],
+            "last": "Schilling",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Philipps-Universit\u00e4t Marburg",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Detlef",
+            "middle": [
+                "H"
+            ],
+            "last": "Rost",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Philipps-Universit\u00e4t Marburg",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Alexandra",
+            "middle": [],
+            "last": "Thiel",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Philipps-Universit\u00e4t Marburg",
+                "location": {}
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The notion of item context effects implies that psychometric properties of an item or scale are altered by the presentation format, for example, blocked versus randomized. In an experimental study with high school students, the experimental group (n = 407) answered a four-dimensional academic self-concept questionnaire, in which the items were presented in a grid with eight identical item stems forming the rows and four academic subjects (math, physics, German, English) forming the columns, thereby maximizing potential blocking effects. The control group (n = 396) answered the identical items presented in a traditional randomized order. Multiple-group confirmatory factor analyses demonstrated similar factorial structures (i.e., factor loadings, factor variances, and factor covariances) of the two versions. Scale means, scale homogeneities, and relations with grades in the corresponding and noncorresponding subjects were very similar. Practical implications of these results for economical measurement of educational and psychological concepts (i.e., using grids) are discussed.",
+    "pdf_parse": {
+        "paper_id": "Sparfeldt_2006",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The notion of item context effects implies that psychometric properties of an item or scale are altered by the presentation format, for example, blocked versus randomized. In an experimental study with high school students, the experimental group (n = 407) answered a four-dimensional academic self-concept questionnaire, in which the items were presented in a grid with eight identical item stems forming the rows and four academic subjects (math, physics, German, English) forming the columns, thereby maximizing potential blocking effects. The control group (n = 396) answered the identical items presented in a traditional randomized order. Multiple-group confirmatory factor analyses demonstrated similar factorial structures (i.e., factor loadings, factor variances, and factor covariances) of the two versions. Scale means, scale homogeneities, and relations with grades in the corresponding and noncorresponding subjects were very similar. Practical implications of these results for economical measurement of educational and psychological concepts (i.e., using grids) are discussed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "T o uphold the standards of educational and psychological testing, the American Educational Research Association (1999) stated the following requirement:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "When additional test forms are created by taking a subset of the items in an existing test form or by rearranging its items and there is sound reason to believe that scores on these forms may be influenced by item context effects, evidence should be provided that there is no undue distortion of norms for the different versions or of score linkages between them. (p. 58) This claim ensued from observations of the impact of certain characteristics of the measurement instrument (e.g., item format or item context) on participants' selfreports (e.g., Schwarz, 1999) . But such evidence does not answer the question when exactly \"sound reason\" exists and to what extent reliable multi-item and multifaceted questionnaires are subject to such effects.",
+                "cite_spans": [
+                    {
+                        "start": 364,
+                        "end": 371,
+                        "text": "(p. 58)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 551,
+                        "end": 565,
+                        "text": "Schwarz, 1999)",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Usually, items belonging to different scales are arranged in random order within a questionnaire, or the items from one scale are placed with the largest possible distance to each other. Random ordering of items or maximizing the distance by cycling the items of a scale (i.e., putting exactly one item of each scale between two items of each other scale) is chosen to reduce the impact of possible response biases, making the measurement purpose less transparent to the respondents. Moreover, a more varied and less monotonous item order might help to maintain the respondents' attention and motivation while filling out a questionnaire (e.g., Schriesheim, Kopelman, & Solomon, 1989; Solomon & Kopelman, 1984) . These arguments in favor of random ordering or maximizing the distance between the items of one scale may not apply uniformly to all assessment settings, however. In anonymous assessment situations-the usual case in educational and psychological research-there is less need to present oneself favorably or in a socially desirable manner. Schriesheim and DeNisi (1980) have suggested some advantages of a blocked item arrangement, with all items measuring one construct being grouped together. For example, this mode of presentation might be taken by the respondents to signify that the presentation of similar (but not identical) items is not a trick on behalf of the experimenter. This might lead to increased levels of trust and openness of the respondents and thus raise their motivation to give valid responses.",
+                "cite_spans": [
+                    {
+                        "start": 645,
+                        "end": 684,
+                        "text": "Schriesheim, Kopelman, & Solomon, 1989;",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 685,
+                        "end": 710,
+                        "text": "Solomon & Kopelman, 1984)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 1051,
+                        "end": 1080,
+                        "text": "Schriesheim and DeNisi (1980)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "An argument against blocked arrangement of items, however, was presented by Tourangeau and Rasinski (1988) . According to them, the presentation context of an item influences the interpretation of an item as well as the retrieval of item-relevant information from memory, the use of this information to come to a final judgment, and the process of reporting the answer. Furthermore, other studies have shown a significant relation between the item order and the mean, the variance, and the reliability of a target item (e.g., Knowles, 1988; Knowles & Byers, 1996; Steinberg, 1994) . As such, the correlation of one item with the remaining items of the corresponding scale seems to be higher if the item is placed in a later position within a scale of corresponding items. Yet this effect is usually found to be quite small.",
+                "cite_spans": [
+                    {
+                        "start": 76,
+                        "end": 106,
+                        "text": "Tourangeau and Rasinski (1988)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 526,
+                        "end": 540,
+                        "text": "Knowles, 1988;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 541,
+                        "end": 563,
+                        "text": "Knowles & Byers, 1996;",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 564,
+                        "end": 580,
+                        "text": "Steinberg, 1994)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "From a practical perspective, the most important question seems to be whether the item arrangement (i.e., blocked or random) has a decisive impact on the psychometric properties of an entire scale and not only on a specific item. Although possible effects have been widely discussed in the literature on test construction, results of empirical studies have always been quite inconsistent. Some authors of early studies revealed almost identical attitude profiles (Baehr, 1953) and psychometric characteristics (Lyman, 1949) of two versions of their questionnaires, one with items arranged in a randomized order and one with the items arranged in a blocked format. Analyzing these two modes, Schriesheim et al. (1989) found in three studies with different samples that \"neither format is clearly superior to the other on any of the examined psychometric properties\" (p. 487). On the other hand, Schriesheim and DeNisi (1980) reported superior convergent and discriminant validity coefficients for a randomized compared with a blocked version. Recently, Alterman et al. (2003) analyzed whether a blocked subscale (i.e., the Socialization subscale of the California Psychological Inventory; Gough & Bradley, 1996) showed different psychometric properties and different convergent validity coefficients in comparison with the original randomized version. Unfortunately, in this study, all participants answered the blocked version on 1 day and the other version a few days later. Therefore, no separation of retest effects and potential blocking effects was possible. Consequently, any interpretation concerning the small mean differences (d = 0.15, with lower values of the embedded version at the second measurement point), the lower homogeneity of the embedded version (\u03b1 = .68 vs. \u03b1 = .77), and the differences in the convergent correlation coefficients seems to be equivocal. Based on the item response theory, Ortner (2004) administered the items of seven shortened scales of the Eysenck Personality Profiler (Eysenck, 1995) to one group in the regular order and to another group in an inversed order. Ortner found no statistically significant mean difference of the test scores. Using graphical model checks, item difficulties seemed to be different in three of the seven considered scales. However, the fact that in this study participants were not assigned randomly to the two groups limits the interpretation of these results.",
+                "cite_spans": [
+                    {
+                        "start": 463,
+                        "end": 476,
+                        "text": "(Baehr, 1953)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 510,
+                        "end": 523,
+                        "text": "(Lyman, 1949)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 691,
+                        "end": 716,
+                        "text": "Schriesheim et al. (1989)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 894,
+                        "end": 923,
+                        "text": "Schriesheim and DeNisi (1980)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1052,
+                        "end": 1074,
+                        "text": "Alterman et al. (2003)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1188,
+                        "end": 1210,
+                        "text": "Gough & Bradley, 1996)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1912,
+                        "end": 1925,
+                        "text": "Ortner (2004)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 2011,
+                        "end": 2026,
+                        "text": "(Eysenck, 1995)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Several other studies used an experimental design with two independent groups (blocked vs. randomized order). Only a few statistically significant differences between questionnaire versions were found on a multifaceted personality questionnaire (Franke, 1998; Krampen, Hense, & Schneider, 1992) , a questionnaire on locus of control beliefs (Krampen, 1993) , and a German version of psychiatric symptoms checklist (Franke, 1996 (Franke, , 1997 (Franke, , 1999 Franke & St\u00e4cker, 1995) . Some effects were observed on the level of scale means, scale variances, scale reliabilities, and scale intercorrelations, but most differences could not be replicated using identical operationalizations and similar samples. Some effects later even turned in the opposite direction. Rost and Hoberg (1997) also analyzed potential blocking effects in two independent samples (blocked vs. random order). They used four academic self-concept scales (i.e., General Academic Ability, Math, German, Geography). The differences between the means of the two different versions were practically irrelevant for the General Academic Ability (d = 0.11) and Math self-concept scales (d = 0.06). Slightly higher means of the blocked versions were observed for the German (d = -0.23) and Geography self-concept scales (d = -0.33). No statistically significant differences emerged in terms of scale variances and intercorrelations. The homogeneities of all scales as well as the factorial structure of the self-concept facets were very similar in both groups (i.e., factor congruence coefficients always exceeded r cc = .96).",
+                "cite_spans": [
+                    {
+                        "start": 245,
+                        "end": 259,
+                        "text": "(Franke, 1998;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 260,
+                        "end": 294,
+                        "text": "Krampen, Hense, & Schneider, 1992)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 341,
+                        "end": 356,
+                        "text": "(Krampen, 1993)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 414,
+                        "end": 427,
+                        "text": "(Franke, 1996",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 428,
+                        "end": 443,
+                        "text": "(Franke, , 1997",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 444,
+                        "end": 459,
+                        "text": "(Franke, , 1999",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 460,
+                        "end": 483,
+                        "text": "Franke & St\u00e4cker, 1995)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 769,
+                        "end": 791,
+                        "text": "Rost and Hoberg (1997)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Unfortunately, neither of these studies tested for similarity using confirmatory analyses (i.e., equal factor loadings, equal factor variances, and equal factor covariances). Testing for different aspects of similarity in confirmatory analyses is an important aspect of the construct validation process. One exception is a recent study by Marsh and Yeung (1999) . Depending on the presentation context, they reported a substantial shift in the meaning of global self-esteem items in single-group confirmatory factor analyses. As such, the responses to items measuring global self-esteem had higher correlations with a specific self-concept domain if these items were embedded among items tapping this specific self-concept domain than if they were embedded among other items. Besides, identical self-esteem items assembled within different self-concept instruments clearly formed different factors.",
+                "cite_spans": [
+                    {
+                        "start": 339,
+                        "end": 361,
+                        "text": "Marsh and Yeung (1999)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The studies discussed so far dealt with quite heterogeneous psychological constructs, which may at least to some extent account for the different results. Further testing of item-blocking effects should, therefore, use a well-defined psychological construct, such as academic self-concept. Academic self-concept is a well-established, multifaceted construct, which can be measured reliably (e.g., Byrne, 1996) . Also, the relationship of different academic self-concepts with achievement indicators is well known, supporting the validity of this construct. Typically, grades and corresponding self-concepts correlate between r = .40 and r = .80 (e.g., Marsh, 1986) . The prominent internal/external frame of reference (I/E) model (Marsh, 1986) postulates two comparison processes between different academic self-concept facets. Using the external frame of reference, students compare their achievements in one subject with those of their classmates. More relevant to the question of context effects is the dimensional comparison process, that is, the internal frame of reference. Here, students compare their achievements in one subject with their achievements in another subject. Commonly, a path-analytical approach is taken to test the I/E model. Positive paths from achievement scores to the corresponding self-concept scores are interpreted as support for the external (social) process, whereas negative path coefficients from achievement scores to noncorresponding self-concepts (contrast effects) are interpreted as support of the internal frame of reference. The I/E model has been investigated by many studies worldwide, and the effects have turned out to be very stable across different countries and operationalizations (M\u00f6ller & K\u00f6ller, 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 397,
+                        "end": 409,
+                        "text": "Byrne, 1996)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 652,
+                        "end": 664,
+                        "text": "Marsh, 1986)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 730,
+                        "end": 743,
+                        "text": "(Marsh, 1986)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1731,
+                        "end": 1754,
+                        "text": "(M\u00f6ller & K\u00f6ller, 2004)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Furthermore, research on item-blocking effects has relied on quite different forms of blocking. Some authors merely presented items of one subscale in a consecutive order, and others have additionally used a scale label or visualized item blocks by putting a frame around the items of a scale. An extreme form of item blocking is a grid, in which each column makes up only one scale. Using this format, several item blocks are displayed simultaneously. If different academic self-concept scales (e.g., Math and English) are presented in a grid, this could, for example, affect the internal comparison process and result in different path coefficients. So far, there is no information about the effects of such extreme item blocking.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Taking these aspects into account, the following study aims to shed some light on item-blocking effects with a multifaceted questionnaire, measuring academic selfconcept with highly reliable multi-item scales. Complementing earlier studies, this is done in a confirmatory way with multiple-group analyses, testing different aspects of similarity (i.e., factor loadings, factor variances, and factor covariances). More classical psychometric characteristics are inspected. To test the issue of validity, the following prediction is investigated: According to an extension of the I/E model, the paths from four achievements to the corresponding and noncorresponding four self-concepts are expected to be influenced if item-blocking effects are substantial, systematic, and consistent. Therefore, the current study differs in these aspects from other common studies testing the I/E model.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "A sample of N = 822 German higher track high school students (gymnasium, Grades 9 and 10) from 38 classes out of six schools in North Rhine-Westphalia participated in the current study. In each class, the students were randomly assigned to an experimental group (EG) or a comparison group (CG). Because there were very few missing values, these cases were deleted listwise. Therefore, the EG consisted of n = 407 students (instead of 411; 235 female, 172 male), and the CG included n = 396 students (instead of 411; 224 female, 172 male). All data were collected during regular lessons by trained experimenters. When answering the questionnaire, students were not aware of belonging to either the EG or the CG.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Method Participants",
+                "sec_num": null
+            },
+            {
+                "text": "The self-concepts of the EG were measured using the Differential Self-Concept (DISC) Grid (Rost & Sparfeldt, 2002; Schilling, Sparfeldt, Rost, & Nickels, 2005) , which is designed to measure the four academic self-concept facets German, English, math, and physics. Eight items with an empty space ( . . .) left for the individual school subject were presented within a grid, containing eight rows for the items and four columns for the four subjects. The students were expected to fill out the left space ( . . .) mentally with the corresponding subject. Therefore, the wording of the items for the four subjects was identical and as follows: \"I am first to know the answer to questions in (. . .),\" \"sometimes I feel superior to my classmates in (. . .) courses and think they might learn something from me,\" \"I can figure out things for myself in (. . .),\" \"I am satisfied with my debating ability in (. . .) classes,\" \"I solve problems in (. . .) quite easily,\" \"good grades come easily to me in (. . .),\" \"I am a good student in (. . .),\" and \"I feel good about my course work in(. . . .).\" Students responded to each item on a 6-point scale ranging from not at all true (1) to perfectly true (6). The postulated four-dimensional structure of the DISC Grid has been replicated in exploratory and confirmatory factor analyses (Rost, Sparfeldt, & Schilling, 2006) . As such, the subject-specific selfconcept scores measured with the DISC Grid were highly reliable (\u03b1 > .90) and displayed good convergent discriminant validity coefficients with grades in various samples. Self-concept in math and self-concept in German measured with the DISC Grid correlated substantially with a German adaptation of the well-established and frequently used Self-Description Questionnaire (Marsh, 1990) , specifically with the self-concepts in math and German: r = .87 and r = .77, respectively (Schilling et al., 2005) . It should be mentioned, however, that the items of the Self-Description Questionnaire are not ordered in a blocked manner. The self-concepts of the CG were mea-sured with identical items, but the items were presented in the usual questionnaire format. That is, each item specified the respective subject, and all items were arranged randomly (with the exception that not more than two items of one self-concept facet followed each other).",
+                "cite_spans": [
+                    {
+                        "start": 90,
+                        "end": 114,
+                        "text": "(Rost & Sparfeldt, 2002;",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 115,
+                        "end": 159,
+                        "text": "Schilling, Sparfeldt, Rost, & Nickels, 2005)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1329,
+                        "end": 1365,
+                        "text": "(Rost, Sparfeldt, & Schilling, 2006)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1774,
+                        "end": 1787,
+                        "text": "(Marsh, 1990)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1880,
+                        "end": 1904,
+                        "text": "(Schilling et al., 2005)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments and Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Academic achievement was assessed through grades. The four subjects-math, German, physics, and English-were chosen to provide two subjects in each of the \"numerical\" (i.e., math and physics) and \"verbal\" (i.e., German and English) domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instruments and Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Confirmatory factor analyses were conducted to replicate the postulated fourdimensional structure of the questionnaires in each of the two groups. All analyses were based on empirical covariance matrices, and maximum-likelihood algorithms were used to estimate parameters (AMOS 4.01; Arbuckle, 1999) . The data considered in the present investigation are not extremely nonnormal (e.g., skews are typically less than absolute values of .4, and none are greater than .6). Each latent subject-specific self-concept factor was indicated by the eight corresponding items. Self-concept factors were allowed to be correlated. Because the wording of the eight item stems of the four subjects was identical, correlations of error terms of identically worded item stems were set free to be estimated. Following Marsh, Balla, and McDonald (1988) and Marsh, Balla, and Hau (1996) , the well-known root mean square error of approximation (RMSEA) together with a 90% confidence interval (CI) around RMSEA and the Tucker-Lewis Index (TLI; Tucker & Lewis, 1973) were used to evaluate goodness of fit. According to Marsh, Craven, and Debus (1999) , an acceptable model fit is indicated by TLI values above .90; other authors recommend values \"close to .95 (for large samples) being indicative of good fit\" (Byrne, 2001, p. 83) . With respect to the RMSEA, these authors suggest values below .08 (.05) as signifying an acceptable (good) fit. The \u03c7 2 statistics and the degrees of freedom were also presented.",
+                "cite_spans": [
+                    {
+                        "start": 284,
+                        "end": 299,
+                        "text": "Arbuckle, 1999)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 801,
+                        "end": 834,
+                        "text": "Marsh, Balla, and McDonald (1988)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 839,
+                        "end": 867,
+                        "text": "Marsh, Balla, and Hau (1996)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1024,
+                        "end": 1045,
+                        "text": "Tucker & Lewis, 1973)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 1098,
+                        "end": 1129,
+                        "text": "Marsh, Craven, and Debus (1999)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1289,
+                        "end": 1309,
+                        "text": "(Byrne, 2001, p. 83)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "The baseline model of this multiple-group analysis with coefficients estimated in each group separately was compared to models with cross-groups constraints to test for certain aspects of invariance of the two questionnaire versions. To test for factorial invariance, in a first step, the factor loadings were constrained. This is the \"minimal condition for 'factorial invariance' \" (Marsh, 1993, p. 851) . In a second step, the factor covariances and factor variances also were restricted to be identical in both groups. Because of the large sample size, the \u03b1 level was set at .01. To detect any relevant differences, we decided not to adjust the \u03b1 level according to the number of univariate tests. The well-known effect sizes \u03b7 2 , d, and q are reported in adherence to Cohen (1988) .",
+                "cite_spans": [
+                    {
+                        "start": 383,
+                        "end": 404,
+                        "text": "(Marsh, 1993, p. 851)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 774,
+                        "end": 786,
+                        "text": "Cohen (1988)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "In addition, the scale means of the two questionnaire versions were compared by running a MANOVA, supplemented by an analysis based on item level. The resulting reliability coefficients (Cronbach's \u03b1) and self-concept correlations of the manifest scales were inspected.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "To consider the relations with achievement (as one aspect of validity), the pathanalytical model of the I/E model in each group with 4 subjects was analyzed. To test potential effects of the presentation format (grid vs. traditional questionnaire), the relevant paths (i.e., the correlations of the grades and the path coefficients from the grades to the corresponding and noncorresponding self-concept factors) were constrained to be identical. A worse fit of the models with these constraints, especially the ones from the grades to the noncorresponding self-concept factors, was taken to indicate different comparison processes due to the presentation format.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "In the first analyses, two confirmatory factor analysis models were fitted to the covariance matrices based on the two separate groups. In both groups, the models provided at least an acceptable fit and very similar fit values. The fit indices reached a TLI value of .945 and an RMSEA value of .059 (90% CI = .055-.064) in the EG (i.e., grid format \u03c7 2 = 998.65, df = 410) and a TLI value of .940 and an RMSEA value of .065 (CI = .060-.069) in the CG (i.e., nongrid format \u03c7 2 = 1088.42, df = 410). Therefore, the postulated four-dimensional self-concept structure could be replicated in both groups. In an analysis in which the parameters in each group were estimated separately, the fit of this baseline model turned out to be equally good, as expected: TLI = .943 and RMSEA = .044 (CI = .042-.046). The factor loadings from this analysis-conducted within the two formats separately (Table 1)-were very similar for the grid and the nongrid versions of the questionnaire. The next step was to examine models with different constraints. The model with factor loadings constrained to be identical in both groups still showed an acceptable fit (TLI = .944; RMSEA = .043 ). This model did not have a statistically significantly worse fit than that of the baseline model (\u2206\u03c7 2 = 38.6, \u2206df = 28, p = .09), providing strong support for the minimal condition of factorial invariance. Furthermore, the factor covariances were restricted to be identical in both groups. Again, the fit of this model was not statistically different from that of the baseline model (TLI = .944; RMSEA = .043 [CI = .041-.046]; \u2206\u03c7 2 = 46.6, \u2206df = 34, p = .07). The same held for a model in which not only factor covariances but also factor loadings and factor variances were constrained (TLI = .944; RMSEA = .043 [CI = .041-.046]; \u2206\u03c7 2 = 54.4, \u2206df = 38, p = .04). Therefore, the results provided strong support for very similar factorial structures of the two versions of the questionnaire.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Factorial Invariance of the Two Questionnaire Formats",
+                "sec_num": null
+            },
+            {
+                "text": "A between-subjects MANOVA was performed on four dependent variables: math self-concept, physics self-concept, German self-concept, and English self-concept. The scales were formed by summing up the manifest values of the corresponding items. Using Wilks's criterion, the combined dependent variables were not shown to be statistically significantly different due to the different presentation formats, F(4, 798) = 2.300, p = .06, partial \u03b7 2 = .011. Table 2 shows the means and standard deviations of the four self-concept scales for both groups. With regard to item mean differences, the minimum difference was d = -0.08 (Item 2, self-concept in math), with a statistically and practically negligible higher item mean of the CG (p = .28). The mean and the median of these item differences reached d = 0.08. Only 3 of 32 mean differences were statistically significant (p < .01) and approached small effect sizes. These 3 items assessed participants' self-concept in English-Item 2, Item 6, and Item 1 with d = 0.21, d = 0.22, and d = 0.27, respectively. This was in accordance with the largest but still very small scale difference of the self-concept English scale, for which the mean of the EG was slightly higher.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 450,
+                        "end": 457,
+                        "text": "Table 2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Means, Homogeneity Coefficients, and Self-Concept Correlations",
+                "sec_num": null
+            },
+            {
+                "text": "In addition, the homogeneity coefficients were calculated for both groups separately. Cronbach's alphas were almost identical for both presentation formats of each scale: Math self-concept: EG \u03b1 = .95 and CG \u03b1 = .96; Physics self-concept: EG \u03b1 = .95 and CG \u03b1 = .96; German self-concept: EG \u03b1 = .94 and CG \u03b1 = .94; English selfconcept: EG \u03b1 = .95 and CG \u03b1 = .95. The correlations of the four manifest self-concept scales in both groups are presented in Table 3 (upper left square). Pairwise comparisons of the corresponding correlation coefficients revealed no single statistically significant difference. Calculating the effect size index q (Cohen, 1988) , the largest effects were the comparisons of the correlation coefficients of the self-concept in German and the self-concept in math (p = .06, q = 0.13) and the correlations of the self-concept in English and the selfconcept in German (p = .08, q = 0.12).",
+                "cite_spans": [
+                    {
+                        "start": 641,
+                        "end": 654,
+                        "text": "(Cohen, 1988)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 452,
+                        "end": 459,
+                        "text": "Table 3",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Means, Homogeneity Coefficients, and Self-Concept Correlations",
+                "sec_num": null
+            },
+            {
+                "text": "The correlation matrices of the self-concepts and the grades in both groups are presented in Table 3 . At first glance, they seemed to be very similar. I/E models with four self-concept factors corresponding to the four subjects were analyzed (Table 4) . In separate analyses, the fit turned out to be acceptable in the EG and the CG. As expected, the fit indices were also acceptable in the commonly used analyses (Model 3 in Table 4 ). Next, the correlation coefficients of the grades and the path coefficients from the grades to the corresponding and to the noncorresponding self-concept factors were constrained to be identical in both groups. The \u03c7 2 difference test for nested model comparison indicated that constraining these coefficients did not lead to a statistically significantly worse fit. The fit indices were acceptable and remained almost identical. In addition, constraining the factor loadings to be identical in both groups, the fit indices also remained almost equivalent. This was also the case when the paths of the I/E model as well as the factor loadings and the factor variances were constrained to be identical in both groups, indicating very similar self-concept constructs in both groups. Thus, the dimensional and social comparison processes addressed in the I/E model seemed to be independent of the presentation format.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 93,
+                        "end": 100,
+                        "text": "Table 3",
+                        "ref_id": "TABREF4"
+                    },
+                    {
+                        "start": 243,
+                        "end": 252,
+                        "text": "(Table 4)",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 427,
+                        "end": 434,
+                        "text": "Table 4",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Invariance of Self-Concept and Grade Relations",
+                "sec_num": null
+            },
+            {
+                "text": "Because the factorial structure and the pattern of results regarding the I/E model with four subjects were quite similar in both groups, these findings will be described together. In Model 6, the path coefficients from the grades in one subject to the selfconcepts in the corresponding subject were always substantial and positive. This is in accordance with the predictions derived from the I/E model. In addition, there were seven path coefficients from the grades in one subject to the self-concepts in other noncorresponding subjects that, in accordance with the I/E model, were statistically significant and negative. These were the paths from the grades in math to the selfconcepts in German and English, from the grades in physics to the self-concepts in English, and from the grades in German and English to the self-concepts in math and physics. Still, four path coefficients were not statistically significantly different from zero, and one was even positive. Better grades in math seemed to lead to better self- Note: TLI = Tucker-Lewis Index; RMSEA = root mean square error of approximation. Table 4 ). *p < .01. concepts in physics in both groups, a result that stands in contrast to the predictions derived from the application of the I/E model to more than two subjects (see Table 5 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 1104,
+                        "end": 1111,
+                        "text": "Table 4",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 1290,
+                        "end": 1297,
+                        "text": "Table 5",
+                        "ref_id": "TABREF6"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Invariance of Self-Concept and Grade Relations",
+                "sec_num": null
+            },
+            {
+                "text": "Previous research on item-blocking effects within the investigation of psychometric properties of questionnaires as well as their individual subscales provided equivocal results. Comparing a blocked with a more traditional randomized format of a reliable multi-item and multifaceted self-concept questionnaire, the findings of our experimental study revealed no marked differences regarding the factorial structure, the psychometric properties, and the scale means. Because of the sample size, it seems quite improbable to attribute this to a lack of statistical power.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Whereas most of the former studies dealt with psychological concepts (e.g., aspects of satisfaction, personality, symptom checklists) for which there were no convincing theoretical or empirical arguments concerning the impact of item-blocking effects, we had \"sound reason to believe\" that the assessment of academic selfconcepts could be subject to item context effects. If the grid arrangement influenced the dimensional (internal) comparison processes relevant for self-concept formation systematically and consistently, significant changes of factor loadings, factor correlations, and the path coefficients of the I/E model should have arisen. In confirmatory multiple group analyses, no such differences emerged in the current study. It is important to note that the identified scale means, standard deviations, and homogeneities were similar. Adhering to Cohen's (1988) classification of effect sizes, even the largest scale mean difference (self-concept English) was negligible. Analyzing item differences, we observed only three statistically significant differences. Therefore, neither of the two extreme presentation forms was superior with regard to any of the examined psychometric properties, at least on a scale level, corroborating conclusions drawn by Schriesheim et al. (1989) . Therefore, we hold that no relevant effects of an extreme form of item blocking regarding multiple aspects of reliability and validity of an academic self-concept questionnaire existed in our study.",
+                "cite_spans": [
+                    {
+                        "start": 861,
+                        "end": 875,
+                        "text": "Cohen's (1988)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1268,
+                        "end": 1293,
+                        "text": "Schriesheim et al. (1989)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "One possible criticism of our study might apply to the use of a rather specific concept, that is, academic self-concept. Therefore, high alpha coefficients might be expected, which might prevent detecting differences in the homogeneities between the two presentation modes because of ceiling effects. On the other hand, there are certain advantages of using academic self-concept. Academic self-concept is a very wellstudied construct. Especially the theoretical elaboration, the adaptation of adequate measurement instruments and the existence of established models like the I/E model (Marsh, 1986 ) make academic self-concept appear as a concept superior to many other psychological concepts investigating potential effects of item-context effects. In addition, there are empirical results pointing out that measures of the self are sensitive to item-context effects (Marsh & Yeung, 1999) . Therefore, although the homogeneity coefficients are high in both presentation modes, the other presented results seem to contradict that this is simply an artifact due to the operationalization of a narrow con-cept. Indeed, it is necessary to further investigate whether our results can be replicated with more general psychological constructs.",
+                "cite_spans": [
+                    {
+                        "start": 586,
+                        "end": 598,
+                        "text": "(Marsh, 1986",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 869,
+                        "end": 890,
+                        "text": "(Marsh & Yeung, 1999)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Another future research direction might be to vary systematically further characteristics of the item presentation, for instance, a systematic variation of the distance between the items of the nongrid questionnaire measuring a latent factor. For example, some authors of questionnaires order the items to maximize the distance of the items forming a scale (e.g., Costa & McCrae, 1992) . In our study, we reduced the distance between items forming a scale in the grid presentation, which is an extreme variation of the item presentation, thus maximizing a detection of potential effects of the item presentation.",
+                "cite_spans": [
+                    {
+                        "start": 364,
+                        "end": 385,
+                        "text": "Costa & McCrae, 1992)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Although there were no relevant differences between the psychometric properties of the two versions, the grid questionnaire did show some advantages. First, students in the EG needed less than half of the time to fill out the questionnaire compared to the CG because they only had to read one item stem once to answer the corresponding four self-concept items. In addition, students in the CG considered it boring to repeatedly read highly identical items (only varying with regard to the subject in question). Hence, using a grid presentation format might be suggested to raise participants' compliance.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Further research is needed to figure out whether our results can be generalized to other populations, questionnaires, and assessment settings. It would be worthwhile to analyze the grid presentation format using other personality scales as well. Potential areas of application arise if one is interested in one psychological variable referring to different content areas (e.g., different subjects as in our study, different frames of reference, different time intervals, etc.). Hence, even well-known instruments such as the State Trait Anxiety Inventory (Spielberger, Gorsuch, & Lushene, 1970) could be presented more economically using a grid with one column to measure trait and another to measure state anxiety.",
+                "cite_spans": [
+                    {
+                        "start": 555,
+                        "end": 594,
+                        "text": "(Spielberger, Gorsuch, & Lushene, 1970)",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Comparison of embedded and isolated administrations of the California Psychological Inventory's Socialization subscale",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Alterman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Mcdermott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Mulvaney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Caccioly",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Rutherford",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Searles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Psychological Assessment",
+                "volume": "15",
+                "issue": "",
+                "pages": "64--70",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Alterman, A. I., McDermott, P. A., Mulvaney, F. D., Caccioly, J. S., Rutherford, M. J., Searles, J. S., et al. (2003). Comparison of embedded and isolated administrations of the California Psychological Inven- tory's Socialization subscale. Psychological Assessment, 15, 64-70.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Standards for educational and psychological testing",
+                "authors": [],
+                "year": 1999,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "American Educational Research Association. (1999). Standards for educational and psychological testing. Washington, DC: Author.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "A simplified procedure for the measurement of employee attitudes",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Baehr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1953,
+                "venue": "Journal of Applied Psychology",
+                "volume": "37",
+                "issue": "",
+                "pages": "163--167",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baehr, M. E. (1953). A simplified procedure for the measurement of employee attitudes. Journal of Applied Psychology, 37, 163-167.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Academic self-concept: Its structure, measurement, and relation to academic achievement",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "287--316",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (1996). Academic self-concept: Its structure, measurement, and relation to academic achieve- ment. In B. A. Bracken (Ed.), Handbook of self-concept: Development, social, and clinical consider- ations (pp. 287-316). New York: John Wiley.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Structural equation modelling with AMOS: Basic concepts, applications and programming",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Byrne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Byrne, B. M. (2001). Structural equation modelling with AMOS: Basic concepts, applications and program- ming. Mahwah, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Statistical power analysis for the behavioral sciences",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). New York: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Revised NEO Personality Inventory (NEO-PI) and NEO Five Factor Inventory: Professional manual",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Costa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Mccrae",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Costa, P. T., & McCrae, R. R. (1992). Revised NEO Personality Inventory (NEO-PI) and NEO Five Factor Inventory: Professional manual. Odessa, FL: Psychological Assessment Resources.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "SCL-90-R: Self-Report Symptom Inventory",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Derogatis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Derogatis, L. R. (1986). SCL-90-R: Self-Report Symptom Inventory. In Collegium Internationale Psychiatriae Scalarum (Eds.), Internationale Skalen f\u00fcr Psychiatrie [International psychiatric scales].",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "The Eysenck Personality Profiler and Eysenck's theory of personality. London: Corporate Assessment Network",
+                "authors": [
+                    {
+                        "first": "H.-J",
+                        "middle": [],
+                        "last": "Eysenck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Eysenck, H.-J. (1995). The Eysenck Personality Profiler and Eysenck's theory of personality. London: Cor- porate Assessment Network, Ltd.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Effekte der Typographie und Itempositionierung in der Fragebogendiagnostik [Effects of typography and item position in diagnostic inventories",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Franke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Zeitschrift f\u00fcr Differentielle und Diagnostische Psychologie",
+                "volume": "17",
+                "issue": "",
+                "pages": "187--200",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Franke, G. H. (1996). Effekte der Typographie und Itempositionierung in der Fragebogendiagnostik [Effects of typography and item position in diagnostic inventories]. Zeitschrift f\u00fcr Differentielle und Diagnostische Psychologie, 17, 187-200.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "The whole is more than the sum of its parts\": The effect of grouping and randomizing items on the reliability and validity of questionnaires",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Franke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "European Journal of Psychological Assessment",
+                "volume": "13",
+                "issue": "",
+                "pages": "67--74",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Franke, G. H. (1997). \"The whole is more than the sum of its parts\": The effect of grouping and randomizing items on the reliability and validity of questionnaires. European Journal of Psychological Assessment, 13, 67-74.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Auswirkungen der PC-gest\u00fctzten Anwendung des Freiburger Pers\u00f6nlichkeitsinventars unter besonderer Ber\u00fccksichtigung der Itemreihenfolge: Eine experimentelle Studie",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Franke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Franke, G. H. (1998). Auswirkungen der PC-gest\u00fctzten Anwendung des Freiburger Pers\u00f6nlich- keitsinventars unter besonderer Ber\u00fccksichtigung der Itemreihenfolge: Eine experimentelle Studie [Effects of computer administration on the Freiburger Personality Inventory with a special focus on the item sequence: An experimental study].",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Effekte der Computeradministration bei der Symptom-Checkliste (SCL-90-R) unter besonderer Ber\u00fccksichtigung der Itemreihenfolge",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Franke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Franke, G. H. (1999). Effekte der Computeradministration bei der Symptom-Checkliste (SCL-90-R) unter besonderer Ber\u00fccksichtigung der Itemreihenfolge [Effects of computer administration on the Symptom Checklist (SCL-90-R) with a special focus on the item sequence].",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Reliabilit\u00e4t und Validit\u00e4t der Symptom-Checkliste",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Franke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.-H",
+                        "middle": [],
+                        "last": "St\u00e4cker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Franke, G. H., & St\u00e4cker, K.-H. (1995). Reliabilit\u00e4t und Validit\u00e4t der Symptom-Checkliste (SCL-90-R;",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "bei Standardreihenfolge versus inhaltshomogener Itemblockbildung",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Derogatis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Derogatis, 1986) bei Standardreihenfolge versus inhaltshomogener Itemblockbildung [Reliability and validity of the Symptom Checklist (SCL-90-R;",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "standardized versus homogenous item-blocked sequence",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Derogatis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Derogatis, 1986) in standardized versus homogenous item-blocked sequence].",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "The California Personality Inventory manual",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Gough",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Bradley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gough, H. G., & Bradley, P. (1996). The California Personality Inventory manual (3rd ed.). Palo Alto, CA: Consulting Psychologists Press.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Item context effects on personality scales: Measuring changes the measure",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Knowles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "55",
+                "issue": "",
+                "pages": "312--320",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Knowles, E. S. (1988). Item context effects on personality scales: Measuring changes the measure. Journal of Personality and Social Psychology, 55, 312-320.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Reliability shifts in measurement reactivity: Driven by content engagement or self-engagement?",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Knowles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Byers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "70",
+                "issue": "",
+                "pages": "1080--1090",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Knowles, E. S., & Byers, B. (1996). Reliability shifts in measurement reactivity: Driven by content engage- ment or self-engagement? Journal of Personality and Social Psychology, 70, 1080-1090.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Effekte von Bewerbungsinstruktion und Subskalenextraktion in der Fragebogendiagnostik [Effects of a application instruction and extraction of subscales on questionnaire assessment",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Krampen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Krampen, G. (1993). Effekte von Bewerbungsinstruktion und Subskalenextraktion in der Fragebogen- diagnostik [Effects of a application instruction and extraction of subscales on questionnaire assess- ment].",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Reliabilit\u00e4t und Validit\u00e4t von Fragebogenskalen bei Standardreihenfolge versus inhaltshomogener Blockbildung ihrer Items [Reliability and validity of questionnaire subscales in standardized versus homogenous item-blocked sequence",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Krampen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Hense",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Schneider",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "39",
+                "issue": "",
+                "pages": "229--248",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Krampen, G., Hense, H., & Schneider, J. F. (1992). Reliabilit\u00e4t und Validit\u00e4t von Fragebogenskalen bei Standardreihenfolge versus inhaltshomogener Blockbildung ihrer Items [Reliability and validity of questionnaire subscales in standardized versus homogenous item-blocked sequence]. Zeitschrift f\u00fcr Experimentelle und Angewandte Psychologie, 39, 229-248.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "A comparison of the use of scrambled and blocked items in a multi-scale school attitude inventory",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Lyman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1949,
+                "venue": "Journal of Educational Research",
+                "volume": "43",
+                "issue": "",
+                "pages": "287--292",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lyman, H. B. (1949). A comparison of the use of scrambled and blocked items in a multi-scale school atti- tude inventory. Journal of Educational Research, 43, 287-292.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Verbal and math self-concepts: An internal/external frame of reference model",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "American Educational Research Journal",
+                "volume": "23",
+                "issue": "",
+                "pages": "129--149",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1986). Verbal and math self-concepts: An internal/external frame of reference model. Ameri- can Educational Research Journal, 23, 129-149.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Self-Description Questionnaire II: Manual",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1990). Self-Description Questionnaire II: Manual. Sydney, Australia: University of Western Sidney.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "The multidimensional structure of academic self-concept: Invariance over gender and age",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "American Educational Research Journal",
+                "volume": "30",
+                "issue": "",
+                "pages": "841--860",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W. (1993). The multidimensional structure of academic self-concept: Invariance over gender and age. American Educational Research Journal, 30, 841-860.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "An evaluation of incremental fit indices: A clarification of mathematical and empirical process",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Balla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Hau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Advanced structural equation modeling techniques",
+                "volume": "",
+                "issue": "",
+                "pages": "315--353",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Balla, J. R., & Hau, K. T. (1996). An evaluation of incremental fit indices: A clarification of mathematical and empirical process. In G. A. Marcoulides & R. E. Schumacker (Eds.), Advanced struc- tural equation modeling techniques (pp. 315-353). Hillsdale, NJ: Lawrence Erlbaum.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Goodness-of-fit indexes in confirmatory factor analysis: The effect of sample size",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Balla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Mcdonald",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Psychological Bulletin",
+                "volume": "103",
+                "issue": "",
+                "pages": "391--410",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Balla, J. R., & McDonald, R. P. (1988). Goodness-of-fit indexes in confirmatory factor analy- sis: The effect of sample size. Psychological Bulletin, 103, 391-410.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Separation of competency and affect components of multiple dimensions of academic self-concept: A developmental perspective",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Craven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Debus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Merrill-Palmer Quarterly",
+                "volume": "45",
+                "issue": "",
+                "pages": "567--601",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., Craven, R., & Debus, R. (1999). Separation of competency and affect components of multiple dimensions of academic self-concept: A developmental perspective. Merrill-Palmer Quarterly, 45, 567-601.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "The lability of psychological ratings: The chameleon effect in global self-esteem",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Personality and Social Psychology Bulletin",
+                "volume": "25",
+                "issue": "",
+                "pages": "49--64",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Marsh, H. W., & Yeung, A. S. (1999). The lability of psychological ratings: The chameleon effect in global self-esteem. Personality and Social Psychology Bulletin, 25, 49-64.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Die Genese akademischer Selbstkonzepte: Effekte dimensionaler und sozialer Vergleiche [On the development of academic self-concepts: The impact of social and dimensional comparisons",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u00f6ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "K\u00f6ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f6ller, J., & K\u00f6ller, O. (2004). Die Genese akademischer Selbstkonzepte: Effekte dimensionaler und sozialer Vergleiche [On the development of academic self-concepts: The impact of social and dimen- sional comparisons].",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "On changing the position of items in personality questionnaires: Analyzing effects of item sequence using IRT",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ortner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Psychology Science",
+                "volume": "46",
+                "issue": "",
+                "pages": "466--476",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ortner, T. M. (2004). On changing the position of items in personality questionnaires: Analyzing effects of item sequence using IRT. Psychology Science, 46, 466-476.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Itempositionsver\u00e4nderungen in Pers\u00f6nlichkeitsfragebogen: Methodischer Kunstfehler oder tolerierbare Praxis? [Changing the position of items in personality questionnaires: Methodological malpractice or tolerable practice",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Rost",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hoberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rost, D. H., & Hoberg, K. (1997). Itempositionsver\u00e4nderungen in Pers\u00f6nlichkeitsfragebogen: Methodischer Kunstfehler oder tolerierbare Praxis? [Changing the position of items in personality ques- tionnaires: Methodological malpractice or tolerable practice?].",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Facetten des schulischen Selbstkonzepts. Ein Verfahren zur Messung des differentiellen Selbstkonzepts schulischer Leistungen und F\u00e4higkeiten (DISK-Gitter) [Facets of academic self-concept. Development of a self-concept grid: Psychometric properties and some validity data",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Rost",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Sparfeldt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rost, D. H., & Sparfeldt, J. R. (2002). Facetten des schulischen Selbstkonzepts. Ein Verfahren zur Messung des differentiellen Selbstkonzepts schulischer Leistungen und F\u00e4higkeiten (DISK-Gitter) [Facets of academic self-concept. Development of a self-concept grid: Psychometric properties and some validity data].",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Differentielles Schulisches Selbstkonzept-Gitter",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Rost",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Sparfeldt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Schilling",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rost, D. H., Sparfeldt, J. R., & Schilling, S. R. (2006). Differentielles Schulisches Selbstkonzept-Gitter [Dif- ferential Academic Self-Concept Grid].",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Schulische Selbstkonzepte: Zur Validit\u00e4t einer erweiterten Version des Differentiellen Selbstkonzept Gitters (DISK-Gitter) [Facets of academic self-concept: Validity of the Differential Self",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Schilling",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Sparfeldt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Rost",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Nickels",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schilling, S. R., Sparfeldt, J. R., Rost, D. H., & Nickels, G. (2005). Schulische Selbstkonzepte: Zur Validit\u00e4t einer erweiterten Version des Differentiellen Selbstkonzept Gitters (DISK-Gitter) [Facets of academic self-concept: Validity of the Differential Self-Concept Grid (DISC-Grid)].",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Item presentation as an influence on questionnaire validity: A field experiment",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Schriesheim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Denisi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1980,
+                "venue": "Educational and Psychological Measurement",
+                "volume": "40",
+                "issue": "",
+                "pages": "175--182",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schriesheim, C. A., & DeNisi, A. S. (1980). Item presentation as an influence on questionnaire validity: A field experiment. Educational and Psychological Measurement, 40, 175-182.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "The effect of grouped versus randomized questionnaire format on scale reliability and validity: A three-study investigation",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Schriesheim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Kopelman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Solomon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Measurement",
+                "volume": "49",
+                "issue": "",
+                "pages": "487--508",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schriesheim, C. A., Kopelman, R. E., & Solomon, E. (1989). The effect of grouped versus randomized ques- tionnaire format on scale reliability and validity: A three-study investigation. Educational and Psycho- logical Measurement, 49, 487-508.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Self-reports: How the questions shape the answers",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Schwarz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "American Psychologist",
+                "volume": "54",
+                "issue": "",
+                "pages": "93--105",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schwarz, N. (1999). Self-reports: How the questions shape the answers. American Psychologist, 54, 93-105.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Questionnaire format and scale reliability: An examination of three modes of item presentation",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Solomon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Kopelman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Psychological Reports",
+                "volume": "54",
+                "issue": "",
+                "pages": "447--452",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Solomon, E., & Kopelman, R. E. (1984). Questionnaire format and scale reliability: An examination of three modes of item presentation. Psychological Reports, 54, 447-452.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Manual for the State-Trait Anxiety Inventory",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Spielberger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Gorsuch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lushene",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1970,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Spielberger, C. D., Gorsuch, R. L., & Lushene, R. E. (1970). Manual for the State-Trait Anxiety Inventory. Palo Alto, CA: Consulting Psychologists Press.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Context and serial-order effects in personality measurement: Limits on the generality of measuring changes the measure",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Steinberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Journal of Personality and Social Psychology",
+                "volume": "66",
+                "issue": "",
+                "pages": "341--349",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Steinberg, L. (1994). Context and serial-order effects in personality measurement: Limits on the generality of measuring changes the measure. Journal of Personality and Social Psychology, 66, 341-349.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Cognitive processes underlying context effects in attitude measurement",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Tourangeau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Rasinski",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Psychological Bulletin",
+                "volume": "103",
+                "issue": "",
+                "pages": "299--314",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tourangeau, R., & Rasinski, K. A. (1988). Cognitive processes underlying context effects in attitude mea- surement. Psychological Bulletin, 103, 299-314.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "A reliability coefficient for maximum likelihood factor analysis. Psychometrika",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Tucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Lewis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1973,
+                "venue": "",
+                "volume": "38",
+                "issue": "",
+                "pages": "1--10",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tucker, L. R., & Lewis, C. (1973). A reliability coefficient for maximum likelihood factor analysis. Psycho- metrika, 38, 1-10.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "num": null,
+                "text": "Sparfeldt et al. / Blocked Versus Randomized Format 967",
+                "type_str": "table",
+                "content": "<table/>"
+            },
+            "TABREF1": {
+                "num": null,
+                "text": "",
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td colspan=\"6\">Standardized Regression Coefficients (grid vs. nongrid)</td><td/></tr><tr><td/><td/><td>Math</td><td/><td>Physics</td><td/><td>German</td><td/><td>English</td></tr><tr><td>Item No.</td><td>Grid</td><td>Nongrid</td><td>Grid</td><td>Nongrid</td><td>Grid</td><td>Nongrid</td><td>Grid</td><td>Nongrid</td></tr><tr><td>1</td><td>.89</td><td>.89</td><td>.88</td><td>.91</td><td>.86</td><td>.77</td><td>.88</td><td>.87</td></tr><tr><td>2</td><td>.85</td><td>.84</td><td>.83</td><td>.84</td><td>.81</td><td>.77</td><td>.84</td><td>.83</td></tr><tr><td>3</td><td>.82</td><td>.88</td><td>.83</td><td>.88</td><td>.79</td><td>.83</td><td>.83</td><td>.80</td></tr><tr><td>4</td><td>.67</td><td>.76</td><td>.71</td><td>.80</td><td>.70</td><td>.65</td><td>.75</td><td>.79</td></tr><tr><td>5</td><td>.88</td><td>.93</td><td>.86</td><td>.93</td><td>.86</td><td>.87</td><td>.88</td><td>.87</td></tr><tr><td>6</td><td>.85</td><td>.87</td><td>.79</td><td>.80</td><td>.77</td><td>.84</td><td>.80</td><td>.86</td></tr><tr><td>7</td><td>.91</td><td>.94</td><td>.90</td><td>.92</td><td>.86</td><td>.88</td><td>.89</td><td>.92</td></tr><tr><td>8</td><td>.88</td><td>.88</td><td>.85</td><td>.92</td><td>.79</td><td>.82</td><td>.85</td><td>.87</td></tr></table>"
+            },
+            "TABREF2": {
+                "num": null,
+                "text": "",
+                "type_str": "table",
+                "content": "<table><tr><td/><td colspan=\"2\">Experimental: Grid</td><td colspan=\"2\">Control: Nongrid</td><td/></tr><tr><td>Self-Concept</td><td>M</td><td>SD</td><td>M</td><td>SD</td><td>d</td></tr><tr><td>Math</td><td>29.2</td><td>10.6</td><td>29.2</td><td>10.9</td><td>0.00</td></tr><tr><td>Physics</td><td>26.5</td><td>9.8</td><td>25.8</td><td>10.6</td><td>0.07</td></tr><tr><td>German</td><td>30.7</td><td>8.9</td><td>30.3</td><td>8.6</td><td>0.05</td></tr><tr><td>English</td><td>29.9</td><td>9.5</td><td>28.0</td><td>9.9</td><td>0.19</td></tr></table>"
+            },
+            "TABREF4": {
+                "num": null,
+                "text": "",
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td colspan=\"2\">Self-Concept</td><td/><td/><td>Grade</td><td/><td/></tr><tr><td/><td>Math</td><td colspan=\"3\">Physics German English</td><td>Math</td><td colspan=\"3\">Physics German English</td></tr><tr><td>Self-concept</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Math</td><td>.-</td><td>.52</td><td>-.20</td><td>-.19</td><td>.67</td><td>.29</td><td>-.09</td><td>-.05</td></tr><tr><td>Physics</td><td>.52</td><td>.-</td><td>-.09</td><td>-.11</td><td>.36</td><td>.55</td><td>-.03</td><td>-.01</td></tr><tr><td>German</td><td>-.07</td><td>-.01</td><td>.-</td><td>.27</td><td>-.12</td><td>.03</td><td>.61</td><td>.18</td></tr><tr><td>English</td><td>-.19</td><td>-.05</td><td>.38</td><td>.-</td><td>-.10</td><td>-.05</td><td>.25</td><td>.64</td></tr><tr><td>Grade</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Math</td><td>.73</td><td>.35</td><td>-.07</td><td>-.08</td><td>.-</td><td>.48</td><td>.22</td><td>.22</td></tr><tr><td>Physics</td><td>.36</td><td>.57</td><td>.04</td><td>.03</td><td>.46</td><td>.-</td><td>.32</td><td>.26</td></tr><tr><td>German</td><td>.02</td><td>.00</td><td>.59</td><td>.31</td><td>.27</td><td>.28</td><td>.-</td><td>.44</td></tr><tr><td>English</td><td>-.05</td><td>-.05</td><td>.24</td><td>.64</td><td>.20</td><td>.23</td><td>.51</td><td>.-</td></tr><tr><td colspan=\"9\">Note: Experimental group, grid: lower left triangle; comparison group, nongrid: upper right triangle.</td></tr></table>"
+            },
+            "TABREF5": {
+                "num": null,
+                "text": "",
+                "type_str": "table",
+                "content": "<table><tr><td>Model</td><td>\u03c7 2</td><td>df</td><td>\u2206\u03c7 2</td><td>\u2206df</td><td>p</td><td>TLI</td><td colspan=\"2\">RMSEA RMSEA 90%</td></tr><tr><td>1. Grid only</td><td>1435.7</td><td>528</td><td/><td/><td/><td>.925</td><td>.065</td><td>\u00b1.004</td></tr><tr><td>2. Nongrid only</td><td>1540.8</td><td>528</td><td/><td/><td/><td>.920</td><td>.070</td><td>\u00b1.004</td></tr><tr><td>3. Grid and nongrid</td><td>2976.5</td><td>1056</td><td/><td/><td/><td>.922</td><td>.048</td><td>\u00b1.002</td></tr><tr><td>4. Constrained:</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>I/E model paths</td><td>2996.1</td><td>1082</td><td>19.6</td><td>26</td><td colspan=\"2\">.81 .925</td><td>.047</td><td>\u00b1.002</td></tr><tr><td>5. Constrained:</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>I/E model paths,</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>factor loadings</td><td>3035.6</td><td>1110</td><td>59.1</td><td>54</td><td colspan=\"2\">.29 .926</td><td>.047</td><td>\u00b1.002</td></tr><tr><td>6. Constrained:</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>I/E model paths,</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>factor loadings,</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>factor variances</td><td>3047.0</td><td>1114</td><td>70.5</td><td>58</td><td colspan=\"2\">.13 .926</td><td>.047</td><td>\u00b1.002</td></tr></table>"
+            },
+            "TABREF6": {
+                "num": null,
+                "text": "",
+                "type_str": "table",
+                "content": "<table><tr><td>Grade</td></tr></table>"
+            }
+        }
+    }
+}
